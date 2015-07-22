@@ -1,0 +1,511 @@
+@CHARSET "UTF-8";
+
+/* 	Color Legend
+	background gray: #151F1D #202020
+	text color: #2c2c2c
+	picture dimensions 560x310px
+  */
+
+body {
+	padding-top: 50px;
+	color: #151F1D;
+	font-size: 14 px;
+	font-family: 'Open Sans', sans-serif;
+	/*background-image: url("back.jpg");*/
+	/*background-repeat: no-repeat;*/
+	/*background-attachment: fixed;*/
+	/*background-size: 100% 100%;*/
+}
+
+.starter-template {
+	padding: 40px 15px;
+	text-align: center;
+}
+
+.navbar-brand {
+	margin: 0;
+	padding: 0 0 0 15px;
+}
+
+.navbar-brand .backImage {
+	margin: 0;
+	padding: 0 0 0 15px;
+	background-image: url('../images/logo/logo.png');
+	background-size: 240px 50px;
+	height: 50px;
+	width: 240px;
+    background-repeat: no-repeat;
+    position: relative;
+    cursor: pointer;
+    color: white;
+}
+
+.navbar-brand h1 {
+	position: absolute;
+	font-size: 0.8em;
+	margin-left: 30px;
+	margin-top: 30px;
+    padding: 0;
+    color: inherit;
+}
+
+.navbar-inverse {
+	background-color: rgba(256, 256, 256, 0.5);
+	border: 0px;
+}
+
+.navbar-inverse .container {
+	background-color: #151F1D;
+	padding-left: 0px;
+}
+
+.navbar {
+	color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: inherit;
+	outline:none;
+
+}
+
+.navbar-inverse .navbar-nav>li>a:HOVER,
+.navbar-brand .backImage:HOVER {
+	background-color:rgba(255,255,255,0.1);
+	color:rgba(255,255,255,0.8);
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.btn-primary:HOVER,
+.btn-primary:FOCUS {
+	background-color:rgba(0,0,0,0.9);
+	border-color: white;
+}
+
+.navbar-inverse .navbar-text {
+	color: white;
+	margin: 10px;
+}
+
+.navbar-text>a {
+	color: inherit;
+	margin-right: 5px;
+}
+
+.navbar-text>a:HOVER,
+.footerText a:HOVER {
+	cursor: pointer;
+	color:rgba(255,255,255,0.4);
+}
+
+.container {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.centralCarousel {
+	width: 75%;
+	float: left;
+	padding: 1px;
+}
+
+.centralCarousel h3{
+    margin: 0;
+    color: inherit;
+    font-size: 1.7em;
+}
+
+.centralCarousel .item{
+    background: #333;
+    text-align: center;
+    height: 300px !important;
+}
+.centralCarousel .carousel-inner img {
+	width: 100%;
+	margin: auto;
+}
+.centralCarousel .carousel-caption {
+	padding-bottom: 10px;
+	padding-top: 0px;
+ 	text-shadow:
+   		 -1px -1px 3px #000,
+  		  1px -1px 3px #000,
+  	     -1px 1px 3px #000,
+          1px 1px 3px #000;
+}
+
+.centralCarousel .carousel-indicators {
+	bottom: 10px;
+}
+
+.reviewLayout {
+	width: 25%;
+	padding: 1px;
+	height: 302px;
+	float: left;
+
+}
+.reviewsArea {
+	cursor: pointer;
+	height: 100%;
+	overflow: hidden;
+}
+.reviewsArea .reviewTitle {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.2em;
+}
+
+.reviewsArea .carousel {
+	height: 90%;
+	padding: 5px 10px;
+}
+
+.reviewsArea .carousel-caption {
+	position: static;
+	color: inherit;
+	text-align: justify;
+	padding: 0;
+	text-shadow: none;
+	bottom: 0px;
+	height: 100%;
+}
+
+.reviewsArea .item,
+.reviewsArea .carousel-inner,
+.reviewsArea p{
+	height: 100%;
+	margin: 0px;
+	font-size: 0.98em;
+	font-family: 'Merienda', cursive;
+}
+
+.reviewsArea .reviewInfo {
+	height: 10%;
+    padding-right: 5px;
+    text-align: right;
+    font-size: 1.2em;
+}
+
+.defaultClickEvents:HOVER,
+ div#columns figure:hover {
+	background-color: #151F1D;
+	color: white;
+	cursor: pointer;
+}
+
+.defaultClickEvents:ACTIVE
+{
+    background-color: #949494;
+}
+
+.defaultClickEvents:FOCUS
+{
+    outline: none;
+}
+
+.categoryLayout {
+	width: 100%;
+	position: relative;
+}
+
+.anchor {
+	position: absolute;
+	top: -60px;
+}
+
+ .titleLayout {
+	padding: 10px;
+	background-color: #151F1D;
+	margin: 20px 0 10px 0;
+}
+.titleLayout h3{
+	margin: 0px;
+	font-size: 1.6em;
+	color: white;
+}
+
+/*------------------------------------*\
+    $CAROUSEL
+\*------------------------------------*/
+.carouselHomePage {
+	color: inherit;
+	width: 25%;
+	padding: 5px;
+	float: left;
+}
+
+
+.carouselContent {
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+}
+
+.carouselPanes {
+	max-height: 160px;
+	list-style: none;
+	position: relative;
+	width: 300%; /* Number of panes * 100% */
+	overflow : hidden;
+	/* This is used solely to clear floats, it does not add functionality. */
+	-moz-animation: carousel 60s infinite;
+	-webkit-animation: carousel 60s infinite;
+	animation: carousel 60s infinite;
+	overflow: hidden;
+	padding: 0px;
+	margin: 0 0 4px 0;
+}
+
+.carouselSimpleImagePane {
+	max-height: 160px;
+	height: 70%;
+	overflow: hidden;
+}
+
+.carouselPanes>li {
+	position: relative;
+	float: left;
+	width: 33.333333333333%; /* 100 / number of panes */
+}
+
+.carouselContent img {
+	display: block;
+	max-width: 100%;
+	width: 100%;
+}
+
+.carouselText {
+	font-size: 1.6em;
+	text-align: left;
+	padding: 3px 0 0 0;
+}
+
+.carouselTitle {
+	float:left;
+	overflow: hidden;
+	margin: 0 5px 5px 0;
+	text-align: left;
+}
+
+.carouselInfo {
+	font-size: 0.53em;
+	text-align: right;
+	margin: 0;
+	padding: 0 0 0 2px;
+}
+
+/* @keyframes carousel{
+    0%    { left:0; }
+    11%   { left:0; }
+    12.5% { left:-100%; }
+    23.5% { left:-100%; }
+    25%   { left:-200%; }
+    36%   { left:-200%; }
+    37.5% { left:-300%; }
+    48.5% { left:-300%; }
+    50%   { left:-400%; }
+    61%   { left:-400%; }
+    62.5% { left:-300%; }
+    73.5% { left:-300%; }
+    75%   { left:-200%; }
+    86%   { left:-200%; }
+    87.5% { left:-100%; }
+    98.5% { left:-100%; }
+    100%  { left:0; }
+} */
+
+@keyframes carousel{
+    0%   { left:0; }
+    24%  { left:0; }
+    25%  { left:-100%; }
+    49%  { left:-100%; }
+    50%  { left:-200%; }
+    74%  { left:-200%; }
+    75%  { left:-100%; }
+    99%  { left:-100%; }
+    100% { left:0; }
+}
+
+.starter-template {
+	border-top: 1px solid #151F1D;
+}
+
+.starter-template h1 {
+	font-size: 2em;
+}
+.starter-template img {
+	width: 100%;
+}
+
+.footerText {
+	float: right;
+}
+
+.footerText a {
+	color: white;
+}
+
+.btn-primary {
+    background-color: #151F1D;
+    border-color: #151F1D;
+    color: #fff;
+    font-size: 1.2em;
+}
+
+.modal textarea{
+	max-width: 100%;
+	min-width: 100%;
+}
+
+@media(max-width:320px) {
+	.navbar-brand img{
+		width: 200px;
+	}
+}
+
+@media(max-width:480px) {
+	.carouselHomePage {
+		width: 100%
+	}
+	
+	.centralCarousel .item {
+   		height: 200px !important;
+}
+}
+	
+@media(min-width:481px){
+	.carouselHomePage {
+		width: 50%
+	}
+}
+
+@media(min-width:767px){
+	.carouselHomePage {
+		width: 50%
+	}
+}
+
+@media(max-width:768px) {
+	.reviewLayout,
+	.centralCarousel {
+		width: 100%;
+	}
+	.reviewLayout {
+		height: 200px;
+	}
+	.reviewsArea .carousel {
+		height: 60%;
+	}
+}
+
+@media(min-width:992px){
+	.carouselHomePage {
+		width: 33.333333%
+	}
+   	.fourthCarouselBox {
+		clear: both;
+	}
+}
+@media(min-width:1200px){
+	.carouselHomePage {
+		width: 25%;
+	}
+   	.fourthCarouselBox {
+		clear: none;
+	}
+}
+
+@media (max-width: 991px) {
+	.thirdCarouselBox {
+		clear: both;
+	}
+}
+
+ /* PAGE */
+.pageImageList img{
+	width: 50%;
+	padding: 1px;
+	float:right;
+	height: 400px;
+}
+
+/* ACCOMMODATION */
+
+
+.pageMotto {
+	width: 100%;
+	padding: 40px 100px 100px 100px;
+	background-image: url("../pages/accommodation/pictures/introBackground.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+.pageMotto h1{
+	font-size: 4em;
+}
+
+.roomReservation {
+	width: 100%;
+	padding: 5% 20%;
+}
+
+.roomReservation .input-group,
+.roomReservation p {
+	padding: 1%;
+	width: 100%;
+}
+
+.input-group textarea {
+	resize: vertical;
+}
+
+.roomReservation .add_more_rooms {
+	padding-left: 2%;
+}
+
+.roomReservation .remove_field:HOVER,
+.roomReservation .add_more_rooms:HOVER {
+	cursor: pointer;
+	color: red;
+}
+
+.roomReservation .submitButton {
+	width: 98%;
+	margin: 1%;
+}
+
+.defaultImagePage{
+	width: 33%;
+	padding: 1px;
+	float:left;
+	display: inline-block;
+}
+.defaultImagePage img {
+	width:100%;
+}
+
+div#columns figure {
+	width: 32%;
+	margin: 0.5%;
+	background-color:rgba(256, 256, 256, 0.8);
+	box-shadow: 0px 3px 5px rgba(34, 25, 25, 0.4);
+	padding: 1%;
+    display: inline-block;
+    column-break-inside: avoid;
+}
+
+div#columns figure img {
+	width: 100%;
+	height: auto;
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 15px;
+	margin-bottom: 5px;
+}
+
+div#columns figure figcaption {
+  font-size: .9em;
+  line-height: 1.5;
+}

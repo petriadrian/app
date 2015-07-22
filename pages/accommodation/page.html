@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="">
+    <meta name="description" content="Pagina oficiala casa Petri">
+    <meta name="keywords" content="casa,petri,rosia,montana,cazare,turism,munte">
+
+    <!-- TITLE -->
+    <link rel="shortcut icon" type="image/x-icon" href="../../images/favicon.ico"/>
+    <title>Casa Petri Roșia Montană</title>
+
+    <!-- CSS-->
+    <link href='http://fonts.googleapis.com/css?family=Merienda|Open+Sans&subset=latin,latin-ext' rel='stylesheet'
+          type='text/css'>
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="../../css/casaPetri.css" rel="stylesheet">
+    <link href="../../css/daterangepicker.css" rel="stylesheet">
+</head>
+
+<body>
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <div class="navbar-brand" onclick="location.href='../../index.html';">
+                <div class="backImage">
+                    <h1>Casa Petri Roșia Montană</h1>
+                </div>
+            </div>
+        </div>
+        <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li><a href="../../index.html#accomodation">Rezervări</a></li>
+                <li><a href="../../index.html#activities">Activitati</a></li>
+                <li><a href="../../index.html#contact">Pachete</a></li>
+                <li><a href="../../index.html#others">Altele</a></li>
+            </ul>
+            <ul class="navbar-text pull-right">
+                <a href="https://www.facebook.com/casapetrirosiamontana?ref=hl&ref_type=bookmark" target="_blank">
+                    <i class="fa fa-facebook fa-2x"
+                       title="Follow us on facebook"></i> </a>
+                <a data-toggle="modal" data-backdrop="true" data-target="#sendMail">
+                    <i class="fa fa-envelope fa-2x"></i></a>
+                <a href="https://www.google.ro/maps/place/Casa+Petri/@46.1241884,24.6991095,7z/data=!4m2!3m1!1s0x474ecce046c99d41:0xc76f83a95070630c?hl=ro"
+                   target="_blank">
+                    <i class="fa fa-map-marker fa-2x" title="Cum ajung?"></i></a>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+
+    <div class="pageMotto">
+        <h1>
+            O cafea intr-o dimineata la Rosia Montana?
+        </h1>
+        <a href="#bookings" class="btn btn-large btn-primary">Fa o rezervare</a>
+        <a href="#moreDetails" class="btn btn-large btn-primary">Cum e la noi?</a>
+    </div>
+
+    <div class="categoryLayout">
+        <span id="bookings" class="anchor"></span>
+
+        <div class="titleLayout">
+            <h3><i class="fa fa-pencil-square-o"></i> Rezerva camere</h3>
+        </div>
+        <form id="roomReservation" name="roomReservation" class="roomReservation wide" method="post">
+
+            <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                <input id="nameReservation" type="text" class="form-control" placeholder="Nume" required="required">
+            </div>
+            <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                <input type="email" id="emailReservation" class="form-control" placeholder="Email" required="required">
+            </div>
+            <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-phone"></i></span>
+                <input type="tel" id="phoneReservation" class="form-control" placeholder="Telefon" required="required">
+            </div>
+            <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-calendar"></i></span>
+                <input type="text" name="daterange" placeholder="Alegeti perioada"
+                       class="form-control" required="required"/>
+            </div>
+
+            <div class="input_fields_wrap">
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="fa fa-bed"></i></span>
+                    <select class="form-control" id="roomsTypeReservation" required="required">
+                        <option value="" disabled selected style='display:none;'>Alege tip camera</option>
+                        <option value="1">2 persoane (pat dublu)</option>
+                        <option value="2">2 persoane (paturi simple)</option>
+                        <option value="3">3 persoane (1 pat dublu + 1 pat simplu)</option>
+                        <option value="4">3 persoane (paturi simple)</option>
+                        <option value="5">4 persoane (1 pat dublu + 2 paturi simple)</option>
+                        <option value="6">4 persoane (paturi simple)</option>
+                        <option value="7">6 persoane (4 paturi simple + 1 pat dublu)</option>
+                    </select>
+                </div>
+            </div>
+            <p class="add_more_rooms"><i class="fa fa-plus"></i> Mai multe camere ...</p>
+
+            <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-info"></i></span>
+                <textarea form="roomReservation" id="othersReservation" class="form-control"
+                          placeholder="Altele"></textarea>
+            </div>
+            <p> *pentru mai multe detalii contactati-ne la 0743188186</p>
+            <input type="submit" value="Rezerva" class="btn btn-default submitButton">
+
+        </form>
+    </div>
+
+    <div class="categoryLayout">
+        <span id="moreDetails" class="anchor"></span>
+
+        <div class="titleLayout">
+            <h3><i class="fa fa-home"></i> Cum e la noi?</h3>
+        </div>
+        <div id="columns">
+
+            <figure>
+                <img src="img/1.jpg">
+                <figcaption>Cinderella wearing European fashion of the mid-1860’s That’s why I’ve compiled 50 of the
+                    most powerful perspectives on success from
+                </figcaption>
+            </figure>
+
+            <figure>
+                <img src="img/2.jpg">
+                <figcaption>Success is all about having the right mindset. That’s why I’ve compiled 50 of the most
+                    powerful perspectivesof the mindset of a success.
+                </figcaption>
+            </figure>
+
+            <figure>
+                <img src="img/3.jpg">
+                <figcaption>Belle, based on 1770’s French court fashion</figcaption>
+            </figure>
+
+            <figure>
+                <img src="img/4.jpg">
+                <figcaption>Mulan, based on the Ming Dynasty period</figcaption>
+            </figure>
+
+            <figure>
+                <img src="img/2.jpg">
+                <figcaption>Success is all about having the right mindset. That’s why I’ve compiled 50 of the most
+                    powerful perspectives on success from some of history’s most successful people. Their definitions,
+                    quotations, formulas, misconceptions, and principles paint a clear picture of the mindset of a
+                    success.
+                </figcaption>
+            </figure>
+
+            <figure>
+                <img src="img/5.jpg">
+                <figcaption>Mulan, based on the Ming Dynasty period</figcaption>
+            </figure>
+            <figure>
+                <img src="img/6.jpg">
+                <figcaption>Mulan, based on the Ming Dynasty period</figcaption>
+            </figure>
+            <figure>
+                <img src="img/7.jpg">
+                <figcaption>Mulan, based on the Ming Dynasty period</figcaption>
+            </figure>
+            <figure>
+                <img src="img/8.jpg">
+                <figcaption>Mulan, based on the Ming Dynasty period</figcaption>
+            </figure>
+            <figure>
+                <img src="img/4.jpg">
+                <figcaption>Mulan, based on the Ming Dynasty period</figcaption>
+            </figure>
+            <figure>
+                <img src="img/2.jpg">
+                <figcaption>Mulan, based on the Ming Dynasty period</figcaption>
+            </figure>
+        </div>
+    </div>
+
+    <div style="clear: both;"></div>
+
+    <div class="categoryLayout">
+        <div class="titleLayout">
+            <h3 class="footerText">
+                <a href="https://www.facebook.com/casapetrirosiamontana?ref=hl&ref_type=bookmark" target="_blank">
+                    <i class="fa fa-facebook" title="Follow us on facebook"></i> </a>
+                <a data-toggle="modal" data-backdrop="true" data-target="#sendMail">
+                    <i class="fa fa-envelope"></i></a>
+                <a href="https://www.google.ro/maps/place/Casa+Petri/@46.1241884,24.6991095,7z/data=!4m2!3m1!1s0x474ecce046c99d41:0xc76f83a95070630c?hl=ro"
+                   target="_blank">
+                    <i class="fa fa-map-marker" title="Cum ajung?"></i></a>
+            </h3>
+
+            <div style="clear: both;"></div>
+        </div>
+    </div>
+
+</div>
+
+<!-- MODALS -->
+
+<div class="modal fade" id="sendMail" tabindex="-1" role="dialog" aria-labelledby="sendMail" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">x</button>
+                <h4 class="modal-title" id="myModalLabel">Trimite-ne un mesaj</h4>
+            </div>
+            <form role="form" data-toggle="validator">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="inputEmail">Email</label>
+                        <input type="email" class="form-control" id="inputEmail" placeholder="Email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="inputMessage">Mesaj</label>
+                            <textarea id="inputMessage" pattern=".{5,10}" class="form-control" rows="3"
+                                      placeholder="Mesaj" required></textarea>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Închide</button>
+                    <button type="submit" class="btn btn-primary" value="Check">Trimite mesaj</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<!-- JAVA SCRIPTS-->
+<script type="text/javascript" src="../../js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="../../js/moment.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="../../js/daterangepicker.js"></script>
+<script type="text/javascript" src="../../js/casaPetri.js"></script>
+<script type="text/javascript" src="../../js/casaPetri_rezervations.js"></script>
+
+</body>
+</html>
