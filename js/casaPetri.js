@@ -16,11 +16,7 @@ app.controller('MainCtrl', function($scope) {
         "otherPageRef": "../../accommodation/page.html",
         "homePageFirstImageRef": "images/accomodation/rooms/1.png",
         "homePageSecondImageRef": "../../images/accomodation/rooms/1.png",
-        "homePageFirstImageRef": "images/accomodation/rooms/2.png",
-        "homePageSecondImageRef": "../../images/accomodation/rooms/2.png",
-        "homePageFirstImageRef": "images/accomodation/rooms/3.png",
-        "homePageSecondImageRef": "../../images/accomodation/rooms/3.png",
-        "boxTitle": "Casu?a a fost cinematograf, spital ?i banc? iar acum este redeschis? ca spa?iu de cazare. Vizita?i-o!",
+        "boxTitle": "Casu?a a fost cinematograf, spital ?i banc? iar acum este redeschis? ca spa?iu de cazare. Vizita?i-o!"
     }];
 });
 
