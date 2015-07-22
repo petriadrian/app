@@ -60,7 +60,8 @@
     </div>
 </div>
 
-<div class="container">
+<div class="container" id="container" ng-controller="ContentCtrl">
+    <content-item ng-repeat="item in content" content="item"></content-item>
 
     <div class="centralCarousel">
         <div id="myCarousel" class="carousel slide" data-interval="3000"
@@ -481,8 +482,9 @@
 
 
 <!-- JAVA SCRIPTS-->
-<script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
 <script type="text/javascript" src="js/casaPetri.js"></script>
 
 </body>
