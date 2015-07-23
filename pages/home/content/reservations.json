@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "titleBox": "Camere",
+        "titleHover": "Rezerva o camera",
+        "details": "Casuta a fost cinematograf, spital ?i banc? iar acum este redeschis? ca spa?iu de cazare. Vizita?i-o!",
+        "href": "pages/accommodation/page.html",
+        "imgUrl1": "pages/home/img/reservations/rooms/1.png",
+        "imgUrl2": "pages/home/img/reservations/rooms/2.png",
+        "imgUrl3": "pages/home/img/reservations/rooms/3.png"
+    },
+    {
+        "id": 2,
+        "titleBox": "Cort",
+        "titleHover": "Rezerva un loc de cort",
+        "details": "Cazare la mii de stele sub lumina lunii? Rezerva un loc sigur de cort cu acces la baie si bucatarie",
+        "href": "#",
+        "imgUrl1": "pages/home/img/reservations/camping/1.png",
+        "imgUrl2": "pages/home/img/reservations/camping/2.png",
+        "imgUrl3": "pages/home/img/reservations/camping/3.png"
+    },
+    {
+        "id": 3,
+        "titleBox": "Mancare",
+        "titleHover": "Unde iau masa?",
+        "details": "Locusoare secrete unde puteti servi o masa traditionala, sau puteti folosi bucataria noastra",
+        "href": "#",
+        "imgUrl1": "pages/home/img/reservations/food/1.png",
+        "imgUrl2": "pages/home/img/reservations/food/2.png",
+        "imgUrl3": "pages/home/img/reservations/food/3.png"
+    },
+    {
+        "id": 4,
+        "titleBox": "Carti",
+        "titleHover": "Vezi biblioteca noastra",
+        "details": "Alege cartile care sa te astepte pe noptiera din camera ta. Descopera locusoarele cosy de citit!",
+        "href": "#",
+        "imgUrl1": "pages/home/img/reservations/books/1.png",
+        "imgUrl2": "pages/home/img/reservations/books/2.png",
+        "imgUrl3": "pages/home/img/reservations/books/3.png"
+    }
+]

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- META -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,17 +11,19 @@
     <meta name="author" content="">
     <meta name="description" content="Pagina oficiala casa Petri">
     <meta name="keywords" content="casa,petri,rosia,montana,cazare,turism,munte">
-
+    <!-- TITLE -->
     <link rel="shortcut icon" type="image/x-icon" href="pages/home/img/favicon.ico"/>
     <title>Casa Petri Roșia Montană</title>
-
-    <!-- CSS-->
+    <!-- CSS -->
     <link href='http://fonts.googleapis.com/css?family=Merienda|Open+Sans&subset=latin,latin-ext' rel='stylesheet'
           type='text/css'>
     <link rel="stylesheet"
           href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="css/casaPetri.css" rel="stylesheet">
+    <!-- JAVASCRIPT - added here because are needed for the menuBox template script -->
+    <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.templates/beta1/jquery.tmpl.js"></script>
 </head>
 
 <body>
@@ -171,65 +174,21 @@
     <div style="clear: both;"></div>
 
     <!-- accomodation -->
-    <div class="categoryLayout">
+    <div id="reservationsLayout" class="categoryLayout">
         <span id="accomodation" class="anchor"></span>
-
         <div class="titleLayout">
             <h3><i class="fa fa-home"></i> Rezervări</h3>
         </div>
-
-
-        <link rel="import" href="pages/commonStuffs/menuBoxes/section.html">
-
-        <section class="carouselHomePage defaultClickEvents" title="Rezerva un loc" onclick="location.href='#';">
-            <div class="carouselContent">
-                <ul class="carouselPanes">
-                    <li><img src="pages/home/img/accomodation/camping/1.png"></li>
-                    <li><img src="pages/home/img/accomodation/camping/2.png"></li>
-                    <li><img src="pages/home/img/accomodation/camping/3.png"></li>
-                </ul>
-                <div class="carouselText">
-                    <p class="carouselTitle">Cort</p>
-
-                    <p class="carouselInfo">Cazare la mii de stele sub lumina lunii? Rezerva un loc sigur de cort cu acces la baie si bucatarie</p>
-
-                    <div style="clear: both;"></div>
-                </div>
-            </div>
-        </section>
-        <section class="carouselHomePage defaultClickEvents thirdCarouselBox" onclick="location.href='#';">
-            <div class="carouselContent">
-                <ul class="carouselPanes">
-                    <li><img src="pages/home/img/accomodation/food/1.png"></li>
-                    <li><img src="pages/home/img/accomodation/food/2.png"></li>
-                    <li><img src="pages/home/img/accomodation/food/3.png"></li>
-                </ul>
-                <div class="carouselText">
-                    <p class="carouselTitle">Mâncare</p>
-
-                    <p class="carouselInfo">Locusoare secrete unde puteti servi o masa traditionala, sau puteti folosi bucataria noastra</p>
-
-                    <div style="clear: both;"></div>
-                </div>
-            </div>
-        </section>
-        <section class="carouselHomePage defaultClickEvents thirdCarouselBox" onclick="location.href='#';">
-            <div class="carouselContent">
-                <ul class="carouselPanes">
-                    <li><img src="pages/home/img/accomodation/books/1.png"></li>
-                    <li><img src="pages/home/img/accomodation/books/2.png"></li>
-                    <li><img src="pages/home/img/accomodation/books/2.png"></li>
-                </ul>
-                <div class="carouselText">
-                    <p class="carouselTitle">Cărți</p>
-
-                    <p class="carouselInfo">Alege cartile care sa te astepte pe noptiera din camera ta. Descopera locusoarele cosy de citit! </p>
-
-                    <div style="clear: both;"></div>
-                </div>
-            </div>
-        </section>
-        <div style="clear: both;"></div>
+        <script>
+            $(document).ready(function() {
+                $.get('pages/commonStuffs/menuBoxTemplate.htm', function(templates) {
+                    $('body').append(templates);
+                    $.get("pages/home/content/reservations.json", function (content) {
+                        $('#menuBoxTemplateId').tmpl(content).appendTo("#reservationsLayout");
+                    })
+                });
+            });
+        </script>
     </div>
     <div style="clear: both;"></div>
 
@@ -249,6 +208,7 @@
         <div class="titleLayout">
             <h3><i class="fa fa-bicycle"></i> Activități</h3>
         </div>
+
         <section class="carouselHomePage defaultClickEvents" title="Rezerva o camera"
                  onclick="location.href='html/bicycle/page.html';">
             <div class="carouselContent">
@@ -467,7 +427,6 @@
 
 
 <!-- JAVA SCRIPTS-->
-<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
 <script type="text/javascript" src="js/casaPetri.js"></script>
