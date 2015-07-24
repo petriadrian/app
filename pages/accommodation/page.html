@@ -198,6 +198,25 @@
 
     <div style="clear: both;"></div>
 
+    <!-- SEE MORE -->
+    <div id="seeMoreLayout" class="categoryLayout">
+        <span id="seeMore" class="anchor"></span>
+        <div class="titleLayout">
+            <h3><i class="fa fa-coffee"></i> Vezi si</h3>
+        </div>
+        <script>
+            $(document).ready(function() {
+                $.get('../commonStuffs/menuBoxTemplate.htm', function(templates) {
+                    $('body').append(templates);
+                    $.get("content/seeMore.json", function (content) {
+                        $('#menuBoxTemplateId').tmpl(content).appendTo("#seeMoreLayout");
+                    })
+                });
+            });
+        </script>
+    </div>
+    <div style="clear: both;"></div>
+
     <div class="categoryLayout">
         <div class="titleLayout">
             <h3 class="footerText">
