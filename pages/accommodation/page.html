@@ -206,7 +206,7 @@
         </div>
         <script>
             $(document).ready(function() {
-                $.get('../commonStuffs/menuBoxTemplate.htm', function(templates) {
+                $.get('../commonStuffs/template/menuBox.htm', function(templates) {
                     $('body').append(templates);
                     $.get("content/seeMore.json", function (content) {
                         $('#menuBoxTemplateId').tmpl(content).appendTo("#seeMoreLayout");
