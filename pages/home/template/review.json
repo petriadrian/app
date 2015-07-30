@@ -1,38 +1,14 @@
 [
     {
-        "name": "Camere",
-        "cty": "Rezerva o camera",
-        "country": "Casuta a fost cinematograf, spital ?i banc? iar acum este redeschis? ca spa?iu de cazare. Vizita?i-o!",
-        "text": "pages/accommodation/page.html",
-        "imgUrl1": "pages/home/img/reservations/rooms/1.png",
-        "imgUrl2": "pages/home/img/reservations/rooms/2.png",
-        "imgUrl3": "pages/home/img/reservations/rooms/3.png"
+        "name": "Nechiti Nastasia",
+        "city": "Barcelona",
+        "country": "SP",
+        "text": "Un loc de poveste, cu oameni frumosi in ganduri si simþiri, casa la care ma reintorc cu drag si dor de fiecare data! Casa Petri Rosia Montana!"
     },
     {
-        "titleBox": "Cort",
-        "titleHover": "Rezerva un loc de cort",
-        "details": "Cazare la mii de stele sub lumina lunii? Rezerva un loc sigur de cort cu acces la baie si bucatarie",
-        "href": "#",
-        "imgUrl1": "pages/home/img/reservations/camping/1.png",
-        "imgUrl2": "pages/home/img/reservations/camping/2.png",
-        "imgUrl3": "pages/home/img/reservations/camping/3.png"
-    },
-    {
-        "titleBox": "Mancare",
-        "titleHover": "Unde iau masa?",
-        "details": "Locusoare secrete unde puteti servi o masa traditionala, sau puteti folosi bucataria noastra",
-        "href": "#",
-        "imgUrl1": "pages/home/img/reservations/food/1.png",
-        "imgUrl2": "pages/home/img/reservations/food/2.png",
-        "imgUrl3": "pages/home/img/reservations/food/3.png"
-    },
-    {
-        "titleBox": "Carti",
-        "titleHover": "Vezi biblioteca noastra",
-        "details": "Alege cartile care sa te astepte pe noptiera din camera ta. Descopera locusoarele cosy de citit!",
-        "href": "#",
-        "imgUrl1": "pages/home/img/reservations/books/1.png",
-        "imgUrl2": "pages/home/img/reservations/books/2.png",
-        "imgUrl3": "pages/home/img/reservations/books/3.png"
+        "name": "Andreea Firastraeru - Oradea",
+        "city": "Oradea",
+        "country": "RO",
+        "text": "Oamenii frumosi la gazde frumoase trag! Multam de hamace with a view, vibe creativ si activist, clatite cu zambet larg si respiro cu WiFiiiiiii :))) ca sa afle lumea ca suntem la Casa Petri si ce facem pe acolo. Raportam de pe baricade ca stocul de dor s-a refacut rapid si numaram weekendurile pana va trecem iar pragul!"
     }
 ]
