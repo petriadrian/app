@@ -4,11 +4,13 @@
         "city": "Barcelona",
         "country": "SP",
         "text": "Un loc de poveste, cu oameni frumosi in ganduri si simþiri, casa la care ma reintorc cu drag si dor de fiecare data! Casa Petri Rosia Montana!"
+        "imgUrl": "pages/home/img/reservations/rooms/1.png"
     },
     {
-        "name": "Andreea Firastraeru - Oradea",
+        "name": "Andreea Firastraeru",
         "city": "Oradea",
         "country": "RO",
         "text": "Oamenii frumosi la gazde frumoase trag! Multam de hamace with a view, vibe creativ si activist, clatite cu zambet larg si respiro cu WiFiiiiiii :))) ca sa afle lumea ca suntem la Casa Petri si ce facem pe acolo. Raportam de pe baricade ca stocul de dor s-a refacut rapid si numaram weekendurile pana va trecem iar pragul!"
+        "imgUrl": "pages/home/img/reservations/rooms/1.png"
     }
 ]

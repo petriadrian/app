@@ -139,33 +139,17 @@
             <div id="myCarousel" class="carousel slide" data-interval="3000"
                  data-ride="carousel">
                 <!-- Carousel items -->
-                <div class="carousel-inner">
-                    <div class="active item">
-                        <div class="carousel-caption">
-                            <div class="reviewTitle">
-                                <i class="fa fa-comment"></i> Nechiti Nastasia - Barcelona
-                            </div>
-                            <p>
-                                Un loc de poveste,
-                                cu oameni frumosi in ganduri si simţiri,
-                                casa la care ma reintorc cu drag si dor de fiecare data !
-                                Casa Petri & Rosia Montana!</p>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="carousel-caption">
-                            <div class="reviewTitle">
-                                <i class="fa fa-comment"></i> Andreea Firastraeru - Oradea
-                            </div>
-                            <p>
-                                Oamenii frumosi la gazde frumoase trag!
-                                Multam de hamace with a view, vibe creativ si activist,
-                                clatite cu zambet larg si respiro cu WiFiiiiiii :)))
-                                ca sa afle lumea ca suntem la Casa Petri si ce facem pe acolo.
-                                Raportam de pe baricade ca stocul de dor s-a refacut rapid
-                                si numaram weekendurile pana va trecem iar pragul!</p>
-                        </div>
-                    </div>
+                <div id="reviewCarouselLayout" class="carousel-inner">
+                    <script>
+                        $(document).ready(function() {
+                            $.get('pages/home/template/review.htm', function(templates) {
+                                $('body').append(templates);
+                                $.get("pages/home/content/review.json", function (content) {
+                                    $('#reviewBoxTemplateId').tmpl(content).appendTo("#reviewCarouselLayout");
+                                })
+                            });
+                        });
+                    </script>
                 </div>
             </div>
             <div class="reviewInfo">... vezi mai mult</div>
