@@ -1,13 +1,15 @@
 [
     {
+        "shortName": "Nastasia",
         "name": "Nechiti Nastasia",
         "city": "Barcelona",
         "country": "SP",
-        "text": "Un loc de poveste, cu oameni frumosi in ganduri si simþiri, casa la care ma reintorc cu drag si dor de fiecare data! Casa Petri Rosia Montana!",
+        "text": "Un loc de poveste, cu oameni frumosi in ganduri si simtiri, casa la care ma reintorc cu drag si dor de fiecare data! Casa Petri Rosia Montana!",
         "imgUrl": "pages/home/img/reservations/rooms/1.png",
         "firstCarouselElement": "active"
     },
     {
+        "shortName": "Andreea",
         "name": "Andreea Firastraeru",
         "city": "Oradea",
         "country": "RO",
@@ -15,6 +17,7 @@
         "imgUrl": "pages/home/img/reservations/rooms/1.png"
     },
     {
+        "shortName": "Raluca",
         "name": "Raluca",
         "city": "Orastie",
         "country": "RO",

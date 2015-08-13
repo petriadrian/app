@@ -43,10 +43,10 @@
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li><a href="#accomodation">Rezervari</a></li>
+                <li><a href="#reservations">Rezervari</a></li>
                 <li><a href="#activities">Activitati</a></li>
                 <li><a href="#contact">Pachete</a></li>
-                <li><a href="#others">Altele</a></li>
+                <li><a href="#recommendations">De neratat!</a></li>
             </ul>
             <ul class="navbar-text pull-right">
                 <a href="https://www.facebook.com/casapetrirosiamontana?ref=hl&ref_type=bookmark" target="_blank">
@@ -65,7 +65,7 @@
 <div class="container" id="container">
 
     <div class="centralCarousel">
-        <div id="mainCarousel" class="carousel slide" data-interval="3000"
+        <div id="mainCarousel" class="carousel slide" data-interval="1000"
              data-ride="carousel">
             <!-- Carousel indicators -->
             <ol class="carousel-indicators">
@@ -98,7 +98,7 @@
     </div>
     <div class="reviewLayout">
         <div class="reviewsArea defaultClickEvents">
-            <div class="carousel slide" data-interval="3000"
+            <div class="carousel slide" data-ride="carousel" data-interval="1000"
                  data-ride="carousel">
                 <!-- Carousel items -->
                 <div id="reviewCarouselLayout" class="carousel-inner">
@@ -113,16 +113,15 @@
                         });
                     </script>
                 </div>
-                <script>$('div.item:first').addClass("active");</script>
             </div>
             <div class="reviewInfo">... vezi mai mult</div>
         </div>
     </div>
     <div style="clear: both;"></div>
 
-    <!-- accomodation -->
+    <!-- reservations -->
     <div id="reservationsLayout" class="categoryLayout">
-        <span id="accomodation" class="anchor"></span>
+        <span id="reservations" class="anchor"></span>
         <div class="titleLayout">
             <h3><i class="fa fa-home"></i> Rezervări</h3>
         </div>
@@ -149,178 +148,44 @@
     </div>
 
     <!-- activities -->
-    <div class="categoryLayout">
+    <div id="activitiesLayout" class="categoryLayout">
         <span id="activities" class="anchor"></span>
 
         <div class="titleLayout">
             <h3><i class="fa fa-bicycle"></i> Activități</h3>
         </div>
-
-        <section class="carouselHomePage defaultClickEvents" title="Rezerva o camera"
-                 onclick="location.href='html/bicycle/page.html';">
-            <div class="carouselContent">
-                <ul class="carouselPanes">
-                    <li><img src="pages/home/img/activities/bike/1.png"></li>
-                    <li><img src="pages/home/img/activities/bike/2.png"></li>
-                    <li><img src="pages/home/img/activities/bike/3.png"></li>
-                </ul>
-                <div class="carouselText">
-                    <p class="carouselTitle">Bicicletă</p>
-
-                    <p class="carouselInfo">Vino cu bicicleta sau închiriază una și
-                        aventureaza-te pe traseele de bicicletă</p>
-
-                    <div style="clear: both;"></div>
-                </div>
-            </div>
-        </section>
-        <section class="carouselHomePage defaultClickEvents" title="Rezerva o camera" onclick="location.href='#';">
-            <div class="carouselContent">
-                <ul class="carouselPanes">
-                    <li><img src="pages/home/img/activities/routes/1.png"></li>
-                    <li><img src="pages/home/img/activities/routes/2.png"></li>
-                    <li><img src="pages/home/img/activities/routes/3.png"></li>
-                </ul>
-                <div class="carouselText">
-                    <p class="carouselTitle">Drumeții</p>
-
-                    <p class="carouselInfo">Tasee turistice ghidate prin care descoperi localitatea, munții, bisericile,
-                        lacurile, galeriile ... </p>
-
-                    <div style="clear: both;"></div>
-                </div>
-            </div>
-        </section>
-        <section class="carouselHomePage defaultClickEvents thirdCarouselBox" title="Vezi mai mult"
-                 onclick="location.href='html/galleries/page.html';">
-            <div class="carouselContent">
-                <ul class="carouselPanes">
-                    <li><img src="pages/home/img/activities/museum/1.png"></li>
-                    <li><img src="pages/home/img/activities/museum/2.png"></li>
-                    <li><img src="pages/home/img/activities/museum/3.png"></li>
-                </ul>
-                <div class="carouselText">
-                    <p class="carouselTitle">Galerii</p>
-
-                    <p class="carouselInfo"> Vizite ghidate prin galeriile
-                        subterane. Vezi cum extrageau aurul dacii si romanii</p>
-
-                    <div style="clear: both;"></div>
-                </div>
-            </div>
-        </section>
-        <section class="carouselHomePage defaultClickEvents fourthCarouselBox" title="Rezerva un loc"
-                 onclick="location.href='#';">
-            <div class="carouselContent">
-                <ul class="carouselPanes">
-                    <li><img src="pages/home/img/activities/exhibitions/1.png"></li>
-                    <li><img src="pages/home/img/activities/exhibitions/2.png"></li>
-                    <li><img src="pages/home/img/activities/exhibitions/3.png"></li>
-                </ul>
-                <div class="carouselText">
-                    <p class="carouselTitle">Expozitii</p>
-
-                    <p class="carouselInfo"> Poze, schite si legende despre traiul oamenilor din cea mai veche
-                        localitate din Romania</p>
-
-                    <div style="clear: both;"></div>
-                </div>
-            </div>
-        </section>
-        <section class="carouselHomePage defaultClickEvents thirdCarouselBox" title="Rezerva un loc"
-                 onclick="location.href='#';">
-            <div class="carouselContent">
-                <ul class="carouselPanes">
-                    <li><img src="pages/home/img/activities/film/1.png"></li>
-                    <li><img src="pages/home/img/activities/film/2.png"></li>
-                    <li><img src="pages/home/img/activities/film/3.png"></li>
-                </ul>
-                <div class="carouselText">
-                    <p class="carouselTitle">Filme</p>
-
-                    <p class="carouselInfo"> Proiecții de filme care descriu trecutul, lupta pentru aur sau natură și
-                        povestea Roșiei Montane.</p>
-
-                    <div style="clear: both;"></div>
-                </div>
-            </div>
-        </section>
-        <section class="carouselHomePage defaultClickEvents" title="Rezerva un loc" onclick="location.href='#';">
-            <div class="carouselContent">
-                <ul class="carouselPanes">
-                    <li><img src="pages/home/img/activities/boardGames/1.png"></li>
-                    <li><img src="pages/home/img/activities/boardGames/2.png"></li>
-                    <li><img src="pages/home/img/activities/boardGames/1.png"></li>
-                </ul>
-                <div class="carouselText">
-                    <p class="carouselTitle">Jocuri</p>
-
-                    <p class="carouselInfo"> Board games! Ce alt loc mai bun de Saboteour decat in localitatea cu peste
-                        120km galerii subterane</p>
-
-                    <div style="clear: both;"></div>
-                </div>
-            </div>
-        </section>
-        <div style="clear: both;"></div>
+        <script>
+            $(document).ready(function() {
+                $.get('pages/commonStuffs/template/menuBox.htm', function(templates) {
+                    $('body').append(templates);
+                    $.get("pages/home/content/activities.json", function (content) {
+                        $('#menuBoxTemplateId').tmpl(content).appendTo("#activitiesLayout");
+                    })
+                });
+            });
+        </script>
     </div>
+    <div style="clear: both;"></div>
 
-    <!-- others -->
-    <div class="categoryLayout">
-        <span id="others" class="anchor"></span>
+    <!-- recommendations -->
+    <div id="recommendationsLayout" class="categoryLayout">
+        <span id="recommendations" class="anchor"></span>
 
         <div class="titleLayout">
-            <h3><i class="fa fa-coffee"></i> Altele</h3>
+            <h3><i class="fa fa-calendar"></i> De neratat!</h3>
         </div>
-        <section class="carouselHomePage" title="free wifi">
-            <div class="carouselContent">
-                <div class="carouselSimpleImagePane">
-                    <img src="pages/home/img/others/wifi/1.png">
-                </div>
-                <div class="carouselText">
-                    <p class="carouselTitle">Wifi</p>
-
-                    <p class="carouselInfo"> Nu reziști fară facebook mai mult de o zi? Știm sentimentul... Avem wifi
-                        gratis</p>
-
-                    <div style="clear: both;"></div>
-                </div>
-            </div>
-        </section>
-        <section class="carouselHomePage defaultClickEvents" title="donează"
-                 onclick="window.open('http://www.adoptaocasa.ro/case/casa-cu-influente-urbane-sec-xvii-1870-1890-post-1935-rosia-montana-nr-331a');">
-            <div class="carouselContent">
-                <div class="carouselSimpleImagePane">
-                    <img src="pages/home/img/others/donate/1.png">
-                </div>
-                <div class="carouselText">
-                    <p class="carouselTitle">Donează</p>
-
-                    <p class="carouselInfo"> Ajută la dezvoltarea turistica a căsuței. Donează bani, materiale sau
-                        devin-o voluntar</p>
-
-                    <div style="clear: both;"></div>
-                </div>
-            </div>
-        </section>
-        <section class="carouselHomePage defaultClickEvents thirdCarouselBox" title="donează"
-                 onclick="window.open('http://www.fanfest.ro/');">
-            <div class="carouselContent">
-                <div class="carouselSimpleImagePane">
-                    <img src="pages/home/img/others/fanfest/1.png">
-                </div>
-                <div class="carouselText">
-                    <p class="carouselTitle">FânFest</p>
-
-                    <p class="carouselInfo"> Participă la cel mai fain festival din Munții Apuseni: FânFest la Roșia
-                        Montană</p>
-
-                    <div style="clear: both;"></div>
-                </div>
-            </div>
-        </section>
-        <div style="clear: both;"></div>
+        <script>
+            $(document).ready(function() {
+                $.get('pages/commonStuffs/template/menuBox.htm', function(templates) {
+                    $('body').append(templates);
+                    $.get("pages/home/content/recommendations.json", function (content) {
+                        $('#menuBoxTemplateId').tmpl(content).appendTo("#recommendationsLayout");
+                    })
+                });
+            });
+        </script>
     </div>
+    <div style="clear: both;"></div>
 
     <div class="categoryLayout">
         <div class="titleLayout">

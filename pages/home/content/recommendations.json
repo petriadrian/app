@@ -1,0 +1,20 @@
+[
+    {
+        "titleBox": "Adopta",
+        "titleHover": "Adopta",
+        "details": " Ajuta la restaurarea sitului Rosia Montana ca voluntar sau prin donatii",
+        "href": "window.open('http://www.adoptaocasa.ro');",
+        "imgUrl1": "pages/home/img/recommendations/adoptHouse/1.png",
+        "imgUrl2": "pages/home/img/recommendations/adoptHouse/2.png",
+        "imgUrl3": "pages/home/img/recommendations/adoptHouse/3.png"
+    },
+    {
+        "titleBox": "FanFest",
+        "titleHover": "FanFest",
+        "details": "Participa in luna August la cel mai activ festival: FanFest",
+        "href": "#",
+        "imgUrl1": "pages/home/img/recommendations/fanfest/1.png",
+        "imgUrl2": "pages/home/img/recommendations/fanfest/2.png",
+        "imgUrl3": "pages/home/img/recommendations/fanfest/3.png"
+    }
+]

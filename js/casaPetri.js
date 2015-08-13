@@ -1,5 +1,5 @@
 $('.carousel').carousel({
-	interval : 16000
+	interval : 12000
 });
 
 $('.nav a').on('click', function(){
