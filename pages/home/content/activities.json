@@ -3,7 +3,7 @@
         "titleBox": "Bicicleta",
         "titleHover": "Bicicleta",
         "details": "Vino cu bicicleta sau inchiriaza una ?i aventureaza-te pe traseele de biciclet?",
-        "href": "html/bicycle/page.html",
+        "href": "location.href='pages/bicycle/page.html'",
         "imgUrl1": "pages/home/img/activities/bike/1.png",
         "imgUrl2": "pages/home/img/activities/bike/2.png",
         "imgUrl3": "pages/home/img/activities/bike/3.png"
@@ -12,7 +12,7 @@
         "titleBox": "Drumetii",
         "titleHover": "Drumetii",
         "details": "Tasee turistice ghidate prin care descoperi localitatea, mun?ii, bisericile, lacurile, galeriile ... ",
-        "href": "#",
+        "href": "location.href='#'",
         "imgUrl1": "pages/home/img/activities/routes/1.png",
         "imgUrl2": "pages/home/img/activities/routes/2.png",
         "imgUrl3": "pages/home/img/activities/routes/3.png"
@@ -21,7 +21,7 @@
         "titleBox": "Galerii",
         "titleHover": "Galerii",
         "details": " Vizite ghidate prin galeriile subterane. Vezi cum extrageau aurul dacii si romanii",
-        "href": "html/galleries/page.html",
+        "href": "location.href='pages/galleries/page.html'",
         "imgUrl1": "pages/home/img/activities/museum/1.png",
         "imgUrl2": "pages/home/img/activities/museum/2.png",
         "imgUrl3": "pages/home/img/activities/museum/3.png"
@@ -30,7 +30,7 @@
         "titleBox": "Expozitii",
         "titleHover": "Expozitii",
         "details": " Poze, schite si legende despre traiul oamenilor din cea mai veche localitate din Romania",
-        "href": "#",
+        "href": "location.href='#'",
         "imgUrl1": "pages/home/img/activities/exhibitions/1.png",
         "imgUrl2": "pages/home/img/activities/exhibitions/2.png",
         "imgUrl3": "pages/home/img/activities/exhibitions/3.png"
@@ -39,7 +39,7 @@
         "titleBox": "Filme",
         "titleHover": "Filme",
         "details": "Proiec?ii de filme care descriu trecutul, lupta pentru aur sau natur? ?i povestea Ro?iei Montane.",
-        "href": "#",
+        "href": "location.href='#'",
         "imgUrl1": "pages/home/img/activities/film/1.png",
         "imgUrl2": "pages/home/img/activities/film/2.png",
         "imgUrl3": "pages/home/img/activities/film/3.png"
@@ -48,7 +48,7 @@
         "titleBox": "Jocuri",
         "titleHover": "Jocuri",
         "details": "Board games! Ce alt loc mai bun de Saboteour decat in localitatea cu peste 120km galerii subterane",
-        "href": "#",
+        "href": "location.href='#'",
         "imgUrl1": "pages/home/img/activities/boardGames/1.png",
         "imgUrl2": "pages/home/img/activities/boardGames/2.png",
         "imgUrl3": "pages/home/img/activities/boardGames/3.png"
@@ -57,7 +57,7 @@
         "titleBox": "Wifi",
         "titleHover": "Wifi",
         "details": "Sau poti sta linistit in curte pe facebook, in hamace, pe terasa ... Avem wifi gratis",
-        "href": "#",
+        "href": "location.href='#'",
         "imgUrl1": "pages/home/img/activities/wifi/1.png",
         "imgUrl2": "pages/home/img/activities/wifi/2.png",
         "imgUrl3": "pages/home/img/activities/wifi/3.png"
