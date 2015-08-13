@@ -2,7 +2,7 @@
     {
         "titleBox": "Adopta",
         "titleHover": "Adopta",
-        "details": " Ajuta la restaurarea sitului Rosia Montana ca voluntar sau prin donatii",
+        "details": " Implica-te in restaurarea sitului Rosia Montana prin donatii sau ca voluntar in taberele de vara",
         "href": "window.open('http://www.adoptaocasa.ro')",
         "imgUrl1": "pages/home/img/recommendations/adoptHouse/1.png",
         "imgUrl2": "pages/home/img/recommendations/adoptHouse/2.png",
@@ -11,7 +11,7 @@
     {
         "titleBox": "FanFest",
         "titleHover": "FanFest",
-        "details": "Participa in luna August la cel mai activ festival: FanFest",
+        "details": "Teatru, forumuri, muzica, film. Participa in luna August la cel mai activ festival: FanFest",
         "href": "window.open('http://www.fanfest.ro')",
         "imgUrl1": "pages/home/img/recommendations/fanfest/1.png",
         "imgUrl2": "pages/home/img/recommendations/fanfest/2.png",
@@ -20,19 +20,19 @@
     {
         "titleBox": "Cercetasii",
         "titleHover": "Cercetasii",
-        "details": "Implica-te si cunoaste-i pe cercetasii din Rosia Montana",
+        "details": "Dor de copilarie? Implica-te si cunoaste-i pe cercetasii din Rosia Montana",
         "href": "window.open('http://www.cercetasirosiamontana.ro')",
         "imgUrl1": "pages/home/img/recommendations/scouts/1.png",
-        "imgUrl2": "pages/home/img/recommendations/scouts/1.png",
-        "imgUrl3": "pages/home/img/recommendations/scouts/1.png"
+        "imgUrl2": "pages/home/img/recommendations/scouts/2.png",
+        "imgUrl3": "pages/home/img/recommendations/scouts/3.png"
     },
     {
         "titleBox": "Suvenir",
         "titleHover": "Suvenir",
-        "details": "Cumpara produse naturale facute in Rosia Montana",
+        "details": "Produse traditionale lucrate manual de localnicii din Rosia Montana",
         "href": "window.open('http://www.madeinrosiamontana.ro')",
         "imgUrl1": "pages/home/img/recommendations/madeInRosia/1.png",
-        "imgUrl2": "pages/home/img/recommendations/madeInRosia/1.png",
-        "imgUrl3": "pages/home/img/recommendations/madeInRosia/1.png"
+        "imgUrl2": "pages/home/img/recommendations/madeInRosia/2.png",
+        "imgUrl3": "pages/home/img/recommendations/madeInRosia/3.png"
     }
 ]
