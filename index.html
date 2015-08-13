@@ -17,9 +17,8 @@
     <!-- CSS -->
     <link href='http://fonts.googleapis.com/css?family=Merienda|Open+Sans&subset=latin,latin-ext' rel='stylesheet'
           type='text/css'>
-    <link rel="stylesheet"
-          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="css/casaPetri.css" rel="stylesheet">
     <!-- JAVASCRIPT - added here because are needed for the menuBox template script -->
     <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
@@ -66,77 +65,40 @@
 <div class="container" id="container">
 
     <div class="centralCarousel">
-        <div id="myCarousel" class="carousel slide" data-interval="3000"
+        <div id="mainCarousel" class="carousel slide" data-interval="3000"
              data-ride="carousel">
             <!-- Carousel indicators -->
             <ol class="carousel-indicators">
-                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                <li data-target="#myCarousel" data-slide-to="1"></li>
-                <li data-target="#myCarousel" data-slide-to="2"></li>
-                <li data-target="#myCarousel" data-slide-to="4"></li>
-                <li data-target="#myCarousel" data-slide-to="5"></li>
+                <li data-target="#mainCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#mainCarousel" data-slide-to="1"></li>
+                <li data-target="#mainCarousel" data-slide-to="2"></li>
+                <li data-target="#mainCarousel" data-slide-to="3"></li>
+                <li data-target="#mainCarousel" data-slide-to="4"></li>
             </ol>
             <!-- Carousel items -->
-            <div class="carousel-inner">
-                <div class="active item">
-                    <img alt="" src="pages/home/img/carousel/casaPetri.png">
-
-                    <div class="carousel-caption">
-                        <h3>Casa Petri Roșia Montana</h3>
-
-                        <p>exploatare turistica de suprafata</p>
-                    </div>
-                </div>
-                <div class="item">
-                    <img alt="" src="pages/home/img/carousel/landscapeBancuta.jpg">
-
-                    <div class="carousel-caption">
-                        <h3>Descopera aurul Rosiei Montane: natura</h3>
-
-                        <p>parcurge traseele turistice la pas sau cu bicicleta</p>
-                    </div>
-                </div>
-                <div class="item">
-                    <img alt="" src="pages/home/img/carousel/oldSquareRosiaMontana.png">
-
-                    <div class="carousel-caption">
-                        <h3>Vizitati cea mai veche localitate din Romania</h3>
-
-                        <p>tablitele cerate descoperite aici atesta Rosia Montana din
-                            anul 131</p>
-                    </div>
-                </div>
-                <div class="item">
-                    <img alt="" src="pages/home/img/carousel/surfaceExploatation.png">
-
-                    <div class="carousel-caption">
-                        <h3>Convinge-te ca natura nu mai merita pedeapsita</h3>
-
-                        <p>cea mai mare exploaoatare de suprafata din Romania</p>
-                    </div>
-                </div>
-                <div class="item">
-                    <img alt="" src="pages/home/img/carousel/miningGalery.jpg">
-
-                    <div class="carousel-caption">
-                        <h3>Mergi pe urmele dacilor si romanilor</h3>
-
-                        <p>Peste 150 km galerii romane se afla in subsolul Rosiei
-                            Montane</p>
-                    </div>
-                </div>
+            <div id="mainCarouselLayout" class="carousel-inner">
+                <script>
+                    $(document).ready(function() {
+                        $.get('pages/home/template/mainCarousel.htm', function(templates) {
+                            $('body').append(templates);
+                            $.get("pages/home/content/mainCarousel.json", function (content) {
+                                $('#mainCarouselBoxTemplateId').tmpl(content).appendTo("#mainCarouselLayout");
+                            })
+                        });
+                    });
+                </script>
             </div>
             <!-- Carousel nav -->
-            <a class="carousel-control left" href="#myCarousel" data-slide="prev">
+            <a class="carousel-control left" href="#mainCarousel" data-slide="prev">
                 <span class="glyphicon glyphicon-chevron-left"></span>
-            </a> <a class="carousel-control right" href="#myCarousel" data-slide="next">
+            </a> <a class="carousel-control right" href="#mainCarousel" data-slide="next">
             <span class="glyphicon glyphicon-chevron-right"></span>
         </a>
         </div>
     </div>
     <div class="reviewLayout">
         <div class="reviewsArea defaultClickEvents">
-            <div id="myCarousel" class="carousel slide" data-interval="3000"
+            <div class="carousel slide" data-interval="3000"
                  data-ride="carousel">
                 <!-- Carousel items -->
                 <div id="reviewCarouselLayout" class="carousel-inner">
@@ -151,6 +113,7 @@
                         });
                     </script>
                 </div>
+                <script>$('div.item:first').addClass("active");</script>
             </div>
             <div class="reviewInfo">... vezi mai mult</div>
         </div>
@@ -411,7 +374,7 @@
 
 
 <!-- JAVA SCRIPTS-->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
 <script type="text/javascript" src="js/casaPetri.js"></script>
 

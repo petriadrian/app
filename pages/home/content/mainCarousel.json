@@ -1,0 +1,28 @@
+[
+    {
+        "slideTitle": "Casa Petri Ro?ia Montana",
+        "slideContent": "exploatare turistica de suprafata",
+        "imgUrl": "pages/home/img/carousel/casaPetri.png",
+        "firstCarouselElement": "active"
+    },
+    {
+        "slideTitle": "Descopera aurul Rosiei Montane: natura",
+        "slideContent": "parcurge traseele turistice la pas sau cu bicicleta",
+        "imgUrl": "pages/home/img/carousel/landscapeBancuta.jpg"
+    },
+    {
+        "slideTitle": "Vizitati cea mai veche localitate din Romania",
+        "slideContent": "tablitele cerate descoperite aici atesta Rosia Montana din anul 131",
+        "imgUrl": "pages/home/img/carousel/oldSquareRosiaMontana.png"
+    },
+    {
+        "slideTitle": "Convinge-te ca natura nu mai merita pedeapsita",
+        "slideContent": "cea mai mare exploaoatare de suprafata din Romania",
+        "imgUrl": "pages/home/img/carousel/surfaceExploatation.png"
+    },
+    {
+        "slideTitle": "Mergi pe urmele dacilor si romanilor",
+        "slideContent": "Peste 150 km galerii romane se afla in subsolul Rosiei Montane",
+        "imgUrl": "pages/home/img/carousel/miningGalery.jpg"
+    }
+]
