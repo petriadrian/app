@@ -75,67 +75,19 @@
     </div>
 
     <div class="categoryLayout">
-        <span id="bookings" class="anchor"></span>
-
-        <div class="titleLayout">
-            <h3><i class="fa fa-pencil-square-o"></i> Rezerva camere</h3>
-        </div>
-        <form id="roomReservation" name="roomReservation" class="roomReservation wide" method="post">
-
-            <div class="input-group">
-                <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                <input id="nameReservation" type="text" class="form-control" placeholder="Nume" required="required">
-            </div>
-            <div class="input-group">
-                <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                <input type="email" id="emailReservation" class="form-control" placeholder="Email" required="required">
-            </div>
-            <div class="input-group">
-                <span class="input-group-addon"><i class="fa fa-phone"></i></span>
-                <input type="tel" id="phoneReservation" class="form-control" placeholder="Telefon" required="required">
-            </div>
-            <div class="input-group">
-                <span class="input-group-addon"><i class="fa fa-calendar"></i></span>
-                <input type="text" name="daterange" placeholder="Alegeti perioada"
-                       class="form-control" required="required"/>
-            </div>
-
-            <div class="input_fields_wrap">
-                <div class="input-group">
-                    <span class="input-group-addon"><i class="fa fa-bed"></i></span>
-                    <select class="form-control" id="roomsTypeReservation" required="required">
-                        <option value="" disabled selected style='display:none;'>Alege tip camera</option>
-                        <option value="1">2 persoane (pat dublu)</option>
-                        <option value="2">2 persoane (paturi simple)</option>
-                        <option value="3">3 persoane (1 pat dublu + 1 pat simplu)</option>
-                        <option value="4">3 persoane (paturi simple)</option>
-                        <option value="5">4 persoane (1 pat dublu + 2 paturi simple)</option>
-                        <option value="6">4 persoane (paturi simple)</option>
-                        <option value="7">6 persoane (4 paturi simple + 1 pat dublu)</option>
-                    </select>
-                </div>
-            </div>
-            <p class="add_more_rooms"><i class="fa fa-plus"></i> Mai multe camere ...</p>
-
-            <div class="input-group">
-                <span class="input-group-addon"><i class="fa fa-info"></i></span>
-                <textarea form="roomReservation" id="othersReservation" class="form-control"
-                          placeholder="Altele"></textarea>
-            </div>
-            <p> *pentru mai multe detalii contactati-ne la 0743188186</p>
-            <input type="submit" value="Rezerva" class="btn btn-default submitButton">
-
-        </form>
-    </div>
-
-    <div class="categoryLayout">
         <span id="moreDetails" class="anchor"></span>
 
         <div class="titleLayout">
-            <h3><i class="fa fa-home"></i> Cum e la noi?</h3>
+            <h2><i class="fa fa-home"></i> Cum e la noi?</h2>
+        </div>
+
+        <div class="subcategoryLayout">
+            <div class="titleSubcategory">
+                <h3>Camere</h3>
+            </div>
+
         </div>
         <div id="columns">
-
             <figure>
                 <img src="img/1.jpg">
                 <figcaption>Cinderella wearing European fashion of the mid-1860’s That’s why I’ve compiled 50 of the
@@ -195,6 +147,61 @@
             </figure>
         </div>
     </div>
+
+    <div class="categoryLayout">
+        <span id="bookings" class="anchor"></span>
+
+        <div class="titleLayout">
+            <h2><i class="fa fa-pencil-square-o"></i> Rezerva camere</h2>
+        </div>
+        <form id="roomReservation" name="roomReservation" class="roomReservation wide" method="post">
+
+            <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                <input id="nameReservation" type="text" class="form-control" placeholder="Nume" required="required">
+            </div>
+            <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                <input type="email" id="emailReservation" class="form-control" placeholder="Email" required="required">
+            </div>
+            <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-phone"></i></span>
+                <input type="tel" id="phoneReservation" class="form-control" placeholder="Telefon" required="required">
+            </div>
+            <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-calendar"></i></span>
+                <input type="text" name="daterange" placeholder="Alegeti perioada"
+                       class="form-control" required="required"/>
+            </div>
+
+            <div class="input_fields_wrap">
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="fa fa-bed"></i></span>
+                    <select class="form-control" id="roomsTypeReservation" required="required">
+                        <option value="" disabled selected style='display:none;'>Alege tip camera</option>
+                        <option value="1">2 persoane (pat dublu)</option>
+                        <option value="2">2 persoane (paturi simple)</option>
+                        <option value="3">3 persoane (1 pat dublu + 1 pat simplu)</option>
+                        <option value="4">3 persoane (paturi simple)</option>
+                        <option value="5">4 persoane (1 pat dublu + 2 paturi simple)</option>
+                        <option value="6">4 persoane (paturi simple)</option>
+                        <option value="7">6 persoane (4 paturi simple + 1 pat dublu)</option>
+                    </select>
+                </div>
+            </div>
+            <p class="add_more_rooms"><i class="fa fa-plus"></i> Mai multe camere ...</p>
+
+            <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-info"></i></span>
+                <textarea form="roomReservation" id="othersReservation" class="form-control"
+                          placeholder="Altele"></textarea>
+            </div>
+            <p> *pentru mai multe detalii contactati-ne la 0743188186</p>
+            <input type="submit" value="Rezerva" class="btn btn-default submitButton">
+
+        </form>
+    </div>
+
 
     <div style="clear: both;"></div>
 

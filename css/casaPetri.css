@@ -220,10 +220,21 @@ body {
 	background-color: #151F1D;
 	margin: 20px 0 10px 0;
 }
-.titleLayout h3{
+.titleLayout h2 {
 	margin: 0px;
 	font-size: 1.6em;
 	color: white;
+}
+
+.titleSubcategory {
+	padding: 10px;
+	margin: 20px 0 10px 0;
+}
+
+.titleSubcategory h3 {
+	margin: 0px;
+	font-size: 1.6em;
+	text-align: center;
 }
 
 /*------------------------------------*\
