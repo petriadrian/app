@@ -2,7 +2,7 @@
     {
         "titleBox": "Festival",
         "titleHover": "Festival",
-        "details": "Teatru, forumuri, muzica, film. Participa in August la cel mai activ festival: FanFest",
+        "details": "|August| Teatru, forumuri, muzica, film. Participa la cel mai activ festival: FanFest",
         "href": "window.open('http://www.fanfest.ro')",
         "imgUrl1": "pages/home/img/recommendations/fanfest/1.png",
         "imgUrl2": "pages/home/img/recommendations/fanfest/2.png",
@@ -11,7 +11,7 @@
     {
         "titleBox": "Maraton",
         "titleHover": "Maraton",
-        "details": "Maraton, Semimaraton, maraton copii. In Iulie alergam pentru natura! ",
+        "details": "|Iulie| Maraton, Semimaraton, maraton copii. Drumurile satului devin piste de alergare",
         "href": "window.open('http://www.rosiamontanamarathon.ro')",
         "imgUrl1": "pages/home/img/recommendations/marathon/1.png",
         "imgUrl2": "pages/home/img/recommendations/marathon/2.png",
@@ -20,8 +20,26 @@
     {
         "titleBox": "Patrimoniu",
         "titleHover": "Patrimoniu",
-        "details": "Implica-te in restaurarea sitului arheologic prin donatii sau ca voluntar",
+        "details": "|Iulie-Septembrie| Cladirile vechi prind viata. Implica-te in taberele de restaurare",
         "href": "window.open('http://www.adoptaocasa.ro')",
+        "imgUrl1": "pages/home/img/recommendations/adoptHouse/1.png",
+        "imgUrl2": "pages/home/img/recommendations/adoptHouse/2.png",
+        "imgUrl3": "pages/home/img/recommendations/adoptHouse/3.png"
+    },
+    {
+        "titleBox": "1 Mai",
+        "titleHover": "1 Mai",
+        "details": "|Mai| Sunetul chitarii, focul de tabara, traseele ghidate sunt deja o traditie in minivacanta de 1 mai",
+        "href": "window.open('https://vizitatirosiamontana.wordpress.com/2015/02/06/vacanta-1-mai-2015-rosia-montana-pachetul-turistic-245-lei/')",
+        "imgUrl1": "pages/home/img/recommendations/adoptHouse/1.png",
+        "imgUrl2": "pages/home/img/recommendations/adoptHouse/2.png",
+        "imgUrl3": "pages/home/img/recommendations/adoptHouse/3.png"
+    },
+    {
+        "titleBox": "Narcise",
+        "titleHover": "Narcise",
+        "details": "|Mai| O patura alba si un miros imbatator pun stapanire pe Poiana Negrileasa |~15km de Rosia|",
+        "href": "window.open('http://www.muntii-apuseni.eu/news.php?readmore=7')",
         "imgUrl1": "pages/home/img/recommendations/adoptHouse/1.png",
         "imgUrl2": "pages/home/img/recommendations/adoptHouse/2.png",
         "imgUrl3": "pages/home/img/recommendations/adoptHouse/3.png"
