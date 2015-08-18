@@ -36,6 +36,15 @@
         "imgUrl3": "pages/home/img/activities/exhibitions/3.png"
     },
     {
+        "titleBox": "Mocanita",
+        "titleHover": "Mocanita",
+        "details": "Exploreaza calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur",
+        "href": "window.open('http://www.cfi.ro/index.php?p=1_15')",
+        "imgUrl1": "pages/home/img/activities/steamTrain/1.png",
+        "imgUrl2": "pages/home/img/activities/steamTrain/2.png",
+        "imgUrl3": "pages/home/img/activities/steamTrain/3.png"
+    },
+    {
         "titleBox": "Filme",
         "titleHover": "Filme",
         "details": "Proiec?ii de filme care descriu trecutul, lupta pentru aur sau natur? ?i povestea Ro?iei Montane.",
