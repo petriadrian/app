@@ -6,6 +6,11 @@
 	picture dimensions 560x310px
   */
 
+a, u {
+	text-decoration: none;
+	color: #151F1D;
+}
+
 body {
 	padding-top: 50px;
 	color: #151F1D;
@@ -189,10 +194,12 @@ body {
 }
 
 .defaultClickEvents:HOVER,
- div#columns figure:hover {
+.photoAlbum figure:HOVER,
+.photoAlbum a:HOVER {
 	background-color: #151F1D;
 	color: white;
 	cursor: pointer;
+	text-decoration: none;
 }
 
 .defaultClickEvents:ACTIVE
@@ -498,7 +505,7 @@ body {
 	width:100%;
 }
 
-div#columns figure {
+.photoAlbum figure {
 	width: 32%;
 	margin: 0.5%;
 	background-color:rgba(256, 256, 256, 0.8);
@@ -508,7 +515,7 @@ div#columns figure {
     column-break-inside: avoid;
 }
 
-div#columns figure img {
+.photoAlbum figure img {
 	width: 100%;
 	height: auto;
 	border-bottom: 1px solid #ccc;
@@ -516,7 +523,7 @@ div#columns figure img {
 	margin-bottom: 5px;
 }
 
-div#columns figure figcaption {
+.photoAlbum figure figcaption {
   font-size: .9em;
   line-height: 1.5;
 }
