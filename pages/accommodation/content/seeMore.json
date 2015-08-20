@@ -1,7 +1,7 @@
 [
   {
     "titleBox": "Cort",
-    "titleHover": "Rezerva un loc de cort",
+    "hoverText": "Rezerva un loc de cort",
     "details": "Cazare la mii de stele sub lumina lunii? Rezerva un loc sigur de cort cu acces la baie si bucatarie",
     "href": "#",
     "imgUrl1": "../home/img/reservations/camping/1.png",
@@ -10,7 +10,7 @@
   },
   {
     "titleBox": "Mancare",
-    "titleHover": "Unde iau masa?",
+    "hoverText": "Unde iau masa?",
     "details": "Locusoare secrete unde puteti servi o masa traditionala, sau puteti folosi bucataria noastra",
     "href": "#",
     "imgUrl1": "../home/img/reservations/food/1.png",
@@ -19,7 +19,7 @@
   },
   {
     "titleBox": "Carti",
-    "titleHover": "Vezi biblioteca noastra",
+    "hoverText": "Vezi biblioteca noastra",
     "details": "Alege cartile care sa te astepte pe noptiera din camera ta. Descopera locusoarele cosy de citit!",
     "href": "#",
     "imgUrl1": "../home/img/reservations/books/1.png",
