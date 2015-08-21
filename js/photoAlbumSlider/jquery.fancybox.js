@@ -2018,3 +2018,13 @@
 	});
 
 }(window, document, jQuery));
+
+// photo album slider config
+$(".fancybox").fancybox({
+	helpers : {
+		title: {
+			type: 'inside',
+			position: 'bottom'
+		}
+	}
+});

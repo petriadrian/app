@@ -74,19 +74,19 @@ body {
 
 }
 
-.navbar-inverse .navbar-nav>li>a:HOVER,
-.navbar-brand .backImage:HOVER {
-	background-color:rgba(255,255,255,0.1);
-	color:rgba(255,255,255,0.8);
+.navbar-text>a:HOVER,
+.footerText a:HOVER,
+.footerText a:active{
+	cursor: pointer;
+	color:  gray;
 }
 
-.navbar-inverse .navbar-nav > .active > a,
-.navbar-inverse .navbar-nav > .active > a:hover,
-.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav>li>a:HOVER,
+.navbar-brand .backImage:HOVER,
 .btn-primary:HOVER,
-.btn-primary:FOCUS {
-	background-color:rgba(0,0,0,0.9);
-	border-color: white;
+.btn-primary:FOCUS{
+	background-color: #4A4A4A;
+	border-color: #4A4A4A;
 }
 
 .navbar-inverse .navbar-text {
@@ -97,12 +97,6 @@ body {
 .navbar-text>a {
 	color: inherit;
 	margin-right: 5px;
-}
-
-.navbar-text>a:HOVER,
-.footerText a:HOVER {
-	cursor: pointer;
-	color:rgba(255,255,255,0.4);
 }
 
 .container {
@@ -224,13 +218,14 @@ body {
 
  .titleLayout {
 	padding: 10px;
-	background-color: #151F1D;
+	/*background-color: #151F1D;*/
 	margin: 50px 0 20px 0;
+	border-bottom: 2px solid #151F1D;
 }
 .titleLayout h2 {
 	margin: 0px;
-	font-size: 1.6em;
-	color: white;
+	font-size: 2.2em;
+	/*color: white;*/
 }
 
 .titleSubcategory {
@@ -359,10 +354,6 @@ body {
 
 .footerText {
 	float: right;
-}
-
-.footerText a {
-	color: white;
 }
 
 .btn-primary {

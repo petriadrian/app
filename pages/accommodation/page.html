@@ -48,12 +48,11 @@
             <ul class="nav navbar-nav">
                 <li><a href="../../index.html#accomodation">Rezervări</a></li>
                 <li><a href="../../index.html#activities">Activitati</a></li>
-                <li><a href="../../index.html#contact">Pachete</a></li>
                 <li><a href="../../index.html#others">Altele</a></li>
             </ul>
             <ul class="navbar-text pull-right">
                 <a href="https://www.facebook.com/casapetrirosiamontana?ref=hl&ref_type=bookmark" target="_blank">
-                    <i class="fa fa-facebook fa-2x"
+                    <i class="fa fa-facebook-square fa-2x"
                        title="Follow us on facebook"></i> </a>
                 <a data-toggle="modal" data-backdrop="true" data-target="#sendMail">
                     <i class="fa fa-envelope fa-2x"></i></a>
@@ -77,16 +76,15 @@
 
     <div class="categoryLayout">
         <span id="moreDetails" class="anchor"></span>
-
         <div class="titleLayout">
             <h2><i class="fa fa-home"></i> Cum e la noi?</h2>
         </div>
 
+        <!-- ROOMS-->
         <div class="subcategoryLayout">
             <div class="titleSubcategory">
                 <h3>Camere</h3>
             </div>
-
             <div class="photoAlbum" id="roomsPhotoAlbum">
                 <script>
                     $(document).ready(function () {
@@ -98,12 +96,50 @@
                         });
                     });
                 </script>
-
             </div>
-
         </div>
+
+        <!-- COSY PLACES-->
+        <div class="subcategoryLayout">
+            <div class="titleSubcategory">
+                <h3>Cosy Places</h3>
+            </div>
+            <div class="photoAlbum" id="cosyPlacesPhotoAlbum">
+                <script>
+                    $(document).ready(function () {
+                        $.get('../commonStuffs/template/photoAlbumBox.htm', function (templates) {
+                            $('body').append(templates);
+                            $.get("content/rooms.json", function (content) {
+                                $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#cosyPlacesPhotoAlbum");
+                            })
+                        });
+                    });
+                </script>
+            </div>
+        </div>
+
+        <!-- GARDEN-->
+        <div class="subcategoryLayout">
+            <div class="titleSubcategory">
+                <h3>Prin gradina</h3>
+            </div>
+            <div class="photoAlbum" id="gardenPhotoAlbum">
+                <script>
+                    $(document).ready(function () {
+                        $.get('../commonStuffs/template/photoAlbumBox.htm', function (templates) {
+                            $('body').append(templates);
+                            $.get("content/rooms.json", function (content) {
+                                $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#gardenPhotoAlbum");
+                            })
+                        });
+                    });
+                </script>
+            </div>
+        </div>
+
     </div>
 
+    <!--RESERVATION FORM-->
     <div class="categoryLayout">
         <span id="bookings" class="anchor"></span>
 
@@ -157,8 +193,6 @@
 
         </form>
     </div>
-
-
     <div style="clear: both;"></div>
 
     <!-- SEE MORE -->
@@ -181,11 +215,12 @@
     </div>
     <div style="clear: both;"></div>
 
+    <!-- FOOTER -->
     <div class="categoryLayout">
         <div class="titleLayout">
             <h2 class="footerText">
                 <a href="https://www.facebook.com/casapetrirosiamontana?ref=hl&ref_type=bookmark" target="_blank">
-                    <i class="fa fa-facebook" title="Follow us on facebook"></i> </a>
+                    <i class="fa fa-facebook-square" title="Follow us on facebook"></i> </a>
                 <a data-toggle="modal" data-backdrop="true" data-target="#sendMail">
                     <i class="fa fa-envelope"></i></a>
                 <a href="https://www.google.ro/maps/place/Casa+Petri/@46.1241884,24.6991095,7z/data=!4m2!3m1!1s0x474ecce046c99d41:0xc76f83a95070630c?hl=ro"

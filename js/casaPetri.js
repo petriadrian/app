@@ -6,15 +6,6 @@ $('.nav a').on('click', function(){
    $(".navbar-toggle").click()
 });
 
-// photo album slider config
-$(".fancybox").fancybox({
-    helpers : {
-        title: {
-            type: 'inside',
-            position: 'bottom'
-        }
-    }
-});
 // Unused functions
 // Add active when a button clicked
 //    $(document).ready(function () {
