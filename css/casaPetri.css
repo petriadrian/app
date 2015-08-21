@@ -194,8 +194,8 @@ body {
 }
 
 .defaultClickEvents:HOVER,
-.photoAlbum figure:HOVER,
-.photoAlbum a:HOVER {
+.photoAlbum figure:HOVER > a,
+.photoAlbum figure:HOVER{
 	background-color: #151F1D;
 	color: white;
 	cursor: pointer;

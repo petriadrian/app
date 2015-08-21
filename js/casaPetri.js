@@ -12,11 +12,6 @@ $(".fancybox").fancybox({
         title: {
             type: 'inside',
             position: 'bottom'
-        },
-        overlay : {
-            css : {
-                'background' : 'rgba(0, 0, 0, 0.85)'
-            }
         }
     }
 });
