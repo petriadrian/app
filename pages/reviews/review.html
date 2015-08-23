@@ -48,7 +48,7 @@
             <ul class="nav navbar-nav">
                 <li><a href="../../index.html#accomodation">Rezervări</a></li>
                 <li><a href="../../index.html#activities">Activitati</a></li>
-                <li><a href="../../index.html#others">Altele</a></li>
+                <li><a href="../../index.html#recommendations">De neratat!</a></li>
             </ul>
             <ul class="navbar-text pull-right">
                 <a href="https://www.facebook.com/casapetrirosiamontana?ref=hl&ref_type=bookmark" target="_blank">
@@ -66,134 +66,32 @@
 
 <div class="container">
 
-    <div class="pageMotto">
+    <div class="pageMotto" style="background-image: url('img/introBackground.png')">
         <h1>
-            O cafea intr-o dimineata la Rosia Montana?
+            Crestem impreuna cu cei ce ne trec pragul
         </h1>
-        <a href="#bookings" class="btn btn-large btn-primary">Fa o rezervare</a>
-        <a href="#moreDetails" class="btn btn-large btn-primary">Cum e la noi?</a>
+        <a href="#reviewHead" class="btn btn-large btn-primary">Impresii</a>
+        <a href="#moreDetails" class="btn btn-large btn-primary">Adauga o impresie</a>
     </div>
 
-    <div class="categoryLayout">
-        <span id="moreDetails" class="anchor"></span>
-        <div class="titleLayout">
-            <h2><i class="fa fa-home"></i> Cum e la noi?</h2>
-        </div>
-
-        <!-- ROOMS-->
-        <div class="subcategoryLayout">
-            <div class="titleSubcategory">
-                <h3>Camere</h3>
-            </div>
-            <div class="photoAlbum" id="roomsPhotoAlbum">
-                <script>
-                    $(document).ready(function () {
-                        $.get('../commonStuffs/template/photoAlbumBox.htm', function (templates) {
-                            $('body').append(templates);
-                            $.get("content/rooms.json", function (content) {
-                                $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#roomsPhotoAlbum");
-                            })
-                        });
-                    });
-                </script>
-            </div>
-        </div>
-
-        <!-- COSY PLACES-->
-        <div class="subcategoryLayout">
-            <div class="titleSubcategory">
-                <h3>Cosy Places</h3>
-            </div>
-            <div class="photoAlbum" id="cosyPlacesPhotoAlbum">
-                <script>
-                    $(document).ready(function () {
-                        $.get('../commonStuffs/template/photoAlbumBox.htm', function (templates) {
-                            $('body').append(templates);
-                            $.get("content/rooms.json", function (content) {
-                                $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#cosyPlacesPhotoAlbum");
-                            })
-                        });
-                    });
-                </script>
-            </div>
-        </div>
-
-        <!-- GARDEN-->
-        <div class="subcategoryLayout">
-            <div class="titleSubcategory">
-                <h3>Prin gradina</h3>
-            </div>
-            <div class="photoAlbum" id="gardenPhotoAlbum">
-                <script>
-                    $(document).ready(function () {
-                        $.get('../commonStuffs/template/photoAlbumBox.htm', function (templates) {
-                            $('body').append(templates);
-                            $.get("content/rooms.json", function (content) {
-                                $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#gardenPhotoAlbum");
-                            })
-                        });
-                    });
-                </script>
-            </div>
-        </div>
-
-    </div>
-
-    <!--RESERVATION FORM-->
-    <div class="categoryLayout">
-        <span id="bookings" class="anchor"></span>
+    <!-- REVIEWS -->
+    <div class="categoryLayout" id="reviewLayout">
+        <span id="reviewHead" class="anchor"></span>
 
         <div class="titleLayout">
-            <h2><i class="fa fa-pencil-square-o"></i> Rezerva camere</h2>
+            <h2><i class="fa fa-home"></i> Impresii</h2>
         </div>
-        <form id="roomReservation" name="roomReservation" class="roomReservation wide" method="post">
-
-            <div class="input-group">
-                <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                <input id="nameReservation" type="text" class="form-control" placeholder="Nume" required="required">
-            </div>
-            <div class="input-group">
-                <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                <input type="email" id="emailReservation" class="form-control" placeholder="Email" required="required">
-            </div>
-            <div class="input-group">
-                <span class="input-group-addon"><i class="fa fa-phone"></i></span>
-                <input type="tel" id="phoneReservation" class="form-control" placeholder="Telefon" required="required">
-            </div>
-            <div class="input-group">
-                <span class="input-group-addon"><i class="fa fa-calendar"></i></span>
-                <input type="text" name="daterange" placeholder="Alegeti perioada"
-                       class="form-control" required="required"/>
-            </div>
-
-            <div class="input_fields_wrap">
-                <div class="input-group">
-                    <span class="input-group-addon"><i class="fa fa-bed"></i></span>
-                    <select class="form-control" id="roomsTypeReservation" required="required">
-                        <option value="" disabled selected style='display:none;'>Alege tip camera</option>
-                        <option value="1">2 persoane (pat dublu)</option>
-                        <option value="2">2 persoane (paturi simple)</option>
-                        <option value="3">3 persoane (1 pat dublu + 1 pat simplu)</option>
-                        <option value="4">3 persoane (paturi simple)</option>
-                        <option value="5">4 persoane (1 pat dublu + 2 paturi simple)</option>
-                        <option value="6">4 persoane (paturi simple)</option>
-                        <option value="7">6 persoane (4 paturi simple + 1 pat dublu)</option>
-                    </select>
-                </div>
-            </div>
-            <p class="add_more_rooms"><i class="fa fa-plus"></i> Mai multe camere ...</p>
-
-            <div class="input-group">
-                <span class="input-group-addon"><i class="fa fa-info"></i></span>
-                <textarea form="roomReservation" id="othersReservation" class="form-control"
-                          placeholder="Altele"></textarea>
-            </div>
-            <p> *pentru mai multe detalii contactati-ne la 0743188186</p>
-            <input type="submit" value="Rezerva" class="btn btn-default submitButton">
-
-        </form>
+        <script>
+            $(document).ready(function () {
+                $.get('template/review.htm', function (templates) {
+                    $('body').append(templates);
+                    $.get("../commonStuffs/content/review.json", function (content) {
+                        $('#reviewPageBoxTemplateId').tmpl(content).appendTo("#reviewLayout");
+                    })
+                });
+            });
+        </script>
     </div>
-    <div style="clear: both;"></div>
 
     <!-- SEE MORE -->
     <div id="seeMoreLayout" class="categoryLayout">
@@ -268,6 +166,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="../../js/daterangepicker.js"></script>
 <script type="text/javascript" src="../../js/photoAlbumSlider/jquery.fancybox.js"></script>
+<script type="text/javascript" src="../../js/photoAlbumSlider/jquery.mousewheel-3.0.6.pack.js"></script>
 <script type="text/javascript" src="../../js/casaPetri.js"></script>
 <script type="text/javascript" src="../../js/casaPetri_rezervations.js"></script>
 

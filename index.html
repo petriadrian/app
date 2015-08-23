@@ -95,7 +95,7 @@
         </a>
         </div>
     </div>
-    <div class="reviewLayout">
+    <div class="reviewLayout" onclick="location.href='pages/review/review.html'">
         <div class="reviewsArea defaultClickEvents">
             <div class="carousel slide" data-ride="carousel" data-interval="1000"
                  data-ride="carousel">
@@ -105,7 +105,7 @@
                         $(document).ready(function() {
                             $.get('pages/home/template/review.htm', function(templates) {
                                 $('body').append(templates);
-                                $.get("pages/home/content/review.json", function (content) {
+                                $.get("pages/commonStuffs/content/review.json", function (content) {
                                     $('#reviewBoxTemplateId').tmpl(content).appendTo("#reviewCarouselLayout");
                                 })
                             });

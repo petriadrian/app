@@ -14,7 +14,7 @@ a, u {
 body {
 	padding-top: 50px;
 	color: #151F1D;
-	font-size: 14 px;
+	font-size: 14px;
 	font-family: 'Open Sans', sans-serif;
 	/*background-image: url("back.jpg");*/
 	/*background-repeat: no-repeat;*/
@@ -187,6 +187,11 @@ body {
     font-size: 1.2em;
 }
 
+.reviewText {
+	width: 100%;
+	text-align: center;
+}
+
 .defaultClickEvents:HOVER,
 .photoAlbum figure:HOVER > a,
 .photoAlbum figure:HOVER{
@@ -218,13 +223,14 @@ body {
 
  .titleLayout {
 	padding: 10px;
-	/*background-color: #151F1D;*/
+	background-color: #151F1D;
+    color: white;
 	margin: 50px 0 20px 0;
 	border-bottom: 2px solid #151F1D;
 }
 .titleLayout h2 {
 	margin: 0px;
-	font-size: 2.2em;
+	font-size: 1.6em;
 	/*color: white;*/
 }
 
@@ -234,10 +240,20 @@ body {
 }
 
 .titleSubcategory h3 {
-	margin: 0px;
+	width: 100%;
+	/*margin: 0px;*/
 	font-size: 1.6em;
 	text-align: center;
+	border-bottom: 1px solid #000;
+	line-height: 0.1em;
+	margin: 10px 0 20px;
 }
+
+.titleSubcategory h3 span {
+	background:#fff;
+	padding:0 10px;
+}
+
 
 /*------------------------------------*\
     $ MAIN CAROUSEL
@@ -356,11 +372,16 @@ body {
 	float: right;
 }
 
+.footerText a {
+	color: white;
+}
+
 .btn-primary {
     background-color: #151F1D;
     border-color: #151F1D;
     color: #fff;
     font-size: 1.2em;
+	margin-top: 2px;
 }
 
 .modal textarea{
@@ -446,7 +467,6 @@ body {
 .pageMotto {
 	width: 100%;
 	padding: 40px 100px 100px 100px;
-	background-image: url("../pages/accommodation/img/introBackground.png");
 	background-size: 100%;
 	background-repeat: no-repeat;
     background-position: right bottom;
@@ -494,6 +514,10 @@ body {
 }
 .defaultImagePage img {
 	width:100%;
+}
+
+.photoAlbum {
+	text-align: center;
 }
 
 .photoAlbum figure {

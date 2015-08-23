@@ -3,7 +3,7 @@
         "titleBox": "Camere",
         "hoverText": "Rezerva o camera",
         "details": "Casuta a fost cinematograf, spital ?i banc? iar acum este redeschis? ca spa?iu de cazare. Vizita?i-o!",
-        "href": "location.href='pages/accommodation/page.html'",
+        "href": "location.href='pages/accommodation/accommodation.html'",
         "imgUrl1": "pages/home/img/reservations/rooms/1.png",
         "imgUrl2": "pages/home/img/reservations/rooms/2.png",
         "imgUrl3": "pages/home/img/reservations/rooms/3.png"

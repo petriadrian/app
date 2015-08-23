@@ -1,23 +1,30 @@
 [
   {
     "hoverText": "Camera minerilor",
-    "roomDetails": "Cazare la mii de stele sub lumina lunii? Rezerva un loc sigur de cort cu acces la baie si bucatarie",
+    "roomDetails": "Fost spatiu de cinema si banca, camera a fost renovata prin a ii se scoate zidurile de piatra de 1m grosime",
     "photoAlbum": "roomsAlbum",
-    "smallImgUrl": "img/rooms/thumbnails/1.png",
-    "bigImgUrl": "img/rooms/fullSize/1.png"
+    "thumbnailImgUrl": "img/rooms/thumbnail/1.jpg",
+    "fullSizeImgUrl": "img/rooms/fullSize/1.jpg"
   },
   {
     "hoverText": "Camera cartilor",
     "roomDetails": "Cazare la fklhsdlkjhsdjkdfn dcdf dlfj dlfdfl jhfgdjkgb;sfg d dlfgj;kdf;gkjf;dkfg",
     "photoAlbum": "roomsAlbum",
-    "smallImgUrl": "img/rooms/thumbnails/2.png",
-    "bigImgUrl": "img/rooms/fullSize/2.png"
+    "thumbnailImgUrl": "img/rooms/thumbnail/2.jpg",
+    "fullSizeImgUrl": "img/rooms/fullSize/2.jpg"
   },
   {
-    "hoverText": "Camera jkahfkjdhfjksd",
+    "hoverText": "Camera cartilor",
     "roomDetails": "Raluca are mere djkdfn dcdf dlfj dlfdfl jhfgdjkgb;sfg d dlfgj;kdf;gkjf;dkfg",
     "photoAlbum": "roomsAlbum",
-    "smallImgUrl": "img/rooms/thumbnails/2.png",
-    "bigImgUrl": "img/rooms/fullSize/2.png"
+    "thumbnailImgUrl": "img/rooms/thumbnail/3.jpg",
+    "fullSizeImgUrl": "img/rooms/fullSize/3.jpg"
+  },
+  {
+    "hoverText": "Camera cartilor",
+    "roomDetails": "Raluca are mere djkdfn dcdf dlfj dlfdfl jhfgdjkgb;sfg d dlfgj;kdf;gkjf;dkfg",
+    "photoAlbum": "roomsAlbum",
+    "thumbnailImgUrl": "img/rooms/thumbnail/4.jpg",
+    "fullSizeImgUrl": "img/rooms/fullSize/4.jpg"
   }
 ]
