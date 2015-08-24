@@ -91,11 +91,12 @@
         <script>
             $(document).ready(function () {
                 $.get('pages/commonStuffs/template/menuBox.htm', function (templates) {
-                    $('body').append(templates);
+                    $('#reservationsLayout').append(templates);
                     $.get("pages/home/content/reservations.json", function (content) {
                         $('#menuBoxTemplateId').tmpl(content).appendTo("#reservationsLayout");
                     })
                 });
+                if (getParameterFromUrl('anchor') == "reservations") {location.href="/casaPetri/index.html#reservations";};
             });
         </script>
     </div>
@@ -120,11 +121,12 @@
         <script>
             $(document).ready(function () {
                 $.get('pages/commonStuffs/template/menuBox.htm', function (templates) {
-                    $('body').append(templates);
+                    $('#activitiesLayout').append(templates);
                     $.get("pages/home/content/activities.json", function (content) {
                         $('#menuBoxTemplateId').tmpl(content).appendTo("#activitiesLayout");
                     })
                 });
+                if (getParameterFromUrl('anchor') == "activities") {location.href="/casaPetri/index.html#activities";};
             });
         </script>
     </div>
@@ -140,11 +142,12 @@
         <script>
             $(document).ready(function () {
                 $.get('pages/commonStuffs/template/menuBox.htm', function (templates) {
-                    $('body').append(templates);
+                    $('#recommendationsLayout').append(templates);
                     $.get("pages/home/content/recommendations.json", function (content) {
                         $('#menuBoxTemplateId').tmpl(content).appendTo("#recommendationsLayout");
                     })
                 });
+                if (getParameterFromUrl('anchor') == "recommendations") {location.href="/casaPetri/index.html#recommendations";};
             });
         </script>
     </div>

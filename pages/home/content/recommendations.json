@@ -4,62 +4,62 @@
         "hoverText": "Festival",
         "details": "|August| Teatru, forumuri, muzica, film. Participa la cel mai activ festival: FanFest",
         "href": "window.open('http://www.fanfest.ro')",
-        "imgUrl1": "pages/home/img/recommendations/fanfest/1.png",
-        "imgUrl2": "pages/home/img/recommendations/fanfest/2.png",
-        "imgUrl3": "pages/home/img/recommendations/fanfest/3.png"
+        "imgUrl1": "pages/home/img/recommendations/fanfest/1.jpg",
+        "imgUrl2": "pages/home/img/recommendations/fanfest/2.jpg",
+        "imgUrl3": "pages/home/img/recommendations/fanfest/3.jpg"
     },
     {
         "titleBox": "Maraton",
         "hoverText": "Maraton",
         "details": "|Iulie| Maraton, Semimaraton, maraton copii. Drumurile satului devin piste de alergare",
         "href": "window.open('http://www.rosiamontanamarathon.ro')",
-        "imgUrl1": "pages/home/img/recommendations/marathon/1.png",
-        "imgUrl2": "pages/home/img/recommendations/marathon/2.png",
-        "imgUrl3": "pages/home/img/recommendations/marathon/3.png"
+        "imgUrl1": "pages/home/img/recommendations/marathon/1.jpg",
+        "imgUrl2": "pages/home/img/recommendations/marathon/2.jpg",
+        "imgUrl3": "pages/home/img/recommendations/marathon/3.jpg"
     },
     {
         "titleBox": "Restaurari",
         "hoverText": "Restaurari",
         "details": "|Iul-Sept| Cladiri vechi prind viata. Deprinde mestesuguri traditionale in taberele ARA",
         "href": "window.open('http://www.adoptaocasa.ro')",
-        "imgUrl1": "pages/home/img/recommendations/adoptHouse/1.png",
-        "imgUrl2": "pages/home/img/recommendations/adoptHouse/2.png",
-        "imgUrl3": "pages/home/img/recommendations/adoptHouse/3.png"
+        "imgUrl1": "pages/home/img/recommendations/adoptHouse/1.jpg",
+        "imgUrl2": "pages/home/img/recommendations/adoptHouse/2.jpg",
+        "imgUrl3": "pages/home/img/recommendations/adoptHouse/3.jpg"
     },
     {
         "titleBox": "1 Mai",
         "hoverText": "1 Mai",
         "details": "|Mai| Sunetul chitarii, focul de tabara si traseele ghidate sunt deja o traditie in minivacanta de 1 mai",
         "href": "window.open('https://vizitatirosiamontana.wordpress.com/2015/02/06/vacanta-1-mai-2015-rosia-montana-pachetul-turistic-245-lei/')",
-        "imgUrl1": "pages/home/img/recommendations/1mai/1.png",
-        "imgUrl2": "pages/home/img/recommendations/1mai/2.png",
-        "imgUrl3": "pages/home/img/recommendations/1mai/3.png"
+        "imgUrl1": "pages/home/img/recommendations/1mai/1.jpg",
+        "imgUrl2": "pages/home/img/recommendations/1mai/2.jpg",
+        "imgUrl3": "pages/home/img/recommendations/1mai/3.jpg"
     },
     {
         "titleBox": "Narcise",
         "hoverText": "Narcise",
         "details": "|Mai| O patura alba si un miros imbatator pun stapanire pe Poiana Negrileasa |~18km de Rosia|",
         "href": "window.open('http://www.muntii-apuseni.eu/news.php?readmore=7')",
-        "imgUrl1": "pages/home/img/recommendations/negrileasa/1.png",
-        "imgUrl2": "pages/home/img/recommendations/negrileasa/2.png",
-        "imgUrl3": "pages/home/img/recommendations/negrileasa/3.png"
+        "imgUrl1": "pages/home/img/recommendations/negrileasa/1.jpg",
+        "imgUrl2": "pages/home/img/recommendations/negrileasa/2.jpg",
+        "imgUrl3": "pages/home/img/recommendations/negrileasa/3.jpg"
     },
     {
         "titleBox": "Cercetasii",
         "hoverText": "Cercetasii",
         "details": "Dor de copilarie? Implica-te si cunoaste-i pe cercetasii din Rosia Montana",
         "href": "window.open('http://www.cercetasirosiamontana.ro')",
-        "imgUrl1": "pages/home/img/recommendations/scouts/1.png",
-        "imgUrl2": "pages/home/img/recommendations/scouts/2.png",
-        "imgUrl3": "pages/home/img/recommendations/scouts/3.png"
+        "imgUrl1": "pages/home/img/recommendations/scouts/1.jpg",
+        "imgUrl2": "pages/home/img/recommendations/scouts/2.jpg",
+        "imgUrl3": "pages/home/img/recommendations/scouts/3.jpg"
     },
     {
         "titleBox": "Suvenir",
         "hoverText": "Suvenir",
         "details": "Cumpara produse traditionale lucrate manual de localnicii din Rosia Montana",
         "href": "window.open('http://www.madeinrosiamontana.ro')",
-        "imgUrl1": "pages/home/img/recommendations/madeInRosia/1.png",
-        "imgUrl2": "pages/home/img/recommendations/madeInRosia/2.png",
-        "imgUrl3": "pages/home/img/recommendations/madeInRosia/3.png"
+        "imgUrl1": "pages/home/img/recommendations/madeInRosia/1.jpg",
+        "imgUrl2": "pages/home/img/recommendations/madeInRosia/2.jpg",
+        "imgUrl3": "pages/home/img/recommendations/madeInRosia/3.jpg"
     }
 ]

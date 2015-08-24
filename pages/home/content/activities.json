@@ -4,72 +4,72 @@
         "hoverText": "Bicicleta",
         "details": "Vino cu bicicleta sau inchiriaza una ?i aventureaza-te pe traseele de biciclet?",
         "href": "location.href='pages/bicycle/page.html'",
-        "imgUrl1": "pages/home/img/activities/bike/1.png",
-        "imgUrl2": "pages/home/img/activities/bike/2.png",
-        "imgUrl3": "pages/home/img/activities/bike/3.png"
+        "imgUrl1": "pages/home/img/activities/bike/1.jpg",
+        "imgUrl2": "pages/home/img/activities/bike/2.jpg",
+        "imgUrl3": "pages/home/img/activities/bike/3.jpg"
     },
     {
         "titleBox": "Drumetii",
         "hoverText": "Drumetii",
         "details": "Tasee turistice ghidate prin care descoperi localitatea, mun?ii, bisericile, lacurile, galeriile ... ",
         "href": "location.href='#'",
-        "imgUrl1": "pages/home/img/activities/routes/1.png",
-        "imgUrl2": "pages/home/img/activities/routes/2.png",
-        "imgUrl3": "pages/home/img/activities/routes/3.png"
+        "imgUrl1": "pages/home/img/activities/routes/1.jpg",
+        "imgUrl2": "pages/home/img/activities/routes/2.jpg",
+        "imgUrl3": "pages/home/img/activities/routes/3.jpg"
     },
     {
         "titleBox": "Galerii",
         "hoverText": "Galerii",
         "details": " Vizite ghidate prin galeriile subterane. Vezi cum extrageau aurul dacii si romanii",
         "href": "location.href='pages/galleries/page.html'",
-        "imgUrl1": "pages/home/img/activities/museum/1.png",
-        "imgUrl2": "pages/home/img/activities/museum/2.png",
-        "imgUrl3": "pages/home/img/activities/museum/3.png"
+        "imgUrl1": "pages/home/img/activities/museum/1.jpg",
+        "imgUrl2": "pages/home/img/activities/museum/2.jpg",
+        "imgUrl3": "pages/home/img/activities/museum/3.jpg"
     },
     {
         "titleBox": "Expozitii",
         "hoverText": "Expozitii",
         "details": " Poze, schite si legende despre traiul oamenilor din cea mai veche localitate din Romania",
         "href": "location.href='#'",
-        "imgUrl1": "pages/home/img/activities/exhibitions/1.png",
-        "imgUrl2": "pages/home/img/activities/exhibitions/2.png",
-        "imgUrl3": "pages/home/img/activities/exhibitions/3.png"
+        "imgUrl1": "pages/home/img/activities/exhibitions/1.jpg",
+        "imgUrl2": "pages/home/img/activities/exhibitions/2.jpg",
+        "imgUrl3": "pages/home/img/activities/exhibitions/3.jpg"
     },
     {
         "titleBox": "Mocanita",
         "hoverText": "Mocanita",
         "details": "Exploreaza calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur",
         "href": "window.open('http://www.cfi.ro/index.php?p=1_15')",
-        "imgUrl1": "pages/home/img/activities/steamTrain/1.png",
-        "imgUrl2": "pages/home/img/activities/steamTrain/2.png",
-        "imgUrl3": "pages/home/img/activities/steamTrain/3.png"
+        "imgUrl1": "pages/home/img/activities/steamTrain/1.jpg",
+        "imgUrl2": "pages/home/img/activities/steamTrain/2.jpg",
+        "imgUrl3": "pages/home/img/activities/steamTrain/3.jpg"
     },
     {
         "titleBox": "Filme",
         "hoverText": "Filme",
         "details": "Proiec?ii de filme care descriu trecutul, lupta pentru aur sau natur? ?i povestea Ro?iei Montane.",
         "href": "location.href='#'",
-        "imgUrl1": "pages/home/img/activities/film/1.png",
-        "imgUrl2": "pages/home/img/activities/film/2.png",
-        "imgUrl3": "pages/home/img/activities/film/3.png"
+        "imgUrl1": "pages/home/img/activities/film/1.jpg",
+        "imgUrl2": "pages/home/img/activities/film/2.jpg",
+        "imgUrl3": "pages/home/img/activities/film/3.jpg"
     },
     {
         "titleBox": "Jocuri",
         "hoverText": "Jocuri",
         "details": "Board games! Ce alt loc mai bun de Saboteour decat in localitatea cu peste 120km galerii subterane",
         "href": "location.href='#'",
-        "imgUrl1": "pages/home/img/activities/boardGames/1.png",
-        "imgUrl2": "pages/home/img/activities/boardGames/2.png",
-        "imgUrl3": "pages/home/img/activities/boardGames/3.png"
+        "imgUrl1": "pages/home/img/activities/boardGames/1.jpg",
+        "imgUrl2": "pages/home/img/activities/boardGames/2.jpg",
+        "imgUrl3": "pages/home/img/activities/boardGames/3.jpg"
     },
     {
         "titleBox": "Wifi",
         "hoverText": "Wifi",
         "details": "Sau poti sta linistit in curte pe facebook, in hamace, pe terasa ... Avem wifi gratis",
         "href": "location.href='#'",
-        "imgUrl1": "pages/home/img/activities/wifi/1.png",
-        "imgUrl2": "pages/home/img/activities/wifi/2.png",
-        "imgUrl3": "pages/home/img/activities/wifi/3.png"
+        "imgUrl1": "pages/home/img/activities/wifi/1.jpg",
+        "imgUrl2": "pages/home/img/activities/wifi/2.jpg",
+        "imgUrl3": "pages/home/img/activities/wifi/3.jpg"
     }
 
 ]
