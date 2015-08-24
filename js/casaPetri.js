@@ -1,7 +1,3 @@
-$('.carousel').carousel({
-	interval : 12000
-});
-
 $('.nav a').on('click', function(){
    $(".navbar-toggle").click()
 });

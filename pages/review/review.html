@@ -5,27 +5,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="">
     <meta name="description" content="Pagina oficiala casa Petri">
-    <meta name="keywords" content="casa,petri,rosia,montana,cazare,turism,munte,bicicleta,drumeti">
+    <meta name="keywords" content="casa petri,rosia montana,cazare,turism,munte,bicicleta,drumetii">
     <!-- TITLE -->
-    <link rel="shortcut icon" type="image/x-icon" href="../home/img/favicon.ico"/>
+    <link rel="shortcut icon" type="image/x-icon" href="/casaPetri/pages/home/img/favicon.ico"/>
     <title>Casa Petri Roșia Montană</title>
-    <!-- CSS-->
-    <link href='http://fonts.googleapis.com/css?family=Merienda|Open+Sans&subset=latin,latin-ext' rel='stylesheet'
-          type='text/css'>
-    <link rel="stylesheet"
-          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href="../../css/daterangepicker.css" rel="stylesheet">
-    <link href="../../css/photoAlbumSlider/jquery.fancybox.css" rel="stylesheet">
-    <link href="../../css/casaPetri.css" rel="stylesheet">
-    <!-- JAVASCRIPT - added here because are needed for the menuBox template script -->
-    <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
-    <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.templates/beta1/jquery.tmpl.js"></script>
+    <!-- LIBRARIES-->
+    <link rel="import" href="/casaPetri/pages/commonStuffs/librariesImports/defaultImports.html">
+    <link rel="import" href="/casaPetri/pages/commonStuffs/librariesImports/photoAlbum.html">
 </head>
 
 <body>
@@ -38,7 +25,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <div class="navbar-brand" onclick="location.href='../../index.html';">
+            <div class="navbar-brand" onclick="location.href='/casaPetri/index.html';">
                 <div class="backImage">
                     <h1>Casa Petri Roșia Montană</h1>
                 </div>
@@ -132,43 +119,14 @@
 
 </div>
 
-<!-- MODALS -->
-<div class="modal fade" id="sendMail" tabindex="-1" role="dialog" aria-labelledby="sendMail" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">x</button>
-                <h4 class="modal-title" id="myModalLabel">Trimite-ne un mesaj</h4>
-            </div>
-            <form role="form" data-toggle="validator">
-                <div class="modal-body">
-                    <div class="form-group">
-                        <label for="inputEmail">Email</label>
-                        <input type="email" class="form-control" id="inputEmail" placeholder="Email" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="inputMessage">Mesaj</label>
-                            <textarea id="inputMessage" pattern=".{5,10}" class="form-control" rows="3"
-                                      placeholder="Mesaj" required></textarea>
-                    </div>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-default" data-dismiss="modal">Închide</button>
-                    <button type="submit" class="btn btn-primary" value="Check">Trimite mesaj</button>
-                </div>
-            </form>
-        </div>
-    </div>
-</div>
-
-<!-- JAVA SCRIPTS-->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="../../js/daterangepicker.js"></script>
-<script type="text/javascript" src="../../js/photoAlbumSlider/jquery.fancybox.js"></script>
-<script type="text/javascript" src="../../js/photoAlbumSlider/jquery.mousewheel-3.0.6.pack.js"></script>
-<script type="text/javascript" src="../../js/casaPetri.js"></script>
-<script type="text/javascript" src="../../js/casaPetri_rezervations.js"></script>
+<!--MODALS-->
+<script>
+    $(document).ready(function () {
+        $.get('/casaPetri/pages/commonStuffs/modal/sendMailModal.html', function (modal) {
+            $('body').append(modal);
+        });
+    });
+</script>
 
 </body>
 </html>
