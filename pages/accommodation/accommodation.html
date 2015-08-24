@@ -17,39 +17,16 @@
 </head>
 
 <body>
-<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-    <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <div class="navbar-brand" onclick="location.href='/casaPetri/index.html';">
-                <div class="backImage">
-                    <h1>Casa Petri Roșia Montană</h1>
-                </div>
-            </div>
-        </div>
-        <div class="collapse navbar-collapse">
-            <ul class="nav navbar-nav">
-                <li><a href="../../index.html#accomodation">Rezervări</a></li>
-                <li><a href="../../index.html#activities">Activitati</a></li>
-                <li><a href="../../index.html#recommendations">De neratat!</a></li>
-            </ul>
-            <ul class="navbar-text pull-right">
-                <a href="https://www.facebook.com/casapetrirosiamontana?ref=hl&ref_type=bookmark" target="_blank">
-                    <i class="fa fa-facebook-square fa-2x"
-                       title="Follow us on facebook"></i> </a>
-                <a data-toggle="modal" data-backdrop="true" data-target="#sendMail">
-                    <i class="fa fa-envelope fa-2x"></i></a>
-                <a href="https://www.google.ro/maps/place/Casa+Petri/@46.1241884,24.6991095,7z/data=!4m2!3m1!1s0x474ecce046c99d41:0xc76f83a95070630c?hl=ro"
-                   target="_blank">
-                    <i class="fa fa-map-marker fa-2x" title="Cum ajung?"></i></a>
-            </ul>
-        </div>
-    </div>
+
+<!-- HEADER -->
+<div id="siteHeader">
+    <script>
+        $(document).ready(function () {
+            $.get('/casaPetri/pages/commonStuffs/headerAndFooter/siteHeader.html', function (modal) {
+                $('#siteHeader').append(modal);
+            });
+        });
+    </script>
 </div>
 
 <div class="container">
@@ -204,20 +181,14 @@
     <div style="clear: both;"></div>
 
     <!-- FOOTER -->
-    <div class="categoryLayout">
-        <div class="titleLayout">
-            <h2 class="footerText">
-                <a href="https://www.facebook.com/casapetrirosiamontana?ref=hl&ref_type=bookmark" target="_blank">
-                    <i class="fa fa-facebook-square" title="Follow us on facebook"></i> </a>
-                <a data-toggle="modal" data-backdrop="true" data-target="#sendMail">
-                    <i class="fa fa-envelope"></i></a>
-                <a href="https://www.google.ro/maps/place/Casa+Petri/@46.1241884,24.6991095,7z/data=!4m2!3m1!1s0x474ecce046c99d41:0xc76f83a95070630c?hl=ro"
-                   target="_blank">
-                    <i class="fa fa-map-marker" title="Cum ajung?"></i></a>
-            </h2>
-
-            <div style="clear: both;"></div>
-        </div>
+    <div id="siteFooter">
+        <script>
+            $(document).ready(function () {
+                $.get('/casaPetri/pages/commonStuffs/headerAndFooter/siteFooter.html', function (modal) {
+                    $('#siteFooter').append(modal);
+                });
+            });
+        </script>
     </div>
 
 </div>
