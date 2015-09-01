@@ -13,14 +13,14 @@
     <link rel="import" href="/casaPetri/pages/commonStuffs/librariesImports/defaultImports.html">
 </head>
 
-<body>
+<body onload="scrollToAnchor()">
 
 <!-- HEADER -->
 <div id="siteHeader">
     <script>
         $(document).ready(function () {
-            $.get('/casaPetri/pages/commonStuffs/headerAndFooter/siteHeader.html', function (modal) {
-                $('#siteHeader').append(modal);
+            $.get('/casaPetri/pages/commonStuffs/headerAndFooter/siteHeader.html', function (siteHeader) {
+                $('#siteHeader').append(siteHeader);
             });
         });
     </script>
@@ -42,10 +42,10 @@
             <div id="mainCarouselLayout" class="carousel-inner">
                 <script>
                     $(document).ready(function () {
-                        $.get('pages/home/template/mainCarousel.htm', function (templates) {
-                            $('body').append(templates);
+                        $.get("/casaPetri/pages/home/template/mainCarousel.htm", function (template) {
+                            $("#mainCarouselLayout").append(template);
                             $.get("pages/home/content/mainCarousel.json", function (content) {
-                                $('#mainCarouselBoxTemplateId').tmpl(content).appendTo("#mainCarouselLayout");
+                                $("#mainCarouselBoxTemplateId").tmpl(content).appendTo("#mainCarouselLayout");
                             })
                         });
                     });
@@ -66,8 +66,8 @@
                 <div id="reviewCarouselLayout" class="carousel-inner">
                     <script>
                         $(document).ready(function () {
-                            $.get('pages/home/template/review.htm', function (templates) {
-                                $('body').append(templates);
+                            $.get('pages/home/template/review.htm', function (template) {
+                                $("#reviewCarouselLayout").append(template);
                                 $.get("pages/commonStuffs/content/review.json", function (content) {
                                     $('#reviewBoxTemplateId').tmpl(content).appendTo("#reviewCarouselLayout");
                                 })
@@ -86,17 +86,16 @@
     <div id="reservationsLayout" class="categoryLayout">
         <span id="reservations" class="anchor"></span>
         <div class="titleLayout">
-            <h2><i class="fa fa-home"></i> Rezervări</h2>
+            <h2><i class="fa fa-bed"></i> Rezervări</h2>
         </div>
         <script>
             $(document).ready(function () {
-                $.get('pages/commonStuffs/template/menuBox.htm', function (templates) {
-                    $('#reservationsLayout').append(templates);
+                $.get('pages/commonStuffs/template/menuBox.htm', function (template) {
+                    $('#reservationsLayout').append(template);
                     $.get("pages/home/content/reservations.json", function (content) {
                         $('#menuBoxTemplateId').tmpl(content).appendTo("#reservationsLayout");
                     })
                 });
-                if (getParameterFromUrl('anchor') == "reservations") {location.href="/casaPetri/index.html#reservations";};
             });
         </script>
     </div>
@@ -120,13 +119,12 @@
         </div>
         <script>
             $(document).ready(function () {
-                $.get('pages/commonStuffs/template/menuBox.htm', function (templates) {
-                    $('#activitiesLayout').append(templates);
+                $.get('pages/commonStuffs/template/menuBox.htm', function (template) {
+                    $('#activitiesLayout').append(template);
                     $.get("pages/home/content/activities.json", function (content) {
                         $('#menuBoxTemplateId').tmpl(content).appendTo("#activitiesLayout");
                     })
                 });
-                if (getParameterFromUrl('anchor') == "activities") {location.href="/casaPetri/index.html#activities";};
             });
         </script>
     </div>
@@ -141,13 +139,12 @@
         </div>
         <script>
             $(document).ready(function () {
-                $.get('pages/commonStuffs/template/menuBox.htm', function (templates) {
-                    $('#recommendationsLayout').append(templates);
+                $.get('pages/commonStuffs/template/menuBox.htm', function (template) {
+                    $('#recommendationsLayout').append(template);
                     $.get("pages/home/content/recommendations.json", function (content) {
                         $('#menuBoxTemplateId').tmpl(content).appendTo("#recommendationsLayout");
                     })
                 });
-                if (getParameterFromUrl('anchor') == "recommendations") {location.href="/casaPetri/index.html#recommendations";};
             });
         </script>
     </div>
@@ -157,8 +154,8 @@
     <div id="siteFooter">
         <script>
             $(document).ready(function () {
-                $.get('/casaPetri/pages/commonStuffs/headerAndFooter/siteFooter.html', function (modal) {
-                    $('#siteFooter').append(modal);
+                $.get('/casaPetri/pages/commonStuffs/headerAndFooter/siteFooter.html', function (siteFooter) {
+                    $('#siteFooter').append(siteFooter);
                 });
             });
         </script>

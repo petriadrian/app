@@ -9,15 +9,15 @@
             </button>
             <div class="navbar-brand" onclick="location.href='/casaPetri/index.html';">
                 <div class="backImage">
-                    <h1>Casa Petri Rosia Montana</h1>
+                    <h1>Casa Rosia Montana</h1>
                 </div>
             </div>
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li><a href="/casaPetri/index.html?anchor=reservations">Rezervari</a></li>
-                <li><a href="/casaPetri/index.html?anchor=activities">Activitati</a></li>
-                <li><a href="/casaPetri/index.html?anchor=recommendations">De neratat!</a></li>
+                <li><a href="/casaPetri/index.html#reservations">Rezervari</a></li>
+                <li><a href="/casaPetri/index.html#activities">Activitati</a></li>
+                <li><a href="/casaPetri/index.html#recommendations">De neratat!</a></li>
             </ul>
             <ul class="navbar-text pull-right">
                 <a href="https://www.facebook.com/casapetrirosiamontana?ref=hl&ref_type=bookmark" target="_blank">
@@ -33,11 +33,17 @@
     </div>
 </div>
 
-<!-- SEND MAIL MODAL -->
 <script>
+    // add send mail modal
     $(document).ready(function () {
-        $.get('/casaPetri/pages/commonStuffs/modal/sendMailModal.html', function (modal) {
-            $('body').append(modal);
+        $.get("/casaPetri/pages/commonStuffs/modal/sendMailModal.html", function (sendMailModal) {
+            $("body").append(sendMailModal);
         });
     });
+
+    // Helps to hide the navbar menu when a link from menu icon is clicked. Happens when the page is minimized
+    $(".nav a").click('click', function(){
+        $(".navbar-toggle").click();
+    });
+
 </script>

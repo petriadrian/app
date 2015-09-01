@@ -1,12 +1,13 @@
-$('.nav a').on('click', function(){
-   $(".navbar-toggle").click()
-});
-
-function getParameterFromUrl(name) {
-   name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
-   var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
-       results = regex.exec(location.search);
-   return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+// scroll to anchor again when a button from top menu is clicked
+function scrollToAnchor() {
+    setTimeout(function () {
+        if ($(document.location.hash).offset()) {
+            $(document.body).scrollTop($(document.location.hash).offset().top);
+            console.log("top " + $(document.location.hash).offset().top);
+        } else {
+            console.log("error");
+        }
+    }, 500);
 }
 
 // Unused functions
