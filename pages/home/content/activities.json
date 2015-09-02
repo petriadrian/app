@@ -38,7 +38,7 @@
     {
         "titleBox": "Mocanita",
         "hoverText": "Mocanita",
-        "details": "Exploreaza calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur",
+        "details": "Exploreaza calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur |~5km de noi",
         "href": "window.open('http://www.cfi.ro/index.php?p=1_15')",
         "imgUrl1": "pages/home/img/activities/steamTrain/1.jpg",
         "imgUrl2": "pages/home/img/activities/steamTrain/2.jpg",
@@ -56,7 +56,7 @@
     {
         "titleBox": "Jocuri",
         "hoverText": "Jocuri",
-        "details": "Board games! Ce alt loc mai bun de Saboteour decat in localitatea cu peste 120km galerii subterane",
+        "details": "Board games! Ce alt loc mai bun de Saboteour decat in comuna cu peste 120km galerii subterane",
         "href": "location.href='#'",
         "imgUrl1": "pages/home/img/activities/boardGames/1.jpg",
         "imgUrl2": "pages/home/img/activities/boardGames/2.jpg",

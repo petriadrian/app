@@ -5,8 +5,8 @@
         "city": "Barcelona",
         "country": "SP",
         "text": "Un loc de poveste, cu oameni frumosi in ganduri si simtiri, casa la care ma reintorc cu drag si dor de fiecare data! Casa Petri Rosia Montana!",
-        "thumbnailImgUrl": "img/reviewer/thumbnail/1.jpg",
-        "fullSizeImgUrl": "img/reviewer/fullSize/1.jpg",
+        "thumbnailImgUrl": "/casaPetri/pages/review/img/reviewer/thumbnail/1.jpg",
+        "fullSizeImgUrl": "/casaPetri/pages/review/img/reviewer/fullSize/1.jpg",
         "firstCarouselElement": "active"
     },
     {
@@ -15,8 +15,8 @@
         "city": "Oradea",
         "country": "RO",
         "text": "Oamenii frumosi la gazde frumoase trag! Multam de hamace with a view, vibe creativ si activist, clatite cu zambet larg si respiro cu WiFiiiiiii :))) ca sa afle lumea ca suntem la Casa Petri si ce facem pe acolo. Raportam de pe baricade ca stocul de dor s-a refacut rapid si numaram weekendurile pana va trecem iar pragul!",
-        "thumbnailImgUrl": "img/reviewer/thumbnail/2.jpg",
-        "fullSizeImgUrl": "img/reviewer/fullSize/2.jpg"
+        "thumbnailImgUrl": "/casaPetri/pages/review/img/reviewer/thumbnail/2.jpg",
+        "fullSizeImgUrl": "/casaPetri/pages/review/img/reviewer/fullSize/2.jpg"
     },
     {
         "shortName": "Felicia",
@@ -24,7 +24,7 @@
         "city": "Satu Mare",
         "country": "RO",
         "text": "add text",
-        "thumbnailImgUrl": "img/reviewer/thumbnail/3.jpg",
-        "fullSizeImgUrl": "img/reviewer/fullSize/3.jpg"
+        "thumbnailImgUrl": "/casaPetri/pages/review/img/reviewer/thumbnail/3.jpg",
+        "fullSizeImgUrl": "/casaPetri/pages/review/img/reviewer/fullSize/3.jpg"
     }
 ]
