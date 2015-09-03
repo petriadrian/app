@@ -9,6 +9,7 @@
 a, u {
 	text-decoration: none;
 	color: #151F1D;
+	cursor: pointer;
 }
 
 body {
@@ -505,6 +506,16 @@ body {
 .roomReservation .submitButton {
 	width: 98%;
 	margin: 1%;
+}
+
+.submitButton {
+	background-color: #eee;
+}
+
+.contactElement {
+	float: left;
+	font-size: 1.1em;
+	padding: 2px 10px;
 }
 
 .defaultImagePage{

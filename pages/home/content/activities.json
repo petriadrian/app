@@ -2,7 +2,7 @@
     {
         "titleBox": "Bicicleta",
         "hoverText": "Bicicleta",
-        "details": "Vino cu bicicleta sau inchiriaza una ?i aventureaza-te pe traseele de biciclet?",
+        "details": "Pedaleaza pe traseele de mountain bike propuse pentru toate nivelele de pregatire",
         "href": "location.href='pages/bicycle/page.html'",
         "imgUrl1": "pages/home/img/activities/bike/1.jpg",
         "imgUrl2": "pages/home/img/activities/bike/2.jpg",
@@ -11,7 +11,7 @@
     {
         "titleBox": "Drumetii",
         "hoverText": "Drumetii",
-        "details": "Tasee turistice ghidate prin care descoperi localitatea, mun?ii, bisericile, lacurile, galeriile ... ",
+        "details": "Parcurge traseele prin care descoperi localitatea si atractiile ei. Posibilitate inchiriere ghid",
         "href": "location.href='#'",
         "imgUrl1": "pages/home/img/activities/routes/1.jpg",
         "imgUrl2": "pages/home/img/activities/routes/2.jpg",
@@ -20,25 +20,16 @@
     {
         "titleBox": "Galerii",
         "hoverText": "Galerii",
-        "details": " Vizite ghidate prin galeriile subterane. Vezi cum extrageau aurul dacii si romanii",
+        "details": " Aventureaza-te prin galeriile subterane facute de daci si romani pentru extractia aurului, insotiti de ghizi",
         "href": "location.href='pages/galleries/page.html'",
         "imgUrl1": "pages/home/img/activities/museum/1.jpg",
         "imgUrl2": "pages/home/img/activities/museum/2.jpg",
         "imgUrl3": "pages/home/img/activities/museum/3.jpg"
     },
     {
-        "titleBox": "Expozitii",
-        "hoverText": "Expozitii",
-        "details": " Poze, schite si legende despre traiul oamenilor din cea mai veche localitate din Romania",
-        "href": "location.href='#'",
-        "imgUrl1": "pages/home/img/activities/exhibitions/1.jpg",
-        "imgUrl2": "pages/home/img/activities/exhibitions/2.jpg",
-        "imgUrl3": "pages/home/img/activities/exhibitions/3.jpg"
-    },
-    {
         "titleBox": "Mocanita",
         "hoverText": "Mocanita",
-        "details": "Exploreaza calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur |~5km de noi",
+        "details": "Calatoreste pe calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur |~5km de noi",
         "href": "window.open('http://www.cfi.ro/index.php?p=1_15')",
         "imgUrl1": "pages/home/img/activities/steamTrain/1.jpg",
         "imgUrl2": "pages/home/img/activities/steamTrain/2.jpg",
@@ -47,7 +38,7 @@
     {
         "titleBox": "Filme",
         "hoverText": "Filme",
-        "details": "Proiec?ii de filme care descriu trecutul, lupta pentru aur sau natur? ?i povestea Ro?iei Montane.",
+        "details": "Vizioneaza filme care descriu lupta pentru aur sau natura, trecutul si povestea Rosiei Montane.",
         "href": "location.href='#'",
         "imgUrl1": "pages/home/img/activities/film/1.jpg",
         "imgUrl2": "pages/home/img/activities/film/2.jpg",
@@ -61,15 +52,5 @@
         "imgUrl1": "pages/home/img/activities/boardGames/1.jpg",
         "imgUrl2": "pages/home/img/activities/boardGames/2.jpg",
         "imgUrl3": "pages/home/img/activities/boardGames/3.jpg"
-    },
-    {
-        "titleBox": "Wifi",
-        "hoverText": "Wifi",
-        "details": "Sau poti sta linistit in curte pe facebook, in hamace, pe terasa ... Avem wifi gratis",
-        "href": "location.href='#'",
-        "imgUrl1": "pages/home/img/activities/wifi/1.jpg",
-        "imgUrl2": "pages/home/img/activities/wifi/2.jpg",
-        "imgUrl3": "pages/home/img/activities/wifi/3.jpg"
     }
-
 ]

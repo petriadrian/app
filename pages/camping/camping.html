@@ -109,7 +109,7 @@
         <span id="bookings" class="anchor"></span>
 
         <div class="titleLayout">
-            <h2><i class="fa fa-pencil-square-o"></i> Rezerva camere</h2>
+            <h2><i class="fa fa-pencil-square-o"></i> Rezerva loc cort</h2>
         </div>
         <form id="roomReservation" name="roomReservation" class="roomReservation wide" method="post">
 
@@ -133,28 +133,35 @@
 
             <div class="input_fields_wrap">
                 <div class="input-group">
-                    <span class="input-group-addon"><i class="fa fa-bed"></i></span>
-                    <select class="form-control" id="roomsTypeReservation" required="required">
-                        <option value="" disabled selected style='display:none;'>Alege tip camera</option>
-                        <option value="1">2 persoane (pat dublu)</option>
-                        <option value="2">2 persoane (paturi simple)</option>
-                        <option value="3">3 persoane (1 pat dublu + 1 pat simplu)</option>
-                        <option value="4">3 persoane (paturi simple)</option>
-                        <option value="5">4 persoane (1 pat dublu + 2 paturi simple)</option>
-                        <option value="6">4 persoane (paturi simple)</option>
-                        <option value="7">6 persoane (4 paturi simple + 1 pat dublu)</option>
-                    </select>
+                    <span class="input-group-addon"><i class="fa fa-male"></i></span>
+                    <input type="number" name="persons" placeholder="Numar persoane" max="14" min="1"
+                           class="form-control" required="required"/>
                 </div>
             </div>
-            <p class="add_more_rooms"><i class="fa fa-plus"></i> Mai multe camere ...</p>
+            <div class="input_fields_wrap">
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="fa fa-chevron-up"></i></span>
+                    <input type="number" name="persons" placeholder="Numar corturi" max="6" min="1"
+                           class="form-control" required="required"/>
+                </div>
+            </div>
 
             <div class="input-group">
                 <span class="input-group-addon"><i class="fa fa-info"></i></span>
                 <textarea form="roomReservation" id="othersReservation" class="form-control"
                           placeholder="Altele"></textarea>
             </div>
-            <p> *pentru mai multe detalii contactati-ne la 0743188186</p>
             <input type="submit" value="Rezerva" class="btn btn-default submitButton">
+
+            <div class="contactDetails">
+                <span class="contactElement"><i class="fa fa-phone-square fa-2x"></i> (004)0743188186</span>
+                <a class="contactElement" href="https://www.facebook.com/casapetrirosiamontana?ref=hl&ref_type=bookmark"
+                   target="_blank">
+                    <i class="fa fa-facebook-square fa-2x" title="Contact us on facebook"></i> casapetrirosiamontana</a>
+                <a class="contactElement" data-toggle="modal" data-backdrop="true" data-target="#sendMail"><i
+                        class="fa fa-envelope-square fa-2x"></i> casapetrirosiamontana@gmail.com</a>
+                <div style="clear: both"/>
+            </div>
 
         </form>
     </div>

@@ -8,7 +8,7 @@ $(".add_more_rooms").click(function(e) {
       actual_room_number++;
       $(".input_fields_wrap").append(html_for_room);
       if (actual_room_number == max_number_of_rooms) {
-         $(".add_more_rooms").hide();
+         $(".add_more_rooms").hide(200);
       }
     }
 });
@@ -17,7 +17,7 @@ $(".input_fields_wrap").on("click",".remove_field", function(e){ //user click on
 	e.preventDefault();
 	$(this).parent('div').remove();
 	actual_room_number--;
-	$(".add_more_rooms").show();
+	$(".add_more_rooms").show(200);
 });
 
 $('input[name="daterange"]').daterangepicker();

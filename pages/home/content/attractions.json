@@ -1,0 +1,65 @@
+[
+    {
+        "titleBox": "Tauri",
+        "hoverText": "Tauri",
+        "details": "Pedaleaza",
+        "href": "location.href='pages/bicycle/page.html'",
+        "imgUrl1": "pages/home/img/attractions/lakes/1.jpg",
+        "imgUrl2": "pages/home/img/attractions/lakes/2.jpg",
+        "imgUrl3": "pages/home/img/attractions/lakes/3.jpg"
+    },
+    {
+        "titleBox": "Biserici",
+        "hoverText": "Biserici",
+        "details": "Pedaleaza",
+        "href": "location.href='pages/bicycle/page.html'",
+        "imgUrl1": "pages/home/img/attractions/lakes/1.jpg",
+        "imgUrl2": "pages/home/img/attractions/lakes/2.jpg",
+        "imgUrl3": "pages/home/img/attractions/lakes/3.jpg"
+    },
+    {
+        "titleBox": "Corbita",
+        "hoverText": "Corbita",
+        "details": "Pedaleaza",
+        "href": "location.href='pages/bicycle/page.html'",
+        "imgUrl1": "pages/home/img/attractions/lakes/1.jpg",
+        "imgUrl2": "pages/home/img/attractions/lakes/2.jpg",
+        "imgUrl3": "pages/home/img/attractions/lakes/3.jpg"
+    },
+    {
+        "titleBox": "Calut",
+        "hoverText": "Calut",
+        "details": "Pedaleaza",
+        "href": "location.href='pages/bicycle/page.html'",
+        "imgUrl1": "pages/home/img/attractions/lakes/1.jpg",
+        "imgUrl2": "pages/home/img/attractions/lakes/2.jpg",
+        "imgUrl3": "pages/home/img/attractions/lakes/3.jpg"
+    },
+    {
+        "titleBox": "Valdoaia",
+        "hoverText": "Valdoaia",
+        "details": "Pedaleaza",
+        "href": "location.href='pages/bicycle/page.html'",
+        "imgUrl1": "pages/home/img/attractions/lakes/1.jpg",
+        "imgUrl2": "pages/home/img/attractions/lakes/2.jpg",
+        "imgUrl3": "pages/home/img/attractions/lakes/3.jpg"
+    },
+    {
+        "titleBox": "Muzeu",
+        "hoverText": "Muzeu",
+        "details": "Pedaleaza",
+        "href": "location.href='pages/bicycle/page.html'",
+        "imgUrl1": "pages/home/img/attractions/lakes/1.jpg",
+        "imgUrl2": "pages/home/img/attractions/lakes/2.jpg",
+        "imgUrl3": "pages/home/img/attractions/lakes/3.jpg"
+    },
+    {
+        "titleBox": "Sculpturi",
+        "hoverText": "Sculpturi",
+        "details": "Pedaleaza",
+        "href": "location.href='pages/bicycle/page.html'",
+        "imgUrl1": "pages/home/img/attractions/lakes/1.jpg",
+        "imgUrl2": "pages/home/img/attractions/lakes/2.jpg",
+        "imgUrl3": "pages/home/img/attractions/lakes/3.jpg"
+    }
+]

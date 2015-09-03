@@ -81,14 +81,15 @@
     </div>
     <div style="clear: both;"></div>
 
-    <!-- our story -->
+    <!-- OUR STORY -->
     <div id="ourStoryLayout" class="categoryLayout">
         <span id="ourStory" class="anchor"></span>
         <div class="titleLayout">
             <h2><i class="fa fa-home"></i> Povestea noastra</h2>
         </div>
     </div>
-    <!-- reservations -->
+
+    <!-- RESERVATIONS -->
     <div id="reservationsLayout" class="categoryLayout">
         <span id="reservations" class="anchor"></span>
         <div class="titleLayout">
@@ -116,7 +117,7 @@
         <img src="pages/home/img/booksHammac/booksHammac.png">
     </div>
 
-    <!-- activities -->
+    <!-- ACTIVITIES -->
     <div id="activitiesLayout" class="categoryLayout">
         <span id="activities" class="anchor"></span>
 
@@ -136,7 +137,27 @@
     </div>
     <div style="clear: both;"></div>
 
-    <!-- recommendations -->
+    <!-- ATTRACTIONS -->
+    <div id="attractionsLayout" class="categoryLayout">
+        <span id="attractions" class="anchor"></span>
+
+        <div class="titleLayout">
+            <h2><i class="fa fa-star"></i> Atractii</h2>
+        </div>
+        <script>
+            $(document).ready(function () {
+                $.get('pages/commonStuffs/template/menuBox.htm', function (template) {
+                    $('#attractionsLayout').append(template);
+                    $.get("pages/home/content/attractions.json", function (content) {
+                        $('#menuBoxTemplateId').tmpl(content).appendTo("#attractionsLayout");
+                    })
+                });
+            });
+        </script>
+    </div>
+    <div style="clear: both;"></div>
+
+    <!-- RECOMMENDATIONS -->
     <div id="recommendationsLayout" class="categoryLayout">
         <span id="recommendations" class="anchor"></span>
 
