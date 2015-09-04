@@ -483,7 +483,7 @@ body {
 
 .roomReservation {
 	width: 100%;
-	padding: 5% 20%;
+	padding: 0% 20%;
 }
 
 .roomReservation .input-group,
@@ -513,6 +513,10 @@ body {
 
 .submitButton {
 	background-color: #eee;
+}
+
+.contactDetails {
+	margin: 5% 0%;
 }
 
 .contactElement {
