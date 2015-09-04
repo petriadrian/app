@@ -20,7 +20,7 @@
     {
         "titleBox": "Galerii",
         "hoverText": "Galerii",
-        "details": " Aventureaza-te prin galeriile subterane facute de daci si romani pentru extractia aurului, insotiti de ghizi",
+        "details": "Patrunde in adancul muntilor. Vizite ghidate in galeriile daco-romane de unde se extragea aurul",
         "href": "location.href='pages/galleries/page.html'",
         "imgUrl1": "pages/home/img/activities/museum/1.jpg",
         "imgUrl2": "pages/home/img/activities/museum/2.jpg",
@@ -29,7 +29,7 @@
     {
         "titleBox": "Mocanita",
         "hoverText": "Mocanita",
-        "details": "Calatoreste pe calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur |~5km de noi",
+        "details": "Strabate calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur |~5km de noi",
         "href": "window.open('http://www.cfi.ro/index.php?p=1_15')",
         "imgUrl1": "pages/home/img/activities/steamTrain/1.jpg",
         "imgUrl2": "pages/home/img/activities/steamTrain/2.jpg",
@@ -52,5 +52,14 @@
         "imgUrl1": "pages/home/img/activities/boardGames/1.jpg",
         "imgUrl2": "pages/home/img/activities/boardGames/2.jpg",
         "imgUrl3": "pages/home/img/activities/boardGames/3.jpg"
+    },
+    {
+        "titleBox": "Wifi",
+        "hoverText": "Wifi",
+        "details": "Nu poti fara facebook? Stim sentimentul. Leneveste intr-un hamac cu priveliste la munte. Avem net bun si gratis",
+        "href": "location.href='#'",
+        "imgUrl1": "pages/home/img/activities/wifi/1.jpg",
+        "imgUrl2": "pages/home/img/activities/wifi/1.jpg",
+        "imgUrl3": "pages/home/img/activities/wifi/1.jpg"
     }
 ]

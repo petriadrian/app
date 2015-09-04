@@ -3,7 +3,7 @@
         "titleBox": "Camere",
         "hoverText": "Rezerva o camera",
         "details": "Casuta a fost cinematograf, spital ?i banc? iar acum este redeschis? ca spa?iu de cazare. Vizita?i-o!",
-        "href": "location.href='/casaPetri/pages/accommodation/accommodation.html'",
+        "href": "location.href='/casaPetri/pages/reservations/accommodation/accommodation.html'",
         "imgUrl1": "/casaPetri/pages/home/img/reservations/rooms/1.jpg",
         "imgUrl2": "/casaPetri/pages/home/img/reservations/rooms/2.jpg",
         "imgUrl3": "/casaPetri/pages/home/img/reservations/rooms/3.jpg"
@@ -12,7 +12,7 @@
         "titleBox": "Cort",
         "hoverText": "Rezerva un loc de cort",
         "details": "Cazare la mii de stele sub lumina lunii? Rezerva un loc sigur de cort cu acces la baie si bucatarie",
-        "href": "location.href='/casaPetri/pages/camping/camping.html'",
+        "href": "location.href='/casaPetri/pages/reservations/camping/camping.html'",
         "imgUrl1": "/casaPetri/pages/home/img/reservations/camping/1.jpg",
         "imgUrl2": "/casaPetri/pages/home/img/reservations/camping/2.jpg",
         "imgUrl3": "/casaPetri/pages/home/img/reservations/camping/3.jpg"

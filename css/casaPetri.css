@@ -76,8 +76,8 @@ body {
 }
 
 .navbar-text>a:HOVER,
-.footerText a:HOVER,
-.footerText a:active{
+.footerElements a:HOVER,
+.footerElements a:active{
 	cursor: pointer;
 	color:  gray;
 }
@@ -369,12 +369,15 @@ body {
 .starter-template img {
 	width: 100%;
 }
-
-.footerText {
+.footerGoHomePage {
+	float: left;
+}
+.footerIcons {
 	float: right;
 }
 
-.footerText a {
+.footerElements a {
+	text-decoration: none;
 	color: white;
 }
 
