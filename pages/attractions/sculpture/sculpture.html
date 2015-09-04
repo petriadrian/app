@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- META -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Pagina oficiala casa Petri">
+    <meta name="keywords" content="casa petri,rosia montana,cazare,turism,munte,bicicleta,drumetii">
+    <!-- TITLE -->
+    <link rel="shortcut icon" type="image/x-icon" href="/casaPetri/pages/home/img/favicon.ico"/>
+    <title>Casa Petri Roșia Montană</title>
+    <!-- LIBRARIES-->
+    <link rel="import" href="/casaPetri/pages/commonStuffs/librariesImports/defaultImports.html">
+    <link rel="import" href="/casaPetri/pages/commonStuffs/librariesImports/dateRangePicker.html">
+    <link rel="import" href="/casaPetri/pages/commonStuffs/librariesImports/photoAlbum.html">
+</head>
+
+<body>
+
+<!-- HEADER -->
+<div id="siteHeader">
+    <script>
+        $(document).ready(function () {
+            $.get('/casaPetri/pages/commonStuffs/headerAndFooter/siteHeader.html', function (modal) {
+                $('#siteHeader').append(modal);
+            });
+        });
+    </script>
+</div>
+
+<div class="container">
+
+    <div class="pageMotto" style="background-image: url('img/introBackground.png')">
+        <h1>
+            Primul Simpozion Internaţional de Sculptură Monumentală din România
+        </h1>
+        <a href="#location" class="btn btn-large btn-primary">Localizare</a>
+        <a href="#details" class="btn btn-large btn-primary">Cum arata?</a>
+    </div>
+
+    <div class="categoryLayout">
+        <span id="details" class="anchor"></span>
+        <div class="titleLayout">
+            <h2><i class="fa fa-picture-o"></i>  Cum arata?</h2>
+        </div>
+        <article>
+            "Asociaţia Internaţională pentru Simpozioanele de Sculptură, au
+            organizat primul Simpozion Internaţional de Sculptură Monumentală din România.
+            <b>Trei artişti români şi şase artişti invitaţi din Argentina, Canada, Egipt, Franţa, Olanda şi Japonia</b> au
+            constituit o echipă care a reprezentat toate continentele şi care a lucrat timp de o lună într-un spirit
+            de prietenie şi de emulaţie artistică. Simpozionul s-a desfăşurat la Roşia Montana, localitate care
+            deţine un trecut prestigios, fiind în acelaşi timp şi unul dintre primele situri locuite datate din ţară.
+            <b>Sculpturile monumentale în piatră realizate în cadrul simpozionului au fost donate patrimoniului Roşia Montana</b>
+            şi vor intra în Patrimoiul cultural naţional român."
+           <a href="http://www.simpozionrosiamontana.org/Catalogue_Rosia_Montana.pdf" target="_blank">Vezi mai mult ...</a>
+        </article>
+
+        <!-- Images -->
+        <div id="imagesLayout" class="subcategoryLayout">
+            <div class="titleSubcategory">
+                <h3><span>Imagini</span></h3>
+            </div>
+            <div class="photoAlbum" id="images">
+                <script>
+                    $(document).ready(function () {
+                        $.get('/casaPetri/pages/commonStuffs/template/photoAlbumBox.htm', function (templates) {
+                            $('#images').append(templates);
+                            $.get("content/content.json", function (content) {
+                                $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#images");
+                            })
+                        });
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div style="clear: both;"></div>
+
+    <!-- SEE MORE -->
+    <div id="seeMoreLayout" class="categoryLayout">
+        <span id="seeMore" class="anchor"></span>
+
+        <div class="titleLayout">
+            <h2><i class="fa fa-coffee"></i> Vezi si</h2>
+        </div>
+        <script>
+            $(document).ready(function () {
+                $.get('/casaPetri/pages/commonStuffs/template/menuBox.htm', function (templates) {
+                    $('body').append(templates);
+                    $.get("content/seeMore.json", function (content) {
+                        $('#menuBoxTemplateId').tmpl(content).appendTo("#seeMoreLayout");
+                    })
+                });
+            });
+        </script>
+    </div>
+    <div style="clear: both;"></div>
+
+    <!-- FOOTER -->
+    <div id="siteFooter">
+        <script>
+            $(document).ready(function () {
+                $.get('/casaPetri/pages/commonStuffs/headerAndFooter/siteFooter.html', function (modal) {
+                    $('#siteFooter').append(modal);
+                });
+            });
+        </script>
+    </div>
+
+</div>
+
+<!--MODALS-->
+<script>
+    $(document).ready(function () {
+        $.get('/casaPetri/pages/commonStuffs/modal/sendMailModal.html', function (modal) {
+            $('body').append(modal);
+        });
+    });
+</script>
+
+<!-- JAVA SCRIPTS-->
+<script type="text/javascript" src="/casaPetri/js/casaPetriReservations.js"></script>
+
+</body>
+</html>

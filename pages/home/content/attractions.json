@@ -1,5 +1,14 @@
 [
     {
+        "titleBox": "Centru",
+        "hoverText": "Centru",
+        "details": "Stradutele inguste cu cladiri vechi ale centrului istoric o sa iti povesteasca ce a fost Rosia Montana odata",
+        "href": "location.href='pages/bicycle/page.html'",
+        "imgUrl1": "pages/home/img/attractions/lakes/1.jpg",
+        "imgUrl2": "pages/home/img/attractions/lakes/2.jpg",
+        "imgUrl3": "pages/home/img/attractions/lakes/3.jpg"
+    },
+    {
         "titleBox": "Tauri",
         "hoverText": "Tauri",
         "details": "Pedaleaza",
@@ -57,7 +66,7 @@
         "titleBox": "Sculpturi",
         "hoverText": "Sculpturi",
         "details": "Pedaleaza",
-        "href": "location.href='pages/bicycle/page.html'",
+        "href": "location.href='pages/attractions/sculpture/sculpture.html'",
         "imgUrl1": "pages/home/img/attractions/lakes/1.jpg",
         "imgUrl2": "pages/home/img/attractions/lakes/2.jpg",
         "imgUrl3": "pages/home/img/attractions/lakes/3.jpg"

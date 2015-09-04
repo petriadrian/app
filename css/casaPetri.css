@@ -557,3 +557,9 @@ body {
   font-size: .9em;
   line-height: 1.5;
 }
+
+article {
+	text-align: center;
+	font-size: 1.2em;
+	margin: 50px;
+}

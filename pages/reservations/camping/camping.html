@@ -45,18 +45,18 @@
             <h2><i class="fa fa-home"></i> Cum e la noi?</h2>
         </div>
 
-        <!-- ROOMS-->
+        <!-- CAMPING AREA -->
         <div class="subcategoryLayout">
             <div class="titleSubcategory">
-                <h3><span>Camere</span></h3>
+                <h3><span>Zona de campare</span></h3>
             </div>
-            <div class="photoAlbum" id="roomsPhotoAlbum">
+            <div class="photoAlbum" id="campingArea">
                 <script>
                     $(document).ready(function () {
                         $.get('/casaPetri/pages/commonStuffs/template/photoAlbumBox.htm', function (templates) {
-                            $('body').append(templates);
+                            $('#campingArea').append(templates);
                             $.get("content/rooms.json", function (content) {
-                                $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#roomsPhotoAlbum");
+                                $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#campingArea");
                             })
                         });
                     });
@@ -64,37 +64,18 @@
             </div>
         </div>
 
-        <!-- COSY SPOTS-->
+        <!-- ACCESS AREA -->
         <div class="subcategoryLayout">
             <div class="titleSubcategory">
-                <h3><span>Cosy Spots</span></h3>
+                <h3><span>Aveti acces la</span></h3>
             </div>
-            <div class="photoAlbum" id="cosyPlacesPhotoAlbum">
+            <div class="photoAlbum" id="accessArea">
                 <script>
                     $(document).ready(function () {
                         $.get('/casaPetri/pages/commonStuffs/template/photoAlbumBox.htm', function (templates) {
-                            $('body').append(templates);
-                            $.get("content/cosySpots.json", function (content) {
-                                $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#cosyPlacesPhotoAlbum");
-                            })
-                        });
-                    });
-                </script>
-            </div>
-        </div>
-
-        <!-- GARDEN-->
-        <div class="subcategoryLayout">
-            <div class="titleSubcategory">
-                <h3><span>Prin gradina</span></h3>
-            </div>
-            <div class="photoAlbum" id="gardenPhotoAlbum">
-                <script>
-                    $(document).ready(function () {
-                        $.get('/casaPetri/pages/commonStuffs/template/photoAlbumBox.htm', function (templates) {
-                            $('body').append(templates);
-                            $.get("content/garden.json", function (content) {
-                                $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#gardenPhotoAlbum");
+                            $('#accessArea').append(templates);
+                            $.get("content/rooms.json", function (content) {
+                                $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#accessArea");
                             })
                         });
                     });
