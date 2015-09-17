@@ -13,26 +13,17 @@
     "hoverText": "Rezerva un loc de cort",
     "details": "Cazare la mii de stele sub lumina lunii? Rezerva un loc sigur de cort cu acces la baie si bucatarie",
     "href": "location.href='/casaPetri/pages/reservations/camping/camping.html'",
-    "imgUrl1": "/casaPetri/pages/home/img/reservations/camping/1.jpg",
-    "imgUrl2": "/casaPetri/pages/home/img/reservations/camping/2.jpg",
-    "imgUrl3": "/casaPetri/pages/home/img/reservations/camping/3.jpg"
-  },
-  {
-    "titleBox": "Mancare",
-    "hoverText": "Unde iau masa?",
-    "details": "Locusoare secrete unde puteti servi o masa traditionala, sau puteti folosi bucataria noastra",
-    "href": "#",
-    "imgUrl1": "/casaPetri/pages/home/img/reservations/food/1.jpg",
-    "imgUrl2": "/casaPetri/pages/home/img/reservations/food/2.jpg",
-    "imgUrl3": "/casaPetri/pages/home/img/reservations/food/3.jpg"
+    "imgUrl1": "/casaPetri/pages/home/img/ourOffer/camping/1.jpg",
+    "imgUrl2": "/casaPetri/pages/home/img/ourOffer/camping/2.jpg",
+    "imgUrl3": "/casaPetri/pages/home/img/ourOffer/camping/3.jpg"
   },
   {
     "titleBox": "Carti",
     "hoverText": "Vezi biblioteca noastra",
     "details": "Alege cartile care sa te astepte pe noptiera din camera ta. Descopera locusoarele cosy de citit!",
     "href": "#",
-    "imgUrl1": "/casaPetri/pages/home/img/reservations/books/1.jpg",
-    "imgUrl2": "/casaPetri/pages/home/img/reservations/books/2.jpg",
-    "imgUrl3": "/casaPetri/pages/home/img/reservations/books/3.jpg"
+    "imgUrl1": "/casaPetri/pages/home/img/ourOffer/books/1.jpg",
+    "imgUrl2": "/casaPetri/pages/home/img/ourOffer/books/2.jpg",
+    "imgUrl3": "/casaPetri/pages/home/img/ourOffer/books/3.jpg"
   }
 ]

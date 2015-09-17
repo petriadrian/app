@@ -13,9 +13,9 @@
         "hoverText": "Drumetii",
         "details": "Parcurge traseele prin care descoperi localitatea si atractiile ei. Posibilitate inchiriere ghid",
         "href": "location.href='#'",
-        "imgUrl1": "pages/home/img/activities/routes/1.jpg",
-        "imgUrl2": "pages/home/img/activities/routes/2.jpg",
-        "imgUrl3": "pages/home/img/activities/routes/3.jpg"
+        "imgUrl1": "pages/home/img/activities/hiking/1.jpg",
+        "imgUrl2": "pages/home/img/activities/hiking/2.jpg",
+        "imgUrl3": "pages/home/img/activities/hiking/3.jpg"
     },
     {
         "titleBox": "Galerii",
@@ -34,32 +34,5 @@
         "imgUrl1": "pages/home/img/activities/steamTrain/1.jpg",
         "imgUrl2": "pages/home/img/activities/steamTrain/2.jpg",
         "imgUrl3": "pages/home/img/activities/steamTrain/3.jpg"
-    },
-    {
-        "titleBox": "Filme",
-        "hoverText": "Filme",
-        "details": "Vizioneaza filme care descriu lupta pentru aur sau natura, trecutul si povestea Rosiei Montane.",
-        "href": "location.href='#'",
-        "imgUrl1": "pages/home/img/activities/film/1.jpg",
-        "imgUrl2": "pages/home/img/activities/film/2.jpg",
-        "imgUrl3": "pages/home/img/activities/film/3.jpg"
-    },
-    {
-        "titleBox": "Jocuri",
-        "hoverText": "Jocuri",
-        "details": "Board games! Ce alt loc mai bun de Saboteour decat in comuna cu peste 120km galerii subterane",
-        "href": "location.href='#'",
-        "imgUrl1": "pages/home/img/activities/boardGames/1.jpg",
-        "imgUrl2": "pages/home/img/activities/boardGames/2.jpg",
-        "imgUrl3": "pages/home/img/activities/boardGames/3.jpg"
-    },
-    {
-        "titleBox": "Wifi",
-        "hoverText": "Wifi",
-        "details": "Nu poti fara facebook? Stim sentimentul. Leneveste intr-un hamac cu priveliste la munte. Avem net bun si gratis",
-        "href": "location.href='#'",
-        "imgUrl1": "pages/home/img/activities/wifi/1.jpg",
-        "imgUrl2": "pages/home/img/activities/wifi/1.jpg",
-        "imgUrl3": "pages/home/img/activities/wifi/1.jpg"
     }
 ]

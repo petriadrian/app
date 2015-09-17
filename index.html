@@ -81,26 +81,18 @@
     </div>
     <div style="clear: both;"></div>
 
-    <!-- OUR STORY -->
-    <div id="ourStoryLayout" class="categoryLayout">
-        <span id="ourStory" class="anchor"></span>
+    <!-- OUR OFFER -->
+    <div id="ourOfferLayout" class="categoryLayout">
+        <span id="ourOffer" class="anchor"></span>
         <div class="titleLayout">
-            <h2><i class="fa fa-home"></i> Povestea noastra</h2>
-        </div>
-    </div>
-
-    <!-- RESERVATIONS -->
-    <div id="reservationsLayout" class="categoryLayout">
-        <span id="reservations" class="anchor"></span>
-        <div class="titleLayout">
-            <h2><i class="fa fa-bed"></i> Rezervări</h2>
+            <h2><i class="fa fa-home"></i> Ce oferim?</h2>
         </div>
         <script>
             $(document).ready(function () {
                 $.get('pages/commonStuffs/template/menuBox.htm', function (template) {
-                    $('#reservationsLayout').append(template);
-                    $.get("pages/home/content/reservations.json", function (content) {
-                        $('#menuBoxTemplateId').tmpl(content).appendTo("#reservationsLayout");
+                    $('#ourOfferLayout').append(template);
+                    $.get("pages/home/content/ourOffer.json", function (content) {
+                        $('#menuBoxTemplateId').tmpl(content).appendTo("#ourOfferLayout");
                     })
                 });
             });
@@ -114,7 +106,7 @@
         <p class="lead">
             Vezi ce carti avem in colectia mostenita de la bunici.
         </p>
-        <img src="pages/home/img/booksHammac/booksHammac.png">
+        <img src="pages/home/img/ourOffer/headline/1.png">
     </div>
 
     <!-- ACTIVITIES -->
@@ -122,7 +114,7 @@
         <span id="activities" class="anchor"></span>
 
         <div class="titleLayout">
-            <h2><i class="fa fa-bicycle"></i> Activități</h2>
+            <h2><i class="fa fa-bicycle"></i> Ce fac acolo?</h2>
         </div>
         <script>
             $(document).ready(function () {
@@ -136,26 +128,14 @@
         </script>
     </div>
     <div style="clear: both;"></div>
+    <div class="starter-template defaultClickEvents">
+        <h1>Top 10 atractii de vizitat din Rosia Montana </h1>
 
-    <!-- ATTRACTIONS -->
-    <div id="attractionsLayout" class="categoryLayout">
-        <span id="attractions" class="anchor"></span>
-
-        <div class="titleLayout">
-            <h2><i class="fa fa-star"></i> Atractii</h2>
-        </div>
-        <script>
-            $(document).ready(function () {
-                $.get('pages/commonStuffs/template/menuBox.htm', function (template) {
-                    $('#attractionsLayout').append(template);
-                    $.get("pages/home/content/attractions.json", function (content) {
-                        $('#menuBoxTemplateId').tmpl(content).appendTo("#attractionsLayout");
-                    })
-                });
-            });
-        </script>
+        <p class="lead">
+            Centrul istoric, biserici, lacuri, muzeu, sculpturi ...
+        </p>
+        <img src="pages/home/img/activities/headline/1.png">
     </div>
-    <div style="clear: both;"></div>
 
     <!-- RECOMMENDATIONS -->
     <div id="recommendationsLayout" class="categoryLayout">

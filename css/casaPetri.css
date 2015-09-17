@@ -439,31 +439,11 @@ body {
 	.carouselHomePage {
 		width: 33.333333%
 	}
-   	.fourthCarouselBox {
-		clear: both;
-	}
 }
 @media(min-width:1200px){
 	.carouselHomePage {
 		width: 25%;
 	}
-   	.fourthCarouselBox {
-		clear: none;
-	}
-}
-
-@media (max-width: 991px) {
-	.thirdCarouselBox {
-		clear: both;
-	}
-}
-
- /* PAGE */
-.pageImageList img{
-	width: 50%;
-	padding: 1px;
-	float:right;
-	height: 400px;
 }
 
 /* ACCOMMODATION */
