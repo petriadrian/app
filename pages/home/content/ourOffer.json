@@ -47,8 +47,8 @@
     {
         "titleBox": "Wifi",
         "hoverText": "Wifi",
-        "details": "Nu poti fara facebook? Stim sentimentul. Leneveste intr-un hamac cu priveliste la munte. Avem net bun si gratis",
-        "href": "location.href='#'",
+        "details": "Nu poti fara facebook? Stim sentimentul. Leneveste intr-un hamac cu priveliste la munte. Free wifi",
+        "href": "",
         "imgUrl1": "pages/home/img/ourOffer/wifi/1.jpg",
         "imgUrl2": "pages/home/img/ourOffer/wifi/1.jpg",
         "imgUrl3": "pages/home/img/ourOffer/wifi/1.jpg"
