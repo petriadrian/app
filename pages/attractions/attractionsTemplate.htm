@@ -2,14 +2,16 @@
     <div class="categoryLayout">
         <span id="${anchorId}" class="anchor"></span>
 
-        <div class="titleLayout">
-            <h2><i class="fa fa-check-square-o"></i> ${attractionTitle}</h2>
+        <div class="titleSubcategory">
+            <h3><span>${attractionTitle}</span></h3>
         </div>
-        <article>${attractionDetail}</article>
+        <article>${attractionDetail}
+        {{if moreDetailsLink}}
+            <a href="${moreDetailsLink}" target="_blank">${moreDetailsTitle}</i></a>
+        {{/if}}
+        </article>
         <div class="subcategoryLayout">
-            <div class="titleSubcategory">
-                <h3><span>${titleForImages}</span></h3>
-            </div>
+
             <div class="photoAlbum">
                 <figure>
                     <a rel="fancybox" title="${img1Detail}" class="fancybox" href="${img1FullSize}">
@@ -23,12 +25,7 @@
                         <figcaption>${img2Detail}</figcaption>
                     </a>
                 </figure>
-                <figure>
-                    <a rel="fancybox" title="${img3Detail}" class="fancybox" href="${img3FullSize}">
-                        <img src="${img3Thumbnail}" alt="${img3Title}">
-                        <figcaption>${img3Detail}</figcaption>
-                    </a>
-                </figure>
+
             </div>
         </div>
     </div>

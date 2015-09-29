@@ -517,8 +517,8 @@ body {
 }
 
 .photoAlbum figure {
-	width: 30%;
-	margin: 0.5%;
+	width: 350px;
+	margin: 5px;
 	background-color:rgba(256, 256, 256, 0.8);
 	box-shadow: 0px 3px 5px rgba(34, 25, 25, 0.4);
 	padding: 1%;
@@ -526,8 +526,8 @@ body {
     column-break-inside: avoid;
 }
 
-#attractionsContent .photoAlbum img {
-	max-height: 300px;
+.photoAlbum img {
+	max-height: 350px;
 }
 
 #attractionsContent {

@@ -33,7 +33,7 @@
 
     <div class="pageMotto" style="background-image: url('img/introBackground.png')">
         <h1>
-            Primul Simpozion Internaţional de Sculptură Monumentală din România
+            Descopera principalele atractii din Rosia Montana
         </h1>
         <a href="#location" class="btn btn-large btn-primary">Traseu</a>
         <a href="#attractionsAnchor" class="btn btn-large btn-primary">Atractii</a>
@@ -47,7 +47,12 @@
             <h2><i class="fa fa-map-signs"></i> Traseu</h2>
         </div>
 
-        <iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJVUoPW-XMTkcR3FGpGDTIce0&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&&waypoints=Tăul Brazi,Romania " allowfullscreen></iframe>
+        <article>Ati ajuns in Rosia Montana sau planuiti o vizita? Musai sa parcurgeti acest traseu pentru a cunoaste principalele obiective.
+            Sub harta gasiti cateva imagini si sfaturi despre aceste obiective. Porniti de la Casa Petri si vizitati pas cu pas fiecare obiectiv.
+            Traseul dureaza cam 8 ore si va indicam sa aveti bocanci de munte.</article>
+
+        <iframe width="100%" height="450" frameborder="0" style="border:0"
+                src="https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=sfinxul%20carnic&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Galeriile Romane, Roșia Montană, Județul Alba|Sculpturi Calcar DC147 rosia montana|Bancuta Panoramica, DC146, Roșia Montană 517615|Biserica Romano-Catolică, Roșia Montană|Biserica Unitariană, 530, Roșia Montană|Galeria Văidoaia, DC117|Platoul Cârnic, DJ742|Tăul Brazi,Romania|Piatra Corbului, DJ742, Roșia Montană" allowfullscreen></iframe>
 
 
     </div>
@@ -55,6 +60,9 @@
 
     <div id="attractionsContent">
         <span id="attractionsAnchor" class="anchor"></span>
+        <div class="titleLayout">
+            <h2><i class="fa fa-star"></i> Atractii </h2>
+        </div>
         <script>
             $(document).ready(function () {
                 $.get('attractionsTemplate.htm', function (templates) {
