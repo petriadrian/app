@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- META -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Pagina oficiala casa Petri">
+    <meta name="keywords" content="casa petri,rosia montana,cazare,turism,munte,bicicleta,drumetii">
+    <!-- TITLE -->
+    <link rel="shortcut icon" type="image/x-icon" href="/casaPetri/pages/home/img/favicon.ico"/>
+    <title>Casa Petri Roșia Montană</title>
+    <!-- LIBRARIES-->
+    <link rel="import" href="/casaPetri/pages/commonStuffs/librariesImports/defaultImports.html">
+    <link rel="import" href="/casaPetri/pages/commonStuffs/librariesImports/dateRangePicker.html">
+    <link rel="import" href="/casaPetri/pages/commonStuffs/librariesImports/photoAlbum.html">
+</head>
+
+<body>
+
+<!-- HEADER -->
+<div id="siteHeader">
+    <script>
+        $(document).ready(function () {
+            $.get('/casaPetri/pages/commonStuffs/headerAndFooter/siteHeader.html', function (modal) {
+                $('#siteHeader').append(modal);
+            });
+        });
+    </script>
+</div>
+
+<div class="container">
+
+    <div class="pageMotto" style="background-image: url('img/introBackground.png')">
+        <h1>
+            Ne straduim sa te simti cat mai bine la noi
+        </h1>
+        <a href="#cosySpots" class="btn btn-large btn-primary">Cosy spots</a>
+        <a href="#useful" class="btn btn-large btn-primary">Utile</a>
+    </div>
+
+    <!-- COSY SPOTS-->
+    <div class="categoryLayout">
+        <span id="cosySpots" class="anchor"></span>
+        <div class="titleLayout">
+            <h2><i class="fa fa-heart"></i> Cosy spots</h2>
+        </div>
+        <div class="photoAlbum" id="cosyPlacesPhotoAlbum">
+            <script>
+                $(document).ready(function () {
+                    $.get('/casaPetri/pages/commonStuffs/template/photoAlbumBox.htm', function (templates) {
+                        $('body').append(templates);
+                        $.get("content/cosySpots.json", function (content) {
+                            $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#cosyPlacesPhotoAlbum");
+                        })
+                    });
+                });
+            </script>
+        </div>
+    </div>
+
+    <!--USEFUL-->
+    <div class="categoryLayout">
+        <span id="useful" class="anchor"></span>
+        <div class="titleLayout">
+            <h2><i class="fa fa-umbrella"></i></i> Utile</h2>
+        </div>
+
+        <p class="usefulBox"><i class="fa fa-wifi"></i>
+            <span class="title"> Wifi gratuit</span></p>
+        <p class="usefulBox"><i class="fa fa-cutlery"></i>
+            <span class="title"> Bucatarie</span> - cuptor microunde, frigider, prajitor paine, aragaz, vesela</p>
+        <p class="usefulBox"><i class="fa fa-futbol-o"></i>
+            <span class="title"> Board games</span> Saboteour, Carcasone, remi, sah</p>
+        <p class="usefulBox"><i class="fa fa-car"></i>
+            <span class="title"> Parcare gratuita</span> in curte sau infata casei </p>
+        <p class="usefulBox"><i class="fa fa-bicycle"></i>
+            <span class="title"> Garaj biciclete</span> securizat </p>
+        <p class="usefulBox"><i class="fa fa-television"></i>
+            <span class="title"> Ecran proiectie videoproiector</span> in camera de zi </p>
+
+    </div>
+    <div style="clear: both;"></div>
+
+    <!-- SEE MORE -->
+    <div id="seeMoreLayout" class="categoryLayout">
+        <span id="seeMore" class="anchor"></span>
+
+        <div class="titleLayout">
+            <h2><i class="fa fa-coffee"></i> Vezi si</h2>
+        </div>
+        <script>
+            $(document).ready(function () {
+                $.get('/casaPetri/pages/commonStuffs/template/menuBox.htm', function (templates) {
+                    $('body').append(templates);
+                    $.get("content/seeMore.json", function (content) {
+                        $('#menuBoxTemplateId').tmpl(content).appendTo("#seeMoreLayout");
+                    })
+                });
+            });
+        </script>
+    </div>
+    <div style="clear: both;"></div>
+
+    <!-- FOOTER -->
+    <div id="siteFooter">
+        <script>
+            $(document).ready(function () {
+                $.get('/casaPetri/pages/commonStuffs/headerAndFooter/siteFooter.html', function (modal) {
+                    $('#siteFooter').append(modal);
+                });
+            });
+        </script>
+    </div>
+
+</div>
+
+<!--MODALS-->
+<script>
+    $(document).ready(function () {
+        $.get('/casaPetri/pages/commonStuffs/modal/sendMailModal.html', function (modal) {
+            $('body').append(modal);
+        });
+    });
+</script>
+
+<!-- JAVA SCRIPTS-->
+<script type="text/javascript" src="/casaPetri/js/casaPetriReservations.js"></script>
+
+</body>
+</html>

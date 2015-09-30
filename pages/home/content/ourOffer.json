@@ -30,7 +30,7 @@
         "titleBox": "Facilitati",
         "hoverText": "Facilitati",
         "details": "Wifi, board games, spatiu de filme, cosy spots, bucatarie, hamace, informatii turistice",
-        "href": "",
+        "href": "location.href='/casaPetri/pages/facilities/facilities.html'",
         "imgUrl1": "pages/home/img/ourOffer/facilities/1.jpg",
         "imgUrl2": "pages/home/img/ourOffer/facilities/2.jpg",
         "imgUrl3": "pages/home/img/ourOffer/facilities/3.jpg"
