@@ -20,37 +20,19 @@
     {
         "titleBox": "Carti",
         "hoverText": "Vezi biblioteca noastra",
-        "details": "Alege cartile care sa te astepte pe noptiera din camera ta. Descopera locusoarele cosy de citit!",
+        "details": "Alege cartile care sa te astepte pe noptiera din camera rezervata. Descopera locusoarele cosy de citit!",
         "href": "location.href='#'",
         "imgUrl1": "/casaPetri/pages/home/img/ourOffer/books/1.jpg",
         "imgUrl2": "/casaPetri/pages/home/img/ourOffer/books/2.jpg",
         "imgUrl3": "/casaPetri/pages/home/img/ourOffer/books/3.jpg"
     },
     {
-        "titleBox": "Filme",
-        "hoverText": "Filme",
-        "details": "Vizioneaza filme care descriu lupta pentru aur sau natura, trecutul si povestea Rosiei Montane.",
-        "href": "location.href='#'",
-        "imgUrl1": "pages/home/img/ourOffer/film/1.jpg",
-        "imgUrl2": "pages/home/img/ourOffer/film/2.jpg",
-        "imgUrl3": "pages/home/img/ourOffer/film/3.jpg"
-    },
-    {
-        "titleBox": "Jocuri",
-        "hoverText": "Jocuri",
-        "details": "Board games! Ce alt loc mai bun de Saboteour decat in comuna cu peste 120km galerii subterane",
-        "href": "location.href='#'",
-        "imgUrl1": "pages/home/img/ourOffer/boardGames/1.jpg",
-        "imgUrl2": "pages/home/img/ourOffer/boardGames/2.jpg",
-        "imgUrl3": "pages/home/img/ourOffer/boardGames/3.jpg"
-    },
-    {
-        "titleBox": "Wifi",
-        "hoverText": "Wifi",
-        "details": "Nu poti fara facebook? Stim sentimentul. Leneveste intr-un hamac cu priveliste la munte. Free wifi",
+        "titleBox": "Facilitati",
+        "hoverText": "Facilitati",
+        "details": "Wifi, board games, spatiu de filme, cosy spots, bucatarie, hamace, informatii turistice",
         "href": "",
-        "imgUrl1": "pages/home/img/ourOffer/wifi/1.jpg",
-        "imgUrl2": "pages/home/img/ourOffer/wifi/1.jpg",
-        "imgUrl3": "pages/home/img/ourOffer/wifi/1.jpg"
+        "imgUrl1": "pages/home/img/ourOffer/facilities/1.jpg",
+        "imgUrl2": "pages/home/img/ourOffer/facilities/2.jpg",
+        "imgUrl3": "pages/home/img/ourOffer/facilities/3.jpg"
     }
 ]
