@@ -530,6 +530,17 @@ body {
 	position: relative;
 }
 
+.trailIndicators {
+	width: 100%;
+	text-align: center;
+}
+
+.trailIndicators p {
+	font-size: 1.4em;
+	padding: 10px 20px;
+	display: inline-block;
+}
+
 .photoAlbum figure img {
 	width: 100%;
 	height: auto;
