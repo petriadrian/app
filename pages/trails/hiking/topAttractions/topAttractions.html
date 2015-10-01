@@ -33,52 +33,47 @@
 
     <div class="pageMotto" style="background-image: url('img/introBackground.png')">
         <h1>
-            Ne straduim sa te simti cat mai bine la noi
+            Descopera principalele atractii din Rosia Montana
         </h1>
-        <a href="#cosySpots" class="btn btn-large btn-primary">Cosy spots</a>
-        <a href="#useful" class="btn btn-large btn-primary">Utile</a>
+        <a href="#location" class="btn btn-large btn-primary">Traseu</a>
+        <a href="#attractionsAnchor" class="btn btn-large btn-primary">Atractii</a>
     </div>
 
-    <!-- COSY SPOTS-->
+    <!-- path -->
     <div class="categoryLayout">
-        <span id="cosySpots" class="anchor"></span>
-        <div class="titleLayout">
-            <h2><i class="fa fa-heart"></i> Cosy spots</h2>
-        </div>
-        <div class="photoAlbum" id="cosySpotsPhotoAlbum">
-            <script>
-                $(document).ready(function () {
-                    $.get('/casaPetri/pages/commonStuffs/template/photoAlbumBox.htm', function (templates) {
-                        $('#cosySpotsPhotoAlbum').append(templates);
-                        $.get("content/cosySpots.json", function (content) {
-                            $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#cosySpotsPhotoAlbum");
-                        })
-                    });
-                });
-            </script>
-        </div>
-    </div>
+        <span id="location" class="anchor"></span>
 
-    <!--USEFUL-->
-    <div class="categoryLayout">
-        <span id="useful" class="anchor"></span>
         <div class="titleLayout">
-            <h2><i class="fa fa-umbrella"></i></i> Utile</h2>
+            <h2><i class="fa fa-map-signs"></i> Traseu</h2>
         </div>
-        <div class="photoAlbum" id="usefulLocation">
-            <script>
-                $(document).ready(function () {
-                    $.get('/casapetri/pages/facilities/template/useful.htm', function (templates) {
-                        $('#usefulLocation').append(templates);
-                        $.get("content/useful.json", function (content) {
-                            $('#usefulBoxTemplateId').tmpl(content).appendTo("#usefulLocation");
-                        })
-                    });
-                });
-            </script>
-        </div>
+
+        <article>Ati ajuns in Rosia Montana sau planuiti o vizita? Musai sa parcurgeti acest traseu pentru a cunoaste principalele obiective.
+            Sub harta gasiti cateva imagini si sfaturi despre aceste obiective. Porniti de la Casa Petri si vizitati pas cu pas fiecare obiectiv.
+            Traseul dureaza cam 9 ore este de de dificultate medie si va indicam sa aveti bocanci de munte.</article>
+
+        <iframe width="100%" height="450" frameborder="0" style="border:0"
+                src="https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=sfinxul%20carnic&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Galeriile Romane, Roșia Montană, Județul Alba|Sculpturi Calcar DC147 rosia montana|Bancuta Panoramica, DC146, Roșia Montană 517615|Biserica Romano-Catolică, Roșia Montană|Biserica Unitariană, 530, Roșia Montană|Galeria Văidoaia, DC117|Platoul Cârnic, DJ742|Tăul Brazi,Romania|Piatra Corbului, DJ742, Roșia Montană" allowfullscreen></iframe>
+
+
     </div>
     <div style="clear: both;"></div>
+
+    <div id="attractionsContent">
+        <span id="attractionsAnchor" class="anchor"></span>
+        <div class="titleLayout">
+            <h2><i class="fa fa-star"></i> Atractii </h2>
+        </div>
+        <script>
+            $(document).ready(function () {
+                $.get('/casaPetri/pages/trails/template/trailAttractions.htm', function (templates) {
+                    $('#attractionsContent').append(templates);
+                    $.get("content/content.json", function (content) {
+                        $('#trailAttractionTemplateId').tmpl(content).appendTo("#attractionsContent");
+                    })
+                });
+            });
+        </script>
+    </div>
 
     <!-- SEE MORE -->
     <div id="seeMoreLayout" class="categoryLayout">
@@ -90,7 +85,7 @@
         <script>
             $(document).ready(function () {
                 $.get('/casaPetri/pages/commonStuffs/template/menuBox.htm', function (templates) {
-                    $('body').append(templates);
+                    $('#seeMoreLayout').append(templates);
                     $.get("content/seeMore.json", function (content) {
                         $('#menuBoxTemplateId').tmpl(content).appendTo("#seeMoreLayout");
                     })

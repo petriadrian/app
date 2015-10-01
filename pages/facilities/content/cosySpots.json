@@ -1,20 +1,45 @@
 [
   {
-    "imgTitle": "Camera minerilor",
-    "imgDetail": "Cazare la mii de stele sub lumina lunii? Rezerva un loc sigur de cort cu acces la baie si bucatarie",
-    "thumbnailImgUrl": "img/cosySpots/thumbnail/1.png",
-    "fullSizeImgUrl": "img/cosySpots/fullSize/1.png"
+    "imgTitle": "Leneveala in hamac",
+    "imgDetail": "| Leneveala in hamacele din curte | Da ce are daca merg la munte si lenevesc intr-un hamac pe facebook? Daca tot am gasit free wifi ... ",
+    "thumbnailImgUrl": "img/cosySpots/thumbnail/hammock.jpg",
+    "fullSizeImgUrl": "img/cosySpots/fullSize/hammock.jpg"
   },
   {
-    "imgTitle": "Camera cartilor",
-    "imgDetail": "Cazare la fklhsdlkjhsdjkdfn dcdf dlfj dlfdfl jhfgdjkgb;sfg d dlfgj;kdf;gkjf;dkfg",
-    "thumbnailImgUrl": "img/cosySpots/thumbnail/2.png",
-    "fullSizeImgUrl": "img/cosySpots/fullSize/2.png"
+    "imgTitle": "Masuta din foisor",
+    "imgDetail": "| Masuta din foisor | Cu priveliste spre masivul Carnic, e numa buna de stat la povesti, inchinat pahare de tuica sau luat masa inainte de a pleca pe traseu",
+    "thumbnailImgUrl": "img/cosySpots/thumbnail/pavilion.jpg",
+    "fullSizeImgUrl": "img/cosySpots/fullSize/pavilion.jpg"
   },
   {
-    "imgTitle": "Camera jkahfkjdhfjksd",
-    "imgDetail": "Raluca are mere djkdfn dcdf dlfj dlfdfl jhfgdjkgb;sfg d dlfgj;kdf;gkjf;dkfg",
-    "thumbnailImgUrl": "img/cosySpots/thumbnail/2.png",
-    "fullSizeImgUrl": "img/cosySpots/fullSize/2.png"
+    "imgTitle": "Casuta de vara",
+    "imgDetail": "| Casuta de vara | Poate ploua si nu poti sta afara. Aici puteti lua masa, urmari un film sau sa jucati un board game. Ai jucat vreodata Saboteour in localitate cu peste 150km de galerii subterane? Poate nu e ca si cataratul pe munte dar e o senzatie si asta...",
+    "thumbnailImgUrl": "img/cosySpots/thumbnail/livingroom.jpg",
+    "fullSizeImgUrl": "img/cosySpots/fullSize/livingroom.jpg"
+  },
+  {
+    "imgTitle": "Masuta de cafea din tarnat",
+    "imgDetail": "| Masuta de cafea din tarnat | Tarnatul e specific caselor din zona, e un hol cu gemulete mici de lemn. Bunicii nostrii obisnuiau de dimineata sa isi bea cafeaua aici si sa lase putin geamul crapat pentru a intra aer curat ca sa se trezeasca usor",
+    "thumbnailImgUrl": "img/cosySpots/thumbnail/coffeeTable.jpg",
+    "fullSizeImgUrl": "img/cosySpots/fullSize/coffeeTable.jpg"
+  },
+  {
+    "imgTitle": "Usa cu carti",
+    "imgDetail": "| Usa cu carti | Un locusor improvizat plin cu carti vechi. Daca iti place sa simti mirosul cartilor atunci cand citesti acesta e locul tau",
+    "thumbnailImgUrl": "img/cosySpots/thumbnail/doorBook.jpg",
+    "fullSizeImgUrl": "img/cosySpots/fullSize/doorBook.jpg"
+  },
+  {
+    "imgTitle": "Locusoarele dintre cufarale cu reviste vechi",
+    "imgDetail": "| Locusoarele dintre cufarale cu reviste vechi | Ce tot vrei sa fii la curent cu stirile de actualitate?! Lasa ca faci asta la job ... Aici poti rasfoi carti, reviste, ziare vechi. Nu rata colectia de ziare cu Rosia Monatana",
+    "thumbnailImgUrl": "img/cosySpots/thumbnail/booksPlaces.jpg",
+    "fullSizeImgUrl": "img/cosySpots/fullSize/booksPlaces.jpg"
+  },
+  {
+    "imgTitle": "Dulapul cu carti",
+    "imgDetail": "| Dulapul cu carti | Ca tot nu am mai folosit acest bufet de bucatarie am zis sa nu il aruncam ci sa il transformam in ceva. Cum aveam multe carti...a devenit biblioteca. Dulapiorul mic de langa este cu carti pentru copii.",
+    "thumbnailImgUrl": "img/cosySpots/thumbnail/booksCloset.jpg",
+    "fullSizeImgUrl": "img/cosySpots/fullSize/booksCloset.jpg"
   }
+
 ]

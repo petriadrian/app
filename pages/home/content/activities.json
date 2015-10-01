@@ -1,7 +1,7 @@
 [
     {
-        "titleBox": "Bicicleta",
-        "hoverText": "Bicicleta",
+        "titleBox": "Ciclism",
+        "hoverText": "Ciclism",
         "details": "Pedaleaza pe traseele de mountain bike propuse pentru toate nivelele de pregatire",
         "href": "location.href='pages/bicycle/page.html'",
         "imgUrl1": "pages/home/img/activities/bike/1.jpg",

@@ -1,0 +1,33 @@
+<script id="trailAttractionTemplateId" type="text/x-jQuery-tmpl">
+    <div class="categoryLayout">
+        <span id="${anchorId}" class="anchor"></span>
+
+        <div class="titleSubcategory">
+            <h3><span>${attractionTitle}</span></h3>
+        </div>
+        <article>${attractionDetail}
+        {{if moreDetailsLink}}
+            <a href="${moreDetailsLink}" target="_blank">${moreDetailsTitle}</i></a>
+        {{/if}}
+        </article>
+        <div class="subcategoryLayout">
+
+            <div class="photoAlbum">
+                <figure>
+                    <a rel="fancybox" title="${img1Detail}" class="fancybox" href="${img1FullSize}">
+                        <img src="${img1Thumbnail}" alt="${img1Title}">
+                        <figcaption>${img1Detail}</figcaption>
+                    </a>
+                </figure>
+                <figure>
+                    <a rel="fancybox" title="${img2Detail}" class="fancybox" href="${img2FullSize}">
+                        <img src="${img2Thumbnail}" alt="${img2Title}">
+                        <figcaption>${img2Detail}</figcaption>
+                    </a>
+                </figure>
+
+            </div>
+        </div>
+    </div>
+    <div style="clear: both;"></div>
+</script>

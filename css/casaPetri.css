@@ -549,14 +549,15 @@ article {
 	margin: 50px;
 }
 
-.usefulBox i{
-	font-size: 2em;
-}
-.usefulBox .title{
-	font-size: 1.6em;
-}
-
 .usefulBox {
 	font-size: 1.2em;
 	margin: 20px 0;
+}
+
+.usefulBox i{
+	font-size: 2em;
+}
+
+.usefulBox .usefulTitle{
+	font-size: 1.6em;
 }

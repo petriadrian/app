@@ -1,20 +1,37 @@
 [
   {
-    "imgTitle": "Camera minerilor",
-    "imgDetail": "Cazare la mii de stele sub lumina lunii? Rezerva un loc sigur de cort cu acces la baie si bucatarie",
-    "thumbnailImgUrl": "img/garden/thumbnail/1.png",
-    "fullSizeImgUrl": "img/garden/fullSize/1.png"
+    "imgFontAwesomeClass": "fa fa-wifi",
+    "title": "Wifi gratuit",
+    "moreDetails": " in toate incaperile si curte"
   },
   {
-    "imgTitle": "Camera cartilor",
-    "imgDetail": "Cazare la fklhsdlkjhsdjkdfn dcdf dlfj dlfdfl jhfgdjkgb;sfg d dlfgj;kdf;gkjf;dkfg",
-    "thumbnailImgUrl": "img/garden/thumbnail/2.png",
-    "fullSizeImgUrl": "img/garden/fullSize/2.png"
+    "imgFontAwesomeClass": "fa fa-cutlery",
+    "title": "Bucataria",
+    "moreDetails": " din cauta de vara dotata cu frigider, cuptor , aragaz, vesela"
   },
   {
-    "imgTitle": "Camera jkahfkjdhfjksd",
-    "imgDetail": "Raluca are mere djkdfn dcdf dlfj dlfdfl jhfgdjkgb;sfg d dlfgj;kdf;gkjf;dkfg",
-    "thumbnailImgUrl": "img/garden/thumbnail/2.png",
-    "fullSizeImgUrl": "img/garden/fullSize/2.png"
+    "imgFontAwesomeClass": "fa fa-futbol-o",
+    "title": "Board games",
+    "moreDetails": "Saboteour, Carcasone, Activity, remi, sah ..."
+  },
+  {
+    "imgFontAwesomeClass": "fa fa-car",
+    "title": "Parcare gratuita",
+    "moreDetails": "in curte sau in fata casei"
+  },
+  {
+    "imgFontAwesomeClass": "fa fa-bicycle",
+    "title": "Garaj biciclete",
+    "moreDetails": "securizat"
+  },
+  {
+    "imgFontAwesomeClass": "fa fa-television",
+    "title": "Ecran proiectie videoproiector",
+    "moreDetails": "in casuta de vara"
+  },
+  {
+    "imgFontAwesomeClass": "fa fa-info-circle",
+    "title": "Informatii turistice",
+    "moreDetails": ""
   }
 ]
