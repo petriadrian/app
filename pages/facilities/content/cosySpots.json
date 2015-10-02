@@ -1,17 +1,5 @@
 [
   {
-    "imgTitle": "Leneveala in hamac",
-    "imgDetail": "| Leneveala in hamacele din curte | Da ce are daca merg la munte si lenevesc intr-un hamac pe facebook? Daca tot am gasit free wifi ... ",
-    "thumbnailImgUrl": "img/cosySpots/thumbnail/hammock.jpg",
-    "fullSizeImgUrl": "img/cosySpots/fullSize/hammock.jpg"
-  },
-  {
-    "imgTitle": "Masuta din foisor",
-    "imgDetail": "| Masuta din foisor | Cu priveliste spre masivul Carnic, e numa buna de stat la povesti, inchinat pahare de tuica sau luat masa inainte de a pleca pe traseu",
-    "thumbnailImgUrl": "img/cosySpots/thumbnail/pavilion.jpg",
-    "fullSizeImgUrl": "img/cosySpots/fullSize/pavilion.jpg"
-  },
-  {
     "imgTitle": "Casuta de vara",
     "imgDetail": "| Casuta de vara | Poate ploua si nu poti sta afara. Aici puteti lua masa, urmari un film sau sa jucati un board game. Ai jucat vreodata Saboteour in localitate cu peste 150km de galerii subterane? Poate nu e ca si cataratul pe munte dar e o senzatie si asta...",
     "thumbnailImgUrl": "img/cosySpots/thumbnail/livingroom.jpg",
@@ -34,6 +22,18 @@
     "imgDetail": "| Locusoarele dintre cufarale cu reviste vechi | Ce tot vrei sa fii la curent cu stirile de actualitate?! Lasa ca faci asta la job ... Aici poti rasfoi carti, reviste, ziare vechi. Nu rata colectia de ziare cu Rosia Monatana",
     "thumbnailImgUrl": "img/cosySpots/thumbnail/booksPlaces.jpg",
     "fullSizeImgUrl": "img/cosySpots/fullSize/booksPlaces.jpg"
+  },
+  {
+    "imgTitle": "Leneveala in hamac",
+    "imgDetail": "| Leneveala in hamacele din curte | Da ce are daca merg la munte si lenevesc intr-un hamac pe facebook? Daca tot am gasit free wifi ... ",
+    "thumbnailImgUrl": "img/cosySpots/thumbnail/hammock.jpg",
+    "fullSizeImgUrl": "img/cosySpots/fullSize/hammock.jpg"
+  },
+  {
+    "imgTitle": "Masuta din foisor",
+    "imgDetail": "| Masuta din foisor | Cu priveliste spre masivul Carnic, e numa buna de stat la povesti, inchinat pahare de tuica sau luat masa inainte de a pleca pe traseu",
+    "thumbnailImgUrl": "img/cosySpots/thumbnail/pavilion.jpg",
+    "fullSizeImgUrl": "img/cosySpots/fullSize/pavilion.jpg"
   },
   {
     "imgTitle": "Dulapul cu carti",

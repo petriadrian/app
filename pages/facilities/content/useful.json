@@ -2,17 +2,17 @@
   {
     "imgFontAwesomeClass": "fa fa-wifi",
     "title": "Wifi gratuit",
-    "moreDetails": " in toate incaperile si curte"
+    "moreDetails": " in toate incaperile si in curte"
   },
   {
     "imgFontAwesomeClass": "fa fa-cutlery",
-    "title": "Bucataria",
-    "moreDetails": " din cauta de vara dotata cu frigider, cuptor , aragaz, vesela"
+    "title": "Bucatarie",
+    "moreDetails": " - frigider, cuptor , aragaz, vesela"
   },
   {
     "imgFontAwesomeClass": "fa fa-futbol-o",
     "title": "Board games",
-    "moreDetails": "Saboteour, Carcasone, Activity, remi, sah ..."
+    "moreDetails": "Saboteour, Carcasone, Activity..."
   },
   {
     "imgFontAwesomeClass": "fa fa-car",
@@ -20,18 +20,18 @@
     "moreDetails": "in curte sau in fata casei"
   },
   {
-    "imgFontAwesomeClass": "fa fa-bicycle",
-    "title": "Garaj biciclete",
-    "moreDetails": "securizat"
-  },
-  {
     "imgFontAwesomeClass": "fa fa-television",
-    "title": "Ecran proiectie videoproiector",
-    "moreDetails": "in casuta de vara"
+    "title": "Ecran pentru videoproiector",
+    "moreDetails": ""
   },
   {
     "imgFontAwesomeClass": "fa fa-info-circle",
     "title": "Informatii turistice",
+    "moreDetails": ""
+  },
+  {
+    "imgFontAwesomeClass": "fa fa-bicycle",
+    "title": "Garaj biciclete",
     "moreDetails": ""
   }
 ]
