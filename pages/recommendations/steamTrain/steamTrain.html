@@ -33,53 +33,49 @@
 
     <div class="pageMotto" style="background-image: url('img/introBackground.png')">
         <h1>
-            Traseul principalele atractii din Rosia Montana
+            Strabate Tara Motilor in Mocanita cu abur
         </h1>
-        <a href="#location" class="btn btn-large btn-primary">Traseu</a>
-        <a href="#attractionsAnchor" class="btn btn-large btn-primary">Atractii</a>
+        <a href="#location" class="btn btn-large btn-primary">Cum ajung la mocanita?</a>
+        <a href="#moreDetails" class="btn btn-large btn-primary">Detalii</a>
     </div>
     <!-- path -->
-    <div class="categoryLayout">
-        <span id="location" class="anchor"></span>
+    <div id="steamTrainLayout" class="categoryLayout">
+        <span id="moreDetails" class="anchor"></span>
 
         <div class="titleLayout">
-            <h2><i class="fa fa-map-signs"></i> Traseu</h2>
+            <h2><i class="fa fa-info-circle"></i> Detalii</h2>
         </div>
 
-        <article>Ati ajuns in Rosia Montana sau planuiti o vizita? Musai sa parcurgeti acest traseu pentru a cunoaste principalele obiective turistice de aici.
-            Sub harta gasiti cateva imagini si sfaturi despre obiectivele pe care le intalniti pe acest traseu.
-            Porniti de la Casa Petri care se afla chiar in centrul istoric si vizitati pas cu pas fiecare obiectiv.
-        </article>
-
-        <iframe width="100%" height="450" frameborder="0" style="border:0"
-                src="https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=sfinxul%20carnic&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Galeriile Romane, Roșia Montană, Județul Alba|Sculpturi Calcar DC147 rosia montana|Bancuta Panoramica, DC146, Roșia Montană 517615|Biserica Romano-Catolică, Roșia Montană|Biserica Unitariană, 530, Roșia Montană|Galeria Văidoaia, DC117|Jig-Vaidoaia|Platoul Cârnic, DJ742|Tăul Brazi,Romania|Piatra Corbului, DJ742, Roșia Montană" allowfullscreen></iframe>
-
-        <div class="trailIndicators">
-            <p title="time"><i class="fa fa-clock-o"></i> 8h</p>
-            <p title="distance"><i class="fa fa-arrows-h"></i> 10km</p>
-            <p title="difficulty"><i class="fa fa-line-chart"></i> mediu</p>
-            <p title="indications"><i class="fa fa-check-square-o"></i> bocanci de munte si pelerina</p>
-        </div>
-
-    </div>
-    <div style="clear: both;"></div>
-
-    <div id="attractionsContent">
-        <span id="attractionsAnchor" class="anchor"></span>
-        <div class="titleLayout">
-            <h2><i class="fa fa-star"></i> Atractii de pe traseu</h2>
-        </div>
         <script>
             $(document).ready(function () {
                 $.get('/casaPetri/pages/commonStuffs/template/article.htm', function (templates) {
-                    $('#attractionsContent').append(templates);
+                    $('#steamTrainLayout').append(templates);
                     $.get("content/content.json", function (content) {
-                        $('#articleTemplateId').tmpl(content).appendTo("#attractionsContent");
+                        $('#articleTemplateId').tmpl(content).appendTo("#steamTrainLayout");
                     })
                 });
             });
         </script>
+
     </div>
+    <div class="categoryLayout">
+        <span id="location" class="anchor"></span>
+
+        <div class="titleLayout">
+            <h2><i class="fa fa-map-signs"></i> Cum ajung la mocanita?</h2>
+        </div>
+        <iframe width="100%" height="450" frameborder="0" style="border:0"
+                src="https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJXbvdmu3NTkcRy1frt92KFy0&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=Gura Roșiei, Județul Alba"
+                allowfullscreen></iframe>
+
+        <div class="trailIndicators">
+            <p title="time"><i class="fa fa-clock-o"></i> 15min</p>
+
+            <p title="distance"><i class="fa fa-arrows-h"></i> 10km</p>
+        </div>
+
+    </div>
+    <div style="clear: both;"></div>
 
     <!-- SEE MORE -->
     <div id="seeMoreLayout" class="categoryLayout">
