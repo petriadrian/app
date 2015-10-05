@@ -70,7 +70,7 @@
         </div>
         <script>
             $(document).ready(function () {
-                $.get('/casaPetri/pages/trails/template/trailAttractions.htm', function (templates) {
+                $.get('/casaPetri/pages/commonStuffs/template/article.htm', function (templates) {
                     $('#attractionsContent').append(templates);
                     $.get("content/content.json", function (content) {
                         $('#trailAttractionTemplateId').tmpl(content).appendTo("#attractionsContent");

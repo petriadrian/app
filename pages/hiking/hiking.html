@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- META -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Pagina oficiala casa Petri">
+    <meta name="keywords" content="casa petri,rosia montana,cazare,turism,munte,bicicleta,drumetii">
+    <!-- TITLE -->
+    <link rel="shortcut icon" type="image/x-icon" href="/casaPetri/pages/home/img/favicon.ico"/>
+    <title>Casa Petri Roșia Montană</title>
+    <!-- LIBRARIES-->
+    <link rel="import" href="/casaPetri/pages/commonStuffs/librariesImports/defaultImports.html">
+    <link rel="import" href="/casaPetri/pages/commonStuffs/librariesImports/dateRangePicker.html">
+    <link rel="import" href="/casaPetri/pages/commonStuffs/librariesImports/photoAlbum.html">
+</head>
+
+<body onload="scrollToAnchor()">
+
+<!-- HEADER -->
+<div id="siteHeader">
+    <script>
+        $(document).ready(function () {
+            $.get('/casaPetri/pages/commonStuffs/headerAndFooter/siteHeader.html', function (modal) {
+                $('#siteHeader').append(modal);
+            });
+        });
+    </script>
+</div>
+
+<div class="container">
+
+    <div class="pageMotto" style="background-image: url('img/introBackground.png')">
+        <h1>
+            Prietenii, aparatul foto, bocancii... Pornim la drum!
+
+        </h1>
+        <a href="#shortTrail" class="btn btn-large btn-primary">Trasee scurte (sub 6h)</a>
+        <a href="#mediumTrail" class="btn btn-large btn-primary">Trasee lungi (peste 8h)</a>
+    </div>
+    <!-- path -->
+    <div id="shortTrailsLayout" class="categoryLayout">
+        <span id="shortTrail" class="anchor"></span>
+
+        <div class="titleLayout">
+            <h2><i class="fa fa-map-signs"></i> Trasee scurte</h2>
+        </div>
+        <script>
+            $(document).ready(function () {
+                $.get('/casaPetri/pages/commonStuffs/template/menuBox.htm', function (template) {
+                    $('#shortTrailsLayout').append(template);
+                    $.get("/casaPetri/pages/hiking/content/shortTrails.json", function (content) {
+                        $('#menuBoxTemplateId').tmpl(content).appendTo("#shortTrailsLayout");
+                    })
+                });
+            });
+        </script>
+
+    </div>
+    <div style="clear: both;"></div>
+
+    <div class="categoryLayout">
+        <span id="mediumTrail" class="anchor"></span>
+
+        <div class="titleLayout">
+            <h2><i class="fa fa-map-signs"></i> Trasee lungi</h2>
+        </div>
+
+    </div>
+    <div style="clear: both;"></div>
+
+    <!-- SEE MORE -->
+    <div id="seeMoreLayout" class="categoryLayout">
+        <span id="seeMore" class="anchor"></span>
+
+        <div class="titleLayout">
+            <h2><i class="fa fa-coffee"></i> Vezi si</h2>
+        </div>
+        <script>
+            $(document).ready(function () {
+                $.get('/casaPetri/pages/commonStuffs/template/menuBox.htm', function (templates) {
+                    $('#seeMoreLayout').append(templates);
+                    $.get("content/seeMore.json", function (content) {
+                        $('#menuBoxTemplateId').tmpl(content).appendTo("#seeMoreLayout");
+                    })
+                });
+            });
+        </script>
+    </div>
+    <div style="clear: both;"></div>
+
+    <!-- FOOTER -->
+    <div id="siteFooter">
+        <script>
+            $(document).ready(function () {
+                $.get('/casaPetri/pages/commonStuffs/headerAndFooter/siteFooter.html', function (modal) {
+                    $('#siteFooter').append(modal);
+                });
+            });
+        </script>
+    </div>
+
+</div>
+
+<!--MODALS-->
+<script>
+    $(document).ready(function () {
+        $.get('/casaPetri/pages/commonStuffs/modal/sendMailModal.html', function (modal) {
+            $('body').append(modal);
+        });
+    });
+</script>
+
+<!-- JAVA SCRIPTS-->
+<script type="text/javascript" src="/casaPetri/js/casaPetriReservations.js"></script>
+
+</body>
+</html>

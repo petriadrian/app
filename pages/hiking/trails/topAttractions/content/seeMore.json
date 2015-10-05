@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Ciclism",
+    "details": "Pedaleaza pe traseele de mountain bike propuse pentru toate nivelele de pregatire",
+    "href": "location.href='pages/bicycle/page.html'",
+    "imgUrl1":"/casaPetri/pages/home/img/activities/bike/1.jpg",
+    "imgUrl2":"/casaPetri/pages/home/img/activities/bike/2.jpg",
+    "imgUrl3":"/casaPetri/pages/home/img/activities/bike/3.jpg"
+  },
+  {
+    "title": "Drumetii",
+    "details": "Parcurge traseele prin care descoperi localitatea si atractiile ei. Posibilitate inchiriere ghid",
+    "href": "location.href='#'",
+    "imgUrl1":"/casaPetri/pages/home/img/activities/hiking/1.jpg",
+    "imgUrl2":"/casaPetri/pages/home/img/activities/hiking/2.jpg",
+    "imgUrl3":"/casaPetri/pages/home/img/activities/hiking/3.jpg"
+  },
+  {
+    "title": "Camere",
+    "details": "Casuta a fost cinematograf, spital ?i banc? iar acum este redeschis? ca spa?iu de cazare. Vizita?i-o!",
+    "href": "location.href='/casaPetri/pages/reservations/rooms/rooms.html'",
+    "imgUrl1": "/casaPetri/pages/home/img/ourOffer/rooms/1.jpg",
+    "imgUrl2": "/casaPetri/pages/home/img/ourOffer/rooms/2.jpg",
+    "imgUrl3": "/casaPetri/pages/home/img/ourOffer/rooms/3.jpg"
+  },
+  {
+    "title": "Campare",
+    "details": "Cazare la mii de stele sub lumina lunii? Rezerva un loc de cort cu acces la baie si bucatarie",
+    "href": "location.href='/casaPetri/pages/reservations/camping/camping.html'",
+    "imgUrl1": "/casaPetri/pages/home/img/ourOffer/camping/1.jpg",
+    "imgUrl2": "/casaPetri/pages/home/img/ourOffer/camping/2.jpg",
+    "imgUrl3": "/casaPetri/pages/home/img/ourOffer/camping/3.jpg"
+  }
+]

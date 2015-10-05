@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Centrul istoric",
+        "details": "| 4h |Biserici, Cladiri patrimoniu, Taul Brazi",
+        "href": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html'",
+        "imgUrl1": "img/shortTrails/historicalCenter/1.jpg",
+        "imgUrl2": "img/shortTrails/historicalCenter/2.jpg",
+        "imgUrl3": "img/shortTrails/historicalCenter/3.jpg"
+    },
+    {
+        "title": "Centrul Nou",
+        "details": "| 3h |Biserici, Muzeul Mineritului",
+        "href": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html'",
+        "imgUrl1": "img/shortTrails/historicalCenter/1.jpg",
+        "imgUrl2": "img/shortTrails/historicalCenter/2.jpg",
+        "imgUrl3": "img/shortTrails/historicalCenter/3.jpg"
+    },
+    {
+        "title": "Centrul Nou",
+        "details": "| 3h |Biserici, Muzeul Mineritului",
+        "href": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html'",
+        "imgUrl1": "img/shortTrails/historicalCenter/1.jpg",
+        "imgUrl2": "img/shortTrails/historicalCenter/2.jpg",
+        "imgUrl3": "img/shortTrails/historicalCenter/3.jpg"
+    }
+
+]
