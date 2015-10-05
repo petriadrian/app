@@ -24,6 +24,14 @@
         "imgUrl3": "pages/home/img/recommendations/adoptHouse/3.jpg"
     },
     {
+        "title": "Mocanita",
+        "details": "|Iun-Sept| Strabate calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur |~5km de noi",
+        "href": "window.open('http://www.cfi.ro/index.php?p=1_15')",
+        "imgUrl1": "pages/home/img/recommendations/steamTrain/1.jpg",
+        "imgUrl2": "pages/home/img/recommendations/steamTrain/2.jpg",
+        "imgUrl3": "pages/home/img/recommendations/steamTrain/3.jpg"
+    },
+    {
         "title": "1 Mai",
         "details": "|Mai| Sunetul chitarii, focul de tabara si traseele ghidate sunt deja o traditie in minivacanta de 1 mai",
         "href": "window.open('https://vizitatirosiamontana.wordpress.com/2015/02/06/vacanta-1-mai-2015-rosia-montana-pachetul-turistic-245-lei/')",

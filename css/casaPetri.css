@@ -260,6 +260,16 @@ body {
 /*------------------------------------*\
     $ MAIN CAROUSEL
 \*------------------------------------*/
+#ourOfferLayout .carouselHomePage{
+	width: 32%;
+	padding: 1% 3%;
+}
+
+#activitiesLayout .carouselHomePage{
+	width: 50%;
+	padding: 2% 8%;
+}
+
 .carouselHomePage {
 	color: inherit;
 	width: 25%;

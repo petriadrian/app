@@ -37,7 +37,7 @@
 
         </h1>
         <a href="#shortTrail" class="btn btn-large btn-primary">Trasee scurte (sub 6h)</a>
-        <a href="#mediumTrail" class="btn btn-large btn-primary">Trasee lungi (peste 8h)</a>
+        <a href="#longTrail" class="btn btn-large btn-primary">Trasee lungi (peste 8h)</a>
     </div>
     <!-- path -->
     <div id="shortTrailsLayout" class="categoryLayout">
@@ -60,12 +60,22 @@
     </div>
     <div style="clear: both;"></div>
 
-    <div class="categoryLayout">
-        <span id="mediumTrail" class="anchor"></span>
+    <div id="longTrailsLayout" class="categoryLayout">
+        <span id="longTrail" class="anchor"></span>
 
         <div class="titleLayout">
             <h2><i class="fa fa-map-signs"></i> Trasee lungi</h2>
         </div>
+        <script>
+            $(document).ready(function () {
+                $.get('/casaPetri/pages/commonStuffs/template/menuBox.htm', function (template) {
+                    $('#longTrailsLayout').append(template);
+                    $.get("/casaPetri/pages/hiking/content/longTrails.json", function (content) {
+                        $('#menuBoxTemplateId').tmpl(content).appendTo("#longTrailsLayout");
+                    })
+                });
+            });
+        </script>
 
     </div>
     <div style="clear: both;"></div>
