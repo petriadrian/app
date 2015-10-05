@@ -16,7 +16,7 @@
         "imgUrl3": "/casaPetri/pages/home/img/ourOffer/camping/3.jpg"
     },
     {
-        "title": "Facilitati",
+        "title": "Ograda",
         "details": "Hamace, terasa, biblioteca, board games, spatiu de filme, bucatarie, wifi ...",
         "href": "location.href='/casaPetri/pages/facilities/facilities.html'",
         "imgUrl1": "pages/home/img/ourOffer/facilities/1.jpg",
