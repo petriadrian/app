@@ -64,23 +64,10 @@
             </div>
         </div>
 
-        <!-- ACCESS AREA -->
-        <div class="subcategoryLayout">
-            <div class="titleSubcategory">
-                <h3><span>Ai acces la</span></h3>
-            </div>
-            <div class="photoAlbum" id="accessArea">
-                <script>
-                    $(document).ready(function () {
-                        $.get('/casaPetri/pages/commonStuffs/template/photoAlbumBox.htm', function (templates) {
-                            $('#accessArea').append(templates);
-                            $.get("content/rooms.json", function (content) {
-                                $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#accessArea");
-                            })
-                        });
-                    });
-                </script>
-            </div>
+        <div id="facilitiesAdvertise">
+            <script>
+                dynamicContentLoader('/casaPetri/pages/commonStuffs/template/advertiseSpot.htm', '/casapetri/pages/facilities/content/advertiseSpot.json', 'facilitiesAdvertise', 'advertiseSpotTemplateId');
+            </script>
         </div>
 
     </div>

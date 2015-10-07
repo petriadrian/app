@@ -41,14 +41,7 @@
             <!-- Main Carousel items -->
             <div id="mainCarouselLayout" class="carousel-inner">
                 <script>
-                    $(document).ready(function () {
-                        $.get("/casaPetri/pages/home/template/mainCarousel.htm", function (template) {
-                            $("#mainCarouselLayout").append(template);
-                            $.get("pages/home/content/mainCarousel.json", function (content) {
-                                $("#mainCarouselBoxTemplateId").tmpl(content).appendTo("#mainCarouselLayout");
-                            })
-                        });
-                    });
+                    dynamicContentLoader('/casaPetri/pages/home/template/mainCarousel.htm', '/casaPetri/pages/home/content/mainCarousel.json', 'mainCarouselLayout', 'mainCarouselBoxTemplateId');
                 </script>
             </div>
             <!-- Carousel nav -->
@@ -65,14 +58,7 @@
                 <!-- Carousel items -->
                 <div id="reviewCarouselLayout" class="carousel-inner">
                     <script>
-                        $(document).ready(function () {
-                            $.get('pages/home/template/review.htm', function (template) {
-                                $("#reviewCarouselLayout").append(template);
-                                $.get("pages/commonStuffs/content/review.json", function (content) {
-                                    $('#reviewBoxTemplateId').tmpl(content).appendTo("#reviewCarouselLayout");
-                                })
-                            });
-                        });
+                        dynamicContentLoader('/casaPetri/pages/home/template/review.htm', '/casaPetri/pages/commonStuffs/content/review.json', 'reviewCarouselLayout', 'reviewBoxTemplateId');
                     </script>
                 </div>
             </div>
@@ -82,31 +68,21 @@
     <div style="clear: both;"></div>
 
     <!-- OUR OFFER -->
-    <div id="ourOfferLayout" class="categoryLayout">
+    <div id="ourOfferLayout" class="categoryLayout" onload="">
         <span id="ourOffer" class="anchor"></span>
         <div class="titleLayout">
             <h2><i class="fa fa-home"></i> Ce oferim?</h2>
         </div>
         <script>
-            $(document).ready(function () {
-                $.get('pages/commonStuffs/template/menuBox.htm', function (template) {
-                    $('#ourOfferLayout').append(template);
-                    $.get("pages/home/content/ourOffer.json", function (content) {
-                        $('#menuBoxTemplateId').tmpl(content).appendTo("#ourOfferLayout");
-                    })
-                });
-            });
+            dynamicContentLoader('/casaPetri/pages/commonStuffs/template/menuBox.htm', '/casaPetri/pages/home/content/ourOffer.json', 'ourOfferLayout', 'menuBoxTemplateId');
         </script>
     </div>
     <div style="clear: both;"></div>
 
-    <div class="starter-template defaultClickEvents" onclick="location.href='pages'">
-        <h1>Relaxeaza-te in hamacul cu priveliste citind o carte din "Dulapul cu carti"</h1>
-
-        <p class="lead">
-            Vezi ce carti avem in colectia mostenita de la bunici.
-        </p>
-        <img src="pages/home/img/ourOffer/headline/booksHammock.png">
+    <div id="facilitiesAdvertise">
+        <script>
+            dynamicContentLoader('/casaPetri/pages/commonStuffs/template/advertiseSpot.htm', '/casapetri/pages/facilities/content/advertiseSpot.json', 'facilitiesAdvertise', 'advertiseSpotTemplateId');
+        </script>
     </div>
 
     <!-- ACTIVITIES -->
@@ -117,24 +93,15 @@
             <h2><i class="fa fa-bicycle"></i> Ce fac acolo?</h2>
         </div>
         <script>
-            $(document).ready(function () {
-                $.get('pages/commonStuffs/template/menuBox.htm', function (template) {
-                    $('#activitiesLayout').append(template);
-                    $.get("pages/home/content/activities.json", function (content) {
-                        $('#menuBoxTemplateId').tmpl(content).appendTo("#activitiesLayout");
-                    })
-                });
-            });
+            dynamicContentLoader('/casaPetri/pages/commonStuffs/template/menuBox.htm', '/casaPetri/pages/home/content/activities.json', 'activitiesLayout', 'menuBoxTemplateId');
         </script>
     </div>
     <div style="clear: both;"></div>
 
-    <div class="starter-template defaultClickEvents" onclick="location.href='pages/hiking/trails/topAttractions/topAttractions.html'">
-        <h1>Top 10 atractii de vizitat in Rosia Montana. Vezi traseul lor!</h1>
-        <p class="lead">
-            Centrul istoric, biserici, lacuri, muzeu, galerii antice ...
-        </p>
-        <img src="pages/home/img/activities/headline/topAttractions.png">
+    <div id="topAttractionsAdvertise">
+        <script>
+            dynamicContentLoader('/casaPetri/pages/commonStuffs/template/advertiseSpot.htm', '/casapetri/pages/hiking/trails/topAttractions/content/advertiseSpot.json', 'topAttractionsAdvertise', 'advertiseSpotTemplateId');
+        </script>
     </div>
 
     <!-- RECOMMENDATIONS -->
@@ -145,14 +112,7 @@
             <h2><i class="fa fa-calendar"></i> De neratat!</h2>
         </div>
         <script>
-            $(document).ready(function () {
-                $.get('pages/commonStuffs/template/menuBox.htm', function (template) {
-                    $('#recommendationsLayout').append(template);
-                    $.get("pages/home/content/recommendations.json", function (content) {
-                        $('#menuBoxTemplateId').tmpl(content).appendTo("#recommendationsLayout");
-                    })
-                });
-            });
+            dynamicContentLoader('/casaPetri/pages/commonStuffs/template/menuBox.htm', '/casaPetri/pages/home/content/recommendations.json', 'recommendationsLayout', 'menuBoxTemplateId');
         </script>
     </div>
     <div style="clear: both;"></div>

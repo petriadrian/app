@@ -10,6 +10,16 @@ function scrollToAnchor() {
     }, 500);
 }
 
+// dynamicContentLoader(templatePath, contentPath, idParentElement, templateId);
+function dynamicContentLoader(templatePath, contentPath, idParentElement, templateId) {
+    $.get(templatePath, function (template) {
+        $('#' + idParentElement).append(template);
+        $.get(contentPath, function (content) {
+            $('#' + templateId).tmpl(content).appendTo('#' + idParentElement);
+        })
+    });
+}
+
 // Unused functions
 // Add active when a button clicked
 //    $(document).ready(function () {

@@ -64,42 +64,10 @@
             </div>
         </div>
 
-        <!-- COSY SPOTS-->
-        <div class="subcategoryLayout">
-            <div class="titleSubcategory">
-                <h3><span>Cosy Spots</span></h3>
-            </div>
-            <div class="photoAlbum" id="cosyPlacesPhotoAlbum">
-                <script>
-                    $(document).ready(function () {
-                        $.get('/casaPetri/pages/commonStuffs/template/photoAlbumBox.htm', function (templates) {
-                            $('body').append(templates);
-                            $.get("content/cosySpots.json", function (content) {
-                                $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#cosyPlacesPhotoAlbum");
-                            })
-                        });
-                    });
-                </script>
-            </div>
-        </div>
-
-        <!-- GARDEN-->
-        <div class="subcategoryLayout">
-            <div class="titleSubcategory">
-                <h3><span>Prin gradina</span></h3>
-            </div>
-            <div class="photoAlbum" id="gardenPhotoAlbum">
-                <script>
-                    $(document).ready(function () {
-                        $.get('/casaPetri/pages/commonStuffs/template/photoAlbumBox.htm', function (templates) {
-                            $('body').append(templates);
-                            $.get("content/garden.json", function (content) {
-                                $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#gardenPhotoAlbum");
-                            })
-                        });
-                    });
-                </script>
-            </div>
+        <div id="facilitiesAdvertise">
+            <script>
+                dynamicContentLoader('/casaPetri/pages/commonStuffs/template/advertiseSpot.htm', '/casapetri/pages/facilities/content/advertiseSpot.json', 'facilitiesAdvertise', 'advertiseSpotTemplateId');
+            </script>
         </div>
 
     </div>
