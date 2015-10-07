@@ -2,7 +2,7 @@
     {
         "title": "Festival",
         "details": "|August| Teatru, forumuri, muzica, film. Participa la cel mai activ festival: FanFest",
-        "href": "window.open('http://www.fanfest.ro')",
+        "destinationPageLink": "window.open('http://www.fanfest.ro')",
         "imgUrl1": "pages/home/img/recommendations/fanfest/1.jpg",
         "imgUrl2": "pages/home/img/recommendations/fanfest/2.jpg",
         "imgUrl3": "pages/home/img/recommendations/fanfest/3.jpg"
@@ -10,7 +10,7 @@
     {
         "title": "Maraton",
         "details": "|Iulie| Maraton, Semimaraton, maraton copii. Drumurile satului devin piste de alergare",
-        "href": "window.open('http://www.rosiamontanamarathon.ro')",
+        "destinationPageLink": "window.open('http://www.rosiamontanamarathon.ro')",
         "imgUrl1": "pages/home/img/recommendations/marathon/1.jpg",
         "imgUrl2": "pages/home/img/recommendations/marathon/2.jpg",
         "imgUrl3": "pages/home/img/recommendations/marathon/3.jpg"
@@ -18,7 +18,7 @@
     {
         "title": "Restaurari",
         "details": "|Iul-Sept| Cladiri vechi prind viata. Deprinde mestesuguri traditionale in taberele ARA",
-        "href": "window.open('http://www.adoptaocasa.ro')",
+        "destinationPageLink": "window.open('http://www.adoptaocasa.ro')",
         "imgUrl1": "pages/home/img/recommendations/adoptHouse/1.jpg",
         "imgUrl2": "pages/home/img/recommendations/adoptHouse/2.jpg",
         "imgUrl3": "pages/home/img/recommendations/adoptHouse/3.jpg"
@@ -26,7 +26,7 @@
     {
         "title": "Mocanita",
         "details": "|Iun-Sept| Strabate calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur |~5km de noi",
-        "href": "location.href='/casaPetri/pages/recommendations/steamTrain/steamTrain.html'",
+        "destinationPageLink": "location.href='/casaPetri/pages/recommendations/steamTrain/steamTrain.html'",
         "imgUrl1": "pages/home/img/recommendations/steamTrain/1.jpg",
         "imgUrl2": "pages/home/img/recommendations/steamTrain/2.jpg",
         "imgUrl3": "pages/home/img/recommendations/steamTrain/3.jpg"
@@ -34,7 +34,7 @@
     {
         "title": "1 Mai",
         "details": "|Mai| Sunetul chitarii, focul de tabara si traseele ghidate sunt deja o traditie in minivacanta de 1 mai",
-        "href": "window.open('https://vizitatirosiamontana.wordpress.com/2015/02/06/vacanta-1-mai-2015-rosia-montana-pachetul-turistic-245-lei/')",
+        "destinationPageLink": "window.open('https://vizitatirosiamontana.wordpress.com/2015/02/06/vacanta-1-mai-2015-rosia-montana-pachetul-turistic-245-lei/')",
         "imgUrl1": "pages/home/img/recommendations/1mai/1.jpg",
         "imgUrl2": "pages/home/img/recommendations/1mai/2.jpg",
         "imgUrl3": "pages/home/img/recommendations/1mai/3.jpg"
@@ -42,7 +42,7 @@
     {
         "title": "Narcise",
         "details": "|Mai| O patura alba si un miros imbatator pun stapanire pe Poiana Negrileasa |~20km de noi|",
-        "href": "window.open('http://www.muntii-apuseni.eu/news.php?readmore=7')",
+        "destinationPageLink": "window.open('http://www.muntii-apuseni.eu/news.php?readmore=7')",
         "imgUrl1": "pages/home/img/recommendations/negrileasa/1.jpg",
         "imgUrl2": "pages/home/img/recommendations/negrileasa/2.jpg",
         "imgUrl3": "pages/home/img/recommendations/negrileasa/3.jpg"
@@ -50,7 +50,7 @@
     {
         "title": "Cercetasii",
         "details": "Dor de copilarie? Implica-te si cunoaste-i pe cercetasii din Rosia Montana",
-        "href": "window.open('http://www.cercetasirosiamontana.ro')",
+        "destinationPageLink": "window.open('http://www.cercetasirosiamontana.ro')",
         "imgUrl1": "pages/home/img/recommendations/scouts/1.jpg",
         "imgUrl2": "pages/home/img/recommendations/scouts/2.jpg",
         "imgUrl3": "pages/home/img/recommendations/scouts/3.jpg"
@@ -58,7 +58,7 @@
     {
         "title": "Suvenir",
         "details": "Cumpara produse traditionale lucrate manual de localnicii din Rosia Montana",
-        "href": "window.open('http://www.madeinrosiamontana.ro')",
+        "destinationPageLink": "window.open('http://www.madeinrosiamontana.ro')",
         "imgUrl1": "pages/home/img/recommendations/madeInRosia/1.jpg",
         "imgUrl2": "pages/home/img/recommendations/madeInRosia/2.jpg",
         "imgUrl3": "pages/home/img/recommendations/madeInRosia/3.jpg"

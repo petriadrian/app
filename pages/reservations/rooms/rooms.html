@@ -39,29 +39,28 @@
         <a href="#moreDetails" class="btn btn-large btn-primary">Cum e la noi?</a>
     </div>
 
-    <div class="categoryLayout">
+    <div>
         <span id="moreDetails" class="anchor"></span>
+
         <div class="titleLayout">
             <h2><i class="fa fa-home"></i> Cum e la noi?</h2>
         </div>
 
         <!-- ROOMS-->
-        <div class="subcategoryLayout">
+        <div id="roomsPhotoAlbum">
             <div class="titleSubcategory">
                 <h3><span>Camere</span></h3>
             </div>
-            <div class="photoAlbum" id="roomsPhotoAlbum">
-                <script>
-                    $(document).ready(function () {
-                        $.get('/casaPetri/pages/commonStuffs/template/photoAlbumBox.htm', function (templates) {
-                            $('body').append(templates);
-                            $.get("content/rooms.json", function (content) {
-                                $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#roomsPhotoAlbum");
-                            })
-                        });
+            <script>
+                $(document).ready(function () {
+                    $.get('/casaPetri/pages/commonStuffs/template/photoAlbumBox.htm', function (templates) {
+                        $('body').append(templates);
+                        $.get("content/rooms.json", function (content) {
+                            $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#roomsPhotoAlbum");
+                        })
                     });
-                </script>
-            </div>
+                });
+            </script>
         </div>
 
         <div id="facilitiesAdvertise">
@@ -73,7 +72,7 @@
     </div>
 
     <!--RESERVATION FORM-->
-    <div class="categoryLayout">
+    <div>
         <span id="bookings" class="anchor"></span>
 
         <div class="titleLayout">
@@ -131,6 +130,7 @@
                     <i class="fa fa-facebook-square fa-2x" title="Contact us on facebook"></i> casapetrirosiamontana</a>
                 <a class="contactElement" data-toggle="modal" data-backdrop="true" data-target="#sendMail"><i
                         class="fa fa-envelope-square fa-2x"></i> casapetrirosiamontana@gmail.com</a>
+
                 <div style="clear: both"/>
             </div>
 
@@ -139,7 +139,7 @@
     <div style="clear: both;"></div>
 
     <!-- SEE MORE -->
-    <div id="seeMoreLayout" class="categoryLayout">
+    <div id="seeMoreLayout">
         <span id="seeMore" class="anchor"></span>
 
         <div class="titleLayout">

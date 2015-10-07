@@ -2,7 +2,7 @@
     {
         "title": "Principalele Obiective",
         "details": "| 8h |Biserici, Cladiri patrimoniu, Taul Brazi",
-        "href": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html'",
+        "destinationPageLink": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html'",
         "imgUrl1": "img/longTrails/historicalCenter/1.jpg",
         "imgUrl2": "img/longTrails/historicalCenter/2.jpg",
         "imgUrl3": "img/longTrails/historicalCenter/3.jpg"
@@ -10,7 +10,7 @@
     {
         "title": "Lety si Sulei",
         "details": "| 8h | Vaidoaia, Taul Mare, Lety si Sulei, Cariera Rosia Poieni, Piatra Corbului, Sfinx, Taul Brazi",
-        "href": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html'",
+        "destinationPageLink": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html'",
         "imgUrl1": "img/longTrails/historicalCenter/1.jpg",
         "imgUrl2": "img/longTrails/historicalCenter/2.jpg",
         "imgUrl3": "img/longTrails/historicalCenter/3.jpg"
@@ -18,7 +18,7 @@
     {
         "title": "Lacurile",
         "details": "| 8h |",
-        "href": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html'",
+        "destinationPageLink": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html'",
         "imgUrl1": "img/longTrails/historicalCenter/1.jpg",
         "imgUrl2": "img/longTrails/historicalCenter/2.jpg",
         "imgUrl3": "img/longTrails/historicalCenter/3.jpg"
@@ -26,7 +26,7 @@
     {
         "title": "Detunata",
         "details": "| 12h |",
-        "href": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html'",
+        "destinationPageLink": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html'",
         "imgUrl1": "img/longTrails/historicalCenter/1.jpg",
         "imgUrl2": "img/longTrails/historicalCenter/2.jpg",
         "imgUrl3": "img/longTrails/historicalCenter/3.jpg"
@@ -34,7 +34,7 @@
     {
         "title": "Geamana",
         "details": "| 12h |",
-        "href": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html'",
+        "destinationPageLink": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html'",
         "imgUrl1": "img/longTrails/historicalCenter/1.jpg",
         "imgUrl2": "img/longTrails/historicalCenter/2.jpg",
         "imgUrl3": "img/longTrails/historicalCenter/3.jpg"

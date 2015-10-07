@@ -52,8 +52,8 @@
     </div>
 
     <!-- REVIEWS -->
-    <div class="reviewLayout" onclick="location.href='/casaPetri/pages/review/review.html'" title="see more">
-        <div class="reviewsArea defaultClickEvents">
+    <div class="reviewPreviewLayout" onclick="location.href='/casaPetri/pages/review/review.html'" title="see more">
+        <div class="reviewPreviewArea defaultClickEvents">
             <div class="carousel slide" data-ride="carousel" data-interval="5000">
                 <div id="reviewCarouselLayout" class="carousel-inner">
                     <script>
@@ -61,13 +61,13 @@
                     </script>
                 </div>
             </div>
-            <div class="reviewInfo"><i class="fa fa-external-link-square"></i></div>
+            <div class="reviewInfo"><i class="fa fa-share"></i></div>
         </div>
     </div>
     <div style="clear: both;"></div>
 
     <!-- OUR OFFER -->
-    <div id="ourOfferLayout" class="categoryLayout" onload="">
+    <div class="anchorParent" id="ourOfferLayout">
         <span id="ourOffer" class="anchor"></span>
         <div class="titleLayout">
             <h2><i class="fa fa-home"></i> Ce oferim?</h2>
@@ -80,12 +80,12 @@
 
     <div id="facilitiesAdvertise">
         <script>
-            dynamicContentLoader('pageAdvertise.htm', 'facilities/pageAdvertise.json', 'facilitiesAdvertise', 'pageAdvertiseTemplateId');
+            dynamicContentLoader('pageAdvertise.htm', 'facilities/pageStructure.json', 'facilitiesAdvertise', 'pageAdvertiseTemplateId');
         </script>
     </div>
 
     <!-- ACTIVITIES -->
-    <div id="activitiesLayout" class="categoryLayout">
+    <div class="anchorParent" id="activitiesLayout" >
         <span id="activities" class="anchor"></span>
 
         <div class="titleLayout">
@@ -99,12 +99,12 @@
 
     <div id="topAttractionsAdvertise">
         <script>
-            dynamicContentLoader('pageAdvertise.htm', 'hiking/trails/topAttractions/pageAdvertise.json', 'topAttractionsAdvertise', 'pageAdvertiseTemplateId');
+            dynamicContentLoader('pageAdvertise.htm', 'hiking/trails/topAttractions/pageStructure.json', 'topAttractionsAdvertise', 'pageAdvertiseTemplateId');
         </script>
     </div>
 
     <!-- RECOMMENDATIONS -->
-    <div id="recommendationsLayout" class="categoryLayout">
+    <div class="anchorParent" id="recommendationsLayout">
         <span id="recommendations" class="anchor"></span>
 
         <div class="titleLayout">

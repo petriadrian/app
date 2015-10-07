@@ -2,7 +2,7 @@
     {
         "title": "Drumetii",
         "details": "Parcurge traseele prin care descoperi localitatea si atractiile ei. Posibilitate inchiriere ghid",
-        "href": "location.href='/casaPetri/pages/hiking/hiking.html'",
+        "destinationPageLink": "location.href='/casaPetri/pages/hiking/hiking.html'",
         "imgUrl1": "pages/home/img/activities/hiking/1.jpg",
         "imgUrl2": "pages/home/img/activities/hiking/2.jpg",
         "imgUrl3": "pages/home/img/activities/hiking/3.jpg"
@@ -10,7 +10,7 @@
     {
         "title": "Ciclism",
         "details": "Pedaleaza pe traseele de mountain bike propuse pentru toate nivelele de pregatire",
-        "href": "location.href='pages/bicycle/page.html'",
+        "destinationPageLink": "location.href='pages/bicycle/page.html'",
         "imgUrl1": "pages/home/img/activities/bike/1.jpg",
         "imgUrl2": "pages/home/img/activities/bike/2.jpg",
         "imgUrl3": "pages/home/img/activities/bike/3.jpg"

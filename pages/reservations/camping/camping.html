@@ -39,29 +39,28 @@
         <a href="#moreDetails" class="btn btn-large btn-primary">Cum e la noi?</a>
     </div>
 
-    <div class="categoryLayout">
+    <div>
         <span id="moreDetails" class="anchor"></span>
+
         <div class="titleLayout">
             <h2><i class="fa fa-home"></i> Cum e la noi?</h2>
         </div>
 
         <!-- CAMPING AREA -->
-        <div class="subcategoryLayout">
+        <div id="campingArea">
             <div class="titleSubcategory">
                 <h3><span>Zona de campare</span></h3>
             </div>
-            <div class="photoAlbum" id="campingArea">
-                <script>
-                    $(document).ready(function () {
-                        $.get('/casaPetri/pages/commonStuffs/template/photoAlbumBox.htm', function (templates) {
-                            $('#campingArea').append(templates);
-                            $.get("content/rooms.json", function (content) {
-                                $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#campingArea");
-                            })
-                        });
+            <script>
+                $(document).ready(function () {
+                    $.get('/casaPetri/pages/commonStuffs/template/photoAlbumBox.htm', function (templates) {
+                        $('#campingArea').append(templates);
+                        $.get("content/rooms.json", function (content) {
+                            $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#campingArea");
+                        })
                     });
-                </script>
-            </div>
+                });
+            </script>
         </div>
 
         <div id="facilitiesAdvertise">
@@ -73,7 +72,7 @@
     </div>
 
     <!--RESERVATION FORM-->
-    <div class="categoryLayout">
+    <div>
         <span id="bookings" class="anchor"></span>
 
         <div class="titleLayout">
@@ -81,13 +80,17 @@
         </div>
 
         <article>
-            Ia-ti cortul in spate si hai la Rosia. Ai acces la baie, bucatarie, camera de zi, biblioteca, terasa si parcare.
+            Ia-ti cortul in spate si hai la Rosia. Ai acces la baie, bucatarie, camera de zi, biblioteca, terasa si
+            parcare.
             Cortul si lucrurile iti vor fi in siguranta intrucat zona de campare este in curte ingradita.
-            Pretul este de <b>25 de lei de persoana pe noapte</b> si este <b>negociabil</b> in functie de durata si numar de persoane (specificati in sectiunea "Altele" din formular daca doriti discount).
+            Pretul este de <b>25 de lei de persoana pe noapte</b> si este <b>negociabil</b> in functie de durata si
+            numar de persoane (specificati in sectiunea "Altele" din formular daca doriti discount).
             Oferim <b>10% discount celor care vin cu bicicleta sau cu chitara (si le si folosesc)</b>.
             </br>
-            Este interzis facutul focului in incinta zonei de campare, fumatul in spatiile din interiorul casei, ascultatul de muzica tare sau comportament necivilizat.
-            Casa Petri isi rezerva dreptul de a-si selecta clientela. Prin efectuarea unei rezervari va asumati dreptul ca ati luat la cunostinta cele mentionate mai sus.
+            Este interzis facutul focului in incinta zonei de campare, fumatul in spatiile din interiorul casei,
+            ascultatul de muzica tare sau comportament necivilizat.
+            Casa Petri isi rezerva dreptul de a-si selecta clientela. Prin efectuarea unei rezervari va asumati dreptul
+            ca ati luat la cunostinta cele mentionate mai sus.
             </br>
             <b>Dupa rezervare o sa revenim cu un email sau telefon de confirmare.</b>
         </article>
@@ -141,6 +144,7 @@
                     <i class="fa fa-facebook-square fa-2x" title="Contact us on facebook"></i> casapetrirosiamontana</a>
                 <a class="contactElement" data-toggle="modal" data-backdrop="true" data-target="#sendMail"><i
                         class="fa fa-envelope-square fa-2x"></i> casapetrirosiamontana@gmail.com</a>
+
                 <div style="clear: both"/>
             </div>
 
@@ -149,7 +153,7 @@
     <div style="clear: both;"></div>
 
     <!-- SEE MORE -->
-    <div id="seeMoreLayout" class="categoryLayout">
+    <div id="seeMoreLayout">
         <span id="seeMore" class="anchor"></span>
 
         <div class="titleLayout">

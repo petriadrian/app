@@ -98,6 +98,7 @@ body {
 .container {
 	padding-left: 0px;
 	padding-right: 0px;
+	text-align: center;
 }
 
 .centralCarousel {
@@ -114,7 +115,6 @@ body {
 
 .centralCarousel .item{
     background: #333;
-    text-align: center;
     height: 300px !important;
 }
 .centralCarousel .carousel-inner img {
@@ -135,28 +135,26 @@ body {
 	bottom: 10px;
 }
 
-.reviewLayout {
+.reviewPreviewLayout {
 	width: 25%;
-	padding: 1px;
-	height: 302px;
+	height: 300px;
 	float: left;
-
-}
-.reviewsArea {
 	cursor: pointer;
+}
+.reviewPreviewArea {
 	height: 100%;
 	overflow: hidden;
 }
-.reviewsArea .reviewTitle {
+.reviewPreviewArea .reviewTitle {
 	font-family: 'Open Sans', sans-serif;
 }
 
-.reviewsArea .carousel {
+.reviewPreviewArea .carousel {
 	height: 90%;
-	padding: 5px 10px;
+	padding: 5%;
 }
 
-.reviewsArea .carousel-caption {
+.reviewPreviewArea .carousel-caption {
 	position: static;
 	color: inherit;
 	text-align: justify;
@@ -166,44 +164,39 @@ body {
 	height: 100%;
 }
 
-.reviewsArea .item,
-.reviewsArea .carousel-inner,
-.reviewsArea p{
+.reviewPreviewArea .item,
+.reviewPreviewArea .carousel-inner,
+.reviewPreviewArea p{
 	height: 100%;
 	margin: 0px;
 	font-size: 0.97em;
 	font-family: 'Merienda', cursive;
 }
 
-.reviewsArea .reviewInfo {
+.reviewPreviewArea .reviewInfo {
 	height: 10%;
-    padding-right: 5px;
+    padding-right: 5%;
     text-align: right;
 }
 
 .defaultClickEvents:HOVER,
-.photoAlbum figure:HOVER > a,
-.photoAlbum figure:HOVER{
+.defaultClickEvents:HOVER > a {
 	background-color: #151F1D;
 	color: white;
 	cursor: pointer;
 	text-decoration: none;
 }
 
-.defaultClickEvents:ACTIVE
-{
+.defaultClickEvents:ACTIVE {
     background-color: #949494;
 }
 
-.defaultClickEvents:FOCUS
-{
+.defaultClickEvents:FOCUS {
     outline: none;
 }
 
-.categoryLayout {
-	width: 100%;
+.anchorParent {
 	position: relative;
-	text-align: center;
 }
 
 .anchor {
@@ -354,10 +347,8 @@ body {
 }
 
 .starter-template {
-	width: 96%;
-	margin: 20px 2%;
-	padding: 10px;
-	text-align: center;
+	margin: 30px 0;
+	padding: 1%;
 	border-top: 1px solid #151F1D;
 }
 
@@ -421,15 +412,12 @@ body {
 }
 
 @media(max-width:768px) {
-	.reviewLayout,
+	.reviewPreviewLayout,
 	.centralCarousel {
 		width: 100%;
 	}
-	.reviewLayout {
+	.reviewPreviewLayout {
 		height: 200px;
-	}
-	.reviewsArea .carousel {
-		height: 60%;
 	}
 }
 
@@ -510,7 +498,7 @@ body {
 	width:100%;
 }
 
-.photoAlbum figure {
+.photoAlbum {
 	width: 350px;
 	margin: 5px;
 	background-color:rgba(256, 256, 256, 0.8);
@@ -519,9 +507,15 @@ body {
     display: inline-block;
     column-break-inside: avoid;
 }
-
 .photoAlbum img {
+	width: 100%;
 	max-height: 350px;
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 15px;
+	margin-bottom: 5px;
+}
+.photoAlbum figcaption {
+	font-size: .85em;
 }
 
 #attractionsContent {
@@ -532,35 +526,18 @@ body {
 	padding: 0 5%;
 }
 
-#reviewLayout .defaultArticleText {
+#reviewPageLayout .defaultArticleText {
 	font-family: 'Merienda', cursive;
 }
 
-#reviewLayout figcaption {
+#reviewPageLayout figcaption {
 	display: none;
-}
-
-.trailIndicators {
-	width: 100%;
-	text-align: center;
 }
 
 .trailIndicators p {
 	font-size: 1.2em;
 	padding: 10px 20px;
 	display: inline-block;
-}
-
-.photoAlbum figure img {
-	width: 100%;
-	height: auto;
-	border-bottom: 1px solid #ccc;
-	padding-bottom: 15px;
-	margin-bottom: 5px;
-}
-
-.photoAlbum figure figcaption {
-  font-size: .85em;
 }
 
 .listWithIconTitleDetail {

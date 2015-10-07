@@ -1,21 +1,21 @@
 <script id="articleTemplateId" type="text/x-jQuery-tmpl">
-    <article class="categoryLayout">
+    <article  class="anchorParent">
         {{if anchorId}}
             <span id="${anchorId}" class="anchor"></span>
         {{/if}}
         <header class="titleSubcategory">
             <h3><span>${title}</span></h3>
         </header>
+
         <section class="defaultArticleText">${details}
         {{if moreDetailsLink}}
             <a href="${moreDetailsLink}" target="_blank">${moreDetailsTitle}</i></a>
         {{/if}}
         </section>
-        <section class="subcategoryLayout">
 
-            <div class="photoAlbum">
+        <section>
                {{if img1Thumbnail}}
-                <figure>
+                <figure class="photoAlbum defaultClickEvents">
                     <a rel="fancybox" title="${img1Title} - ${img1Detail}" class="fancybox" href="${img1FullSize}">
                         <img src="${img1Thumbnail}" alt="${title}">
                         <figcaption><b> ${img1Title} </b> - ${img1Detail}</figcaption>
@@ -23,16 +23,15 @@
                 </figure>
                 {{/if}}
                 {{if img2Thumbnail}}
-                <figure>
+                <figure class="photoAlbum defaultClickEvents">
                     <a rel="fancybox" title="${img2Title} - ${img2Detail}" class="fancybox" alt="${title}" href="${img2FullSize}">
                         <img src="${img2Thumbnail}" alt="${title}">
                         <figcaption><b> ${img2Title} </b> - ${img2Detail}</figcaption>
                     </a>
                 </figure>
                 {{/if}}
-
-            </div>
         </section>
+
     </article>
     <div style="clear: both;"></div>
 </script>

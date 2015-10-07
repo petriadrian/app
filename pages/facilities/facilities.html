@@ -31,7 +31,7 @@
 
 <div class="container">
 
-    <div class="pageMotto" style="background-image: url('img/introBackground.png')">
+    <div class="pageMotto" style="background-image: url('img/headlineImage.png')">
         <h1>
             Vrem sa te simti cat mai bine la noi in ograda
         </h1>
@@ -40,21 +40,18 @@
     </div>
 
     <!-- COSY SPOTS-->
-    <div class="categoryLayout">
-        <span id="cosySpots" class="anchor"></span>
-
+    <div  class="anchorParent" id="cosySpotsPhotoAlbum" >
+        <span id="firstSection" class="anchor"></span>
         <div class="titleLayout">
             <h2><i class="fa fa-heart"></i> Cosy spots</h2>
         </div>
-        <div class="photoAlbum" id="cosySpotsPhotoAlbum">
-            <script>
-                dynamicContentLoader('photoAlbumBox.htm', 'facilities/cosySpots.json', 'cosySpotsPhotoAlbum', 'photoAlbumBoxTemplateId');
-            </script>
-        </div>
+        <script>
+            dynamicContentLoader('photoAlbumBox.htm', 'facilities/cosySpots.json', 'cosySpotsPhotoAlbum', 'photoAlbumBoxTemplateId');
+        </script>
     </div>
 
     <!--USEFUL-->
-    <div id="usefulLayout" class="categoryLayout">
+    <div  class="anchorParent" id="usefulLayout" >
         <span id="useful" class="anchor"></span>
 
         <div class="titleLayout">
@@ -67,8 +64,7 @@
     <div style="clear: both;"></div>
 
     <!-- SEE MORE -->
-    <div id="seeMoreLayout" class="categoryLayout">
-        <span id="seeMore" class="anchor"></span>
+    <div id="seeMoreLayout" >
         <div class="titleLayout">
             <h2><i class="fa fa-coffee"></i> Vezi si</h2>
         </div>
@@ -99,9 +95,6 @@
         });
     });
 </script>
-
-<!-- EXTRA JAVA SCRIPTS-->
-<script type="text/javascript" src="/casaPetri/js/casaPetriReservations.js"></script>
 
 </body>
 </html>
