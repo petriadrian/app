@@ -10,11 +10,11 @@ function scrollToAnchor() {
     }, 500);
 }
 
-// dynamicContentLoader(templatePath, contentPath, idParentElement, templateId);
-function dynamicContentLoader(templatePath, contentPath, idParentElement, templateId) {
-    $.get(templatePath, function (template) {
+// dynamicContentLoader(templatePathSuffix, contentPathSuffix, idParentElement, templateId);
+function dynamicContentLoader(templatePathSuffix, contentPathSuffix, idParentElement, templateId) {
+    $.get('/casaPetri/template/' + templatePathSuffix, function (template) {
         $('#' + idParentElement).append(template);
-        $.get(contentPath, function (content) {
+        $.get('/casaPetri/content/' + contentPathSuffix, function (content) {
             $('#' + templateId).tmpl(content).appendTo('#' + idParentElement);
         })
     });

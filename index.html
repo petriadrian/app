@@ -28,9 +28,9 @@
 
 <div class="container" id="container">
 
+    <!-- CAROUSEL -->
     <div class="centralCarousel">
         <div id="mainCarousel" class="carousel slide" data-ride="carousel" data-interval="5000">
-            <!-- Carousel indicators -->
             <ol class="carousel-indicators">
                 <li data-target="#mainCarousel" data-slide-to="0" class="active"></li>
                 <li data-target="#mainCarousel" data-slide-to="1"></li>
@@ -38,13 +38,11 @@
                 <li data-target="#mainCarousel" data-slide-to="3"></li>
                 <li data-target="#mainCarousel" data-slide-to="4"></li>
             </ol>
-            <!-- Main Carousel items -->
             <div id="mainCarouselLayout" class="carousel-inner">
                 <script>
-                    dynamicContentLoader('/casaPetri/pages/home/template/mainCarousel.htm', '/casaPetri/pages/home/content/mainCarousel.json', 'mainCarouselLayout', 'mainCarouselBoxTemplateId');
+                    dynamicContentLoader('carousel.htm', 'homePage/mainCarousel.json', 'mainCarouselLayout', 'carouselTemplateId');
                 </script>
             </div>
-            <!-- Carousel nav -->
             <a class="carousel-control left" href="#mainCarousel" data-slide="prev">
                 <span class="glyphicon glyphicon-chevron-left"></span>
             </a> <a class="carousel-control right" href="#mainCarousel" data-slide="next">
@@ -52,17 +50,18 @@
         </a>
         </div>
     </div>
-    <div class="reviewLayout" onclick="location.href='/casaPetri/pages/review/review.html'">
+
+    <!-- REVIEWS -->
+    <div class="reviewLayout" onclick="location.href='/casaPetri/pages/review/review.html'" title="see more">
         <div class="reviewsArea defaultClickEvents">
             <div class="carousel slide" data-ride="carousel" data-interval="5000">
-                <!-- Carousel items -->
                 <div id="reviewCarouselLayout" class="carousel-inner">
                     <script>
-                        dynamicContentLoader('/casaPetri/pages/home/template/review.htm', '/casaPetri/pages/commonStuffs/content/review.json', 'reviewCarouselLayout', 'reviewBoxTemplateId');
+                        dynamicContentLoader('reviewPreview.htm', 'review/reviews.json', 'reviewCarouselLayout', 'reviewPreviewTemplateId');
                     </script>
                 </div>
             </div>
-            <div class="reviewInfo">... vezi mai mult</div>
+            <div class="reviewInfo"><i class="fa fa-external-link-square"></i></div>
         </div>
     </div>
     <div style="clear: both;"></div>
@@ -74,14 +73,14 @@
             <h2><i class="fa fa-home"></i> Ce oferim?</h2>
         </div>
         <script>
-            dynamicContentLoader('/casaPetri/pages/commonStuffs/template/menuBox.htm', '/casaPetri/pages/home/content/ourOffer.json', 'ourOfferLayout', 'menuBoxTemplateId');
+            dynamicContentLoader('menuBox.htm', 'homePage/ourOffer.json', 'ourOfferLayout', 'menuBoxTemplateId');
         </script>
     </div>
     <div style="clear: both;"></div>
 
     <div id="facilitiesAdvertise">
         <script>
-            dynamicContentLoader('/casaPetri/pages/commonStuffs/template/advertiseSpot.htm', '/casapetri/pages/facilities/content/advertiseSpot.json', 'facilitiesAdvertise', 'advertiseSpotTemplateId');
+            dynamicContentLoader('pageAdvertise.htm', 'facilities/pageAdvertise.json', 'facilitiesAdvertise', 'pageAdvertiseTemplateId');
         </script>
     </div>
 
@@ -93,14 +92,14 @@
             <h2><i class="fa fa-bicycle"></i> Ce fac acolo?</h2>
         </div>
         <script>
-            dynamicContentLoader('/casaPetri/pages/commonStuffs/template/menuBox.htm', '/casaPetri/pages/home/content/activities.json', 'activitiesLayout', 'menuBoxTemplateId');
+            dynamicContentLoader('menuBox.htm', 'homePage/activities.json', 'activitiesLayout', 'menuBoxTemplateId');
         </script>
     </div>
     <div style="clear: both;"></div>
 
     <div id="topAttractionsAdvertise">
         <script>
-            dynamicContentLoader('/casaPetri/pages/commonStuffs/template/advertiseSpot.htm', '/casapetri/pages/hiking/trails/topAttractions/content/advertiseSpot.json', 'topAttractionsAdvertise', 'advertiseSpotTemplateId');
+            dynamicContentLoader('pageAdvertise.htm', 'hiking/trails/topAttractions/pageAdvertise.json', 'topAttractionsAdvertise', 'pageAdvertiseTemplateId');
         </script>
     </div>
 
@@ -112,7 +111,7 @@
             <h2><i class="fa fa-calendar"></i> De neratat!</h2>
         </div>
         <script>
-            dynamicContentLoader('/casaPetri/pages/commonStuffs/template/menuBox.htm', '/casaPetri/pages/home/content/recommendations.json', 'recommendationsLayout', 'menuBoxTemplateId');
+            dynamicContentLoader('menuBox.htm', 'homePage/recommendations.json', 'recommendationsLayout', 'menuBoxTemplateId');
         </script>
     </div>
     <div style="clear: both;"></div>

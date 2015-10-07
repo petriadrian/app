@@ -40,21 +40,13 @@
     </div>
 
     <!-- REVIEWS -->
-    <div class="categoryLayout" id="reviewLayout">
+    <div id="reviewLayout" class="categoryLayout">
         <span id="reviewHead" class="anchor"></span>
-
         <div class="titleLayout">
             <h2><i class="fa fa-home"></i> Impresii</h2>
         </div>
         <script>
-            $(document).ready(function () {
-                $.get('template/review.htm', function (template) {
-                    $('#reviewLayout').append(template);
-                    $.get("/casaPetri/pages/commonStuffs/content/review.json", function (content) {
-                        $('#reviewPageBoxTemplateId').tmpl(content).appendTo("#reviewLayout");
-                    })
-                });
-            });
+            dynamicContentLoader('article.htm', 'review/reviews.json', 'reviewLayout', 'articleTemplateId');
         </script>
     </div>
 

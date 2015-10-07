@@ -70,14 +70,7 @@
             <h2><i class="fa fa-star"></i> Atractii de pe traseu</h2>
         </div>
         <script>
-            $(document).ready(function () {
-                $.get('/casaPetri/pages/commonStuffs/template/article.htm', function (templates) {
-                    $('#attractionsContent').append(templates);
-                    $.get("content/content.json", function (content) {
-                        $('#articleTemplateId').tmpl(content).appendTo("#attractionsContent");
-                    })
-                });
-            });
+            dynamicContentLoader('article.htm', 'hiking/trails/topAttractions/attractions.json', 'attractionsContent', 'articleTemplateId');
         </script>
     </div>
 
@@ -122,9 +115,6 @@
         });
     });
 </script>
-
-<!-- JAVA SCRIPTS-->
-<script type="text/javascript" src="/casaPetri/js/casaPetriReservations.js"></script>
 
 </body>
 </html>

@@ -1,8 +1,8 @@
 [
   {
-    "attractionTitle": "Galeriile Romane",
+    "title": "Galeriile Romane",
     "anchorId": "romanGalleries",
-    "attractionDetail": "Va recomandam sa incepti aventura in Rosia Montana cu Galeriile Romane intrucat fac parte din Muzeul Mineritului iar acesta este deschis doar de dimineata. Accesul se face insotit de un ghid al Muzeului si dureaza cam 1 ora si 30 de minute. Patrunde-ti in adancul muntiilor si descoperiti galeriile antice realizate in perioada ocupatiei romane in Dacia pentru a extrage aurul. Nu ratati si exponatele din muzeu ca de exemplu Steampurile. Aflati ce sunt aceste masinarii si cum functionau ele (o sa ne ajute pe traseu). Drumul de la Casa Petri la Muzeu este asfaltat, deci daca doriti puteti lua si masina pana la el si inapoi iar apoi sa continuati restul traseului pe jos.",
+    "details": "Va recomandam sa incepti aventura in Rosia Montana cu Galeriile Romane intrucat fac parte din Muzeul Mineritului iar acesta este deschis doar de dimineata. Accesul se face insotit de un ghid al Muzeului si dureaza cam 1 ora si 30 de minute. Patrunde-ti in adancul muntiilor si descoperiti galeriile antice realizate in perioada ocupatiei romane in Dacia pentru a extrage aurul. Nu ratati si exponatele din muzeu ca de exemplu Steampurile. Aflati ce sunt aceste masinarii si cum functionau ele (o sa ne ajute pe traseu). Drumul de la Casa Petri la Muzeu este asfaltat, deci daca doriti puteti lua si masina pana la el si inapoi iar apoi sa continuati restul traseului pe jos.",
     "moreDetailsLink": "http://www.alba.djc.ro/ObiectiveDetalii.aspx?ID=2184",
     "moreDetailsTitle": "Mai multe detalii despre muzeu aici.",
     "img1Title": "Galeriile Romane",
@@ -15,9 +15,9 @@
     "img2FullSize": "img/romanGalleries/fullSize/2.jpg"
   },
   {
-    "attractionTitle": "Bancuta Panoramica",
+    "title": "Bancuta Panoramica",
     "anchorId": "panoramicBench",
-    "attractionDetail": "Dupa atata umblat pe munti si pe sub munti este momentul sa ajungeti in cel mai romantic punct din Rosia Montana: Bancuta panoramica. In fata voastra aveti masivul Carnic, care adaposteste in interiorul lui peste 150km de galerii antice unice in lume asemenea celor care le-ati vazut la muzeu dar si vreo 200 de tone de aur dupa care ravnesc atatia... La poalele lui se intinde centrul istoric al Rosiei Montane.",
+    "details": "Dupa atata umblat pe munti si pe sub munti este momentul sa ajungeti in cel mai romantic punct din Rosia Montana: Bancuta panoramica. In fata voastra aveti masivul Carnic, care adaposteste in interiorul lui peste 150km de galerii antice unice in lume asemenea celor care le-ati vazut la muzeu dar si vreo 200 de tone de aur dupa care ravnesc atatia... La poalele lui se intinde centrul istoric al Rosiei Montane.",
     "img1Title": "Bancuta Panoramica",
     "img1Detail": "Pe timp de iarna aici este la fel de frumos. De aici se vede turla Bisericii Catolice",
     "img1Thumbnail": "img/panoramicBench/thumbnail/1.jpg",
@@ -28,9 +28,9 @@
     "img2FullSize": "img/panoramicBench/fullSize/2.jpg"
   },
   {
-    "attractionTitle": "Biserica Romano-Catolica",
+    "title": "Biserica Romano-Catolica",
     "anchorId": "romanCatholicChurch",
-    "attractionDetail": "Dupa atata zaboveala ne intoarcem spre centrul istoric la Biserica Romano-Catolica. Asezarea ei deasupra satului fac ca turla ei cu ceas sa fie vizibila din tot satul si sunetul clopotelor ei se pot auzi de la orice casa din sat. Am auzit de la bunici ca mormantul chiar din fata bisericii cu marmura neagra esta a celui care a finantat constructia bisericii. Legenda spune ca in timp ce acesta cauta aur pe galerii s-a intalnit cu valva baii si a facut un pact cu aceasta referitor la aceasta biserica. Nu va spunem mai mult ... veniti la Rosia si intrebati vreun localnic pentru a afla mai mult.",
+    "details": "Dupa atata zaboveala ne intoarcem spre centrul istoric la Biserica Romano-Catolica. Asezarea ei deasupra satului fac ca turla ei cu ceas sa fie vizibila din tot satul si sunetul clopotelor ei se pot auzi de la orice casa din sat. Am auzit de la bunici ca mormantul chiar din fata bisericii cu marmura neagra esta a celui care a finantat constructia bisericii. Legenda spune ca in timp ce acesta cauta aur pe galerii s-a intalnit cu valva baii si a facut un pact cu aceasta referitor la aceasta biserica. Nu va spunem mai mult ... veniti la Rosia si intrebati vreun localnic pentru a afla mai mult.",
     "img1Title": "Biserica Romano-Catolica",
     "img1Detail": "Slujbele au loc in prima duminica din luna. La sfarsitul fiecarei slujbe se canta la orga din interiorul ei",
     "img1Thumbnail": "img/romanCatholicChurch/thumbnail/1.jpg",
@@ -41,11 +41,11 @@
     "img2FullSize": "img/romanCatholicChurch/fullSize/2.jpg"
   },
   {
-    "attractionTitle": "Biserica Unitariana",
+    "title": "Biserica Unitariana",
     "anchorId": "unitarianChurch",
     "moreDetailsLink": "http://www.adoptaocasa.ro/case/biserica-unitariana",
     "moreDetailsTitle": "Mai multe detalii aici.",
-    "attractionDetail": "\"Amplasat pe culmea unui mic deal, in zona centrala a asezarii, edificiul domina ansamblul Pieatei centrale si iradiaza asupra organizarii spaatiale a intregii zone, afirmandu-se ca element de valoare al structurii urbane.\" La casa parohiala a bisericii se desfasoara in fiecare an tabere de restaurare a monumentelor de patrimoniu din localitate.",
+    "details": "\"Amplasat pe culmea unui mic deal, in zona centrala a asezarii, edificiul domina ansamblul Pieatei centrale si iradiaza asupra organizarii spaatiale a intregii zone, afirmandu-se ca element de valoare al structurii urbane.\" La casa parohiala a bisericii se desfasoara in fiecare an tabere de restaurare a monumentelor de patrimoniu din localitate.",
     "img1Title": "Biserica Unitariana",
     "img1Detail": "Slujbele au loc in fiecare duminica . Preotul de aici, domnul Arpi este unul dintre cei mai apreciati din zona. Se organizeaza chiar si excursii din Cluj la slujbele lui.",
     "img1Thumbnail": "img/unitarianChurch/thumbnail/1.jpg",
@@ -56,9 +56,9 @@
     "img2FullSize": "img/unitarianChurch/fullSize/2.jpg"
   },
   {
-    "attractionTitle": "Galeria si Varful Vaidoaia",
+    "title": "Galeria si Varful Vaidoaia",
     "anchorId": "vaidoaiaGalleries",
-    "attractionDetail": "De aici incepe partea mai de munte a traseului pentru ca o sa aveti de urcat pe pietre spre galerie. Galeria este diferita fata de cea vazuta la muzeu si pare mai degraba o pestera. Dar urmele de sapaturi pe locul filoanelor de aur de pe peretii acesteia o sa va convinga ca a fost creeata de stramosii nostri in cautarea aurului. Apoi urcati pe varful masivului din care face parte galeria si bucarati-va de privelistea spre taul brazi, Carnic si intreaga vale a Rosiei Montane",
+    "details": "De aici incepe partea mai de munte a traseului pentru ca o sa aveti de urcat pe pietre spre galerie. Galeria este diferita fata de cea vazuta la muzeu si pare mai degraba o pestera. Dar urmele de sapaturi pe locul filoanelor de aur de pe peretii acesteia o sa va convinga ca a fost creeata de stramosii nostri in cautarea aurului. Apoi urcati pe varful masivului din care face parte galeria si bucarati-va de privelistea spre taul brazi, Carnic si intreaga vale a Rosiei Montane",
     "img1Title": "Galeria Vaidoaia",
     "img1Detail": "Parca aici e inima Rosiei Montane. Priviti rocile din jur si o sa intelegeti de unde vine numele localitatii.",
     "img1Thumbnail": "img/vaidoaiaGalleries/thumbnail/1.jpg",
@@ -69,9 +69,9 @@
     "img2FullSize": "img/vaidoaiaGalleries/fullSize/2.jpg"
   },
   {
-    "attractionTitle": "Taul Brazi",
+    "title": "Taul Brazi",
     "anchorId": "braziLake",
-    "attractionDetail": "Taurile din Rosia sunt lacuri artificiale creeate pentru a acumula apa de pe dealuri. Paraurile din zona erau alimentate de aceste lacuri si astfel se actionau morile steampurilor care macinau aurul. Daca ati fost atent la vizita din muzeul mineritului cu siguranta o sa va amintiti cum arata si cum functionau steampurile. In total exista 7 tauri dar Taul brazi este cel mai pitoresc si mai usor accesibil. Chiar deasupra Taului Brazi se afla Taul Anghel numit in zona si Taul fara fund.",
+    "details": "Taurile din Rosia sunt lacuri artificiale creeate pentru a acumula apa de pe dealuri. Paraurile din zona erau alimentate de aceste lacuri si astfel se actionau morile steampurilor care macinau aurul. Daca ati fost atent la vizita din muzeul mineritului cu siguranta o sa va amintiti cum arata si cum functionau steampurile. In total exista 7 tauri dar Taul brazi este cel mai pitoresc si mai usor accesibil. Chiar deasupra Taului Brazi se afla Taul Anghel numit in zona si Taul fara fund.",
     "img1Title": "Taul Brazi",
     "img1Detail": "Casuta de la coada lacului este a unui pictor care s-a mutat aici pentru a folosi privelistea drept sursa de inspiratie pentru operele sale. ",
     "img1Thumbnail": "img/braziLake/thumbnail/1.jpg",
@@ -82,9 +82,9 @@
     "img2FullSize": "img/braziLake/fullSize/2.jpg"
   },
   {
-    "attractionTitle": "Platoul Carnic",
+    "title": "Platoul Carnic",
     "anchorId": "carnicPlateau",
-    "attractionDetail": "In imediata apropiere a Taului Brazi se afla Platoul Carnic. Este o mica terasa pe masivului Carnic care ofera o priveliste deosebita spre centrul vechi, Masivul Jig-Vaidoaia si Tarina. De aici puteti prinde cel mai frumos apus asupra acestor meleaguri.",
+    "details": "In imediata apropiere a Taului Brazi se afla Platoul Carnic. Este o mica terasa pe masivului Carnic care ofera o priveliste deosebita spre centrul vechi, Masivul Jig-Vaidoaia si Tarina. De aici puteti prinde cel mai frumos apus asupra acestor meleaguri.",
     "img1Title": "Vedere de pe Platoul Carnic spre Masivul Vaidoaia",
     "img1Detail": "Chiar ne place Rosia Montana pe timp de iarna. Pe varful dealului apare statia meteo din Rosia Montana",
     "img1Thumbnail": "img/carnicPlateau/thumbnail/1.jpg",
@@ -95,9 +95,9 @@
     "img2FullSize": "img/carnicPlateau/fullSize/2.jpg"
   },
   {
-    "attractionTitle": "Sfinxul Carnic",
+    "title": "Sfinxul Carnic",
     "anchorId": "carnicSfinx",
-    "attractionDetail": "Drumul pana aici va va purta printr-o padure de brazi si molizi. Bucurati-va de aerul proaspat. De aveti timp puteti sa va aventurati in padure pentru a gasi ciuperci, zmeura, mure sau fragute. Odata ajunsi pe culmea Carnicului la Sfinx o sa va aflati pe cel mai inalt punct din Rosia Montana. In fata aveti toata localitatea Rosia Montana iar in spate puteti vedea  Cariera Cetate. Numele de Cetate vine de la faptul ca aici era intradevar o cetate sapata in munti cu dalta si nicovala de daci si romani. Insa pe vremea comunismului s-a decis ca e mult mai important sa o distruga si sa faca exploatare de aur de suprafata.",
+    "details": "Drumul pana aici va va purta printr-o padure de brazi si molizi. Bucurati-va de aerul proaspat. De aveti timp puteti sa va aventurati in padure pentru a gasi ciuperci, zmeura, mure sau fragute. Odata ajunsi pe culmea Carnicului la Sfinx o sa va aflati pe cel mai inalt punct din Rosia Montana. In fata aveti toata localitatea Rosia Montana iar in spate puteti vedea  Cariera Cetate. Numele de Cetate vine de la faptul ca aici era intradevar o cetate sapata in munti cu dalta si nicovala de daci si romani. Insa pe vremea comunismului s-a decis ca e mult mai important sa o distruga si sa faca exploatare de aur de suprafata.",
     "moreDetailsLink": "http://adevarul.ro/locale/alba-iulia/foto-distrugerea-curtilor-aur-cele-mai-frumoase-mai-reprezentative-lucrari-miniere-romania-vremea-dacilor-romanilor-1_5607ae00f5eaafab2c0c02e2/index.html",
     "moreDetailsTitle": "Mai multe detalii aici.",
     "img1Title": "Sfinxul Carnic",
@@ -110,9 +110,9 @@
     "img2FullSize": "img/carnicSfinx/fullSize/2.jpg"
   },
   {
-    "attractionTitle": "Piatra Corbului",
+    "title": "Piatra Corbului",
     "anchorId": "ravenStone",
-    "attractionDetail": "De la Sfinx luati-o pe unde ati venit tot inainte pe culmea muntelui pana ajungeti la capatul potecii. Aici va aflati pe Piatra Corbului, rezervatie naturala protejata. Taul din fata este Taul Cornii iar chiar langa este satul Corna.",
+    "details": "De la Sfinx luati-o pe unde ati venit tot inainte pe culmea muntelui pana ajungeti la capatul potecii. Aici va aflati pe Piatra Corbului, rezervatie naturala protejata. Taul din fata este Taul Cornii iar chiar langa este satul Corna.",
     "img1Title": "Piatra Corbului",
     "img1Detail": " Numele ii vine de la forma ei de cap de corb asa cum se vede din vale",
     "img1Thumbnail": "img/ravenStone/thumbnail/1.jpg",
@@ -123,9 +123,9 @@
     "img2FullSize": "img/ravenStone/fullSize/2.jpg"
   },
   {
-    "attractionTitle": "Simpozion Sculpturi",
+    "title": "Simpozion Sculpturi",
     "anchorId": "sculptures",
-    "attractionDetail": "La intoarcere va recomandam sa o luati spre Sculpturile din calcar. Dupa atata traseu ve-ti fii obositi si chiar langa sculpturi se afla 2 ferme unde puteti intreba de o masa traditionala. Dupa acest popas ne reintoarcem la Casa Petri care se afla cam la 20 de minute. \"AISS au organizat aici primul Simpozion Internaational de Sculptura Monumentala din Romania. Trei artisti romani si sase artisti invitaati din Argentina, Canada, Egipt, Franata, Olanda si Japonia au constituit o echipa care a reprezentat toate continentele si care a lucrat timp de o luna intr-un spirit de prietenie si de emulaatie artistica. Simpozionul s-a desfasurat la Rosia Montana, localitate care deatine un trecut prestigios, fiind in acelasi timp si unul dintre primele situri locuite datate din atara. Sculpturile monumentale in piatra realizate in cadrul simpozionului au fost donate patrimoniului Rosia Montana\"",
+    "details": "La intoarcere va recomandam sa o luati spre Sculpturile din calcar. Dupa atata traseu ve-ti fii obositi si chiar langa sculpturi se afla 2 ferme unde puteti intreba de o masa traditionala. Dupa acest popas ne reintoarcem la Casa Petri care se afla cam la 20 de minute. \"AISS au organizat aici primul Simpozion Internaational de Sculptura Monumentala din Romania. Trei artisti romani si sase artisti invitaati din Argentina, Canada, Egipt, Franata, Olanda si Japonia au constituit o echipa care a reprezentat toate continentele si care a lucrat timp de o luna intr-un spirit de prietenie si de emulaatie artistica. Simpozionul s-a desfasurat la Rosia Montana, localitate care deatine un trecut prestigios, fiind in acelasi timp si unul dintre primele situri locuite datate din atara. Sculpturile monumentale in piatra realizate in cadrul simpozionului au fost donate patrimoniului Rosia Montana\"",
     "moreDetailsLink": "http://www.simpozionrosiamontana.org/Catalogue_Rosia_Montana.pdf",
     "moreDetailsTitle": "Mai multe detalii aici.",
     "img1Title": "PORTA FELICE",

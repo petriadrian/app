@@ -15,7 +15,7 @@ a, u {
 body {
 	padding-top: 50px;
 	color: #151F1D;
-	font-size: 14px;
+	font-size: 15px;
 	font-family: 'Open Sans', sans-serif;
 	/*background-image: url("back.jpg");*/
 	/*background-repeat: no-repeat;*/
@@ -149,7 +149,6 @@ body {
 }
 .reviewsArea .reviewTitle {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 1.2em;
 }
 
 .reviewsArea .carousel {
@@ -172,7 +171,7 @@ body {
 .reviewsArea p{
 	height: 100%;
 	margin: 0px;
-	font-size: 0.98em;
+	font-size: 0.97em;
 	font-family: 'Merienda', cursive;
 }
 
@@ -180,12 +179,6 @@ body {
 	height: 10%;
     padding-right: 5px;
     text-align: right;
-    font-size: 1.2em;
-}
-
-.reviewText {
-	width: 100%;
-	font-family: 'Merienda', cursive;
 }
 
 .defaultClickEvents:HOVER,
@@ -240,7 +233,7 @@ body {
 .titleSubcategory h3 {
 	width: 100%;
 	/*margin: 0px;*/
-	font-size: 1.6em;
+	font-size: 1.4em;
 	border-bottom: 1px solid #000;
 	line-height: 0.1em;
 	margin: 10px 0 20px;
@@ -309,7 +302,7 @@ body {
 }
 
 .carouselText {
-	font-size: 1.6em;
+	font-size: 1.4em;
 	text-align: left;
 	padding: 3px 0 0 0;
 }
@@ -322,7 +315,7 @@ body {
 }
 
 .carouselInfo {
-	font-size: 0.53em;
+	font-size: 0.55em;
 	text-align: right;
 	margin: 0;
 	padding: 0 0 0 2px;
@@ -369,7 +362,7 @@ body {
 }
 
 .starter-template h1 {
-	font-size: 2em;
+	font-size: 1.8em;
 }
 .starter-template img {
 	width: 100%;
@@ -390,7 +383,7 @@ body {
     background-color: #151F1D;
     border-color: #151F1D;
     color: #fff;
-    font-size: 1.2em;
+    font-size: 1.1em;
 	margin-top: 2px;
 }
 
@@ -460,7 +453,7 @@ body {
 }
 
 .pageMotto h1{
-	font-size: 4em;
+	font-size: 3.8em;
 }
 
 .roomReservation {
@@ -535,13 +528,25 @@ body {
 	position: relative;
 }
 
+.defaultArticleText {
+	padding: 0 5%;
+}
+
+#reviewLayout .defaultArticleText {
+	font-family: 'Merienda', cursive;
+}
+
+#reviewLayout figcaption {
+	display: none;
+}
+
 .trailIndicators {
 	width: 100%;
 	text-align: center;
 }
 
 .trailIndicators p {
-	font-size: 1.4em;
+	font-size: 1.2em;
 	padding: 10px 20px;
 	display: inline-block;
 }
@@ -555,25 +560,18 @@ body {
 }
 
 .photoAlbum figure figcaption {
-  font-size: .9em;
-  line-height: 1.5;
+  font-size: .85em;
 }
 
-article {
-	text-align: center;
-	font-size: 1.2em;
-	margin: 50px;
-}
-
-.usefulBox {
+.listWithIconTitleDetail {
 	font-size: 1.2em;
 	margin: 20px 0;
 }
 
-.usefulBox i{
+.listWithIconTitleDetail i{
 	font-size: 2em;
 }
 
-.usefulBox .usefulTitle{
+.listWithIconTitleDetail span{
 	font-size: 1.6em;
 }
