@@ -31,40 +31,37 @@
 
 <div class="container">
 
-    <div class="pageMotto" style="background-image: url('img/headlineImage.png')">
-        <h1>
-            Vrem sa te simti cat mai bine la noi in ograda
-        </h1>
-        <a href="#cosySpots" class="btn btn-large btn-primary">Cosy spots</a>
-        <a href="#useful" class="btn btn-large btn-primary">Utile</a>
-    </div>
-
-    <!-- COSY SPOTS-->
-    <div  class="anchorParent" id="cosySpotsPhotoAlbum" >
-        <span id="firstSection" class="anchor"></span>
-        <div class="titleLayout">
-            <h2><i class="fa fa-heart"></i> Cosy spots</h2>
-        </div>
+    <div id="pageHeader">
         <script>
-            dynamicContentLoader('photoAlbumBox.htm', 'facilities/cosySpots.json', 'cosySpotsPhotoAlbum', 'photoAlbumBoxTemplateId');
+            dynamicContentLoader('defaultPageStructure.htm', 'facilities/pageStructure.json', 'pageHeader', 'defaultPageStructureTemplateId');
         </script>
     </div>
 
-    <!--USEFUL-->
-    <div  class="anchorParent" id="usefulLayout" >
-        <span id="useful" class="anchor"></span>
+    <div class="anchorParent" id="firstSection">
+        <span id="firstSectionTitle" class="anchor"></span>
+        <div class="titleLayout">
+            <h2><i class="fa fa-heart"></i> ${firstSectionTitle}</h2>
+        </div>
+        <script>
+            dynamicContentLoader('photoAlbumBox.htm', 'facilities/cosySpots.json', 'firstSection', 'photoAlbumBoxTemplateId');
+        </script>
+    </div>
 
+
+    <!--USEFUL-->
+    <div class="anchorParent" id="secondSection">
+        <span id="secondSectionTitle" class="anchor"></span>
         <div class="titleLayout">
             <h2><i class="fa fa-umbrella"></i></i> Utile</h2>
         </div>
         <script>
-            dynamicContentLoader('listWithIconTitleDetail.htm', 'facilities/useful.json', 'usefulLayout', 'listWithIconTitleDetailTemplateId');
+            dynamicContentLoader('listWithIconTitleDetail.htm', 'facilities/useful.json', 'secondSection', 'listWithIconTitleDetailTemplateId');
         </script>
     </div>
     <div style="clear: both;"></div>
 
     <!-- SEE MORE -->
-    <div id="seeMoreLayout" >
+    <div id="seeMoreLayout">
         <div class="titleLayout">
             <h2><i class="fa fa-coffee"></i> Vezi si</h2>
         </div>

@@ -383,65 +383,18 @@ body {
 	min-width: 100%;
 }
 
-@media(max-width:320px) {
-	.navbar-brand img{
-		width: 200px;
-	}
-}
-
-@media(max-width:480px) {
-	.carouselHomePage {
-		width: 100%
-	}
-	
-	.centralCarousel .item {
-   		height: 200px !important;
-}
-}
-	
-@media(min-width:481px){
-	.carouselHomePage {
-		width: 50%
-	}
-}
-
-@media(min-width:767px){
-	.carouselHomePage {
-		width: 50%
-	}
-}
-
-@media(max-width:768px) {
-	.reviewPreviewLayout,
-	.centralCarousel {
-		width: 100%;
-	}
-	.reviewPreviewLayout {
-		height: 200px;
-	}
-}
-
-@media(min-width:992px){
-	.carouselHomePage {
-		width: 33.333333%
-	}
-}
-@media(min-width:1200px){
-	.carouselHomePage {
-		width: 25%;
-	}
-}
-
-.pageMotto {
+.pageHeader {
 	width: 100%;
-	padding: 40px 100px 100px 100px;
+	min-height: 300px;
+	padding: 0.5% 5% 5% 5%;
+	text-align: left;
 	background-size: 100%;
 	background-repeat: no-repeat;
-    background-position: right bottom;
+	background-position: center bottom;
 }
 
-.pageMotto h1{
-	font-size: 3.8em;
+.pageHeader h1{
+	font-size: 3.5em;
 }
 
 .roomReservation {
@@ -551,4 +504,69 @@ body {
 
 .listWithIconTitleDetail span{
 	font-size: 1.6em;
+}
+
+
+
+
+
+@media(max-width:320px) {
+	.navbar-brand img{
+		width: 200px;
+	}
+	.pageHeader {
+		background-size: 200%;
+	}
+}
+
+@media(max-width:480px) {
+	.carouselHomePage {
+		width: 100%
+	}
+	.pageHeader {
+		background-size: 180%;
+	}
+
+	.centralCarousel .item {
+		height: 200px !important;
+	}
+}
+
+@media(min-width:481px){
+	.carouselHomePage {
+		width: 50%
+	}
+	.pageHeader {
+		background-size: 150%;
+	}
+}
+
+@media(min-width:767px){
+	.carouselHomePage {
+		width: 50%
+	}
+	.pageHeader {
+		background-size: 150%;
+	}
+}
+
+@media(max-width:768px) {
+	.reviewPreviewLayout,
+	.centralCarousel {
+		width: 100%;
+	}
+	.reviewPreviewLayout {
+		height: 200px;
+	}
+}
+
+@media(min-width:992px){
+	.carouselHomePage {
+		width: 33.333333%
+	}
+}
+@media(min-width:1200px){
+	.carouselHomePage {
+		width: 25%;
+	}
 }
