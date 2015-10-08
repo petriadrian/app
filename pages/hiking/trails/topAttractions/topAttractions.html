@@ -31,19 +31,16 @@
 
 <div class="container">
 
-    <div class="pageMotto" style="background-image: url('img/introBackground.png')">
-        <h1>
-            Traseul principalele atractii din Rosia Montana
-        </h1>
-        <a href="#location" class="btn btn-large btn-primary">Traseu</a>
-        <a href="#attractionsAnchor" class="btn btn-large btn-primary">Atractii</a>
+    <div id="pageHeaderAdvertise">
+        <script>
+            dynamicContentLoader('defaultPageHeader.htm', 'hiking/trails/topAttractions/pageStructure.json', 'pageHeaderAdvertise', 'defaultPageHeaderTemplateId');
+        </script>
     </div>
-    <!-- path -->
-    <div >
-        <span id="location" class="anchor"></span>
 
+    <div class="anchorParent" id="firstSection">
+        <span id="firstSectionTitle" class="anchor"></span>
         <div class="titleLayout">
-            <h2><i class="fa fa-map-signs"></i> Traseu</h2>
+            <h2><i class="fa fa-heart"></i> ${firstSectionTitle}</h2>
         </div>
 
         <article>
@@ -53,7 +50,7 @@
         </article>
 
         <iframe width="100%" height="450" frameborder="0" style="border:0"
-                src="https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=sfinxul%20carnic&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Galeriile Romane, Roșia Montană, Județul Alba|Sculpturi Calcar DC147 rosia montana|Bancuta Panoramica, DC146, Roșia Montană 517615|Biserica Romano-Catolică, Roșia Montană|Biserica Unitariană, 530, Roșia Montană|Galeria Văidoaia, DC117|Jig-Vaidoaia|Platoul Cârnic, DJ742|Tăul Brazi,Romania|Piatra Corbului, DJ742, Roșia Montană" allowfullscreen></iframe>
+                src="https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=sfinxul%20carnic&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Galeriile Romane, Roșia Montană, Județul Alba|Sculpturi Calcar DC147 rosia montana|DC146, Roșia Montană 517615|Biserica Romano-Catolică, Roșia Montană|Biserica Unitariană, 530, Roșia Montană|Galeria Văidoaia, DC117|Jig-Vaidoaia|Platoul Cârnic, DJ742|Tăul Brazi,Romania|Piatra Corbului, DJ742, Roșia Montană" allowfullscreen></iframe>
 
         <div class="trailIndicators">
             <p title="time"><i class="fa fa-clock-o"></i> 8h</p>
@@ -65,13 +62,13 @@
     </div>
     <div style="clear: both;"></div>
 
-    <div id="attractionsContent">
-        <span id="attractionsAnchor" class="anchor"></span>
+    <div class="anchorParent" id="secondSection">
+        <span id="secondSectionTitle" class="anchor"></span>
         <div class="titleLayout">
-            <h2><i class="fa fa-star"></i> Atractii de pe traseu</h2>
+            <h2><i class="fa fa-star"></i> ${secondSectionTitle}</h2>
         </div>
         <script>
-            dynamicContentLoader('article.htm', 'hiking/trails/topAttractions/attractions.json', 'attractionsContent', 'articleTemplateId');
+            dynamicContentLoader('article.htm', 'hiking/trails/topAttractions/attractions.json', 'secondSection', 'articleTemplateId');
         </script>
     </div>
 

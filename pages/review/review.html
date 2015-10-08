@@ -30,20 +30,17 @@
 
 <div class="container">
 
-    <!-- INTRO -->
-    <div class="pageMotto" style="background-image: url('img/introBackground.png')">
-        <h1>
-            Crestem impreuna cu cei ce ne trec pragul
-        </h1>
-        <a href="#reviewHead" class="btn btn-large btn-primary">Impresii</a>
-        <a data-toggle="modal" data-backdrop="true" data-target="#sendMail" class="btn btn-large btn-primary">Adauga o impresie</a>
+    <div id="pageHeaderAdvertise">
+        <script>
+            dynamicContentLoader('defaultPageHeader.htm', 'review/pageStructure.json', 'pageHeaderAdvertise', 'defaultPageHeaderTemplateId');
+        </script>
     </div>
 
-    <!-- REVIEWS -->
+
     <div id="reviewPageLayout" >
         <span id="reviewHead" class="anchor"></span>
         <div class="titleLayout">
-            <h2><i class="fa fa-home"></i> Impresii</h2>
+            <h2><i class="fa fa-commenting"></i> Impresii</h2>
         </div>
         <script>
             dynamicContentLoader('article.htm', 'review/reviews.json', 'reviewPageLayout', 'articleTemplateId');

@@ -31,42 +31,44 @@
 
 <div class="container">
 
-    <div id="pageHeader">
+    <div id="pageHeaderAdvertise">
         <script>
-            dynamicContentLoader('defaultPageStructure.htm', 'facilities/pageStructure.json', 'pageHeader', 'defaultPageStructureTemplateId');
+            dynamicContentLoader('defaultPageHeader.htm', 'facilities/pageStructure.json', 'pageHeaderAdvertise', 'defaultPageHeaderTemplateId');
         </script>
     </div>
 
-    <div class="anchorParent" id="firstSection">
-        <span id="firstSectionTitle" class="anchor"></span>
-        <div class="titleLayout">
-            <h2><i class="fa fa-heart"></i> ${firstSectionTitle}</h2>
+    <div id="firstSection">
+        <div id="firstSectionHeadline" class="titleLayout">
+            <script>
+                dynamicContentLoader('sectionTitle/firstSectionTitle.htm', 'facilities/pageStructure.json', 'firstSectionHeadline', 'firstSectionTitleTemplateId');
+            </script>
         </div>
         <script>
             dynamicContentLoader('photoAlbumBox.htm', 'facilities/cosySpots.json', 'firstSection', 'photoAlbumBoxTemplateId');
         </script>
     </div>
+    <div style="clear: both;"></div>
 
-
-    <!--USEFUL-->
-    <div class="anchorParent" id="secondSection">
-        <span id="secondSectionTitle" class="anchor"></span>
-        <div class="titleLayout">
-            <h2><i class="fa fa-umbrella"></i></i> Utile</h2>
+    <div id="secondSection">
+        <div id="secondSectionHeadline" class="titleLayout">
+            <script>
+                dynamicContentLoader('sectionTitle/secondSectionTitle.htm', 'facilities/pageStructure.json', 'secondSectionHeadline', 'secondSectionTitleTemplateId');
+            </script>
         </div>
+
         <script>
             dynamicContentLoader('listWithIconTitleDetail.htm', 'facilities/useful.json', 'secondSection', 'listWithIconTitleDetailTemplateId');
         </script>
     </div>
     <div style="clear: both;"></div>
 
-    <!-- SEE MORE -->
-    <div id="seeMoreLayout">
+    <!-- SEE ALSO -->
+    <div id="seeAlsoLayout">
         <div class="titleLayout">
-            <h2><i class="fa fa-coffee"></i> Vezi si</h2>
+            <h2><i class="fa fa-coffee"></i> ${seeAlsoTitle}</h2>
         </div>
         <script>
-            dynamicContentLoader('menuBox.htm', 'facilities/seeMore.json', 'seeMoreLayout', 'menuBoxTemplateId');
+            dynamicContentLoader('menuBox.htm', 'facilities/seeMore.json', 'seeAlsoLayout', 'menuBoxTemplateId');
         </script>
     </div>
     <div style="clear: both;"></div>

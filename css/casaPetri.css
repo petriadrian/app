@@ -7,34 +7,38 @@
   */
 
 a, u {
-	text-decoration: none;
-	color: #151F1D;
-	cursor: pointer;
+    text-decoration: none;
+    color: #151F1D;
+    cursor: pointer;
+}
+
+h1 {
+    font-size: inherit;
 }
 
 body {
-	padding-top: 50px;
-	color: #151F1D;
-	font-size: 15px;
-	font-family: 'Open Sans', sans-serif;
-	/*background-image: url("back.jpg");*/
-	/*background-repeat: no-repeat;*/
-	/*background-attachment: fixed;*/
-	/*background-size: 100% 100%;*/
+    padding-top: 50px;
+    color: #151F1D;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    /*background-image: url("back.jpg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-attachment: fixed;*/
+    /*background-size: 100% 100%;*/
 }
 
 .navbar-brand {
-	margin: 0;
-	padding: 0 0 0 15px;
+    margin: 0;
+    padding: 0 0 0 15px;
 }
 
 .navbar-brand .backImage {
-	margin: 0;
-	padding: 0 0 0 15px;
-	background-image: url('../pages/home/img/logo/logo.png');
-	background-size: 240px 50px;
-	height: 50px;
-	width: 240px;
+    margin: 0;
+    padding: 0 0 0 15px;
+    background-image: url('../pages/home/img/logo/logo.png');
+    background-size: 240px 50px;
+    height: 50px;
+    width: 240px;
     background-repeat: no-repeat;
     position: relative;
     cursor: pointer;
@@ -42,149 +46,152 @@ body {
 }
 
 .navbar-brand h1 {
-	position: absolute;
-	font-size: 0.8em;
-	margin-left: 30px;
-	margin-top: 30px;
+    position: absolute;
+    font-size: 0.8em;
+    margin-left: 30px;
+    margin-top: 30px;
     padding: 0;
     color: inherit;
 }
 
 .navbar-inverse {
-	background-color: rgba(256, 256, 256, 0.5);
-	border: 0px;
+    background-color: rgba(256, 256, 256, 0.5);
+    border: 0px;
 }
 
 .navbar-inverse .container {
-	background-color: #151F1D;
-	padding-left: 0px;
+    background-color: #151F1D;
+    padding-left: 0px;
 }
 
 .navbar {
-	color: white;
+    color: white;
 }
 
-.navbar-inverse .navbar-nav>li>a {
-	color: inherit;
-	outline:none;
+.navbar-inverse .navbar-nav > li > a {
+    color: inherit;
+    outline: none;
 
 }
 
-.navbar-text>a:HOVER,
+.navbar-text > a:HOVER,
 .footerElements a:HOVER,
-.footerElements a:active{
-	cursor: pointer;
-	color:  gray;
+.footerElements a:active {
+    cursor: pointer;
+    color: gray;
 }
 
-.navbar-inverse .navbar-nav>li>a:HOVER,
+.navbar-inverse .navbar-nav > li > a:HOVER,
 .navbar-brand .backImage:HOVER,
 .btn-primary:HOVER,
-.btn-primary:FOCUS{
-	background-color: #4A4A4A;
-	border-color: #4A4A4A;
+.btn-primary:FOCUS {
+    background-color: #4A4A4A;
+    border-color: #4A4A4A;
 }
 
 .navbar-inverse .navbar-text {
-	color: white;
-	margin: 10px;
+    color: white;
+    margin: 10px;
 }
 
-.navbar-text>a {
-	color: inherit;
-	margin-right: 5px;
+.navbar-text > a {
+    color: inherit;
+    margin-right: 5px;
 }
 
 .container {
-	padding-left: 0px;
-	padding-right: 0px;
-	text-align: center;
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
 }
 
 .centralCarousel {
-	width: 75%;
-	float: left;
-	padding: 1px;
+    width: 75%;
+    float: left;
+    padding: 1px;
 }
 
-.centralCarousel h3{
+.centralCarousel h3 {
     margin: 0;
     color: inherit;
     font-size: 1.7em;
 }
 
-.centralCarousel .item{
+.centralCarousel .item {
     background: #333;
     height: 300px !important;
 }
+
 .centralCarousel .carousel-inner img {
-	width: 100%;
-	margin: auto;
+    width: 100%;
+    margin: auto;
 }
+
 .centralCarousel .carousel-caption {
-	padding-bottom: 10px;
-	padding-top: 0px;
- 	text-shadow:
-   		 -1px -1px 3px #000,
-  		  1px -1px 3px #000,
-  	     -1px 1px 3px #000,
-          1px 1px 3px #000;
+    padding-bottom: 10px;
+    padding-top: 0px;
+    text-shadow: -1px -1px 3px #000,
+    1px -1px 3px #000,
+    -1px 1px 3px #000,
+    1px 1px 3px #000;
 }
 
 .centralCarousel .carousel-indicators {
-	bottom: 10px;
+    bottom: 10px;
 }
 
 .reviewPreviewLayout {
-	width: 25%;
-	height: 300px;
-	float: left;
-	cursor: pointer;
+    width: 25%;
+    height: 300px;
+    float: left;
+    cursor: pointer;
 }
+
 .reviewPreviewArea {
-	height: 100%;
-	overflow: hidden;
+    height: 100%;
+    overflow: hidden;
 }
+
 .reviewPreviewArea .reviewTitle {
-	font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .reviewPreviewArea .carousel {
-	height: 90%;
-	padding: 5%;
+    height: 90%;
+    padding: 5%;
 }
 
 .reviewPreviewArea .carousel-caption {
-	position: static;
-	color: inherit;
-	text-align: justify;
-	padding: 0;
-	text-shadow: none;
-	bottom: 0px;
-	height: 100%;
+    position: static;
+    color: inherit;
+    text-align: justify;
+    padding: 0;
+    text-shadow: none;
+    bottom: 0px;
+    height: 100%;
 }
 
 .reviewPreviewArea .item,
 .reviewPreviewArea .carousel-inner,
-.reviewPreviewArea p{
-	height: 100%;
-	margin: 0px;
-	font-size: 0.97em;
-	font-family: 'Merienda', cursive;
+.reviewPreviewArea p {
+    height: 100%;
+    margin: 0px;
+    font-size: 0.97em;
+    font-family: 'Merienda', cursive;
 }
 
 .reviewPreviewArea .reviewInfo {
-	height: 10%;
+    height: 10%;
     padding-right: 5%;
     text-align: right;
 }
 
 .defaultClickEvents:HOVER,
 .defaultClickEvents:HOVER > a {
-	background-color: #151F1D;
-	color: white;
-	cursor: pointer;
-	text-decoration: none;
+    background-color: #151F1D;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
 }
 
 .defaultClickEvents:ACTIVE {
@@ -195,123 +202,121 @@ body {
     outline: none;
 }
 
-.anchorParent {
-	position: relative;
-}
-
 .anchor {
-	position: absolute;
-	top: -60px;
+    position: absolute;
+    top: -60px;
 }
 
- .titleLayout {
-	text-align: left;
-	padding: 10px;
-	background-color: #151F1D;
-    color: white;
-	margin: 50px 0 20px 0;
-	border-bottom: 2px solid #151F1D;
+.titleLayout {
+    text-align: left;
+    position: relative;
 }
+
 .titleLayout h2 {
-	margin: 0px;
-	font-size: 1.6em;
-	/*color: white;*/
+    margin: 30px 0;
+    color: white;
+    background-color: #151F1D;
+    padding: 10px;
+    font-size: 1.6em;
+    /*color: white;*/
 }
 
-.titleSubcategory {
-	padding: 10px;
-	margin: 20px 0 10px 0;
+.articleTitle {
+    padding: 10px;
+    margin: 20px 0 10px 0;
 }
 
-.titleSubcategory h3 {
-	width: 100%;
-	/*margin: 0px;*/
-	font-size: 1.4em;
-	border-bottom: 1px solid #000;
-	line-height: 0.1em;
-	margin: 10px 0 20px;
+.articleTitle h3 {
+    width: 100%;
+    /*margin: 0px;*/
+    font-size: 1.4em;
+    border-bottom: 1px solid #000;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
 }
 
-.titleSubcategory h3 span {
-	background:#fff;
-	padding:0 10px;
+.articleTitle h3 span {
+    background: #fff;
+    padding: 0 10px;
 }
 
+.defaultArticle {
+    margin-bottom: 60px;
+}
 
 /*------------------------------------*\
     $ MAIN CAROUSEL
 \*------------------------------------*/
 #ourOfferLayout .carouselHomePage,
-#activitiesLayout .carouselHomePage{
-	width: 50%;
-	padding: 2% 8%;
+#activitiesLayout .carouselHomePage {
+    width: 50%;
+    padding: 2% 5%;
 }
 
 .carouselHomePage {
-	color: inherit;
-	width: 25%;
-	padding: 5px;
-	float: left;
+    color: inherit;
+    width: 25%;
+    padding: 5px;
+    float: left;
 }
 
-
 .carouselContent {
-	overflow: hidden;
-	width: 100%;
-	height: 100%;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
 }
 
 .carouselPanes {
-	max-height: 160px;
-	list-style: none;
-	position: relative;
-	width: 300%; /* Number of panes * 100% */
-	overflow : hidden;
-	/* This is used solely to clear floats, it does not add functionality. */
-	-moz-animation: carousel 60s infinite;
-	-webkit-animation: carousel 60s infinite;
-	animation: carousel 60s infinite;
-	overflow: hidden;
-	padding: 0px;
-	margin: 0 0 4px 0;
+    max-height: 160px;
+    list-style: none;
+    position: relative;
+    width: 300%; /* Number of panes * 100% */
+    overflow: hidden;
+    /* This is used solely to clear floats, it does not add functionality. */
+    -moz-animation: carousel 60s infinite;
+    -webkit-animation: carousel 60s infinite;
+    animation: carousel 60s infinite;
+    overflow: hidden;
+    padding: 0px;
+    margin: 0 0 4px 0;
 }
 
 .carouselSimpleImagePane {
-	max-height: 160px;
-	height: 70%;
-	overflow: hidden;
+    max-height: 160px;
+    height: 70%;
+    overflow: hidden;
 }
 
-.carouselPanes>li {
-	position: relative;
-	float: left;
-	width: 33.333333333333%; /* 100 / number of panes */
+.carouselPanes > li {
+    position: relative;
+    float: left;
+    width: 33.333333333333%; /* 100 / number of panes */
 }
 
 .carouselContent img {
-	display: block;
-	max-width: 100%;
-	width: 100%;
+    display: block;
+    max-width: 100%;
+    width: 100%;
 }
 
 .carouselText {
-	font-size: 1.4em;
-	text-align: left;
-	padding: 3px 0 0 0;
+    font-size: 1.4em;
+    text-align: left;
+    padding: 3px 0 0 0;
 }
 
 .carouselTitle {
-	float:left;
-	overflow: hidden;
-	margin: 0 5px 5px 0;
-	text-align: left;
+    float: left;
+    overflow: hidden;
+    margin: 0 5px 5px 0;
+    text-align: left;
 }
 
 .carouselInfo {
-	font-size: 0.55em;
-	text-align: right;
-	margin: 0;
-	padding: 0 0 0 2px;
+    font-size: 0.55em;
+    text-align: right;
+    margin: 0;
+    padding: 0 0 0 2px;
 }
 
 /* @keyframes carousel{
@@ -334,40 +339,61 @@ body {
     100%  { left:0; }
 } */
 
-@keyframes carousel{
-    0%   { left:0; }
-    24%  { left:0; }
-    25%  { left:-100%; }
-    49%  { left:-100%; }
-    50%  { left:-200%; }
-    74%  { left:-200%; }
-    75%  { left:-100%; }
-    99%  { left:-100%; }
-    100% { left:0; }
+@keyframes carousel {
+    0% {
+        left: 0;
+    }
+    24% {
+        left: 0;
+    }
+    25% {
+        left: -100%;
+    }
+    49% {
+        left: -100%;
+    }
+    50% {
+        left: -200%;
+    }
+    74% {
+        left: -200%;
+    }
+    75% {
+        left: -100%;
+    }
+    99% {
+        left: -100%;
+    }
+    100% {
+        left: 0;
+    }
 }
 
 .starter-template {
-	margin: 30px 0;
-	padding: 1%;
-	border-top: 1px solid #151F1D;
+    margin: 30px 0;
+    padding: 1%;
+    border-top: 1px solid #151F1D;
 }
 
 .starter-template h1 {
-	font-size: 1.8em;
+    font-size: 1.8em;
 }
+
 .starter-template img {
-	width: 100%;
+    width: 100%;
 }
+
 .footerGoHomePage {
-	float: left;
+    float: left;
 }
+
 .footerIcons {
-	float: right;
+    float: right;
 }
 
 .footerElements a {
-	text-decoration: none;
-	color: white;
+    text-decoration: none;
+    color: white;
 }
 
 .btn-primary {
@@ -375,198 +401,181 @@ body {
     border-color: #151F1D;
     color: #fff;
     font-size: 1.1em;
-	margin-top: 2px;
+    margin-top: 2px;
 }
 
-.modal textarea{
-	max-width: 100%;
-	min-width: 100%;
+.modal textarea {
+    max-width: 100%;
+    min-width: 100%;
 }
 
 .pageHeader {
-	width: 100%;
-	min-height: 300px;
-	padding: 0.5% 5% 5% 5%;
-	text-align: left;
-	background-size: 100%;
-	background-repeat: no-repeat;
-	background-position: center bottom;
+    width: 100%;
+    min-height: 300px;
+    padding: 0.5% 5% 5% 5%;
+    text-align: left;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    font-size: 3.5em;
+    text-shadow: -1px -1px 3px #fff,
+    1px -1px 3px #fff,
+    -1px 1px 3px #fff,
+    1px 1px 3px #fff;
 }
 
-.pageHeader h1{
-	font-size: 3.5em;
+.pageHeader .btn-primary {
+    font-size: 0.36em;
+    text-shadow: none;
 }
 
 .roomReservation {
-	width: 100%;
-	padding: 0% 20%;
+    width: 100%;
+    padding: 0% 20%;
 }
 
 .roomReservation .input-group,
 .roomReservation p {
-	padding: 1%;
-	width: 100%;
+    padding: 1%;
+    width: 100%;
 }
 
 .input-group textarea {
-	resize: vertical;
+    resize: vertical;
 }
 
 .roomReservation .add_more_rooms {
-	padding-left: 2%;
+    padding-left: 2%;
 }
 
 .roomReservation .remove_field:HOVER,
 .roomReservation .add_more_rooms:HOVER {
-	cursor: pointer;
-	color: red;
+    cursor: pointer;
+    color: red;
 }
 
 .roomReservation .submitButton {
-	width: 98%;
-	margin: 1%;
+    width: 98%;
+    margin: 1%;
 }
 
 .submitButton {
-	background-color: #eee;
+    background-color: #eee;
 }
 
 .contactDetails {
-	margin: 5% 0%;
+    margin: 5% 0%;
 }
 
 .contactElement {
-	float: left;
-	font-size: 1.1em;
-	padding: 2px 10px;
+    float: left;
+    font-size: 1.1em;
+    padding: 2px 10px;
 }
 
-.defaultImagePage{
-	width: 33%;
-	padding: 1px;
-	float:left;
-	display: inline-block;
+.defaultImagePage {
+    width: 33%;
+    padding: 1px;
+    float: left;
+    display: inline-block;
 }
+
 .defaultImagePage img {
-	width:100%;
+    width: 100%;
 }
 
 .photoAlbum {
-	width: 350px;
-	margin: 5px;
-	background-color:rgba(256, 256, 256, 0.8);
-	box-shadow: 0px 3px 5px rgba(34, 25, 25, 0.4);
-	padding: 1%;
+    width: 350px;
+    margin: 5px;
+    background-color: rgba(256, 256, 256, 0.8);
+    box-shadow: 0px 3px 5px rgba(34, 25, 25, 0.4);
+    padding: 1%;
     display: inline-block;
     column-break-inside: avoid;
 }
+
 .photoAlbum img {
-	width: 100%;
-	max-height: 350px;
-	border-bottom: 1px solid #ccc;
-	padding-bottom: 15px;
-	margin-bottom: 5px;
+    width: 100%;
+    max-height: 350px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 15px;
+    margin-bottom: 5px;
 }
+
 .photoAlbum figcaption {
-	font-size: .85em;
+    font-size: .85em;
 }
 
 #attractionsContent {
-	position: relative;
+    position: relative;
 }
 
 .defaultArticleText {
-	padding: 0 5%;
+    padding: 0 5%;
 }
 
 #reviewPageLayout .defaultArticleText {
-	font-family: 'Merienda', cursive;
+    font-family: 'Merienda', cursive;
 }
 
 #reviewPageLayout figcaption {
-	display: none;
+    display: none;
 }
 
 .trailIndicators p {
-	font-size: 1.2em;
-	padding: 10px 20px;
-	display: inline-block;
+    font-size: 1.2em;
+    padding: 10px 20px;
+    display: inline-block;
 }
 
 .listWithIconTitleDetail {
-	font-size: 1.2em;
-	margin: 20px 0;
+    font-size: 1.2em;
+    margin: 20px 0;
 }
 
-.listWithIconTitleDetail i{
-	font-size: 2em;
+.listWithIconTitleDetail i {
+    font-size: 2em;
 }
 
-.listWithIconTitleDetail span{
-	font-size: 1.6em;
+.listWithIconTitleDetail span {
+    font-size: 1.6em;
 }
 
+/* MEDIA */
 
+@media only screen and (min-width: 321px) and (max-width: 480px) {
+    .carouselHomePage {
+        width: 100%
+    }
 
+    .pageHeader {
+        font-size: 2.2em;
+        background-size: 250%;
+    }
 
+    .reviewPreviewLayout,
+    .centralCarousel {
+        width: 100%;
+    }
 
-@media(max-width:320px) {
-	.navbar-brand img{
-		width: 200px;
-	}
-	.pageHeader {
-		background-size: 200%;
-	}
+    .centralCarousel .item {
+        height: 200px !important;
+    }
 }
 
-@media(max-width:480px) {
-	.carouselHomePage {
-		width: 100%
-	}
-	.pageHeader {
-		background-size: 180%;
-	}
+@media only screen and (min-width: 481px) and (max-width: 780px) {
+    .reviewPreviewLayout,
+    .centralCarousel {
+        width: 100%;
+    }
 
-	.centralCarousel .item {
-		height: 200px !important;
-	}
-}
+    .reviewPreviewLayout {
+        height: 200px;
+    }
 
-@media(min-width:481px){
-	.carouselHomePage {
-		width: 50%
-	}
-	.pageHeader {
-		background-size: 150%;
-	}
+    .pageHeader {
+        font-size: 3em;
+        background-size: 150%;
+    }
 }
 
-@media(min-width:767px){
-	.carouselHomePage {
-		width: 50%
-	}
-	.pageHeader {
-		background-size: 150%;
-	}
-}
-
-@media(max-width:768px) {
-	.reviewPreviewLayout,
-	.centralCarousel {
-		width: 100%;
-	}
-	.reviewPreviewLayout {
-		height: 200px;
-	}
-}
-
-@media(min-width:992px){
-	.carouselHomePage {
-		width: 33.333333%
-	}
-}
-@media(min-width:1200px){
-	.carouselHomePage {
-		width: 25%;
-	}
-}
