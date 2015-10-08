@@ -11,9 +11,9 @@
     <link rel="shortcut icon" type="image/x-icon" href="/casaPetri/pages/home/img/favicon.ico"/>
     <title>Casa Petri Roșia Montană</title>
     <!-- LIBRARIES-->
-    <link rel="import" href="/casaPetri/pages/commonStuffs/librariesImports/defaultImports.html">
-    <link rel="import" href="/casaPetri/pages/commonStuffs/librariesImports/dateRangePicker.html">
-    <link rel="import" href="/casaPetri/pages/commonStuffs/librariesImports/photoAlbum.html">
+    <link rel="import" href="/casaPetri/pages/common/librariesImports/defaultImports.html">
+    <link rel="import" href="/casaPetri/pages/common/librariesImports/dateRangePicker.html">
+    <link rel="import" href="/casaPetri/pages/common/librariesImports/photoAlbum.html">
 </head>
 
 <body onload="scrollToAnchor()">
@@ -22,7 +22,7 @@
 <div id="siteHeader">
     <script>
         $(document).ready(function () {
-            $.get('/casaPetri/pages/commonStuffs/headerAndFooter/siteHeader.html', function (modal) {
+            $.get('/casaPetri/pages/common/headerAndFooter/siteHeader.html', function (modal) {
                 $('#siteHeader').append(modal);
             });
         });
@@ -53,7 +53,7 @@
             </div>
             <script>
                 $(document).ready(function () {
-                    $.get('/casaPetri/pages/commonStuffs/template/photoAlbumBox.htm', function (templates) {
+                    $.get('/casaPetri/pages/common/template/photoAlbumBox.htm', function (templates) {
                         $('#campingArea').append(templates);
                         $.get("content/rooms.json", function (content) {
                             $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#campingArea");
@@ -65,7 +65,7 @@
 
         <div id="facilitiesAdvertise">
             <script>
-                dynamicContentLoader('/casaPetri/pages/commonStuffs/template/advertiseSpot.htm', '/casapetri/pages/facilities/content/advertiseSpot.json', 'facilitiesAdvertise', 'advertiseSpotTemplateId');
+                dynamicContentLoader('/casaPetri/pages/common/template/advertiseSpot.htm', '/casapetri/pages/facilities/content/advertiseSpot.json', 'facilitiesAdvertise', 'advertiseSpotTemplateId');
             </script>
         </div>
 
@@ -161,7 +161,7 @@
         </div>
         <script>
             $(document).ready(function () {
-                $.get('/casaPetri/pages/commonStuffs/template/menuBox.htm', function (templates) {
+                $.get('/casaPetri/pages/common/template/menuBox.htm', function (templates) {
                     $('body').append(templates);
                     $.get("content/seeMore.json", function (content) {
                         $('#menuBoxTemplateId').tmpl(content).appendTo("#seeMoreLayout");
@@ -176,7 +176,7 @@
     <div id="siteFooter">
         <script>
             $(document).ready(function () {
-                $.get('/casaPetri/pages/commonStuffs/headerAndFooter/siteFooter.html', function (modal) {
+                $.get('/casaPetri/pages/common/headerAndFooter/siteFooter.html', function (modal) {
                     $('#siteFooter').append(modal);
                 });
             });
@@ -188,7 +188,7 @@
 <!--MODALS-->
 <script>
     $(document).ready(function () {
-        $.get('/casaPetri/pages/commonStuffs/modal/sendMailModal.html', function (modal) {
+        $.get('/casaPetri/pages/common/modal/sendMailModal.html', function (modal) {
             $('body').append(modal);
         });
     });

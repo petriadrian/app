@@ -10,7 +10,7 @@
     <!-- TITLE -->
     <link rel="shortcut icon" type="image/x-icon" href="/casaPetri/pages/home/img/favicon.ico"/>
     <title>Casa Petri Roșia Montană</title>
-    <link rel="import" href="/casaPetri/pages/commonStuffs/librariesImports/defaultImports.html">
+    <link rel="import" href="/casaPetri/pages/common/librariesImports/defaultImports.html">
 </head>
 
 <body onload="scrollToAnchor()">
@@ -19,7 +19,7 @@
 <div id="siteHeader">
     <script>
         $(document).ready(function () {
-            $.get('/casaPetri/pages/commonStuffs/headerAndFooter/siteHeader.html', function (siteHeader) {
+            $.get('/casaPetri/pages/common/headerAndFooter/siteHeader.html', function (siteHeader) {
                 $('#siteHeader').append(siteHeader);
             });
         });
@@ -52,7 +52,7 @@
     </div>
 
     <!-- REVIEWS -->
-    <div class="reviewPreviewLayout" onclick="location.href='/casaPetri/pages/review/review.html'" title="see more">
+    <div class="reviewPreviewLayout" onclick="location.href='/casaPetri/pages/review.html'" title="see more">
         <div class="reviewPreviewArea defaultClickEvents">
             <div class="carousel slide" data-ride="carousel" data-interval="5000">
                 <div id="reviewCarouselLayout" class="carousel-inner">
@@ -120,7 +120,7 @@
     <div id="siteFooter">
         <script>
             $(document).ready(function () {
-                $.get('/casaPetri/pages/commonStuffs/headerAndFooter/siteFooter.html', function (siteFooter) {
+                $.get('/casaPetri/pages/common/headerAndFooter/siteFooter.html', function (siteFooter) {
                     $('#siteFooter').append(siteFooter);
                 });
             });

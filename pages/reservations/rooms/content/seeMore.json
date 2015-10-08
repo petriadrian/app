@@ -2,10 +2,10 @@
   {
     "title": "Reviews",
     "details": "Oameni faini ne-au trecut pragul. Vezi pareri, impresii si cum se simte lumea pe la noi",
-    "destinationPageLink": "location.href='/casaPetri/pages/review/review.html'",
-    "imgUrl1": "/casaPetri/pages/review/img/reviewer/thumbnail/1.jpg",
-    "imgUrl2": "/casaPetri/pages/review/img/reviewer/thumbnail/2.jpg",
-    "imgUrl3": "/casaPetri/pages/review/img/reviewer/thumbnail/3.jpg"
+    "destinationPageLink": "location.href='/casaPetri/pages/review.html'",
+    "imgUrl1": "/casaPetri/img/review/reviewer/thumbnail/1.jpg",
+    "imgUrl2": "/casaPetri/img/review/reviewer/thumbnail/2.jpg",
+    "imgUrl3": "/casaPetri/img/review/reviewer/thumbnail/3.jpg"
   },
   {
     "title": "Cort",

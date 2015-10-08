@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- META -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Pagina oficiala casa Petri">
+    <meta name="keywords" content="casa petri,rosia montana,cazare,turism,munte,bicicleta,drumetii">
+    <!-- TITLE -->
+    <link rel="shortcut icon" type="image/x-icon" href="/casaPetri/pages/home/img/favicon.ico"/>
+    <title>Casa Petri Roșia Montană</title>
+    <!-- LIBRARIES-->
+    <link rel="import" href="/casaPetri/pages/common/librariesImports/defaultImports.html">
+    <link rel="import" href="/casaPetri/pages/common/librariesImports/photoAlbum.html">
+</head>
+
+<body>
+
+<!-- HEADER -->
+<div id="siteHeader">
+    <script>
+        $(document).ready(function () {
+            $.get('/casaPetri/pages/common/headerAndFooter/siteHeader.html', function (siteHeader) {
+                $('#siteHeader').append(siteHeader);
+            });
+        });
+    </script>
+</div>
+
+<div class="container">
+
+    <div id="pageHeaderAdvertise">
+        <script>
+            dynamicContentLoader('defaultPageHeader.htm', 'review/pageStructure.json', 'pageHeaderAdvertise', 'defaultPageHeaderTemplateId');
+        </script>
+    </div>
+
+    <div id="firstSection">
+        <div id="firstSectionHeadline" class="titleLayout">
+            <script>
+                dynamicContentLoader('sectionTitle/firstSectionTitle.htm', 'review/pageStructure.json', 'firstSectionHeadline', 'firstSectionTitleTemplateId');
+            </script>
+        </div>
+        <script>
+            dynamicContentLoader('article.htm', 'review/reviews.json', 'firstSection', 'articleTemplateId');
+        </script>
+    </div>
+    <div style="clear: both;"></div>
+
+    <div id="secondSection">
+        <div id="secondSectionHeadline" class="titleLayout">
+            <script>
+                dynamicContentLoader('sectionTitle/secondSectionTitle.htm', 'review/pageStructure.json', 'secondSectionHeadline', 'secondSectionTitleTemplateId');
+            </script>
+        </div>
+        <!--<script>-->
+            <!--dynamicContentLoader('listWithIconTitleDetail.htm', 'facilities/useful.json', 'secondSection', 'listWithIconTitleDetailTemplateId');-->
+        <!--</script>-->
+    </div>
+    <div style="clear: both;"></div>
+
+    <!-- SEE ALSO -->
+    <div id="seeAlsoLayout">
+        <div class="titleLayout">
+        </div>
+        <script>
+            dynamicContentLoader('menuBox.htm', 'facilities/seeMore.json', 'seeAlsoLayout', 'menuBoxTemplateId');
+        </script>
+    </div>
+    <div style="clear: both;"></div>
+
+    <!-- FOOTER -->
+    <div id="siteFooter">
+        <script>
+            $(document).ready(function () {
+                $.get('/casaPetri/pages/common/headerAndFooter/siteFooter.html', function (siteFooter) {
+                    $('#siteFooter').append(siteFooter);
+                });
+            });
+        </script>
+    </div>
+
+</div>
+
+</body>
+</html>

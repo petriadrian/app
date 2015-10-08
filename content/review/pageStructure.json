@@ -3,8 +3,10 @@
     "title": "Crestem impreuna cu cei ce ne trec pragul",
     "details": "Pareri, impresii",
     "firstSectionTitle" : "Impresii",
+    "firstSectionIconFontAwesomeClass": "fa fa-commenting",
     "secondSectionTitle" : "Adauga o impresie",
-    "destinationPageLink": "/casaPetri/pages/review/review.html",
-    "imgUrl": "/casaPetri/pages/review/img/headlineImage.png"
+    "secondSectionIconFontAwesomeClass": "fa fa-pencil-square-o",
+    "destinationPageLink": "/casaPetri/pages/review.html",
+    "imgUrl": "/casaPetri/img/review/headlineImage.png"
   }
 ]
