@@ -20,6 +20,12 @@ function dynamicContentLoader(templatePathSuffix, contentPathSuffix, idParentEle
     });
 }
 
+function htmlContentLoader(htmlPageSuffix, idParentElement) {
+    $.get('/casaPetri/pages/' + htmlPageSuffix, function (content) {
+        $('#' + idParentElement).append(content);
+    });
+}
+
 // Unused functions
 // Add active when a button clicked
 //    $(document).ready(function () {

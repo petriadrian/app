@@ -21,6 +21,7 @@ body {
     color: #151F1D;
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
+    text-align: center;
     /*background-image: url("back.jpg");*/
     /*background-repeat: no-repeat;*/
     /*background-attachment: fixed;*/
@@ -75,8 +76,9 @@ body {
 }
 
 .navbar-text > a:HOVER,
-.footerElements a:HOVER,
-.footerElements a:active {
+footer a:HOVER,
+footer a:active {
+    text-decoration: none;
     cursor: pointer;
     color: gray;
 }
@@ -385,17 +387,49 @@ body {
     width: 100%;
 }
 
-.footerGoHomePage {
-    float: left;
-}
-
-.footerIcons {
-    float: right;
-}
-
-.footerElements a {
-    text-decoration: none;
+footer {
+    background-color: #151F1D;
+    margin-top: 30px;
+    padding: 50px 10px;
+    font-size: 1.4em;
     color: white;
+    width: 100%;
+}
+
+footer a {
+    color: white;
+}
+
+footer section {
+    width: 250px;
+    max-height: 140px;
+    padding: 10px;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.footerFeedback textarea,
+.footerAddress {
+    font-size: 0.6em;
+}
+
+.footerFeedback textarea {
+    height: 50px;
+    max-height: 50px;
+    width: 100%;
+    max-width: 100%;
+    background-color: #1D2626;
+}
+
+.footerFeedback textarea:HOVER ,
+.footerFeedback textarea:FOCUS {
+    background-color: white;
+    color: #151F1D;
+}
+
+.footerElement {
+    max-width: 100%;
+    width: 100%;
 }
 
 .btn-primary {

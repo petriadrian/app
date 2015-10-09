@@ -16,13 +16,9 @@
 <body onload="scrollToAnchor()">
 
 <!-- HEADER -->
-<div id="siteHeader">
+<div id="headerLayout">
     <script>
-        $(document).ready(function () {
-            $.get('/casaPetri/pages/common/headerAndFooter/siteHeader.html', function (siteHeader) {
-                $('#siteHeader').append(siteHeader);
-            });
-        });
+        htmlContentLoader('common/headerAndFooter/headerLayout.html', 'headerLayout');
     </script>
 </div>
 
@@ -116,17 +112,13 @@
     </div>
     <div style="clear: both;"></div>
 
-    <!-- FOOTER -->
-    <div id="siteFooter">
-        <script>
-            $(document).ready(function () {
-                $.get('/casaPetri/pages/common/headerAndFooter/siteFooter.html', function (siteFooter) {
-                    $('#siteFooter').append(siteFooter);
-                });
-            });
-        </script>
-    </div>
+</div>
 
+<!-- FOOTER -->
+<div id="footerLayout">
+    <script>
+        htmlContentLoader('common/headerAndFooter/footerLayout.html', 'footerLayout');
+    </script>
 </div>
 
 </body>
