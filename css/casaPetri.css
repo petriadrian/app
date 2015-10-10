@@ -20,7 +20,7 @@ body {
     padding-top: 50px;
     color: #151F1D;
     font-size: 15px;
-    font-family: 'Open Sans', sans-serif;
+
     text-align: center;
     /*background-image: url("back.jpg");*/
     /*background-repeat: no-repeat;*/
@@ -430,6 +430,10 @@ footer section {
 .footerElement {
     max-width: 100%;
     width: 100%;
+}
+.footerButton {
+    background-color: #151F1D;
+    color: white;
 }
 
 .btn-primary {

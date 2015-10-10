@@ -1,7 +1,7 @@
 [
     {
-        "title": "Casa Petri Rosia Montana",
-        "details": "exploatare turistica de suprafata",
+        "title": "Casa Petri Roșia Montană",
+        "details": "exploatare turistică de suprafață",
         "imgUrl": "pages/home/img/carousel/casaPetri.png",
         "destinationPageLink": "location.href='#'",
         "firstCarouselElement": "active"
