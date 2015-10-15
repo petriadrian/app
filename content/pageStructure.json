@@ -6,6 +6,8 @@
     "firstSectionIconFontAwesomeClass": "test",
     "secondSectionTitle": "test",
     "secondSectionIconFontAwesomeClass": "test",
+    "thirdSectionTitle": "",
+    "thirdSectionIconFontAwesomeClass": "",
     "destinationPageLink": "test",
     "imgUrl": "test"
   }
