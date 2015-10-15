@@ -6,7 +6,7 @@
     "firstSectionIconFontAwesomeClass": "fa fa-heart",
     "secondSectionTitle" : "Utile",
     "secondSectionIconFontAwesomeClass": "fa fa-umbrella",
-    "destinationPageLink": "/casaPetri/pages/facilities.html",
+    "destinationPageLink": "/casaPetri/pages/facilities.html?lang=ro",
     "imgUrl": "/casaPetri/img/facilities/headlineImage.png"
   }
 ]

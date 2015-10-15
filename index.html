@@ -1,15 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <!-- META -->
-    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Pagina oficiala casa Petri">
-    <meta name="keywords" content="casa petri,rosia montana,cazare,turism,munte,bicicleta,drumetii">
-    <!-- TITLE -->
+    <meta charset="utf-8">
+    <meta name="description"
+          content="An vintage accommodation up in the Apuseni mountains. See here the hiking and biking routes from Rosia Montana land"/>
     <link rel="shortcut icon" type="image/x-icon" href="/casaPetri/pages/home/img/favicon.ico"/>
-    <title>Casa Petri Roșia Montană</title>
+    <title>Casa Petri Rosia Montana</title>
     <link rel="import" href="/casaPetri/pages/common/librariesImports/defaultImports.html">
 </head>
 
@@ -48,7 +44,7 @@
     </div>
 
     <!-- REVIEWS -->
-    <div class="reviewPreviewLayout" onclick="location.href='/casaPetri/pages/review.html'" title="see more">
+    <div class="reviewPreviewLayout" onclick="location.href='/casaPetri/pages/review.html?lang=ro'" title="see more">
         <div class="reviewPreviewArea defaultClickEvents">
             <div class="carousel slide" data-ride="carousel" data-interval="5000">
                 <div id="reviewCarouselLayout" class="carousel-inner">
@@ -64,9 +60,10 @@
 
     <!-- OUR OFFER -->
     <div class="anchorParent" id="ourOfferLayout">
-        <span id="ourOffer" class="anchor"></span>
         <div class="titleLayout">
-            <h2><i class="fa fa-home"></i> Ce oferim?</h2>
+            <span id="ourOffer" class="anchor"></span>
+
+            <h2><i class="fa fa-home"></i> Unde stau?</h2>
         </div>
         <script>
             dynamicContentLoader('menuBox.htm', 'homePage/ourOffer.json', 'ourOfferLayout', 'menuBoxTemplateId');
@@ -81,7 +78,7 @@
     </div>
 
     <!-- ACTIVITIES -->
-    <div class="anchorParent" id="activitiesLayout" >
+    <div class="anchorParent" id="activitiesLayout">
         <span id="activities" class="anchor"></span>
 
         <div class="titleLayout">

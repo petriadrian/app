@@ -28,9 +28,26 @@ body {
     /*background-size: 100% 100%;*/
 }
 
+.navbar-default {
+    background-color: #151F1D;
+    width: 100%;
+}
+
+.navbar-default .navbar-nav>li,
+.navbar-default .navbar-nav>li>a,
+.navbar-default .navbar-nav>li>a:focus{
+    color: white;
+}
+
+.navbar-brand :HOVER,
+.navbar-default .navbar-nav>li>a:hover {
+    color: white;
+    background-color: #4A4A4A;
+}
+
 .navbar-brand {
-    margin: 0;
-    padding: 0 0 0 15px;
+    margin: 0px;
+    padding: 0px;
 }
 
 .navbar-brand .backImage {
@@ -55,56 +72,8 @@ body {
     color: inherit;
 }
 
-.navbar-inverse {
-    background-color: rgba(256, 256, 256, 0.5);
-    border: 0px;
-}
-
-.navbar-inverse .container {
-    background-color: #151F1D;
-    padding-left: 0px;
-}
-
-.navbar {
-    color: white;
-}
-
-.navbar-inverse .navbar-nav > li > a {
-    color: inherit;
-    outline: none;
-
-}
-
-.navbar-text > a:HOVER,
-footer a:HOVER,
-footer a:active {
-    text-decoration: none;
-    cursor: pointer;
-    color: gray;
-}
-
-.navbar-inverse .navbar-nav > li > a:HOVER,
-.navbar-brand .backImage:HOVER,
-.btn-primary:HOVER,
-.btn-primary:FOCUS {
-    background-color: #4A4A4A;
-    border-color: #4A4A4A;
-}
-
-.navbar-inverse .navbar-text {
-    color: white;
-    margin: 10px;
-}
-
-.navbar-text > a {
-    color: inherit;
-    margin-right: 5px;
-}
-
-.container {
-    padding-left: 0px;
-    padding-right: 0px;
-    text-align: center;
+.nav>li.hideElement {
+    display: none;
 }
 
 .centralCarousel {
@@ -213,13 +182,13 @@ footer a:active {
     text-align: left;
     position: relative;
     background-color: #151F1D;
+    color: white;
     margin: 30px 0;
     min-height: 40px;
 }
 
 .titleLayout h2 {
     margin: 0;
-    color: white;
     padding: 10px;
     font-size: 1.6em;
     /*color: white;*/
@@ -425,6 +394,13 @@ footer section {
 .footerFeedback textarea:FOCUS {
     background-color: white;
     color: #151F1D;
+}
+
+footer a:HOVER,
+footer a:active {
+    text-decoration: none;
+    cursor: pointer;
+    color: gray;
 }
 
 .footerElement {

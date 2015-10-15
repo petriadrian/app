@@ -6,7 +6,7 @@
     "firstSectionIconFontAwesomeClass": "fa fa-commenting",
     "secondSectionTitle" : "Adauga o impresie",
     "secondSectionIconFontAwesomeClass": "fa fa-pencil-square-o",
-    "destinationPageLink": "/casaPetri/pages/review.html",
+    "destinationPageLink": "/casaPetri/pages/review.html?lang=ro",
     "imgUrl": "/casaPetri/img/review/headlineImage.png"
   }
 ]
