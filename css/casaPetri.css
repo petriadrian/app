@@ -222,15 +222,16 @@ body {
 \*------------------------------------*/
 #ourOfferLayout .carouselHomePage,
 #activitiesLayout .carouselHomePage {
-    width: 50%;
-    padding: 2% 5%;
+    width: 320px;
+    margin: 0px 20px;
 }
 
 .carouselHomePage {
     color: inherit;
-    width: 25%;
+    width: 280px;
+    height: 214px;
     padding: 5px;
-    float: left;
+    display: inline-block;
 }
 
 .carouselContent {
@@ -362,7 +363,6 @@ footer {
     padding: 50px 10px;
     font-size: 1.4em;
     color: white;
-    width: 100%;
 }
 
 footer a {
@@ -501,7 +501,7 @@ footer a:active {
 }
 
 .photoAlbum {
-    width: 350px;
+    width: 320px;
     margin: 5px;
     background-color: rgba(256, 256, 256, 0.8);
     box-shadow: 0px 3px 5px rgba(34, 25, 25, 0.4);
@@ -512,7 +512,7 @@ footer a:active {
 
 .photoAlbum img {
     width: 100%;
-    max-height: 350px;
+    max-height: 320px;
     border-bottom: 1px solid #ccc;
     padding-bottom: 15px;
     margin-bottom: 5px;
@@ -560,9 +560,6 @@ footer a:active {
 /* MEDIA */
 
 @media only screen and (min-width: 321px) and (max-width: 480px) {
-    .carouselHomePage {
-        width: 100%
-    }
 
     .pageHeader {
         font-size: 2.2em;
@@ -576,6 +573,11 @@ footer a:active {
 
     .centralCarousel .item {
         height: 200px !important;
+    }
+
+    #ourOfferLayout .carouselHomePage,
+    #activitiesLayout .carouselHomePage {
+        margin: 0px;
     }
 }
 
