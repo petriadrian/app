@@ -1,11 +1,11 @@
 [
   {
     "siteTitle": "Casa Petri Roșia Montană",
-    "firstSectionButton": "Unde stau?",
+    "firstSectionTitleText": "Unde stau?",
     "firstSectionIconFontAwesomeClass": "fa fa-home",
-    "secondSectionTitle": "Ce fac acolo?",
+    "secondSectionTitleText": "Ce fac acolo?",
     "secondSectionIconFontAwesomeClass": "fa fa-bicycle",
-    "thirdSectionTitle": "De neratat!",
+    "thirdSectionTitleText": "De neratat!",
     "thirdSectionIconFontAwesomeClass": "fa fa-calendar",
     "footerContactIconFontAwesomeClass": "fa fa-home fa-2x fa-flip-horizontal",
     "footerContactTitle": "Casa Petri",

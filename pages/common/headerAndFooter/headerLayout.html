@@ -13,13 +13,11 @@
                 </div>
             </div>
         </div>
-        <div class="collapse navbar-collapse">
-            <ul class="nav navbar-nav">
-            <li role="separator" class="divider"></li>
-                <li><a href="/casaPetri/index.html?lang=ro#ourOffer">Unde stau?</a></li>
-                <li><a href="/casaPetri/index.html?lang=ro#activities">Ce fac acolo?</a></li>
-                <li><a href="/casaPetri/index.html?lang=ro#recommendations">De neratat!</a></li>
-            </ul>
+        <div class="collapse navbar-collapse" id="headerMenuLayout">
+                <script>
+                    dynamicContentLoader('headerMenu.htm', 'homePage/pageStructure.json', 'mainCarouselLayout', 'headerMenuTemplateId');
+                </script>
+
             <ul class="nav navbar-nav navbar-right social">
                 <li><a href="https://www.facebook.com/casapetrirosiamontana" title="Follow us on facebook" target="_blank"><i class="fa fa-lg fa-facebook"></i></a></li>
                 <li><a data-toggle="modal" data-backdrop="true" data-target="#sendMail"><i class="fa fa-lg fa-envelope"></i></a></li>

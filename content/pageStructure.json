@@ -2,11 +2,11 @@
   {
     "title": "test",
     "details": "test",
-    "firstSectionTitle": "test",
+    "firstSectionTitleText": "test",
     "firstSectionIconFontAwesomeClass": "test",
-    "secondSectionTitle": "test",
+    "secondSectionTitleText": "test",
     "secondSectionIconFontAwesomeClass": "test",
-    "thirdSectionTitle": "",
+    "thirdSectionTitleText": "",
     "thirdSectionIconFontAwesomeClass": "",
     "destinationPageLink": "test",
     "imgUrl": "test"
