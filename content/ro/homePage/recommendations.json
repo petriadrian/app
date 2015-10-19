@@ -1,7 +1,7 @@
 [
     {
         "title": "Festival",
-        "details": "|August| Teatru, forumuri, muzica, film. Participa la cel mai activ festival: FanFest",
+        "details": "<b>| August |</b> Teatru, forumuri, muzica, film. Participa la cel mai activ festival: FanFest",
         "destinationPageLink": "window.open('http://www.fanfest.ro')",
         "imgUrl1": "/casaPetri/img/homePage/recommendations/fanfest/1.jpg",
         "imgUrl2": "/casaPetri/img/homePage/recommendations/fanfest/2.jpg",
@@ -9,7 +9,7 @@
     },
     {
         "title": "Maraton",
-        "details": "|Iulie| Maraton, Semimaraton, maraton copii. Drumurile satului devin piste de alergare",
+        "details": "<b>| Iulie |</b> Maraton, Semimaraton, maraton copii. Drumurile satului devin piste de alergare",
         "destinationPageLink": "window.open('http://www.rosiamontanamarathon.ro')",
         "imgUrl1": "/casaPetri/img/homePage/recommendations/marathon/1.jpg",
         "imgUrl2": "/casaPetri/img/homePage/recommendations/marathon/2.jpg",
@@ -17,7 +17,7 @@
     },
     {
         "title": "Restaurari",
-        "details": "|Iul-Sept| Cladiri vechi prind viata. Deprinde mestesuguri traditionale in taberele ARA",
+        "details": "<b>| Iul-Sept |</b> Cladiri vechi prind viata. Deprinde mestesuguri traditionale in taberele ARA",
         "destinationPageLink": "window.open('http://www.adoptaocasa.ro')",
         "imgUrl1": "/casaPetri/img/homePage/recommendations/adoptHouse/1.jpg",
         "imgUrl2": "/casaPetri/img/homePage/recommendations/adoptHouse/2.jpg",
@@ -25,7 +25,7 @@
     },
     {
         "title": "Mocanita",
-        "details": "|Iun-Sept| Strabate calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur |~5km de noi",
+        "details": "<b>| Iun-Sept |</b> Strabate calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur  | </b>~5km de noi",
         "destinationPageLink": "location.href='/casaPetri/pages/recommendations/steamTrain/steamTrain.html?lang=ro'",
         "imgUrl1": "/casaPetri/img/homePage/recommendations/steamTrain/1.jpg",
         "imgUrl2": "/casaPetri/img/homePage/recommendations/steamTrain/2.jpg",
@@ -33,7 +33,7 @@
     },
     {
         "title": "1 Mai",
-        "details": "|Mai| Sunetul chitarii, focul de tabara si traseele ghidate sunt deja o traditie in minivacanta de 1 mai",
+        "details": "<b>| Mai |</b> Sunetul chitarii, focul de tabara si traseele ghidate sunt deja o traditie in minivacanta de 1 mai",
         "destinationPageLink": "window.open('https://vizitatirosiamontana.wordpress.com/2015/02/06/vacanta-1-mai-2015-rosia-montana-pachetul-turistic-245-lei/')",
         "imgUrl1": "/casaPetri/img/homePage/recommendations/1mai/1.jpg",
         "imgUrl2": "/casaPetri/img/homePage/recommendations/1mai/2.jpg",
@@ -41,7 +41,7 @@
     },
     {
         "title": "Narcise",
-        "details": "|Mai| O patura alba si un miros imbatator pun stapanire pe Poiana Negrileasa |~20km de noi|",
+        "details": "<b>| Mai |</b> O patura alba si un miros imbatator pun stapanire pe Poiana Negrileasa  | </b>~20km de noi | </b>",
         "destinationPageLink": "window.open('http://www.muntii-apuseni.eu/news.php?readmore=7')",
         "imgUrl1": "/casaPetri/img/homePage/recommendations/negrileasa/1.jpg",
         "imgUrl2": "/casaPetri/img/homePage/recommendations/negrileasa/2.jpg",

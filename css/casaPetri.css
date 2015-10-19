@@ -50,7 +50,7 @@ body {
 .navbar-brand .backImage {
     margin: 0;
     padding: 0 0 0 15px;
-    background-image: url('../img/homePage/logo/logo.png');
+    background-image: url('../img/common/siteLogo.png');
     background-size: 240px 50px;
     height: 50px;
     width: 240px;
@@ -362,17 +362,18 @@ footer {
     background-color: #151F1D;
     margin-top: 30px;
     padding: 50px 10px;
-    font-size: 1.3em;
-    color: white;
+    font-size: 1.4em;
+    color: grey;
 }
 
+footer .btn-primary,
 footer a {
-    color: white;
+    color: grey;
 }
 
 footer section {
     width: 250px;
-    max-height: 140px;
+    max-height: 155px;
     padding: 10px;
     overflow: hidden;
     display: inline-block;
@@ -409,8 +410,8 @@ footer section {
 }
 
 .footerFeedback textarea {
-    height: 75px;
-    max-height: 75px;
+    height: 90px;
+    max-height: 90px;
 }
 
 .footerFeedback input,
@@ -431,7 +432,7 @@ footer a:HOVER,
 footer a:FOCUS {
     text-decoration: none;
     cursor: pointer;
-    color: gray;
+    color: white;
 }
 
 .footerElement {
