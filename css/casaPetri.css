@@ -20,12 +20,7 @@ body {
     padding-top: 50px;
     color: #151F1D;
     font-size: 15px;
-
     text-align: center;
-    /*background-image: url("back.jpg");*/
-    /*background-repeat: no-repeat;*/
-    /*background-attachment: fixed;*/
-    /*background-size: 100% 100%;*/
 }
 
 .navbar-default {
@@ -33,16 +28,18 @@ body {
     width: 100%;
 }
 
-.navbar-default .navbar-nav>li,
-.navbar-default .navbar-nav>li>a,
-.navbar-default .navbar-nav>li>a:focus{
+.navbar-default .navbar-nav > li,
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-nav > li > a:focus {
     color: white;
 }
 
 .navbar-brand :HOVER,
-.navbar-default .navbar-nav>li>a:hover {
+.btn-primary:HOVER,
+.navbar-default .navbar-nav > li > a:hover {
     color: white;
     background-color: #4A4A4A;
+    border-color: white;
 }
 
 .navbar-brand {
@@ -53,7 +50,7 @@ body {
 .navbar-brand .backImage {
     margin: 0;
     padding: 0 0 0 15px;
-    background-image: url('../pages/home/img/logo/logo.png');
+    background-image: url('../img/homePage/logo/logo.png');
     background-size: 240px 50px;
     height: 50px;
     width: 240px;
@@ -72,7 +69,7 @@ body {
     color: inherit;
 }
 
-.nav>li.hideElement {
+.nav > li.hideElement {
     display: none;
 }
 
@@ -357,11 +354,15 @@ body {
     width: 100%;
 }
 
+.sendReview {
+    text-align: left;
+}
+
 footer {
     background-color: #151F1D;
     margin-top: 30px;
     padding: 50px 10px;
-    font-size: 1.4em;
+    font-size: 1.3em;
     color: white;
 }
 
@@ -377,27 +378,57 @@ footer section {
     display: inline-block;
 }
 
+.footerContact span {
+    width: 100%;
+    display: block;
+}
+
 .footerFeedback textarea,
-.footerAddress {
+.footerFeedback input,
+.footerFeedback button,
+.footerContact {
     font-size: 0.6em;
 }
 
-.footerFeedback textarea {
-    height: 50px;
-    max-height: 50px;
+.footerTitle {
+    font-size: 1.4em;
+}
+
+.footerFeedback .form-group {
+    margin-bottom: 0px;
+}
+
+.footerFeedback input,
+.footerFeedback textarea,
+.footerFeedback button {
+    float: left;
     width: 100%;
     max-width: 100%;
+    border: 1px solid gray;
     background-color: #1D2626;
 }
 
-.footerFeedback textarea:HOVER ,
+.footerFeedback textarea {
+    height: 75px;
+    max-height: 75px;
+}
+
+.footerFeedback input,
+.footerFeedback button {
+    padding: 3px 12px;
+    height: inherit;
+}
+
+.footerFeedback input:HOVER,
+.footerFeedback input:FOCUS,
+.footerFeedback textarea:HOVER,
 .footerFeedback textarea:FOCUS {
     background-color: white;
     color: #151F1D;
 }
 
 footer a:HOVER,
-footer a:active {
+footer a:FOCUS {
     text-decoration: none;
     cursor: pointer;
     color: gray;
@@ -407,10 +438,6 @@ footer a:active {
     max-width: 100%;
     width: 100%;
 }
-.footerButton {
-    background-color: #151F1D;
-    color: white;
-}
 
 .btn-primary {
     background-color: #151F1D;
@@ -418,11 +445,6 @@ footer a:active {
     color: #fff;
     font-size: 1.1em;
     margin-top: 2px;
-}
-
-.modal textarea {
-    max-width: 100%;
-    min-width: 100%;
 }
 
 .pageHeader {
@@ -536,6 +558,16 @@ footer a:active {
 
 #reviewPageLayout figcaption {
     display: none;
+}
+
+.trailDescription {
+    margin: 0px 4% 20px 4%;
+    font-size: 1.1em;
+}
+
+.trailMap {
+    width: 100%;
+    height: 450px;
 }
 
 .trailIndicators p {

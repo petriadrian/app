@@ -40,7 +40,7 @@
     <!-- INTRO -->
     <section id="pageHeaderAdvertise">
         <script>
-            dynamicContentLoader('pageIntro.htm', 'recommendations/steamTrain/pageStructure.json', 'pageHeaderAdvertise', 'pageIntroTemplateId');
+            dynamicContentLoader('pageIntro.htm', 'reservations/rooms/pageStructure.json', 'pageHeaderAdvertise', 'pageIntroTemplateId');
         </script>
     </section>
 
@@ -48,12 +48,17 @@
     <section>
         <div id="firstSectionHeadline">
             <script>
-                dynamicContentLoader('sectionTitle/firstSectionTitle.htm', 'recommendations/steamTrain/pageStructure.json', 'firstSectionHeadline', 'firstSectionTitleTemplateId');
+                dynamicContentLoader('sectionTitle/firstSectionTitle.htm', 'reservations/rooms/pageStructure.json', 'firstSectionHeadline', 'firstSectionTitleTemplateId');
             </script>
         </div>
         <div id="firstSectionContent">
             <script>
-                dynamicContentLoader('article.htm', 'recommendations/steamTrain/details.json', 'firstSectionContent', 'articleTemplateId');
+                dynamicContentLoader('photoAlbumBox.htm', 'reservations/rooms/rooms.json', 'firstSectionContent', 'photoAlbumBoxTemplateId');
+            </script>
+        </div>
+        <div id="facilitiesAdvertise">
+            <script>
+                dynamicContentLoader('pageAdvertise.htm', 'facilities/pageStructure.json', 'facilitiesAdvertise', 'pageAdvertiseTemplateId');
             </script>
         </div>
     </section>
@@ -62,12 +67,12 @@
     <section>
         <div id="secondSectionHeadline">
             <script>
-                dynamicContentLoader('sectionTitle/secondSectionTitle.htm', 'recommendations/steamTrain/pageStructure.json', 'secondSectionHeadline', 'secondSectionTitleTemplateId');
+                dynamicContentLoader('sectionTitle/secondSectionTitle.htm', 'reservations/rooms/pageStructure.json', 'secondSectionHeadline', 'secondSectionTitleTemplateId');
             </script>
         </div>
         <div id="secondSectionContent">
             <script>
-                dynamicContentLoader('googleTrail.htm', 'recommendations/steamTrain/trailDetails.json', 'secondSectionContent', 'googleTrailTemplateId');
+                dynamicContentLoader('listWithIconTitleDetail.htm', 'facilities/useful.json', 'secondSectionContent', 'listWithIconTitleDetailTemplateId');
             </script>
         </div>
     </section>
@@ -76,7 +81,7 @@
     <section id="seeAlsoLayout">
         <div class="titleLayout"></div>
         <script>
-            dynamicContentLoader('menuBox.htm', 'recommendations/steamTrain/seeMore.json', 'seeAlsoLayout', 'menuBoxTemplateId');
+            dynamicContentLoader('menuBox.htm', 'reservations/rooms/seeMore.json', 'seeAlsoLayout', 'menuBoxTemplateId');
         </script>
     </section>
 

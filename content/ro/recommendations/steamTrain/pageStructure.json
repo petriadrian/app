@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Străbate Tara Motilor in Mocanita cu abur",
+    "details": "",
+    "firstSectionTitleText": "Detalii",
+    "firstSectionIconFontAwesomeClass": "fa fa-info-circle",
+    "secondSectionTitleText": "Cum ajung la mocanita?",
+    "secondSectionIconFontAwesomeClass": "fa fa-map-signs",
+    "destinationPageLink": "/casapetri/pages/recommendations/steamTrain/steamTrain.html",
+    "backgroundImgUrl": "/casapetri/img/recommendations/steamTrain/introBackground.png"
+  }
+]

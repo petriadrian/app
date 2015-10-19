@@ -6,11 +6,6 @@
     "secondSectionTitleText": "Ce fac acolo?",
     "secondSectionIconFontAwesomeClass": "fa fa-bicycle",
     "thirdSectionTitleText": "De neratat!",
-    "thirdSectionIconFontAwesomeClass": "fa fa-calendar",
-    "footerContactIconFontAwesomeClass": "fa fa-home fa-2x fa-flip-horizontal",
-    "footerContactTitle": "Casa Petri",
-    "footerContactAddress": "Str. Piata nr.331, Rosia Montana, jud. Alba, Romania",
-    "footerContactDestinationPageLink": "https://www.google.ro/maps/place/Casa+Petri+Rosia+Montana/@46.7478003,22.4525851,7.75z/data=!4m2!3m1!1s0x474ecce046c99d41:0xc76f83a95070630c?hl=ro",
-    "footerFeedbackPlaceholder": "Vrem sa ne inbunatatim. Feedback-ul tau ne ajuta! ..."
+    "thirdSectionIconFontAwesomeClass": "fa fa-calendar"
   }
 ]

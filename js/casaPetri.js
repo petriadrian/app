@@ -6,12 +6,12 @@ const EN_LOCALE = 'en';
 function scrollToAnchor() {
     setTimeout(function () {
         if ($(document.location.hash).offset()) {
-            $(document.body).scrollTop($(document.location.hash).offset().top);
-            console.log("top " + $(document.location.hash).offset().top);
+            $(window).scrollTop($(document.location.hash).offset().top);
+            console.log("You were scrolled to top " + $(document.location.hash).offset().top);
         } else {
-            console.log("error");
+            console.log("No url anchor to scroll at.");
         }
-    }, 500);
+    }, 300);
 }
 
 // dynamicContentLoader(templatePathSuffix, contentPathSuffix, idParentElement, templateId);

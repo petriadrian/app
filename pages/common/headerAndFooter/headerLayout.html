@@ -14,13 +14,12 @@
             </div>
         </div>
         <div class="collapse navbar-collapse" id="headerMenuLayout">
-                <script>
-                    dynamicContentLoader('headerMenu.htm', 'homePage/pageStructure.json', 'mainCarouselLayout', 'headerMenuTemplateId');
-                </script>
-
+            <script>
+                dynamicContentLoader('headerMenu.htm', 'homepage/pageStructure.json', 'headerMenuLayout', 'headerMenuTemplateId');
+            </script>
             <ul class="nav navbar-nav navbar-right social">
-                <li><a href="https://www.facebook.com/casapetrirosiamontana" title="Follow us on facebook" target="_blank"><i class="fa fa-lg fa-facebook"></i></a></li>
-                <li><a data-toggle="modal" data-backdrop="true" data-target="#sendMail"><i class="fa fa-lg fa-envelope"></i></a></li>
+                <li><a href="https://www.facebook.com/casapetrirosiamontana" title="Follow us on facebook"
+                       target="_blank"><i class="fa fa-lg fa-facebook"></i></a></li>
                 <li id="langRedirectPlaceholder"></li>
                 <script type="text/javascript">
                     if (getLanguage() == RO_LOCALE) {
@@ -35,16 +34,8 @@
 </nav>
 
 <script>
-    // add send mail modal
-    $(document).ready(function () {
-        $.get("/casaPetri/pages/common/modal/sendMailModal.html", function (sendMailModal) {
-            $("body").append(sendMailModal);
-        });
-    });
-
-    // Helps to hide the navbar menu when a link from menu icon is clicked. Happens when the page is minimized
-    $(".nav a").on('click', function(){
+    // Helps to hide the navbar menu when a link from menu icon is clicked. Happens when the page is minimized and menu button appears
+    $(".nav a").on('click', function () {
         $(".navbar-toggle").click();
     });
-
 </script>

@@ -1,49 +1,37 @@
-<footer>
-    <div class="container-fluid">
-        <section class="footerContact">
-            <a target="_blank"
-               href="https://www.google.ro/maps/place/Casa+Petri+Rosia+Montana/@46.7478003,22.4525851,7.75z/data=!4m2!3m1!1s0x474ecce046c99d41:0xc76f83a95070630c?hl=ro">
-                <i class="fa fa-home fa-2x fa-flip-horizontal"></i>
+<div class="container-fluid">
+    <section id="contactLayout" class="footerContact">
+        <script>
+            dynamicContentLoader('businessCard.htm', 'contactData.json', 'contactLayout', 'businessCardTemplateId');
+        </script>
+    </section>
 
-                <p>Casa Petri</p>
+    <section class="footerMap">
+        <iframe class="footerElement" frameborder="0" style="border:0"
+                src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc"
+                allowfullscreen></iframe>
+    </section>
 
-                <p class="footerAddress">Str. Piata nr.331, Rosia Montana, jud. Alba, Romania </p>
-            </a>
-
-        </section>
-
-        <section class="footerMap">
-            <iframe class="footerElement" frameborder="0" style="border:0"
-                    src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc"
-                    allowfullscreen></iframe>
-        </section>
-
-        <section>
-            <div class="fb-page" data-href="https://www.facebook.com/casapetrirosiamontana" data-small-header="false"
-                 data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"
-                 data-show-posts="false">
-                <div class="fb-xfbml-parse-ignore">
-                    <blockquote cite="https://www.facebook.com/casapetrirosiamontana"><a
-                            href="https://www.facebook.com/casapetrirosiamontana">Casa Petri Roșia Montană</a>
-                    </blockquote>
-                </div>
+    <section>
+        <div class="fb-page" data-href="https://www.facebook.com/casapetrirosiamontana" data-small-header="false"
+             data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"
+             data-show-posts="false">
+            <div class="fb-xfbml-parse-ignore">
+                <blockquote cite="https://www.facebook.com/casapetrirosiamontana"><a
+                        href="https://www.facebook.com/casapetrirosiamontana">Casa Petri Roșia Montană</a>
+                </blockquote>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <section class="footerFeedback">
-            <p class="footerElement">Feedback</p>
+    <section class="footerFeedback" id="feedbackLayout">
+        <script>
+            dynamicContentLoader('forms/sendReview.htm', 'review/sendReviewForm.json', 'feedbackLayout', 'sendReviewTemplateId');
+        </script>
+    </section>
 
-            <form class="footerElement" onsubmit="">
-            <textarea required
-                      placeholder="Vrem sa ne inbunatatim. Feedback-ul tau ne ajuta! ..."></textarea>
-                <input type="submit" class="btn btn-default btn-xs footerButton">
-            </form>
-        </section>
+    <div id="error"></div>
 
-        <div id="error"></div>
-
-    </div>
-</footer>
+</div>
 
 <!-- facebook iframe loader script-->
 <div id="fb-root"></div>

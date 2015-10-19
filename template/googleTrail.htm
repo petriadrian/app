@@ -1,0 +1,18 @@
+<script id="googleTrailTemplateId" type="text/x-jQuery-tmpl">
+    {{if description}}
+        <h2 class="trailDescription">
+            {{html description}}
+        </h2>
+    {{/if}}
+    <iframe class="trailMap" frameborder="0" src="${googleMapLink}" allowfullscreen></iframe>
+    <div class="trailIndicators">
+        <p title="duration"><i class="fa fa-clock-o"></i> ${duration}</p>
+        <p title="length"><i class="fa fa-arrows-h"></i> ${length}</p>
+        {{if difficulty}}
+            <p title="difficulty"><i class="fa fa-line-chart"></i> ${difficulty}</p>
+        {{/if}}
+        {{if indications}}
+            <p title="indications"><i class="fa fa-check-square-o"></i> ${indications}</p>
+        {{/if}}
+    </div>
+</script>

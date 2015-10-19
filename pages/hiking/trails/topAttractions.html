@@ -40,20 +40,20 @@
     <!-- INTRO -->
     <section id="pageHeaderAdvertise">
         <script>
-            dynamicContentLoader('pageIntro.htm', 'recommendations/steamTrain/pageStructure.json', 'pageHeaderAdvertise', 'pageIntroTemplateId');
+            dynamicContentLoader('pageIntro.htm', 'hiking/trails/topAttractions/pageStructure.json', 'pageHeaderAdvertise', 'pageIntroTemplateId');
         </script>
     </section>
 
     <!-- FIRST SECTION -->
-    <section>
+    <section id="firstSection">
         <div id="firstSectionHeadline">
             <script>
-                dynamicContentLoader('sectionTitle/firstSectionTitle.htm', 'recommendations/steamTrain/pageStructure.json', 'firstSectionHeadline', 'firstSectionTitleTemplateId');
+                dynamicContentLoader('sectionTitle/firstSectionTitle.htm', 'hiking/trails/topAttractions/pageStructure.json', 'firstSectionHeadline', 'firstSectionTitleTemplateId');
             </script>
         </div>
         <div id="firstSectionContent">
             <script>
-                dynamicContentLoader('article.htm', 'recommendations/steamTrain/details.json', 'firstSectionContent', 'articleTemplateId');
+                dynamicContentLoader('googleTrail.htm', 'hiking/trails/topAttractions/trailDetails.json', 'firstSectionContent', 'googleTrailTemplateId');
             </script>
         </div>
     </section>
@@ -62,12 +62,12 @@
     <section>
         <div id="secondSectionHeadline">
             <script>
-                dynamicContentLoader('sectionTitle/secondSectionTitle.htm', 'recommendations/steamTrain/pageStructure.json', 'secondSectionHeadline', 'secondSectionTitleTemplateId');
+                dynamicContentLoader('sectionTitle/secondSectionTitle.htm', 'hiking/trails/topAttractions/pageStructure.json', 'secondSectionHeadline', 'secondSectionTitleTemplateId');
             </script>
         </div>
         <div id="secondSectionContent">
             <script>
-                dynamicContentLoader('googleTrail.htm', 'recommendations/steamTrain/trailDetails.json', 'secondSectionContent', 'googleTrailTemplateId');
+                dynamicContentLoader('article.htm', 'hiking/trails/topAttractions/attractions.json', 'secondSectionContent', 'articleTemplateId');
             </script>
         </div>
     </section>
@@ -76,7 +76,7 @@
     <section id="seeAlsoLayout">
         <div class="titleLayout"></div>
         <script>
-            dynamicContentLoader('menuBox.htm', 'recommendations/steamTrain/seeMore.json', 'seeAlsoLayout', 'menuBoxTemplateId');
+            dynamicContentLoader('menuBox.htm', 'hiking/trails/topAttractions/seeMore.json', 'seeAlsoLayout', 'menuBoxTemplateId');
         </script>
     </section>
 

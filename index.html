@@ -4,33 +4,37 @@
     <meta charset="utf-8">
     <meta name="description"
           content="An vintage accommodation up in the Apuseni mountains. See hiking and biking routes from this area and plan your next trip"/>
-    <link rel="shortcut icon" type="image/x-icon" href="/casaPetri/pages/home/img/favicon.ico"/>
+    <link rel="shortcut icon" type="image/x-icon" href="/casaPetri/img/common/favicon.ico"/>
     <title>Casa Petri Rosia Montana</title>
     <!-- CSS -->
-    <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Merienda|Open+Sans&subset=latin,latin-ext">
-    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css">
-    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link type="text/css" rel="stylesheet"
+          href="http://fonts.googleapis.com/css?family=Merienda|Open+Sans&subset=latin,latin-ext">
+    <link type="text/css" rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css">
+    <link type="text/css" rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
     <link type="text/css" rel="stylesheet" href="/casaPetri/css/casaPetri.css">
     <!-- JAVASCRIPT -->
     <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
     <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.templates/beta1/jquery.tmpl.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="/casaPetri/js/casaPetri.js"></script>
 </head>
 
 <body onload="scrollToAnchor()">
 
 <!-- HEADER -->
-<div id="headerLayout">
+<header id="headerLayout">
     <script>
         htmlContentLoader('common/headerAndFooter/headerLayout.html', 'headerLayout');
     </script>
-</div>
+</header>
 
-<div class="container" id="container">
+<div class="container">
 
     <!-- CAROUSEL -->
-    <div class="centralCarousel">
+    <section class="centralCarousel">
         <div id="mainCarousel" class="carousel slide" data-ride="carousel" data-interval="5000">
             <ol class="carousel-indicators">
                 <li data-target="#mainCarousel" data-slide-to="0" class="active"></li>
@@ -41,7 +45,7 @@
             </ol>
             <div id="mainCarouselLayout" class="carousel-inner">
                 <script>
-                    dynamicContentLoader('carousel.htm', 'homePage/mainCarousel.json', 'mainCarouselLayout', 'carouselTemplateId');
+                    dynamicContentLoader('carousel.htm', 'homepage/mainCarousel.json', 'mainCarouselLayout', 'carouselTemplateId');
                 </script>
             </div>
             <a class="carousel-control left" href="#mainCarousel" data-slide="prev">
@@ -50,10 +54,10 @@
             <span class="glyphicon glyphicon-chevron-right"></span>
         </a>
         </div>
-    </div>
+    </section>
 
     <!-- REVIEWS -->
-    <div class="reviewPreviewLayout" onclick="location.href='/casaPetri/pages/review.html?lang=ro'" title="see more">
+    <section class="reviewPreviewLayout" onclick="location.href='/casaPetri/pages/review.html?lang=ro'" title="see more">
         <div class="reviewPreviewArea defaultClickEvents">
             <div class="carousel slide" data-ride="carousel" data-interval="5000">
                 <div id="reviewCarouselLayout" class="carousel-inner">
@@ -64,68 +68,70 @@
             </div>
             <div class="reviewInfo"><i class="fa fa-share"></i></div>
         </div>
-    </div>
+    </section>
     <div style="clear: both;"></div>
 
-    <!-- OUR OFFER -->
-    <div class="anchorParent" id="ourOfferLayout">
-        <div class="titleLayout">
-            <span id="ourOffer" class="anchor"></span>
-
-            <h2><i class="fa fa-home"></i> Unde stau?</h2>
+    <!-- FIRST SECTION -->
+    <section>
+        <div id="firstSectionHeadline" class="titleLayout">
+            <script>
+                dynamicContentLoader('sectionTitle/firstSectionTitle.htm', 'homepage/pageStructure.json', 'firstSectionHeadline', 'firstSectionTitleTemplateId');
+            </script>
         </div>
-        <script>
-            dynamicContentLoader('menuBox.htm', 'homePage/ourOffer.json', 'ourOfferLayout', 'menuBoxTemplateId');
-        </script>
-    </div>
-    <div style="clear: both;"></div>
-
-    <div id="facilitiesAdvertise">
-        <script>
-            dynamicContentLoader('pageAdvertise.htm', 'facilities/pageStructure.json', 'facilitiesAdvertise', 'pageAdvertiseTemplateId');
-        </script>
-    </div>
-
-    <!-- ACTIVITIES -->
-    <div class="anchorParent" id="activitiesLayout">
-        <span id="activities" class="anchor"></span>
-
-        <div class="titleLayout">
-            <h2><i class="fa fa-bicycle"></i> Ce fac acolo?</h2>
+        <div id="firstSectionContent">
+            <script>
+                dynamicContentLoader('menuBox.htm', 'homepage/ourOffer.json', 'firstSectionContent', 'menuBoxTemplateId');
+            </script>
         </div>
-        <script>
-            dynamicContentLoader('menuBox.htm', 'homePage/activities.json', 'activitiesLayout', 'menuBoxTemplateId');
-        </script>
-    </div>
-    <div style="clear: both;"></div>
-
-    <div id="topAttractionsAdvertise">
-        <script>
-            dynamicContentLoader('pageAdvertise.htm', 'hiking/trails/topAttractions/pageStructure.json', 'topAttractionsAdvertise', 'pageAdvertiseTemplateId');
-        </script>
-    </div>
-
-    <!-- RECOMMENDATIONS -->
-    <div class="anchorParent" id="recommendationsLayout">
-        <span id="recommendations" class="anchor"></span>
-
-        <div class="titleLayout">
-            <h2><i class="fa fa-calendar"></i> De neratat!</h2>
+        <div id="facilitiesAdvertise">
+            <script>
+                dynamicContentLoader('pageAdvertise.htm', 'facilities/pageStructure.json', 'facilitiesAdvertise', 'pageAdvertiseTemplateId');
+            </script>
         </div>
-        <script>
-            dynamicContentLoader('menuBox.htm', 'homePage/recommendations.json', 'recommendationsLayout', 'menuBoxTemplateId');
-        </script>
-    </div>
-    <div style="clear: both;"></div>
+    </section>
+
+
+    <!-- SECOND SECTION -->
+    <section>
+        <div id="secondSectionHeadline" class="titleLayout">
+            <script>
+                dynamicContentLoader('sectionTitle/secondSectionTitle.htm', 'homepage/pageStructure.json', 'secondSectionHeadline', 'secondSectionTitleTemplateId');
+            </script>
+        </div>
+        <div id="secondSectionContent">
+            <script>
+                dynamicContentLoader('menuBox.htm', 'homepage/activities.json', 'secondSectionContent', 'menuBoxTemplateId');
+            </script>
+        </div>
+        <div id="topAttractionsAdvertise">
+            <script>
+                dynamicContentLoader('pageAdvertise.htm', 'hiking/trails/topAttractions/pageStructure.json', 'topAttractionsAdvertise', 'pageAdvertiseTemplateId');
+            </script>
+        </div>
+    </section>
+
+    <!-- THIRD SECTION -->
+    <section>
+        <div id="thirdSectionHeadline" class="titleLayout">
+            <script>
+                dynamicContentLoader('sectionTitle/thirdSectionTitle.htm', 'homepage/pageStructure.json', 'thirdSectionHeadline', 'thirdSectionTitleTemplateId');
+            </script>
+        </div>
+        <div id="thirdSectionContent">
+            <script>
+                dynamicContentLoader('menuBox.htm', 'homepage/recommendations.json', 'thirdSectionContent', 'menuBoxTemplateId');
+            </script>
+        </div>
+    </section>
 
 </div>
 
 <!-- FOOTER -->
-<div id="footerLayout">
+<footer id="footerLayout">
     <script>
         htmlContentLoader('common/headerAndFooter/footerLayout.html', 'footerLayout');
     </script>
-</div>
+</footer>
 
 </body>
 </html>

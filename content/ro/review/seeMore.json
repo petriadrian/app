@@ -3,24 +3,24 @@
     "title": "Cort",
     "details": "Cazare la mii de stele sub lumina lunii? Rezerva un loc sigur de cort cu acces la baie si bucatarie",
     "destinationPageLink": "location.href='/casaPetri/pages/reservations/camping/camping.html?lang=ro'",
-    "imgUrl1": "/casaPetri/pages/home/img/ourOffer/camping/1.jpg",
-    "imgUrl2": "/casaPetri/pages/home/img/ourOffer/camping/2.jpg",
-    "imgUrl3": "/casaPetri/pages/home/img/ourOffer/camping/3.jpg"
+    "imgUrl1": "/casaPetri/img/homePage/ourOffer/camping/1.jpg",
+    "imgUrl2": "/casaPetri/img/homePage/ourOffer/camping/2.jpg",
+    "imgUrl3": "/casaPetri/img/homePage/ourOffer/camping/3.jpg"
   },
   {
     "title": "Camere",
     "details": "Casuta a fost cinematograf, spital ?i banc? iar acum este redeschis? ca spa?iu de cazare. Vizita?i-o!",
     "destinationPageLink": "location.href='/casaPetri/pages/reservations/rooms/rooms.html?lang=ro'",
-    "imgUrl1": "/casaPetri/pages/home/img/ourOffer/rooms/1.jpg",
-    "imgUrl2": "/casaPetri/pages/home/img/ourOffer/rooms/2.jpg",
-    "imgUrl3": "/casaPetri/pages/home/img/ourOffer/rooms/3.jpg"
+    "imgUrl1": "/casaPetri/img/homePage/ourOffer/rooms/1.jpg",
+    "imgUrl2": "/casaPetri/img/homePage/ourOffer/rooms/2.jpg",
+    "imgUrl3": "/casaPetri/img/homePage/ourOffer/rooms/3.jpg"
   },
   {
     "title": "Carti",
     "details": "Alege cartile care sa te astepte pe noptiera din camera ta. Descopera locusoarele cosy de citit!",
     "destinationPageLink": "#",
-    "imgUrl1": "/casaPetri/pages/home/img/ourOffer/books/1.jpg",
-    "imgUrl2": "/casaPetri/pages/home/img/ourOffer/books/2.jpg",
-    "imgUrl3": "/casaPetri/pages/home/img/ourOffer/books/3.jpg"
+    "imgUrl1": "/casaPetri/img/homePage/ourOffer/books/1.jpg",
+    "imgUrl2": "/casaPetri/img/homePage/ourOffer/books/2.jpg",
+    "imgUrl3": "/casaPetri/img/homePage/ourOffer/books/3.jpg"
   }
 ]

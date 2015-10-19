@@ -1,87 +1,93 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <!-- META -->
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Pagina oficiala casa Petri">
-    <meta name="keywords" content="casa petri,rosia montana,cazare,turism,munte,bicicleta,drumetii">
-    <!-- TITLE -->
-    <link rel="shortcut icon" type="image/x-icon" href="/casaPetri/pages/home/img/favicon.ico"/>
+    <meta name="description"
+          content="An vintage accommodation up in the Apuseni mountains. See hiking and biking routes from this area and plan your next trip"/>
+    <link rel="shortcut icon" type="image/x-icon" href="/casaPetri/img/common/favicon.ico"/>
     <title>Casa Petri Rosia Montana</title>
-    <!-- LIBRARIES-->
-    <link rel="import" href="/casaPetri/pages/common/librariesImports/defaultImports.html">
-    <link rel="import" href="/casaPetri/pages/common/librariesImports/photoAlbum.html">
+    <!-- CSS -->
+    <link type="text/css" rel="stylesheet"
+          href="http://fonts.googleapis.com/css?family=Merienda|Open+Sans&subset=latin,latin-ext">
+    <link type="text/css" rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css">
+    <link type="text/css" rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link type="text/css" rel="stylesheet" href="/casaPetri/css/casaPetri.css">
+    <!-- JAVASCRIPT -->
+    <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.templates/beta1/jquery.tmpl.js"></script>
+    <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/casaPetri/js/casaPetri.js"></script>
+    <!-- PHOTO ALBUM -->
+    <link href="/casaPetri/css/photoAlbumSlider/jquery.fancybox.css" rel="stylesheet">
+    <script type="text/javascript" src="/casaPetri/js/photoAlbumSlider/jquery.fancybox.js"></script>
+    <script type="text/javascript" src="/casaPetri/js/photoAlbumSlider/jquery.mousewheel-3.0.6.pack.js"></script>
 </head>
 
-<body>
+<body onload="scrollToAnchor()">
 
 <!-- HEADER -->
-<div id="siteHeader">
+<header id="headerLayout">
     <script>
-        $(document).ready(function () {
-            $.get('/casaPetri/pages/common/headerAndFooter/siteHeader.html', function (siteHeader) {
-                $('#siteHeader').append(siteHeader);
-            });
-        });
+        htmlContentLoader('common/headerAndFooter/headerLayout.html', 'headerLayout');
     </script>
-</div>
+</header>
 
 <div class="container">
 
-    <div id="pageHeaderAdvertise">
+    <!-- INTRO -->
+    <section id="pageHeaderAdvertise">
         <script>
             dynamicContentLoader('pageIntro.htm', 'review/pageStructure.json', 'pageHeaderAdvertise', 'pageIntroTemplateId');
         </script>
-    </div>
+    </section>
 
-    <div id="firstSection">
-        <div id="firstSectionHeadline" class="titleLayout">
+    <!-- FIRST SECTION -->
+    <section>
+        <div id="firstSectionHeadline">
             <script>
                 dynamicContentLoader('sectionTitle/firstSectionTitle.htm', 'review/pageStructure.json', 'firstSectionHeadline', 'firstSectionTitleTemplateId');
             </script>
         </div>
-        <script>
-            dynamicContentLoader('article.htm', 'review/reviews.json', 'firstSection', 'articleTemplateId');
-        </script>
-    </div>
-    <div style="clear: both;"></div>
+        <div id="firstSectionContent">
+            <script>
+                dynamicContentLoader('article.htm', 'review/reviews.json', 'firstSectionContent', 'articleTemplateId');
+            </script>
+        </div>
+    </section>
 
-    <div id="secondSection">
-        <div id="secondSectionHeadline" class="titleLayout">
+    <!-- SECOND SECTION -->
+    <section>
+        <div id="secondSectionHeadline">
             <script>
                 dynamicContentLoader('sectionTitle/secondSectionTitle.htm', 'review/pageStructure.json', 'secondSectionHeadline', 'secondSectionTitleTemplateId');
             </script>
         </div>
-        <!--<script>-->
-            <!--dynamicContentLoader('listWithIconTitleDetail.htm', 'facilities/useful.json', 'secondSection', 'listWithIconTitleDetailTemplateId');-->
-        <!--</script>-->
-    </div>
-    <div style="clear: both;"></div>
+        <div id="secondSectionContent">
+            <script>
+                dynamicContentLoader('forms/sendReview.htm', 'review/sendReviewForm.json', 'secondSectionContent', 'sendReviewTemplateId');
+            </script>
+        </div>
+    </section>
 
     <!-- SEE ALSO -->
-    <div id="seeAlsoLayout">
-        <div class="titleLayout">
-        </div>
+    <section id="seeAlsoLayout">
+        <div class="titleLayout"></div>
         <script>
-            dynamicContentLoader('menuBox.htm', 'facilities/seeMore.json', 'seeAlsoLayout', 'menuBoxTemplateId');
+            dynamicContentLoader('menuBox.htm', 'review/seeMore.json', 'seeAlsoLayout', 'menuBoxTemplateId');
         </script>
-    </div>
-    <div style="clear: both;"></div>
-
-    <!-- FOOTER -->
-    <div id="siteFooter">
-        <script>
-            $(document).ready(function () {
-                $.get('/casaPetri/pages/common/headerAndFooter/siteFooter.html', function (siteFooter) {
-                    $('#siteFooter').append(siteFooter);
-                });
-            });
-        </script>
-    </div>
+    </section>
 
 </div>
+
+<!-- FOOTER -->
+<footer id="footerLayout">
+    <script>
+        htmlContentLoader('common/headerAndFooter/footerLayout.html', 'footerLayout');
+    </script>
+</footer>
 
 </body>
 </html>

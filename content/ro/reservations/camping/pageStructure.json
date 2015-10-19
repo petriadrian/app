@@ -1,0 +1,12 @@
+[
+  {
+    "title": "O cafea într-o dimineață la Roșia Montană?",
+    "details": "",
+    "firstSectionTitleText": "Cum sunt camerele?",
+    "firstSectionIconFontAwesomeClass": "fa fa-home",
+    "secondSectionTitleText": "Rezervări",
+    "secondSectionIconFontAwesomeClass": "fa fa-pencil-square-o",
+    "destinationPageLink": "/casapetri/pages/reservations/camping.html",
+    "backgroundImgUrl": "/casapetri/img/reservations/camping/introBackground.png"
+  }
+]

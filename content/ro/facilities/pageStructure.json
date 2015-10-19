@@ -7,6 +7,6 @@
     "secondSectionTitleText" : "Utile",
     "secondSectionIconFontAwesomeClass": "fa fa-umbrella",
     "destinationPageLink": "/casaPetri/pages/facilities.html?lang=ro",
-    "imgUrl": "/casaPetri/img/facilities/headlineImage.png"
+    "backgroundImgUrl": "/casaPetri/img/facilities/headlineImage.png"
   }
 ]
