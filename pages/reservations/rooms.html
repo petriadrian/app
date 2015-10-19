@@ -1,187 +1,102 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <!-- META -->
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Pagina oficiala casa Petri">
-    <meta name="keywords" content="casa petri,rosia montana,cazare,turism,munte,bicicleta,drumetii">
-    <!-- TITLE -->
+    <meta name="description"
+          content="An vintage accommodation up in the Apuseni mountains. See hiking and biking routes from this area and plan your next trip"/>
     <link rel="shortcut icon" type="image/x-icon" href="/casaPetri/img/common/favicon.ico"/>
     <title>Casa Petri Rosia Montana</title>
-    <!-- LIBRARIES-->
-    <link rel="import" href="/casaPetri/pages/common/librariesImports/defaultImports.html">
-    <link rel="import" href="/casaPetri/pages/common/librariesImports/dateRangePicker.html">
-    <link rel="import" href="/casaPetri/pages/common/librariesImports/photoAlbum.html">
+    <!-- CSS -->
+    <link type="text/css" rel="stylesheet"
+          href="http://fonts.googleapis.com/css?family=Merienda|Open+Sans&subset=latin,latin-ext">
+    <link type="text/css" rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css">
+    <link type="text/css" rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link type="text/css" rel="stylesheet" href="/casaPetri/css/casaPetri.css">
+    <!-- JAVASCRIPT -->
+    <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.templates/beta1/jquery.tmpl.js"></script>
+    <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/casaPetri/js/casaPetri.js"></script>
+    <!-- PHOTO ALBUM -->
+    <link href="/casaPetri/css/photoAlbumSlider/jquery.fancybox.css" rel="stylesheet">
+    <script type="text/javascript" src="/casaPetri/js/photoAlbumSlider/jquery.fancybox.js"></script>
+    <script type="text/javascript" src="/casaPetri/js/photoAlbumSlider/jquery.mousewheel-3.0.6.pack.js"></script>
+    <!-- DATES PICKER-->
+    <link href="/casaPetri/css/daterangepicker.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment.min.js"></script>
+    <script type="text/javascript" src="/casaPetri/js/daterangepicker.js"></script>
 </head>
 
 <body onload="scrollToAnchor()">
 
 <!-- HEADER -->
-<div id="siteHeader">
+<header id="headerLayout">
     <script>
-        $(document).ready(function () {
-            $.get('/casaPetri/pages/common/headerAndFooter/siteHeader.html', function (modal) {
-                $('#siteHeader').append(modal);
-            });
-        });
+        htmlContentLoader('common/headerAndFooter/headerLayout.html', 'headerLayout');
     </script>
-</div>
+</header>
 
 <div class="container">
 
-    <div class="pageMotto" style="background-image: url('img/introBackground.png')">
-        <h1>
-            O cafea intr-o dimineata la Rosia Montana?
-        </h1>
-        <a href="#bookings" class="btn btn-large btn-primary">Rezervări</a>
-        <a href="#moreDetails" class="btn btn-large btn-primary">Cum e la noi?</a>
-    </div>
+    <!-- INTRO -->
+    <section id="pageHeaderAdvertise">
+        <script>
+            dynamicContentLoader('pageIntro.htm', 'reservations/rooms/pageStructure.json', 'pageHeaderAdvertise', 'pageIntroTemplateId');
+        </script>
+    </section>
 
-    <div>
-        <span id="moreDetails" class="anchor"></span>
-
-        <div class="titleLayout">
-            <h2><i class="fa fa-home"></i> Cum e la noi?</h2>
-        </div>
-
-        <!-- ROOMS-->
-        <div id="roomsPhotoAlbum">
-            <div class="titleLayout">
-                <h3><span>Camere</span></h3>
-            </div>
+    <!-- FIRST SECTION -->
+    <section>
+        <div id="firstSectionHeadline">
             <script>
-                $(document).ready(function () {
-                    $.get('/casaPetri/pages/common/template/photoAlbumBox.htm', function (templates) {
-                        $('body').append(templates);
-                        $.get("content/rooms.json", function (content) {
-                            $('#photoAlbumBoxTemplateId').tmpl(content).appendTo("#roomsPhotoAlbum");
-                        })
-                    });
-                });
+                dynamicContentLoader('sectionTitle/firstSectionTitle.htm', 'reservations/rooms/pageStructure.json', 'firstSectionHeadline', 'firstSectionTitleTemplateId');
             </script>
         </div>
+        <div id="firstSectionContent">
+            <script>
+                dynamicContentLoader('.htm', 'reservations/rooms/minersRoom.json', 'firstSectionContent', 'reservationFormTemplateId');
+            </script>
+        </div>
+    </section>
 
+    <!-- SECOND SECTION -->
+    <section>
+        <div id="secondSectionHeadline">
+            <script>
+                dynamicContentLoader('sectionTitle/secondSectionTitle.htm', 'reservations/rooms/pageStructure.json', 'secondSectionHeadline', 'secondSectionTitleTemplateId');
+            </script>
+        </div>
+        <div id="secondSectionContent">
+            <script>
+                dynamicContentLoader('forms/reservationForm.htm', 'reservations/rooms/rooms.json', 'secondSectionContent', 'reservationFormTemplateId');
+            </script>
+        </div>
         <div id="facilitiesAdvertise">
             <script>
-                dynamicContentLoader('/casaPetri/pages/common/template/advertiseSpot.htm', '/casapetri/pages/facilities/content/advertiseSpot.json', 'facilitiesAdvertise', 'advertiseSpotTemplateId');
+                dynamicContentLoader('pageAdvertise.htm', 'facilities/pageStructure.json', 'facilitiesAdvertise', 'pageAdvertiseTemplateId');
             </script>
         </div>
+    </section>
 
-    </div>
-
-    <!--RESERVATION FORM-->
-    <div>
-        <span id="bookings" class="anchor"></span>
-
-        <div class="titleLayout">
-            <h2><i class="fa fa-pencil-square-o"></i> Rezerva camere</h2>
-        </div>
-        <form id="roomReservation" name="roomReservation" class="roomReservation wide" method="post">
-
-            <div class="input-group">
-                <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                <input id="nameReservation" type="text" class="form-control" placeholder="Nume" required="required">
-            </div>
-            <div class="input-group">
-                <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                <input type="email" id="emailReservation" class="form-control" placeholder="Email" required="required">
-            </div>
-            <div class="input-group">
-                <span class="input-group-addon"><i class="fa fa-phone"></i></span>
-                <input type="tel" id="phoneReservation" class="form-control" placeholder="Telefon" required="required">
-            </div>
-            <div class="input-group">
-                <span class="input-group-addon"><i class="fa fa-calendar"></i></span>
-                <input type="text" name="daterange" placeholder="Alegeti perioada"
-                       class="form-control" required="required"/>
-            </div>
-
-            <div class="input_fields_wrap">
-                <div class="input-group">
-                    <span class="input-group-addon"><i class="fa fa-bed"></i></span>
-                    <select class="form-control" id="roomsTypeReservation" required="required">
-                        <option value="" disabled selected style='display:none;'>Alege tip camera</option>
-                        <option value="1">2 persoane (pat dublu)</option>
-                        <option value="2">2 persoane (paturi simple)</option>
-                        <option value="3">3 persoane (1 pat dublu + 1 pat simplu)</option>
-                        <option value="4">3 persoane (paturi simple)</option>
-                        <option value="5">4 persoane (1 pat dublu + 2 paturi simple)</option>
-                        <option value="6">4 persoane (paturi simple)</option>
-                        <option value="7">6 persoane (4 paturi simple + 1 pat dublu)</option>
-                    </select>
-                </div>
-            </div>
-            <p class="add_more_rooms"><i class="fa fa-plus"></i> Mai multe camere ...</p>
-
-            <div class="input-group">
-                <span class="input-group-addon"><i class="fa fa-info"></i></span>
-                <textarea form="roomReservation" id="othersReservation" class="form-control"
-                          placeholder="Altele"></textarea>
-            </div>
-
-            <input type="submit" value="Rezerva" class="btn btn-default submitButton">
-
-            <div class="contactDetails">
-                <span class="contactElement"><i class="fa fa-phone-square fa-2x"></i> (004)0743188186</span>
-                <a class="contactElement" href="https://www.facebook.com/casapetrirosiamontana?ref=hl&ref_type=bookmark"
-                   target="_blank">
-                    <i class="fa fa-facebook-square fa-2x" title="Contact us on facebook"></i> casapetrirosiamontana</a>
-                <a class="contactElement">
-                    <i class="fa fa-envelope-square fa-2x"></i> casapetrirosiamontana@gmail.com</a>
-
-                <div style="clear: both"/>
-            </div>
-
-        </form>
-    </div>
-    <div style="clear: both;"></div>
-
-    <!-- SEE MORE -->
-    <div id="seeMoreLayout">
-        <span id="seeMore" class="anchor"></span>
-
-        <div class="titleLayout">
-            <h2><i class="fa fa-coffee"></i> Vezi si</h2>
-        </div>
+    <!-- SEE ALSO -->
+    <section id="seeAlsoLayout">
+        <div class="titleLayout"></div>
         <script>
-            $(document).ready(function () {
-                $.get('/casaPetri/pages/common/template/menuBox.htm', function (templates) {
-                    $('body').append(templates);
-                    $.get("content/seeMore.json", function (content) {
-                        $('#menuBoxTemplateId').tmpl(content).appendTo("#seeMoreLayout");
-                    })
-                });
-            });
+            dynamicContentLoader('menuBox.htm', 'reservations/rooms/seeMore.json', 'seeAlsoLayout', 'menuBoxTemplateId');
         </script>
-    </div>
-    <div style="clear: both;"></div>
-
-    <!-- FOOTER -->
-    <div id="siteFooter">
-        <script>
-            $(document).ready(function () {
-                $.get('/casaPetri/pages/common/headerAndFooter/siteFooter.html', function (modal) {
-                    $('#siteFooter').append(modal);
-                });
-            });
-        </script>
-    </div>
+    </section>
 
 </div>
 
-<!--MODALS-->
-<script>
-    $(document).ready(function () {
-        $.get('/casaPetri/pages/common/modal/sendMailModal.html', function (modal) {
-            $('body').append(modal);
-        });
-    });
-</script>
-
-<!-- JAVA SCRIPTS-->
-<script type="text/javascript" src="/casaPetri/js/casaPetriReservations.js"></script>
+<!-- FOOTER -->
+<footer id="footerLayout">
+    <script>
+        htmlContentLoader('common/headerAndFooter/footerLayout.html', 'footerLayout');
+    </script>
+</footer>
 
 </body>
 </html>

@@ -30,6 +30,12 @@ function htmlContentLoader(htmlPageSuffix, idParentElement) {
     });
 }
 
+function toggleReservationForm(button) {
+    $('input[name="dataRange"]').daterangepicker();
+    $(button.parentNode).find("form").toggle(500);
+    $(button).find("i").toggleClass("fa-rotate-180");
+}
+
 function changeLanguageTo(newLang) {
     if (newLang == EN_LOCALE) {
         alert("We are sorry! The english version of this site is not ready yet.");

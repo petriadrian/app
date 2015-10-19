@@ -10,7 +10,7 @@
   {
     "title": "Camere",
     "details": "Casuta a fost cinematograf, spital ?i banc? iar acum este redeschis? ca spa?iu de cazare. Vizita?i-o!",
-    "destinationPageLink": "location.href='/casaPetri/pages/reservations/rooms/rooms.html?lang=ro'",
+    "destinationPageLink": "location.href='/casaPetri/pages/reservations/rooms.html?lang=ro'",
     "imgUrl1": "/casaPetri/img/homePage/ourOffer/rooms/1.jpg",
     "imgUrl2": "/casaPetri/img/homePage/ourOffer/rooms/2.jpg",
     "imgUrl3": "/casaPetri/img/homePage/ourOffer/rooms/3.jpg"

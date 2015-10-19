@@ -34,39 +34,33 @@ body {
     color: white;
 }
 
-.navbar-brand :HOVER,
-.btn-primary:HOVER,
-.navbar-default .navbar-nav > li > a:hover {
-    color: white;
-    background-color: #4A4A4A;
-    border-color: white;
-}
-
 .navbar-brand {
     margin: 0px;
     padding: 0px;
 }
 
-.navbar-brand .backImage {
-    margin: 0;
-    padding: 0 0 0 15px;
-    background-image: url('../img/common/siteLogo.png');
-    background-size: 240px 50px;
+.siteBrand {
     height: 50px;
     width: 240px;
-    background-repeat: no-repeat;
-    position: relative;
     cursor: pointer;
-    color: white;
 }
 
-.navbar-brand h1 {
+.siteBrand img {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.siteBrand img:HOVER {
+    background-color: rgba(122, 24, 146, 0.5);
+}
+.siteBrand h1 {
     position: absolute;
     font-size: 0.8em;
-    margin-left: 30px;
-    margin-top: 30px;
+    color: white;
+    top: 10px;
+    left: 60px;
     padding: 0;
-    color: inherit;
 }
 
 .nav > li.hideElement {
@@ -432,7 +426,7 @@ footer a:HOVER,
 footer a:FOCUS {
     text-decoration: none;
     cursor: pointer;
-    color: white;
+    color: #feddff;
 }
 
 .footerElement {
@@ -440,12 +434,20 @@ footer a:FOCUS {
     width: 100%;
 }
 
-.btn-primary {
+.btn-primary,
+.btn-primary:FOCUS {
     background-color: #151F1D;
     border-color: #151F1D;
     color: #fff;
     font-size: 1.1em;
     margin-top: 2px;
+}
+
+.btn-primary:HOVER,
+.navbar-default .navbar-nav > li > a:hover {
+    color: white;
+    background-color: #49094a;
+    border-color: white;
 }
 
 .pageHeader {
@@ -468,13 +470,18 @@ footer a:FOCUS {
     text-shadow: none;
 }
 
-.roomReservation {
-    width: 100%;
-    padding: 0% 20%;
+.reservationImages {
+    margin-bottom: 30px;
 }
 
-.roomReservation .input-group,
-.roomReservation p {
+.reservationForm {
+    width: 100%;
+    padding: 2% 12%;
+    display: none;
+}
+
+.reservationForm .input-group,
+.reservationForm p {
     padding: 1%;
     width: 100%;
 }
@@ -483,23 +490,9 @@ footer a:FOCUS {
     resize: vertical;
 }
 
-.roomReservation .add_more_rooms {
-    padding-left: 2%;
-}
-
-.roomReservation .remove_field:HOVER,
-.roomReservation .add_more_rooms:HOVER {
-    cursor: pointer;
-    color: red;
-}
-
-.roomReservation .submitButton {
+.reservationForm .submitButton {
     width: 98%;
     margin: 1%;
-}
-
-.submitButton {
-    background-color: #eee;
 }
 
 .contactDetails {

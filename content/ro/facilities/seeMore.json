@@ -10,7 +10,7 @@
   {
     "title": "Campare",
     "details": "Cazare la mii de stele sub lumina lunii? Rezerva un loc sigur de cort cu acces la baie si bucatarie",
-    "destinationPageLink": "location.href='/casaPetri/pages/reservations/camping/camping.html?lang=ro'",
+    "destinationPageLink": "location.href='/casaPetri/pages/reservations/camping.html?lang=ro'",
     "imgUrl1": "/casaPetri/img/homePage/ourOffer/camping/1.jpg",
     "imgUrl2": "/casaPetri/img/homePage/ourOffer/camping/2.jpg",
     "imgUrl3": "/casaPetri/img/homePage/ourOffer/camping/3.jpg"

@@ -1,26 +1,74 @@
 [
   {
-    "imgTitle": "Camera minerilor",
-    "imgDetail": "Fost spatiu de cinema si banca, camera a fost renovata prin a ii se scoate zidurile de piatra de 1m grosime",
-    "thumbnailImgUrl": "/casaPetri/img/reservations/rooms/thumbnail/1.jpg",
-    "fullSizeImgUrl": "/casaPetri/img/reservations/rooms/fullSize/1.jpg"
+    "title": "Camera minerilor",
+    "anchorId": "minersRoom",
+    "bookKeyword": "Rezervă",
+    "namePlaceholder": "Nume",
+    "phonePlaceholder": "Telefon",
+    "placesPerPricePlaceholder": "Număr de locuri/preț",
+    "placesPerPrices": [
+      {
+        "option": "2 locuri - total: 150lei"
+      },
+      {
+        "option": "3 locuri - total: 200lei"
+      },
+      {
+        "option": "4 locuri - total: 250lei"
+      }
+    ],
+    "othersPlaceholder": "Altele",
+    "moreRequirementsText": "Vreau acces la:",
+    "parkingText": "parcare",
+    "kitchenText": "bucătărie",
+    "libraryText": "bibliotecă",
+    "bikeGarageText": "garaj biciclete",
+    "projectorScreenText": "ecran videoproiector",
+    "img1Title": "Camera minerilor",
+    "img1Detail": "Sectiunea cu subteranul prezinta o retea de galerii miniere realizate in adancul masivul Orlea, cu dalta si ciocanul.",
+    "img1Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/1.jpg",
+    "img1FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/1.jpg",
+    "img2Title": "Camera minerilor",
+    "img2Detail": "Pentru a le vizita se coboara 157 de trepte in subteran.",
+    "img2Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/2.jpg",
+    "img2FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/2.jpg",
+    "img3Title": "Camera minerilor",
+    "img3Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/3.jpg",
+    "img3FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/3.jpg"
   },
   {
-    "imgTitle": "Camera cărților",
-    "imgDetail": "Cazare la fklhsdlkjhsdjkdfn dcdf dlfj dlfdfl jhfgdjkgb;sfg d dlfgj;kdf;gkjf;dkfg",
-    "thumbnailImgUrl": "/casaPetri/img/reservations/rooms/thumbnail/2.jpg",
-    "fullSizeImgUrl": "/casaPetri/img/reservations/rooms/fullSize/2.jpg"
-  },
-  {
-    "imgTitle": "Camera cartilor",
-    "imgDetail": "Raluca are mere djkdfn dcdf dlfj dlfdfl jhfgdjkgb;sfg d dlfgj;kdf;gkjf;dkfg",
-    "thumbnailImgUrl": "/casaPetri/img/reservations/rooms/thumbnail/3.jpg",
-    "fullSizeImgUrl": "/casaPetri/img/reservations/rooms/fullSize/3.jpg"
-  },
-  {
-    "imgTitle": "Camera cartilor",
-    "imgDetail": "Raluca are mere djkdfn dcdf dlfj dlfdfl jhfgdjkgb;sfg d dlfgj;kdf;gkjf;dkfg",
-    "thumbnailImgUrl": "/casaPetri/img/reservations/rooms/thumbnail/4.jpg",
-    "fullSizeImgUrl": "/casaPetri/img/reservations/rooms/fullSize/4.jpg"
+    "title": "Camera veche",
+    "anchorId": "oldRoom",
+    "bookKeyword": "Rezervă",
+    "namePlaceholder": "Nume",
+    "phonePlaceholder": "Telefon",
+    "placesPerPricePlaceholder": "Număr de locuri/preț",
+    "placesPerPrices": [
+      {
+        "option": "2 locuri - total: 200lei"
+      },
+      {
+        "option": "3 locuri - total: 250lei"
+      }
+    ],
+    "othersPlaceholder": "Altele",
+    "moreRequirementsText": "Vreau acces la:",
+    "parkingText": "parcare",
+    "kitchenText": "bucătărie",
+    "libraryText": "bibliotecă",
+    "bikeGarageText": "garaj biciclete",
+    "projectorScreenText": "ecran videoproiector",
+    "img1Title": "Camera minerilor",
+    "img1Detail": "Sectiunea cu subteranul prezinta o retea de galerii miniere realizate in adancul masivul Orlea, cu dalta si ciocanul.",
+    "img1Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/1.jpg",
+    "img1FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/1.jpg",
+    "img2Title": "Camera minerilor",
+    "img2Detail": "Pentru a le vizita se coboara 157 de trepte in subteran.",
+    "img2Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/2.jpg",
+    "img2FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/2.jpg",
+    "img3Title": "Camera minerilor",
+    "img3Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/3.jpg",
+    "img3FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/3.jpg"
   }
+
 ]
