@@ -32,8 +32,12 @@ function htmlContentLoader(htmlPageSuffix, idParentElement) {
 
 function toggleReservationForm(button) {
     $('input[name="dataRange"]').daterangepicker();
-    $(button.parentNode).find("form").toggle(500);
-    $(button).find("i").toggleClass("fa-rotate-180");
+    $(button.parentNode).find(".reservationForm").toggle(500);
+}
+
+function hideReservationForm(button) {
+    $('input[name="dataRange"]').daterangepicker();
+    $(button.parentNode).toggle(500);
 }
 
 function changeLanguageTo(newLang) {

@@ -33,8 +33,9 @@
             {{/if}}
         </section>
         <section>
-            <button class="btn btn-large btn-primary" onclick="toggleReservationForm(this)">${bookKeyword} ${title} &nbsp&nbsp<i class="fa fa-caret-down"></i> </button>
-            <form class="reservationForm wide" method="post">
+            <button class="btn btn-large btn-primary" onclick="toggleReservationForm(this)">${bookKeyword} ${title} &nbsp&nbsp<i class="showHideForm fa fa-caret-down"></i> </button>
+            <div class="reservationForm">
+            <form method="post">
                 <input type="hidden" name="roomName" value="${title}">
                 <div class="input-group">
                     <span class="input-group-addon"><i class="fa fa-user"></i></span>
@@ -78,6 +79,8 @@
                 </div>
                 <input type="submit" value="${bookKeyword}" class="btn btn-primary submitButton">
             </form>
+            <button class="btn btn-large btn-primary hideReservationForm" onclick="hideReservationForm(this)"><i class="fa fa-caret-up"></i> </button>
+            </div>
         </section>
     </article>
 </script>

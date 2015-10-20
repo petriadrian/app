@@ -486,6 +486,12 @@ footer a:FOCUS {
     width: 100%;
 }
 
+.hideReservationForm {
+    color: #151F1D;
+    border-radius: 15px;
+    background-color: transparent;
+}
+
 .input-group textarea {
     resize: vertical;
 }
