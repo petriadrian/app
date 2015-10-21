@@ -1,108 +1,136 @@
 [
   {
     "title": "Camera minerilor",
-    "anchorId": "minersRoom",
-    "bookKeyword": "Rezervă",
-    "namePlaceholder": "Nume",
-    "phonePlaceholder": "Telefon",
-    "placesPerPricePlaceholder": "Număr de locuri și preț",
-    "placesPerPrices": [
+    "bookingText": "Rezervă",
+    "nameBox": "Nume",
+    "phoneBox": "Telefon",
+    "roomSeatsAndPriceBox": "Număr de locuri și preț",
+    "roomSeatsOptions": [
+      {
+        "option": "2 locuri - 120lei/noapte"
+      },
+      {
+        "option": "3 locuri - 170lei/noapte"
+      },
+      {
+        "option": "4 locuri - 230lei/noapte"
+      },
+      {
+        "option": "5 locuri - 280lei/noapte"
+      },
+      {
+        "option": "6 locuri - 330lei/noapte"
+      }
+    ],
+    "requirementsSection": "Doresc:",
+    "parkingCheckbox": "parcare",
+    "kitchenCheckbox": "acces bucătărie și camera de zi",
+    "bikeGarageCheckbox": "garaj biciclete",
+    "projectorScreenCheckbox": "ecran videoproiector",
+    "othersBox": "Altele",
+    "images": [
+      {
+        "imgTitle": "Camera minerilor",
+        "imgDetail": "interior cu biblioteca geamuri si masa, pereti piatra",
+        "imgThumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/1.jpg",
+        "imgFullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/1.jpg"
+      },
+      {
+        "imgTitle": "Camera minerilor",
+        "imgDetail": "In vitrina din camera sunt poze vechi din Rosia, flori de mina si obiecte folosite in trecut in zona. Camera are 4 paturi separate tip bunck beds. La cerere se mai poate extinde canapeaua astfel se mai suplimenteaza cu inca un loc sau doua. Printr-o rezervare se rezerva toata camera.",
+        "imgThumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/2.jpg",
+        "imgFullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/2.jpg"
+      },
+      {
+        "imgTitle": "Camera minerilor - Baie propie",
+        "imgDetail": "Incalzire prin boiler electric",
+        "imgThumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/3.jpg",
+        "imgFullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/3.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Camera veche",
+    "bookingText": "Rezervă",
+    "nameBox": "Nume",
+    "phoneBox": "Telefon",
+    "roomSeatsAndPriceBox": "Număr de locuri și preț",
+    "roomSeatsOptions": [
       {
         "option": "2 locuri - 150lei/noapte"
       },
       {
         "option": "3 locuri - 200lei/noapte"
-      },
-      {
-        "option": "4 locuri - 250lei/noapte"
       }
     ],
-    "othersPlaceholder": "Altele",
-    "moreRequirementsText": "Vreau acces la:",
-    "parkingText": "parcare",
-    "kitchenText": "bucătărie și camera de zi",
-    "bikeGarageText": "garaj biciclete",
-    "projectorScreenText": "ecran videoproiector",
-    "img1Title": "Camera minerilor",
-    "img1Detail": "interior",
-    "img1Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/1.jpg",
-    "img1FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/1.jpg",
-    "img2Title": "Camera minerilor",
-    "img2Detail": "Biblioteca",
-    "img2Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/2.jpg",
-    "img2FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/2.jpg",
-    "img3Title": "Camera minerilor",
-    "img3Detail": "Baie - incalzire prin boiler electric",
-    "img3Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/3.jpg",
-    "img3FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/3.jpg"
-  },
-  {
-    "title": "Camera veche",
-    "anchorId": "oldRoom",
-    "bookKeyword": "Rezervă",
-    "namePlaceholder": "Nume",
-    "phonePlaceholder": "Telefon",
-    "placesPerPricePlaceholder": "Număr de locuri și preț",
-    "placesPerPrices": [
+    "requirementsSection": "Doresc:",
+    "twinBedsCheckbox": "paturi separate in camera",
+    "parkingCheckbox": "parcare",
+    "kitchenCheckbox": "acces bucătărie și camera de zi",
+    "bikeGarageCheckbox": "garaj biciclete",
+    "projectorScreenCheckbox": "ecran videoproiector",
+    "othersBox": "Altele",
+    "images": [
       {
-        "option": "2 locuri - 200lei/noapte"
+        "imgTitle": "Camera veche",
+        "imgDetail": "interior cu pereti",
+        "imgThumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/1.jpg",
+        "imgFullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/1.jpg"
       },
       {
-        "option": "3 locuri - 250lei/noapte"
+        "imgTitle": "Camera veche",
+        "imgDetail": "Sau de la intrare sau cu soba si postingul",
+        "imgThumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/2.jpg",
+        "imgFullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/2.jpg"
+      },
+      {
+        "imgTitle": "Camera veche - Baie propie",
+        "imgDetail": "Incalzire prin boiler electric.  Intrarea la baie se face de pe coridor.",
+        "imgThumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/3.jpg",
+        "imgFullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/3.jpg"
       }
-    ],
-    "othersPlaceholder": "Altele",
-    "moreRequirementsText": "Vreau acces la:",
-    "parkingText": "parcare",
-    "kitchenText": "bucătărie și camera de zi",
-    "bikeGarageText": "garaj biciclete",
-    "projectorScreenText": "ecran videoproiector",
-    "img1Title": "Camera veche",
-    "img1Detail": "interior cu pereti",
-    "img1Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/1.jpg",
-    "img1FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/1.jpg",
-    "img2Title": "Camera veche",
-    "img2Detail": "Sau de la intrare sau cu soba si postingul",
-    "img2Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/2.jpg",
-    "img2FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/2.jpg",
-    "img3Title": "Camera veche",
-    "img3Detail": "Baie - incalzire prin boiler electric",
-    "img3Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/3.jpg",
-    "img3FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/3.jpg"
+    ]
   },
   {
     "title": "Camera din casuță",
-    "anchorId": "houseRoom",
-    "bookKeyword": "Rezervă",
-    "namePlaceholder": "Nume",
-    "phonePlaceholder": "Telefon",
-    "placesPerPricePlaceholder": "Număr de locuri și preț",
-    "placesPerPrices": [
+    "bookingText": "Rezervă",
+    "nameBox": "Nume",
+    "phoneBox": "Telefon",
+    "roomSeatsAndPriceBox": "Număr de locuri și preț",
+    "roomSeatsOptions": [
       {
-        "option": "1 loc - 70lei/noapte"
+        "option": "1 loc - 60lei/noapte"
       },
       {
-        "option": "2 locuri - 120lei/noapte"
+        "option": "2 locuri - 110lei/noapte"
       }
     ],
-    "othersPlaceholder": "Altele",
-    "moreRequirementsText": "Vreau acces la:",
-    "parkingText": "parcare",
-    "kitchenText": "bucătărie",
-    "bikeGarageText": "garaj biciclete",
-    "projectorScreenText": "ecran videoproiector",
-    "img1Title": "Camera din casuță",
-    "img1Detail": "interior cu paturile așezate pe mijloc",
-    "img1Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/1.jpg",
-    "img1FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/1.jpg",
-    "img2Title": "Camera din casuță",
-    "img2Detail": "cu casuța",
-    "img2Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/2.jpg",
-    "img2FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/2.jpg",
-    "img3Title": "Camera din casuță",
-    "img3Detail": "Baie - incalzire prin boiler pe lemne",
-    "img3Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/3.jpg",
-    "img3FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/3.jpg"
+    "requirementsSection": "Doresc:",
+    "twinBedsCheckboxCheckbox": "paturi separate in camera",
+    "parkingCheckbox": "parcare",
+    "kitchenCheckbox": "acces bucătărie",
+    "bikeGarageCheckbox": "garaj biciclete",
+    "projectorScreenCheckbox": "ecran videoproiector",
+    "othersBox": "Altele",
+    "images": [
+      {
+        "imgTitle": "Camera din casuță",
+        "imgDetail": "interior cu paturile așezate pe mijloc",
+        "imgThumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/1.jpg",
+        "imgFullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/1.jpg"
+      },
+      {
+        "imgTitle": "Camera din casuță",
+        "imgDetail": "cu casuța de afara",
+        "imgThumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/2.jpg",
+        "imgFullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/2.jpg"
+      },
+      {
+        "imgTitle": "Camera din casuță - Baie propie",
+        "imgDetail": "Incalzire prin boiler pe lemne",
+        "imgThumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/3.jpg",
+        "imgFullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/3.jpg"
+      }
+    ]
   }
-
 ]

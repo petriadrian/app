@@ -1,0 +1,107 @@
+<!-- First the photoAlbumBoxTemplate is loaded here to reuse the code which is needed by this template -->
+<script type="text/javascript">
+    function get_photoAlbumBoxTemplateName() {
+        $.get('/casaPetri/template/photoAlbumBox.htm', function (template) {
+            $('body').append(template);
+        });
+        return '#photoAlbumBoxTemplateId';
+    }
+    var photoAlbumBoxTemplateId = '#photoAlbumBoxTemplateId';
+</script>
+
+<script id="reservationFormTemplateId" type="text/x-jQuery-tmpl">
+    <article class="defaultArticle">
+        <header class="articleTitle">
+            <h3><span>${title}</span></h3>
+        </header>
+        <section class="reservationImages">
+            {{each images}}
+                {{tmpl($value) get_photoAlbumBoxTemplateName()}}
+            {{/each}}
+        </section>
+        <section>
+            <button class="btn btn-large btn-primary" onclick="toggleReservationForm(this)">${bookingText} ${title} &nbsp&nbsp<i class="showHideForm fa fa-caret-down"></i> </button>
+            <div class="reservationForm">
+            <form method="post">
+                <input type="hidden" name="roomName" value="${title}">
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                    <input id="nameReservation" type="text" class="form-control" placeholder="${nameBox}" required="required">
+                </div>
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                    <input type="email" id="emailReservation" class="form-control" placeholder="Email" required="required">
+                </div>
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="fa fa-phone"></i></span>
+                    <input type="tel" id="phoneReservation" class="form-control" placeholder="${phoneBox}" required="required">
+                </div>
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="fa fa-calendar"></i></span>
+                    <input type="text" name="dataRange"
+                           class="form-control" required="required"/>
+                </div>
+
+                {{if roomSeatsAndPriceBox}}
+                    <div class="input_fields_wrap">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-bed"></i></span>
+                            <select class="form-control" id="roomsTypeReservation" required="required">
+                                <option value="" disabled selected style='display:none;'>${roomSeatsAndPriceBox}</option>
+                                {{each roomSeatsOptions}}
+                                    <option value="${$value.option}">${$value.option}</option>
+                                {{/each}}
+                            </select>
+                        </div>
+                    </div>
+                {{/if}}
+                {{if campingNumberOfPersonsText}}
+                    <div class="input_fields_wrap">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-male"></i></span>
+                            <input type="number" name="persons" placeholder="${campingNumberOfPersonsText}" max="${campingMaxNumberOfPersons}" min="1"
+                                   class="form-control" required="required"/>
+                        </div>
+                    </div>
+                {{/if}}
+                {{if campingNumberOfTentsText}}
+                    <div class="input_fields_wrap">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-chevron-up"></i></span>
+                            <input type="number" name="persons" placeholder="${campingNumberOfTentsText}" max="${campingMaxNumberOfTents}" min="1"
+                                   class="form-control" required="required"/>
+                        </div>
+                    </div>
+                {{/if}}
+                {{if requirementsSection}}
+                    <p>${requirementsSection}</p>
+                    {{if twinBedsCheckbox}}
+                        <label class="checkbox-inline"><input type="checkbox" value="${twinBedsCheckbox}">${twinBedsCheckbox}</label>
+                    {{/if}}
+                    {{if parkingCheckbox}}
+                        <label class="checkbox-inline"><input type="checkbox" value="${parkingCheckbox}">${parkingCheckbox}</label>
+                    {{/if}}
+                    {{if kitchenCheckbox}}
+                        <label class="checkbox-inline"><input type="checkbox" value="${kitchenCheckbox}">${kitchenCheckbox}</label>
+                    {{/if}}
+                    {{if bikeGarageCheckbox}}
+                        <label class="checkbox-inline"><input type="checkbox" value="${bikeGarageCheckbox}">${bikeGarageCheckbox}</label>
+                    {{/if}}
+                    {{if projectorScreenCheckbox}}
+                        <label class="checkbox-inline"><input type="checkbox" value="${projectorScreenCheckbox}">${projectorScreenCheckbox}</label>
+                    {{/if}}
+                {{/if}}
+                {{if othersBox}}
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="fa fa-info"></i></span>
+                        <textarea form="roomReservation" id="othersReservation" class="form-control" placeholder="${othersBox}"></textarea>
+                    </div>
+                {{/if}}
+                <input type="submit" value="${bookingText}" class="btn btn-primary submitButton">
+            </form>
+            <button class="btn btn-large btn-primary hideReservationForm" onclick="hideReservationForm(this)"><i class="fa fa-caret-up"></i> </button>
+            </div>
+        </section>
+    </article>
+</script>
+

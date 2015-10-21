@@ -1,11 +1,11 @@
 [
   {
-    "title": "O cafea într-o dimineață la Roșia Montană?",
-    "details": "",
-    "firstSectionTitleText": "Cum sunt camerele?",
-    "firstSectionIconFontAwesomeClass": "fa fa-home",
-    "secondSectionTitleText": "Rezervări",
-    "secondSectionIconFontAwesomeClass": "fa fa-pencil-square-o",
+    "title": "Am adormit sub stele, era munte, liniste, racoare...",
+    "details": "Vezi zona de campare din curte",
+    "firstSectionTitleText": "Detalii",
+    "firstSectionIconFontAwesomeClass": "fa fa-info-circle",
+    "secondSectionTitleText": "Zona de campare si rezervari",
+    "secondSectionIconFontAwesomeClass": "fa fa-chevron-circle-up",
     "destinationPageLink": "/casapetri/pages/reservations/camping.html",
     "backgroundImgUrl": "/casapetri/img/reservations/camping/introBackground.png"
   }
