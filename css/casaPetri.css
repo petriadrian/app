@@ -202,7 +202,7 @@ body {
 }
 
 .defaultArticle {
-    margin-bottom: 60px;
+    margin: 20px 0px;
 }
 
 /*------------------------------------*\
@@ -353,12 +353,8 @@ footer {
     background-color: #151F1D;
     margin-top: 30px;
     padding: 50px 10px;
-    font-size: 1.4em;
-}
-
-footer .btn-primary,
-footer a {
-    color: grey;
+    font-size: 0.8em;
+    color: gray;
 }
 
 footer section {
@@ -369,20 +365,8 @@ footer section {
     display: inline-block;
 }
 
-.footerContact span {
-    width: 100%;
-    display: block;
-}
-
-.footerFeedback textarea,
-.footerFeedback input,
-.footerFeedback button,
-.footerContact {
-    font-size: 0.6em;
-}
-
-.footerTitle {
-    font-size: 1.4em;
+footer .form-control{
+    font-size: inherit;
 }
 
 .footerFeedback .form-group {
@@ -398,6 +382,8 @@ footer section {
     border: 1px solid gray;
     background-color: #1D2626;
     color: white;
+    padding: 3px 12px;
+    height: inherit;
 }
 
 .footerFeedback button {
@@ -409,12 +395,6 @@ footer section {
     max-height: 90px;
 }
 
-.footerFeedback input,
-.footerFeedback button {
-    padding: 3px 12px;
-    height: inherit;
-}
-
 .footerFeedback input:HOVER,
 .footerFeedback input:FOCUS,
 .footerFeedback textarea:HOVER,
@@ -423,16 +403,20 @@ footer section {
     color: #151F1D;
 }
 
-footer a:HOVER,
-footer a:FOCUS {
+.businessCard .cardTitle {
+    font-size: 1.2em;
+    margin-bottom: 8px;
+}
+
+.businessCard p {
+    margin: 0px;
+}
+
+.businessCard:HOVER,
+.businessCard:FOCUS {
     text-decoration: none;
     cursor: pointer;
     color: #157f15;
-}
-
-.footerElement {
-    max-width: 100%;
-    width: 100%;
 }
 
 .btn-primary,

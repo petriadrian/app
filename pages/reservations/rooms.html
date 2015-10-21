@@ -56,34 +56,14 @@
             </script>
         </div>
         <div id="firstSectionContent">
-            <article>
-                <header>
-                     Bine ati venit la Casa Petri!
-                </header>
-                <p>
-                    Casa Petri este situata in centrul istoric al Rosiei Montane. Fost sediu de banca, spital si cinematograf, astazi a fost transformata in spatiu de cazare pentru turisti.
-                    Am incercat sa pastram cat mai mult din stilul si organizarea acestei case si sa scoatem in evidenta elementele traditionale printre care am incercat sa inghesuim utilitati moderne ca de exemplu baile. De vi iarna afla ca am pastrat modul de incalzire al camerelor prin teracote pe lemne. Parca si adormi mai usor cand auzi focul tihnind in soba.
-                    <br> Am incercat sa facem din fiecare spatiu un loc cat mai placut si primitor si sa punem la dispozitia oaspetilor obiecte vechi adunate de bunicii nostrii ca reviste, carti, pick-up si viniluri, o parte din mobilier... Folositi-le, cititi-le dar va rugam cu grija ca ni-s dragi si nu uitati sa le puneti la loc dupa folosire pentru ca ele sunt cele care dau cu adevarat valoare acestui spatiu.
-                    <br> Dispunem si de o gradina cu terasa si hamce, cu o priveliste minunata spre masivul Carnic.
-                    <br> Mai jos aveti o sectiune cu camerele  de unde puteti face si rezervari. Sub ea aveti un link spre pagina cu facilitati. In momentul rezervarii va rog sa specificati facilitatile dorite pentru a ne asigura ca sunt libere si pregatite pentru cand sotiti.
-                </p>
-                Ia-ti cortul in spate si hai la Rosia. Ai acces la baie, bucatarie, camera de zi, biblioteca, terasa si
-                parcare.
-                Cortul si lucrurile iti vor fi in siguranta intrucat zona de campare este in curte ingradita.
-                Pretul este de <b>25 de lei de persoana pe noapte</b> si este <b>negociabil</b> in functie de durata si
-                numar de persoane (specificati in sectiunea "Altele" din formular daca doriti discount).
-                Oferim <b>10% discount celor care vin cu bicicleta sau cu chitara (si le si folosesc)</b>.
-                </br>
-                Este interzis facutul focului in incinta zonei de campare, fumatul in spatiile din interiorul casei,
-                ascultatul de muzica tare sau comportament necivilizat.
-                Casa Petri isi rezerva dreptul de a-si selecta clientela. Prin efectuarea unei rezervari va asumati
-                ca ati luat la cunostinta cele mentionate mai sus.
-                </br>
-                <b>Dupa rezervare o sa revenim cu un email sau telefon de confirmare.</b>
-            </article>
-            <!--<script>-->
-                <!--dynamicContentLoader('.htm', 'reservations/rooms/minersRoom.json', 'firstSectionContent', 'reservationFormTemplateId');-->
-            <!--</script>-->
+            <script>
+                dynamicContentLoader('article.htm', 'reservations/rooms/details.json', 'firstSectionContent', 'articleTemplateId');
+            </script>
+        </div>
+        <div id="contactReservationLayout">
+            <script>
+                dynamicContentLoader('businessCard.htm', 'contactData.json', 'contactReservationLayout', 'businessCardTemplateId');
+            </script>
         </div>
     </section>
 
@@ -96,7 +76,7 @@
         </div>
         <div id="secondSectionContent">
             <script>
-                dynamicContentLoader('forms/reservationForm.htm', 'reservations/rooms/rooms.json', 'secondSectionContent', 'reservationFormTemplateId');
+                dynamicContentLoader('forms/roomsReservation.htm', 'reservations/rooms/rooms.json', 'secondSectionContent', 'roomsReservationTemplateId');
             </script>
         </div>
         <div id="facilitiesAdvertise">

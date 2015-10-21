@@ -4,6 +4,11 @@
             {{html title}}
         </h1>
         <a href="#firstSectionTitle" class="btn btn-large btn-primary">${firstSectionTitleText}</a>
-        <a href="#secondSectionTitle" class="btn btn-large btn-primary">${secondSectionTitleText}</a>
+        {{if secondSectionTitleText}}
+            <a href="#secondSectionTitle" class="btn btn-large btn-primary">${secondSectionTitleText}</a>
+        {{/if}}
+        {{if thirdSectionTitleText}}
+            <a href="#thirdSectionTitle" class="btn btn-large btn-primary">${thirdSectionTitleText}</a>
+        {{/if}}
     </div>
 </script>

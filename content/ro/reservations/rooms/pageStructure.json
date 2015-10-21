@@ -4,7 +4,7 @@
     "details": "",
     "firstSectionTitleText": "Detalii",
     "firstSectionIconFontAwesomeClass": "fa fa-info-circle",
-    "secondSectionTitleText": "Vezi camerele",
+    "secondSectionTitleText": "Camere",
     "secondSectionIconFontAwesomeClass": "fa fa-bed",
     "destinationPageLink": "/casapetri/pages/reservations/rooms.html",
     "backgroundImgUrl": "/casapetri/img/reservations/rooms/introBackground.png"

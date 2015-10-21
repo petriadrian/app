@@ -5,34 +5,34 @@
     "bookKeyword": "Rezervă",
     "namePlaceholder": "Nume",
     "phonePlaceholder": "Telefon",
-    "placesPerPricePlaceholder": "Număr de locuri/preț",
+    "placesPerPricePlaceholder": "Număr de locuri și preț",
     "placesPerPrices": [
       {
-        "option": "2 locuri - total: 150lei"
+        "option": "2 locuri - 150lei/noapte"
       },
       {
-        "option": "3 locuri - total: 200lei"
+        "option": "3 locuri - 200lei/noapte"
       },
       {
-        "option": "4 locuri - total: 250lei"
+        "option": "4 locuri - 250lei/noapte"
       }
     ],
     "othersPlaceholder": "Altele",
     "moreRequirementsText": "Vreau acces la:",
     "parkingText": "parcare",
-    "kitchenText": "bucătărie",
-    "libraryText": "bibliotecă",
+    "kitchenText": "bucătărie și camera de zi",
     "bikeGarageText": "garaj biciclete",
     "projectorScreenText": "ecran videoproiector",
     "img1Title": "Camera minerilor",
-    "img1Detail": "Sectiunea cu subteranul prezinta o retea de galerii miniere realizate in adancul masivul Orlea, cu dalta si ciocanul.",
+    "img1Detail": "interior",
     "img1Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/1.jpg",
     "img1FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/1.jpg",
     "img2Title": "Camera minerilor",
-    "img2Detail": "Pentru a le vizita se coboara 157 de trepte in subteran.",
+    "img2Detail": "Biblioteca",
     "img2Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/2.jpg",
     "img2FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/2.jpg",
     "img3Title": "Camera minerilor",
+    "img3Detail": "Baie - incalzire prin boiler electric",
     "img3Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/3.jpg",
     "img3FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/3.jpg"
   },
@@ -42,31 +42,65 @@
     "bookKeyword": "Rezervă",
     "namePlaceholder": "Nume",
     "phonePlaceholder": "Telefon",
-    "placesPerPricePlaceholder": "Număr de locuri/preț",
+    "placesPerPricePlaceholder": "Număr de locuri și preț",
     "placesPerPrices": [
       {
-        "option": "2 locuri - total: 200lei"
+        "option": "2 locuri - 200lei/noapte"
       },
       {
-        "option": "3 locuri - total: 250lei"
+        "option": "3 locuri - 250lei/noapte"
+      }
+    ],
+    "othersPlaceholder": "Altele",
+    "moreRequirementsText": "Vreau acces la:",
+    "parkingText": "parcare",
+    "kitchenText": "bucătărie și camera de zi",
+    "bikeGarageText": "garaj biciclete",
+    "projectorScreenText": "ecran videoproiector",
+    "img1Title": "Camera veche",
+    "img1Detail": "interior cu pereti",
+    "img1Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/1.jpg",
+    "img1FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/1.jpg",
+    "img2Title": "Camera veche",
+    "img2Detail": "Sau de la intrare sau cu soba si postingul",
+    "img2Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/2.jpg",
+    "img2FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/2.jpg",
+    "img3Title": "Camera veche",
+    "img3Detail": "Baie - incalzire prin boiler electric",
+    "img3Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/3.jpg",
+    "img3FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/3.jpg"
+  },
+  {
+    "title": "Camera din casuță",
+    "anchorId": "houseRoom",
+    "bookKeyword": "Rezervă",
+    "namePlaceholder": "Nume",
+    "phonePlaceholder": "Telefon",
+    "placesPerPricePlaceholder": "Număr de locuri și preț",
+    "placesPerPrices": [
+      {
+        "option": "1 loc - 70lei/noapte"
+      },
+      {
+        "option": "2 locuri - 120lei/noapte"
       }
     ],
     "othersPlaceholder": "Altele",
     "moreRequirementsText": "Vreau acces la:",
     "parkingText": "parcare",
     "kitchenText": "bucătărie",
-    "libraryText": "bibliotecă",
     "bikeGarageText": "garaj biciclete",
     "projectorScreenText": "ecran videoproiector",
-    "img1Title": "Camera minerilor",
-    "img1Detail": "Sectiunea cu subteranul prezinta o retea de galerii miniere realizate in adancul masivul Orlea, cu dalta si ciocanul.",
+    "img1Title": "Camera din casuță",
+    "img1Detail": "interior cu paturile așezate pe mijloc",
     "img1Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/1.jpg",
     "img1FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/1.jpg",
-    "img2Title": "Camera minerilor",
-    "img2Detail": "Pentru a le vizita se coboara 157 de trepte in subteran.",
+    "img2Title": "Camera din casuță",
+    "img2Detail": "cu casuța",
     "img2Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/2.jpg",
     "img2FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/2.jpg",
-    "img3Title": "Camera minerilor",
+    "img3Title": "Camera din casuță",
+    "img3Detail": "Baie - incalzire prin boiler pe lemne",
     "img3Thumbnail": "/casaPetri/img/reservations/rooms/minersRoom/thumbnail/3.jpg",
     "img3FullSize": "/casaPetri/img/reservations/rooms/minersRoom/fullSize/3.jpg"
   }
