@@ -13,7 +13,8 @@
       {
         "carouselImgUrl": "/casaPetri/img/homePage/activities/hiking/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   },
   {
     "title": "Ciclism",
@@ -29,6 +30,7 @@
       {
         "carouselImgUrl": "/casaPetri/img/homePage/activities/bike/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   }
 ]

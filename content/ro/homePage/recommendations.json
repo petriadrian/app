@@ -13,7 +13,8 @@
       {
         "carouselImgUrl": "/casaPetri/img/homePage/recommendations/fanfest/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   },
   {
     "title": "Maraton",
@@ -29,7 +30,8 @@
       {
         "carouselImgUrl": "/casaPetri/img/homePage/recommendations/marathon/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   },
   {
     "title": "Restaurari",
@@ -45,7 +47,8 @@
       {
         "carouselImgUrl": "/casaPetri/img/homePage/recommendations/adoptHouse/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   },
   {
     "title": "Mocanita",
@@ -61,7 +64,8 @@
       {
         "carouselImgUrl": "/casaPetri/img/homePage/recommendations/steamTrain/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   },
   {
     "title": "1 Mai",
@@ -77,7 +81,8 @@
       {
         "carouselImgUrl": "/casaPetri/img/homePage/recommendations/1mai/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   },
   {
     "title": "Narcise",
@@ -93,7 +98,8 @@
       {
         "carouselImgUrl": "/casaPetri/img/homePage/recommendations/negrileasa/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   },
   {
     "title": "Cercetașii",
@@ -109,7 +115,8 @@
       {
         "carouselImgUrl": "/casaPetri/img/homePage/recommendations/scouts/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   },
   {
     "title": "Suvenir",
@@ -125,6 +132,7 @@
       {
         "carouselImgUrl": "/casaPetri/img/homePage/recommendations/madeInRosia/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   }
 ]

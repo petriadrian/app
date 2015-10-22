@@ -1,18 +1,16 @@
 <script id="menuBoxTemplateId" type="text/x-jQuery-tmpl">
-    <article class="carouselHomePage defaultClickEvents" title="${title}" onclick="${destinationPageLink};">
-        <div class="carouselContent">
-            <ul class="carouselPanes">
-                {{if carouselImages}}
-                    {{each carouselImages}}
-                        <li><img src="${$value.carouselImgUrl}"></li>
-                    {{/each}}
-                {{/if}}
-            </ul>
-            <div class="carouselText">
-                <p class="carouselTitle">${title}</p>
-                <p class="carouselInfo">{{html details}}</p>
-                <div style="clear: both;"></div>
+    <div class="carousel slide carouselHomePage defaultClickEvents" data-ride="carousel" data-interval="${carouselTimeInterval}" onclick="${destinationPageLink}">
+        <div class="carousel-inner">
+        {{each(i, slide) carouselImages}}
+            <div class="item ${(i==0)?"active":""}" title="${title}">
+                <img src="${slide.carouselImgUrl}" alt="${title}">
             </div>
+        {{/each}}
         </div>
-    </article>
+        <div class="carouselText">
+            <p class="carouselTitle">${title}</p>
+            <p class="carouselInfo">{{html details}}</p>
+            <div style="clear: both;"></div>
+        </div>
+    </div>
 </script>

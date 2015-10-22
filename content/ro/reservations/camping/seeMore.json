@@ -13,7 +13,8 @@
       {
         "carouselImgUrl": "/casaPetri/img/review/reviewer/thumbnail/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   },
   {
     "title": "Camere",
@@ -29,6 +30,7 @@
       {
         "carouselImgUrl": "/casaPetri/img/homePage/ourOffer/rooms/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   }
 ]

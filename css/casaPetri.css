@@ -202,130 +202,45 @@ body {
 /*------------------------------------*\
     $ MAIN CAROUSEL
 \*------------------------------------*/
-#ourOfferLayout .carouselHomePage,
-#activitiesLayout .carouselHomePage {
-    width: 320px;
-    margin: 0px 20px;
-}
-
 .carouselHomePage {
     color: inherit;
     width: 280px;
     height: 214px;
     padding: 5px;
     display: inline-block;
+    overflow: hidden;
 }
 
-.carouselContent {
-    overflow: hidden;
+.carouselHomePage .carousel-inner>.item>img {
     width: 100%;
-    height: 100%;
+    height: 150px;
 }
 
-.carouselPanes {
-    max-height: 160px;
-    list-style: none;
-    position: relative;
-    width: 300%; /* Number of panes * 100% */
-    overflow: hidden;
-    /* This is used solely to clear floats, it does not add functionality. */
-    -moz-animation: carousel 60s infinite;
-    -webkit-animation: carousel 60s infinite;
-    animation: carousel 60s infinite;
-    overflow: hidden;
-    padding: 0px;
-    margin: 0 0 4px 0;
-}
-
-.carouselSimpleImagePane {
-    max-height: 160px;
-    height: 70%;
-    overflow: hidden;
-}
-
-.carouselPanes > li {
-    position: relative;
-    float: left;
-    width: 33.333333333333%; /* 100 / number of panes */
-}
-
-.carouselContent img {
-    display: block;
-    max-width: 100%;
-    width: 100%;
+.increaseCarouselBoxes .carouselHomePage {
+    width: 320px;
+    margin: 0px 20px;
 }
 
 .carouselText {
     font-size: 1.4em;
-    text-align: left;
     padding: 3px 0 0 0;
 }
 
 .carouselTitle {
+    text-align: left;
     float: left;
     overflow: hidden;
     margin: 0 5px 5px 0;
-    text-align: left;
 }
 
 .carouselInfo {
-    font-size: 0.55em;
+    font-size: 0.6em;
     text-align: right;
     margin: 0;
     padding: 0 0 0 2px;
 }
 
-/* @keyframes carousel{
-    0%    { left:0; }
-    11%   { left:0; }
-    12.5% { left:-100%; }
-    23.5% { left:-100%; }
-    25%   { left:-200%; }
-    36%   { left:-200%; }
-    37.5% { left:-300%; }
-    48.5% { left:-300%; }
-    50%   { left:-400%; }
-    61%   { left:-400%; }
-    62.5% { left:-300%; }
-    73.5% { left:-300%; }
-    75%   { left:-200%; }
-    86%   { left:-200%; }
-    87.5% { left:-100%; }
-    98.5% { left:-100%; }
-    100%  { left:0; }
-} */
-
-@keyframes carousel {
-    0% {
-        left: 0;
-    }
-    24% {
-        left: 0;
-    }
-    25% {
-        left: -100%;
-    }
-    49% {
-        left: -100%;
-    }
-    50% {
-        left: -200%;
-    }
-    74% {
-        left: -200%;
-    }
-    75% {
-        left: -100%;
-    }
-    99% {
-        left: -100%;
-    }
-    100% {
-        left: 0;
-    }
-}
-
-.starter-template {
+  .starter-template {
     margin: 30px 0;
     padding: 1%;
     border-top: 1px solid #151F1D;
@@ -476,27 +391,6 @@ footer .form-control{
     margin: 1%;
 }
 
-.contactDetails {
-    margin: 5% 0%;
-}
-
-.contactElement {
-    float: left;
-    font-size: 1.1em;
-    padding: 2px 10px;
-}
-
-.defaultImagePage {
-    width: 33%;
-    padding: 1px;
-    float: left;
-    display: inline-block;
-}
-
-.defaultImagePage img {
-    width: 100%;
-}
-
 .photoAlbum {
     width: 320px;
     margin: 5px;
@@ -565,7 +459,6 @@ footer .form-control{
 }
 
 /* MEDIA */
-
 @media only screen and (min-width: 321px) and (max-width: 480px) {
 
     .pageHeader {
@@ -582,8 +475,7 @@ footer .form-control{
         height: 200px !important;
     }
 
-    #ourOfferLayout .carouselHomePage,
-    #activitiesLayout .carouselHomePage {
+    .increaseCarouselBoxes .carouselHomePage {
         margin: 0px;
     }
 }

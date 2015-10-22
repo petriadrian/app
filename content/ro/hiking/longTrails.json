@@ -13,7 +13,7 @@
       {
         "carouselImgUrl": "/casaPetri/img/hiking/longTrails/historicalCenter/3.jpg"
       }
-    ]
+        ],     "carouselTimeInterval": "12000"
   },
   {
     "title": "Lety si Sulei",
@@ -29,7 +29,7 @@
       {
         "carouselImgUrl": "/casaPetri/img/hiking/longTrails/historicalCenter/3.jpg"
       }
-    ]
+        ],     "carouselTimeInterval": "12000"
   },
   {
     "title": "Lacurile",
@@ -45,7 +45,7 @@
       {
         "carouselImgUrl": "/casaPetri/img/hiking/longTrails/historicalCenter/3.jpg"
       }
-    ]
+        ],     "carouselTimeInterval": "12000"
   },
   {
     "title": "Detunata",
@@ -61,7 +61,7 @@
       {
         "carouselImgUrl": "/casaPetri/img/hiking/longTrails/historicalCenter/3.jpg"
       }
-    ]
+        ],     "carouselTimeInterval": "12000"
   },
   {
     "title": "Geamana",
@@ -77,6 +77,6 @@
       {
         "carouselImgUrl": "/casaPetri/img/hiking/longTrails/historicalCenter/3.jpg"
       }
-    ]
+        ],     "carouselTimeInterval": "12000"
   }
 ]

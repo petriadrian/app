@@ -13,7 +13,8 @@
       {
         "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   },
   {
     "title": "Muzeu",
@@ -29,7 +30,8 @@
       {
         "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   },
   {
     "title": "Tarina",
@@ -45,7 +47,8 @@
       {
         "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   },
   {
     "title": "Vaidoaia",
@@ -61,6 +64,7 @@
       {
         "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   }
 ]

@@ -13,7 +13,8 @@
       {
         "carouselImgUrl": "/casaPetri/img/homePage/activities/bike/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   },
   {
     "title": "Drumetii",
@@ -29,7 +30,8 @@
       {
         "carouselImgUrl": "/casaPetri/img/homePage/activities/hiking/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   },
   {
     "title": "Camere",
@@ -45,7 +47,8 @@
       {
         "carouselImgUrl": "/casaPetri/img/homePage/ourOffer/rooms/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   },
   {
     "title": "Campare",
@@ -61,6 +64,7 @@
       {
         "carouselImgUrl": "/casaPetri/img/homePage/ourOffer/camping/3.jpg"
       }
-    ]
+    ],
+    "carouselTimeInterval": "12000"
   }
 ]
