@@ -205,7 +205,7 @@ body {
 .carouselHomePage {
     color: inherit;
     width: 280px;
-    height: 214px;
+    height: 275px;
     padding: 5px;
     display: inline-block;
     overflow: hidden;
@@ -222,25 +222,18 @@ body {
 }
 
 .carouselText {
-    font-size: 1.4em;
-    padding: 3px 0 0 0;
+    padding-top: 10px;
 }
 
 .carouselTitle {
-    text-align: left;
-    float: left;
-    overflow: hidden;
-    margin: 0 5px 5px 0;
+    font-size: 1.4em;
 }
 
 .carouselInfo {
-    font-size: 0.6em;
-    text-align: right;
-    margin: 0;
-    padding: 0 0 0 2px;
+    font-size: 0.9em;
 }
 
-  .starter-template {
+.starter-template {
     margin: 30px 0;
     padding: 1%;
     border-top: 1px solid #151F1D;
