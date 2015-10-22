@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- META -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Pagina oficiala casa Petri">
+    <meta name="keywords" content="casa petri,rosia montana,cazare,turism,munte,bicicleta,drumetii">
+    <!-- TITLE -->
+    <link rel="shortcut icon" type="image/x-icon" href="/casaPetri/img/common/favicon.ico"/>
+    <title>Casa Petri Rosia Montana</title>
+    <!-- LIBRARIES-->
+    <link rel="import" href="/casaPetri/pages/common/librariesImports/defaultImports.html">
+    <link rel="import" href="/casaPetri/pages/common/librariesImports/dateRangePicker.html">
+    <link rel="import" href="/casaPetri/pages/common/librariesImports/photoAlbum.html">
+</head>
+
+<body onload="scrollToAnchor()">
+
+<!-- HEADER -->
+<div id="siteHeader">
+    <script>
+        $(document).ready(function () {
+            $.get('/casaPetri/pages/common/headerAndFooter/siteHeader.html', function (modal) {
+                $('#siteHeader').append(modal);
+            });
+        });
+    </script>
+</div>
+
+<div class="container">
+
+    <div class="pageMotto" style="background-image: url('img/introBackground.png')">
+        <h1>
+
+
+        </h1>
+        <a href="#shortTrail" class="btn btn-large btn-primary">Trasee scurte (sub 6h)</a>
+        <a href="#longTrail" class="btn btn-large btn-primary">Trasee lungi (peste 8h)</a>
+    </div>
+    <!-- path -->
+    <div id="shortTrailsLayout" >
+        <span id="shortTrail" class="anchor"></span>
+
+        <div class="titleLayout">
+            <h2><i class="fa fa-map-signs"></i> Trasee scurte</h2>
+        </div>
+        <script>
+            $(document).ready(function () {
+                $.get('/casaPetri/pages/common/template/menuBox.htm', function (template) {
+                    $('#shortTrailsLayout').append(template);
+                    $.get("/casaPetri/pages/hiking/content/shortTrails.json", function (content) {
+                        $('#menuBoxTemplateId').tmpl(content).appendTo("#shortTrailsLayout");
+                    })
+                });
+            });
+        </script>
+
+    </div>
+    <div style="clear: both;"></div>
+
+    <div id="longTrailsLayout" >
+        <span id="longTrail" class="anchor"></span>
+
+        <div class="titleLayout">
+            <h2><i class="fa fa-map-signs"></i> Trasee lungi</h2>
+        </div>
+        <script>
+            $(document).ready(function () {
+                $.get('/casaPetri/pages/common/template/menuBox.htm', function (template) {
+                    $('#longTrailsLayout').append(template);
+                    $.get("/casaPetri/pages/hiking/content/longTrails.json", function (content) {
+                        $('#menuBoxTemplateId').tmpl(content).appendTo("#longTrailsLayout");
+                    })
+                });
+            });
+        </script>
+
+    </div>
+    <div style="clear: both;"></div>
+
+    <!-- SEE MORE -->
+    <div id="seeMoreLayout" >
+        <span id="seeMore" class="anchor"></span>
+
+        <div class="titleLayout">
+            <h2><i class="fa fa-coffee"></i> Vezi si</h2>
+        </div>
+        <script>
+            $(document).ready(function () {
+                $.get('/casaPetri/pages/common/template/menuBox.htm', function (templates) {
+                    $('#seeMoreLayout').append(templates);
+                    $.get("content/seeMore.json", function (content) {
+                        $('#menuBoxTemplateId').tmpl(content).appendTo("#seeMoreLayout");
+                    })
+                });
+            });
+        </script>
+    </div>
+    <div style="clear: both;"></div>
+
+    <!-- FOOTER -->
+    <div id="siteFooter">
+        <script>
+            $(document).ready(function () {
+                $.get('/casaPetri/pages/common/headerAndFooter/siteFooter.html', function (modal) {
+                    $('#siteFooter').append(modal);
+                });
+            });
+        </script>
+    </div>
+
+</div>
+
+<!--MODALS-->
+<script>
+    $(document).ready(function () {
+        $.get('/casaPetri/pages/common/modal/sendMailModal.html', function (modal) {
+            $('body').append(modal);
+        });
+    });
+</script>
+
+</body>
+</html>

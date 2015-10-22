@@ -1,12 +1,35 @@
-<!-- First the photoAlbumBoxTemplate is loaded here to reuse the code which is needed by this template -->
-<script type="text/javascript">
-    function get_photoAlbumBoxTemplateName() {
-        $.get('/casaPetri/template/photoAlbumBox.htm', function (template) {
-            $('body').append(template);
-        });
-        return '#photoAlbumBoxTemplateId';
-    }
-    var photoAlbumBoxTemplateId = '#photoAlbumBoxTemplateId';
+<script id="photoAlbumBoxTemplateId" type="text/x-jQuery-tmpl">
+    <figure class="photoAlbum defaultClickEvents">
+        <a rel="fancybox" title="${imgTitle} - ${imgDetail}" class="fancybox" href="${imgFullSize}">
+            <img src="${imgThumbnail}" alt="${title}">
+            <figcaption><b> ${imgTitle} </b> - ${imgDetail}</figcaption>
+        </a>
+    </figure>
+</script>
+
+<!-- all the bellow templates are depended of the first template-->
+<script id="articleWithImgAndTextTemplateId" type="text/x-jQuery-tmpl">
+    <article class="defaultArticle anchorParent">
+        {{if anchorId}}
+            <span id="${anchorId}" class="anchor"></span>
+        {{/if}}
+        <header class="articleTitle">
+            <h3><span>${title}</span></h3>
+        </header>
+        <section class="defaultArticleText">
+            {{html details}}
+            {{if moreDetailsLink}}
+                <a href="${moreDetailsLink}" class="btn-link" target="_blank">${moreDetailsTitle}</i></a>
+            {{/if}}
+        </section>
+        <section>
+            {{if images}}
+                {{each images}}
+                    {{tmpl($value) '#photoAlbumBoxTemplateId'}}
+                {{/each}}
+            {{/if}}
+        </section>
+    </article>
 </script>
 
 <script id="reservationFormTemplateId" type="text/x-jQuery-tmpl">
@@ -15,9 +38,11 @@
             <h3><span>${title}</span></h3>
         </header>
         <section class="reservationImages">
-            {{each images}}
-                {{tmpl($value) get_photoAlbumBoxTemplateName()}}
-            {{/each}}
+            {{if images}}
+                {{each images}}
+                    {{tmpl($value) '#photoAlbumBoxTemplateId'}}
+                {{/each}}
+            {{/if}}
         </section>
         <section>
             <button class="btn btn-large btn-primary" onclick="toggleReservationForm(this)">${bookingText} ${title} &nbsp&nbsp<i class="showHideForm fa fa-caret-down"></i> </button>
@@ -41,7 +66,6 @@
                     <input type="text" name="dataRange"
                            class="form-control" required="required"/>
                 </div>
-
                 {{if roomSeatsAndPriceBox}}
                     <div class="input_fields_wrap">
                         <div class="input-group">

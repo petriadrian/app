@@ -16,9 +16,6 @@ function scrollToAnchor() {
 
 // dynamicContentLoader(templatePathSuffix, contentPathSuffix, idParentElement, templateId);
 function dynamicContentLoader(templatePathSuffix, contentPathSuffix, idParentElement, templateId) {
-    //$.get('/casaPetri/template/photoAlbumBox.htm', function (template) {
-    //    $('#' + idParentElement).append(template);
-    //});
     $.get('/casaPetri/template/' + templatePathSuffix, function (template) {
         $('#' + idParentElement).append(template);
         $.get('/casaPetri/content/' + getLanguage() + '/' + contentPathSuffix, function (content) {

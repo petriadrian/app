@@ -3,33 +3,33 @@
         "title": "Centrul",
         "details": "| 4h |Biserici, Cladiri patrimoniu, Taul Brazi",
         "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
-        "imgUrl1": "img/shortTrails/historicalCenter/1.jpg",
-        "imgUrl2": "img/shortTrails/historicalCenter/2.jpg",
-        "imgUrl3": "img/shortTrails/historicalCenter/3.jpg"
+        "imgUrl1": "/casaPetri/img/hiking/shortTrails/historicalCenter/1.jpg",
+        "imgUrl2": "/casaPetri/img/hiking/shortTrails/historicalCenter/2.jpg",
+        "imgUrl3": "/casaPetri/img/hiking/shortTrails/historicalCenter/3.jpg"
     },
     {
         "title": "Muzeu",
         "details": "| 3h |Muzeul Mineritului, Biserica Greco-Catolica",
         "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
-        "imgUrl1": "img/shortTrails/historicalCenter/1.jpg",
-        "imgUrl2": "img/shortTrails/historicalCenter/2.jpg",
-        "imgUrl3": "img/shortTrails/historicalCenter/3.jpg"
+        "imgUrl1": "/casaPetri/img/hiking/shortTrails/historicalCenter/1.jpg",
+        "imgUrl2": "/casaPetri/img/hiking/shortTrails/historicalCenter/2.jpg",
+        "imgUrl3": "/casaPetri/img/hiking/shortTrails/historicalCenter/3.jpg"
     },
     {
         "title": "Tarina",
         "details": "| 4h |Bancuta Panoramica, Taul tarinii, Satul Tarina",
         "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
-        "imgUrl1": "img/shortTrails/historicalCenter/1.jpg",
-        "imgUrl2": "img/shortTrails/historicalCenter/2.jpg",
-        "imgUrl3": "img/shortTrails/historicalCenter/3.jpg"
+        "imgUrl1": "/casaPetri/img/hiking/shortTrails/historicalCenter/1.jpg",
+        "imgUrl2": "/casaPetri/img/hiking/shortTrails/historicalCenter/2.jpg",
+        "imgUrl3": "/casaPetri/img/hiking/shortTrails/historicalCenter/3.jpg"
     },
     {
         "title": "Vaidoaia",
         "details": "| 6h |Galeria si masivul Vaidoaia, Taul Mare, Masivele Lety si Sulei",
         "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
-        "imgUrl1": "img/shortTrails/historicalCenter/1.jpg",
-        "imgUrl2": "img/shortTrails/historicalCenter/2.jpg",
-        "imgUrl3": "img/shortTrails/historicalCenter/3.jpg"
+        "imgUrl1": "/casaPetri/img/hiking/shortTrails/historicalCenter/1.jpg",
+        "imgUrl2": "/casaPetri/img/hiking/shortTrails/historicalCenter/2.jpg",
+        "imgUrl3": "/casaPetri/img/hiking/shortTrails/historicalCenter/3.jpg"
     }
 
 ]

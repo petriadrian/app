@@ -5,40 +5,58 @@
     "details": "Va recomandam sa incepti aventura in Rosia Montana cu Galeriile Romane intrucat fac parte din Muzeul Mineritului iar acesta este deschis doar de dimineata. Accesul se face <b>insotit de un ghid al Muzeului</b> si dureaza cam 1 ora si 30 de minute. Patrunde-ti in adancul muntiilor si descoperiti galeriile antice realizate in perioada ocupatiei romane in Dacia pentru a extrage aurul. Nu ratati si exponatele din muzeu ca de exemplu Steampurile. Aflati ce sunt aceste masinarii si cum functionau ele (o sa ne ajute pe traseu). Drumul de la Casa Petri la Muzeu este asfaltat, deci daca doriti puteti lua si masina pana la el si inapoi iar apoi sa continuati restul traseului pe jos.",
     "moreDetailsLink": "http://www.alba.djc.ro/ObiectiveDetalii.aspx?ID=2184",
     "moreDetailsTitle": "Mai multe detalii despre muzeu aici.",
-    "img1Title": "Galeriile Romane",
-    "img1Detail": "Sectiunea cu subteranul prezinta o retea de galerii miniere realizate in adancul masivul Orlea, cu dalta si ciocanul.",
-    "img1Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/romanGalleries/thumbnail/1.jpg",
-    "img1FullSize": "/casaPetri/img/hiking/trails/topAttractions/romanGalleries/fullSize/1.jpg",
-    "img2Title": "Galeriile Romane",
-    "img2Detail": "Pentru a le vizita se coboara 157 de trepte in subteran.",
-    "img2Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/romanGalleries/thumbnail/2.jpg",
-    "img2FullSize": "/casaPetri/img/hiking/trails/topAttractions/romanGalleries/fullSize/2.jpg"
+    "images": [
+      {
+        "imgTitle": "Galeriile Romane",
+        "imgDetail": "Sectiunea cu subteranul prezinta o retea de galerii miniere realizate in adancul masivul Orlea, cu dalta si ciocanul.",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/romanGalleries/thumbnail/1.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/romanGalleries/fullSize/1.jpg"
+      },
+      {
+        "imgTitle": "Galeriile Romane",
+        "imgDetail": "Pentru a le vizita se coboara 157 de trepte in subteran.",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/romanGalleries/thumbnail/2.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/romanGalleries/fullSize/2.jpg"
+      }
+    ]
   },
   {
     "title": "Băncuța Panoramică(Berg)",
     "anchorId": "panoramicBench",
     "details": "Dupa atata umblat pe munti si pe sub munti este momentul sa ajungeti in cel mai romantic punct din Rosia Montana: Bancuta panoramica. In fata voastra aveti masivul Carnic, care adaposteste in interiorul lui peste 150km de galerii antice unice in lume asemenea celor care le-ati vazut la muzeu dar si vreo 200 de tone de aur dupa care ravnesc atatia... La poalele lui se intinde centrul istoric al Rosiei Montane.",
-    "img1Title": "Bancuta Panoramica",
-    "img1Detail": "Pe timp de iarna aici este la fel de frumos. De aici se vede turla Bisericii Catolice",
-    "img1Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/panoramicBench/thumbnail/1.jpg",
-    "img1FullSize": "/casaPetri/img/hiking/trails/topAttractions/panoramicBench/fullSize/1.jpg",
-    "img2Title": "Bancuta Panoramica - vedere spre Cârnic",
-    "img2Detail": "Este cam la 5min de Casa Petri si va recomandam sa va intoarceti si noaptea pentru a admira cerul instelat",
-    "img2Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/panoramicBench/thumbnail/2.jpg",
-    "img2FullSize": "/casaPetri/img/hiking/trails/topAttractions/panoramicBench/fullSize/2.jpg"
+    "images": [
+      {
+        "imgTitle": "Bancuta Panoramica",
+        "imgDetail": "Pe timp de iarna aici este la fel de frumos. De aici se vede turla Bisericii Catolice",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/panoramicBench/thumbnail/1.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/panoramicBench/fullSize/1.jpg"
+      },
+      {
+        "imgTitle": "Bancuta Panoramica - vedere spre Cârnic",
+        "imgDetail": "Este cam la 5min de Casa Petri si va recomandam sa va intoarceti si noaptea pentru a admira cerul instelat",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/panoramicBench/thumbnail/2.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/panoramicBench/fullSize/2.jpg"
+      }
+    ]
   },
   {
     "title": "Biserica Romano-Catolica",
     "anchorId": "romanCatholicChurch",
     "details": "Dupa atata zaboveala ne intoarcem spre centrul istoric la Biserica Romano-Catolica. Asezarea ei deasupra satului fac ca turla ei cu ceas sa fie vizibila din tot satul si sunetul clopotelor ei se pot auzi de la orice casa din sat. Am auzit de la bunici ca mormantul chiar din fata bisericii cu marmura neagra esta a celui care a finantat constructia bisericii. Legenda spune ca in timp ce acesta cauta aur pe galerii s-a intalnit cu valva baii si a facut un pact cu aceasta referitor la aceasta biserica. Nu va spunem mai mult ... veniti la Rosia si intrebati vreun localnic pentru a afla mai mult.",
-    "img1Title": "Biserica Romano-Catolica",
-    "img1Detail": "Slujbele au loc in prima duminica din luna. La sfarsitul fiecarei slujbe se canta la orga din interiorul ei",
-    "img1Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/romanCatholicChurch/thumbnail/1.jpg",
-    "img1FullSize": "/casaPetri/img/hiking/trails/topAttractions/romanCatholicChurch/fullSize/1.jpg",
-    "img2Title": "Biserica Romano-Catolica",
-    "img2Detail": " Slujba de inviere: Satenii aduc intr-un cos mancare pentru a fii sfintita iar mormantul mantuitorului din interiorul bisericii este pazit intreaga zi de 7 garzi, iar la ora 00:00 in momentul invierii acestia elibereaza intrarea.",
-    "img2Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/romanCatholicChurch/thumbnail/2.jpg",
-    "img2FullSize": "/casaPetri/img/hiking/trails/topAttractions/romanCatholicChurch/fullSize/2.jpg"
+    "images": [
+      {
+        "imgTitle": "Biserica Romano-Catolica",
+        "imgDetail": "Slujbele au loc in prima duminica din luna. La sfarsitul fiecarei slujbe se canta la orga din interiorul ei",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/churches/romanCatholicChurch/thumbnail/1.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/churches/romanCatholicChurch/fullSize/1.jpg"
+      },
+      {
+        "imgTitle": "Biserica Romano-Catolica",
+        "imgDetail": " Slujba de inviere: Satenii aduc intr-un cos mancare pentru a fii sfintita iar mormantul mantuitorului din interiorul bisericii este pazit intreaga zi de 7 garzi, iar la ora 00:00 in momentul invierii acestia elibereaza intrarea.",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/churches/romanCatholicChurch/thumbnail/2.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/churches/romanCatholicChurch/fullSize/2.jpg"
+      }
+    ]
   },
   {
     "title": "Biserica Unitariana",
@@ -46,53 +64,77 @@
     "moreDetailsLink": "http://www.adoptaocasa.ro/case/biserica-unitariana",
     "moreDetailsTitle": "Mai multe detalii aici.",
     "details": "\"Amplasat pe culmea unui mic deal, in zona centrala a asezarii, edificiul domina ansamblul Pieatei centrale si iradiaza asupra organizarii spaatiale a intregii zone, afirmandu-se ca element de valoare al structurii urbane.\" La casa parohiala a bisericii se desfasoara in fiecare an tabere de restaurare a monumentelor de patrimoniu din localitate.",
-    "img1Title": "Biserica Unitariana",
-    "img1Detail": "Slujbele au loc in fiecare duminica . Preotul de aici, domnul Arpi este unul dintre cei mai apreciati din zona. Se organizeaza chiar si excursii din Cluj la slujbele lui.",
-    "img1Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/unitarianChurch/thumbnail/1.jpg",
-    "img1FullSize": "/casaPetri/img/hiking/trails/topAttractions/unitarianChurch/fullSize/1.jpg",
-    "img2Title": "Biserica Unitariana",
-    "img2Detail": "Preotul sustine dezvoltarea turistica a zonei de aceea ii lasa aici pe cei care doresec sa tina diverse evenimente culturale. Interesati-va daca nu e un astfel de eveniment cand ajungeti pe aici.",
-    "img2Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/unitarianChurch/thumbnail/2.jpg",
-    "img2FullSize": "/casaPetri/img/hiking/trails/topAttractions/unitarianChurch/fullSize/2.jpg"
+    "images": [
+      {
+        "imgTitle": "Biserica Unitariana",
+        "imgDetail": "Slujbele au loc in fiecare duminica . Preotul de aici, domnul Arpi este unul dintre cei mai apreciati din zona. Se organizeaza chiar si excursii din Cluj la slujbele lui.",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/churches/unitarianChurch/thumbnail/1.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/churches/unitarianChurch/fullSize/1.jpg"
+      },
+      {
+        "imgTitle": "Biserica Unitariana",
+        "imgDetail": "Preotul sustine dezvoltarea turistica a zonei de aceea ii lasa aici pe cei care doresec sa tina diverse evenimente culturale. Interesati-va daca nu e un astfel de eveniment cand ajungeti pe aici.",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/churches/unitarianChurch/thumbnail/2.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/churches/unitarianChurch/fullSize/2.jpg"
+      }
+    ]
   },
   {
     "title": "Galeria si Varful Vaidoaia",
     "anchorId": "vaidoaiaGalleries",
     "details": "De aici incepe partea mai de munte a traseului pentru ca o sa aveti de urcat pe pietre spre galerie. Galeria este diferita fata de cea vazuta la muzeu si pare mai degraba o pestera. Dar urmele de sapaturi pe locul filoanelor de aur de pe peretii acesteia o sa va convinga ca a fost creeata de stramosii nostri in cautarea aurului. Apoi urcati pe varful masivului din care face parte galeria si bucarati-va de privelistea spre taul brazi, Carnic si intreaga vale a Rosiei Montane",
-    "img1Title": "Galeria Vaidoaia",
-    "img1Detail": "Parca aici e inima Rosiei Montane. Priviti rocile din jur si o sa intelegeti de unde vine numele localitatii.",
-    "img1Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/vaidoaiaGalleries/thumbnail/1.jpg",
-    "img1FullSize": "/casaPetri/img/hiking/trails/topAttractions/vaidoaiaGalleries/fullSize/1.jpg",
-    "img2Title": "Varful Jig-Vaidoaia - vedere spre centrul istoric",
-    "img2Detail": " masivul din care face parte galeria Vaidoaia.",
-    "img2Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/vaidoaiaGalleries/thumbnail/2.jpg",
-    "img2FullSize": "/casaPetri/img/hiking/trails/topAttractions/vaidoaiaGalleries/fullSize/2.jpg"
+    "images": [
+      {
+        "imgTitle": "Galeria Vaidoaia",
+        "imgDetail": "Parca aici e inima Rosiei Montane. Priviti rocile din jur si o sa intelegeti de unde vine numele localitatii.",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/vaidoaiaGalleries/thumbnail/1.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/vaidoaiaGalleries/fullSize/1.jpg"
+      },
+      {
+        "imgTitle": "Varful Jig-Vaidoaia - vedere spre centrul istoric",
+        "imgDetail": " masivul din care face parte galeria Vaidoaia.",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/vaidoaiaGalleries/thumbnail/2.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/vaidoaiaGalleries/fullSize/2.jpg"
+      }
+    ]
   },
   {
     "title": "Taul Brazi",
     "anchorId": "braziLake",
     "details": "Taurile din Rosia sunt lacuri artificiale creeate pentru a acumula apa de pe dealuri. Paraurile din zona erau alimentate de aceste lacuri si astfel se actionau morile steampurilor care macinau aurul. Daca ati fost atent la vizita din muzeul mineritului cu siguranta o sa va amintiti cum arata si cum functionau steampurile. In total exista 7 tauri dar Taul brazi este cel mai pitoresc si mai usor accesibil. Chiar deasupra Taului Brazi se afla Taul Anghel numit in zona si Taul fara fund.",
-    "img1Title": "Taul Brazi",
-    "img1Detail": "Casuta de la coada lacului este a unui pictor care s-a mutat aici pentru a folosi privelistea drept sursa de inspiratie pentru operele sale. ",
-    "img1Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/braziLake/thumbnail/1.jpg",
-    "img1FullSize": "/casaPetri/img/hiking/trails/topAttractions/braziLake/fullSize/1.jpg",
-    "img2Title": "Taul Brazi",
-    "img2Detail": "Aici se afla si o zona de agreement cu bancute si barcute si spatiu pentru facut gratare. Va lasam pe voi sa le descoperiti.",
-    "img2Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/braziLake/thumbnail/2.jpg",
-    "img2FullSize": "/casaPetri/img/hiking/trails/topAttractions/braziLake/fullSize/2.jpg"
+    "images": [
+      {
+        "imgTitle": "Taul Brazi",
+        "imgDetail": "Casuta de la coada lacului este a unui pictor care s-a mutat aici pentru a folosi privelistea drept sursa de inspiratie pentru operele sale. ",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/lakes/braziLake/thumbnail/1.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/lakes/braziLake/fullSize/1.jpg"
+      },
+      {
+        "imgTitle": "Taul Brazi",
+        "imgDetail": "Aici se afla si o zona de agreement cu bancute si barcute si spatiu pentru facut gratare. Va lasam pe voi sa le descoperiti.",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/lakes/braziLake/thumbnail/2.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/lakes/braziLake/fullSize/2.jpg"
+      }
+    ]
   },
   {
     "title": "Platoul Carnic",
     "anchorId": "carnicPlateau",
     "details": "In imediata apropiere a Taului Brazi se afla Platoul Carnic. Este o mica terasa pe masivului Carnic care ofera o priveliste deosebita spre centrul vechi, Masivul Jig-Vaidoaia si Tarina. De aici puteti prinde cel mai frumos apus asupra acestor meleaguri.",
-    "img1Title": "Platoul Carnic - vedere spre Masivul Vaidoaia",
-    "img1Detail": "Chiar ne place Rosia Montana pe timp de iarna. Pe varful dealului apare statia meteo din Rosia Montana",
-    "img1Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/carnicPlateau/thumbnail/1.jpg",
-    "img1FullSize": "/casaPetri/img/hiking/trails/topAttractions/carnicPlateau/fullSize/1.jpg",
-    "img2Title": "Platoul Carnic  - vedere spre centrul istoric",
-    "img2Detail": "In centru apar Biserica unitariana si cea reformata. De veniti iarna nu uitati sa va luati saniuta, aici gasiti multe derdelusuri si copii cu sanii cu care sa va luati la intrecere.",
-    "img2Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/carnicPlateau/thumbnail/2.jpg",
-    "img2FullSize": "/casaPetri/img/hiking/trails/topAttractions/carnicPlateau/fullSize/2.jpg"
+    "images": [
+      {
+        "imgTitle": "Platoul Carnic - vedere spre Masivul Vaidoaia",
+        "imgDetail": "Chiar ne place Rosia Montana pe timp de iarna. Pe varful dealului apare statia meteo din Rosia Montana",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/carnic/carnicPlateau/thumbnail/1.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/carnic/carnicPlateau/fullSize/1.jpg"
+      },
+      {
+        "imgTitle": "Platoul Carnic  - vedere spre centrul istoric",
+        "imgDetail": "In centru apar Biserica unitariana si cea reformata. De veniti iarna nu uitati sa va luati saniuta, aici gasiti multe derdelusuri si copii cu sanii cu care sa va luati la intrecere.",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/carnic/carnicPlateau/thumbnail/2.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/carnic/carnicPlateau/fullSize/2.jpg"
+      }
+    ]
   },
   {
     "title": "Sfinxul Carnic",
@@ -100,14 +142,20 @@
     "details": "Drumul pana aici va va purta printr-o padure de brazi si molizi. Bucurati-va de aerul proaspat. De aveti timp puteti sa va aventurati in padure pentru a gasi ciuperci, zmeura, mure sau fragute. Odata ajunsi pe culmea Carnicului la Sfinx o sa va aflati pe cel mai inalt punct din Rosia Montana. In fata aveti toata localitatea Rosia Montana iar in spate puteti vedea  Cariera Cetate. Numele de Cetate vine de la faptul ca aici era intradevar o cetate sapata in munti cu dalta si nicovala de daci si romani. Insa pe vremea comunismului s-a decis ca e mult mai important sa o distruga si sa faca exploatare de aur de suprafata.",
     "moreDetailsLink": "http://adevarul.ro/locale/alba-iulia/foto-distrugerea-curtilor-aur-cele-mai-frumoase-mai-reprezentative-lucrari-miniere-romania-vremea-dacilor-romanilor-1_5607ae00f5eaafab2c0c02e2/index.html",
     "moreDetailsTitle": "Mai multe detalii aici.",
-    "img1Title": "Sfinxul Carnic",
-    "img1Detail": "Sfinxul este o stanca inalta sub forma de cal cu o cruce in varf. Aceasta cruce a fost pusa aici de baiesi(mineri) pentru a fi calauziti pe mina cand mergeau sa caute aur.",
-    "img1Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/carnicSfinx/thumbnail/1.jpg",
-    "img1FullSize": "/casaPetri/img/hiking/trails/topAttractions/carnicSfinx/fullSize/1.jpg",
-    "img2Title": "Sfinxul Carnic - vedere spre Cariera Cetate",
-    "img2Detail": "Așa arată treptele desertice de cariera.Asta rămâne în urma exploatărilor de aur de suprafață. Întoarceți-vă 360 de grade si incercati sa va imaginati ca daca ar incepe o exploatare aici toata zona din jurul vostru ar arata asa. ",
-    "img2Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/carnicSfinx/thumbnail/2.jpg",
-    "img2FullSize": "/casaPetri/img/hiking/trails/topAttractions/carnicSfinx/fullSize/2.jpg"
+    "images": [
+      {
+        "imgTitle": "Sfinxul Carnic",
+        "imgDetail": "Sfinxul este o stanca inalta sub forma de cal cu o cruce in varf. Aceasta cruce a fost pusa aici de baiesi(mineri) pentru a fi calauziti pe mina cand mergeau sa caute aur.",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/carnic/carnicSfinx/thumbnail/1.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/carnic/carnicSfinx/fullSize/1.jpg"
+      },
+      {
+        "imgTitle": "Sfinxul Carnic - vedere spre Cariera Cetate",
+        "imgDetail": "Așa arată treptele desertice de cariera.Asta rămâne în urma exploatărilor de aur de suprafață. Întoarceți-vă 360 de grade si incercati sa va imaginati ca daca ar incepe o exploatare aici toata zona din jurul vostru ar arata asa. ",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/carnic/carnicSfinx/thumbnail/2.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/carnic/carnicSfinx/fullSize/2.jpg"
+      }
+    ]
   },
   {
     "title": "Piatra Corbului",
@@ -115,14 +163,20 @@
     "details": "De la Sfinx luati-o pe unde ati venit tot inainte pe culmea muntelui pana ajungeti la capatul potecii. Aici va aflati pe Piatra Corbului, rezervatie naturala protejata. Taul din fata este Taul Cornii iar la dreapta se vede satul Corna si intreaga vale a cornei. Pe toata aceasta vale ar fi urmat sa fie cel mai mare lac de cianura din Europa in cazul deschiderii unei exploatari. Pentru a va asigura ca acest lucru nu se va intampla nici pe viitor",
     "moreDetailsLink": "https://www.facebook.com/rosia.montana.in.unesco",
     "moreDetailsTitle": " sustineti intrarea Rosiei Montane in situl Unesco printr-un like pe aceasta pagina. Asa puteti urmari si participa la actiunile propuse pentru atingerea acestui scop.",
-    "img1Title": "Piatra Corbului",
-    "img1Detail": " Numele ii vine de la forma ei de cap de corb asa cum se vede din vale",
-    "img1Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/ravenStone/thumbnail/1.jpg",
-    "img1FullSize": "/casaPetri/img/hiking/trails/topAttractions/ravenStone/fullSize/1.jpg",
-    "img2Title": "Piatra Corbului - vedere spre Valea Cornei",
-    "img2Detail": "Pe suprafata intregii acestei depresiuni ar fi urmat sa fie cel mai mare lac de cianura din Europa. Bucurati-va de ea asa verde cum e acum :)",
-    "img2Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/ravenStone/thumbnail/2.jpg",
-    "img2FullSize": "/casaPetri/img/hiking/trails/topAttractions/ravenStone/fullSize/2.jpg"
+    "images": [
+      {
+        "imgTitle": "Piatra Corbului",
+        "imgDetail": " Numele ii vine de la forma ei de cap de corb asa cum se vede din vale",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/carnic/ravenStone/thumbnail/1.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/carnic/ravenStone/fullSize/1.jpg"
+      },
+      {
+        "imgTitle": "Piatra Corbului - vedere spre Valea Cornei",
+        "imgDetail": "Pe suprafata intregii acestei depresiuni ar fi urmat sa fie cel mai mare lac de cianura din Europa. Bucurati-va de ea asa verde cum e acum :)",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/carnic/ravenStone/thumbnail/2.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/carnic/ravenStone/fullSize/2.jpg"
+      }
+    ]
   },
   {
     "title": "Simpozion Sculpturi",
@@ -130,14 +184,19 @@
     "details": "La intoarcere va recomandam sa o luati spre Sculpturile din calcar. Dupa atata traseu ve-ti fii obositi si chiar langa sculpturi se afla 2 ferme unde puteti intreba de o masa traditionala. Dupa acest popas ne reintoarcem la Casa Petri care se afla cam la 20 de minute. \"AISS au organizat aici <b>primul Simpozion Internaational de Sculptura Monumentala din Romania</b>. Trei artisti romani si sase artisti invitati din Argentina, Canada, Egipt, Franata, Olanda si Japonia au constituit o echipa care a reprezentat toate continentele si care a lucrat timp de o luna intr-un spirit de prietenie si de emulaatie artistica. Simpozionul s-a desfasurat la Rosia Montana, localitate care deatine un trecut prestigios, fiind in acelasi timp si unul dintre primele situri locuite datate din atara. Sculpturile monumentale in piatra realizate in cadrul simpozionului au fost donate patrimoniului Rosia Montana\"",
     "moreDetailsLink": "http://www.simpozionrosiamontana.org/Catalogue_Rosia_Montana.pdf",
     "moreDetailsTitle": "Mai multe detalii aici.",
-    "img1Title": "PORTA FELICE",
-    "img1Detail": "Hideto YADA | Japonia | Universitatea din Osaka si Tama | Sculptura din calcar de Vistea marcat cu foita de aur",
-    "img1Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/sculpture/thumbnail/3.jpg",
-    "img1FullSize": "/casaPetri/img/hiking/trails/topAttractions/sculpture/fullSize/3.jpg",
-    "img2Title": "DOOR",
-    "img2Detail": "Ehab ELLABAN | Egipt | Academia de Arte Zamalek, Cairo | Sculptura din calcar de Vistea",
-    "img2Thumbnail": "/casaPetri/img/hiking/trails/topAttractions/sculpture/thumbnail/4.jpg",
-    "img2FullSize": "/casaPetri/img/hiking/trails/topAttractions/sculpture/fullSize/4.jpg"
+    "images": [
+      {
+        "imgTitle": "PORTA FELICE",
+        "imgDetail": "Hideto YADA | Japonia | Universitatea din Osaka si Tama | Sculptura din calcar de Vistea marcat cu foita de aur",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/sculpture/thumbnail/3.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/sculpture/fullSize/3.jpg"
+      },
+      {
+        "imgTitle": "DOOR",
+        "imgDetail": "Ehab ELLABAN | Egipt | Academia de Arte Zamalek, Cairo | Sculptura din calcar de Vistea",
+        "imgThumbnail": "/casaPetri/img/hiking/attractions/sculpture/thumbnail/4.jpg",
+        "imgFullSize": "/casaPetri/img/hiking/attractions/sculpture/fullSize/4.jpg"
+      }
+    ]
   }
-
 ]

@@ -1,11 +1,5 @@
 @CHARSET "UTF-8";
 
-/* 	Color Legend
-	background gray: #151F1D #202020
-	text color: #2c2c2c
-	picture dimensions 560x310px
-  */
-
 a, u {
     text-decoration: none;
     color: #151F1D;
@@ -412,13 +406,6 @@ footer .form-control{
     margin: 0px;
 }
 
-.businessCard:HOVER,
-.businessCard:FOCUS {
-    text-decoration: none;
-    cursor: pointer;
-    color: #157f15;
-}
-
 .btn-primary,
 .btn-primary:FOCUS {
     background-color: #151F1D;
@@ -616,4 +603,3 @@ footer .form-control{
         background-size: 150%;
     }
 }
-
