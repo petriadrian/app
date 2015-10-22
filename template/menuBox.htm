@@ -2,9 +2,11 @@
     <article class="carouselHomePage defaultClickEvents" title="${title}" onclick="${destinationPageLink};">
         <div class="carouselContent">
             <ul class="carouselPanes">
-                <li><img src="${imgUrl1}"></li>
-                <li><img src="${imgUrl2}"></li>
-                <li><img src="${imgUrl3}"></li>
+                {{if carouselImages}}
+                    {{each carouselImages}}
+                        <li><img src="${$value.carouselImgUrl}"></li>
+                    {{/each}}
+                {{/if}}
             </ul>
             <div class="carouselText">
                 <p class="carouselTitle">${title}</p>

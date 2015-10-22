@@ -9,14 +9,14 @@
       {
         "imgTitle": "Mocanita prin satul Cristea",
         "imgDetail": "",
-        "imgThumbnail": "/casaPetri/img/recommendations/steamTrain/thumbnail/1.jpg",
-        "imgFullSize": "/casaPetri/img/recommendations/steamTrain/fullSize/1.jpg"
+        "imgThumbnailUrl": "/casaPetri/img/recommendations/steamTrain/thumbnail/1.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/recommendations/steamTrain/fullSize/1.jpg"
       },
       {
         "imgTitle": "Mocanita",
         "imgDetail": "",
-        "imgThumbnail": "/casaPetri/img/recommendations/steamTrain/thumbnail/2.jpg",
-        "imgFullSize": "/casaPetri/img/recommendations/steamTrain/fullSize/2.jpg"
+        "imgThumbnailUrl": "/casaPetri/img/recommendations/steamTrain/thumbnail/2.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/recommendations/steamTrain/fullSize/2.jpg"
       }
     ]
   }

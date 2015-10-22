@@ -1,13 +1,14 @@
 <script id="photoAlbumBoxTemplateId" type="text/x-jQuery-tmpl">
     <figure class="photoAlbum defaultClickEvents">
-        <a rel="fancybox" title="${imgTitle} - ${imgDetail}" class="fancybox" href="${imgFullSize}">
-            <img src="${imgThumbnail}" alt="${title}">
+        <a rel="fancybox" title="${imgTitle} - ${imgDetail}" class="fancybox" href="${imgFullSizeUrl}">
+            <img src="${imgThumbnailUrl}" alt="${title}">
             <figcaption><b> ${imgTitle} </b> - ${imgDetail}</figcaption>
         </a>
     </figure>
 </script>
 
 <!-- all the bellow templates are depended of the first template-->
+
 <script id="articleWithImgAndTextTemplateId" type="text/x-jQuery-tmpl">
     <article class="defaultArticle anchorParent">
         {{if anchorId}}
@@ -48,77 +49,56 @@
             <button class="btn btn-large btn-primary" onclick="toggleReservationForm(this)">${bookingText} ${title} &nbsp&nbsp<i class="showHideForm fa fa-caret-down"></i> </button>
             <div class="reservationForm">
             <form method="post">
-                <input type="hidden" name="roomName" value="${title}">
+                <input type="hidden" name="reservation" value="${title}">
                 <div class="input-group">
                     <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                    <input id="nameReservation" type="text" class="form-control" placeholder="${nameBox}" required="required">
+                    <input id="nameReservation" type="text" class="form-control" name="${nameBox}" placeholder="${nameBox}" required="required">
                 </div>
                 <div class="input-group">
                     <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                    <input type="email" id="emailReservation" class="form-control" placeholder="Email" required="required">
+                    <input type="email" id="emailReservation" class="form-control" name="Email" placeholder="Email" required="required">
                 </div>
                 <div class="input-group">
                     <span class="input-group-addon"><i class="fa fa-phone"></i></span>
-                    <input type="tel" id="phoneReservation" class="form-control" placeholder="${phoneBox}" required="required">
+                    <input type="tel" id="phoneReservation" class="form-control" name="${phoneBox}" placeholder="${phoneBox}" required="required">
                 </div>
                 <div class="input-group">
                     <span class="input-group-addon"><i class="fa fa-calendar"></i></span>
                     <input type="text" name="dataRange"
                            class="form-control" required="required"/>
                 </div>
-                {{if roomSeatsAndPriceBox}}
+                {{each(i, roomSeatsAndPrice) roomSeatsAndPriceBox}}
                     <div class="input_fields_wrap">
                         <div class="input-group">
                             <span class="input-group-addon"><i class="fa fa-bed"></i></span>
-                            <select class="form-control" id="roomsTypeReservation" required="required">
-                                <option value="" disabled selected style='display:none;'>${roomSeatsAndPriceBox}</option>
-                                {{each roomSeatsOptions}}
-                                    <option value="${$value.option}">${$value.option}</option>
+                            <select class="form-control" id="roomsTypeReservation" required="required" name="${roomSeatsAndPrice.title}">
+                                <option disabled selected style='display:none;'>${roomSeatsAndPrice.title}</option>
+                                {{each(j, roomSeatsOption) roomSeatsOptions}}
+                                    <option value="${roomSeatsOption.option}">${roomSeatsOption.option}</option>
                                 {{/each}}
                             </select>
                         </div>
                     </div>
-                {{/if}}
-                {{if campingNumberOfPersonsText}}
+                {{/each}}
+                {{each(i, campingSeatsBox) campingSeatsBoxes}}
                     <div class="input_fields_wrap">
                         <div class="input-group">
-                            <span class="input-group-addon"><i class="fa fa-male"></i></span>
-                            <input type="number" name="persons" placeholder="${campingNumberOfPersonsText}" max="${campingMaxNumberOfPersons}" min="1"
-                                   class="form-control" required="required"/>
+                            <span class="input-group-addon"><i class="${campingSeatsBox.boxFontAwesomeIconClass}"></i></span>
+                            <input type="number" class="form-control" required="required"
+                                    name="${campingSeatsBox.boxTitle}" placeholder="${campingSeatsBox.boxTitle}" max="${campingSeatsBox.boxMaxLimit}" min="1"/>
                         </div>
                     </div>
-                {{/if}}
-                {{if campingNumberOfTentsText}}
-                    <div class="input_fields_wrap">
-                        <div class="input-group">
-                            <span class="input-group-addon"><i class="fa fa-chevron-up"></i></span>
-                            <input type="number" name="persons" placeholder="${campingNumberOfTentsText}" max="${campingMaxNumberOfTents}" min="1"
-                                   class="form-control" required="required"/>
-                        </div>
-                    </div>
-                {{/if}}
-                {{if requirementsSection}}
-                    <p>${requirementsSection}</p>
-                    {{if twinBedsCheckbox}}
-                        <label class="checkbox-inline"><input type="checkbox" value="${twinBedsCheckbox}">${twinBedsCheckbox}</label>
-                    {{/if}}
-                    {{if parkingCheckbox}}
-                        <label class="checkbox-inline"><input type="checkbox" value="${parkingCheckbox}">${parkingCheckbox}</label>
-                    {{/if}}
-                    {{if kitchenCheckbox}}
-                        <label class="checkbox-inline"><input type="checkbox" value="${kitchenCheckbox}">${kitchenCheckbox}</label>
-                    {{/if}}
-                    {{if bikeGarageCheckbox}}
-                        <label class="checkbox-inline"><input type="checkbox" value="${bikeGarageCheckbox}">${bikeGarageCheckbox}</label>
-                    {{/if}}
-                    {{if projectorScreenCheckbox}}
-                        <label class="checkbox-inline"><input type="checkbox" value="${projectorScreenCheckbox}">${projectorScreenCheckbox}</label>
-                    {{/if}}
-                {{/if}}
+                {{/each}}
+                {{each(i, requirementSection) requirementsSection}}
+                    <p>${requirementSection.title}</p>
+                    {{each(j, requirementCheckbox) requirementsCheckboxes}}
+                         <label class="checkbox-inline"><input type="checkbox" name="${requirementSection.title}" value="${requirementCheckbox.requirement}">${requirementCheckbox.requirement}</label>
+                    {{/each}}
+                {{/each}}
                 {{if othersBox}}
                     <div class="input-group">
                         <span class="input-group-addon"><i class="fa fa-info"></i></span>
-                        <textarea form="roomReservation" id="othersReservation" class="form-control" placeholder="${othersBox}"></textarea>
+                        <textarea form="roomReservation" id="othersReservation" class="form-control" name="${othersBox}" placeholder="${othersBox}"></textarea>
                     </div>
                 {{/if}}
                 <input type="submit" value="${bookingText}" class="btn btn-primary submitButton">

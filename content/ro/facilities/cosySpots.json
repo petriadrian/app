@@ -2,44 +2,44 @@
   {
     "imgTitle": "Căsuța de vară",
     "imgDetail": "Poate ploua si nu poti sta afara. Aici puteti lua masa, urmari un film sau sa jucati un board game. Ai jucat vreodata Saboteour in localitate cu peste 150km de galerii subterane? Poate nu e ca si cataratul pe munte dar e o senzatie si asta...",
-    "imgThumbnail": "/casaPetri/img/facilities/cosySpots/thumbnail/livingroom.jpg",
-    "imgFullSize": "/casaPetri/img/facilities/cosySpots/fullSize/livingroom.jpg"
+    "imgThumbnailUrl": "/casaPetri/img/facilities/cosySpots/thumbnail/livingroom.jpg",
+    "imgFullSizeUrl": "/casaPetri/img/facilities/cosySpots/fullSize/livingroom.jpg"
   },
   {
     "imgTitle": "Măsuța de cafea din târnațd",
     "imgDetail": "Tarnatul e specific caselor din zona, e un hol cu gemulete mici de lemn. Bunicii nostrii obisnuiau de dimineata sa isi bea cafeaua aici si sa lase putin geamul crapat pentru a intra aer curat ca sa se trezeasca usor",
-    "imgThumbnail": "/casaPetri/img/facilities/cosySpots/thumbnail/coffeeTable.jpg",
-    "imgFullSize": "/casaPetri/img/facilities/cosySpots/fullSize/coffeeTable.jpg"
+    "imgThumbnailUrl": "/casaPetri/img/facilities/cosySpots/thumbnail/coffeeTable.jpg",
+    "imgFullSizeUrl": "/casaPetri/img/facilities/cosySpots/fullSize/coffeeTable.jpg"
   },
   {
     "imgTitle": "Ușa cu cărțdi",
     "imgDetail": "Un locusor improvizat plin cu carti vechi. Daca iti place sa simti mirosul cartilor atunci cand citesti acesta e locul tau",
-    "imgThumbnail": "/casaPetri/img/facilities/cosySpots/thumbnail/doorBook.jpg",
-    "imgFullSize": "/casaPetri/img/facilities/cosySpots/fullSize/doorBook.jpg"
+    "imgThumbnailUrl": "/casaPetri/img/facilities/cosySpots/thumbnail/doorBook.jpg",
+    "imgFullSizeUrl": "/casaPetri/img/facilities/cosySpots/fullSize/doorBook.jpg"
   },
   {
     "imgTitle": "Locusoarele dintre cufarale cu reviste vechi",
     "imgDetail": "Ce tot vrei sa fii la curent cu stirile de actualitate?! Lasa ca faci asta la job ... Aici poti rasfoi carti, reviste, ziare vechi. Nu rata colectia de ziare cu Rosia Monatana",
-    "imgThumbnail": "/casaPetri/img/facilities/cosySpots/thumbnail/booksPlaces.jpg",
-    "imgFullSize": "/casaPetri/img/facilities/cosySpots/fullSize/booksPlaces.jpg"
+    "imgThumbnailUrl": "/casaPetri/img/facilities/cosySpots/thumbnail/booksPlaces.jpg",
+    "imgFullSizeUrl": "/casaPetri/img/facilities/cosySpots/fullSize/booksPlaces.jpg"
   },
   {
     "imgTitle": "Leneveala in hamac",
     "imgDetail": "Da ce are daca merg la munte si lenevesc intr-un hamac pe facebook? Daca tot am gasit free wifi ... ",
-    "imgThumbnail": "/casaPetri/img/facilities/cosySpots/thumbnail/hammock.jpg",
-    "imgFullSize": "/casaPetri/img/facilities/cosySpots/fullSize/hammock.jpg"
+    "imgThumbnailUrl": "/casaPetri/img/facilities/cosySpots/thumbnail/hammock.jpg",
+    "imgFullSizeUrl": "/casaPetri/img/facilities/cosySpots/fullSize/hammock.jpg"
   },
   {
     "imgTitle": "Masuta din foisor",
     "imgDetail": "Cu priveliste spre masivul Carnic, e numa buna de stat la povesti, inchinat pahare de tuica sau luat masa inainte de a pleca pe traseu",
-    "imgThumbnail": "/casaPetri/img/facilities/cosySpots/thumbnail/pavilion.jpg",
-    "imgFullSize": "/casaPetri/img/facilities/cosySpots/fullSize/pavilion.jpg"
+    "imgThumbnailUrl": "/casaPetri/img/facilities/cosySpots/thumbnail/pavilion.jpg",
+    "imgFullSizeUrl": "/casaPetri/img/facilities/cosySpots/fullSize/pavilion.jpg"
   },
   {
     "imgTitle": "Dulapul cu carti",
     "imgDetail": "Ca tot nu am mai folosit acest bufet de bucatarie am zis sa nu il aruncam ci sa il transformam in ceva. Cum aveam multe carti...a devenit biblioteca. Dulapiorul mic de langa este cu carti pentru copii.",
-    "imgThumbnail": "/casaPetri/img/facilities/cosySpots/thumbnail/booksCloset.jpg",
-    "imgFullSize": "/casaPetri/img/facilities/cosySpots/fullSize/booksCloset.jpg"
+    "imgThumbnailUrl": "/casaPetri/img/facilities/cosySpots/thumbnail/booksCloset.jpg",
+    "imgFullSizeUrl": "/casaPetri/img/facilities/cosySpots/fullSize/booksCloset.jpg"
   }
 
 ]
