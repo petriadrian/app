@@ -216,6 +216,12 @@ body {
     height: 150px;
 }
 
+.makeCarouselImgCircle .carousel-inner>.item>img{
+    border-radius: 50%;
+    width: 60%;
+    margin: auto;
+}
+
 .increaseCarouselBoxes .carouselHomePage {
     width: 320px;
     margin: 0px 20px;

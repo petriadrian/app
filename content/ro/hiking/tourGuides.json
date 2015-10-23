@@ -1,68 +1,22 @@
 [
   {
-    "title": "Centrul",
-    "details": "| 4h |Biserici, Cladiri patrimoniu, Taul Brazi",
+    "title": "Elena Claudia",
+    "details": "Locuieste in Roia Montana decand se stie si cunoaste fiecare coltisor al localitati. Contactati-o la numaru (004)0743444444",
     "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
     "carouselImages": [
       {
-        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/1.jpg"
-      },
-      {
-        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/2.jpg"
-      },
-      {
-        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/3.jpg"
+        "carouselImgUrl": "/casaPetri/img/hiking/tourGuides/1.jpg"
       }
     ],
     "carouselTimeInterval": "12000"
   },
   {
-    "title": "Muzeu",
+    "title": "Adriana Berindei",
     "details": "| 3h |Muzeul Mineritului, Biserica Greco-Catolica",
     "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
     "carouselImages": [
       {
         "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/1.jpg"
-      },
-      {
-        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/2.jpg"
-      },
-      {
-        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/3.jpg"
-      }
-    ],
-    "carouselTimeInterval": "12000"
-  },
-  {
-    "title": "Tarina",
-    "details": "| 4h |Bancuta Panoramica, Taul tarinii, Satul Tarina",
-    "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
-    "carouselImages": [
-      {
-        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/1.jpg"
-      },
-      {
-        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/2.jpg"
-      },
-      {
-        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/3.jpg"
-      }
-    ],
-    "carouselTimeInterval": "12000"
-  },
-  {
-    "title": "Vaidoaia",
-    "details": "| 6h |Galeria si masivul Vaidoaia, Taul Mare, Masivele Lety si Sulei",
-    "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
-    "carouselImages": [
-      {
-        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/1.jpg"
-      },
-      {
-        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/2.jpg"
-      },
-      {
-        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/3.jpg"
       }
     ],
     "carouselTimeInterval": "12000"
