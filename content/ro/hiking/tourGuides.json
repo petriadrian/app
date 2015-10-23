@@ -1,22 +1,11 @@
 [
   {
-    "title": "Elena Claudia",
-    "details": "Locuieste in Roia Montana decand se stie si cunoaste fiecare coltisor al localitati. Contactati-o la numaru (004)0743444444",
-    "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
+    "title": "(004)0740899578",
+    "details": "Rezervati la acest numar un tur ghidat. Ghizii sunt localnici din Roia Montana care cunoasc fiecare colt al localitati. Mai multe detalii aici...",
+    "destinationPageLink": "window.open('https://turismlarosiamontana.wordpress.com/about')",
     "carouselImages": [
       {
         "carouselImgUrl": "/casaPetri/img/hiking/tourGuides/1.jpg"
-      }
-    ],
-    "carouselTimeInterval": "12000"
-  },
-  {
-    "title": "Adriana Berindei",
-    "details": "| 3h |Muzeul Mineritului, Biserica Greco-Catolica",
-    "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
-    "carouselImages": [
-      {
-        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/1.jpg"
       }
     ],
     "carouselTimeInterval": "12000"

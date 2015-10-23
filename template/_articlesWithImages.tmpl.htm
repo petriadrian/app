@@ -18,9 +18,11 @@
             <h3><span>${title}</span></h3>
         </header>
         <section class="defaultArticleText">
-            {{html details}}
+            <span>
+                {{html details}}
+            </span>
             {{if moreDetailsLink}}
-                <a href="${moreDetailsLink}" class="btn-link" target="_blank">${moreDetailsTitle}</i></a>
+                <a href="${moreDetailsLink}" class="btn-link" target="_blank">${moreDetailsText}</i></a>
             {{/if}}
         </section>
         <section>

@@ -4,7 +4,7 @@
     "anchorId": "romanGalleries",
     "details": "Va recomandam sa incepti aventura in Rosia Montana cu Galeriile Romane intrucat fac parte din Muzeul Mineritului iar acesta este deschis doar de dimineata. Accesul se face <b>insotit de un ghid al Muzeului</b> si dureaza cam 1 ora si 30 de minute. Patrunde-ti in adancul muntiilor si descoperiti galeriile antice realizate in perioada ocupatiei romane in Dacia pentru a extrage aurul. Nu ratati si exponatele din muzeu ca de exemplu Steampurile. Aflati ce sunt aceste masinarii si cum functionau ele (o sa ne ajute pe traseu). Drumul de la Casa Petri la Muzeu este asfaltat, deci daca doriti puteti lua si masina pana la el si inapoi iar apoi sa continuati restul traseului pe jos.",
     "moreDetailsLink": "http://www.alba.djc.ro/ObiectiveDetalii.aspx?ID=2184",
-    "moreDetailsTitle": "Mai multe detalii despre muzeu aici.",
+    "moreDetailsText": "Mai multe detalii despre muzeu aici.",
     "images": [
       {
         "imgTitle": "Galeriile Romane",
@@ -62,7 +62,7 @@
     "title": "Biserica Unitariana",
     "anchorId": "unitarianChurch",
     "moreDetailsLink": "http://www.adoptaocasa.ro/case/biserica-unitariana",
-    "moreDetailsTitle": "Mai multe detalii aici.",
+    "moreDetailsText": "Mai multe detalii aici.",
     "details": "\"Amplasat pe culmea unui mic deal, in zona centrala a asezarii, edificiul domina ansamblul Pieatei centrale si iradiaza asupra organizarii spaatiale a intregii zone, afirmandu-se ca element de valoare al structurii urbane.\" La casa parohiala a bisericii se desfasoara in fiecare an tabere de restaurare a monumentelor de patrimoniu din localitate.",
     "images": [
       {
@@ -141,7 +141,7 @@
     "anchorId": "carnicSfinx",
     "details": "Drumul pana aici va va purta printr-o padure de brazi si molizi. Bucurati-va de aerul proaspat. De aveti timp puteti sa va aventurati in padure pentru a gasi ciuperci, zmeura, mure sau fragute. Odata ajunsi pe culmea Carnicului la Sfinx o sa va aflati pe cel mai inalt punct din Rosia Montana. In fata aveti toata localitatea Rosia Montana iar in spate puteti vedea  Cariera Cetate. Numele de Cetate vine de la faptul ca aici era intradevar o cetate sapata in munti cu dalta si nicovala de daci si romani. Insa pe vremea comunismului s-a decis ca e mult mai important sa o distruga si sa faca exploatare de aur de suprafata.",
     "moreDetailsLink": "http://adevarul.ro/locale/alba-iulia/foto-distrugerea-curtilor-aur-cele-mai-frumoase-mai-reprezentative-lucrari-miniere-romania-vremea-dacilor-romanilor-1_5607ae00f5eaafab2c0c02e2/index.html",
-    "moreDetailsTitle": "Mai multe detalii aici.",
+    "moreDetailsText": "Mai multe detalii aici.",
     "images": [
       {
         "imgTitle": "Sfinxul Carnic",
@@ -151,7 +151,7 @@
       },
       {
         "imgTitle": "Sfinxul Carnic - vedere spre Cariera Cetate",
-        "imgDetail": "Așa arată treptele desertice de cariera.Asta rămâne în urma exploatărilor de aur de suprafață. Întoarceți-vă 360 de grade si incercati sa va imaginati ca daca ar incepe o exploatare aici toata zona din jurul vostru ar arata asa. ",
+        "imgDetail": "Așa arată treptele desertice de cariera.Asta rămâne în urma exploatărilor de aur de suprafață. Întoarceți-vă 360 de grade imprejur si incercati sa va imaginati ca daca ar incepe o exploatare aici toata zona din jurul vostru ar arata asa. ",
         "imgThumbnailUrl": "/casaPetri/img/hiking/attractions/carnic/carnicSfinx/thumbnail/2.jpg",
         "imgFullSizeUrl": "/casaPetri/img/hiking/attractions/carnic/carnicSfinx/fullSize/2.jpg"
       }
@@ -162,7 +162,7 @@
     "anchorId": "ravenStone",
     "details": "De la Sfinx luati-o pe unde ati venit tot inainte pe culmea muntelui pana ajungeti la capatul potecii. Aici va aflati pe Piatra Corbului, rezervatie naturala protejata. Taul din fata este Taul Cornii iar la dreapta se vede satul Corna si intreaga vale a cornei. Pe toata aceasta vale ar fi urmat sa fie cel mai mare lac de cianura din Europa in cazul deschiderii unei exploatari. Pentru a va asigura ca acest lucru nu se va intampla nici pe viitor",
     "moreDetailsLink": "https://www.facebook.com/rosia.montana.in.unesco",
-    "moreDetailsTitle": " sustineti intrarea Rosiei Montane in situl Unesco printr-un like pe aceasta pagina. Asa puteti urmari si participa la actiunile propuse pentru atingerea acestui scop.",
+    "moreDetailsText": " sustineti intrarea Rosiei Montane in situl Unesco printr-un like pe aceasta pagina. Asa puteti urmari si participa la actiunile propuse pentru atingerea acestui scop.",
     "images": [
       {
         "imgTitle": "Piatra Corbului",
@@ -181,9 +181,9 @@
   {
     "title": "Simpozion Sculpturi",
     "anchorId": "sculptures",
-    "details": "La intoarcere va recomandam sa o luati spre Sculpturile din calcar. Dupa atata traseu ve-ti fii obositi si chiar langa sculpturi se afla 2 ferme unde puteti intreba de o masa traditionala. Dupa acest popas ne reintoarcem la Casa Petri care se afla cam la 20 de minute. \"AISS au organizat aici <b>primul Simpozion Internaational de Sculptura Monumentala din Romania</b>. Trei artisti romani si sase artisti invitati din Argentina, Canada, Egipt, Franata, Olanda si Japonia au constituit o echipa care a reprezentat toate continentele si care a lucrat timp de o luna intr-un spirit de prietenie si de emulaatie artistica. Simpozionul s-a desfasurat la Rosia Montana, localitate care deatine un trecut prestigios, fiind in acelasi timp si unul dintre primele situri locuite datate din atara. Sculpturile monumentale in piatra realizate in cadrul simpozionului au fost donate patrimoniului Rosia Montana\"",
+    "details": "La intoarcere va recomandam sa o luati spre Sculpturile din calcar. Dupa atata traseu ve-ti fii obositi si chiar langa sculpturi se afla 2 ferme unde puteti intreba de o masa traditionala. Dupa acest popas ne reintoarcem la Casa Petri care se afla cam la 20 de minute. \"Asociaţia Internaţională pentru Simpozioanele de Sculptură au organizat primul Simpozion Internaţional de Sculptură Monumentală din România. Trei artişti români şi şase artişti invitaţi din Argentina, Canada, Egipt, Franţa, Olanda şi Japonia au constituit o echipă care a reprezentat toate continentele şi care a lucrat timp de o lună într-un spirit de prietenie şi de emulaţie artistică. Simpozionul s-a desfăşurat la Roşia Montana, localitate care deţine un trecut prestigios, fiind în acelaşi timp şi unul dintre primele situri locuite datate din ţară. Sculpturile monumentale în piatră realizate în cadrul simpozionului sunt donate patrimoniului Roşia Montana\"",
     "moreDetailsLink": "http://www.simpozionrosiamontana.org/Catalogue_Rosia_Montana.pdf",
-    "moreDetailsTitle": "Mai multe detalii aici.",
+    "moreDetailsText": "Mai multe detalii aici.",
     "images": [
       {
         "imgTitle": "PORTA FELICE",

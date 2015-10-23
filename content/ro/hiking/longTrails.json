@@ -2,7 +2,7 @@
   {
     "title": "Principalele Obiective",
     "details": "| 8h |Biserici, Cladiri patrimoniu, Taul Brazi",
-    "destinationPageLink": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html?lang=ro'",
+    "destinationPageLink": "location.href='/casaPetri/pages/hiking/trails/topAttractions.html?lang=ro'",
     "carouselImages": [
       {
         "carouselImgUrl": "/casaPetri/img/hiking/longTrails/historicalCenter/1.jpg"

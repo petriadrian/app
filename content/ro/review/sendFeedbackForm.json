@@ -1,0 +1,20 @@
+[
+  {
+    "reviewPlaceholder": "* Cum te-ai simțit la noi?",
+    "sendButton": "Trimite",
+    "reviewUserDataBoxes": [
+      {
+        "boxPlaceholder": "* Email",
+        "boxRequired": "required"
+      },
+      {
+        "boxPlaceholder": "* Oraș",
+        "boxRequired": "required"
+      },
+      {
+        "boxPlaceholder": "Link-ul unei imagini",
+        "boxRequired": ""
+      }
+    ]
+  }
+]
