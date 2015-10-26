@@ -6,13 +6,8 @@
     {{/if}}
     <iframe class="trailMap" frameborder="0" src="${googleMapLink}" allowfullscreen></iframe>
     <div class="trailIndicators">
-        <p title="duration"><i class="fa fa-clock-o"></i> ${duration}</p>
-        <p title="length"><i class="fa fa-arrows-h"></i> ${length}</p>
-        {{if difficulty}}
-            <p title="difficulty"><i class="fa fa-line-chart"></i> ${difficulty}</p>
-        {{/if}}
-        {{if indications}}
-            <p title="indications"><i class="fa fa-check-square-o"></i> ${indications}</p>
-        {{/if}}
+        {{each(i, indicationBox) indicationsBoxes}}
+            <p title="${indicationBox.indicationHoverText}"><i class="${indicationBox.indicationIconFontAwesomeClass}"></i> ${indicationBox.indicationText}</p>
+        {{/each}}
     </div>
 </script>

@@ -1,12 +1,12 @@
 [
   {
-    "title": "Străbate Tara Motilor in Mocanita cu abur",
+    "title": "O poiană ca în povești. Narcisele de la Negrileasa",
     "details": "",
     "firstSectionTitleText": "Detalii",
     "firstSectionIconFontAwesomeClass": "fa fa-info-circle",
-    "secondSectionTitleText": "Cum ajung la mocanita?",
+    "secondSectionTitleText": "Cum ajung la Negrileasa?",
     "secondSectionIconFontAwesomeClass": "fa fa-map-signs",
     "destinationPageLink": "/casapetri/pages/recommendations/steamTrain.html",
-    "backgroundImgUrl": "/casapetri/img/recommendations/steamTrain/introBackground.png"
+    "backgroundImgUrl": "/casapetri/img/recommendations/negrileasa/introBackground.png"
   }
 ]

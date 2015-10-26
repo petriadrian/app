@@ -52,8 +52,8 @@
   },
   {
     "title": "Mocanita",
-    "details": "<b>| Iun-Sept |</b> Strabate calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur  | </b>~5km de noi",
-    "destinationPageLink": "location.href='/casaPetri/pages/recommendations/steamTrain/steamTrain.html?lang=ro'",
+    "details": "<b>| Iun-Sept |</b> Strabate calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur  |~10km de noi|",
+    "destinationPageLink": "location.href='/casaPetri/pages/recommendations/steamTrain.html?lang=ro'",
     "carouselImages": [
       {
         "carouselImgUrl": "/casaPetri/img/homePage/recommendations/steamTrain/1.jpg"
@@ -86,8 +86,8 @@
   },
   {
     "title": "Narcise",
-    "details": "<b>| Mai |</b> O patura alba si un miros imbatator pun stapanire pe Poiana Negrileasa  | </b>~20km de noi | </b>",
-    "destinationPageLink": "window.open('http://www.muntii-apuseni.eu/news.php?readmore=7')",
+    "details": "<b>| Mai |</b> O patura alba si un miros imbatator pun stapanire pe Poiana Negrileasa  |~36km de noi|",
+    "destinationPageLink": "location.href='/casaPetri/pages/recommendations/negrileasa.html?lang=ro'",
     "carouselImages": [
       {
         "carouselImgUrl": "/casaPetri/img/homePage/recommendations/negrileasa/1.jpg"
