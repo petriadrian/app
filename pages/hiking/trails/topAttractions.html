@@ -48,7 +48,7 @@
     <section id="firstSection">
         <div id="firstSectionHeadline">
             <script>
-                dynamicContentLoader('sectionTitle/firstSectionTitle.htm', 'hiking/trails/topAttractions/pageStructure.json', 'firstSectionHeadline', 'firstSectionTitleTemplateId');
+                dynamicContentLoader('_pageSectionTitles.htm', 'hiking/trails/topAttractions/pageStructure.json', 'firstSectionHeadline', 'firstSectionTitleTemplateId');
             </script>
         </div>
         <div id="firstSectionContent">
@@ -62,7 +62,7 @@
     <section>
         <div id="secondSectionHeadline">
             <script>
-                dynamicContentLoader('sectionTitle/secondSectionTitle.htm', 'hiking/trails/topAttractions/pageStructure.json', 'secondSectionHeadline', 'secondSectionTitleTemplateId');
+                dynamicContentLoader('_pageSectionTitles.htm', 'hiking/trails/topAttractions/pageStructure.json', 'secondSectionHeadline', 'secondSectionTitleTemplateId');
             </script>
         </div>
         <div id="secondSectionContent">
@@ -74,10 +74,16 @@
 
     <!-- SEE ALSO -->
     <section id="seeAlsoLayout">
-        <div class="titleLayout"></div>
-        <script>
-            dynamicContentLoader('menuBox.htm', 'hiking/trails/topAttractions/seeMore.json', 'seeAlsoLayout', 'menuBoxTemplateId');
-        </script>
+        <div id="seeAlsoSectionHeadline">
+            <script>
+                dynamicContentLoader('_pageSectionTitles.htm', 'reservations/camping/pageStructure.json', 'seeAlsoSectionHeadline', 'seeAlsoSectionTitleTemplateId');
+            </script>
+        </div>
+        <div id="seeAlsoSectionContent">
+            <script>
+                dynamicContentLoader('menuBox.htm', 'hiking/trails/topAttractions/seeMore.json', 'seeAlsoLayout', 'menuBoxTemplateId');
+            </script>
+        </div>
     </section>
 
 </div>

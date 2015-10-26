@@ -2,10 +2,12 @@
   {
     "title": "Crestem impreuna cu cei ce ne trec pragul",
     "details": "Pareri, impresii",
-    "firstSectionTitleText" : "Impresii",
+    "firstSectionTitleText": "Impresii",
     "firstSectionIconFontAwesomeClass": "fa fa-commenting",
-    "secondSectionTitleText" : "Adauga o impresie",
+    "secondSectionTitleText": "Adauga o impresie",
     "secondSectionIconFontAwesomeClass": "fa fa-pencil-square-o",
+    "seeAlsoSectionTitleText": "Vezi ?i",
+    "seeAlsoIconFontAwesomeClass": "fa fa-coffee",
     "destinationPageLink": "/casaPetri/pages/review.html?lang=ro",
     "backgroundImgUrl": "/casaPetri/img/review/headlineImage.png"
   }

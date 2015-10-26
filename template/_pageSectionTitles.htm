@@ -1,0 +1,29 @@
+<script id="firstSectionTitleTemplateId" type="text/x-jQuery-tmpl">
+    <div class="titleLayout">
+        <span id="firstSectionTitle" class="anchor"></span>
+        <h2><i class="${firstSectionIconFontAwesomeClass}"></i> ${firstSectionTitleText}</h2>
+    </div>
+</script>
+
+<script id="secondSectionTitleTemplateId" type="text/x-jQuery-tmpl">
+    <div class="titleLayout">
+        <span id="secondSectionTitle" class="anchor"></span>
+        <h2><i class="${secondSectionIconFontAwesomeClass}"></i> ${secondSectionTitleText}</h2>
+    </div>
+</script>
+
+<script id="thirdSectionTitleTemplateId" type="text/x-jQuery-tmpl">
+    <div class="titleLayout">
+        <span id="thirdSectionTitle" class="anchor"></span>
+        <h2><i class="${thirdSectionIconFontAwesomeClass}"></i> ${thirdSectionTitleText}</h2>
+    </div>
+</script>
+
+<script id="seeAlsoSectionTitleTemplateId" type="text/x-jQuery-tmpl">
+    <div class="titleLayout">
+        {{if seeAlsoSectionTitleText}}
+            <span id="thirdSectionTitle" class="anchor"></span>
+            <h2><i class="${seeAlsoIconFontAwesomeClass}"></i> ${seeAlsoSectionTitleText}</h2>
+        {{/if}}
+    </div>
+</script>

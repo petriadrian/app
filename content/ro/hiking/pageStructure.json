@@ -2,12 +2,14 @@
   {
     "title": "Prietenii, aparatul foto, bocancii... Pornim la drum!",
     "details": "Vezi aici traseele turistice din zonă",
-    "firstSectionTitleText" : "Detalii",
+    "firstSectionTitleText": "Detalii",
     "firstSectionIconFontAwesomeClass": "fa fa-info-circle",
-    "secondSectionTitleText" : "Trasee sub 4h",
+    "secondSectionTitleText": "Trasee sub 4h",
     "secondSectionIconFontAwesomeClass": "fa fa-map-signs",
-    "thirdSectionTitleText" : "Trasee peste 6h",
+    "thirdSectionTitleText": "Trasee peste 6h",
     "thirdSectionIconFontAwesomeClass": "fa fa-map-signs",
+    "seeAlsoSectionTitleText": "Vezi și",
+    "seeAlsoIconFontAwesomeClass": "fa fa-coffee",
     "destinationPageLink": "/casaPetri/pages/hiking/hiking.html?lang=ro",
     "backgroundImgUrl": "/casaPetri/img/hiking/headlineImage.png"
   }

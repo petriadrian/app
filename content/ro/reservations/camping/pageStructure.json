@@ -6,6 +6,10 @@
     "firstSectionIconFontAwesomeClass": "fa fa-info-circle",
     "secondSectionTitleText": "Zona de campare si rezervari",
     "secondSectionIconFontAwesomeClass": "fa fa-chevron-circle-up",
+    "seeAlsoSectionTitleText": "Vezi și",
+    "seeAlsoIconFontAwesomeClass": "fa fa-coffee",
+    "seeAlsoSectionTitleText": "Vezi și",
+    "seeAlsoIconFontAwesomeClass": "fa fa-coffee",
     "destinationPageLink": "/casapetri/pages/reservations/camping.html",
     "backgroundImgUrl": "/casapetri/img/reservations/camping/introBackground.png"
   }

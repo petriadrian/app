@@ -8,6 +8,10 @@
     "secondSectionIconFontAwesomeClass": "test",
     "thirdSectionTitleText": "",
     "thirdSectionIconFontAwesomeClass": "",
+    "seeAlsoSectionTitleText": "Vezi ?i",
+    "seeAlsoIconFontAwesomeClass": "fa fa-coffee",
+    "seeAlsoSectionTitleText": "Vezi ?i",
+    "seeAlsoIconFontAwesomeClass": "fa fa-coffee",
     "destinationPageLink": "test",
     "backgroundImgUrl": "test"
   }

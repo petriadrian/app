@@ -6,6 +6,8 @@
     "firstSectionIconFontAwesomeClass": "fa fa-map-signs",
     "secondSectionTitleText": "Atracții de pe traseu",
     "secondSectionIconFontAwesomeClass": "fa fa-star",
+    "seeAlsoSectionTitleText": "Vezi și",
+    "seeAlsoIconFontAwesomeClass": "fa fa-coffee",
     "destinationPageLink": "/casaPetri/pages/hiking/trails/topAttractions.html?lang=ro",
     "backgroundImgUrl": "/casaPetri/img/hiking/trails/topAttractions/headlineImage.png"
   }

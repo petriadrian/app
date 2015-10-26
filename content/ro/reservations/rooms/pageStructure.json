@@ -6,6 +6,8 @@
     "firstSectionIconFontAwesomeClass": "fa fa-info-circle",
     "secondSectionTitleText": "Rezervari camere",
     "secondSectionIconFontAwesomeClass": "fa fa-bed",
+    "seeAlsoSectionTitleText": "Vezi și",
+    "seeAlsoIconFontAwesomeClass": "fa fa-coffee",
     "destinationPageLink": "/casapetri/pages/reservations/rooms.html",
     "backgroundImgUrl": "/casapetri/img/reservations/rooms/introBackground.png"
   }
