@@ -1,27 +1,22 @@
 [
   {
-    "description": "Un traseu ușor printre clădirile vechi dar impunătoare ale centrului istoric al celei mai vechi localități din Romania (atestată în anul 131). O parte dintre aceste clădiri au fost părăsite în schimbul despăgubirilor date de comapania minieră care își dorea să facă o exploatare în zonă. Oamenii au plecat dar aceste căsuțe au rămas ca adevărați stâlpi ai unei foste comunități care dispunea de toate funcționalitățile unui mic orășel. Pe lângă acestea o să vedeți și clădiri restaurate și gospodări îngrijite. Sub harta gasiti cateva imagini si sfaturi despre principalele obiectivele pe care le intalniti pe acest traseu. Porniti de la Casa Petri care se afla chiar in centrul istoric si vizitati pas cu pas fiecare obiectiv.",
-    "googleMapLink": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=taul%20brazi&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Berg, DC146, Roșia Montană 517615|Biserica Romano-Catolică, Roșia Montană|Biserica Unitariană, 530, Roșia Montană|Galeria Cătălina-Monulești, Roșia Montană",
+    "description": "Un traseu ușor prin centrului istoric a celei mai vechi localități din Romania (atestată în anul 131). O parte din case au fost părăsite în schimbul despăgubirilor date de comapania minieră care își dorea să facă o exploatare în zonă, iar aceste căsuțe au rămas ca adevărați stâlpi de istorie ai unei foste comunități care dispunea de toate funcționalitățile necesare. O parte din acestea au fost sau sunt in proces de restaurare. Sub harta gasiti cateva imagini si sfaturi despre principalele obiectivele pe care le intalniti pe acest traseu. Porniti de la Casa Petri care se afla chiar in centrul istoric si vizitati pas cu pas fiecare obiectiv.",
+    "googleMapLink": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=taul%20brazi&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Berg, DC146, Roșia Montană 517615|Biserica Romano-Catolică, Roșia Montană|Biserica Unitariană, 530, Roșia Montană|Biserica calvina DC117,Roșia Montană 517615|Galeria Cătălina-Monulești, Roșia Montană",
     "indicationsBoxes": [
       {
         "indicationHoverText": "durată",
-        "indicationText": "8h",
+        "indicationText": "3h",
         "indicationIconFontAwesomeClass": "fa fa-clock-o"
       },
       {
         "indicationHoverText": "lungime",
-        "indicationText": "10km",
+        "indicationText": "3km",
         "indicationIconFontAwesomeClass": "fa fa-arrows-h"
       },
       {
         "indicationHoverText": "dificultate",
-        "indicationText": "mediu",
+        "indicationText": "usor",
         "indicationIconFontAwesomeClass": "fa fa-line-chart"
-      },
-      {
-        "indicationHoverText": "indicații",
-        "indicationText": "bocanci de munte și pelerină",
-        "indicationIconFontAwesomeClass": "fa fa-check-square-o"
       }
     ]
   }
