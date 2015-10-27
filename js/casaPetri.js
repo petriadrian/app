@@ -11,7 +11,7 @@ function scrollToAnchor() {
         } else {
             console.log("No url anchor to scroll at.");
         }
-    }, 300);
+    }, 100);
 }
 
 // dynamicContentLoader(templatePathSuffix, contentPathSuffix, idParentElement, templateId);
