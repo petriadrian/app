@@ -106,13 +106,3 @@ function replaceUrlParam(url, paramName, paramValue) {
     }
     return newUrl
 }
-
-
-// Unused functions
-// Add active when a button clicked
-//    $(document).ready(function () {
-//   $('ul.nav > li').click(function (e) {
-//       $('ul.nav > li').removeClass('active');
-//       $(this).addClass('active');
-//   });
-//});
