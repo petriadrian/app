@@ -2,7 +2,7 @@
   {
     "title": "Wifi gratuit",
     "iconFontAwesomeClass": "fa fa-wifi",
-    "details": " in toate incaperile si in curte"
+    "details": ""
   },
   {
     "title": "Bucătarie",
@@ -17,10 +17,10 @@
   {
     "title": "Parcare gratuita",
     "iconFontAwesomeClass": "fa fa-car",
-    "details": "in curte sau in fata casei"
+    "details": ""
   },
   {
-    "title": "Ecran pentru videoproiector",
+    "title": "Ecran videoproiector",
     "iconFontAwesomeClass": "fa fa-television",
     "details": ""
   },

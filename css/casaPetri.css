@@ -358,9 +358,35 @@ footer section {
     border-color: white;
 }
 
+.gradientFromWhiteToTransparent{
+    position: relative;
+}
+
+.gradientFromWhiteToTransparent:after {
+    content:'';
+    position:absolute;
+    left:0; top:0;
+    width:100%;
+    height:100%;
+    display:inline-block;
+    background: -moz-linear-gradient(top,  rgba(255,255,255,1) 0%, rgba(255,255,255,1) 1%, rgba(255,255,255,0) 65%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(1%,rgba(255,255,255,1)), color-stop(65%,rgba(255,255,255,0))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(255,255,255,1) 1%,rgba(255,255,255,0) 65%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(255,255,255,1) 1%,rgba(255,255,255,0) 65%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(255,255,255,1) 1%,rgba(255,255,255,0) 65%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(255,255,255,1) 0%,rgba(255,255,255,1) 1%,rgba(255,255,255,0) 65%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=0 ); /* IE6-9 */
+}
+
+.gradientFromWhiteToTransparent img{
+    display:block;
+    width: 100%;
+}
+
 .pageHeader {
-    padding: 0.5% 5% 5% 5%;
-    text-align: left;
+    overflow: hidden;
+    position: relative;
+    min-height: 330px;
     font-size: 3.5em;
     text-shadow: -1px -1px 3px #fff,
     1px -1px 3px #fff,
@@ -368,23 +394,19 @@ footer section {
     1px 1px 3px #fff;
 }
 
-.pageHeader {
-    width: 100%;
-    min-height: 300px;
-    background-size: cover;
-}
-.pageHeader:before {
-    content: '';
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background-image: linear-gradient(to bottom right, #002f4b, #dc4225);
-    opacity: 0.4;
+.pageHeader .gradientFromWhiteToTransparent{
+    position:absolute;
+    left:0; bottom:0;
 }
 
-
+.pageHeader .introContent{
+    position:absolute;
+    display: inline-block;
+    left:0; top:0;
+    width: 96%;
+    margin: 2% 2%;
+    text-align: left;
+}
 
 .pageHeader .btn-primary {
     font-size: 0.36em;
@@ -491,11 +513,11 @@ footer section {
 }
 
 /* MEDIA */
-@media only screen and (min-width: 321px) and (max-width: 480px) {
+@media only screen and (max-width: 480px) {
 
     .pageHeader {
         font-size: 2.2em;
-        background-size: 250%;
+        min-height: 230px;
     }
 
     .reviewPreviewLayout,
@@ -523,7 +545,7 @@ footer section {
     }
 
     .pageHeader {
-        font-size: 3em;
-        background-size: 150%;
+        font-size: 2.5em;
+        min-height: 250px;
     }
 }
