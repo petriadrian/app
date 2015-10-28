@@ -36,7 +36,7 @@
     "carouselTimeInterval": "12000"
   },
   {
-    "title": "Review-uri",
+    "title": "Reviews",
     "id": "houseReviews",
     "details": "Vezi experiențele și impresiile celor care ne-au vizitat. O parte dintre ei pot fi contactați",
     "destinationPageLink": "location.href='/casaPetri/pages/review.html?lang=ro'",
@@ -56,7 +56,7 @@
   {
     "title": "Drumeții",
     "id": "hikingPaths",
-    "details": "Parcurge traseele propuse pentru a descoperi localitatea si atractiile ei. Posibilitate inchiriere ghizi",
+    "details": "Descoperă localitatea și atracțiile ei prin traseele propuse aici. <br><i>- by googlemaps.com -</i> ",
     "destinationPageLink": "location.href='/casaPetri/pages/hiking/hiking.html?lang=ro'",
     "carouselImages": [
       {
@@ -74,7 +74,7 @@
   {
     "title": "Ciclism",
     "id": "cyclingPaths",
-    "details": "Pedaleaza pe traseele de mountain bike propuse pentru toate nivelele de pregatire",
+    "details": "Pedaleaza pe traseele de mountain bike propuse pentru toate nivelele de pregatire.<br><i>-by bikemap.net -</i>",
     "destinationPageLink": "location.href='pages/bicycle/page.html?lang=ro'",
     "carouselImages": [
       {
