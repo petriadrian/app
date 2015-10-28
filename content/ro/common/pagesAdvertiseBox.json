@@ -56,7 +56,7 @@
   {
     "title": "Drumeții",
     "id": "hikingPaths",
-    "details": "Descoperă localitatea și atracțiile ei prin traseele propuse aici. <br><i>- by googlemaps.com -</i> ",
+    "details": "De la plimbări ușoare pe ulițele satului printre biserici și clădiri de patrimoniu până la trasee pe culmi montane, lacuri și monumente naturale <br>Vezi traseele aici!",
     "destinationPageLink": "location.href='/casaPetri/pages/hiking/hiking.html?lang=ro'",
     "carouselImages": [
       {
@@ -74,7 +74,7 @@
   {
     "title": "Ciclism",
     "id": "cyclingPaths",
-    "details": "Pedaleaza pe traseele de mountain bike propuse pentru toate nivelele de pregatire.<br><i>-by bikemap.net -</i>",
+    "details": "Pedaleaza pe traseele de mountain bike propuse pentru toate nivelele de pregatire",
     "destinationPageLink": "location.href='pages/bicycle/page.html?lang=ro'",
     "carouselImages": [
       {
