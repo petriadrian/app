@@ -1,6 +1,79 @@
 [
   {
+    "title": "Camere",
+    "id": "bookRooms",
+    "details": "Căsuța a fost cinematograf, spital ?i banc? iar acum este redeschis? ca spa?iu de cazare. Vizita?i-o!",
+    "destinationPageLink": "location.href='/casaPetri/pages/reservations/rooms.html?lang=ro'",
+    "carouselImages": [
+      {
+        "carouselImgUrl": "/casaPetri/img/homePage/ourOffer/rooms/1.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/homePage/ourOffer/rooms/2.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/homePage/ourOffer/rooms/3.jpg"
+      }
+    ],
+    "carouselTimeInterval": "12000"
+  },
+  {
+    "title": "Campare",
+    "id": "bookCamping",
+    "details": "Cazare la mii de stele sub lumina lunii? Rezerva un loc de cort cu acces la baie si bucatarie",
+    "destinationPageLink": "location.href='/casaPetri/pages/reservations/camping.html?lang=ro'",
+    "carouselImages": [
+      {
+        "carouselImgUrl": "/casaPetri/img/homePage/ourOffer/camping/1.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/homePage/ourOffer/camping/2.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/homePage/ourOffer/camping/3.jpg"
+      }
+    ],
+    "carouselTimeInterval": "12000"
+  },
+  {
+    "title": "Drumeții",
+    "id": "hikingPaths",
+    "details": "Parcurge traseele propuse pentru a descoperi localitatea si atractiile ei. Posibilitate inchiriere ghizi",
+    "destinationPageLink": "location.href='/casaPetri/pages/hiking/hiking.html?lang=ro'",
+    "carouselImages": [
+      {
+        "carouselImgUrl": "/casaPetri/img/homePage/activities/hiking/1.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/homePage/activities/hiking/2.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/homePage/activities/hiking/3.jpg"
+      }
+    ],
+    "carouselTimeInterval": "12000"
+  },
+  {
+    "title": "Ciclism",
+    "id": "cyclingPaths",
+    "details": "Pedaleaza pe traseele de mountain bike propuse pentru toate nivelele de pregatire",
+    "destinationPageLink": "location.href='pages/bicycle/page.html?lang=ro'",
+    "carouselImages": [
+      {
+        "carouselImgUrl": "/casaPetri/img/homePage/activities/bike/1.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/homePage/activities/bike/2.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/homePage/activities/bike/3.jpg"
+      }
+    ],
+    "carouselTimeInterval": "12000"
+  },
+  {
     "title": "Festival",
+    "id": "fanFestFestival",
     "details": "<b>| August |</b> Teatru, forumuri, muzica, film. Participa la cel mai activ festival: FanFest",
     "destinationPageLink": "window.open('http://www.fanfest.ro')",
     "carouselImages": [
@@ -18,6 +91,7 @@
   },
   {
     "title": "Maraton",
+    "id": "marathonRosia",
     "details": "<b>| Iulie |</b> Maraton, Semimaraton, maraton copii. Drumurile satului devin piste de alergare",
     "destinationPageLink": "window.open('http://www.rosiamontanamarathon.ro')",
     "carouselImages": [
@@ -35,6 +109,7 @@
   },
   {
     "title": "Restaurari",
+    "id": "monumentsRestorations",
     "details": "<b>| Iul-Sept |</b> Cladiri vechi prind viata. Deprinde mestesuguri traditionale in taberele ARA",
     "destinationPageLink": "window.open('http://www.adoptaocasa.ro/cum-ma-implic')",
     "carouselImages": [
@@ -52,6 +127,7 @@
   },
   {
     "title": "Mocanita",
+    "id": "steamTrain",
     "details": "<b>| Iun-Sept |</b> Strabate calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur  |~10km de noi|",
     "destinationPageLink": "location.href='/casaPetri/pages/recommendations/steamTrain.html?lang=ro'",
     "carouselImages": [
@@ -69,6 +145,7 @@
   },
   {
     "title": "1 Mai",
+    "id": "firstMay",
     "details": "<b>| Mai |</b> Sunetul chitarii, focul de tabara si traseele ghidate sunt deja o traditie in minivacanta de 1 mai",
     "destinationPageLink": "window.open('https://vizitatirosiamontana.wordpress.com/2015/02/06/vacanta-1-mai-2015-rosia-montana-pachetul-turistic-245-lei/')",
     "carouselImages": [
@@ -86,6 +163,7 @@
   },
   {
     "title": "Narcise",
+    "id": "narcissusGlade",
     "details": "<b>| Mai |</b> O patura alba si un miros imbatator pun stapanire pe Poiana Negrileasa  |~36km de noi|",
     "destinationPageLink": "location.href='/casaPetri/pages/recommendations/negrileasa.html?lang=ro'",
     "carouselImages": [
@@ -103,7 +181,8 @@
   },
   {
     "title": "Cercetașii",
-    "details": "Dor de copilarie? Implica-te și cunoaște-i pe cercetasii din Rosia Montana",
+    "id": "scoutsOrganization",
+    "details": "Dor de copilarie? Implica-te și cunoște-i pe cercetașii din Rosia Montană",
     "destinationPageLink": "window.open('http://www.cercetasirosiamontana.ro')",
     "carouselImages": [
       {
@@ -120,6 +199,7 @@
   },
   {
     "title": "Suvenir",
+    "id": "souvenirShop",
     "details": "Cumpara produse traditionale lucrate manual de localnicii din Rosia Montana",
     "destinationPageLink": "window.open('http://www.madeinrosiamontana.ro')",
     "carouselImages": [

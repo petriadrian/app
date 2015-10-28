@@ -63,7 +63,7 @@
         </div>
         <div id="secondSectionContent" class="increaseCarouselBoxes">
             <script>
-                dynamicContentLoader('menuBox.htm', 'hiking/shortTrails.json', 'secondSectionContent', 'menuBoxTemplateId');
+                dynamicContentLoader('_pageAdvertiseBox.tmpl.htm', 'hiking/shortTrails.json', 'secondSectionContent', 'pageAdvertiserBoxTemplateId');
             </script>
         </div>
     </section>
@@ -77,7 +77,7 @@
         </div>
         <div id="thirdSectionContent" class="increaseCarouselBoxes">
             <script>
-                dynamicContentLoader('menuBox.htm', 'hiking/longTrails.json', 'thirdSectionContent', 'menuBoxTemplateId');
+                dynamicContentLoader('_pageAdvertiseBox.tmpl.htm', 'hiking/longTrails.json', 'thirdSectionContent', 'pageAdvertiserBoxTemplateId');
             </script>
         </div>
     </section>
@@ -91,7 +91,7 @@
         </div>
         <div id="seeAlsoSectionContent">
             <script>
-                dynamicContentLoader('menuBox.htm', 'hiking/seeMore.json', 'seeAlsoLayout', 'menuBoxTemplateId');
+                loadContentWithSpecificIds('_pageAdvertiseBox.tmpl.htm', 'common/pagesAdvertiseBoxContent.json', 'hiking/seeAlsoBoxes.json', 'seeAlsoSectionContent', 'pageAdvertiserBoxTemplateId');
             </script>
         </div>
     </section>

@@ -177,26 +177,45 @@ body {
 }
 
 .articleTitle {
-    padding: 10px;
-    margin: 20px 0 10px 0;
+    padding-bottom: 20px;
 }
 
 .articleTitle h3 {
-    width: 100%;
-    /*margin: 0px;*/
     font-size: 1.4em;
-    border-bottom: 1px solid #000;
-    line-height: 0.1em;
-    margin: 10px 0 20px;
+    overflow: hidden;
+    margin: 0px;
 }
 
 .articleTitle h3 span {
-    background: #fff;
-    padding: 0 10px;
+    display: inline-block;
+    vertical-align: baseline;
+    zoom: 1;
+    *display: inline;
+    *vertical-align: auto;
+    position: relative;
+    padding: 0 20px;
+}
+
+.articleTitle h3 span:before,
+.articleTitle h3 span:after {
+    content: '';
+    display: block;
+    width: 1000px;
+    position: absolute;
+    top: 0.73em;
+    border-top: 1px solid gray;
+}
+
+.articleTitle h3 span:before {
+    right: 100%;
+}
+
+.articleTitle h3 span:after {
+    left: 100%;
 }
 
 .defaultArticle {
-    margin: 20px 0px;
+    margin: 20px 0px 50px 0px;
 }
 
 /*------------------------------------*\
@@ -340,19 +359,32 @@ footer section {
 }
 
 .pageHeader {
-    width: 100%;
-    min-height: 300px;
     padding: 0.5% 5% 5% 5%;
     text-align: left;
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-position: center bottom;
     font-size: 3.5em;
     text-shadow: -1px -1px 3px #fff,
     1px -1px 3px #fff,
     -1px 1px 3px #fff,
     1px 1px 3px #fff;
 }
+
+.pageHeader {
+    width: 100%;
+    min-height: 300px;
+    background-size: cover;
+}
+.pageHeader:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: linear-gradient(to bottom right, #002f4b, #dc4225);
+    opacity: 0.4;
+}
+
+
 
 .pageHeader .btn-primary {
     font-size: 0.36em;
@@ -430,7 +462,7 @@ footer section {
 
 
 .trailDescription {
-    margin: 35px 6%;
+    margin: 30px 6%;
     font-size: 1.1em;
 }
 
