@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Pregătește bicicleta si adu-o la Rosia. Pornim pe traseu!",
+    "details": "",
+    "firstSectionTitleText": "Detalii",
+    "firstSectionIconFontAwesomeClass": "fa fa-info-circle",
+    "secondSectionTitleText": "Trasee mtb",
+    "secondSectionIconFontAwesomeClass": "fa fa-map-signs",
+    "thirdSectionTitleText": "Trasee cursieră - asfalt",
+    "thirdSectionIconFontAwesomeClass": "fa fa-map-signs",
+    "seeAlsoSectionTitleText": "Vezi și",
+    "seeAlsoIconFontAwesomeClass": "fa fa-coffee",
+    "destinationPageLink": "/casaPetri/pages/cycling/cycling.html?lang=ro",
+    "backgroundImgUrl": "/casaPetri/img/cycling/headlineImage.jpg"
+  }
+]

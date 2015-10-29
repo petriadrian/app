@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Centrul istoric",
+    "details": "| 4h | O plimbare ușoară pe ulițele satului printre cladiri de patrimoniu, biserici, gospodării, puncte panoramice și Tăul Brazi",
+    "destinationPageLink": "location.href='/casaPetri/pages/hiking/trails/historicalCenter.html?lang=ro'",
+    "carouselImages": [
+      {
+        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/1.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/2.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/3.jpg"
+      }
+    ],
+    "carouselTimeInterval": "12000"
+  },
+  {
+    "title": "Galeriile Romane - Muzeu",
+    "details": "| 3h |Muzeul Mineritului, Biserica Greco-Catolica",
+    "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
+    "carouselImages": [
+      {
+        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/1.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/2.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/3.jpg"
+      }
+    ],
+    "carouselTimeInterval": "12000"
+  },
+  {
+    "title": "Tarina",
+    "details": "| 4h |Bancuta Panoramica, Taul tarinii, Satul Tarina",
+    "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
+    "carouselImages": [
+      {
+        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/1.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/2.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/3.jpg"
+      }
+    ],
+    "carouselTimeInterval": "12000"
+  },
+  {
+    "title": "Vaidoaia",
+    "details": "| 6h |Galeria si masivul Vaidoaia, Taul Mare, Masivele Lety si Sulei",
+    "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
+    "carouselImages": [
+      {
+        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/1.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/2.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/hiking/shortTrails/historicalCenter/3.jpg"
+      }
+    ],
+    "carouselTimeInterval": "12000"
+  }
+]
