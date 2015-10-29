@@ -126,10 +126,6 @@ body {
     font-family: 'Merienda', cursive;
 }
 
-.reviewPreviewArea .reviewInfo {
-    height: 10%;
-}
-
 .defaultClickEvents:HOVER,
 .defaultClickEvents:HOVER > a {
     background-color: #151F1D;
@@ -487,6 +483,14 @@ footer section {
     font-size: 1.6em;
 }
 
+.btn-primary,
+.navbar-default .navbar-nav > li > a {
+    font-size: 1.1em;
+    background-color: #151F1D;
+    border: 0px;
+    color: white;
+}
+
 .btn-primary:HOVER,
 .siteBrand:hover > img,
 .navbar-default .navbar-nav > li > a:hover {
@@ -495,15 +499,10 @@ footer section {
     border-color: white;
 }
 
-.btn-primary,
-.navbar-default .navbar-nav > li > a,
 .navbar-default .navbar-nav > li > a:focus,
 .btn-primary:FOCUS {
-    font-size: 1.1em;
     background-color: #151F1D;
-    border: 0px;
     outline: 0px;
-    color: white;
     text-decoration: none;
 }
 

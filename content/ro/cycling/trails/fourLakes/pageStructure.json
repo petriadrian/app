@@ -1,6 +1,6 @@
 [
   {
-    "title": "Clădiri de patrimoniu îți vor spune ce a fost aici odată...",
+    "title": "Turul rosiei pe bicicleta",
     "details": "",
     "firstSectionTitleText": "Traseu",
     "firstSectionIconFontAwesomeClass": "fa fa-map-signs",
@@ -8,7 +8,7 @@
     "secondSectionIconFontAwesomeClass": "fa fa-star",
     "seeAlsoSectionTitleText": "Vezi și",
     "seeAlsoIconFontAwesomeClass": "fa fa-coffee",
-    "destinationPageLink": "/casaPetri/pages/hiking/trails/historicalCenter.html?lang=ro",
-    "backgroundImgUrl": "/casaPetri/img/hiking/trails/historicalCenter/headlineImage.jpg"
+    "destinationPageLink": "/casaPetri/pages/cycling/trails/fourLakes.html?lang=ro",
+    "backgroundImgUrl": "/casaPetri/img/cycling/trails/fourLakes/headlineImage.jpg"
   }
 ]
