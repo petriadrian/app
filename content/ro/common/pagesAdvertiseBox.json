@@ -75,7 +75,7 @@
     "title": "Ciclism",
     "id": "cyclingPaths",
     "details": "Pedaleaza pe traseele de mountain bike propuse pentru toate nivelele de pregatire <br><i>powered by bikemap.net</i>",
-    "destinationPageLink": "location.href='pages/cycling/cycling.html?lang=ro'",
+    "destinationPageLink": "location.href='/casaPetri/pages/cycling/cycling.html?lang=ro'",
     "carouselImages": [
       {
         "carouselImgUrl": "/casaPetri/img/cycling/pageAdvertiseBox/1.jpg"

@@ -22,12 +22,6 @@ body {
     width: 100%;
 }
 
-.navbar-default .navbar-nav > li,
-.navbar-default .navbar-nav > li > a,
-.navbar-default .navbar-nav > li > a:focus {
-    color: white;
-}
-
 .navbar-brand {
     margin: 0px;
     padding: 0px;
@@ -117,7 +111,6 @@ body {
 .reviewPreviewArea .carousel-caption {
     position: static;
     color: inherit;
-    text-align: justify;
     padding: 0;
     text-shadow: none;
     bottom: 0px;
@@ -135,8 +128,6 @@ body {
 
 .reviewPreviewArea .reviewInfo {
     height: 10%;
-    padding-right: 5%;
-    text-align: right;
 }
 
 .defaultClickEvents:HOVER,
@@ -270,9 +261,6 @@ body {
     width: 100%;
 }
 
-.sendFeedback {
-    text-align: left;
-}
 .sendFeedback textarea {
     width: 100%;
     max-width: 100%;
@@ -342,26 +330,6 @@ footer section {
     margin: 0px;
 }
 
-.btn-primary,
-.btn-primary:FOCUS {
-    background-color: #151F1D;
-    border-color: #151F1D;
-    color: #fff;
-    font-size: 1.1em;
-    margin-top: 2px;
-    outline: 0px;
-    text-decoration: none;
-    cursor: pointer;
-}
-
-.btn-primary:HOVER,
-.siteBrand:hover > img,
-.navbar-default .navbar-nav > li > a:hover {
-    color: white;
-    background-color: #157f15;
-    border-color: white;
-}
-
 .gradientFromWhiteToTransparent{
     position: relative;
 }
@@ -387,34 +355,37 @@ footer section {
     width: 100%;
 }
 
-.pageHeader {
+.pageIntro {
+    font-size: 3.5em;
     overflow: hidden;
     position: relative;
-    min-height: 330px;
-    font-size: 3.5em;
+    min-height: 340px;
+}
+
+.pageIntro h1 {
     text-shadow: -1px -1px 3px #fff,
     1px -1px 3px #fff,
     -1px 1px 3px #fff,
     1px 1px 3px #fff;
 }
 
-.pageHeader .gradientFromWhiteToTransparent{
+.pageIntro .gradientFromWhiteToTransparent{
     position:absolute;
     left:0; bottom:0;
 }
 
-.pageHeader .introContent{
+.pageIntro .introContent{
     position:absolute;
     display: inline-block;
     left:0; top:0;
     width: 96%;
     margin: 2% 2%;
-    text-align: left;
 }
 
-.pageHeader .btn-primary {
-    font-size: 0.36em;
+.pageIntro .btn-primary {
+    font-size: 0.4em;
     text-shadow: none;
+    color: white;
 }
 
 .reservationImages {
@@ -516,10 +487,30 @@ footer section {
     font-size: 1.6em;
 }
 
+.btn-primary:HOVER,
+.siteBrand:hover > img,
+.navbar-default .navbar-nav > li > a:hover {
+    color: white;
+    background-color: #157f15;
+    border-color: white;
+}
+
+.btn-primary,
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-nav > li > a:focus,
+.btn-primary:FOCUS {
+    font-size: 1.1em;
+    background-color: #151F1D;
+    border: 0px;
+    outline: 0px;
+    color: white;
+    text-decoration: none;
+}
+
 /* MEDIA */
 @media only screen and (max-width: 480px) {
 
-    .pageHeader {
+    .pageIntro {
         font-size: 2.2em;
         min-height: 230px;
     }
@@ -548,7 +539,7 @@ footer section {
         height: 200px;
     }
 
-    .pageHeader {
+    .pageIntro {
         font-size: 2.5em;
         min-height: 250px;
     }
