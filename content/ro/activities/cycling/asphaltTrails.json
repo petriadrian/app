@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Principalele Obiective",
+    "details": "| 8h |Biserici, Cladiri patrimoniu, Taul Brazi",
+    "destinationPageLink": "location.href='/casaPetri/pages/activities/trails/topAttractions.html?lang=ro'",
+    "carouselImages": [
+      {
+        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/1.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/2.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/3.jpg"
+      }
+        ],     "carouselTimeInterval": "12000"
+  },
+  {
+    "title": "Lety si Sulei",
+    "details": "| 8h | Vaidoaia, Taul Mare, Lety si Sulei, Cariera Rosia Poieni, Piatra Corbului, Sfinx, Taul Brazi",
+    "destinationPageLink": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html?lang=ro'",
+    "carouselImages": [
+      {
+        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/1.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/2.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/3.jpg"
+      }
+        ],     "carouselTimeInterval": "12000"
+  },
+  {
+    "title": "Lacurile",
+    "details": "| 8h |",
+    "destinationPageLink": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html?lang=ro'",
+    "carouselImages": [
+      {
+        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/1.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/2.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/3.jpg"
+      }
+        ],     "carouselTimeInterval": "12000"
+  },
+  {
+    "title": "Detunata",
+    "details": "| 12h |",
+    "destinationPageLink": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html?lang=ro'",
+    "carouselImages": [
+      {
+        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/1.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/2.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/3.jpg"
+      }
+        ],     "carouselTimeInterval": "12000"
+  },
+  {
+    "title": "Geamana",
+    "details": "| 12h |",
+    "destinationPageLink": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html?lang=ro'",
+    "carouselImages": [
+      {
+        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/1.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/2.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/3.jpg"
+      }
+        ],     "carouselTimeInterval": "12000"
+  }
+]

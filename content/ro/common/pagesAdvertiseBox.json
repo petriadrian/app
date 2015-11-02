@@ -57,16 +57,16 @@
     "title": "Drumeții",
     "id": "hikingPaths",
     "details": "De la plimbări ușoare pe ulițele satului printre biserici și clădiri de patrimoniu până la trasee pe culmi montane, lacuri și monumente naturale <br><i>powered by googleMaps.com</i>",
-    "destinationPageLink": "location.href='/casaPetri/pages/hiking/hiking.html?lang=ro'",
+    "destinationPageLink": "location.href='/casaPetri/pages/activities/hiking.html?lang=ro'",
     "carouselImages": [
       {
-        "carouselImgUrl": "/casaPetri/img/hiking/pageAdvertiseBox/1.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/hiking/pageAdvertiseBox/1.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/hiking/pageAdvertiseBox/2.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/hiking/pageAdvertiseBox/2.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/hiking/pageAdvertiseBox/3.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/hiking/pageAdvertiseBox/3.jpg"
       }
     ],
     "carouselTimeInterval": "12000"
@@ -75,16 +75,16 @@
     "title": "Ciclism",
     "id": "cyclingPaths",
     "details": "Pedaleaza pe traseele de mountain bike propuse pentru toate nivelele de pregatire <br><i>powered by bikemap.net</i>",
-    "destinationPageLink": "location.href='/casaPetri/pages/cycling/cycling.html?lang=ro'",
+    "destinationPageLink": "location.href='/casaPetri/pages/activities/cycling.html?lang=ro'",
     "carouselImages": [
       {
-        "carouselImgUrl": "/casaPetri/img/cycling/pageAdvertiseBox/1.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/cycling/pageAdvertiseBox/1.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/cycling/pageAdvertiseBox/2.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/cycling/pageAdvertiseBox/2.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/cycling/pageAdvertiseBox/3.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/cycling/pageAdvertiseBox/3.jpg"
       }
     ],
     "carouselTimeInterval": "12000"

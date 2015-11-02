@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Top 10 atracții de vizitat în Roșia Montană. Vezi traseul lor!",
+    "details": "Centrul istoric, biserici, lacuri, muzeu, galerii antice ...",
+    "firstSectionTitleText": "Traseu",
+    "firstSectionIconFontAwesomeClass": "fa fa-map-signs",
+    "secondSectionTitleText": "Atracții",
+    "secondSectionIconFontAwesomeClass": "fa fa-star",
+    "seeAlsoSectionTitleText": "Vezi și",
+    "seeAlsoIconFontAwesomeClass": "fa fa-coffee",
+    "destinationPageLink": "/casaPetri/pages/activities/trails/topAttractions.html?lang=ro",
+    "backgroundImgUrl": "/casaPetri/img/activities/trails/topAttractions/headlineImage.png"
+  }
+]
