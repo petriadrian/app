@@ -9,26 +9,40 @@
 
 <!-- all the bellow templates are depended of the first template-->
 
-<script id="articleWithImgAndTextTemplateId" type="text/x-jQuery-tmpl">
+<script id="articleWithTextImgIframeTemplateId" type="text/x-jQuery-tmpl">
     <article class="defaultArticle anchorParent">
-        <header class="articleTitle">
-            <h3><span>${title}</span></h3>
-        </header>
-        <section class="defaultArticleText">
-            <span>
-                {{html details}}
-            </span>
-            {{if moreDetailsLink}}
-                <a href="${moreDetailsLink}" class="btn-link" target="_blank">${moreDetailsText}</i></a>
-            {{/if}}
-        </section>
-        <section>
-            {{if images}}
+        {{if title}}
+            <header class="articleTitle">
+                <h3><span>${title}</span></h3>
+            </header>
+        {{/if}}
+        {{if details}}
+            <section class="defaultArticleText">
+                <span>
+                    {{html details}}
+                </span>
+                {{if moreDetailsLink}}
+                    <a href="${moreDetailsLink}" class="btn-link" target="_blank">${moreDetailsText}</i></a>
+                {{/if}}
+            </section>
+        {{/if}}
+        {{if images}}
+            <section>
                 {{each images}}
                     {{tmpl($value) '#photoAlbumBoxTemplateId'}}
                 {{/each}}
-            {{/if}}
-        </section>
+            </section>
+        {{/if}}
+        {{if iframeSrc}}
+            <section>
+                <iframe class="trailMap" frameborder="0" src="${iframeSrc}" allowfullscreen></iframe>
+                <div class="trailIndicators">
+                    {{each(i, indicationBox) indicationsBoxes}}
+                        <p title="${indicationBox.indicationHoverText}"><i class="${indicationBox.indicationIconFontAwesomeClass} fa-fw"></i> ${indicationBox.indicationText}</p>
+                    {{/each}}
+                </div>
+            </section>
+        {{/if}}
     </article>
 </script>
 

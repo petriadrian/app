@@ -32,16 +32,10 @@
         "imgFullSizeUrl": "/casaPetri/img/hiking/allAttractions/panoramicBench/fullSize/1.jpg"
       },
       {
-        "imgTitle": "Bancuta Panoramica",
-        "imgDetail": "Pe timp de iarna aici este la fel de frumos. De aici se vede turla Bisericii Catolice",
+        "imgTitle": "Băncuța Panoramică",
+        "imgDetail": "Este cam la 5min de Casa Petri si va recomandam sa va intoarceti si noaptea pentru a admira cerul instelat și asculta liniștea satului",
         "imgThumbnailUrl": "/casaPetri/img/hiking/allAttractions/panoramicBench/thumbnail/2.jpg",
         "imgFullSizeUrl": "/casaPetri/img/hiking/allAttractions/panoramicBench/fullSize/2.jpg"
-      },
-      {
-        "imgTitle": "Bancuta Panoramica - vedere spre Cârnic",
-        "imgDetail": "Este cam la 5min de Casa Petri si va recomandam sa va intoarceti si noaptea pentru a admira cerul instelat",
-        "imgThumbnailUrl": "/casaPetri/img/hiking/allAttractions/panoramicBench/thumbnail/3.jpg",
-        "imgFullSizeUrl": "/casaPetri/img/hiking/allAttractions/panoramicBench/fullSize/3.jpg"
       }
     ]
   },
@@ -229,6 +223,25 @@
         "imgDetail": "Ehab ELLABAN | Egipt | Academia de Arte Zamalek, Cairo | Sculptura din calcar de Vistea",
         "imgThumbnailUrl": "/casaPetri/img/hiking/allAttractions/sculpture/thumbnail/4.jpg",
         "imgFullSizeUrl": "/casaPetri/img/hiking/allAttractions/sculpture/fullSize/4.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Tăul Țarinii",
+    "id": "tariniLake",
+    "details": "Țarina este locul unde roșienii au terenurile agricole. Pe aici localnicii plantau boabe (cartofi) sau își țin animalale, de aceea pe multe parcele de teren o sa vedeți vechi șuri(greajduri) ",
+    "images": [
+      {
+        "imgTitle": "Tăul Țarinii",
+        "imgDetail": "Un mic lac de munte. Ca locație de poză vă sugerăm podul care duce la Căsuța de pe lac.",
+        "imgThumbnailUrl": "/casaPetri/img/hiking/allAttractions/tariniLake/thumbnail/1.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/hiking/allAttractions/tariniLake/fullSize/1.jpg"
+      },
+      {
+        "imgTitle": "Plaiurile Țarinii",
+        "imgDetail": "Dealuri nesârșite presărate ici și colo cu căpițe de fân numai bune să te odihnești pe ele în traseul tău.",
+        "imgThumbnailUrl": "/casaPetri/img/hiking/allAttractions/tariniLake/thumbnail/2.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/hiking/allAttractions/tariniLake/fullSize/2.jpg"
       }
     ]
   }

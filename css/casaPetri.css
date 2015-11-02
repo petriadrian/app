@@ -126,22 +126,6 @@ body {
     font-family: 'Merienda', cursive;
 }
 
-.defaultClickEvents:HOVER,
-.defaultClickEvents:HOVER > a {
-    background-color: #151F1D;
-    color: white;
-    cursor: pointer;
-    text-decoration: none;
-}
-
-.defaultClickEvents:ACTIVE {
-    background-color: #949494;
-}
-
-.defaultClickEvents:FOCUS {
-    outline: none;
-}
-
 .anchor {
     position: absolute;
     top: -60px;
@@ -441,7 +425,7 @@ footer section {
 }
 
 .defaultArticleText {
-    padding: 0 5%;
+    padding: 0 5% 20px 5%;
 }
 
 .makeArticleTextCursive .defaultArticleText span {
@@ -490,6 +474,23 @@ footer section {
     border: 0px;
     color: white;
 }
+
+.defaultClickEvents:HOVER,
+.defaultClickEvents:HOVER > a {
+    background-color: #151F1D;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.defaultClickEvents:ACTIVE {
+    background-color: #157f15;
+}
+
+.defaultClickEvents:FOCUS {
+    outline: none;
+}
+
 
 .btn-primary:HOVER,
 .siteBrand:hover > img,

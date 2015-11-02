@@ -24,19 +24,23 @@ function dynamicContentLoader(templatePathSuffix, contentPathSuffix, idParentEle
     });
 }
 
-function loadContentWithSpecificIds(templatePathSuffix, contentPathSuffix, idsOfTheContentToBeLoadedPathSuffix, idParentElement, templateId) {
-    $.getJSON('/casaPetri/content/' + getLanguage() + '/' + idsOfTheContentToBeLoadedPathSuffix, function (specificItemsIds) {
+function loadContentWithSpecificIds(templatePathSuffix, existingItemsPathSuffix, itemsToBeLoadedPathSuffix, idParentElement, templateId) {
+    $.getJSON('/casaPetri/content/' + getLanguage() + '/' + itemsToBeLoadedPathSuffix, function (neededItems) {
         var neededItemsIds = [];
-        $.each(specificItemsIds, function (key, item) {
-            neededItemsIds.push(item.id);
+        $.each(neededItems, function (key, neededItem) {
+            neededItemsIds.push(neededItem.id);
         });
-        $.getJSON('/casaPetri/content/' + getLanguage() + '/' + contentPathSuffix, function (allItems) {
+        $.getJSON('/casaPetri/content/' + getLanguage() + '/' + existingItemsPathSuffix, function (existingItems) {
             $.get('/casaPetri/template/' + templatePathSuffix, function (template) {
                 $('#' + idParentElement).append(template);
-                $.each(allItems, function (key, item) {
-                    if (neededItemsIds.indexOf(item.id) > -1) {
-                        $('#' + templateId).tmpl(item).appendTo('#' + idParentElement);
+                var finalItems = [];
+                $.each(existingItems, function (key, existingItem) {
+                    if (neededItemsIds.indexOf(existingItem.id) > -1) {
+                        finalItems.splice(neededItemsIds.indexOf(existingItem.id), 0, existingItem);
                     }
+                });
+                $.each(finalItems, function( key, finalItem ) {
+                    $('#' + templateId).tmpl(finalItem).appendTo('#' + idParentElement);
                 });
             });
         });
