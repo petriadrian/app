@@ -248,19 +248,57 @@
   {
     "title": "Stația Meteo",
     "id": "weatherStation",
-    "details": "După un urcuș strajnic pe un drum de țară ajungem la stația meteo de munte Roșia Montană aflată pe Vârful Rotundu(1219m). Această stație este folosită de aviație și deține aparatură pentru detectarea schimbărilor meteorologice.",
+    "details": "După un urcuș strajnic pe un drum de țară, ca un tunel rece printr-o pădure de molizi, ajungem la stația meteo de munte Roșia Montană aflată pe Vârful Rotundu(1240m). Această stație este folosită de aviație și deține aparatură pentru detectarea schimbărilor meteorologice.",
     "images": [
       {
         "imgTitle": "Stația Meteo",
-        "imgDetail": "Angajații sunt foarte de treabă și primitori când ajung turiști până aici. De obicei oferă tururi ale stației meteo și vă explică cum functionează aparatura dacă sunteți interesat.",
+        "imgDetail": "Angajatii stației meteo sunt oameni extraordinari, primitori si extrem de deschiși cu turiștii care ajung pe aici. De obicei oferă tururi ale stației meteo și vă explică cum functionează aparatura dacă sunteți interesat.",
         "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/weatherStation/thumbnail/1.jpg",
         "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/weatherStation/fullSize/1.jpg"
       },
       {
-        "imgTitle": "Varful Rotundu",
-        "imgDetail": "vedere spre Apuseni. În zare se pot vedea varful Vulcan, Găina și vârful Bihor.",
+        "imgTitle": "Varful Rotundu - 1240m ",
+        "imgDetail": "vedere spre Apuseni. Înaintați puțin de la Stația Meteo pe culmea masivului. Bucurați-vă de priveliște. În zare se pot vedea varful Vulcan, Găina și vârful Bihor.",
         "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/weatherStation/thumbnail/2.jpg",
         "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/weatherStation/fullSize/2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Cariera de Cupru",
+    "id": "xxx",
+    "details": "",
+    "images": [
+      {
+        "imgTitle": "",
+        "imgDetail": "",
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/xxx/thumbnail/1.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/xxx/fullSize/1.jpg"
+      },
+      {
+        "imgTitle": "",
+        "imgDetail": "",
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/xxx/thumbnail/2.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/xxx/fullSize/2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "model",
+    "id": "xxx",
+    "details": "",
+    "images": [
+      {
+        "imgTitle": "",
+        "imgDetail": "",
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/xxx/thumbnail/1.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/xxx/fullSize/1.jpg"
+      },
+      {
+        "imgTitle": "",
+        "imgDetail": "",
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/xxx/thumbnail/2.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/xxx/fullSize/2.jpg"
       }
     ]
   }
