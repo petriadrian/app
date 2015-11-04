@@ -266,20 +266,22 @@
   },
   {
     "title": "Cariera de Cupru",
-    "id": "xxx",
-    "details": "",
+    "id": "copperPit",
+    "details": "60% din zăcămintele de cupru din România se află aici. O parte dintre aceste zăcăminte au fost extrase însă efectele exploatării asupra zonei sunt devastatoare. Vizitați cariera și vedeți acestea cu ochii voștri dar  atenție: Pentru a intra la carieră este nevoie să treceți pe la punctul de verificare cu barieră pe care îl întâlniți pe traseu! Dacă doriți să mai vedeți din urmările acestei exploatări vizitați 'Geamăna'- iazul de decantare din avalul carierei",
+    "moreDetailsLink": "http://www.alba.djc.ro/ObiectiveDetalii.aspx?ID=2184",
+    "moreDetailsText": "Mai multe detalii aici...",
     "images": [
       {
-        "imgTitle": "",
-        "imgDetail": "",
-        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/xxx/thumbnail/1.jpg",
-        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/xxx/fullSize/1.jpg"
+        "imgTitle": "Cariera de Cupru",
+        "imgDetail": "Cariera are 68 de trepte seci și lipsite de vegetatație.O treaptă are 15m înălțime.",
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/copperPit/thumbnail/1.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/copperPit/fullSize/1.jpg"
       },
       {
-        "imgTitle": "",
-        "imgDetail": "",
-        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/xxx/thumbnail/2.jpg",
-        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/xxx/fullSize/2.jpg"
+        "imgTitle": "Cariera de Cupru",
+        "imgDetail": "Cariera de Cupru a fost deschisă în perioada comunismului. Atunci funcționau aceste utilaje imense care acum zac în mijlocul carierei.",
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/copperPit/thumbnail/2.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/copperPit/fullSize/2.jpg"
       }
     ]
   },
