@@ -286,6 +286,44 @@
     ]
   },
   {
+    "title": "Tăul Mare",
+    "id": "bigLake",
+    "details": "",
+    "images": [
+      {
+        "imgTitle": "Tăul Mare - vedere de pe ponton",
+        "imgDetail": "",
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/bigLake/thumbnail/1.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/bigLake/fullSize/1.jpg"
+      },
+      {
+        "imgTitle": "Tăul Mare - vedere de pe drumul Carierei de Cupru",
+        "imgDetail": "are forma unei inimi",
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/bigLake/thumbnail/2.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/bigLake/fullSize/2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "model",
+    "id": "xxx",
+    "details": "",
+    "images": [
+      {
+        "imgTitle": "",
+        "imgDetail": "",
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/xxx/thumbnail/1.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/xxx/fullSize/1.jpg"
+      },
+      {
+        "imgTitle": "",
+        "imgDetail": "",
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/xxx/thumbnail/2.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/xxx/fullSize/2.jpg"
+      }
+    ]
+  },
+  {
     "title": "model",
     "id": "xxx",
     "details": "",
