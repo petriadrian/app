@@ -234,14 +234,14 @@
       {
         "imgTitle": "Tăul Țarinii",
         "imgDetail": "Un mic lac de munte. Ca locație de poză vă sugerăm podul care duce la Căsuța de pe lac.",
-        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/tariniLake/thumbnail/1.jpg",
-        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/tariniLake/fullSize/1.jpg"
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/lakes/tariniLake/thumbnail/1.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/lakes/tariniLake/fullSize/1.jpg"
       },
       {
         "imgTitle": "Plaiurile Țarinii",
         "imgDetail": "Dealuri nesârșite presărate ici și colo cu căpițe de fân numai bune să te odihnești pe ele în traseul tău.",
-        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/tariniLake/thumbnail/2.jpg",
-        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/tariniLake/fullSize/2.jpg"
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/lakes/tariniLake/thumbnail/2.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/lakes/tariniLake/fullSize/2.jpg"
       }
     ]
   },
@@ -288,19 +288,76 @@
   {
     "title": "Tăul Mare",
     "id": "bigLake",
-    "details": "",
+    "details": "Chiar după cum îi spune numele acesta este cel mai mare lac din Roșia. Este unul dintre cele mai liniștite și relaxante locuri de pe aici. Pe vremuri era și el folosit pentru antrenarea șteampurilor dar acum este folosit pentru penscuit și agreemet.",
     "images": [
       {
-        "imgTitle": "Tăul Mare - vedere de pe ponton",
-        "imgDetail": "",
-        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/bigLake/thumbnail/1.jpg",
-        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/bigLake/fullSize/1.jpg"
+        "imgTitle": "Tăul Mare - vedere de pe ponton. ",
+        "imgDetail": "Căsuță din mijlocul lui era folosită pentru a elibera apa din tău spre morile șteampurilor care măcinau minereul scos din Cârnic de unde se obținea aurul.",
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/lakes/bigLake/thumbnail/1.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/lakes/bigLake/fullSize/1.jpg"
       },
       {
         "imgTitle": "Tăul Mare - vedere de pe drumul Carierei de Cupru",
-        "imgDetail": "are forma unei inimi",
-        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/bigLake/thumbnail/2.jpg",
-        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/bigLake/fullSize/2.jpg"
+        "imgDetail": "Dacă urcați puțin pe versant o să vedeți că tăul parcă are forma unei inimi de aceea îi se mai spune și Tăul inimă.",
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/lakes/bigLake/thumbnail/2.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/lakes/bigLake/fullSize/2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Lety și Sulei",
+    "id": "letySulei",
+    "details": "Vârfurile Lety și Sulei sunt destul de apropiate unul de celalălt. Din depărtare au forma de șauă, unul este rotund și celălalt este înalt și ascuțit. Pe aici își au cuibul ulii și vulturi astfel că îi puteți vedea adesea cum își iau zborul sau cum planează deasupra.",
+    "images": [
+      {
+        "imgTitle": "Masivul Sulei",
+        "imgDetail": "creasta masivului Sulei este lungă și ascuțită și îți dă parcă impresia că mergi pe o franghie pe care încerci să îți ți echilibrul.",
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/letySulei/thumbnail/1.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/letySulei/fullSize/1.jpg"
+      },
+      {
+        "imgTitle": "Vedere de pe masivul Șulei",
+        "imgDetail": "De aici se vede Masivul Cârnic , Tăul Anghel și valea Roșiei Montane.",
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/letySulei/thumbnail/2.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/letySulei/fullSize/2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Tăul Corna",
+    "id": "cornaLake",
+    "details": "",
+    "images": [
+      {
+        "imgTitle": "",
+        "imgDetail": "",
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/lakes/cornaLake/thumbnail/1.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/lakes/cornaLake/fullSize/1.jpg"
+      },
+      {
+        "imgTitle": "",
+        "imgDetail": "",
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/lakes/cornaLake/thumbnail/2.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/lakes/cornaLake/fullSize/2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "model",
+    "id": "xxx",
+    "details": "",
+    "images": [
+      {
+        "imgTitle": "",
+        "imgDetail": "",
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/xxx/thumbnail/1.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/xxx/fullSize/1.jpg"
+      },
+      {
+        "imgTitle": "",
+        "imgDetail": "",
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/xxx/thumbnail/2.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/xxx/fullSize/2.jpg"
       }
     ]
   },
