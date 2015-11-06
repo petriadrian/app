@@ -54,7 +54,7 @@
     "carouselTimeInterval": "12000"
   },
   {
-    "title": "Drumeții",
+    "title": "Trasee drumeții",
     "id": "hikingPaths",
     "details": "De la plimbări ușoare pe ulițele satului printre biserici și clădiri de patrimoniu până la trasee pe culmi montane, lacuri și monumente naturale <br><i>powered by googleMaps.com</i>",
     "destinationPageLink": "location.href='/casaPetri/pages/activities/hiking.html?lang=ro'",
@@ -72,9 +72,9 @@
     "carouselTimeInterval": "12000"
   },
   {
-    "title": "Ciclism",
+    "title": "Trasee ciclism",
     "id": "cyclingPaths",
-    "details": "Pedaleaza pe traseele de mountain bike propuse pentru toate nivelele de pregatire <br><i>powered by bikemap.net</i>",
+    "details": "De la trasee de MTB pe drumuri de țară printre culmi montane, lacuri  și păduri până la trasee de cursieră pe asfalt spre obiectivele din zonă <br><i>powered by bikemap.net</i>",
     "destinationPageLink": "location.href='/casaPetri/pages/activities/cycling.html?lang=ro'",
     "carouselImages": [
       {

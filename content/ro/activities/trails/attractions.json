@@ -229,7 +229,7 @@
   {
     "title": "Tăul Țarinii",
     "id": "tariniLake",
-    "details": "Țarina este locul unde roșienii au terenurile agricole. Pe aici localnicii plantau boabe (cartofi) sau își țin animalale, de aceea pe multe parcele de teren o sa vedeți vechi șuri(greajduri) ",
+    "details": "Țarina este locul unde roșienii au terenurile agricole. Pe aici localnicii plantează boabe (cartofi), au fânețe, își țin animalele - de aceea o să vedeți terenul împărțit în mici parcele de teren și pe ici colo câte o șură.",
     "images": [
       {
         "imgTitle": "Tăul Țarinii",
@@ -288,17 +288,17 @@
   {
     "title": "Tăul Mare",
     "id": "bigLake",
-    "details": "Chiar după cum îi spune numele acesta este cel mai mare lac din Roșia. Este unul dintre cele mai liniștite și relaxante locuri de pe aici. Pe vremuri era și el folosit pentru antrenarea șteampurilor dar acum este folosit pentru penscuit și agreemet.",
+    "details": "Chiar după cum îi spune numele acesta este cel mai mare lac din Roșia. Este unul dintre cele mai liniștite și relaxante locuri de pe aici. Are și 2 mici pontoane, numai bune de stat și admirat priveliștea sau de selfie :) . Pe vremuri era folosit pentru antrenarea șteampurilor dar acum este folosit pentru penscuit și agreemet.",
     "images": [
       {
-        "imgTitle": "Tăul Mare - vedere de pe ponton. ",
-        "imgDetail": "Căsuță din mijlocul lui era folosită pentru a elibera apa din tău spre morile șteampurilor care măcinau minereul scos din Cârnic de unde se obținea aurul.",
+        "imgTitle": "Tăul Mare",
+        "imgDetail": " Căsuță de pe tău era folosită pentru a elibera apa spre morile șteampurilor care măcinau minereul scos din Cârnic. Așa se obținea aurul.",
         "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/lakes/bigLake/thumbnail/1.jpg",
         "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/lakes/bigLake/fullSize/1.jpg"
       },
       {
-        "imgTitle": "Tăul Mare - vedere de pe drumul Carierei de Cupru",
-        "imgDetail": "Dacă urcați puțin pe versant o să vedeți că tăul parcă are forma unei inimi de aceea îi se mai spune și Tăul inimă.",
+        "imgTitle": "Tăul Mare",
+        "imgDetail": "dacă urcați puțin pe versant o să vedeți că tăul parcă are forma unei inimi de aceea îi se mai spune și Tăul inimă.",
         "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/lakes/bigLake/thumbnail/2.jpg",
         "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/lakes/bigLake/fullSize/2.jpg"
       }
@@ -326,24 +326,24 @@
   {
     "title": "Tăul Corna",
     "id": "cornaLake",
-    "details": "",
+    "details": "Un mic lac la umbra masivului Cârnic - Piatra Corbului. Numele lui vine de la satul Corna care se află chiar în avalul lacului. În cazul în care s-ar fi deschis aici o exploatare minieră acestă zonă s-ar fi aflat pe fundul lacului de cianură.  Satul este mic, liniștit dar extrem de pitoresc, motiv pentru care câțiva bucureșteni au renunțat la aglomerația orașului și s-au mutat aici.",
     "images": [
       {
-        "imgTitle": "",
-        "imgDetail": "",
+        "imgTitle": "Tăul Corna",
+        "imgDetail": "Opriți-vă puțin pe marginea lacului pentru a admira cum se oglindește Piatra Corbului în lac.",
         "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/lakes/cornaLake/thumbnail/1.jpg",
         "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/lakes/cornaLake/fullSize/1.jpg"
       },
       {
-        "imgTitle": "",
-        "imgDetail": "",
+        "imgTitle": "Satul Corna",
+        "imgDetail": "Dacă doriți să explorați zona puteți coborâ până în sat pentru a vizita cele 2 biserici aflate pe culmile satului.",
         "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/lakes/cornaLake/thumbnail/2.jpg",
         "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/lakes/cornaLake/fullSize/2.jpg"
       }
     ]
   },
   {
-    "title": "model",
+    "title": "",
     "id": "xxx",
     "details": "",
     "images": [
