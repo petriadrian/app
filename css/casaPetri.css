@@ -52,12 +52,6 @@ body {
     display: none;
 }
 
-.centralCarousel {
-    width: 75%;
-    float: left;
-    padding: 1px;
-}
-
 .centralCarousel h3 {
     margin: 0;
     color: inherit;
@@ -66,7 +60,7 @@ body {
 
 .centralCarousel .item {
     background: #333;
-    height: 300px !important;
+    height: 350px !important;
 }
 
 .centralCarousel .carousel-inner img {
@@ -88,9 +82,8 @@ body {
 }
 
 .reviewPreviewLayout {
-    width: 25%;
-    height: 300px;
-    float: left;
+    height: 350px;
+    overflow: hidden;
     cursor: pointer;
 }
 
@@ -137,14 +130,21 @@ body {
     background-color: #151F1D;
     color: white;
     margin: 30px 0;
-    min-height: 40px;
+    font-size: 1.6em;
 }
 
-.titleLayout h2 {
+.titleLayout h1 {
     margin: 0;
     padding: 10px;
-    font-size: 1.6em;
-    /*color: white;*/
+}
+
+.advertiseBox {
+    text-align: center;
+    padding: 1% 3%;
+}
+
+.advertiseBox .item img {
+    display: inline-block;
 }
 
 .articleTitle {
@@ -192,33 +192,6 @@ body {
 /*------------------------------------*\
     $ MAIN CAROUSEL
 \*------------------------------------*/
-.carouselHomePage {
-    color: inherit;
-    width: 280px;
-    height: 290px;
-    padding: 5px;
-    display: inline-block;
-    overflow: hidden;
-}
-
-.carouselHomePage .carousel-inner>.item>img {
-    width: 100%;
-    height: 150px;
-}
-
-.increaseCarouselBoxes .carouselHomePage {
-    width: 320px;
-    margin: 0px 20px;
-}
-
-.carouselText {
-    padding-top: 10px;
-}
-
-.carouselTitle {
-    font-size: 1.5em;
-}
-
 .carouselInfo {
     font-size: 0.9em;
 }
@@ -515,29 +488,9 @@ footer section {
         min-height: 230px;
     }
 
-    .reviewPreviewLayout,
-    .centralCarousel {
-        width: 100%;
-    }
-
-    .centralCarousel .item {
-        height: 200px !important;
-    }
-
-    .increaseCarouselBoxes .carouselHomePage {
-        margin: 0px;
-    }
 }
 
 @media only screen and (min-width: 481px) and (max-width: 780px) {
-    .reviewPreviewLayout,
-    .centralCarousel {
-        width: 100%;
-    }
-
-    .reviewPreviewLayout {
-        height: 200px;
-    }
 
     .pageIntro {
         font-size: 2.5em;

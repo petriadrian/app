@@ -18,6 +18,24 @@
     "carouselTimeInterval": "12000"
   },
   {
+    "title": "Mancare",
+    "id": "foodRecommendations",
+    "details": "Cazare la mii de stele sub lumina lunii? Rezerva un loc de cort cu acces la baie si bucatarie",
+    "destinationPageLink": "location.href='/casaPetri/pages/reservations/camping.html?lang=ro'",
+    "carouselImages": [
+      {
+        "carouselImgUrl": "/casaPetri/img/reservations/camping/pageAdvertiseBox/1.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/reservations/camping/pageAdvertiseBox/2.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/reservations/camping/pageAdvertiseBox/3.jpg"
+      }
+    ],
+    "carouselTimeInterval": "12000"
+  },
+  {
     "title": "Campare",
     "id": "bookCamping",
     "details": "Cazare la mii de stele sub lumina lunii? Rezerva un loc de cort cu acces la baie si bucatarie",

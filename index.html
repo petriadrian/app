@@ -2,6 +2,8 @@
 <html>
 <head>
     <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description"
           content="An vintage accommodation up in the Apuseni mountains. See hiking and biking routes from this area and plan your next trip"/>
     <link rel="shortcut icon" type="image/x-icon" href="/casaPetri/img/common/favicon.ico"/>
@@ -34,7 +36,7 @@
 <div class="container">
 
     <!-- CAROUSEL -->
-    <section class="centralCarousel">
+    <section class="col-md-9 centralCarousel">
         <div id="mainCarousel" class="carousel slide" data-ride="carousel" data-interval="10000">
             <ol class="carousel-indicators">
                 <li data-target="#mainCarousel" data-slide-to="0" class="active"></li>
@@ -57,7 +59,7 @@
     </section>
 
     <!-- REVIEWS -->
-    <section class="reviewPreviewLayout" onclick="location.href='/casaPetri/pages/review.html?lang=ro'" title="see more">
+    <section class="col-md-3 reviewPreviewLayout" onclick="location.href='/casaPetri/pages/review.html?lang=ro'" title="see more">
         <div class="reviewPreviewArea defaultClickEvents">
             <div class="carousel slide" data-ride="carousel" data-interval="5000">
                 <div id="reviewCarouselLayout" class="carousel-inner">
@@ -72,12 +74,12 @@
 
     <!-- FIRST SECTION -->
     <section>
-        <div id="firstSectionHeadline">
+        <div id="firstSectionHeadline" class="row">
             <script>
                 dynamicContentLoader('_pageSectionTitles.htm', 'homepage/pageStructure.json', 'firstSectionHeadline', 'firstSectionTitleTemplateId');
             </script>
         </div>
-        <div id="firstSectionContent" class="increaseCarouselBoxes">
+        <div id="firstSectionContent" class="row">
             <script>
                 loadContentWithSpecificIds('_pageAdvertiseBox.tmpl.htm', 'common/pagesAdvertiseBox.json', 'homePage/ourOfferBoxes.json', 'firstSectionContent', 'pageAdvertiserBoxTemplateId');
             </script>
@@ -91,12 +93,12 @@
 
     <!-- SECOND SECTION -->
     <section>
-        <div id="secondSectionHeadline">
+        <div id="secondSectionHeadline" class="row">
             <script>
                 dynamicContentLoader('_pageSectionTitles.htm', 'homepage/pageStructure.json', 'secondSectionHeadline', 'secondSectionTitleTemplateId');
             </script>
         </div>
-        <div id="secondSectionContent" class="increaseCarouselBoxes">
+        <div id="secondSectionContent" class="row">
             <script>
                 loadContentWithSpecificIds('_pageAdvertiseBox.tmpl.htm', 'common/pagesAdvertiseBox.json', 'homePage/activitiesBoxes.json', 'secondSectionContent', 'pageAdvertiserBoxTemplateId');
             </script>
