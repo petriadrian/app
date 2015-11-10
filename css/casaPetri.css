@@ -139,12 +139,21 @@ body {
 }
 
 .advertiseBox {
-    text-align: center;
-    padding: 1% 3%;
+    float: none;
+    display: inline-block;
+    padding: 0.5%;
 }
 
 .advertiseBox .item img {
     display: inline-block;
+    width: 100%;
+    min-height: 150px;
+    max-height: 200px;
+}
+
+.advertiseBox .caption {
+    height: 10em;
+    overflow: hidden;
 }
 
 .articleTitle {

@@ -1,5 +1,6 @@
 <script id="pageAdvertiserBoxTemplateId" type="text/x-jQuery-tmpl">
-    <div class="col-sm-4 col-lg-4 col-md-4 carousel slide advertiseBox defaultClickEvents" data-ride="carousel" data-interval="${carouselTimeInterval}" onclick="${destinationPageLink}">
+    <div class="col-xs-8 col-sm-6 col-md-4 col-lg-3 carousel slide advertiseBox defaultClickEvents" data-ride="carousel" data-interval="${carouselTimeInterval}" onclick="${destinationPageLink}">
+
         <div class="carousel-inner">
             {{each(i, slide) carouselImages}}
                 <div class="item ${(i==0)?"active":""}" title="${title}">
@@ -7,7 +8,9 @@
                 </div>
             {{/each}}
         </div>
-        <h3>${title}</h3>
-        <p>{{html details}}</p>
+        <div class="caption">
+            <h3>${title}</h3>
+            <p>{{html details}}</p>
+        </div>
     </div>
 </script>
