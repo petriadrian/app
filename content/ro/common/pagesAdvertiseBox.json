@@ -74,7 +74,7 @@
   {
     "title": "Trasee drumeții",
     "id": "hikingPaths",
-    "details": "De la plimbări ușoare pe ulițele satului printre biserici și clădiri de patrimoniu până la trasee pe culmi montane, lacuri și monumente naturale <br><i>powered by googleMaps.com</i>",
+    "details": "Plimbări ușoare pe ulițele satului printre biserici și clădiri de patrimoniu până la trasee pe culmi montane, lacuri și monumente naturale",
     "destinationPageLink": "location.href='/casaPetri/pages/activities/hiking.html?lang=ro'",
     "carouselImages": [
       {
@@ -92,7 +92,7 @@
   {
     "title": "Trasee ciclism",
     "id": "cyclingPaths",
-    "details": "De la trasee de MTB pe drumuri de țară printre culmi montane, lacuri  și păduri până la trasee de cursieră pe asfalt spre obiectivele din zonă <br><i>powered by bikemap.net</i>",
+    "details": "Trasee de MTB pe drumuri de țară printre culmi montane, lacuri  și păduri până la trasee de cursieră pe asfalt spre obiectivele din zonă",
     "destinationPageLink": "location.href='/casaPetri/pages/activities/cycling.html?lang=ro'",
     "carouselImages": [
       {

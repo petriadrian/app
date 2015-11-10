@@ -82,23 +82,19 @@ body {
 }
 
 .reviewPreviewLayout {
-    height: 350px;
     overflow: hidden;
     cursor: pointer;
+    border-top: 1px solid #151F1D;
 }
 
 .reviewPreviewArea {
-    height: 100%;
+    height: 5em;
+    margin: 1em;
     overflow: hidden;
 }
 
 .reviewPreviewArea .reviewTitle {
     font-family: 'Open Sans', sans-serif;
-}
-
-.reviewPreviewArea .carousel {
-    height: 90%;
-    padding: 5%;
 }
 
 .reviewPreviewArea .carousel-caption {
@@ -129,7 +125,8 @@ body {
     position: relative;
     background-color: #151F1D;
     color: white;
-    margin: 30px 0;
+    margin: 30px 0px;
+    padding: 0px 1px;
     font-size: 1.6em;
 }
 
@@ -152,7 +149,7 @@ body {
 }
 
 .advertiseBox .caption {
-    height: 10em;
+    height: 11em;
     overflow: hidden;
 }
 
@@ -210,7 +207,6 @@ body {
 }
 
 .starter-template {
-    margin: 30px 0;
     padding: 1%;
     border-top: 1px solid #151F1D;
 }
@@ -484,6 +480,7 @@ footer section {
 
 .navbar-default .navbar-nav > li > a:focus,
 .btn-primary:FOCUS {
+    color: white;
     background-color: #151F1D;
     outline: 0px;
     text-decoration: none;

@@ -33,44 +33,29 @@
     </script>
 </header>
 
-<!-- CAROUSEL -->
-<section class="centralCarousel">
-    <div id="mainCarousel" class="carousel slide" data-ride="carousel" data-interval="10000">
-        <ol class="carousel-indicators">
-            <li data-target="#mainCarousel" data-slide-to="0" class="active"></li>
-            <li data-target="#mainCarousel" data-slide-to="1"></li>
-            <li data-target="#mainCarousel" data-slide-to="2"></li>
-            <li data-target="#mainCarousel" data-slide-to="3"></li>
-            <li data-target="#mainCarousel" data-slide-to="4"></li>
-        </ol>
-        <div id="mainCarouselLayout" class="carousel-inner">
-            <script>
-                dynamicContentLoader('carousel.htm', 'homepage/mainCarousel.json', 'mainCarouselLayout', 'carouselTemplateId');
-            </script>
-        </div>
-        <a class="carousel-control left" href="#mainCarousel" data-slide="prev">
-            <span class="glyphicon glyphicon-chevron-left"></span>
-        </a> <a class="carousel-control right" href="#mainCarousel" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-    </a>
-    </div>
-</section>
-
 <div class="container">
-
-    <!-- REVIEWS -->
-    <section class="reviewPreviewLayout" onclick="location.href='/casaPetri/pages/review.html?lang=ro'" title="see more">
-        <div class="reviewPreviewArea defaultClickEvents">
-            <div class="carousel slide" data-ride="carousel" data-interval="5000">
-                <div id="reviewCarouselLayout" class="carousel-inner">
-                    <script>
-                        dynamicContentLoader('reviewPreview.htm', 'review/reviews.json', 'reviewCarouselLayout', 'reviewPreviewTemplateId');
-                    </script>
-                </div>
+    <!-- CAROUSEL -->
+    <section class="centralCarousel">
+        <div id="mainCarousel" class="carousel slide" data-ride="carousel" data-interval="10000">
+            <ol class="carousel-indicators">
+                <li data-target="#mainCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#mainCarousel" data-slide-to="1"></li>
+                <li data-target="#mainCarousel" data-slide-to="2"></li>
+                <li data-target="#mainCarousel" data-slide-to="3"></li>
+                <li data-target="#mainCarousel" data-slide-to="4"></li>
+            </ol>
+            <div id="mainCarouselLayout" class="carousel-inner">
+                <script>
+                    dynamicContentLoader('carousel.htm', 'homepage/mainCarousel.json', 'mainCarouselLayout', 'carouselTemplateId');
+                </script>
             </div>
+            <a class="carousel-control left" href="#mainCarousel" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left"></span>
+            </a> <a class="carousel-control right" href="#mainCarousel" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right"></span>
+        </a>
         </div>
     </section>
-    <div style="clear: both;"></div>
 
     <!-- FIRST SECTION -->
     <section>
@@ -84,6 +69,20 @@
                 loadContentWithSpecificIds('_pageAdvertiseBox.tmpl.htm', 'common/pagesAdvertiseBox.json', 'homePage/ourOfferBoxes.json', 'firstSectionContent', 'pageAdvertiserBoxTemplateId');
             </script>
         </div>
+
+        <!-- REVIEWS -->
+        <section class="reviewPreviewLayout" onclick="location.href='/casaPetri/pages/review.html?lang=ro'" title="see more">
+            <div class="reviewPreviewArea defaultClickEvents">
+                <div class="carousel slide" data-ride="carousel" data-interval="5000">
+                    <div id="reviewCarouselLayout" class="carousel-inner">
+                        <script>
+                            dynamicContentLoader('reviewPreview.htm', 'review/reviews.json', 'reviewCarouselLayout', 'reviewPreviewTemplateId');
+                        </script>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div style="clear: both;"></div>
         <div id="facilitiesAdvertise">
             <script>
                 dynamicContentLoader('pageAdvertise.htm', 'facilities/pageStructure.json', 'facilitiesAdvertise', 'pageAdvertiseTemplateId');
