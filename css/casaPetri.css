@@ -52,6 +52,10 @@ body {
     display: none;
 }
 
+.carousel {
+    padding: 0px;
+}
+
 .centralCarousel h3 {
     margin: 0;
     color: inherit;
@@ -69,8 +73,6 @@ body {
 }
 
 .centralCarousel .carousel-caption {
-    padding-bottom: 10px;
-    padding-top: 0px;
     text-shadow: -1px -1px 3px #000,
     1px -1px 3px #000,
     -1px 1px 3px #000,
@@ -83,14 +85,13 @@ body {
 
 .reviewPreviewLayout {
     cursor: pointer;
-    border-top: 1px solid #151F1D;
-    padding: 20px 0;
 }
 
 .reviewPreviewArea {
     font-family: 'Merienda', cursive;
     overflow: hidden;
-    height: 4.5em;
+    margin: 5px 0px;
+    height: 6em;
     float: none;
     display: inline-block;
 }
@@ -112,13 +113,10 @@ body {
 }
 
 .titleLayout {
-    text-align: left;
     position: relative;
-    background-color: #151F1D;
-    color: white;
-    margin: 30px 0px;
-    padding: 0px 1px;
-    font-size: 1.6em;
+    border-bottom: 1px solid #B9B9B9;
+    margin: 60px 0px 30px 0px;
+    font-size: 2.3em;
 }
 
 .titleLayout h1 {
@@ -129,7 +127,7 @@ body {
 .advertiseBox {
     float: none;
     display: inline-block;
-    padding: 0.5%;
+    padding: 1%;
 }
 
 .advertiseBox .item img {
@@ -199,7 +197,7 @@ body {
 
 .starter-template {
     padding: 1%;
-    border-top: 1px solid #151F1D;
+    border-top: 1px solid #B9B9B9;
 }
 
 .starter-template h1 {
@@ -217,27 +215,22 @@ body {
 
 footer {
     background-color: #151F1D;
-    margin-top: 30px;
-    padding: 50px 10px;
-    font-size: 0.8em;
+    padding: 30px 0px;
     color: gray;
 }
 
-footer section {
-    width: 250px;
-    max-height: 155px;
-    padding: 10px;
+footer section,
+footer .row section{
+    margin: 2% 0px;
     overflow: hidden;
+    float: none;
     display: inline-block;
+    vertical-align: middle;
 }
 
 .form-control{
     font-size: inherit;
     border: 1px solid #b8b8b8;
-}
-
-.footerFeedback .form-group {
-    margin-bottom: 0px;
 }
 
 .footerFeedback input,
@@ -250,7 +243,6 @@ footer section {
     background-color: #1D2626;
     color: white;
     padding: 3px 12px;
-    height: inherit;
 }
 
 .footerFeedback button {
@@ -268,11 +260,6 @@ footer section {
 .footerFeedback textarea:FOCUS {
     background-color: white;
     color: #151F1D;
-}
-
-.businessCard .cardTitle {
-    font-size: 1.2em;
-    margin-bottom: 8px;
 }
 
 .businessCard p {
