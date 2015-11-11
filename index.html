@@ -71,8 +71,8 @@
         </div>
 
         <!-- REVIEWS -->
-        <section class="reviewPreviewLayout" onclick="location.href='/casaPetri/pages/review.html?lang=ro'" title="see more">
-            <div class="reviewPreviewArea defaultClickEvents">
+        <section class="reviewPreviewLayout defaultClickEvents row" onclick="location.href='/casaPetri/pages/review.html?lang=ro'" title="see more">
+            <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8 reviewPreviewArea">
                 <div class="carousel slide" data-ride="carousel" data-interval="5000">
                     <div id="reviewCarouselLayout" class="carousel-inner">
                         <script>
@@ -82,10 +82,10 @@
                 </div>
             </div>
         </section>
-        <div style="clear: both;"></div>
-        <div id="facilitiesAdvertise">
+
+        <div id="facilitiesAdvertise" class="row">
             <script>
-                dynamicContentLoader('pageAdvertise.htm', 'facilities/pageStructure.json', 'facilitiesAdvertise', 'pageAdvertiseTemplateId');
+                dynamicContentLoader('_pageAdvertise.htm', 'facilities/pageStructure.json', 'facilitiesAdvertise', 'pageAdvertiseTemplateId');
             </script>
         </div>
     </section>
@@ -104,7 +104,7 @@
         </div>
         <div id="topAttractionsAdvertise">
             <script>
-                dynamicContentLoader('pageAdvertise.htm', 'activities/trails/topAttractions/pageStructure.json', 'topAttractionsAdvertise', 'pageAdvertiseTemplateId');
+                dynamicContentLoader('_pageAdvertise.htm', 'activities/trails/topAttractions/pageStructure.json', 'topAttractionsAdvertise', 'pageAdvertiseTemplateId');
             </script>
         </div>
     </section>

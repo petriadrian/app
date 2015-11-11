@@ -1,4 +1,17 @@
 <script id="reviewPreviewTemplateId" type="text/x-jQuery-tmpl">
+
+        <section class="reviewPreviewLayout defaultClickEvents row" onclick="location.href='/casaPetri/pages/review.html?lang=ro'" title="see more">
+            <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8 reviewPreviewArea">
+                <div class="carousel slide" data-ride="carousel" data-interval="5000">
+                    <div id="reviewCarouselLayout" class="carousel-inner">
+                        <script>
+                            dynamicContentLoader('reviewPreview.htm', 'review/reviews.json', 'reviewCarouselLayout', 'reviewPreviewTemplateId');
+                        </script>
+</div>
+</div>
+</div>
+</section>
+
     <div class="item ${firstCarouselElement}">
         <div class="carousel-caption">
             <div class="reviewTitle">
