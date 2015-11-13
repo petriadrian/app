@@ -1,7 +1,7 @@
 [
   {
-    "title": "Principalele Obiective",
-    "details": "| 5h |Dacă stai doar o zi în Roșia, acest traseu include principalel atracții pe care ar trebui să le vezi",
+    "title": "Top 10 Atracții",
+    "details": "| <b>5h</b> | Ești doar în trecere prin Roșia? :( Parcurge acest traseu pentru a descoperi principalele obiective de aici.",
     "destinationPageLink": "location.href='/casaPetri/pages/activities/trails/topAttractions.html?lang=ro'",
     "carouselImages": [
       {
@@ -17,39 +17,7 @@
   },
   {
     "title": "Detunata",
-    "details": "| 8h | Pornim din centrul istoric spre Tăul Mare, tecem prin câteva cătun de munte până ajungem la coloanele de bazalt de la Detunata",
-    "destinationPageLink": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html?lang=ro'",
-    "carouselImages": [
-      {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/1.jpg"
-      },
-      {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/2.jpg"
-      },
-      {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/3.jpg"
-      }
-        ],     "carouselTimeInterval": "12000"
-  },
-  {
-    "title": "4 lacuri",
-    "details": "| 8h |",
-    "destinationPageLink": "location.href='/casaPetri/pages/activities/trails/fourLakes.html?lang=ro'",
-    "carouselImages": [
-      {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/fourLakes/pageAdvertiseBox/1.jpg"
-      },
-      {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/fourLakes/pageAdvertiseBox/2.jpg"
-      },
-      {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/fourLakes/pageAdvertiseBox/3.jpg"
-      }
-        ],     "carouselTimeInterval": "12000"
-  },
-  {
-    "title": "Detunata",
-    "details": "| 12h |",
+    "details": "| <b>8h</b> | Pornim din centrul istoric spre Tăul Mare, tecem prin câteva cătune de munte până ajungem pe vârful coloanelor de bazalt de la Detunata",
     "destinationPageLink": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html?lang=ro'",
     "carouselImages": [
       {
@@ -65,7 +33,7 @@
   },
   {
     "title": "Geamana",
-    "details": "| 12h |",
+    "details": "| <b>9h</b> | ",
     "destinationPageLink": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html?lang=ro'",
     "carouselImages": [
       {

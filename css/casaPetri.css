@@ -63,8 +63,8 @@ body {
 }
 
 .centralCarousel .item {
-    background: #333;
-    height: 350px !important;
+    background: #151F1D;
+    height: 450px;
 }
 
 .centralCarousel .carousel-inner img {
@@ -475,7 +475,7 @@ footer .row section{
     }
 
     .centralCarousel .item {
-        height: 200px !important;
+        height: 200px;
     }
 
 }
@@ -488,6 +488,6 @@ footer .row section{
     }
 
     .centralCarousel .item {
-        height: 250px !important;
+        height: 350px;
     }
 }
