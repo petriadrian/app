@@ -1,7 +1,7 @@
 [
   {
     "title": "Principalele Obiective",
-    "details": "| 8h |Biserici, Cladiri patrimoniu, Taul Brazi",
+    "details": "| 5h |Dacă stai doar o zi în Roșia, acest traseu include principalel atracții pe care ar trebui să le vezi",
     "destinationPageLink": "location.href='/casaPetri/pages/activities/trails/topAttractions.html?lang=ro'",
     "carouselImages": [
       {
@@ -16,8 +16,8 @@
         ],     "carouselTimeInterval": "12000"
   },
   {
-    "title": "Lety si Sulei",
-    "details": "| 8h | Vaidoaia, Taul Mare, Lety si Sulei, Cariera Rosia Poieni, Piatra Corbului, Sfinx, Taul Brazi",
+    "title": "Detunata",
+    "details": "| 8h | Pornim din centrul istoric spre Tăul Mare, tecem prin câteva cătun de munte până ajungem la coloanele de bazalt de la Detunata",
     "destinationPageLink": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html?lang=ro'",
     "carouselImages": [
       {

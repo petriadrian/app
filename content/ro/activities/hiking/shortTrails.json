@@ -1,7 +1,7 @@
 [
   {
     "title": "Centrul istoric",
-    "details": "| 4h | O plimbare ușoară pe ulițele satului printre cladiri de patrimoniu, biserici, gospodării, puncte panoramice și Tăul Brazi",
+    "details": "| 2h | Cartierul nemțesc Berg, Băncuța panormaică, cladiri de patrimoniu, Biserica Unitarină, Biserica Romano-Catolică, Tăul Brazi",
     "destinationPageLink": "location.href='/casaPetri/pages/activities/trails/historicalCenter.html?lang=ro'",
     "carouselImages": [
       {
@@ -17,8 +17,8 @@
     "carouselTimeInterval": "12000"
   },
   {
-    "title": "Galeriile Romane - Muzeu",
-    "details": "| 3h |Muzeul Mineritului, Biserica Greco-Catolica",
+    "title": "Sfinxul",
+    "details": "| 2h |Strada Siciliană, Tăul Brazi, Platoul Cârnic, Piatra Corbului, Sfinxul",
     "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
     "carouselImages": [
       {
@@ -34,8 +34,8 @@
     "carouselTimeInterval": "12000"
   },
   {
-    "title": "Tarina",
-    "details": "| 4h |Bancuta Panoramica, Taul tarinii, Satul Tarina",
+    "title": "Galeriile Romane Muzeu",
+    "details": "| 3h | Galeriile romane, Biserica Greco-Catolică, Orlea, Sculpturi Calcar",
     "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
     "carouselImages": [
       {
@@ -51,8 +51,25 @@
     "carouselTimeInterval": "12000"
   },
   {
-    "title": "Vaidoaia",
-    "details": "| 6h |Galeria si masivul Vaidoaia, Taul Mare, Masivele Lety si Sulei",
+    "title": "Stația Meteo",
+    "details": "| 4h |Băncuța Panoramică, Taul Țarinii, Stația Meteo(1240m), Tăul Mare, Galeria Văidoia",
+    "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
+    "carouselImages": [
+      {
+        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/1.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/2.jpg"
+      },
+      {
+        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/3.jpg"
+      }
+    ],
+    "carouselTimeInterval": "12000"
+  },
+  {
+    "title": "Lety și Șulei",
+    "details": "| 4h |Strada Siciliană, Tăul Brazi, Platoul Cârnic, Piatra Corbului, Sfinxul, Masivul Lety și Șulei, Tăul Mare, Galeria Vaidoaia",
     "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
     "carouselImages": [
       {
