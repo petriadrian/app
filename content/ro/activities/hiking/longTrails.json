@@ -1,7 +1,7 @@
 [
   {
     "title": "Top 10 Atracții",
-    "details": "| <b>5h</b> | Ești doar în trecere prin Roșia? :( Parcurge acest traseu pentru a descoperi principalele obiective de aici.",
+    "details": "| <b>5h</b> | Ești doar în trecere prin Roșia? Parcurge acest traseu pentru a descoperi principalele obiective de aici.",
     "destinationPageLink": "location.href='/casaPetri/pages/activities/trails/topAttractions.html?lang=ro'",
     "carouselImages": [
       {
@@ -13,11 +13,12 @@
       {
         "carouselImgUrl": "/casaPetri/img/activities/trails/topAttractions/pageAdvertiseBox/3.jpg"
       }
-        ],     "carouselTimeInterval": "12000"
+    ],
+    "carouselTimeInterval": "12000"
   },
   {
     "title": "Detunata",
-    "details": "| <b>8h</b> | Pornim din centrul istoric spre Tăul Mare, tecem prin câteva cătune de munte până ajungem pe vârful coloanelor de bazalt de la Detunata",
+    "details": "| <b>8h</b> | Pornim spre Tăul Mare, tecem prin câteva cătune de munte până ajungem pe vârful coloanelor de bazalt",
     "destinationPageLink": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html?lang=ro'",
     "carouselImages": [
       {
@@ -29,11 +30,12 @@
       {
         "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/3.jpg"
       }
-        ],     "carouselTimeInterval": "12000"
+    ],
+    "carouselTimeInterval": "12000"
   },
   {
-    "title": "Geamana",
-    "details": "| <b>9h</b> | ",
+    "title": "Geamăna",
+    "details": "| <b>9h</b> | Care este prețul metalelor din telefonul tău sau laptop? Vezi cariera de suprafață și satul îngropat în steril",
     "destinationPageLink": "location.href='pages/hiking/trails/longTrails/historicalCenter/historicalCenter.html?lang=ro'",
     "carouselImages": [
       {
@@ -45,6 +47,7 @@
       {
         "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/3.jpg"
       }
-        ],     "carouselTimeInterval": "12000"
+    ],
+    "carouselTimeInterval": "12000"
   }
 ]

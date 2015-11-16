@@ -8,7 +8,7 @@
     "secondSectionIconFontAwesomeClass": "fa fa-bed",
     "seeAlsoSectionTitleText": "Vezi și",
     "seeAlsoIconFontAwesomeClass": "fa fa-coffee",
-    "destinationPageLink": "/casapetri/pages/reservations/rooms.html",
-    "backgroundImgUrl": "/casapetri/img/reservations/rooms/introBackground.png"
+    "destinationPageLink": "/casapetri/pages/accommodation/casaPetri/rooms.html",
+    "backgroundImgUrl": "/casapetri/img/accommodation/casaPetri/rooms/pageAdvertiserDefault.jpg"
   }
 ]

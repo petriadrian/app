@@ -116,12 +116,27 @@
         "imgDetail": "Acesta este stilul tradițional al caselor din zonă simplu și elegant. Văruite în alb complet și cu geamurile de culoare gri. ",
         "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/sicilianStreet/thumbnail/2.jpg",
         "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/sicilianStreet/fullSize/2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Casa Szekey",
+    "id": "szekeyHouse",
+    "details": "'Strada Siciliana din Rosia Montana e o strada istorica. Aproape un muzeu in sine. Foarte ingusta, porneste din piata cea mare, urcand in curbe stranse printre case batrane, uriase, lipite intre ele, ca un tunel serpuit. O strada medievala, asemeni celor din vechile orase italiene, zagazuita de case trainice, baroce, cu etaj si pereti grosi. Cladiri superbe, in ciuda decrepitudinii lor, unde-au trait odinioara marii aurari ai Rosiei, stapanii comorilor din Muntii Apuseni.'",
+    "moreDetailsLink": "http://www.formula-as.ro/2006/731/societate-37/rosia-montana-un-dor-la-fel-ca-si-moartea-7261",
+    "moreDetailsText": "Aflați câteva din poveștile acestei străzi aici...",
+    "images": [
+      {
+        "imgTitle": "Casa Parohială Unitariană și Școala Maghiară",
+        "imgDetail": "Casa Parohială s-a dezvoltat cel mai bine dintre casele de patrimoniu din zonă. În prezent este restaurata aproape complet și vara se țin aici diverse tabere și evenimente",
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/szekeyHouse/thumbnail/1.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/szekeyHouse/fullSize/1.jpg"
       },
       {
         "imgTitle": "Casa Szekely",
         "imgDetail": "Ne abatem puțin de la stradă ca să ajungem la o casă cu o poartă și un zid impunător. Aici s-a filmat 'Nunta de piatră'. În spate este masivul Văldoaia.",
-        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/sicilianStreet/thumbnail/3.jpg",
-        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/sicilianStreet/fullSize/3.jpg"
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/szekeyHouse/thumbnail/2.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/szekeyHouse/fullSize/2.jpg"
       }
     ]
   },

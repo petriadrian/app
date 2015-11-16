@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Relaxeză-te în hamacul cu priveliște citind o carte din 'Dulapul cu cărți'",
+    "details": "Vezi aici facilitățile și locușoarele cosy de la Casa Petri",
+    "firstSectionTitleText": "Cosy Spot",
+    "firstSectionIconFontAwesomeClass": "fa fa-heart",
+    "secondSectionTitleText": "Utile",
+    "secondSectionIconFontAwesomeClass": "fa fa-umbrella",
+    "seeAlsoSectionTitleText": "Vezi și",
+    "seeAlsoIconFontAwesomeClass": "fa fa-coffee",
+    "destinationPageLink": "/casaPetri/pages/accommodation/casaPetri/facilities.html?lang=ro",
+    "backgroundImgUrl": "/casaPetri/img/accommodation/casaPetri/facilities/pageAdvertiserDefault.jpg"
+  }
+]
