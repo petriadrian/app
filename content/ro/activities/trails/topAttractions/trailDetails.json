@@ -9,7 +9,7 @@
         "indicationIconFontAwesomeClass": "fa fa-clock-o"
       },
       {
-        "indicationHoverText": "lungime",
+        "indicationHoverText": "lungime dus-întors",
         "indicationText": "10km",
         "indicationIconFontAwesomeClass": "fa fa-arrows-h"
       },

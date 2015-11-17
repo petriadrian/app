@@ -19,7 +19,7 @@
   {
     "title": "Sfinxul",
     "details": "| <b>2h</b> | De pe ulițele satului ajungem la Tăul Brazi și apoi până pe vîrful Cârnicului la Piatra Corbului și la Sfinx",
-    "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
+    "destinationPageLink": "location.href='/casaPetri/pages/activities/trails/sfinx.html?lang=ro'",
     "carouselImages": [
       {
         "carouselImgUrl": "/casaPetri/img/activities/trails/sfinx/pageAdvertiseBox/1.jpg"
@@ -36,16 +36,16 @@
   {
     "title": "Galeriile Romane",
     "details": "| <b>3h</b> | Vizităm centrul nou si apoi mergem la muzeu unde pătrundem în adâncuri pe urmele aurarilor.",
-    "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
+    "destinationPageLink": "location.href='/casaPetri/pages/activities/trails/romanGalleries.html?lang=ro'",
     "carouselImages": [
       {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/1.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/trails/romanGalleries/pageAdvertiseBox/1.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/2.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/trails/romanGalleries/pageAdvertiseBox/2.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/3.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/trails/romanGalleries/pageAdvertiseBox/3.jpg"
       }
     ],
     "carouselTimeInterval": "12000"
@@ -53,16 +53,16 @@
   {
     "title": "Stația Meteo",
     "details": "| <b>4h</b> | Descoperim plaiurile Țarnii, apele liniștite ale tăurilor și priveliștea întregului ținut de pe Vârful Rotundu.",
-    "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
+    "destinationPageLink": "location.href='/casaPetri/pages/activities/trails/weatherStation.html?lang=ro'",
     "carouselImages": [
       {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/1.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/trails/weatherStation/pageAdvertiseBox/1.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/2.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/trails/weatherStation/pageAdvertiseBox/2.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/3.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/trails/weatherStation/pageAdvertiseBox/3.jpg"
       }
     ],
     "carouselTimeInterval": "12000"
@@ -70,16 +70,16 @@
   {
     "title": "Lety și Șulei",
     "details": "| <b>4h</b> | Urcăm pe 2 culmi cu forme ciudate, întâlnim 2 tăuri minunate și o galerie cu urme de filoane de aur",
-    "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
+    "destinationPageLink": "location.href='/casaPetri/pages/activities/trails/letySulei.html?lang=ro'",
     "carouselImages": [
       {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/1.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/trails/letySulei/pageAdvertiseBox/1.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/2.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/trails/letySulei/pageAdvertiseBox/2.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/3.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/trails/letySulei/pageAdvertiseBox/3.jpg"
       }
     ],
     "carouselTimeInterval": "12000"

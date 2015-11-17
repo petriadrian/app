@@ -5,12 +5,12 @@
     "indicationsBoxes": [
       {
         "indicationHoverText": "durată",
-        "indicationText": "3h",
+        "indicationText": "2h",
         "indicationIconFontAwesomeClass": "fa fa-clock-o"
       },
       {
-        "indicationHoverText": "lungime",
-        "indicationText": "3km",
+        "indicationHoverText": "lungime dus-întors",
+        "indicationText": "5km",
         "indicationIconFontAwesomeClass": "fa fa-arrows-h"
       },
       {
