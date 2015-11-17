@@ -1,14 +1,14 @@
 [
   {
-    "id": "cyclingPaths"
-  },
-  {
     "id": "bookRooms"
   },
   {
     "id": "bookCamping"
   },
   {
-    "id": "houseReviews"
+    "id": "hikingPaths"
+  },
+  {
+    "id": "cyclingPaths"
   }
 ]

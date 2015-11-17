@@ -18,17 +18,17 @@
   },
   {
     "title": "Sfinxul",
-    "details": "| <b>2h</b> | Un urcuș pe ulițele satului până în vîrful muntelui Cârnic la monumentul băieșilor - Sfinxul",
+    "details": "| <b>2h</b> | De pe ulițele satului ajungem la Tăul Brazi și apoi până pe vîrful Cârnicului la Piatra Corbului și la Sfinx",
     "destinationPageLink": "location.href='pages/hiking/trails/shortTrails/historicalCenter/historicalCenter.html?lang=ro'",
     "carouselImages": [
       {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/1.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/trails/sfinx/pageAdvertiseBox/1.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/2.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/trails/sfinx/pageAdvertiseBox/2.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/historicalCenter/pageAdvertiseBox/3.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/trails/sfinx/pageAdvertiseBox/3.jpg"
       }
     ],
     "carouselTimeInterval": "12000"
