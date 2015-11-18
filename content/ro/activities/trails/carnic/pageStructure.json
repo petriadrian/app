@@ -1,6 +1,6 @@
 [
   {
-    "title": "Urcăm pe acoperișul întregului ținut la Sfinxul Cârnic",
+    "title": "Urcăm pe acoperișul întregului ținut - masivul Cârnic",
     "details": "",
     "firstSectionTitleText": "Traseu",
     "firstSectionIconFontAwesomeClass": "fa fa-map-signs",
@@ -8,7 +8,7 @@
     "secondSectionIconFontAwesomeClass": "fa fa-star",
     "seeAlsoSectionTitleText": "Vezi și",
     "seeAlsoIconFontAwesomeClass": "fa fa-coffee",
-    "destinationPageLink": "/casaPetri/pages/activities/trails/sfinx.html?lang=ro",
-    "backgroundImgUrl": "/casaPetri/img/activities/trails/sfinx/pageAdvertiserDefault.jpg"
+    "destinationPageLink": "/casaPetri/pages/activities/trails/carnic.html?lang=ro",
+    "backgroundImgUrl": "/casaPetri/img/activities/trails/carnic/pageAdvertiserDefault.jpg"
   }
 ]

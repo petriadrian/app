@@ -5,7 +5,7 @@
     "indicationsBoxes": [
       {
         "indicationHoverText": "durată",
-        "indicationText": "2h",
+        "indicationText": "3h",
         "indicationIconFontAwesomeClass": "fa fa-clock-o"
       },
       {

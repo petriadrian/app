@@ -17,25 +17,25 @@
     "carouselTimeInterval": "12000"
   },
   {
-    "title": "Sfinxul",
-    "details": "| <b>2h</b> | De pe ulițele satului ajungem la Tăul Brazi și apoi până pe vîrful Cârnicului la Piatra Corbului și la Sfinx",
-    "destinationPageLink": "location.href='/casaPetri/pages/activities/trails/sfinx.html?lang=ro'",
+    "title": "Cârnicul",
+    "details": "| <b>3h</b> | De pe ulițele satului ajungem la Tăul Brazi și apoi urcăm pe masivul Cârnic la Piatra Corbului și la Sfinx",
+    "destinationPageLink": "location.href='/casaPetri/pages/activities/trails/carnic.html?lang=ro'",
     "carouselImages": [
       {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/sfinx/pageAdvertiseBox/1.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/trails/carnic/pageAdvertiseBox/1.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/sfinx/pageAdvertiseBox/2.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/trails/carnic/pageAdvertiseBox/2.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/activities/trails/sfinx/pageAdvertiseBox/3.jpg"
+        "carouselImgUrl": "/casaPetri/img/activities/trails/carnic/pageAdvertiseBox/3.jpg"
       }
     ],
     "carouselTimeInterval": "12000"
   },
   {
     "title": "Galeriile Romane",
-    "details": "| <b>3h</b> | Vizităm centrul nou si apoi mergem la muzeu unde pătrundem în adâncuri pe urmele aurarilor.",
+    "details": "| <b>3h</b> | Pătrundem în adâncul masivului Orlea, în galeriile romane și apoi vizităm atracțiile din zonă",
     "destinationPageLink": "location.href='/casaPetri/pages/activities/trails/romanGalleries.html?lang=ro'",
     "carouselImages": [
       {
