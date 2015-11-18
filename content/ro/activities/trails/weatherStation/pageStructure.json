@@ -1,6 +1,6 @@
 [
   {
-    "title": "Urcăm pe acoperișul întregului ținut la Sfinxul Cârnic",
+    "title": "Descoperă împrejurimile prin turul celor 4 lacuri",
     "details": "",
     "firstSectionTitleText": "Traseu",
     "firstSectionIconFontAwesomeClass": "fa fa-map-signs",
@@ -8,7 +8,7 @@
     "secondSectionIconFontAwesomeClass": "fa fa-star",
     "seeAlsoSectionTitleText": "Vezi și",
     "seeAlsoIconFontAwesomeClass": "fa fa-coffee",
-    "destinationPageLink": "/casaPetri/pages/activities/trails/sfinx.html?lang=ro",
-    "backgroundImgUrl": "/casaPetri/img/activities/trails/sfinx/pageAdvertiserDefault.jpg"
+    "destinationPageLink": "/casaPetri/pages/activities/trails/weatherStation.html?lang=ro",
+    "backgroundImgUrl": "/casaPetri/img/activities/trails/weatherStation/pageAdvertiserDefault.jpg"
   }
 ]
