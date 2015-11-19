@@ -24,22 +24,23 @@ function dynamicContentLoader(templatePathSuffix, contentPathSuffix, idParentEle
     });
 }
 
-function loadContentWithSpecificIds(templatePathSuffix, existingItemsPathSuffix, itemsToBeLoadedPathSuffix, idParentElement, templateId) {
+function loadContentWithSpecificIds(templatePathSuffix, allItemsContentPathSuffix, itemsToBeLoadedPathSuffix, idParentElement, templateId) {
     $.getJSON('/casaPetri/content/' + getLanguage() + '/' + itemsToBeLoadedPathSuffix, function (neededItems) {
         var neededItemsIds = [];
         $.each(neededItems, function (key, neededItem) {
             neededItemsIds.push(neededItem.id);
         });
-        $.getJSON('/casaPetri/content/' + getLanguage() + '/' + existingItemsPathSuffix, function (existingItems) {
+        $.getJSON('/casaPetri/content/' + getLanguage() + '/' + allItemsContentPathSuffix, function (allItemsContent) {
             $.get('/casaPetri/template/' + templatePathSuffix, function (template) {
                 $('#' + idParentElement).append(template);
-                var finalItems = [];
-                $.each(existingItems, function (key, existingItem) {
-                    if (neededItemsIds.indexOf(existingItem.id) > -1) {
-                        finalItems.splice(neededItemsIds.indexOf(existingItem.id), 0, existingItem);
+                var finalItems = new Array(neededItemsIds.length);
+                $.each(allItemsContent, function (key, itemContent) {
+                    var itemPosition = neededItemsIds.indexOf(itemContent.id);
+                    if (itemPosition > -1) {
+                        finalItems[itemPosition] = itemContent;
                     }
                 });
-                $.each(finalItems, function( key, finalItem ) {
+                $.each(finalItems, function (key, finalItem) {
                     $('#' + templateId).tmpl(finalItem).appendTo('#' + idParentElement);
                 });
             });
