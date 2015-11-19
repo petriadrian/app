@@ -2,7 +2,7 @@
   {
     "title": "Galeriile Romane - Muzeu",
     "id": "romanGalleries",
-    "details": "Va recomandăm să vă începeți aventura cu galeriile romane de la Muzeul Mineritului pentru că sunt deschise doar de dimineață. Drumul de la Casa Petri la Muzeu este asfaltat. Accesul se face <b>insotit de un ghid al Muzeului</b> și turul durează cam 1 ora si 30 de minute. Patrunde-ti in adancul muntiilor si descoperiti galeriile antice, trapeizoidale, realizate in perioada ocupatiei romane in Dacia pentru a extrage aurul. Sute de tone de aur au fost duse de aici și o mare parte din Roma a fost construită cu aceste resurse. Nu ratati si exponatele din muzeu ca de exemplu Steampurile și monumentele funerare.",
+    "details": "Va recomandăm să vă începeți aventura cu Galeriile Romane de la Muzeul Mineritului pentru că sunt deschise doar de dimineață. Accesul se face <b>insotit de un ghid al Muzeului</b> și turul durează cam 1 ora si 30 de minute. Patrunde-ti in adancul muntiilor si descoperiti galeriile antice realizate in perioada ocupatiei romane in Dacia pentru a extrage aurul. Nu ratati si exponatele din muzeu ca de exemplu Steampurile și monumentele funerare.",
     "moreDetailsLink": "http://www.alba.djc.ro/ObiectiveDetalii.aspx?ID=2184",
     "moreDetailsText": "Mai multe detalii despre muzeu aici.",
     "images": [
@@ -23,17 +23,17 @@
   {
     "title": "Biserica Greco-Catolica",
     "id": "grecoCatholicChurch",
-    "details": "Dupa ce ne-am odihnit puțin ne intoarcem spre centrul istoric la Biserica Romano-Catolică. Asezarea ei deasupra satului fac ca turla ei cu ceas sa fie vizibila din tot satul si sunetul clopotelor ei se pot auzi de la orice casa din sat. Am auzit de la bunici ca mormantul chiar din fata bisericii cu marmura neagra esta a celui care a finantat constructia bisericii. Legenda spune ca in timp ce acesta cauta aur pe galerii s-a intalnit cu valva baii si a facut un pact cu aceasta referitor la aceasta biserica. Nu va spunem mai mult ... veniti la Rosia si intrebati vreun localnic pentru a afla mai mult.",
+    "details": "",
     "images": [
       {
-        "imgTitle": "Biserica Romano-Catolica",
-        "imgDetail": "Slujbele au loc in prima duminica din luna. La sfarsitul fiecarei slujbe se canta la orga din interiorul ei",
+        "imgTitle": "Turnul biserici Greco-Catolică",
+        "imgDetail": "",
         "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/churches/grecoCatholicChurch/thumbnail/1.jpg",
         "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/churches/grecoCatholicChurch/fullSize/1.jpg"
       },
       {
-        "imgTitle": "Biserica Romano-Catolica",
-        "imgDetail": " Slujba de inviere: Satenii aduc intr-un cos mancare pentru a fii sfintita iar mormantul mantuitorului din interiorul bisericii este pazit intreaga zi de 7 garzi, iar la ora 00:00 in momentul invierii acestia elibereaza intrarea.",
+        "imgTitle": "Biserica Greco-Catolica",
+        "imgDetail": " ",
         "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/churches/grecoCatholicChurch/thumbnail/2.jpg",
         "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/churches/grecoCatholicChurch/fullSize/2.jpg"
       }
@@ -61,7 +61,7 @@
   {
     "title": "Biserica Romano-Catolica",
     "id": "romanCatholicChurch",
-    "details": "Dupa ce ne-am odihnit puțin ne intoarcem spre centrul istoric la Biserica Romano-Catolică. Asezarea ei deasupra satului fac ca turla ei cu ceas sa fie vizibila din tot satul si sunetul clopotelor ei se pot auzi de la orice casa din sat. Am auzit de la bunici ca mormantul chiar din fata bisericii cu marmura neagra esta a celui care a finantat constructia bisericii. Legenda spune ca in timp ce acesta cauta aur pe galerii s-a intalnit cu valva baii si a facut un pact cu aceasta referitor la aceasta biserica. Nu va spunem mai mult ... veniti la Rosia si intrebati vreun localnic pentru a afla mai mult.",
+    "details": "Asezarea acestei biserici, deasupra satului fac ca turla ei cu ceas sa fie vizibila din tot satul si sunetul clopotelor ei se pot auzi de la orice casa din sat. Am auzit de la bunici ca mormantul chiar din fata bisericii cu marmura neagra esta a celui care a finantat constructia bisericii. Legenda spune ca in timp ce acesta cauta aur pe galerii s-a intalnit cu valva baii si a facut un pact cu aceasta referitor la aceasta biserica. Nu va spunem mai mult ... veniti la Rosia si intrebati vreun localnic pentru a afla mai mult.",
     "images": [
       {
         "imgTitle": "Biserica Romano-Catolica",

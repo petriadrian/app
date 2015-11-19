@@ -1,5 +1,8 @@
 [
   {
+    "id": "panoramicBench"
+  },
+  {
     "id": "tariniLake"
   },
   {
@@ -9,15 +12,9 @@
     "id": "bigLake"
   },
   {
-    "id": "letySulei"
+    "id": "vaidoaiaGalleries"
   },
   {
-    "id": "cornaLake"
-  },
-  {
-    "id": "braziLake"
-  },
-  {
-    "id": ""
+    "id": "sicilianStreet"
   }
 ]
