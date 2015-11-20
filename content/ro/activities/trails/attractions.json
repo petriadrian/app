@@ -377,21 +377,21 @@
     ]
   },
   {
-    "title": "",
-    "id": "xxx",
-    "details": "",
+    "title": "Detunata",
+    "id": "detunata",
+    "details": "lala",
     "images": [
       {
         "imgTitle": "",
         "imgDetail": "",
-        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/xxx/thumbnail/1.jpg",
-        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/xxx/fullSize/1.jpg"
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/detunata/thumbnail/1.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/detunata/fullSize/1.jpg"
       },
       {
         "imgTitle": "",
         "imgDetail": "",
-        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/xxx/thumbnail/2.jpg",
-        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/xxx/fullSize/2.jpg"
+        "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/detunata/thumbnail/2.jpg",
+        "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/detunata/fullSize/2.jpg"
       }
     ]
   },

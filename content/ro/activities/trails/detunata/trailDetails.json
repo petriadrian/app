@@ -1,0 +1,30 @@
+[
+  {
+    "details": "sdfs",
+    "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJv_3GPwvLTkcRDy5ru-eVXWI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Tăul Mare, Rosia Montana, Alba County, Romania | Masivul Şulei, Rosia Montana, Alba County, Romania | Muntari, Alba County, Romania | Casa Petri Rosia Montana, Historical center, nr. 334, Roșia Montană 517615",
+    "moreDetailsLink": "http://www.bikemap.net/en/route/3052348-rosia-montana-poiana-detunata-goala/#/z13/46.28539,23.16415/terrain",
+    "moreDetailsText": "Datele GPS și traseul îl puteți găsi și aici pe bikemap.net",
+    "indicationsBoxes": [
+      {
+        "indicationHoverText": "umblat",
+        "indicationText": "7h",
+        "indicationIconFontAwesomeClass": "fa fa-male"
+      },
+      {
+        "indicationHoverText": "cu bicicleta",
+        "indicationText": "4h",
+        "indicationIconFontAwesomeClass": "fa fa-bicycle"
+      },
+      {
+        "indicationHoverText": "lungime dus-întors",
+        "indicationText": "21km",
+        "indicationIconFontAwesomeClass": "fa fa-arrows-h"
+      },
+      {
+        "indicationHoverText": "dificultate",
+        "indicationText": "mediu",
+        "indicationIconFontAwesomeClass": "fa fa-line-chart"
+      }
+    ]
+  }
+]
