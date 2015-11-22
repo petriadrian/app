@@ -2,9 +2,9 @@
   {
     "title": "Galeriile Romane - Muzeu",
     "id": "romanGalleries",
-    "details": "Va recomandăm să vă începeți aventura cu Galeriile Romane de la Muzeul Mineritului pentru că sunt deschise doar de dimineață. Accesul se face <b>insotit de un ghid al Muzeului</b> și turul durează cam 1 ora si 30 de minute. Patrunde-ti in adancul muntiilor si descoperiti galeriile antice realizate in perioada ocupatiei romane in Dacia pentru a extrage aurul. Nu ratati si exponatele din muzeu ca de exemplu Steampurile și monumentele funerare.",
+    "details": "Patrunde-ti in adancul muntiilor si descoperiti galeriile antice realizate in perioada ocupatiei romane in Dacia pentru a extrage aurul. În subsolul localității există peste 120km de galerii antice însă lungimea lor exactă nu este cunoscută pentru că rețeaua construită timp de aproape 2000 de ani nu a fost cercetată integral până în prezent. Practic oriunde v-ați afla în Roșia vă aflați deasupra unor galerii, ele find dispuse chiar și pe mai multe etaje. La Muzeul Mineritului de aici sunt amenajate și deschise publicului doar 700m din aceste galerii. Nu ratati si exponatele de aici ca de exemplu monumentele funerare și șteampurile(vă lăsăm pe voi să descoperți ce sunt acestea). Muzeul este deschis doar de dimineață iar accesul în galerii se face prin tururi ghidate care durează cam o oră.",
     "moreDetailsLink": "http://www.alba.djc.ro/ObiectiveDetalii.aspx?ID=2184",
-    "moreDetailsText": "Mai multe detalii despre muzeu aici.",
+    "moreDetailsText": "Mai multe detalii despre muzeu aici...",
     "images": [
       {
         "imgTitle": "Galeriile Romane",
@@ -23,17 +23,19 @@
   {
     "title": "Biserica Greco-Catolica",
     "id": "grecoCatholicChurch",
-    "details": "",
+    "details": "'Biserica greco-catolică este așezată pe o coastă domoală care coboară spre valea pârâului Roşia (numit şi Foieş), la poalele Masivului Orlea. Biserica poartă memoria celui care a fost considerat de urmaşii săi cel mai popular şi mai bine făcător dintre românii ardeleni ai veacului al XIX-lea, Simion Balint a cărui monument funerar se află lângă biserică, aproape de zidul sudic al turnului.'",
+    "moreDetailsLink": "http://www.adoptaocasa.ro/case/biserica-greco-catolica-adormirea-maicii-domnului-1741-rosia-montana-nr-135",
+    "moreDetailsText": "Mai multe detalii despre biserică și cum te poți implica în procesul de restaurare al ei găsiți aici...",
     "images": [
       {
         "imgTitle": "Turnul biserici Greco-Catolică",
-        "imgDetail": "",
+        "imgDetail": "Biserica se înfăţişează drept unul dintre cele mai importante monumente de cult din Munţii Apuseni, un edificiu de mare valoare arhitecturală şi istorică.",
         "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/churches/grecoCatholicChurch/thumbnail/1.jpg",
         "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/churches/grecoCatholicChurch/fullSize/1.jpg"
       },
       {
         "imgTitle": "Biserica Greco-Catolica",
-        "imgDetail": " ",
+        "imgDetail": "Cimitirul din jurul bisericii păstrează încă numeroase monumente funerare datând din secolele XVIII şi XIX, preţioase atât ca mărturii istorice cât şi ca realizări artistice.",
         "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/churches/grecoCatholicChurch/thumbnail/2.jpg",
         "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/churches/grecoCatholicChurch/fullSize/2.jpg"
       }
@@ -141,7 +143,7 @@
   {
     "title": "Casa Szekey",
     "id": "szekeyHouse",
-    "details": "Printre casele de patrimoniu de la poalele masivului Jig-Văidoaia găsiți și casa Szekey Acoș. Pare o mică cetate împrejmuită de un zid de piatră cu o poartă înaltă boltită. Probabil că aceste elemente de piatră: zidul, poarta, masivul Văidoaia l-au înspirat pe Dan Pița în 1972 să facă aici filmul 'Nunta de piatră'. După ce parcurgeți acest traseu putem organiza o proiecție a filmului la Casa Petri întrucât va avea mai mare impact odată ce cunoașteți zona. O parte din echipa de filmare au fost cazați atunci la noi, unde puteți gasi o imagine cu autograful lor. Filmul a fost nominalizat pe locul 6 în top 10 filme romanesti ale tuturor timpurilor în cadrul TiFF.",
+    "details": "Printre casele de patrimoniu de la poalele masivului Jig-Văidoaia găsiți și casa Szekey Acoș. Pare o mică cetate împrejmuită de un zid de piatră cu o poartă înaltă boltită. Probabil că aceste elemente de piatră: zidul, poarta, masivul Văidoaia l-au înspirat pe Dan Pița în 1972 să facă aici filmul 'Nunta de piatră'. După ce parcurgeți acest traseu putem urmări filmul la Casa Petri întrucât va avea un mai mare impact odată ce cunoașteți zona. O parte din echipa de filmare au fost cazați atunci la noi, unde puteți gasi o imagine cu autograful lor. Filmul a fost nominalizat pe locul 6 în top 10 filme romanesti ale tuturor timpurilor în cadrul TiFF.",
     "moreDetailsLink": "http://procinema.ro/stiri/nunta-de-piatra-locul-6-in-clasamentul-celor-mai-bune-10-filme-romanesti-ale-tuturor-timpurilor-a-sarbatorit.html#ixzz3rft5sJu5",
     "moreDetailsText": " Vezi mai mult aici... ",
     "images": [
@@ -200,7 +202,7 @@
   {
     "title": "Sfinxul Carnic",
     "id": "carnicSfinx",
-    "details": "Drumul pana aici va va purta printr-o padure de brazi si molizi. Bucurati-va de aerul proaspat. De aveti timp puteti sa va aventurati in padure pentru a gasi ciuperci, zmeura, mure sau fragute. Odata ajunsi pe culmea Carnicului la Sfinx o sa va aflati pe cel mai inalt punct din Rosia Montana. In fata aveti toata localitatea Rosia Montana iar in spate puteti vedea  Cariera Cetate. Numele de Cetate vine de la faptul ca aici era intradevar o cetate sapata in munti cu dalta si nicovala de daci si romani. Insa pe vremea comunismului s-a decis ca e mult mai important sa o distruga si sa faca exploatare de aur de suprafata.",
+    "details": "Drumul pana aici va va purta printr-o padure de brazi si molizi. De aveti timp puteti sa va aventurati in padure pentru a gasi ciuperci, zmeura, mure sau fragute. Odata ajunsi pe culmea Carnicului la Sfinx o sa va aflati pe cel mai inalt punct din Rosia Montana. Pe Sfinx băieșii care scoteau aur pe vremuri au pus o cruce înaltă pentru a fi ocrotiți în galeriile Cârnicului în timp ce extrag aurul. In fata voastră este o frumoasă belvedere spre centrul istoric iar in spate puteti vedea  Cariera Cetate. Numele de Cetate vine de la faptul ca aici era intradevar o cetate sapata in munti cu dalta si nicovala de daci si romani. Insa pe vremea comunismului s-a decis ca e mult mai important sa o distruga si sa faca exploatare de aur de suprafata.",
     "moreDetailsLink": "http://adevarul.ro/locale/alba-iulia/foto-distrugerea-curtilor-aur-cele-mai-frumoase-mai-reprezentative-lucrari-miniere-romania-vremea-dacilor-romanilor-1_5607ae00f5eaafab2c0c02e2/index.html",
     "moreDetailsText": "Mai multe detalii aici.",
     "images": [
@@ -263,11 +265,13 @@
   {
     "title": "Tăul Țarinii",
     "id": "tariniLake",
-    "details": "Țarina este locul unde roșienii au terenurile agricole. Pe aici localnicii plantează boabe (cartofi), au fânețe, își țin animalele - de aceea o să vedeți terenul împărțit în mici parcele de teren și pe ici colo câte o șură.",
+    "details": "Aici este un mic colț de rai foarte aproape de Casa Petri. Un lac bine ascuns după niște sălcii înalte care își scalda ramurile în el. Acesta se află în țarina Roșiei Montane. Țarina este locul unde roșienii au terenurile agricole. Pe aici localnicii plantează boabe (cartofi), au fânețe, își țin animalele - de aceea o să vedeți terenul împărțit în mici parcele de teren și pe ici colo câte o șură. Anul aceste locuri sunt însuflețite de festivalul FânFest care însuflțește aceste locuri cu tineri ce vin cu corturi..",
+    "moreDetailsLink": "http://www.fanfest.ro",
+    "moreDetailsText": "Mai multe detalii despre festival aici...",
     "images": [
       {
         "imgTitle": "Tăul Țarinii",
-        "imgDetail": "Un mic lac de munte. Ca locație de poză vă sugerăm podul care duce la Căsuța de pe lac.",
+        "imgDetail": "Un mic lac de munte superb pe timp de toamnă. Ca locație de poză vă sugerăm podul care duce la Căsuța de pe lac.",
         "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/lakes/tariniLake/thumbnail/1.jpg",
         "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/lakes/tariniLake/fullSize/1.jpg"
       },
@@ -379,17 +383,19 @@
   {
     "title": "Detunata",
     "id": "detunata",
-    "details": "lala",
+    "details": "Acest masiv este o arie protejată de interes național și este format din coloane înalte arcuite de bazalt. La baza Detunatei puteți vedea o mare de blocuri de piatră care s-au desprins din acest masiv și s-au rostogolit până la baza pădurii de brazi. Acum e liniște întrucât o parte din ele sunt acoperite cu mușchi vegetal și formează un peisaj cu totul aparte. De aveți timp explorați puțin zona! Știți că pe aici a trait Fefeleaga - personajul principal din opera lui Ion Agârbiceanu. Căutați casa memorială Fefeleaga, ascultați poveștile oamenilor de acolo și gustați din plăcinte cu brânză care se vând pentru turiști.",
+    "moreDetailsLink": "http://cartitaplimbareata.ro/index.php/6803/detunata-goala-detunatele-muntii-metaliferi-apuseni",
+    "moreDetailsText": "Mai multe detalii și poze despre zonă găsiți aici...",
     "images": [
       {
-        "imgTitle": "",
-        "imgDetail": "",
+        "imgTitle": "Detunata",
+        "imgDetail": "La baza acestui masiv printre blocurile de bazalt, în inima pădurii de molid uneori se formează un mic ghețar care e miraculos într-o vara călduroasă. Vă lasăm pe voi să îl descoperiți.",
         "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/detunata/thumbnail/1.jpg",
         "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/detunata/fullSize/1.jpg"
       },
       {
-        "imgTitle": "",
-        "imgDetail": "",
+        "imgTitle": "Priveliștea de pe Detunata",
+        "imgDetail": "Merită să urcați până sus dacă tot a-ți ajuns până aici. La picioare vi se va întinde tot ținutul țării moților. Nu vă uitați în jos... :) ",
         "imgThumbnailUrl": "/casaPetri/img/activities/trails/attractions/detunata/thumbnail/2.jpg",
         "imgFullSizeUrl": "/casaPetri/img/activities/trails/attractions/detunata/fullSize/2.jpg"
       }
