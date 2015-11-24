@@ -1,0 +1,45 @@
+[
+  {
+    "pageId": "letySulei",
+    "title": "Lety și Șulei",
+    "headlineText": "Masivul Șulei sigur îți va pune la încercare echilibrul :)",
+    "headlineImgUrl": "/casaPetri/img/activities/trails/letySulei/pageAdvertiserDefault.jpg",
+    "shortDescription": "| <b>4h</b> | Urcăm pe 2 culmi cu forme ciudate, întâlnim 2 tăuri minunate și o galerie cu urme de filoane de aur",
+    "carouselPageAdvertise": {
+      "timeInterval": "12000",
+      "images": [
+        {
+          "imgUrl": "/casaPetri/img/activities/trails/letySulei/pageAdvertiseBox/1.jpg"
+        },
+        {
+          "imgUrl": "/casaPetri/img/activities/trails/letySulei/pageAdvertiseBox/2.jpg"
+        },
+        {
+          "imgUrl": "/casaPetri/img/activities/trails/letySulei/pageAdvertiseBox/3.jpg"
+        }
+      ]
+    },
+    "pageSections": [
+      {
+        "title": "Traseu",
+        "addButtonInHeader": "true",
+        "iconFortAwesomeClass": "fa fa-map-signs",
+        "content": {
+          "text": "",
+          "linksToOtherPages": {
+          }
+        }
+      },
+      {
+        "title": "Atracții",
+        "addButtonInHeader": "true",
+        "iconFortAwesomeClass": "fa fa-star"
+      },
+      {
+        "title": "Vezi și",
+        "addButtonInHeader": "false",
+        "iconFortAwesomeClass": "fa fa-coffee"
+      }
+    ]
+  }
+]
