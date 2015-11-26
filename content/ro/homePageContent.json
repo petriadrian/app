@@ -27,7 +27,7 @@
         }
       ]
     },
-    "pageSections": [
+    "sections": [
       {
         "title": "Traseu",
         "addButtonInHeader": "true",

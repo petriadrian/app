@@ -38,7 +38,8 @@ app.config(['$routeProvider', function ($routeProvider) {
 app.controller('HeaderAndFooterCtrl', function ( $scope, $location, $routeParams, $http) {
     console.log("Blog Controller reporting for duty.");
     debugger;
-    var pageContentPath = '/casaPetri/content/' + getLanguage($routeParams.lang) + $location.$$path + 'pageContent.json';
+    $scope.language = getLanguage($routeParams.lang);
+    var pageContentPath = '/casaPetri/content/' + $scope.language  + '/homePageContent.json';
     $http.get(pageContentPath).success(function (pageContentResult) {
         $scope.pageContent = pageContentResult[0];
     });

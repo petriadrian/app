@@ -15,8 +15,7 @@
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav" ng-controller="HeaderAndFooterCtrl">
-                <li style="color: blue">{{pageContent.pageId}}</li>
-                <!--<li data-ng-repeat="x in names"><a href="/casaPetri/index.html?lang=ro#firstSectionTitle" data-toggle="collapse" data-target=".navbar-collapse.in">${firstSectionTitleText}</a></li>-->
+                <li data-ng-repeat="section in pageContent.sections"><a ng-if="section.addButtonInHeader == 'true'" href="/casaPetri/index.html?lang={{language}}#{{section.title}}" data-toggle="collapse" data-target=".navbar-collapse.in">{{section.title}}</a></li>
             </ul>
             <!--<div id="headerMenuLayout">-->
                 <!--<script>-->
@@ -27,13 +26,13 @@
                 <li><a href="https://www.facebook.com/casapetrirosiamontana" title="Follow us on facebook"
                        target="_blank"><i class="fa fa-lg fa-facebook"></i></a></li>
                 <li id="langRedirectPlaceholder"></li>
-                <!--<script type="text/javascript">-->
-                    <!--if (getLanguage() == RO_LOCALE) {-->
-                        <!--$('#langRedirectPlaceholder').append("<a onclick='changeLanguageTo(\"en\")'>EN <i class='fa fa-lg fa-caret-right'></i></a>");-->
-                    <!--} else {-->
-                        <!--$('#langRedirectPlaceholder').append("<a onclick='changeLanguageTo(\"ro\")'>RO <i class='fa fa-lg fa-caret-right'></i></a>");-->
-                    <!--}-->
-                <!--</script>-->
+                <script type="text/javascript">
+                    if (getLanguage() == RO_LOCALE) {
+                        $('#langRedirectPlaceholder').append("<a onclick='changeLanguageTo(\"en\")'>EN <i class='fa fa-lg fa-caret-right'></i></a>");
+                    } else {
+                        $('#langRedirectPlaceholder').append("<a onclick='changeLanguageTo(\"ro\")'>RO <i class='fa fa-lg fa-caret-right'></i></a>");
+                    }
+                </script>
             </ul>
         </div>
     </div>
