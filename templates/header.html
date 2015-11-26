@@ -8,36 +8,40 @@
                 <span class="icon-bar"></span>
             </button>
             <div class="navbar-brand" id="siteLogoLayout">
-                <script>
-                    dynamicContentLoader('siteHeader/siteLogo.htm', 'contactData.json', 'siteLogoLayout', 'siteLogoTemplateId');
-                </script>
+                <div class="siteBrand" title="return to homepage" onclick="location.href='/';">
+                    <img src="/casapetri/img/common/siteLogo.png">
+                </div>
             </div>
         </div>
         <div class="collapse navbar-collapse">
-            <div id="headerMenuLayout">
-                <script>
-                    dynamicContentLoader('siteHeader/headerMenu.htm', 'homepage/pageStructure.json', 'headerMenuLayout', 'headerMenuTemplateId');
-                </script>
-            </div>
+            <ul class="nav navbar-nav" ng-controller="HeaderAndFooterCtrl">
+                <li style="color: blue">{{pageContent.pageId}}</li>
+                <!--<li data-ng-repeat="x in names"><a href="/casaPetri/index.html?lang=ro#firstSectionTitle" data-toggle="collapse" data-target=".navbar-collapse.in">${firstSectionTitleText}</a></li>-->
+            </ul>
+            <!--<div id="headerMenuLayout">-->
+                <!--<script>-->
+                    <!--dynamicContentLoader('siteHeader/headerMenu.htm', 'homepage/pageStructure.json', 'headerMenuLayout', 'headerMenuTemplateId');-->
+                <!--</script>-->
+            <!--</div>-->
             <ul class="nav navbar-nav navbar-right social">
                 <li><a href="https://www.facebook.com/casapetrirosiamontana" title="Follow us on facebook"
                        target="_blank"><i class="fa fa-lg fa-facebook"></i></a></li>
                 <li id="langRedirectPlaceholder"></li>
-                <script type="text/javascript">
-                    if (getLanguage() == RO_LOCALE) {
-                        $('#langRedirectPlaceholder').append("<a onclick='changeLanguageTo(\"en\")'>EN <i class='fa fa-lg fa-caret-right'></i></a>");
-                    } else {
-                        $('#langRedirectPlaceholder').append("<a onclick='changeLanguageTo(\"ro\")'>RO <i class='fa fa-lg fa-caret-right'></i></a>");
-                    }
-                </script>
+                <!--<script type="text/javascript">-->
+                    <!--if (getLanguage() == RO_LOCALE) {-->
+                        <!--$('#langRedirectPlaceholder').append("<a onclick='changeLanguageTo(\"en\")'>EN <i class='fa fa-lg fa-caret-right'></i></a>");-->
+                    <!--} else {-->
+                        <!--$('#langRedirectPlaceholder').append("<a onclick='changeLanguageTo(\"ro\")'>RO <i class='fa fa-lg fa-caret-right'></i></a>");-->
+                    <!--}-->
+                <!--</script>-->
             </ul>
         </div>
     </div>
 </nav>
 
-<script>
-    // Helps to hide the navbar menu when a link from menu icon is clicked. Happens when the page is minimized and menu button appears
-    $(".nav a").on('click', function () {
-        $(".navbar-toggle").click();
-    });
-</script>
+<!--<script>-->
+    <!--// Helps to hide the navbar menu when a link from menu icon is clicked. Happens when the page is minimized and menu button appears-->
+    <!--$(".nav a").on('click', function () {-->
+        <!--$(".navbar-toggle").click();-->
+    <!--});-->
+<!--</script>-->
