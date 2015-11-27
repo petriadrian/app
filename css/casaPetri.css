@@ -450,6 +450,14 @@ footer .row section{
     outline: none;
 }
 
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a:active,
+.btn-primary:FOCUS {
+    color: white;
+    background-color: #151F1D;
+    outline: 0px;
+    text-decoration: none;
+}
 
 .btn-primary:HOVER,
 .siteLogo:hover > img,
@@ -459,13 +467,6 @@ footer .row section{
     border-color: white;
 }
 
-.navbar-default .navbar-nav > li > a:focus,
-.btn-primary:FOCUS {
-    color: white;
-    background-color: #151F1D;
-    outline: 0px;
-    text-decoration: none;
-}
 
 /* MEDIA */
 @media only screen and (max-width: 480px) {
