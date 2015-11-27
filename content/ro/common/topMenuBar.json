@@ -1,0 +1,56 @@
+[
+  {
+    "logo": {
+      "text": "Casa Petri Roșia Montană",
+      "mouseOverText": "Întoarcete la pagina principală",
+      "imgUrl": "/casapetri/img/common/siteLogo.png",
+      "link": "redirect('/')"
+    },
+    "leftButtons": [
+      {
+        "text": "Unde stau?",
+        "mouseOverText": "Vezi cazare și facilități",
+        "iconFontAwesomeClass": "",
+        "link": "/casaPetri/index.html?lang=ro#accommodation"
+      },
+      {
+        "text": "Ce fac acolo?",
+        "mouseOverText": "Vezi activități",
+        "iconFontAwesomeClass": "",
+        "link": "/casaPetri/index.html?lang=ro#activities"
+      },
+      {
+        "text": "De neratat!",
+        "mouseOverText": "",
+        "iconFontAwesomeClass": "",
+        "link": "/casaPetri/index.html?lang=ro#recommendations"
+      }
+    ],
+    "rightButtons": [
+      {
+        "text": "",
+        "mouseOverText": "Urmărește-ne pe Facebook",
+        "iconFontAwesomeClass": "fa fa-lg fa-facebook",
+        "link": "https://www.facebook.com/casapetrirosiamontana"
+      },
+      {
+        "text": "",
+        "mouseOverText": "live webCam",
+        "iconFontAwesomeClass": "fa fa-video-camera",
+        "link": "http://jurnalul.ro/webcam/rosia-montana-470.html"
+      }
+    ],
+    "languageButtons": [
+      {
+        "text": "EN",
+        "mouseOverText": "switch to english",
+        "code": "en"
+      },
+      {
+        "text": "RO",
+        "mouseOverText": "schimbă în română",
+        "code": "ro"
+      }
+    ]
+  }
+]

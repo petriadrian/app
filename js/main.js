@@ -35,14 +35,23 @@ app.config(['$routeProvider', function ($routeProvider) {
 /**
  * Controls the Blog
  */
-app.controller('HeaderAndFooterCtrl', function ( $scope, $location, $routeParams, $http) {
+app.controller('HeaderCtrl', function ($scope, $window, $location, $routeParams, $http) {
     console.log("Blog Controller reporting for duty.");
     debugger;
     $scope.language = getLanguage($routeParams.lang);
-    var pageContentPath = '/casaPetri/content/' + $scope.language  + '/homePageContent.json';
-    $http.get(pageContentPath).success(function (pageContentResult) {
-        $scope.pageContent = pageContentResult[0];
+    var contentPath = '/casaPetri/content/' + $scope.language + '/common/topMenuBar.json';
+    $http.get(contentPath).success(function (contentResult) {
+        $scope.content = contentResult[0];
     });
+
+    $scope.redirect = function(url, refresh) {
+        if(refresh || $scope.$$phase) {
+            $window.location.href = url;
+        } else {
+            $location.path(url);
+            $scope.$apply();
+        }
+    }
 });
 
 /**
@@ -70,4 +79,8 @@ function getLanguage(langUrlParam) {
     } else {
         return langUrlParam;
     }
+}
+
+function redirect(url) {
+    $location.path(url);
 }

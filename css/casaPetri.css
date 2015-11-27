@@ -27,19 +27,19 @@ body {
     padding: 0px;
 }
 
-.siteBrand {
+.siteLogo {
     height: 50px;
     width: 240px;
     cursor: pointer;
 }
 
-.siteBrand img {
+.siteLogo img {
     position: absolute;
     top: 0px;
     left: 0px;
 }
 
-.siteBrand h1 {
+.siteLogo h1 {
     position: absolute;
     font-size: 0.8em;
     color: white;
@@ -452,7 +452,7 @@ footer .row section{
 
 
 .btn-primary:HOVER,
-.siteBrand:hover > img,
+.siteLogo:hover > img,
 .navbar-default .navbar-nav > li > a:hover {
     color: white;
     background-color: #157f15;
