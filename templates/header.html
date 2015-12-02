@@ -7,7 +7,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" id="siteLogoLayout" ng-href="{{content.logo.link}}" title="{{content.logo.mouseOverText}}">
+            <a class="navbar-brand" id="siteLogoLayout" ng-href="{{content.logo.url}}" title="{{content.logo.mouseOverText}}">
                 <div class="siteLogo">
                     <img src="{{content.logo.imgUrl}}">
                     <h1>{{content.logo.text}}</h1>
@@ -17,14 +17,14 @@
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
                 <li data-ng-repeat="button in content.leftButtons">
-                    <a title="{{button.mouseOverText}}" ng-href="{{button.link}}" data-toggle="collapse" data-target=".navbar-collapse.in">
+                    <a title="{{button.mouseOverText}}" ng-click="openUrl(button.url, button.openInNewTab)"  data-toggle="collapse" data-target=".navbar-collapse.in">
                         <i ng-if="!!button.iconFontAwesomeClass" class="{{button.iconFontAwesomeClass}}"></i>
                         <span ng-if="!!button.text">{{button.text}}</span></a>
                 </li>
             </ul>
             <ul class="nav navbar-nav navbar-right social">
                 <li data-ng-repeat="button in content.rightButtons">
-                    <a title="{{button.mouseOverText}}" target="_blank" ng-href="{{button.link}}" data-toggle="collapse" data-target=".navbar-collapse.in">
+                    <a title="{{button.mouseOverText}}" ng-click="openUrl(button.url, button.openInNewTab)" data-toggle="collapse" data-target=".navbar-collapse.in">
                         <i ng-if="!!button.iconFontAwesomeClass" class="{{button.iconFontAwesomeClass}}"></i>
                         <span ng-if="!!button.text">{{button.text}}</span>
                     </a>

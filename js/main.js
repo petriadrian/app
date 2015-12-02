@@ -20,10 +20,6 @@ app.config(['$routeProvider', function ($routeProvider) {
         // Home
         .when("/", {templateUrl: "partials/home.html", controller: "PageCtrl"})
         //// Pages
-        //.when("/about", {templateUrl: "partials/about.html", controller: "PageCtrl"})
-        //.when("/faq", {templateUrl: "partials/faq.html", controller: "PageCtrl"})
-        //.when("/pricing", {templateUrl: "partials/pricing.html", controller: "PageCtrl"})
-        //.when("/services", {templateUrl: "partials/services.html", controller: "PageCtrl"})
         //.when("/contact", {templateUrl: "partials/contact.html", controller: "PageCtrl"})
         //// Blog
         //.when("/blog", {templateUrl: "partials/blog.html", controller: "BlogCtrl"})
@@ -32,9 +28,6 @@ app.config(['$routeProvider', function ($routeProvider) {
         .otherwise("/404", {templateUrl: "partials/404.html", controller: "PageCtrl"});
 }]);
 
-/**
- * Controls the Blog
- */
 app.controller('HeaderCtrl', function ($scope, $window, $location, $routeParams, $http) {
     console.log("Blog Controller reporting for duty.");
     debugger;
@@ -43,15 +36,6 @@ app.controller('HeaderCtrl', function ($scope, $window, $location, $routeParams,
     $http.get(contentPath).success(function (contentResult) {
         $scope.content = contentResult[0];
     });
-
-    $scope.redirect = function(url, refresh) {
-        if(refresh || $scope.$$phase) {
-            $window.location.href = url;
-        } else {
-            $location.path(url);
-            $scope.$apply();
-        }
-    }
 });
 
 /**
@@ -81,6 +65,11 @@ function getLanguage(langUrlParam) {
     }
 }
 
-function redirect(url) {
-    $location.path(url);
+openUrl = function (url, openInNewTab) {
+    debugger;
+    if (typeof(openInNewTab) !== 'undefined' && openInNewTab == "true") {
+        window.open(url, '_blank');
+    } else {
+        window.open(url, '_self');
+    }
 }
