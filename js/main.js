@@ -31,6 +31,14 @@ app.config(['$routeProvider', function ($routeProvider) {
 app.controller('HeaderCtrl', function ($scope, $window, $location, $routeParams, $http) {
     console.log("Blog Controller reporting for duty.");
     debugger;
+    $scope.openUrl = function (url, openInNewTab) {
+        debugger;
+        if (typeof(openInNewTab) !== 'undefined' && openInNewTab == "true") {
+            window.open(url, '_blank');
+        } else {
+            window.open(url, '_self');
+        }
+    }
     $scope.language = getLanguage($routeParams.lang);
     var contentPath = '/casaPetri/content/' + $scope.language + '/common/topMenuBar.json';
     $http.get(contentPath).success(function (contentResult) {
@@ -62,14 +70,5 @@ function getLanguage(langUrlParam) {
         }
     } else {
         return langUrlParam;
-    }
-}
-
-openUrl = function (url, openInNewTab) {
-    debugger;
-    if (typeof(openInNewTab) !== 'undefined' && openInNewTab == "true") {
-        window.open(url, '_blank');
-    } else {
-        window.open(url, '_self');
     }
 }

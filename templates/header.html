@@ -29,6 +29,12 @@
                         <span ng-if="!!button.text">{{button.text}}</span>
                     </a>
                 </li>
+                <li data-ng-repeat="button in languageButtons">
+                    <a ng-if="" title="{{button.mouseOverText}}" ng-click="openUrl(button.url, button.openInNewTab)" data-toggle="collapse" data-target=".navbar-collapse.in">
+                        <i ng-if="!!button.iconFontAwesomeClass" class="{{button.iconFontAwesomeClass}}"></i>
+                        <span ng-if="!!button.text">{{button.text}}</span>
+                    </a>
+                </li>
 
                 <!--<li id="langRedirectPlaceholder"></li>-->
                 <!--<script type="text/javascript">-->
