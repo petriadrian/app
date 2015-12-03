@@ -10,6 +10,14 @@
                     <script>
                         dynamicContentLoader('reviewPreview.htm', 'review/reviews.json', 'reviewCarouselLayout', 'reviewPreviewTemplateId');
                     </script>
+                    <div class="item ${firstCarouselElement}">
+                        <div class="carousel-caption">
+                            <div class="reviewTitle">
+                                ${title}
+                            </div>
+                            <p>${details}</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

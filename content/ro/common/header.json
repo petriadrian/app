@@ -49,12 +49,14 @@
       {
         "text": "EN",
         "mouseOverText": "switch to english",
-        "code": "en"
+        "iconFontAwesomeClass": "",
+        "languageCode": "en"
       },
       {
         "text": "RO",
         "mouseOverText": "schimbă în română",
-        "code": "ro"
+        "iconFontAwesomeClass": "",
+        "languageCode": "ro"
       }
     ]
   }

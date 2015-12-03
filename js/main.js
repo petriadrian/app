@@ -28,21 +28,27 @@ app.config(['$routeProvider', function ($routeProvider) {
         .otherwise("/404", {templateUrl: "partials/404.html", controller: "PageCtrl"});
 }]);
 
-app.controller('HeaderCtrl', function ($scope, $window, $location, $routeParams, $http) {
+app.controller('HeaderCtrl', function ($scope, $window, $http) {
     console.log("Blog Controller reporting for duty.");
-    debugger;
     $scope.openUrl = function (url, openInNewTab) {
-        debugger;
         if (typeof(openInNewTab) !== 'undefined' && openInNewTab == "true") {
-            window.open(url, '_blank');
+            $window.open(url, '_blank');
         } else {
-            window.open(url, '_self');
+            $window.open(url, '_self');
         }
     }
-    $scope.language = getLanguage($routeParams.lang);
-    var contentPath = '/casaPetri/content/' + $scope.language + '/common/topMenuBar.json';
+    $scope.userLanguage = RO_LOCALE;//navigator.language || navigator.userLanguage;
+    debugger;
+    var contentPath = '/casaPetri/content/' + $scope.userLanguage + '/common/topMenuBar.json';
     $http.get(contentPath).success(function (contentResult) {
         $scope.content = contentResult[0];
+    });
+});
+
+app.controller('FooterCtrl', function ($scope, $window, $location, $http) {
+    var reviewsPath = '/casaPetri/content/' + $scope.userLanguage + '/reviews.json';
+    $http.get(reviewsPath).success(function (reviews) {
+        $scope.content =  [0];
     });
 });
 
@@ -65,6 +71,7 @@ function getLanguage(langUrlParam) {
         if (browserLang == RO_LOCALE) {
             return RO_LOCALE;
         } else {
+            alert("English not ready");
             // should return EN_LOCALE ... but en content is not yet added
             return RO_LOCALE;
         }
