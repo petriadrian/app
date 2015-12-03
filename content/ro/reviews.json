@@ -3,6 +3,7 @@
     "pageId": "reviews",
     "title": "Reviews",
     "url": "/casaPetri/pages/review.html?lang=ro",
+    "openInNewTab": "false",
     "headlineText": "Crestem impreuna cu cei ce ne trec pragul",
     "headlineImgUrl": "/casaPetri/img/review/pageAdvertiserDefault.jpg",
     "shortDescription": "Vezi experiențele și impresiile celor care ne-au vizitat. O parte dintre ei pot fi contactați",
@@ -43,7 +44,7 @@
             },
             {
               "title": "Andreea - Oradea(RO)",
-              "details": "Oamenii frumosi la gazde frumoase trag! Multam de hamace with a view, vibe creativ si activist, clatite cu zambet larg si respiro cu WiFiiiiiii :))) ca sa afle lumea ca suntem la Casa Petri si ce facem pe acolo. Raportam de pe baricade ca stocul de dor s-a refacut rapid si numaram weekendurile pana va trecem iar pragul!",
+              "text": "Oamenii frumosi la gazde frumoase trag! Multam de hamace with a view, vibe creativ si activist, clatite cu zambet larg si respiro cu WiFiiiiiii :))) ca sa afle lumea ca suntem la Casa Petri si ce facem pe acolo. Raportam de pe baricade ca stocul de dor s-a refacut rapid si numaram weekendurile pana va trecem iar pragul!",
               "moreDetailsLink": "https://www.facebook.com/andreea.firastraeru",
               "moreDetailsText": "Andreea a acceptat să fie contactată pe facebook cu întrebări despre experiența ei. Clik aici...",
               "images": [
@@ -57,7 +58,7 @@
             },
             {
               "title": "Felicia - Satu Mare(RO)",
-              "details": "Oamenii frumosi la gazde frumoase trag! Multam de hamace with a view, vibe creativ si activist, clatite cu zambet larg si respiro cu WiFiiiiiii :))) ca sa afle lumea ca suntem la Casa Petri si ce facem pe acolo. Raportam de pe baricade ca stocul de dor s-a refacut rapid si numaram weekendurile pana va trecem iar pragul!",
+              "text": "Oamenii frumosi la gazde frumoase trag! Multam de hamace with a view, vibe creativ si activist, clatite cu zambet larg si respiro cu WiFiiiiiii :))) ca sa afle lumea ca suntem la Casa Petri si ce facem pe acolo. Raportam de pe baricade ca stocul de dor s-a refacut rapid si numaram weekendurile pana va trecem iar pragul!",
               "images": [
                 {
                   "imgTitle": "Felicia - Satu Mare(RO)",

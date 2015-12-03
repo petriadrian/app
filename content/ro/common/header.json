@@ -4,7 +4,8 @@
       "text": "Casa Petri Roșia Montană",
       "mouseOverText": "Întoarcete la pagina principală",
       "imgUrl": "/casapetri/img/common/siteLogo.png",
-      "url": "/casaPetri"
+      "url": "/casaPetri",
+      "openInNewTab": "false"
     },
     "leftButtons": [
       {

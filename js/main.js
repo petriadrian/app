@@ -29,7 +29,6 @@ app.config(['$routeProvider', function ($routeProvider) {
 }]);
 
 app.controller('HeaderCtrl', function ($scope, $window, $http) {
-    console.log("Blog Controller reporting for duty.");
     $scope.openUrl = function (url, openInNewTab) {
         if (typeof(openInNewTab) !== 'undefined' && openInNewTab == "true") {
             $window.open(url, '_blank');
@@ -39,16 +38,27 @@ app.controller('HeaderCtrl', function ($scope, $window, $http) {
     }
     $scope.userLanguage = RO_LOCALE;//navigator.language || navigator.userLanguage;
     debugger;
-    var contentPath = '/casaPetri/content/' + $scope.userLanguage + '/common/topMenuBar.json';
-    $http.get(contentPath).success(function (contentResult) {
-        $scope.content = contentResult[0];
+    var headerContentPath = '/casaPetri/content/' + $scope.userLanguage + '/common/header.json';
+    $http.get(headerContentPath).success(function (headerContentResult) {
+        $scope.content = headerContentResult[0];
     });
 });
 
-app.controller('FooterCtrl', function ($scope, $window, $location, $http) {
+app.controller('FooterCtrl', function ($window, $scope, $http) {
+    $scope.openUrl = function (url, openInNewTab) {
+        debugger;
+        if (typeof(openInNewTab) !== 'undefined' && openInNewTab == "true") {
+            $window.open(url, '_blank');
+        } else {
+            $window.open(url, '_self');
+        }
+    }
+    $scope.userLanguage = RO_LOCALE;
     var reviewsPath = '/casaPetri/content/' + $scope.userLanguage + '/reviews.json';
     $http.get(reviewsPath).success(function (reviews) {
-        $scope.content =  [0];
+        $scope.reviews =  reviews[0].sections[0].content.articles;
+        $scope.reviewsPagePath =  reviews[0].url;
+        $scope.reviewsPageOpenInNewTab =  reviews[0].openInNewTab;
     });
 });
 

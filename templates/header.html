@@ -7,7 +7,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" id="siteLogoLayout" ng-href="{{content.logo.url}}" title="{{content.logo.mouseOverText}}">
+            <a class="navbar-brand" id="siteLogoLayout" ng-click="openUrl(content.logo.url, content.logo.openInNewTab)" title="{{content.logo.mouseOverText}}">
                 <div class="siteLogo">
                     <img src="{{content.logo.imgUrl}}">
                     <h1>{{content.logo.text}}</h1>

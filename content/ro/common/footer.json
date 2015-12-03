@@ -1,0 +1,27 @@
+[
+  {
+    "contact": {
+      "title": "Casa Petri Roșia Montană",
+      "phone": "(004)0743188186",
+      "email": "casapetri@gmail.com",
+      "address": "Str. Piata nr.331, Rosia Montana, jud. Alba, Romania",
+      "homepageLink": "/casaPetri/index.html?lang=ro",
+      "imgSiteLogoUrl": "/casapetri/img/common/siteLogo.png"
+    },
+    "feedbackForm": {
+      "textBoxes": [
+        {
+          "placeholder": "Vrem să ne înbunatătim. Lasă-ne aici un feedback! ...",
+          "displayedLines": "3",
+          "required": "true"
+        },
+        {
+          "placeholder": "Email",
+          "displayedLines": "1",
+          "required": "false"
+        }
+      ],
+      "sendButton": "Trimite"
+    }
+  }
+]

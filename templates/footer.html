@@ -1,21 +1,18 @@
-<div class="container-fluid">
+<footer class="container-fluid" ng-controller="FooterCtrl">
 
     <!-- REVIEWS -->
     <section class="reviewPreviewLayout defaultClickEvents row"
-             onclick="location.href='/casaPetri/pages/review.html?lang=ro'" title="see more">
+             ng-click="openUrl(reviewsPagePath, reviewsPageOpenInNewTab)" title="see more">
         <i class="col-xs-12 col-sm-12 col-md-12 col-lg-12 fa fa-quote-left"></i>
         <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 reviewPreviewArea">
             <div class="carousel slide" data-ride="carousel" data-interval="10000">
                 <div id="reviewCarouselLayout" class="carousel-inner">
-                    <script>
-                        dynamicContentLoader('reviewPreview.htm', 'review/reviews.json', 'reviewCarouselLayout', 'reviewPreviewTemplateId');
-                    </script>
-                    <div class="item ${firstCarouselElement}">
+                    <div data-ng-repeat="review in reviews" ng-class='{active:$first}' class="item" >
                         <div class="carousel-caption">
                             <div class="reviewTitle">
-                                ${title}
+                                {{review.title}}
                             </div>
-                            <p>${details}</p>
+                            <p>{{review.text}}</p>
                         </div>
                     </div>
                 </div>
@@ -25,9 +22,9 @@
 
     <div class="row">
         <section id="contactLayout" class="col-xs-10 col-sm-6 col-md-4 col-lg-2">
-            <script>
-                dynamicContentLoader('businessCard.htm', 'contactData.json', 'contactLayout', 'businessCardTemplateId');
-            </script>
+            <!--<script>-->
+                <!--dynamicContentLoader('businessCard.htm', 'contactData.json', 'contactLayout', 'businessCardTemplateId');-->
+            <!--</script>-->
         </section>
 
         <section class="col-xs-10 col-sm-6 col-md-4 col-lg-2">
@@ -49,13 +46,13 @@
         </section>
 
         <section class="footerFeedback col-xs-10 col-sm-6 col-md-4 col-lg-3" id="feedbackLayout">
-            <script>
-                dynamicContentLoader('_sendFeedbackForm.tmpl.htm', 'common/footerFeedbackForm.json', 'feedbackLayout', 'sendFeedbackTemplateId');
-            </script>
+            <!--<script>-->
+                <!--dynamicContentLoader('_sendFeedbackForm.tmpl.htm', 'common/footerFeedbackForm.json', 'feedbackLayout', 'sendFeedbackTemplateId');-->
+            <!--</script>-->
         </section>
     </div>
 
-</div>
+</footer>
 
 <!-- facebook iframe loader script-->
 <div id="fb-root"></div>

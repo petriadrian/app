@@ -3,6 +3,7 @@
     "pageId": "letySulei",
     "title": "Lety și Șulei",
     "url": "",
+    "openInNewTab": "false",
     "headlineCarousel": {
       "timeInterval": "12000",
       "items": [
