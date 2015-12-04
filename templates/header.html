@@ -7,29 +7,29 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" id="siteLogoLayout" ng-click="openUrl(content.logo.url, content.logo.openInNewTab)" title="{{content.logo.mouseOverText}}">
+            <a class="navbar-brand" id="siteLogoLayout" ng-click="openUrl(header.logo.url, header.logo.openInNewTab)" title="{{header.logo.mouseOverText}}">
                 <div class="siteLogo">
-                    <img src="{{content.logo.imgUrl}}">
-                    <h1>{{content.logo.text}}</h1>
+                    <img src="{{header.logo.imgUrl}}">
+                    <h1>{{header.logo.text}}</h1>
                 </div>
             </a>
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li data-ng-repeat="button in content.leftButtons">
+                <li data-ng-repeat="button in header.leftButtons">
                     <a title="{{button.mouseOverText}}" ng-click="openUrl(button.url, button.openInNewTab)"  data-toggle="collapse" data-target=".navbar-collapse.in">
                         <i ng-if="!!button.iconFontAwesomeClass" class="{{button.iconFontAwesomeClass}}"></i>
                         <span ng-if="!!button.text">{{button.text}}</span></a>
                 </li>
             </ul>
             <ul class="nav navbar-nav navbar-right social">
-                <li data-ng-repeat="button in content.rightButtons">
+                <li data-ng-repeat="button in header.rightButtons">
                     <a title="{{button.mouseOverText}}" ng-click="openUrl(button.url, button.openInNewTab)" data-toggle="collapse" data-target=".navbar-collapse.in">
                         <i ng-if="!!button.iconFontAwesomeClass" class="{{button.iconFontAwesomeClass}}"></i>
                         <span ng-if="!!button.text">{{button.text}}</span>
                     </a>
                 </li>
-                <li data-ng-repeat="button in content.languageButtons">
+                <li data-ng-repeat="button in header.languageButtons">
                     <a ng-if="button.languageCode != userLanguage" title="{{button.mouseOverText}}" ng-click="" data-toggle="collapse" data-target=".navbar-collapse.in">
                         <i ng-if="!!button.iconFontAwesomeClass" class="{{button.iconFontAwesomeClass}}"></i>
                         <span ng-if="!!button.text">{{button.text}}</span>

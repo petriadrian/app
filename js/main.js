@@ -37,16 +37,14 @@ app.controller('HeaderCtrl', function ($scope, $window, $http) {
         }
     }
     $scope.userLanguage = RO_LOCALE;//navigator.language || navigator.userLanguage;
-    debugger;
     var headerContentPath = '/casaPetri/content/' + $scope.userLanguage + '/common/header.json';
     $http.get(headerContentPath).success(function (headerContentResult) {
-        $scope.content = headerContentResult[0];
+        $scope.header = headerContentResult[0];
     });
 });
 
 app.controller('FooterCtrl', function ($window, $scope, $http) {
     $scope.openUrl = function (url, openInNewTab) {
-        debugger;
         if (typeof(openInNewTab) !== 'undefined' && openInNewTab == "true") {
             $window.open(url, '_blank');
         } else {
@@ -59,6 +57,11 @@ app.controller('FooterCtrl', function ($window, $scope, $http) {
         $scope.reviews =  reviews[0].sections[0].content.articles;
         $scope.reviewsPagePath =  reviews[0].url;
         $scope.reviewsPageOpenInNewTab =  reviews[0].openInNewTab;
+    });
+    var footerContentPath = '/casaPetri/content/' + $scope.userLanguage + '/common/footer.json';
+    $http.get(footerContentPath).success(function (footerContentResult) {
+        $scope.footer = footerContentResult[0];
+        debugger;
     });
 });
 
