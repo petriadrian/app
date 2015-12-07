@@ -8,14 +8,14 @@
   },
   "leftButtons": [
     {
-      "text": "Unde stau?",
+      "text": "Accomodation?",
       "mouseOverText": "Vezi cazare și facilități",
       "iconFontAwesomeClass": "",
       "url": "/casaPetri/index.html?lang=ro#accommodation",
       "openInNewTab": "false"
     },
     {
-      "text": "Ce fac acolo?",
+      "text": "Activities?",
       "mouseOverText": "Vezi activități",
       "iconFontAwesomeClass": "",
       "url": "/casaPetri/index.html?lang=ro#activities",
@@ -50,13 +50,17 @@
       "text": "EN",
       "mouseOverText": "switch to english",
       "iconFontAwesomeClass": "",
-      "languageCode": "en"
+      "languageCode": "en",
+      "url": "/casapetri/index.html?lang=en",
+      "openInNewTab": "false"
     },
     {
       "text": "RO",
       "mouseOverText": "schimbă în română",
       "iconFontAwesomeClass": "",
-      "languageCode": "ro"
+      "languageCode": "ro",
+      "url": "/casapetri/index.html?lang=ro",
+      "openInNewTab": "false"
     }
   ]
 }

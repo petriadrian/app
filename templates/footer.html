@@ -22,14 +22,20 @@
 
     <div class="row">
         <section id="contactLayout" class="col-xs-10 col-sm-6 col-md-4 col-lg-2">
-            <!--<script>-->
-                <!--dynamicContentLoader('businessCard.htm', 'contactData.json', 'contactLayout', 'businessCardTemplateId');-->
-            <!--</script>-->
+            <div class="businessCard">
+                <div class="cardTitle">
+                    <p><i class="fa fa-home fa-2x fa-flip-horizontal"></i></p>
+                    <p>{{footer.contact.title}}</p>
+                </div>
+                <p><i class="fa fa-phone"></i> {{footer.contact.phone}}</p>
+                <p><i class="fa fa-envelope-o"></i> {{footer.contact.email}}</p>
+                <p><i class="fa fa-map-marker"></i> {{footer.contact.address}}</p>
+            </div>
         </section>
 
         <section class="col-xs-10 col-sm-6 col-md-4 col-lg-2">
             <iframe frameborder="0" style="border:0"
-                    ng-src="{{footer.googleMapLink}}"
+                    ng-src="{{googleMapLink}}"
                     allowfullscreen></iframe>
         </section>
 
@@ -38,17 +44,20 @@
                  data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"
                  data-show-posts="false">
                 <div class="fb-xfbml-parse-ignore">
-                    <blockquote cite="https://www.facebook.com/casapetrirosiamontana"><a
-                            href="https://www.facebook.com/casapetrirosiamontana">Casa Petri Roșia Montană</a>
+                    <blockquote cite="{{footer.facebookLink}}"><a
+                            ng-href="{{footer.facebookLink}}">follow us on facebook</a>
                     </blockquote>
                 </div>
             </div>
         </section>
 
         <section class="footerFeedback col-xs-10 col-sm-6 col-md-4 col-lg-3" id="feedbackLayout">
-            <!--<script>-->
-                <!--dynamicContentLoader('_sendFeedbackForm.tmpl.htm', 'common/footerFeedbackForm.json', 'feedbackLayout', 'sendFeedbackTemplateId');-->
-            <!--</script>-->
+            <form role="form" class="sendFeedback" onsubmit="">
+                <div data-ng-repeat="textarea in footer.feedbackForm.textarea" class="form-group">
+                    <textarea placeholder="{{textarea.placeholder}}" class="form-control" rows="{{textarea.rows}}" name="{{textarea.title}}" ng-required="textarea.required=='true'?true:false"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">{{footer.feedbackForm.submitButton}}</button>
+            </form>
         </section>
     </div>
 

@@ -252,11 +252,6 @@ footer .row section{
     color: gray;
 }
 
-.footerFeedback textarea {
-    height: 90px;
-    max-height: 90px;
-}
-
 .footerFeedback input:HOVER,
 .footerFeedback input:FOCUS,
 .footerFeedback textarea:HOVER,

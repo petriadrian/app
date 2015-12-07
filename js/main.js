@@ -1,6 +1,5 @@
 /**
- * AngularJS Tutorial 1
- * @author Nick Kaye <nick.c.kaye@gmail.com>
+ * Constants
  */
 const RO_LOCALE = 'ro';
 const EN_LOCALE = 'en';
@@ -8,9 +7,36 @@ const EN_LOCALE = 'en';
 /**
  * Main AngularJS Web Application
  */
-var app = angular.module('tutorialWebApp', [
-    'ngRoute'
-]);
+var app = angular.module('appFunctionality', ['ngRoute']);
+
+/**
+ * Initialization
+ */
+app.run(function ($rootScope, $window, $routeParams, $location, $route) {
+    //set a function for opening any url
+    $rootScope.openUrl = function (url, openInNewTab) {
+        if (typeof(openInNewTab) !== 'undefined' && openInNewTab == "true") {
+            $window.open(url, '_blank');
+        } else {
+            $window.open(url, '_self');
+        }
+    };
+    // set userLanguage
+    debugger;
+    if (typeof($route.current.params.key) !== 'undefined') {
+        $rootScope.userLanguage = navigator.language || navigator.userLanguage;
+    } else {
+        $rootScope.userLanguage = $routeParams.lang;
+    }
+    if ($rootScope.userLanguage != RO_LOCALE) {
+        console.log("English not ready");
+        $rootScope.userLanguage = EN_LOCALE; // should be EN_LOCALE ... but en content is not yet added
+    }
+    $rootScope.changeLanguage = function (languageKey) {
+        $rootScope.userLanguage = languageKey;
+        $route.reload();
+    }
+});
 
 /**
  * Configure the Routes
@@ -28,67 +54,38 @@ app.config(['$routeProvider', function ($routeProvider) {
         .otherwise("/404", {templateUrl: "partials/404.html", controller: "PageCtrl"});
 }]);
 
-app.controller('HeaderCtrl', function ($scope, $window, $http) {
-    $scope.openUrl = function (url, openInNewTab) {
-        if (typeof(openInNewTab) !== 'undefined' && openInNewTab == "true") {
-            $window.open(url, '_blank');
-        } else {
-            $window.open(url, '_self');
-        }
-    }
-    $scope.userLanguage = RO_LOCALE;//navigator.language || navigator.userLanguage;
-    var headerContentPath = '/casaPetri/content/' + $scope.userLanguage + '/common/header.json';
-    $http.get(headerContentPath).success(function (headerContentResult) {
-        $scope.header = headerContentResult[0];
-    });
-});
-
-app.controller('FooterCtrl', function ($window, $scope, $http) {
-    $scope.openUrl = function (url, openInNewTab) {
-        if (typeof(openInNewTab) !== 'undefined' && openInNewTab == "true") {
-            $window.open(url, '_blank');
-        } else {
-            $window.open(url, '_self');
-        }
-    }
-    $scope.userLanguage = RO_LOCALE;
-    var reviewsPath = '/casaPetri/content/' + $scope.userLanguage + '/reviews.json';
-    $http.get(reviewsPath).success(function (reviews) {
-        $scope.reviews =  reviews[0].sections[0].content.articles;
-        $scope.reviewsPagePath =  reviews[0].url;
-        $scope.reviewsPageOpenInNewTab =  reviews[0].openInNewTab;
-    });
-    var footerContentPath = '/casaPetri/content/' + $scope.userLanguage + '/common/footer.json';
-    $http.get(footerContentPath).success(function (footerContentResult) {
-        $scope.footer = footerContentResult[0];
-        debugger;
-    });
-});
-
 /**
- * Controls all other Pages
+ * Controllers
  */
-app.controller('PageCtrl', function ($scope, $location, $routeParams, $http) {
-    console.log("Page Controller reporting for duty.");
+app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http) {
     debugger;
+    var headerContentPath = '/casaPetri/content/' + $rootScope.userLanguage + '/common/header.json';
+    $http.get(headerContentPath).success(function (headerContentResult) {
+        $scope.header = headerContentResult;
+    });
+});
+
+app.controller('FooterCtrl', function ($window, $scope, $rootScope, $http, $sce) {
+    debugger;
+    var reviewsPath = '/casaPetri/content/' + $rootScope.userLanguage + '/reviews.json';
+    $http.get(reviewsPath).success(function (reviews) {
+        $scope.reviews = reviews.sections[0].content.articles;
+        $scope.reviewsPagePath = reviews.url;
+        $scope.reviewsPageOpenInNewTab = reviews.openInNewTab;
+    });
+    var footerContentPath = '/casaPetri/content/' + $rootScope.userLanguage + '/common/footer.json';
+    $http.get(footerContentPath).success(function (footerContentResult) {
+        $scope.footer = footerContentResult;
+        $scope.googleMapLink = $sce.trustAsResourceUrl(footerContentResult.googleMapLink);
+    });
+});
+
+app.controller('PageCtrl', function ($scope, $rootScope, $location, $routeParams, $http) {
+    debugger;
+    console.log("Page Controller reporting for duty.");
     $scope.pageContent2 = 'petri';
-    var pageContentPath = '/casaPetri/content/' + getLanguage($routeParams.lang) + $location.$$path + 'pageContent.json';
+    var pageContentPath = '/casaPetri/content/' + $rootScope.userLanguage + $location.$$path + 'pageContent.json';
     $http.get(pageContentPath).success(function (pageContentResult) {
         $scope.pageContent = pageContentResult[0];
     });
 });
-
-function getLanguage(langUrlParam) {
-    if (langUrlParam == null) {
-        var browserLang = navigator.language || navigator.userLanguage;
-        if (browserLang == RO_LOCALE) {
-            return RO_LOCALE;
-        } else {
-            alert("English not ready");
-            // should return EN_LOCALE ... but en content is not yet added
-            return RO_LOCALE;
-        }
-    } else {
-        return langUrlParam;
-    }
-}
