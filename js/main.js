@@ -7,12 +7,12 @@ const EN_LOCALE = 'en';
 /**
  * Main AngularJS Web Application
  */
-var app = angular.module('appFunctionality', ['ngRoute']);
+var app = angular.module('appFunctionality', ['ngRoute', 'ngAnimate', 'ui.bootstrap']);
 
 /**
  * Initialization
  */
-app.run(function ($rootScope, $window, PagePresentationService) {
+app.run(function ($rootScope, $window) {
     //set a function for opening any url
     $rootScope.openUrl = function (url, openInNewTab) {
         debugger;
@@ -32,10 +32,6 @@ app.run(function ($rootScope, $window, PagePresentationService) {
         console.log("English not ready");
         $rootScope.userLanguage = RO_LOCALE; // should be EN_LOCALE ... but en content is not yet added
     }
-    //set load page presentation service
-    $rootScope.loadPagePresentation = function(pagePath) {
-        PagePresentationService.loadPresentation(pagePath);
-    }
 });
 
 /**
@@ -53,20 +49,6 @@ app.config(['$routeProvider', function ($routeProvider) {
         //// else 404
         .otherwise("/404", {templateUrl: "partials/404.html", controller: "PageCtrl"});
 }]);
-
-/**
- * Services
- */
-app.service('PagePresentationService', function($http, $rootScope) {
-    this.loadPresentation = function(pagePath){
-        debugger;
-        var pageToLoadPath = '/casaPetri/content/' + $rootScope.userLanguage + '/' + pagePath + '.json';
-        $http.get(pageToLoadPath).success(function (pageResult) {
-            debugger;
-            $rootScope.pagePresentation = pageResult.presentation;
-        });
-    }
-});
 
 /**
  * Controllers
@@ -99,5 +81,14 @@ app.controller('HomePageCtrl', function ($scope, $rootScope, $location, $routePa
     var pageContentPath = '/casaPetri/content/' + $rootScope.userLanguage + '/home.json';
     $http.get(pageContentPath).success(function (pageContentResult) {
         $scope.pageContent = pageContentResult;
+    });
+});
+
+app.controller('GetPagePresentationCtrl', function ($scope, $rootScope, $http) {
+    debugger;
+    var pageToLoadPath = '/casaPetri/content/' + $rootScope.userLanguage + '/' + $scope.slide.page + '.json';
+    $http.get(pageToLoadPath).success(function (pageResult) {
+        debugger;
+        $scope.pagePresentation = pageResult.presentation;
     });
 });

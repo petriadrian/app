@@ -59,16 +59,16 @@ body {
 .centralCarousel h3 {
     margin: 0;
     color: inherit;
-    font-size: 1.7em;
+    font-size: 1.8em;
 }
 
 .centralCarousel .item {
     background: #151F1D;
-    height: 400px;
+    height: 350px;
 }
 
 .centralCarousel .carousel-inner img {
-    width: 100%;
+    height: 100%;
     margin: auto;
 }
 
@@ -77,10 +77,6 @@ body {
     1px -1px 3px #000,
     -1px 1px 3px #000,
     1px 1px 3px #000;
-}
-
-.centralCarousel .carousel-indicators {
-    bottom: 10px;
 }
 
 .reviewPreviewLayout {
@@ -496,6 +492,6 @@ footer .row section{
     }
 
     .centralCarousel .item {
-        height: 350px;
+        height: 300px;
     }
 }

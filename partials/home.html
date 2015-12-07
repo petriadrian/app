@@ -1,27 +1,44 @@
 <div class="container">
     <!-- CAROUSEL -->
     <section class="centralCarousel row">
-        <div id="mainCarousel" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 carousel slide" data-ride="carousel" data-interval="{{pageContent.textOverImagesCarousel.timeInterval}}">
-            <div id="mainCarouselLayout" class="carousel-inner">
-                <!--<script>-->
-                    <!--dynamicContentLoader('carousel.htm', 'homepage/mainCarousel.json', 'mainCarouselLayout', 'carouselTemplateId');-->
-                <!--</script>-->
-                <div data-ng-repeat="slide in pageContent.textOverImagesCarousel.slides" ng-class='{active:$first}' class="item" >
-                    <!--{{loadPagePresentation(slide.page)}}-->
-                    <span ng-repeat="subCategory in getSubCategories(category.Id)">
-                    <img alt="{{pagePresentation.title}}" ng-src="{{pagePresentation.img}}">
-                    <div class="carousel-caption">
-                        <h3>{{pagePresentation.headlineText}}</h3>
-                        <p>{{pagePresentation.description}}</p>
-                    </div>
-                </div>
-            </div>
-            <a class="carousel-control left" href="#mainCarousel" data-slide="prev">
-                <span class="glyphicon glyphicon-chevron-left"></span>
-            </a> <a class="carousel-control right" href="#mainCarousel" data-slide="next">
-            <span class="glyphicon glyphicon-chevron-right"></span>
-        </a>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 carousel">
+            <uib-carousel interval="pageContent.textOverImagesCarousel.timeInterval">
+                <uib-slide ng-repeat="slide in pageContent.textOverImagesCarousel.slides">
+                    <span ng-controller='GetPagePresentationCtrl'>
+                        <img alt="{{pagePresentation.title}}" ng-src="{{pagePresentation.img}}">
+                        <div class="carousel-caption">
+                            <h3>{{pagePresentation.headlineText}}</h3>
+                            <p>{{pagePresentation.description}}</p>
+                        </div>
+                    </span>
+                </uib-slide>
+            </uib-carousel>
         </div>
+
+        <!--<div id="mainCarousel" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 carousel slide" data-ride="carousel" data-interval="{{pageContent.textOverImagesCarousel.timeInterval}}">-->
+            <!--<ol class="carousel-indicators">-->
+                <!--<li data-target="#mainCarousel" data-slide-to="0" class="active"></li>-->
+                <!--<li data-target="#mainCarousel" data-slide-to="1"></li>-->
+                <!--<li data-target="#mainCarousel" data-slide-to="2"></li>-->
+                <!--<li data-target="#mainCarousel" data-slide-to="3"></li>-->
+                <!--<li data-target="#mainCarousel" data-slide-to="4"></li>-->
+            <!--</ol>-->
+            <!--<div id="mainCarouselLayout" class="carousel-inner">-->
+                <!--<div data-ng-repeat="slide in pageContent.textOverImagesCarousel.slides" ng-class='{active:$first}' class="item"-->
+                     <!--ng-controller='GetPagePresentationCtrl'>-->
+                    <!--<img alt="{{pagePresentation.title}}" ng-src="{{pagePresentation.img}}">-->
+                    <!--<div class="carousel-caption">-->
+                        <!--<h3>{{pagePresentation.headlineText}}</h3>-->
+                        <!--<p>{{pagePresentation.description}}</p>-->
+                    <!--</div>-->
+                <!--</div>-->
+            <!--</div>-->
+            <!--<a class="carousel-control left" href="#mainCarousel" data-slide="prev">-->
+                <!--<span class="glyphicon glyphicon-chevron-left"></span>-->
+            <!--</a> <a class="carousel-control right" href="#mainCarousel" data-slide="next">-->
+            <!--<span class="glyphicon glyphicon-chevron-right"></span>-->
+        <!--</a>-->
+        <!--</div>-->
     </section>
 
     <!--&lt;!&ndash; FIRST SECTION &ndash;&gt;-->

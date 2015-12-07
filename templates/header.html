@@ -30,7 +30,7 @@
                     </a>
                 </li>
                 <li data-ng-repeat="button in headerContent.languageButtons">
-                    <a ng-if="button.languageCode != userLanguage" title="{{button.mouseOverText}}" ng-click="openUrl(button.url, button.openInNewTab)" data-toggle="collapse" data-target=".navbar-collapse.in"> <!--ng-click="changeLanguage(button.languageCode)"-->
+                    <a ng-if="button.languageCode != userLanguage" title="{{button.mouseOverText}}" ng-click="openUrl(button.url, button.openInNewTab)" data-toggle="collapse" data-target=".navbar-collapse.in">
                         <i ng-if="!!button.iconFontAwesomeClass" class="{{button.iconFontAwesomeClass}}"></i>
                         <span ng-if="!!button.text">{{button.text}}</span>
                     </a>
