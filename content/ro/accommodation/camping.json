@@ -1,39 +1,30 @@
 [
   {
-    "pageId": "letySulei",
-    "title": "Lety și Șulei",
-    "url": "",
-    "openInNewTab": "false",
-    "headlineCarousel": {
-      "timeInterval": "12000",
-      "items": [
-        {
-          "pageId": ""
-        }
-      ]
-    },
-    "headlineText": "Masivul Șulei sigur îți va pune la încercare echilibrul :)",
-    "headlineImgUrl": "/casaPetri/img/activities/trails/letySulei/pageAdvertiserDefault.jpg",
-    "shortDescription": "| <b>4h</b> | Urcăm pe 2 culmi cu forme ciudate, întâlnim 2 tăuri minunate și o galerie cu urme de filoane de aur",
-    "carouselPageAdvertise": {
-      "timeInterval": "12000",
-      "images": [
-        {
-          "imgUrl": "/casaPetri/img/activities/trails/letySulei/pageAdvertiseBox/1.jpg"
-        },
-        {
-          "imgUrl": "/casaPetri/img/activities/trails/letySulei/pageAdvertiseBox/2.jpg"
-        },
-        {
-          "imgUrl": "/casaPetri/img/activities/trails/letySulei/pageAdvertiseBox/3.jpg"
-        }
-      ]
+    "presentation": {
+      "title": "Campare",
+      "url": "/accommodation/camping",
+      "openInNewTab": "false",
+      "headlineText": "O cafea într-o dimineață la Roșia Montană?",
+      "description": "Fost cinematograf, bancă și centru medical a comunei, acum căsuța își deschide porțile ca spațiu de cazare",
+      "img": "/casapetri/img/accommodation/casaPetri/rooms/presentation.jpg",
+      "carouselAdvertise": {
+        "timeInterval": "12000",
+        "slides": [
+          {
+            "img": "/casaPetri/img/accommodation/rooms/pageAdvertiseBox/1.jpg"
+          },          {
+            "img": "/casaPetri/img/accommodation/rooms/pageAdvertiseBox/2.jpg"
+          },          {
+            "img": "/casaPetri/img/accommodation/rooms/pageAdvertiseBox/3.jpg"
+          }
+        ]
+      }
     },
     "sections": [
       {
-        "title": "Traseu",
+        "title": "Detalii",
         "addButtonInHeader": "true",
-        "iconFortAwesomeClass": "fa fa-map-signs",
+        "iconFortAwesomeClass": "fa fa-info-circle",
         "content": {
           "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Galeria Văidoaia, Rosia Montana, Alba County, Romania | Casa Szekey Acos, DC117, Roșia Montană, Alba County, Romania | Tăul Mare, Rosia Montana, Alba County, Romania | Masivul Şulei, Rosia Montana, Alba County, Romania | Tăul Corna, Rosia Montana, Alba County, Romania | Sfinxul Cârnic, Rosia Montana, Alba County, Romania | Piatra Corbului, DJ742, Roșia Montană, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Tăul Anghel, Rosia Montana, Alba County, Romania | Casa Petri Rosia Montana, Historical center, nr. 334, Roșia Montană 517615",
           "articles": [
@@ -111,9 +102,9 @@
         }
       },
       {
-        "title": "Atracții",
+        "title": "Rezervări",
         "addButtonInHeader": "true",
-        "iconFortAwesomeClass": "fa fa-star"
+        "iconFortAwesomeClass": "fa fa-bed"
       },
       {
         "title": "Vezi și",

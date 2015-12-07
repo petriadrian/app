@@ -12,9 +12,10 @@ var app = angular.module('appFunctionality', ['ngRoute']);
 /**
  * Initialization
  */
-app.run(function ($rootScope, $window, $routeParams, $location, $route) {
+app.run(function ($rootScope, $window, PagePresentationService) {
     //set a function for opening any url
     $rootScope.openUrl = function (url, openInNewTab) {
+        debugger;
         if (typeof(openInNewTab) !== 'undefined' && openInNewTab == "true") {
             $window.open(url, '_blank');
         } else {
@@ -22,19 +23,18 @@ app.run(function ($rootScope, $window, $routeParams, $location, $route) {
         }
     };
     // set userLanguage
-    debugger;
-    if (typeof($route.current.params.key) !== 'undefined') {
+    if (typeof(location.search.split('lang=')[1]) == null) {
         $rootScope.userLanguage = navigator.language || navigator.userLanguage;
     } else {
-        $rootScope.userLanguage = $routeParams.lang;
+        $rootScope.userLanguage = location.search.split('lang=')[1];
     }
     if ($rootScope.userLanguage != RO_LOCALE) {
         console.log("English not ready");
-        $rootScope.userLanguage = EN_LOCALE; // should be EN_LOCALE ... but en content is not yet added
+        $rootScope.userLanguage = RO_LOCALE; // should be EN_LOCALE ... but en content is not yet added
     }
-    $rootScope.changeLanguage = function (languageKey) {
-        $rootScope.userLanguage = languageKey;
-        $route.reload();
+    //set load page presentation service
+    $rootScope.loadPagePresentation = function(pagePath) {
+        PagePresentationService.loadPresentation(pagePath);
     }
 });
 
@@ -44,7 +44,7 @@ app.run(function ($rootScope, $window, $routeParams, $location, $route) {
 app.config(['$routeProvider', function ($routeProvider) {
     $routeProvider
         // Home
-        .when("/", {templateUrl: "partials/home.html", controller: "PageCtrl"})
+        .when("/", {templateUrl: "partials/home.html", controller: "HomePageCtrl"})
         //// Pages
         //.when("/contact", {templateUrl: "partials/contact.html", controller: "PageCtrl"})
         //// Blog
@@ -55,19 +55,33 @@ app.config(['$routeProvider', function ($routeProvider) {
 }]);
 
 /**
+ * Services
+ */
+app.service('PagePresentationService', function($http, $rootScope) {
+    this.loadPresentation = function(pagePath){
+        debugger;
+        var pageToLoadPath = '/casaPetri/content/' + $rootScope.userLanguage + '/' + pagePath + '.json';
+        $http.get(pageToLoadPath).success(function (pageResult) {
+            debugger;
+            $rootScope.pagePresentation = pageResult.presentation;
+        });
+    }
+});
+
+/**
  * Controllers
  */
 app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http) {
     debugger;
     var headerContentPath = '/casaPetri/content/' + $rootScope.userLanguage + '/common/header.json';
     $http.get(headerContentPath).success(function (headerContentResult) {
-        $scope.header = headerContentResult;
+        $scope.headerContent = headerContentResult;
     });
 });
 
-app.controller('FooterCtrl', function ($window, $scope, $rootScope, $http, $sce) {
+app.controller('FooterCtrl', function ($scope, $rootScope, $http, $sce) {
     debugger;
-    var reviewsPath = '/casaPetri/content/' + $rootScope.userLanguage + '/reviews.json';
+    var reviewsPath = '/casaPetri/content/' + $rootScope.userLanguage + '/common/reviews.json';
     $http.get(reviewsPath).success(function (reviews) {
         $scope.reviews = reviews.sections[0].content.articles;
         $scope.reviewsPagePath = reviews.url;
@@ -75,17 +89,15 @@ app.controller('FooterCtrl', function ($window, $scope, $rootScope, $http, $sce)
     });
     var footerContentPath = '/casaPetri/content/' + $rootScope.userLanguage + '/common/footer.json';
     $http.get(footerContentPath).success(function (footerContentResult) {
-        $scope.footer = footerContentResult;
+        $scope.footerContent = footerContentResult;
         $scope.googleMapLink = $sce.trustAsResourceUrl(footerContentResult.googleMapLink);
     });
 });
 
-app.controller('PageCtrl', function ($scope, $rootScope, $location, $routeParams, $http) {
+app.controller('HomePageCtrl', function ($scope, $rootScope, $location, $routeParams, $http) {
     debugger;
-    console.log("Page Controller reporting for duty.");
-    $scope.pageContent2 = 'petri';
-    var pageContentPath = '/casaPetri/content/' + $rootScope.userLanguage + $location.$$path + 'pageContent.json';
+    var pageContentPath = '/casaPetri/content/' + $rootScope.userLanguage + '/home.json';
     $http.get(pageContentPath).success(function (pageContentResult) {
-        $scope.pageContent = pageContentResult[0];
+        $scope.pageContent = pageContentResult;
     });
 });

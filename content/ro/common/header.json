@@ -1,6 +1,6 @@
 {
   "logo": {
-    "text": "Casa Petri Roșia Montană",
+    "text": "Casa Roșia Montană",
     "mouseOverText": "Întoarcete la pagina principală",
     "imgUrl": "/casapetri/img/common/siteLogo.png",
     "url": "/casaPetri",
@@ -50,13 +50,17 @@
       "text": "EN",
       "mouseOverText": "switch to english",
       "iconFontAwesomeClass": "",
-      "languageCode": "en"
+      "languageCode": "en",
+      "url": "/casapetri/index.html?lang=en",
+      "openInNewTab": "false"
     },
     {
       "text": "RO",
       "mouseOverText": "schimbă în română",
       "iconFontAwesomeClass": "",
-      "languageCode": "ro"
+      "languageCode": "ro",
+      "url": "/casapetri/index.html?lang=ro",
+      "openInNewTab": "false"
     }
   ]
 }

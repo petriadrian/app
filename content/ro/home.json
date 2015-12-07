@@ -1,0 +1,77 @@
+{
+  "textOverImagesCarousel": {
+    "timeInterval": "12000",
+    "slides": [
+      {
+        "page": "accommodation/rooms"
+      },
+      {
+        "page": "accommodation/camping"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "Unde stau?",
+      "id": "accommodation",
+      "iconFortAwesomeClass": "fa fa-bed",
+      "content": {
+        "linksToOtherPagesCarousels": [
+          {
+            "timeInterval": "12000",
+            "page": "accommodation/rooms"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "accommodation/camping"
+          }
+        ],
+        "pageAdvertises": [
+          {
+            "page": "accommodation/facilities"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Ce fac acolo?",
+      "id": "activities",
+      "iconFortAwesomeClass": "fa fa-bicycle",
+      "content": {
+        "linksToOtherPages": [
+          {
+            "page": "activities/hiking"
+          },
+          {
+            "page": "activities/cycling"
+          }
+        ],
+        "pageAdvertises": [
+          {
+            "page": "activities/trails/topAttractions"
+          }
+        ]
+      }
+    },
+    {
+      "title": "De neratat!",
+      "id": "recommendations",
+      "iconFortAwesomeClass": "fa fa-calendar",
+      "content": {
+        "linksToOtherPages": [
+          {
+            "page": "accommodation/rooms"
+          },
+          {
+            "page": "accommodation/camping"
+          }
+        ],
+        "pageAdvertises": [
+          {
+            "page": "accommodation/facilities"
+          }
+        ]
+      }
+    }
+  ]
+}
