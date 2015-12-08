@@ -3,30 +3,38 @@
     "text": "Casa Roșia Montană",
     "mouseOverText": "Întoarcete la pagina principală",
     "imgUrl": "/casapetri/img/common/siteLogo.png",
-    "url": "/casaPetri",
-    "openInNewTab": "false"
+    "url": {
+      "link": "/casaPetri",
+      "openInNewTab": false
+    }
   },
   "leftButtons": [
     {
       "text": "Unde stau?",
       "mouseOverText": "Vezi cazare și facilități",
       "iconFontAwesomeClass": "",
-      "url": "/casaPetri/index.html?lang=ro#accommodation",
-      "openInNewTab": "false"
+      "url": {
+        "link": "/casaPetri/index.html?lang=ro#accommodation",
+        "openInNewTab": false
+      }
     },
     {
       "text": "Ce fac acolo?",
       "mouseOverText": "Vezi activități",
       "iconFontAwesomeClass": "",
-      "url": "/casaPetri/index.html?lang=ro#activities",
-      "openInNewTab": "false"
+      "url": {
+        "link": "/casaPetri/index.html?lang=ro#activities",
+        "openInNewTab": false
+      }
     },
     {
       "text": "De neratat!",
       "mouseOverText": "",
       "iconFontAwesomeClass": "",
-      "url": "/casaPetri/index.html?lang=ro#recommendations",
-      "openInNewTab": "false"
+      "url": {
+        "link": "/casaPetri/index.html?lang=ro#recommendations",
+        "openInNewTab": false
+      }
     }
   ],
   "rightButtons": [
@@ -34,15 +42,19 @@
       "text": "",
       "mouseOverText": "Urmărește-ne pe Facebook",
       "iconFontAwesomeClass": "fa fa-lg fa-facebook",
-      "url": "https://www.facebook.com/casapetrirosiamontana",
-      "openInNewTab": "true"
+      "url": {
+        "link": "https://www.facebook.com/casapetrirosiamontana",
+        "openInNewTab": true
+      }
     },
     {
       "text": "",
       "mouseOverText": "live webCam",
       "iconFontAwesomeClass": "fa fa-video-camera",
-      "url": "http://www.rmgc.ro/media/galerie-video/webcam/casa-325-rosia-montana.html#container",
-      "openInNewTab": "true"
+      "url": {
+        "link": "http://www.rmgc.ro/media/galerie-video/webcam/casa-325-rosia-montana.html#container",
+        "openInNewTab": true
+      }
     }
   ],
   "languageButtons": [
@@ -51,16 +63,20 @@
       "mouseOverText": "switch to english",
       "iconFontAwesomeClass": "",
       "languageCode": "en",
-      "url": "/casapetri/index.html?lang=en",
-      "openInNewTab": "false"
+      "url": {
+        "link": "/casapetri/index.html?lang=en",
+        "openInNewTab": false
+      }
     },
     {
       "text": "RO",
       "mouseOverText": "schimbă în română",
       "iconFontAwesomeClass": "",
       "languageCode": "ro",
-      "url": "/casapetri/index.html?lang=ro",
-      "openInNewTab": "false"
+      "url": {
+        "link": "/casapetri/index.html?lang=ro",
+        "openInNewTab": false
+      }
     }
   ]
 }

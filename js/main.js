@@ -14,12 +14,11 @@ var app = angular.module('appFunctionality', ['ngRoute', 'ngAnimate', 'ui.bootst
  */
 app.run(function ($rootScope, $window) {
     //set a function for opening any url
-    $rootScope.openUrl = function (url, openInNewTab) {
-        debugger;
-        if (typeof(openInNewTab) !== 'undefined' && openInNewTab == "true") {
-            $window.open(url, '_blank');
+    $rootScope.openUrl = function (url) {
+        if (typeof(url.openInNewTab) !== 'undefined' && url.openInNewTab) {
+            $window.open(url.link, '_blank');
         } else {
-            $window.open(url, '_self');
+            $window.open(url.link, '_self');
         }
     };
     // set userLanguage
@@ -66,8 +65,7 @@ app.controller('FooterCtrl', function ($scope, $rootScope, $http, $sce) {
     var reviewsPath = '/casaPetri/content/' + $rootScope.userLanguage + '/common/reviews.json';
     $http.get(reviewsPath).success(function (reviews) {
         $scope.reviews = reviews.sections[0].content.articles;
-        $scope.reviewsPagePath = reviews.url;
-        $scope.reviewsPageOpenInNewTab = reviews.openInNewTab;
+        $scope.reviewsUrl = reviews.url;
     });
     var footerContentPath = '/casaPetri/content/' + $rootScope.userLanguage + '/common/footer.json';
     $http.get(footerContentPath).success(function (footerContentResult) {

@@ -1,8 +1,10 @@
 {
-  "pageId": "reviews",
   "title": "Reviews",
-  "url": "/casaPetri/pages/review.html?lang=ro",
-  "openInNewTab": "false",
+  "pageId": "reviewsPage",
+  "url": {
+    "link": "/casaPetri/pages/review.html?lang=ro",
+    "openInNewTab": "false"
+  },
   "headlineText": "Crestem impreuna cu cei ce ne trec pragul",
   "headlineImgUrl": "/casaPetri/img/review/pageAdvertiserDefault.jpg",
   "shortDescription": "Vezi experiențele și impresiile celor care ne-au vizitat. O parte dintre ei pot fi contactați",

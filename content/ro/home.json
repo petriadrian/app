@@ -1,21 +1,36 @@
 {
-  "textOverImagesCarousel": {
-    "timeInterval": "12000",
-    "slides": [
-      {
-        "page": "accommodation/rooms"
-      },
-      {
-        "page": "accommodation/camping"
-      }
-    ]
+  "presentation": {
+    "title": "",
+    "url": {
+      "link": "/casaPetri",
+      "openInNewTab": false
+    },
+    "headlineText": "",
+    "description": "",
+    "img": "",
+    "carouselAdvertise": {
+      "timeInterval": "",
+      "slides": [
+        {
+          "img": ""
+        }
+      ]
+    }
   },
   "sections": [
     {
-      "title": "Unde stau?",
-      "id": "accommodation",
+      "title": "",
+      "id": "",
       "iconFortAwesomeClass": "fa fa-bed",
       "content": {
+        "textOverImagesCarousel": {
+          "timeInterval": "12000",
+          "slides": [
+            {
+              "page": "accommodation/rooms"
+            }
+          ]
+        },
         "linksToOtherPagesCarousels": [
           {
             "timeInterval": "12000",
