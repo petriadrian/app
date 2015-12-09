@@ -1,6 +1,6 @@
 {
   "presentation": {
-    "title": "",
+    "title": "Pagina Principal?",
     "url": {
       "link": "/casaPetri",
       "openInNewTab": false
@@ -8,7 +8,8 @@
     "headlineText": "",
     "description": "",
     "img": "",
-    "carouselAdvertise": {
+    "showPageHeadline": false,
+    "advertiseCarousel": {
       "timeInterval": "",
       "slides": [
         {
@@ -19,45 +20,43 @@
   },
   "sections": [
     {
-      "title": "",
-      "id": "",
-      "iconFortAwesomeClass": "fa fa-bed",
+      "id": "centralCarousel",
+      "title": {
+        "text": "Carousel",
+        "iconFortAwesomeClass": "",
+        "addLinkInPageHeadline": false,
+        "showSectionTitle": false
+      },
       "content": {
-        "textOverImagesCarousel": {
+        "centralCarousel": {
           "timeInterval": "12000",
           "slides": [
             {
               "page": "accommodation/rooms"
+            },
+            {
+              "page": "accommodation/camping"
             }
           ]
-        },
-        "linksToOtherPagesCarousels": [
-          {
-            "timeInterval": "12000",
-            "page": "accommodation/rooms"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "accommodation/camping"
-          }
-        ],
-        "pageAdvertises": [
-          {
-            "page": "accommodation/facilities"
-          }
-        ]
+        }
       }
     },
     {
-      "title": "Ce fac acolo?",
-      "id": "activities",
-      "iconFortAwesomeClass": "fa fa-bicycle",
+      "id": "accommodation",
+      "title": {
+        "text": "Unde stau?",
+        "iconFortAwesomeClass": "fa fa-bed",
+        "addLinkInPageHeadline": false,
+        "showSectionTitle": true
+      },
       "content": {
-        "linksToOtherPages": [
+        "advertiseBoxesToOtherPagesCarousels": [
           {
+            "timeInterval": "12000",
             "page": "activities/hiking"
           },
           {
+            "timeInterval": "12000",
             "page": "activities/cycling"
           }
         ],
@@ -69,9 +68,39 @@
       }
     },
     {
-      "title": "De neratat!",
+      "id": "activities",
+      "title": {
+        "text": "Ce fac acolo?",
+        "iconFortAwesomeClass": "fa fa-bicycle",
+        "addLinkInPageHeadline": false,
+        "showSectionTitle": true
+      },
+      "content": {
+        "advertisesToOtherPages": [
+          {
+            "timeInterval": "12000",
+            "page": "activities/hiking"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "activities/cycling"
+          }
+        ],
+        "pageAdvertises": [
+          {
+            "page": "activities/trails/topAttractions"
+          }
+        ]
+      }
+    },
+    {
       "id": "recommendations",
-      "iconFortAwesomeClass": "fa fa-calendar",
+      "title": {
+        "text": "De neratat!",
+        "iconFortAwesomeClass": "fa fa-calendar",
+        "addLinkInPageHeadline": false,
+        "showSectionTitle": true
+      },
       "content": {
         "linksToOtherPages": [
           {

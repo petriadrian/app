@@ -1,10 +1,16 @@
 <div class="container">
-    <!-- CAROUSEL -->
-    <section class="centralCarousel row">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 carousel">
-            <uib-carousel interval="pageContent.textOverImagesCarousel.timeInterval">
-                <uib-slide ng-repeat="slide in pageContent.textOverImagesCarousel.slides">
-                    <span ng-controller='GetPagePresentationCtrl'>
+    <section ng-repeat="section in pageContent.sections" class="row">
+        <!-- TITLE -->
+        <div ng-if="section.title.showSectionTitle" class="col-sm-12 col-lg-12 col-md-12 titleLayout">
+            <span id="section.id" class="anchor"></span>
+            <h1><i ng-class="section.title.iconFortAwesomeClass"></i>&nbsp {{section.title.text}}</h1>
+        </div>
+        <div style="clear:both"></div>
+        <!-- CENTRAL CAROUSEL -->
+        <div ng-if="!!section.content.centralCarousel" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 centralCarousel">
+            <uib-carousel interval="section.content.centralCarousel.timeInterval">
+                <uib-slide ng-repeat="slide in section.content.centralCarousel.slides">
+                    <span ng-controller='GetPagePresentationCtrl' ng-click="openUrl(pagePresentation.url)" >
                         <img alt="{{pagePresentation.title}}" ng-src="{{pagePresentation.img}}">
                         <div class="carousel-caption">
                             <h3>{{pagePresentation.headlineText}}</h3>
@@ -14,84 +20,34 @@
                 </uib-slide>
             </uib-carousel>
         </div>
+        <!-- ADVERTISE BOXES TO OTHER PAGES -->
+        <div ng-if="!!section.content.advertiseBoxesToOtherPagesCarousels" class="row">
+            <div ng-repeat="advertiseBox in section.content.advertiseBoxesToOtherPagesCarousels" class="col-xs-8 col-sm-6 col-md-4 col-lg-3 slide advertiseBox defaultClickEvents">
+                <uib-carousel interval="advertiseBox.timeInterval">
+                    <uib-slide ng-repeat="slide in section.content.centralCarousel.slides">
+                    <span ng-controller='GetPagePresentationCtrl' ng-click="openUrl(pagePresentation.url)" >
+                        <img alt="{{pagePresentation.title}}" ng-src="{{pagePresentation.img}}">
+                        <div class="carousel-caption">
+                            <h3>{{pagePresentation.headlineText}}</h3>
+                            <p>{{pagePresentation.description}}</p>
+                        </div>
+                    </span>
+                    </uib-slide>
+                </uib-carousel>
 
-        <!--<div id="mainCarousel" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 carousel slide" data-ride="carousel" data-interval="{{pageContent.textOverImagesCarousel.timeInterval}}">-->
-            <!--<ol class="carousel-indicators">-->
-                <!--<li data-target="#mainCarousel" data-slide-to="0" class="active"></li>-->
-                <!--<li data-target="#mainCarousel" data-slide-to="1"></li>-->
-                <!--<li data-target="#mainCarousel" data-slide-to="2"></li>-->
-                <!--<li data-target="#mainCarousel" data-slide-to="3"></li>-->
-                <!--<li data-target="#mainCarousel" data-slide-to="4"></li>-->
-            <!--</ol>-->
-            <!--<div id="mainCarouselLayout" class="carousel-inner">-->
-                <!--<div data-ng-repeat="slide in pageContent.textOverImagesCarousel.slides" ng-class='{active:$first}' class="item"-->
-                     <!--ng-controller='GetPagePresentationCtrl'>-->
-                    <!--<img alt="{{pagePresentation.title}}" ng-src="{{pagePresentation.img}}">-->
-                    <!--<div class="carousel-caption">-->
-                        <!--<h3>{{pagePresentation.headlineText}}</h3>-->
-                        <!--<p>{{pagePresentation.description}}</p>-->
-                    <!--</div>-->
-                <!--</div>-->
-            <!--</div>-->
-            <!--<a class="carousel-control left" href="#mainCarousel" data-slide="prev">-->
-                <!--<span class="glyphicon glyphicon-chevron-left"></span>-->
-            <!--</a> <a class="carousel-control right" href="#mainCarousel" data-slide="next">-->
-            <!--<span class="glyphicon glyphicon-chevron-right"></span>-->
-        <!--</a>-->
-        <!--</div>-->
+                <div class="carousel-inner">
+                    {{each(i, slide) carouselImages}}
+                    <div class="item ${(i==0)?"active":""}" title="${title}">
+                    <img src="${slide.carouselImgUrl}" alt="${title}">
+                </div>
+                {{/each}}
+            </div>
+            <div class="caption">
+                <h3>${title}</h3>
+                <p>{{html details}}</p>
+            </div>
+        </div>
+        </div>
     </section>
-
-    <!--&lt;!&ndash; FIRST SECTION &ndash;&gt;-->
-    <!--<section>-->
-        <!--<div id="firstSectionHeadline" class="row">-->
-            <!--<script>-->
-                <!--dynamicContentLoader('_pageSectionTitles.htm', 'homepage/pageStructure.json', 'firstSectionHeadline', 'firstSectionTitleTemplateId');-->
-            <!--</script>-->
-        <!--</div>-->
-        <!--<div id="firstSectionContent" class="row">-->
-            <!--<script>-->
-                <!--loadContentWithSpecificIds('_pageAdvertiseBox.tmpl.htm', 'common/pagesAdvertiseBox.json', 'homePage/ourOfferBoxes.json', 'firstSectionContent', 'pageAdvertiserBoxTemplateId');-->
-            <!--</script>-->
-        <!--</div>-->
-
-        <!--<div id="facilitiesAdvertise" class="row">-->
-            <!--<script>-->
-                <!--dynamicContentLoader('_pageAdvertise.htm', 'accommodation/casaPetri/facilities/pageStructure.json', 'facilitiesAdvertise', 'pageAdvertiseTemplateId');-->
-            <!--</script>-->
-        <!--</div>-->
-    <!--</section>-->
-
-    <!--&lt;!&ndash; SECOND SECTION &ndash;&gt;-->
-    <!--<section>-->
-        <!--<div id="secondSectionHeadline" class="row">-->
-            <!--<script>-->
-                <!--dynamicContentLoader('_pageSectionTitles.htm', 'homepage/pageStructure.json', 'secondSectionHeadline', 'secondSectionTitleTemplateId');-->
-            <!--</script>-->
-        <!--</div>-->
-        <!--<div id="secondSectionContent" class="row">-->
-            <!--<script>-->
-                <!--loadContentWithSpecificIds('_pageAdvertiseBox.tmpl.htm', 'common/pagesAdvertiseBox.json', 'homePage/activitiesBoxes.json', 'secondSectionContent', 'pageAdvertiserBoxTemplateId');-->
-            <!--</script>-->
-        <!--</div>-->
-        <!--<div id="topAttractionsAdvertise">-->
-            <!--<script>-->
-                <!--dynamicContentLoader('_pageAdvertise.htm', 'activities/trails/topAttractions/pageStructure.json', 'topAttractionsAdvertise', 'pageAdvertiseTemplateId');-->
-            <!--</script>-->
-        <!--</div>-->
-    <!--</section>-->
-
-    <!--&lt;!&ndash; THIRD SECTION &ndash;&gt;-->
-    <!--<section>-->
-        <!--<div id="thirdSectionHeadline">-->
-            <!--<script>-->
-                <!--dynamicContentLoader('_pageSectionTitles.htm', 'homepage/pageStructure.json', 'thirdSectionHeadline', 'thirdSectionTitleTemplateId');-->
-            <!--</script>-->
-        <!--</div>-->
-        <!--<div id="thirdSectionContent">-->
-            <!--<script>-->
-                <!--loadContentWithSpecificIds('_pageAdvertiseBox.tmpl.htm', 'common/pagesAdvertiseBox.json', 'homePage/recommendationsBoxes.json', 'thirdSectionContent', 'pageAdvertiserBoxTemplateId');-->
-            <!--</script>-->
-        <!--</div>-->
-    <!--</section>-->
 
 </div>

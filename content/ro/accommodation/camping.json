@@ -1,30 +1,29 @@
 {
   "presentation": {
     "title": "Campare",
-    "url": "/accommodation/camping",
-    "openInNewTab": "false",
+    "url": {
+      "link": "/accommodation/camping",
+      "openInNewTab": false
+    },
     "headlineText": "Am adormit sub stele, era munte, liniște, răcoare...",
     "description": "Vezi zona de campare din curte",
     "img": "/casapetri/img/accommodation/camping/presentation.jpg",
-    "carouselAdvertise": {
-      "timeInterval": "12000",
-      "slides": [
-        {
-          "img": "/casaPetri/img/accommodation/rooms/pageAdvertiseBox/1.jpg"
-        },
-        {
-          "img": "/casaPetri/img/accommodation/rooms/pageAdvertiseBox/2.jpg"
-        },
-        {
-          "img": "/casaPetri/img/accommodation/rooms/pageAdvertiseBox/3.jpg"
-        }
-      ]
-    }
+    "carouselAdvertise": [
+      {
+        "img": "/casaPetri/img/accommodation/rooms/pageAdvertiseBox/1.jpg"
+      },
+      {
+        "img": "/casaPetri/img/accommodation/rooms/pageAdvertiseBox/2.jpg"
+      },
+      {
+        "img": "/casaPetri/img/accommodation/rooms/pageAdvertiseBox/3.jpg"
+      }
+    ]
   },
   "sections": [
     {
       "title": "Detalii",
-      "addButtonInHeader": "true",
+      "addButtonInHeader": true,
       "iconFortAwesomeClass": "fa fa-info-circle",
       "content": {
         "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Galeria Văidoaia, Rosia Montana, Alba County, Romania | Casa Szekey Acos, DC117, Roșia Montană, Alba County, Romania | Tăul Mare, Rosia Montana, Alba County, Romania | Masivul Şulei, Rosia Montana, Alba County, Romania | Tăul Corna, Rosia Montana, Alba County, Romania | Sfinxul Cârnic, Rosia Montana, Alba County, Romania | Piatra Corbului, DJ742, Roșia Montană, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Tăul Anghel, Rosia Montana, Alba County, Romania | Casa Petri Rosia Montana, Historical center, nr. 334, Roșia Montană 517615",
