@@ -1,17 +1,37 @@
 <div class="container">
-    <section ng-repeat="section in pageContent.sections" class="row">
+    <section ng-repeat="section in pageContent.sections" class="row" id="{{section.sectionId}}">
         <!-- TITLE -->
         <div ng-if="section.title.showSectionTitle" class="col-sm-12 col-lg-12 col-md-12 titleLayout">
             <span id="section.id" class="anchor"></span>
+
             <h1><i ng-class="section.title.iconFortAwesomeClass"></i>&nbsp {{section.title.text}}</h1>
         </div>
         <div style="clear:both"></div>
+        <!-- ADVERTISE BOXES TO OTHER PAGES -->
+        <div ng-if="!!section.content.advertiseBoxesToOtherPagesCarousels" class="row">
+            <span ng-repeat="advertiseBox in section.content.advertiseBoxesToOtherPagesCarousels"
+                  ng-init="pagePresentationPath=advertiseBox.page">
+                <div ng-controller='GetPagePresentationCtrl'
+                     class="col-xs-8 col-sm-6 col-md-4 col-lg-3 advertiseBox defaultClickStyle">
+                    <uib-carousel interval="advertiseBox.timeInterval">
+                        <uib-slide ng-repeat="slide in pagePresentation.carouselAdvertise">
+                            <img alt="{{pagePresentation.title}}" ng-src="{{slide.img}}" ng-click="openUrl(pagePresentation.url)" title="{{pagePresentation.textOnMouseOver}}">
+                        </uib-slide>
+                    </uib-carousel>
+                    <div class="caption" ng-click="openUrl(pagePresentation.url)"  title="{{pagePresentation.textOnMouseOver}}">
+                        <h3>{{pagePresentation.title}}</h3>
+                        <p>{{pagePresentation.description}}</p>
+                    </div>
+                </div>
+            </span>
+        </div>
         <!-- CENTRAL CAROUSEL -->
         <div ng-if="!!section.content.centralCarousel" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 centralCarousel">
             <uib-carousel interval="section.content.centralCarousel.timeInterval">
-                <uib-slide ng-repeat="slide in section.content.centralCarousel.slides">
-                    <span ng-controller='GetPagePresentationCtrl' ng-click="openUrl(pagePresentation.url)" >
-                        <img alt="{{pagePresentation.title}}" ng-src="{{pagePresentation.img}}">
+                <uib-slide ng-repeat="slide in section.content.centralCarousel.slides"
+                           ng-init="pagePresentationPath=slide.page">
+                    <span ng-controller='GetPagePresentationCtrl' ng-click="openUrl(pagePresentation.url)" title="{{pagePresentation.textOnMouseOver}}" class="defaultClickStyle">
+                        <img alt="{{pagePresentation.title}}" ng-src="{{pagePresentation.headlineImg}}">
                         <div class="carousel-caption">
                             <h3>{{pagePresentation.headlineText}}</h3>
                             <p>{{pagePresentation.description}}</p>
@@ -19,34 +39,6 @@
                     </span>
                 </uib-slide>
             </uib-carousel>
-        </div>
-        <!-- ADVERTISE BOXES TO OTHER PAGES -->
-        <div ng-if="!!section.content.advertiseBoxesToOtherPagesCarousels" class="row">
-            <div ng-repeat="advertiseBox in section.content.advertiseBoxesToOtherPagesCarousels" class="col-xs-8 col-sm-6 col-md-4 col-lg-3 slide advertiseBox defaultClickEvents">
-                <uib-carousel interval="advertiseBox.timeInterval">
-                    <uib-slide ng-repeat="slide in section.content.centralCarousel.slides">
-                    <span ng-controller='GetPagePresentationCtrl' ng-click="openUrl(pagePresentation.url)" >
-                        <img alt="{{pagePresentation.title}}" ng-src="{{pagePresentation.img}}">
-                        <div class="carousel-caption">
-                            <h3>{{pagePresentation.headlineText}}</h3>
-                            <p>{{pagePresentation.description}}</p>
-                        </div>
-                    </span>
-                    </uib-slide>
-                </uib-carousel>
-
-                <div class="carousel-inner">
-                    {{each(i, slide) carouselImages}}
-                    <div class="item ${(i==0)?"active":""}" title="${title}">
-                    <img src="${slide.carouselImgUrl}" alt="${title}">
-                </div>
-                {{/each}}
-            </div>
-            <div class="caption">
-                <h3>${title}</h3>
-                <p>{{html details}}</p>
-            </div>
-        </div>
         </div>
     </section>
 

@@ -69,6 +69,7 @@ body {
 
 .centralCarousel .carousel-inner img {
     height: 100%;
+    width: 100%;
     margin: auto;
 }
 
@@ -124,19 +125,20 @@ body {
 .advertiseBox {
     float: none;
     display: inline-block;
-    padding: 1%;
-}
-
-.advertiseBox .item img {
-    display: inline-block;
-    width: 100%;
-    min-height: 150px;
-    max-height: 200px;
+    padding: 0.5%;
 }
 
 .advertiseBox .caption {
     height: 11em;
     overflow: hidden;
+}
+
+.advertiseBox .carousel-indicators{
+    display: none;
+}
+
+.advertiseBox .carousel-inner img {
+    width: 100%;
 }
 
 .articleTitle {
@@ -179,17 +181,6 @@ body {
 
 .defaultArticle {
     margin: 10px 0px;
-}
-
-/*------------------------------------*\
-    $ MAIN CAROUSEL
-\*------------------------------------*/
-.carouselInfo {
-    font-size: 0.9em;
-}
-
-.carouselInfo i {
-    color: gray;
 }
 
 .pageAdvertiserDefault {
@@ -425,19 +416,19 @@ footer .row section{
     color: white;
 }
 
-.defaultClickEvents:HOVER,
-.defaultClickEvents:HOVER > a {
+.defaultClickStyle:HOVER,
+.defaultClickStyle:HOVER > a {
     background-color: #151F1D;
     color: white;
     cursor: pointer;
     text-decoration: none;
 }
 
-.defaultClickEvents:ACTIVE {
+.defaultClickStyle:ACTIVE {
     background-color: #157f15;
 }
 
-.defaultClickEvents:FOCUS {
+.defaultClickStyle:FOCUS {
     outline: none;
 }
 
@@ -460,7 +451,7 @@ footer .row section{
 
 
 /* MEDIA */
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 600px) {
 
     .pageIntro {
         font-size: 2.2em;
@@ -478,7 +469,7 @@ footer .row section{
 
 }
 
-@media only screen and (min-width: 481px) and (max-width: 780px) {
+@media only screen and (min-width: 601px) and (max-width: 992px) {
 
     .pageIntro {
         font-size: 2.5em;
@@ -492,6 +483,6 @@ footer .row section{
     }
 
     .centralCarousel .item {
-        height: 300px;
+        height: 250px;
     }
 }

@@ -1,26 +1,23 @@
 {
   "presentation": {
-    "title": "Pagina Principal?",
+    "title": "Pagina Principală",
+    "headlineText": "Casa Petri Roșia Montană",
+    "description": "Exploatare turistică de suprafață",
+    "textOnMouseOver" : "homepage",
+    "headlineImg": "",
     "url": {
       "link": "/casaPetri",
       "openInNewTab": false
     },
-    "headlineText": "",
-    "description": "",
-    "img": "",
-    "showPageHeadline": false,
-    "advertiseCarousel": {
-      "timeInterval": "",
-      "slides": [
-        {
-          "img": ""
-        }
-      ]
-    }
+    "carouselAdvertise": [
+      {
+        "img": ""
+      }
+    ]
   },
   "sections": [
     {
-      "id": "centralCarousel",
+      "sectionId": "centralCarousel",
       "title": {
         "text": "Carousel",
         "iconFortAwesomeClass": "",
@@ -32,17 +29,17 @@
           "timeInterval": "12000",
           "slides": [
             {
-              "page": "accommodation/rooms"
+              "page": "/accommodation/rooms"
             },
             {
-              "page": "accommodation/camping"
+              "page": "/accommodation/camping"
             }
           ]
         }
       }
     },
     {
-      "id": "accommodation",
+      "sectionId": "accommodation",
       "title": {
         "text": "Unde stau?",
         "iconFortAwesomeClass": "fa fa-bed",
@@ -53,22 +50,25 @@
         "advertiseBoxesToOtherPagesCarousels": [
           {
             "timeInterval": "12000",
-            "page": "activities/hiking"
+            "page": "/accommodation/rooms"
           },
           {
             "timeInterval": "12000",
-            "page": "activities/cycling"
+            "page": "/accommodation/camping"
           }
         ],
-        "pageAdvertises": [
-          {
-            "page": "activities/trails/topAttractions"
-          }
-        ]
+        "centralCarousel": {
+          "timeInterval": "12000",
+          "slides": [
+            {
+              "page": "/accommodation/facilities"
+            }
+          ]
+        }
       }
     },
     {
-      "id": "activities",
+      "sectionId": "activities",
       "title": {
         "text": "Ce fac acolo?",
         "iconFortAwesomeClass": "fa fa-bicycle",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "id": "recommendations",
+      "sectionId": "recommendations",
       "title": {
         "text": "De neratat!",
         "iconFortAwesomeClass": "fa fa-calendar",

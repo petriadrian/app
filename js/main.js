@@ -15,6 +15,7 @@ var app = angular.module('appFunctionality', ['ngRoute', 'ngAnimate', 'ui.bootst
 app.run(function ($rootScope, $window) {
     //set a function for opening any url
     $rootScope.openUrl = function (url) {
+        debugger;
         if (typeof(url.openInNewTab) !== 'undefined' && url.openInNewTab) {
             $window.open(url.link, '_blank');
         } else {
@@ -84,7 +85,7 @@ app.controller('HomePageCtrl', function ($scope, $rootScope, $location, $routePa
 
 app.controller('GetPagePresentationCtrl', function ($scope, $rootScope, $http) {
     debugger;
-    var pageToLoadPath = '/casaPetri/content/' + $rootScope.userLanguage + '/' + $scope.slide.page + '.json';
+    var pageToLoadPath = '/casaPetri/content/' + $rootScope.userLanguage + $scope.pagePresentationPath + '.json';
     $http.get(pageToLoadPath).success(function (pageResult) {
         debugger;
         $scope.pagePresentation = pageResult.presentation;

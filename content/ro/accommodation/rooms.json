@@ -1,26 +1,25 @@
 {
   "presentation": {
     "title": "Camere",
+    "headlineText": "O cafea într-o dimineață la Roșia Montană?",
+    "description": "Fost cinematograf, bancă și centru medical a comunei, acum căsuța își deschide porțile ca spațiu de cazare",
+    "textOnMouseOver" : "Click aici pentru a vedea locurile de cazare",
+    "headlineImg": "/casapetri/img/accommodation/rooms/presentation.jpg",
     "url": {
       "link": "/accommodation/rooms",
       "openInNewTab": false
     },
-    "headlineText": "O cafea într-o dimineață la Roșia Montană?",
-    "description": "Fost cinematograf, bancă și centru medical a comunei, acum căsuța își deschide porțile ca spațiu de cazare",
-    "img": "/casapetri/img/accommodation/rooms/presentation.jpg",
-    "carouselAdvertise": {
-      "slides": [
-        {
-          "img": "/casaPetri/img/accommodation/rooms/pageAdvertiseBox/1.jpg"
-        },
-        {
-          "img": "/casaPetri/img/accommodation/rooms/pageAdvertiseBox/2.jpg"
-        },
-        {
-          "img": "/casaPetri/img/accommodation/rooms/pageAdvertiseBox/3.jpg"
-        }
-      ]
-    }
+    "carouselAdvertise": [
+      {
+        "img": "/casaPetri/img/accommodation/rooms/carouselAdvertise/1.jpg"
+      },
+      {
+        "img": "/casaPetri/img/accommodation/rooms/carouselAdvertise/2.jpg"
+      },
+      {
+        "img": "/casaPetri/img/accommodation/rooms/carouselAdvertise/3.jpg"
+      }
+    ]
   },
   "sections": [
     {

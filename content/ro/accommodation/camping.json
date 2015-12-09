@@ -1,22 +1,23 @@
 {
   "presentation": {
     "title": "Campare",
+    "headlineText": "Am adormit sub stele, era munte, liniște, răcoare...",
+    "description": "Vezi zona de campare din curte",
+    "textOnMouseOver" : "Click aici pentru a vedea locurile de campare",
+    "headlineImg": "/casapetri/img/accommodation/camping/presentation.jpg",
     "url": {
       "link": "/accommodation/camping",
       "openInNewTab": false
     },
-    "headlineText": "Am adormit sub stele, era munte, liniște, răcoare...",
-    "description": "Vezi zona de campare din curte",
-    "img": "/casapetri/img/accommodation/camping/presentation.jpg",
     "carouselAdvertise": [
       {
-        "img": "/casaPetri/img/accommodation/rooms/pageAdvertiseBox/1.jpg"
+        "img": "/casaPetri/img/accommodation/camping/carouselAdvertise/1.jpg"
       },
       {
-        "img": "/casaPetri/img/accommodation/rooms/pageAdvertiseBox/2.jpg"
+        "img": "/casaPetri/img/accommodation/camping/carouselAdvertise/2.jpg"
       },
       {
-        "img": "/casaPetri/img/accommodation/rooms/pageAdvertiseBox/3.jpg"
+        "img": "/casaPetri/img/accommodation/camping/carouselAdvertise/3.jpg"
       }
     ]
   },

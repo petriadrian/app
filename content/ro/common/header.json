@@ -14,7 +14,7 @@
       "mouseOverText": "Vezi cazare și facilități",
       "iconFontAwesomeClass": "",
       "url": {
-        "link": "/casaPetri/index.html?lang=ro#accommodation",
+        "link": "/casaPetri/index.html#accommodation",
         "openInNewTab": false
       }
     },
@@ -23,7 +23,7 @@
       "mouseOverText": "Vezi activități",
       "iconFontAwesomeClass": "",
       "url": {
-        "link": "/casaPetri/index.html?lang=ro#activities",
+        "link": "/casaPetri/index.html#activities",
         "openInNewTab": false
       }
     },
@@ -32,7 +32,7 @@
       "mouseOverText": "",
       "iconFontAwesomeClass": "",
       "url": {
-        "link": "/casaPetri/index.html?lang=ro#recommendations",
+        "link": "/casaPetri/index.html#recommendations",
         "openInNewTab": false
       }
     }
