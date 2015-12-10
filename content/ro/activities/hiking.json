@@ -1,31 +1,31 @@
 {
   "presentation": {
-    "title": "Camere",
-    "headlineText": "O cafea într-o dimineață la Roșia Montană?",
-    "description": "Fost cinematograf, bancă și centru medical a comunei, acum căsuța își deschide porțile ca spațiu de cazare",
-    "textOnMouseOver" : "Click aici pentru a vedea locurile de cazare",
-    "headlineImg": "/casapetri/img/accommodation/rooms/presentation.jpg",
+    "title": "Trasee drumetie",
+    "headlineText": "Prietenii, aparatul foto, rucsacul... Pornim la drum!",
+    "description": "Plimbări ușoare pe ulițele satului printre biserici și clădiri de patrimoniu până la trasee pe culmi montane, lacuri și monumente naturale",
+    "textOnMouseOver" : "Click aici pentru a vedea traseele de drumeție",
+    "headlineImg": "/casapetri/img/activities/hiking/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "/accommodation/rooms",
+      "link": "/casaPetri/activities/hiking",
       "openInNewTab": false
     },
     "carouselAdvertise": [
       {
-        "img": "/casaPetri/img/accommodation/rooms/carouselAdvertise/1.jpg"
+        "img": "/casaPetri/img/activities/hiking/carouselAdvertise/1.jpg"
       },
       {
-        "img": "/casaPetri/img/accommodation/rooms/carouselAdvertise/2.jpg"
+        "img": "/casaPetri/img/activities/hiking/carouselAdvertise/2.jpg"
       },
       {
-        "img": "/casaPetri/img/accommodation/rooms/carouselAdvertise/3.jpg"
+        "img": "/casaPetri/img/activities/hiking/carouselAdvertise/3.jpg"
       }
     ]
   },
   "sections": [
     {
       "title": "Detalii",
-      "addButtonInHeader": "true",
+      "addButtonInHeader": true,
       "iconFortAwesomeClass": "fa fa-info-circle",
       "content": {
         "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Galeria Văidoaia, Rosia Montana, Alba County, Romania | Casa Szekey Acos, DC117, Roșia Montană, Alba County, Romania | Tăul Mare, Rosia Montana, Alba County, Romania | Masivul Şulei, Rosia Montana, Alba County, Romania | Tăul Corna, Rosia Montana, Alba County, Romania | Sfinxul Cârnic, Rosia Montana, Alba County, Romania | Piatra Corbului, DJ742, Roșia Montană, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Tăul Anghel, Rosia Montana, Alba County, Romania | Casa Petri Rosia Montana, Historical center, nr. 334, Roșia Montană 517615",

@@ -5,6 +5,7 @@
     "description": "Vezi aici facilitățile și locușoarele cosy de la Casa Petri",
     "textOnMouseOver" : "facilități",
     "headlineImg": "/casaPetri/img/accommodation/facilities/presentation.jpg",
+    "showPageHeadline": true,
     "url": {
       "link": "/casaPetri/accommodation/facilities",
       "openInNewTab": false

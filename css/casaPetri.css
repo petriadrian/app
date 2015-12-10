@@ -183,17 +183,17 @@ body {
     margin: 10px 0px;
 }
 
-.pageAdvertiserDefault {
+.pageBanner {
     padding: 1%;
     margin: 20px 0px 0px 0px;
     border-top: 1px solid #B9B9B9;
 }
 
-.pageAdvertiserDefault h1 {
+.pageBanner h1 {
     font-size: 1.8em;
 }
 
-.pageAdvertiserDefault img {
+.pageBanner img {
     width: 100%;
 }
 
@@ -458,7 +458,7 @@ footer .row section{
         min-height: 230px;
     }
 
-    .pageAdvertiserDefault img,
+    .pageBanner img,
     .pageIntro img {
         width: 140%;
     }
@@ -476,7 +476,7 @@ footer .row section{
         min-height: 250px;
     }
 
-    .pageAdvertiserDefault img,
+    .pageBanner img,
     .pageIntro img {
         display:block;
         width: 120%;

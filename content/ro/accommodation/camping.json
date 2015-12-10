@@ -5,6 +5,7 @@
     "description": "Vezi zona de campare din curte",
     "textOnMouseOver" : "Click aici pentru a vedea locurile de campare",
     "headlineImg": "/casapetri/img/accommodation/camping/presentation.jpg",
+    "showPageHeadline": true,
     "url": {
       "link": "/accommodation/camping",
       "openInNewTab": false

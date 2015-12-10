@@ -5,6 +5,7 @@
     "description": "Exploatare turistică de suprafață",
     "textOnMouseOver" : "homepage",
     "headlineImg": "",
+    "showPageHeadline": false,
     "url": {
       "link": "/casaPetri",
       "openInNewTab": false
@@ -57,13 +58,8 @@
             "page": "/accommodation/camping"
           }
         ],
-        "centralCarousel": {
-          "timeInterval": "12000",
-          "slides": [
-            {
+        "pageBanner": {
               "page": "/accommodation/facilities"
-            }
-          ]
         }
       }
     },
@@ -76,14 +72,14 @@
         "showSectionTitle": true
       },
       "content": {
-        "advertisesToOtherPages": [
+        "advertiseBoxesToOtherPagesCarousels": [
           {
             "timeInterval": "12000",
-            "page": "activities/hiking"
+            "page": "/activities/hiking"
           },
           {
             "timeInterval": "12000",
-            "page": "activities/cycling"
+            "page": "/activities/cycling"
           }
         ],
         "pageAdvertises": [
