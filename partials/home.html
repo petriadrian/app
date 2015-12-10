@@ -1,9 +1,9 @@
 <div class="container">
-    <section ng-repeat="section in pageContent.sections" class="row" id="{{section.sectionId}}">
+    <section ng-repeat="section in pageContent.sections" class="row"">
 
         <!-- TITLE -->
         <div ng-if="section.title.showSectionTitle" class="col-sm-12 col-lg-12 col-md-12 titleLayout">
-            <span id="section.id" class="anchor"></span>
+            <span id="{{section.sectionId}}" class="anchor"></span>
 
             <h1><i ng-class="section.title.iconFortAwesomeClass"></i>&nbsp {{section.title.text}}</h1>
         </div>
