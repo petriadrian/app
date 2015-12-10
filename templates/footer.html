@@ -2,12 +2,13 @@
 
     <!-- REVIEWS -->
     <section class="reviewPreviewLayout defaultClickStyle row"
-             ng-click="openUrl(reviewsUrl)" title="see more">
+             ng-click="openUrl(reviewsUrl)"
+             title="{{reviewsUrl.textOnMouseOver}}">
         <i class="col-xs-12 col-sm-12 col-md-12 col-lg-12 fa fa-quote-left"></i>
         <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 reviewPreviewArea">
             <div class="carousel slide" data-ride="carousel" data-interval="10000">
                 <div id="reviewCarouselLayout" class="carousel-inner">
-                    <div data-ng-repeat="review in reviews" ng-class='{active:$first}' class="item" >
+                    <div data-ng-repeat="review in reviews" ng-class='{active:$first}' class="item">
                         <div class="carousel-caption">
                             <div class="reviewTitle">
                                 {{review.title}}
@@ -21,21 +22,18 @@
     </section>
 
     <div class="row">
-        <section id="contactLayout" class="col-xs-10 col-sm-6 col-md-4 col-lg-2">
-            <div class="businessCard">
-                <div class="cardTitle">
-                    <p><i class="fa fa-home fa-2x fa-flip-horizontal"></i></p>
-                    <p>{{footerContent.contact.title}}</p>
-                </div>
-                <p><i class="fa fa-phone"></i> {{footerContent.contact.phone}}</p>
-                <p><i class="fa fa-envelope-o"></i> {{footerContent.contact.email}}</p>
-                <p><i class="fa fa-map-marker"></i> {{footerContent.contact.address}}</p>
-            </div>
+        <section class="col-xs-10 col-sm-6 col-md-4 col-lg-2 contactCard defaultClickStyle"
+                 ng-click="openUrl(footerContent.contactCard.url)"
+                 title="{{footerContent.contactCard.url.textOnMouseOver}}">
+            <p ng-repeat="contactData in footerContent.contactCard.content">
+                <i ng-class="contactData.iconFortAwesomeClass"></i>
+                {{contactData.text}}
+            </p>
         </section>
 
         <section class="col-xs-10 col-sm-6 col-md-4 col-lg-2">
             <iframe frameborder="0" style="border:0"
-                    ng-src="{{googleMapLink}}"
+                    ng-src="{{footerContent.googleMapLink | trustUrl}}"
                     allowfullscreen></iframe>
         </section>
 
@@ -54,7 +52,8 @@
         <section class="footerFeedback col-xs-10 col-sm-6 col-md-4 col-lg-3" id="feedbackLayout">
             <form role="form" class="sendFeedback" onsubmit="">
                 <div data-ng-repeat="textarea in footerContent.feedbackForm.textarea" class="form-group">
-                    <textarea placeholder="{{textarea.placeholder}}" class="form-control" rows="{{textarea.rows}}" name="{{textarea.title}}" ng-required="textarea.required=='true'?true:false"></textarea>
+                    <textarea placeholder="{{textarea.placeholder}}" class="form-control" rows="{{textarea.rows}}"
+                              name="{{textarea.title}}" ng-required="textarea.required=='true'?true:false"></textarea>
                 </div>
                 <button type="submit" class="btn btn-primary">{{footerContent.feedbackForm.submitButton}}</button>
             </form>

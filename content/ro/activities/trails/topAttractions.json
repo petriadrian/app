@@ -1,0 +1,27 @@
+{
+  "presentation": {
+    "title": "Top 10 atracții",
+    "headlineText": "Top 10 atracții de vizitat (centrul istoric, lacuri, galerii antice...)",
+    "description": "| <b>5h</b> | Parcurge acest traseu pentru a descoperi principalele obiective",
+    "headlineImg": "/casapetri/img/activities/trails/topAttractions/presentation.jpg",
+    "showPageHeadline": true,
+    "url": {
+      "link": "/casaPetri/activities/trails/topAttractions",
+      "textOnMouseOver" : "Vezi mai multe detalii",
+      "openInNewTab": false
+    },
+    "carouselAdvertise": [
+      {
+        "img": "/casaPetri/img/activities/trails/topAttractions/carouselAdvertise/1.jpg"
+      },
+      {
+        "img": "/casaPetri/img/activities/trails/topAttractions/carouselAdvertise/2.jpg"
+      },
+      {
+        "img": "/casaPetri/img/activities/trails/topAttractions/carouselAdvertise/3.jpg"
+      }
+    ]
+  },
+  "sections": [
+  ]
+}

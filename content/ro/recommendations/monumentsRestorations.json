@@ -1,0 +1,25 @@
+{
+  "presentation": {
+    "title": "Restaurări",
+    "headlineText": "",
+    "description": "<b>| Iul-Sept |</b> Cladiri vechi prind viata. Deprinde mestesuguri traditionale in taberele ARA",
+    "headlineImg": "",
+    "showPageHeadline": true,
+    "url": {
+      "link": "http://www.adoptaocasa.ro/cum-ma-implic",
+      "textOnMouseOver" : "Vezi pagina oficială Adoptă o casa",
+      "openInNewTab": true
+    },
+    "carouselAdvertise": [
+      {
+        "img": "/casaPetri/img/recommendations/monumentsRestorations/carouselAdvertise/1.jpg"
+      },
+      {
+        "img": "/casaPetri/img/recommendations/monumentsRestorations/carouselAdvertise/2.jpg"
+      },
+      {
+        "img": "/casaPetri/img/recommendations/monumentsRestorations/carouselAdvertise/3.jpg"
+      }
+    ]
+  }
+}

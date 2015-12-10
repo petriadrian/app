@@ -1,0 +1,25 @@
+{
+  "presentation": {
+    "title": "Suvenir",
+    "headlineText": "",
+    "description": "Cumpară produse tradiționale lucrate manual de localnicii din Rosia Montană",
+    "headlineImg": "",
+    "showPageHeadline": true,
+    "url": {
+      "link": "http://www.cercetasirosiamontana.ro",
+      "textOnMouseOver" : "Vezi pagina oficială made in Roșia Montană",
+      "openInNewTab": true
+    },
+    "carouselAdvertise": [
+      {
+        "img": "/casaPetri/img/recommendations/souvenirShop/carouselAdvertise/1.jpg"
+      },
+      {
+        "img": "/casaPetri/img/recommendations/souvenirShop/carouselAdvertise/2.jpg"
+      },
+      {
+        "img": "/casaPetri/img/recommendations/souvenirShop/carouselAdvertise/3.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "presentation": {
+    "title": "Poina cu narcise",
+    "headlineText": "",
+    "description": "<b>| Mai |</b> O patura alba si un miros imbatator pun stapanire pe Poiana Negrileasa  |~36km de noi|",
+    "headlineImg": "",
+    "showPageHeadline": true,
+    "url": {
+      "link": "/casaPetri/recommendations/daffodilMeadow",
+      "textOnMouseOver" : "Vezi mai multe detalii",
+      "openInNewTab": false
+    },
+    "carouselAdvertise": [
+      {
+        "img": "/casaPetri/img/recommendations/daffodilMeadow/carouselAdvertise/1.jpg"
+      },
+      {
+        "img": "/casaPetri/img/recommendations/daffodilMeadow/carouselAdvertise/2.jpg"
+      },
+      {
+        "img": "/casaPetri/img/recommendations/daffodilMeadow/carouselAdvertise/3.jpg"
+      }
+    ]
+  }
+}

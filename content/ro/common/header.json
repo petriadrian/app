@@ -1,38 +1,38 @@
 {
   "logo": {
     "text": "Casa Roșia Montană",
-    "mouseOverText": "Întoarcete la pagina principală",
     "imgUrl": "/casapetri/img/common/siteLogo.png",
     "url": {
       "link": "/casaPetri",
+      "textOnMouseOver": "Întoarcete la pagina principală",
       "openInNewTab": false
     }
   },
   "leftButtons": [
     {
       "text": "Unde stau?",
-      "mouseOverText": "Vezi cazare și facilități",
       "iconFontAwesomeClass": "",
       "url": {
         "link": "/casaPetri/index.html#accommodation",
+        "textOnMouseOver": "Vezi cazare și facilități",
         "openInNewTab": false
       }
     },
     {
       "text": "Ce fac acolo?",
-      "mouseOverText": "Vezi activități",
       "iconFontAwesomeClass": "",
       "url": {
         "link": "/casaPetri/index.html#activities",
+        "textOnMouseOver": "Vezi activități",
         "openInNewTab": false
       }
     },
     {
       "text": "De neratat!",
-      "mouseOverText": "",
       "iconFontAwesomeClass": "",
       "url": {
         "link": "/casaPetri/index.html#recommendations",
+        "textOnMouseOver": "Vezi activități speciale",
         "openInNewTab": false
       }
     }
@@ -40,19 +40,19 @@
   "rightButtons": [
     {
       "text": "",
-      "mouseOverText": "Urmărește-ne pe Facebook",
       "iconFontAwesomeClass": "fa fa-lg fa-facebook",
       "url": {
         "link": "https://www.facebook.com/casapetrirosiamontana",
+        "textOnMouseOver": "Urmărește-ne pe Facebook",
         "openInNewTab": true
       }
     },
     {
       "text": "",
-      "mouseOverText": "live webCam",
       "iconFontAwesomeClass": "fa fa-video-camera",
       "url": {
         "link": "http://www.rmgc.ro/media/galerie-video/webcam/casa-325-rosia-montana.html#container",
+        "textOnMouseOver": "live webCam",
         "openInNewTab": true
       }
     }
@@ -60,21 +60,21 @@
   "languageButtons": [
     {
       "text": "EN",
-      "mouseOverText": "switch to english",
       "iconFontAwesomeClass": "",
       "languageCode": "en",
       "url": {
         "link": "/casapetri/index.html?lang=en",
+        "textOnMouseOver": "switch to english",
         "openInNewTab": false
       }
     },
     {
       "text": "RO",
-      "mouseOverText": "schimbă în română",
       "iconFontAwesomeClass": "",
       "languageCode": "ro",
       "url": {
         "link": "/casapetri/index.html?lang=ro",
+        "textOnMouseOver": "schimbă în română",
         "openInNewTab": false
       }
     }

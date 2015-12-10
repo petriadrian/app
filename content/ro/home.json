@@ -3,11 +3,11 @@
     "title": "Pagina Principală",
     "headlineText": "Casa Petri Roșia Montană",
     "description": "Exploatare turistică de suprafață",
-    "textOnMouseOver" : "homepage",
     "headlineImg": "",
     "showPageHeadline": false,
     "url": {
       "link": "/casaPetri",
+      "textOnMouseOver": "homepage",
       "openInNewTab": false
     },
     "carouselAdvertise": [
@@ -59,7 +59,7 @@
           }
         ],
         "pageBanner": {
-              "page": "/accommodation/facilities"
+          "page": "/accommodation/facilities"
         }
       }
     },
@@ -82,11 +82,9 @@
             "page": "/activities/cycling"
           }
         ],
-        "pageAdvertises": [
-          {
-            "page": "activities/trails/topAttractions"
-          }
-        ]
+        "pageBanner": {
+          "page": "/activities/trails/topAttractions"
+        }
       }
     },
     {
@@ -98,17 +96,30 @@
         "showSectionTitle": true
       },
       "content": {
-        "linksToOtherPages": [
+        "advertiseBoxesToOtherPagesCarousels": [
           {
-            "page": "accommodation/rooms"
+            "page": "/recommendations/festival"
           },
           {
-            "page": "accommodation/camping"
-          }
-        ],
-        "pageAdvertises": [
+            "page": "/recommendations/marathon"
+          },
           {
-            "page": "accommodation/facilities"
+            "page": "/recommendations/monumentsRestorations"
+          },
+          {
+            "page": "/recommendations/steamTrain"
+          },
+          {
+            "page": "/recommendations/daffodilMeadow"
+          },
+          {
+            "page": "/recommendations/firstMai"
+          },
+          {
+            "page": "/recommendations/scoutsOng"
+          },
+          {
+            "page": "/recommendations/souvenirShop"
           }
         ]
       }

@@ -3,6 +3,7 @@
   "pageId": "reviewsPage",
   "url": {
     "link": "/casaPetri/pages/review.html?lang=ro",
+    "textOnMouseOver" : "Vezi mai multe imagini și review-uri de la cei care ne-au vizitat",
     "openInNewTab": "false"
   },
   "headlineText": "Crestem impreuna cu cei ce ne trec pragul",

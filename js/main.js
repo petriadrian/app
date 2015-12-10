@@ -15,7 +15,6 @@ var app = angular.module('appFunctionality', ['ngRoute', 'ngAnimate', 'ui.bootst
 app.run(function ($rootScope, $window) {
     //set a function for opening any url
     $rootScope.openUrl = function (url) {
-        debugger;
         if (typeof(url.openInNewTab) !== 'undefined' && url.openInNewTab) {
             $window.open(url.link, '_blank');
         } else {
@@ -54,7 +53,6 @@ app.config(['$routeProvider', function ($routeProvider) {
  * Controllers
  */
 app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http) {
-    debugger;
     var headerContentPath = '/casaPetri/content/' + $rootScope.userLanguage + '/common/header.json';
     $http.get(headerContentPath).success(function (headerContentResult) {
         $scope.headerContent = headerContentResult;
@@ -62,7 +60,6 @@ app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http) {
 });
 
 app.controller('FooterCtrl', function ($scope, $rootScope, $http, $sce) {
-    debugger;
     var reviewsPath = '/casaPetri/content/' + $rootScope.userLanguage + '/common/reviews.json';
     $http.get(reviewsPath).success(function (reviews) {
         $scope.reviews = reviews.sections[0].content.articles;
@@ -71,12 +68,10 @@ app.controller('FooterCtrl', function ($scope, $rootScope, $http, $sce) {
     var footerContentPath = '/casaPetri/content/' + $rootScope.userLanguage + '/common/footer.json';
     $http.get(footerContentPath).success(function (footerContentResult) {
         $scope.footerContent = footerContentResult;
-        $scope.googleMapLink = $sce.trustAsResourceUrl(footerContentResult.googleMapLink);
     });
 });
 
 app.controller('HomePageCtrl', function ($scope, $rootScope, $location, $routeParams, $http) {
-    debugger;
     var pageContentPath = '/casaPetri/content/' + $rootScope.userLanguage + '/home.json';
     $http.get(pageContentPath).success(function (pageContentResult) {
         $scope.pageContent = pageContentResult;
@@ -91,3 +86,19 @@ app.controller('GetPagePresentationCtrl', function ($scope, $rootScope, $http) {
         $scope.pagePresentation = pageResult.presentation;
     });
 });
+
+
+/**
+ * Filters
+ */
+app.filter('trustUrl', ['$sce', function ($sce) {
+    return function(url) {
+        return $sce.trustAsResourceUrl(url);
+    };
+}]);
+
+app.filter('trustHtml', ['$sce', function ($sce) {
+    return function(url) {
+        return $sce.trustAsHtml(url);
+    };
+}]);

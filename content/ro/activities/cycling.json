@@ -3,10 +3,10 @@
     "title": "Trasee ciclism",
     "headlineText": "Testează frânele, umflă rotile și hai cu bița la Roșia!",
     "description": "Trasee de MTB pe drumuri de țară printre culmi montane, lacuri  și păduri până la trasee de cursieră pe asfalt spre obiectivele din zonă",
-    "textOnMouseOver" : "Click aici pentru a vedea traseele de bicicletă",
     "headlineImg": "/casapetri/img/activities/cycling/presentation.jpg",
     "showPageHeadline": true,
     "url": {
+      "textOnMouseOver" : "Vezi traseele de bicicletă",
       "link": "/casaPetri/activities/cycling",
       "openInNewTab": false
     },

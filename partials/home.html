@@ -1,10 +1,9 @@
 <div class="container">
-    <section ng-repeat="section in pageContent.sections" class="row"">
+    <section ng-repeat="section in pageContent.sections" class="row">
 
         <!-- TITLE -->
         <div ng-if="section.title.showSectionTitle" class="col-sm-12 col-lg-12 col-md-12 titleLayout">
             <span id="{{section.sectionId}}" class="anchor"></span>
-
             <h1><i ng-class="section.title.iconFortAwesomeClass"></i>&nbsp {{section.title.text}}</h1>
         </div>
         <div style="clear:both"></div>
@@ -14,11 +13,11 @@
             <uib-carousel interval="section.content.centralCarousel.timeInterval">
                 <uib-slide ng-repeat="slide in section.content.centralCarousel.slides"
                            ng-init="pagePresentationPath=slide.page">
-                    <span ng-controller='GetPagePresentationCtrl' ng-click="openUrl(pagePresentation.url)" title="{{pagePresentation.textOnMouseOver}}" class="defaultClickStyle">
+                    <span ng-controller='GetPagePresentationCtrl' ng-click="openUrl(pagePresentation.url)" title="{{pagePresentation.url.textOnMouseOver}}" class="defaultClickStyle">
                         <img alt="{{pagePresentation.title}}" ng-src="{{pagePresentation.headlineImg}}">
                         <div class="carousel-caption">
-                            <h3>{{pagePresentation.headlineText}}</h3>
-                            <p>{{pagePresentation.description}}</p>
+                            <h3 ng-bind-html="pagePresentation.headlineText  | trustHtml"></h3>
+                            <p ng-bind-html="pagePresentation.description | trustHtml"></p>
                         </div>
                     </span>
                 </uib-slide>
@@ -27,36 +26,32 @@
 
         <!-- ADVERTISE BOXES TO OTHER PAGES -->
         <div ng-if="!!section.content.advertiseBoxesToOtherPagesCarousels" class="row">
-            <span ng-repeat="advertiseBox in section.content.advertiseBoxesToOtherPagesCarousels"
-                  ng-init="pagePresentationPath=advertiseBox.page">
-                <div ng-controller='GetPagePresentationCtrl'
-                     class="col-xs-8 col-sm-6 col-md-4 col-lg-3 advertiseBox defaultClickStyle">
+            <div ng-repeat="advertiseBox in section.content.advertiseBoxesToOtherPagesCarousels"
+                  ng-init="pagePresentationPath=advertiseBox.page"
+                 class="col-xs-8 col-sm-6 col-md-4 col-lg-3 advertiseBox defaultClickStyle">
+                <span ng-controller='GetPagePresentationCtrl'>
                     <uib-carousel interval="advertiseBox.timeInterval">
                         <uib-slide ng-repeat="slide in pagePresentation.carouselAdvertise">
-                            <img alt="{{pagePresentation.title}}" ng-src="{{slide.img}}" ng-click="openUrl(pagePresentation.url)" title="{{pagePresentation.textOnMouseOver}}">
+                            <img alt="{{pagePresentation.title}}" ng-src="{{slide.img}}" ng-click="openUrl(pagePresentation.url)" title="{{pagePresentation.url.textOnMouseOver}}">
                         </uib-slide>
                     </uib-carousel>
-                    <div class="caption" ng-click="openUrl(pagePresentation.url)"  title="{{pagePresentation.textOnMouseOver}}">
-                        <h3>{{pagePresentation.title}}</h3>
-                        <p>{{pagePresentation.description}}</p>
+                    <div class="caption" ng-click="openUrl(pagePresentation.url)"  title="{{pagePresentation.url.textOnMouseOver}}">
+                        <h3 ng-bind-html="pagePresentation.title | trustHtml"></h3>
+                        <p ng-bind-html="pagePresentation.description | trustHtml"></p>
                     </div>
-                </div>
-            </span>
+                </span>
+            </div>
         </div>
 
         <!-- PAGE BANNER-->
         <div ng-if="!!section.content.pageBanner"
              class="col-sm-12 col-lg-12 col-md-12 pageBanner defaultClickStyle"
              ng-init="pagePresentationPath=section.content.pageBanner.page">
-            <span ng-controller="GetPagePresentationCtrl" >
-                <h1>
-                    {{pagePresentation.headlineText}}
-                </h1>
-                <p class="lead">
-                    {{pagePresentation.description}}
-                </p>
+            <span ng-controller="GetPagePresentationCtrl" title="{{pagePresentation.url.textOnMouseOver}}">
+                <h1 ng-bind-html="pagePresentation.headlineText | trustHtml"></h1>
+                <p class="lead" ng-bind-html="pagePresentation.description | trustHtml"></p>
                 <div class="gradientFromWhiteToTransparent">
-                    <img alt="{{pagePresentation.title}}" ng-src="{{pagePresentation.headlineImg}}">
+                    <img alt="{{pagePresentation.title}}" ng-src="{{pagePresentation.headlineImg}}" >
                 </div>
             </span>
         </div>

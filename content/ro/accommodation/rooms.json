@@ -3,11 +3,11 @@
     "title": "Camere",
     "headlineText": "O cafea într-o dimineață la Roșia Montană?",
     "description": "Fost cinematograf, bancă și centru medical a comunei, acum căsuța își deschide porțile ca spațiu de cazare",
-    "textOnMouseOver" : "Click aici pentru a vedea locurile de cazare",
     "headlineImg": "/casapetri/img/accommodation/rooms/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "/accommodation/rooms",
+      "textOnMouseOver" : "Vezi locurile de cazare",
       "openInNewTab": false
     },
     "carouselAdvertise": [
