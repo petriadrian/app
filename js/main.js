@@ -15,21 +15,21 @@ var app = angular.module('appFunctionality', ['ngRoute', 'ngAnimate', 'ui.bootst
 app.run(function ($rootScope, $window, $anchorScroll, $location) {
     //set a function for opening any url in new or same tab
     $rootScope.openUrl = function (url) {
-        debugger;
         if (typeof(url.openInNewTab) !== 'undefined' && url.openInNewTab) {
             $window.open(url.link, '_blank');
         } else {
             $window.open(url.link, '_self');
         }
     };
-    $rootScope.scrollTo = function(id) {
+    $rootScope.scrollTo = function (id) {
+        debugger;
         var old = $location.hash();
         $location.hash(id);
         $anchorScroll();
         $location.hash(old);
     };
-    // set userLanguage
-    if (typeof(location.search.split('lang=')[1]) == null) {
+    // set userLanguage. should run only once
+    if (typeof(location.search.split('lang=')[1]) == 'undefined') {
         $rootScope.userLanguage = navigator.language || navigator.userLanguage;
     } else {
         $rootScope.userLanguage = location.search.split('lang=')[1];
@@ -57,23 +57,22 @@ app.config(['$routeProvider', function ($routeProvider) {
  * Controllers
  */
 app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $routeParams, $http, $timeout, $anchorScroll) {
-    var pageSuffix ;
-    if($location.$$path == '/') {
+    var pageSuffix;
+    if ($location.$$path == '/') {
         pageSuffix = '/home';
     } else {
         pageSuffix = $location.$$path;
-    };
+    }
+    ;
     var pageContentPath = '/casaPetri/content/' + $rootScope.userLanguage + pageSuffix + '.json';
     $http.get(pageContentPath).success(function (pageContentResult) {
         $scope.pageContent = pageContentResult;
     });
-    debugger;
     if ($location.hash()) {
-        debugger;
         $timeout(function () {
             $anchorScroll($location.hash());
-        }, 100);
-    };
+        }, 500);
+    }
 });
 
 app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http) {
@@ -106,13 +105,13 @@ app.controller('GetPagePresentationCtrl', function ($scope, $rootScope, $http) {
  * Filters
  */
 app.filter('trustUrl', ['$sce', function ($sce) {
-    return function(url) {
+    return function (url) {
         return $sce.trustAsResourceUrl(url);
     };
 }]);
 
 app.filter('trustHtml', ['$sce', function ($sce) {
-    return function(html) {
+    return function (html) {
         return $sce.trustAsHtml(html);
     };
 }]);

@@ -25,13 +25,19 @@
   "sections": [
     {
       "title": {
-        "text": "Unde stau?",
-        "iconFortAwesomeClass": "fa fa-bed",
+        "text": "Detalii",
+        "iconFortAwesomeClass": "fa fa-info-circle",
         "showSectionTitle": true,
-        "sectionId": "accommodation",
+        "sectionId": "details",
         "addLinkInPageHeadline": true
       },
       "content": {
+        "articles": [
+          {
+            "articleId" : "unique"
+          }
+        ],
+
         "advertiseBoxesToOtherPagesCarousels": [
           {
             "timeInterval": "12000",

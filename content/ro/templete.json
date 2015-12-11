@@ -26,6 +26,8 @@
         "showSectionTitle": false
       },
       "content": {
+
+
         "centralCarousel": {
           "timeInterval": "12000",
           "slides": [
