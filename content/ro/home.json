@@ -6,7 +6,7 @@
     "headlineImg": "",
     "showPageHeadline": false,
     "url": {
-      "link": "/casaPetri",
+      "link": "#/",
       "textOnMouseOver": "homepage",
       "openInNewTab": false
     },
@@ -18,12 +18,12 @@
   },
   "sections": [
     {
-      "sectionId": "centralCarousel",
       "title": {
         "text": "Carousel",
         "iconFortAwesomeClass": "",
-        "addLinkInPageHeadline": false,
-        "showSectionTitle": false
+        "showSectionTitle": false,
+        "sectionId": "centralCarousel",
+        "addLinkInPageHeadline": false
       },
       "content": {
         "centralCarousel": {
@@ -40,12 +40,12 @@
       }
     },
     {
-      "sectionId": "accommodation",
       "title": {
         "text": "Unde stau?",
         "iconFortAwesomeClass": "fa fa-bed",
-        "addLinkInPageHeadline": false,
-        "showSectionTitle": true
+        "showSectionTitle": true,
+        "sectionId": "accommodation",
+        "addLinkInPageHeadline": false
       },
       "content": {
         "advertiseBoxesToOtherPagesCarousels": [
@@ -64,12 +64,12 @@
       }
     },
     {
-      "sectionId": "activities",
       "title": {
         "text": "Ce fac acolo?",
         "iconFortAwesomeClass": "fa fa-bicycle",
+        "showSectionTitle": true,
         "addLinkInPageHeadline": false,
-        "showSectionTitle": true
+        "sectionId": "activities"
       },
       "content": {
         "advertiseBoxesToOtherPagesCarousels": [
@@ -88,12 +88,12 @@
       }
     },
     {
-      "sectionId": "recommendations",
       "title": {
         "text": "De neratat!",
         "iconFortAwesomeClass": "fa fa-calendar",
-        "addLinkInPageHeadline": false,
-        "showSectionTitle": true
+        "showSectionTitle": true,
+        "sectionId": "recommendations",
+        "addLinkInPageHeadline": false
       },
       "content": {
         "advertiseBoxesToOtherPagesCarousels": [

@@ -1,0 +1,67 @@
+{
+  "presentation": {
+    "title": "Pagina Principală",
+    "headlineText": "Casa Petri Roșia Montană",
+    "description": "Exploatare turistică de suprafață",
+    "headlineImg": "",
+    "showPageHeadline": false,
+    "url": {
+      "link": "#/",
+      "textOnMouseOver": "homepage",
+      "openInNewTab": false
+    },
+    "carouselAdvertise": [
+      {
+        "img": ""
+      }
+    ]
+  },
+  "sections": [
+    {
+      "sectionId": "centralCarousel",
+      "title": {
+        "text": "Carousel",
+        "iconFortAwesomeClass": "",
+        "addLinkInPageHeadline": false,
+        "showSectionTitle": false
+      },
+      "content": {
+        "centralCarousel": {
+          "timeInterval": "12000",
+          "slides": [
+            {
+              "page": "/accommodation/rooms"
+            },
+            {
+              "page": "/accommodation/camping"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "sectionId": "accommodation",
+      "title": {
+        "text": "Unde stau?",
+        "iconFortAwesomeClass": "fa fa-bed",
+        "addLinkInPageHeadline": false,
+        "showSectionTitle": true
+      },
+      "content": {
+        "advertiseBoxesToOtherPagesCarousels": [
+          {
+            "timeInterval": "12000",
+            "page": "/accommodation/rooms"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "/accommodation/camping"
+          }
+        ],
+        "pageBanner": {
+          "page": "/accommodation/facilities"
+        }
+      }
+    }
+  ]
+}

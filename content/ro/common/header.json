@@ -3,7 +3,7 @@
     "text": "Casa Roșia Montană",
     "imgUrl": "/casapetri/img/common/siteLogo.png",
     "url": {
-      "link": "/casaPetri",
+      "link": "#/",
       "textOnMouseOver": "Întoarcete la pagina principală",
       "openInNewTab": false
     }
@@ -13,7 +13,7 @@
       "text": "Unde stau?",
       "iconFontAwesomeClass": "",
       "url": {
-        "link": "/casaPetri/index.html#accommodation",
+        "link": "#/#accommodation",
         "textOnMouseOver": "Vezi cazare și facilități",
         "openInNewTab": false
       }
@@ -22,7 +22,7 @@
       "text": "Ce fac acolo?",
       "iconFontAwesomeClass": "",
       "url": {
-        "link": "/casaPetri/index.html#activities",
+        "link": "#/#activities",
         "textOnMouseOver": "Vezi activități",
         "openInNewTab": false
       }
@@ -31,7 +31,7 @@
       "text": "De neratat!",
       "iconFontAwesomeClass": "",
       "url": {
-        "link": "/casaPetri/index.html#recommendations",
+        "link": "#/#recommendations",
         "textOnMouseOver": "Vezi activități speciale",
         "openInNewTab": false
       }

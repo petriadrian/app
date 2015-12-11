@@ -6,7 +6,7 @@
     "headlineImg": "/casapetri/img/activities/hiking/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "/casaPetri/activities/hiking",
+      "link": "#/activities/hiking",
       "textOnMouseOver" : "Vezi traseele de drumeție",
       "openInNewTab": false
     },
@@ -23,5 +23,29 @@
     ]
   },
   "sections": [
+    {
+      "title": {
+        "text": "Unde stau?",
+        "iconFortAwesomeClass": "fa fa-bed",
+        "showSectionTitle": true,
+        "sectionId": "accommodation",
+        "addLinkInPageHeadline": true
+      },
+      "content": {
+        "advertiseBoxesToOtherPagesCarousels": [
+          {
+            "timeInterval": "12000",
+            "page": "/accommodation/rooms"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "/accommodation/camping"
+          }
+        ],
+        "pageBanner": {
+          "page": "/accommodation/facilities"
+        }
+      }
+    }
   ]
 }

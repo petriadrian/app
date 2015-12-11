@@ -12,14 +12,21 @@ var app = angular.module('appFunctionality', ['ngRoute', 'ngAnimate', 'ui.bootst
 /**
  * Initialization
  */
-app.run(function ($rootScope, $window) {
-    //set a function for opening any url
+app.run(function ($rootScope, $window, $anchorScroll, $location) {
+    //set a function for opening any url in new or same tab
     $rootScope.openUrl = function (url) {
+        debugger;
         if (typeof(url.openInNewTab) !== 'undefined' && url.openInNewTab) {
             $window.open(url.link, '_blank');
         } else {
             $window.open(url.link, '_self');
         }
+    };
+    $rootScope.scrollTo = function(id) {
+        var old = $location.hash();
+        $location.hash(id);
+        $anchorScroll();
+        $location.hash(old);
     };
     // set userLanguage
     if (typeof(location.search.split('lang=')[1]) == null) {
@@ -39,12 +46,9 @@ app.run(function ($rootScope, $window) {
 app.config(['$routeProvider', function ($routeProvider) {
     $routeProvider
         // Home
-        .when("/", {templateUrl: "partials/home.html", controller: "HomePageCtrl"})
+        .when("/", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         //// Pages
-        //.when("/contact", {templateUrl: "partials/contact.html", controller: "PageCtrl"})
-        //// Blog
-        //.when("/blog", {templateUrl: "partials/blog.html", controller: "BlogCtrl"})
-        //.when("/blog/post", {templateUrl: "partials/blog_item.html", controller: "BlogCtrl"})
+        .when("/activities/hiking", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         //// else 404
         .otherwise("/404", {templateUrl: "partials/404.html", controller: "PageCtrl"});
 }]);
@@ -52,6 +56,26 @@ app.config(['$routeProvider', function ($routeProvider) {
 /**
  * Controllers
  */
+app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $routeParams, $http, $timeout, $anchorScroll) {
+    var pageSuffix ;
+    if($location.$$path == '/') {
+        pageSuffix = '/home';
+    } else {
+        pageSuffix = $location.$$path;
+    };
+    var pageContentPath = '/casaPetri/content/' + $rootScope.userLanguage + pageSuffix + '.json';
+    $http.get(pageContentPath).success(function (pageContentResult) {
+        $scope.pageContent = pageContentResult;
+    });
+    debugger;
+    if ($location.hash()) {
+        debugger;
+        $timeout(function () {
+            $anchorScroll($location.hash());
+        }, 100);
+    };
+});
+
 app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http) {
     var headerContentPath = '/casaPetri/content/' + $rootScope.userLanguage + '/common/header.json';
     $http.get(headerContentPath).success(function (headerContentResult) {
@@ -59,7 +83,7 @@ app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http) {
     });
 });
 
-app.controller('FooterCtrl', function ($scope, $rootScope, $http, $sce) {
+app.controller('FooterCtrl', function ($scope, $rootScope, $http) {
     var reviewsPath = '/casaPetri/content/' + $rootScope.userLanguage + '/common/reviews.json';
     $http.get(reviewsPath).success(function (reviews) {
         $scope.reviews = reviews.sections[0].content.articles;
@@ -71,22 +95,12 @@ app.controller('FooterCtrl', function ($scope, $rootScope, $http, $sce) {
     });
 });
 
-app.controller('HomePageCtrl', function ($scope, $rootScope, $location, $routeParams, $http) {
-    var pageContentPath = '/casaPetri/content/' + $rootScope.userLanguage + '/home.json';
-    $http.get(pageContentPath).success(function (pageContentResult) {
-        $scope.pageContent = pageContentResult;
-    });
-});
-
 app.controller('GetPagePresentationCtrl', function ($scope, $rootScope, $http) {
-    debugger;
     var pageToLoadPath = '/casaPetri/content/' + $rootScope.userLanguage + $scope.pagePresentationPath + '.json';
     $http.get(pageToLoadPath).success(function (pageResult) {
-        debugger;
         $scope.pagePresentation = pageResult.presentation;
     });
 });
-
 
 /**
  * Filters
@@ -98,7 +112,7 @@ app.filter('trustUrl', ['$sce', function ($sce) {
 }]);
 
 app.filter('trustHtml', ['$sce', function ($sce) {
-    return function(url) {
-        return $sce.trustAsHtml(url);
+    return function(html) {
+        return $sce.trustAsHtml(html);
     };
 }]);
