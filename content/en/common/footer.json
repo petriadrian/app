@@ -9,7 +9,7 @@
   },
   "googleMapLink": "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc",
   "facebookLink": "https://www.facebook.com/casapetrirosiamontana",
-  "feedbackForm": {
+  "form": {
     "textarea": [
       {
         "title": "feedback",

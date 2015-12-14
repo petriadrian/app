@@ -26,9 +26,9 @@
     {
       "title": {
         "text": "Impresii",
-        "iconFortAwesomeClass": "fa fa-info-circle",
+        "iconFortAwesomeClass": "fa fa-commenting",
         "showSectionTitle": true,
-        "sectionId": "details",
+        "sectionId": "reviews",
         "addLinkInPageHeadline": true
       },
       "content": {
@@ -46,6 +46,72 @@
                 "id": "3"
               }
             ]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "text": "Adaugă o impresie",
+        "iconFortAwesomeClass": "fa fa-pencil-square-o",
+        "showSectionTitle": true,
+        "sectionId": "addReview",
+        "addLinkInPageHeadline": true
+      },
+      "content": {
+        "form": {
+          "textarea": [
+            {
+              "title": "feedback",
+              "placeholder": "Vrem să ne înbunatătim. Lasă-ne aici un feedback! ...",
+              "rows": "3",
+              "maxNumberOfCharacters": "350",
+              "required": true
+            },
+            {
+              "title": "localitate",
+              "placeholder": "Localitate",
+              "rows": "1",
+              "maxNumberOfCharacters": "50",
+              "required": true
+            },
+            {
+              "title": "email",
+              "placeholder": "Email",
+              "rows": "1",
+              "maxNumberOfCharacters": "50",
+              "required": false
+            }
+          ],
+          "submitButton": "Trimite"
+        }
+      }
+    },
+    {
+      "title": {
+        "text": "Vezi și",
+        "iconFortAwesomeClass": "fa fa-coffee",
+        "showSectionTitle": true,
+        "sectionId": "accommodation",
+        "addLinkInPageHeadline": false
+      },
+      "content": {
+        "advertiseBoxesToOtherPagesCarousels": [
+          {
+            "timeInterval": "12000",
+            "page": "/accommodation/rooms"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "/accommodation/camping"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "/activities/hiking"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "/activities/cycling"
           }
         ]
       }

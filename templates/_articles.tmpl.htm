@@ -1,6 +1,6 @@
 <div ng-repeat="categoryArticles in section.content.articles"
      ng-controller="GetArticlesCtrl">
-    <article ng-repeat="article in categoryArticles" class="defaultArticle anchorParent">
+    <article ng-repeat="article in categoryArticles track by $index" class="defaultArticle anchorParent">
         <header ng-if="!!article.title" class="articleTitle">
             <h3><span ng-bind="article.title"></span></h3>
         </header>

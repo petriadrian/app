@@ -10,6 +10,10 @@ h1 {
     font-size: inherit;
 }
 
+textarea {
+    resize: vertical;
+}
+
 body {
     padding-top: 50px;
     color: #151F1D;
@@ -117,7 +121,7 @@ body {
     padding: 10px;
 }
 
-.advertiseBox {
+.displayOnCenter {
     float: none;
     display: inline-block;
     padding: 0.5%;
@@ -192,11 +196,6 @@ body {
     width: 100%;
 }
 
-.sendFeedback textarea {
-    width: 100%;
-    max-width: 100%;
-}
-
 footer {
     background-color: #151F1D;
     margin-top: 10px;
@@ -223,7 +222,6 @@ footer .row section{
 .footerFeedback button {
     float: left;
     width: 100%;
-    max-width: 100%;
     border: 1px solid gray;
     background-color: #1D2626;
     color: white;

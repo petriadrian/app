@@ -17,6 +17,7 @@
                 </div>
             </div>
         </div>
+        <i class="col-xs-12 col-sm-12 col-md-12 col-lg-12 fa fa-ellipsis-h"></i>
     </section>
 
     <div class="row">
@@ -47,13 +48,13 @@
             </div>
         </section>
 
-        <section class="footerFeedback col-xs-10 col-sm-6 col-md-4 col-lg-3" id="feedbackLayout">
-            <form role="form" class="sendFeedback" onsubmit="">
-                <div data-ng-repeat="textarea in footerContent.feedbackForm.textarea" class="form-group">
+        <section class="footerFeedback col-xs-10 col-sm-6 col-md-4 col-lg-3">
+            <form role="form" onsubmit="">
+                <div data-ng-repeat="textarea in footerContent.form.textarea" class="form-group">
                     <textarea placeholder="{{textarea.placeholder}}" class="form-control" rows="{{textarea.rows}}"
                               name="{{textarea.title}}" ng-required="textarea.required=='true'?true:false"></textarea>
                 </div>
-                <button type="submit" class="btn btn-primary">{{footerContent.feedbackForm.submitButton}}</button>
+                <button type="submit" class="btn btn-primary">{{footerContent.form.submitButton}}</button>
             </form>
         </section>
     </div>
