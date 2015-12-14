@@ -1,0 +1,11 @@
+<div class="col-sm-12 col-lg-12 col-md-12 pageBanner defaultClickStyle"
+     ng-init="pagePresentationPath=section.content.pageBanner.page">
+            <span ng-controller="GetPagePresentationCtrl" title="{{pagePresentation.url.textOnMouseOver}}">
+                <h1 ng-bind-html="pagePresentation.headlineText | trustHtml"></h1>
+                <p class="lead" ng-bind-html="pagePresentation.description | trustHtml"></p>
+                <div class="gradientFromWhiteToTransparent">
+                    <img alt="{{pagePresentation.title}}" ng-src="{{pagePresentation.headlineImg}}">
+                </div>
+            </span>
+</div>
+<div style="clear:both"></div>

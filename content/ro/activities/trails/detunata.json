@@ -1,0 +1,25 @@
+{
+  "presentation": {
+    "title": "Detunata",
+    "headlineText": "",
+    "description": "| <b>7h</b> | Pornim spre Tăul Mare, tecem prin câteva cătune de munte până ajungem pe vârful coloanelor de bazalt",
+    "headlineImg": "/casapetri/img/activities/trails/detunata/presentation.jpg",
+    "showPageHeadline": true,
+    "url": {
+      "link": "#/activities/trails/detunata",
+      "textOnMouseOver": "Vezi traseul spre Detunata",
+      "openInNewTab": false
+    },
+    "carouselAdvertise": [
+      {
+        "img": "/casaPetri/img/activities/trails/detunata/carouselAdvertise/1.jpg"
+      },
+      {
+        "img": "/casaPetri/img/activities/trails/detunata/carouselAdvertise/2.jpg"
+      },
+      {
+        "img": "/casaPetri/img/activities/trails/detunata/carouselAdvertise/3.jpg"
+      }
+    ]
+  }
+}

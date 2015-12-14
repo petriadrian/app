@@ -87,15 +87,10 @@ body {
 }
 
 .reviewPreviewArea {
-    font-family: 'Merienda', cursive;
     overflow: hidden;
     height: 6em;
     float: none;
     display: inline-block;
-}
-
-.reviewPreviewArea .reviewTitle {
-    font-family: 'Open Sans', sans-serif;
 }
 
 .reviewPreviewArea .carousel-caption {
@@ -368,11 +363,6 @@ footer .row section{
 
 .defaultArticleText {
     padding: 0 5% 20px 5%;
-}
-
-.makeArticleTextCursive .defaultArticleText span {
-    font-family: 'Merienda', cursive;
-    display: block;
 }
 
 .hideFigCaption figcaption {

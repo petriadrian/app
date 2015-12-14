@@ -1,80 +1,23 @@
 <div class="container">
-
     <!-- PAGE HEADLINE-->
-    <div ng-if="pageContent.presentation.showPageHeadline" class="pageIntro">
-        <div class="gradientFromWhiteToTransparent">
-            <img ng-src="{{pageContent.presentation.headlineImg}}"/>
-        </div>
-        <div class="introContent">
-            <h1 ng-bind="pageContent.presentation.headlineText"></h1>
-            <span ng-repeat="section in pageContent.sections">
-                <a ng-if="section.title.addLinkInPageHeadline"
-                   ng-click="scrollTo(section.title.sectionId)"
-                   class="btn btn-large btn-primary" ng-bind="section.title.text"></a>
-            </span>
-        </div>
-    </div>
-
+    <div ng-if="pageContent.presentation.showPageHeadline"
+         ng-include="'templates/_pageHeadline.tmpl.htm'"></div>
     <!-- SECTIONS-->
     <section ng-repeat="section in pageContent.sections" class="row">
         <!-- TITLE -->
-        <div ng-if="section.title.showSectionTitle" class="col-sm-12 col-lg-12 col-md-12 titleLayout">
-            <span id="{{section.title.sectionId}}" class="anchor"></span>
-            <h1><i ng-class="section.title.iconFortAwesomeClass"></i>&nbsp {{section.title.text}}</h1>
-        </div>
-        <div style="clear:both"></div>
-
+        <div ng-if="section.title.showSectionTitle"
+             ng-include="'templates/_sectionTitle.tmpl.htm'"></div>
         <!-- CENTRAL CAROUSEL -->
-        <div ng-if="!!section.content.centralCarousel" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 centralCarousel">
-            <uib-carousel interval="section.content.centralCarousel.timeInterval">
-                <uib-slide ng-repeat="slide in section.content.centralCarousel.slides"
-                           ng-init="pagePresentationPath=slide.page">
-                    <span ng-controller='GetPagePresentationCtrl'
-                          ng-click="openUrl(pagePresentation.url)"
-                          title="{{pagePresentation.url.textOnMouseOver}}"
-                          class="defaultClickStyle">
-                        <img alt="{{pagePresentation.title}}" ng-src="{{pagePresentation.headlineImg}}">
-                        <div class="carousel-caption">
-                            <h3 ng-bind-html="pagePresentation.headlineText  | trustHtml"></h3>
-                            <p ng-bind-html="pagePresentation.description | trustHtml"></p>
-                        </div>
-                    </span>
-                </uib-slide>
-            </uib-carousel>
-        </div>
-
+        <div ng-if="!!section.content.centralCarousel"
+             ng-include="'templates/_centralCarousel.tmpl.htm'"></div>
         <!-- ADVERTISE BOXES TO OTHER PAGES -->
-        <div ng-if="!!section.content.advertiseBoxesToOtherPagesCarousels" class="row">
-            <div ng-repeat="advertiseBox in section.content.advertiseBoxesToOtherPagesCarousels"
-                  ng-init="pagePresentationPath=advertiseBox.page"
-                 class="col-xs-8 col-sm-6 col-md-4 col-lg-3 advertiseBox defaultClickStyle">
-                <span ng-controller='GetPagePresentationCtrl'>
-                    <uib-carousel interval="advertiseBox.timeInterval">
-                        <uib-slide ng-repeat="slide in pagePresentation.carouselAdvertise">
-                            <img alt="{{pagePresentation.title}}" ng-src="{{slide.img}}" ng-click="openUrl(pagePresentation.url)" title="{{pagePresentation.url.textOnMouseOver}}">
-                        </uib-slide>
-                    </uib-carousel>
-                    <div class="caption" ng-click="openUrl(pagePresentation.url)"  title="{{pagePresentation.url.textOnMouseOver}}">
-                        <h3 ng-bind-html="pagePresentation.title | trustHtml"></h3>
-                        <p ng-bind-html="pagePresentation.description | trustHtml"></p>
-                    </div>
-                </span>
-            </div>
-        </div>
-
+        <div ng-if="!!section.content.advertiseBoxesToOtherPagesCarousels"
+             ng-include="'templates/_advertiseBoxes.tmpl.htm'"></div>
         <!-- PAGE BANNER-->
         <div ng-if="!!section.content.pageBanner"
-             class="col-sm-12 col-lg-12 col-md-12 pageBanner defaultClickStyle"
-             ng-init="pagePresentationPath=section.content.pageBanner.page">
-            <span ng-controller="GetPagePresentationCtrl" title="{{pagePresentation.url.textOnMouseOver}}">
-                <h1 ng-bind-html="pagePresentation.headlineText | trustHtml"></h1>
-                <p class="lead" ng-bind-html="pagePresentation.description | trustHtml"></p>
-                <div class="gradientFromWhiteToTransparent">
-                    <img alt="{{pagePresentation.title}}" ng-src="{{pagePresentation.headlineImg}}" >
-                </div>
-            </span>
-        </div>
-        <div style="clear: both;"></div>
-
+             ng-include="'templates/_pageBanner.tmpl.htm'"></div>
+        <!--ARTICLES-->
+        <div ng-if="!!section.content.articles"
+             ng-include="'templates/_articles.tmpl.htm'"></div>
     </section>
 </div>

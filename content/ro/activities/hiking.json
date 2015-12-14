@@ -7,7 +7,7 @@
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/hiking",
-      "textOnMouseOver" : "Vezi traseele de drumeție",
+      "textOnMouseOver": "Vezi traseele de drumeție",
       "openInNewTab": false
     },
     "carouselAdvertise": [
@@ -34,23 +34,67 @@
       "content": {
         "articles": [
           {
-            "articleId" : "unique"
+            "category": "pageIntros",
+            "ids": [
+              {
+                "id": "hiking"
+              }
+            ]
           }
-        ],
-
+        ]
+      }
+    },
+    {
+      "title": {
+        "text": "Trasee scurte",
+        "iconFortAwesomeClass": "fa fa-map-signs",
+        "showSectionTitle": true,
+        "sectionId": "shortTrails",
+        "addLinkInPageHeadline": true
+      },
+      "content": {
         "advertiseBoxesToOtherPagesCarousels": [
           {
             "timeInterval": "12000",
-            "page": "/accommodation/rooms"
+            "page": "/activities/trails/historicalCenter"
+          },          {
+            "timeInterval": "12000",
+            "page": "/activities/trails/carnic"
+          },          {
+            "timeInterval": "12000",
+            "page": "/activities/trails/romanGalleries"
+          },          {
+            "timeInterval": "12000",
+            "page": "/activities/trails/weatherStation"
           },
           {
             "timeInterval": "12000",
-            "page": "/accommodation/camping"
+            "page": "/activities/trails/letySulei"
           }
-        ],
-        "pageBanner": {
-          "page": "/accommodation/facilities"
-        }
+        ]
+      }
+    },
+    {
+      "title": {
+        "text": "Trasee lungi",
+        "iconFortAwesomeClass": "fa fa-map-signs",
+        "showSectionTitle": true,
+        "sectionId": "longTrails",
+        "addLinkInPageHeadline": true
+      },
+      "content": {
+        "advertiseBoxesToOtherPagesCarousels": [
+          {
+            "timeInterval": "12000",
+            "page": "/activities/trails/topAttractions"
+          },          {
+            "timeInterval": "12000",
+            "page": "/activities/trails/detunata"
+          },          {
+            "timeInterval": "12000",
+            "page": "/activities/trails/geamana"
+          }
+        ]
       }
     }
   ]

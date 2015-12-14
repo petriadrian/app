@@ -1,0 +1,25 @@
+{
+  "presentation": {
+    "title": "Vârfurile Lety și Șulei",
+    "headlineText": "",
+    "description": "| <b>4h</b> | Urcăm pe 2 culmi cu forme ciudate, întâlnim 2 tăuri minunate și o galerie cu urme de filoane de aur",
+    "headlineImg": "/casapetri/img/activities/trails/letySulei/presentation.jpg",
+    "showPageHeadline": true,
+    "url": {
+      "link": "#/activities/trails/letySulei",
+      "textOnMouseOver": "Vezi traseul spre vârfurile Lety și Șulei",
+      "openInNewTab": false
+    },
+    "carouselAdvertise": [
+      {
+        "img": "/casaPetri/img/activities/trails/letySulei/carouselAdvertise/1.jpg"
+      },
+      {
+        "img": "/casaPetri/img/activities/trails/letySulei/carouselAdvertise/2.jpg"
+      },
+      {
+        "img": "/casaPetri/img/activities/trails/letySulei/carouselAdvertise/3.jpg"
+      }
+    ]
+  }
+}

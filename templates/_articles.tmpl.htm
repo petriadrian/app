@@ -1,0 +1,37 @@
+<div ng-repeat="categoryArticles in section.content.articles"
+     ng-controller="GetArticlesCtrl">
+    <article ng-repeat="article in categoryArticles" class="defaultArticle anchorParent">
+        <header ng-if="!!article.title" class="articleTitle">
+            <h3><span ng-bind="article.title"></span></h3>
+        </header>
+        <section ng-if="!!article.textContent" class="defaultArticleText">
+            <span ng-bind-html="article.textContent | trustHtml"></span>
+            <a ng-if="!!article.moreDetailsLink" ng-href="{{article.moreDetailsLink}}" class="btn-link" target="_blank">{{article.moreDetailsText}}</i></a>
+        </section>
+        <section ng-if="article.images">
+            <figure ng-repeat="image in article.images" class="photoAlbum defaultClickStyle">
+                <a rel="fancybox" title="{{image.title}} - {{image.description}}" class="fancybox" ng-href="{{image.fullSizeUrl}}">
+                    <img ng-src="{{image.thumbnailUrl | trustUrl}}" alt="{{image.title}}">
+                    <figcaption><b> {{image.title}} </b> - {{image.description}}</figcaption>
+                </a>
+            </figure>
+        </section>
+        <!--{{if iframeSrc}}-->
+        <!--<section>-->
+            <!--<iframe class="trailMap" frameborder="0" src="${iframeSrc}" allowfullscreen></iframe>-->
+            <!--<div class="trailIndicators">-->
+                <!--{{each(i, indicationBox) indicationsBoxes}}-->
+                <!--<p title="${indicationBox.indicationHoverText}"><i-->
+                        <!--class="${indicationBox.indicationIconFontAwesomeClass} fa-fw"></i>-->
+                    <!--${indicationBox.indicationText}-->
+                <!--</p>-->
+                <!--{{/each}}-->
+            <!--</div>-->
+        <!--</section>-->
+        <!--{{/if}}-->
+    </article>
+
+
+</div>
+
+<div style="clear:both"></div>

@@ -1,0 +1,25 @@
+{
+  "presentation": {
+    "title": "Galeriile Romane",
+    "headlineText": "",
+    "description": "| <b>3h</b> | Pătrundem în adâncul masivului Orlea, în galeriile romane și apoi vizităm atracțiile din zonă",
+    "headlineImg": "/casapetri/img/activities/trails/romanGalleries/presentation.jpg",
+    "showPageHeadline": true,
+    "url": {
+      "link": "#/activities/trails/romanGalleries",
+      "textOnMouseOver": "Vezi traseul spre Galeriile Romane",
+      "openInNewTab": false
+    },
+    "carouselAdvertise": [
+      {
+        "img": "/casaPetri/img/activities/trails/romanGalleries/carouselAdvertise/1.jpg"
+      },
+      {
+        "img": "/casaPetri/img/activities/trails/romanGalleries/carouselAdvertise/2.jpg"
+      },
+      {
+        "img": "/casaPetri/img/activities/trails/romanGalleries/carouselAdvertise/3.jpg"
+      }
+    ]
+  }
+}

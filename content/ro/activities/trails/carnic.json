@@ -1,0 +1,25 @@
+{
+  "presentation": {
+    "title": "Vârful Cârnic",
+    "headlineText": "",
+    "description": "| <b>3h</b> | De pe ulițele satului ajungem la Tăul Brazi și apoi urcăm pe masivul Cârnic la Piatra Corbului și la Sfinx",
+    "headlineImg": "/casapetri/img/activities/trails/carnic/presentation.jpg",
+    "showPageHeadline": true,
+    "url": {
+      "link": "#/activities/trails/carnic",
+      "textOnMouseOver": "Vezi traseul Muntelui Cârnic",
+      "openInNewTab": false
+    },
+    "carouselAdvertise": [
+      {
+        "img": "/casaPetri/img/activities/trails/carnic/carouselAdvertise/1.jpg"
+      },
+      {
+        "img": "/casaPetri/img/activities/trails/carnic/carouselAdvertise/2.jpg"
+      },
+      {
+        "img": "/casaPetri/img/activities/trails/carnic/carouselAdvertise/3.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "presentation": {
+    "title": "Geamăna",
+    "headlineText": "",
+    "description": "| <b>9h</b> | Care este prețul metalelor din telefonul tău sau laptop? Vezi cariera de suprafață și satul îngropat în steril",
+    "headlineImg": "/casapetri/img/activities/trails/geamana/presentation.jpg",
+    "showPageHeadline": true,
+    "url": {
+      "link": "#/activities/trails/geamana",
+      "textOnMouseOver": "Vezi traseul spre Geamana",
+      "openInNewTab": false
+    },
+    "carouselAdvertise": [
+      {
+        "img": "/casaPetri/img/activities/trails/geamana/carouselAdvertise/1.jpg"
+      },
+      {
+        "img": "/casaPetri/img/activities/trails/geamana/carouselAdvertise/2.jpg"
+      },
+      {
+        "img": "/casaPetri/img/activities/trails/geamana/carouselAdvertise/3.jpg"
+      }
+    ]
+  }
+}

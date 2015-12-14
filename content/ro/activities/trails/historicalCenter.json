@@ -1,0 +1,25 @@
+{
+  "presentation": {
+    "title": "Centrul istoric",
+    "headlineText": "",
+    "description": "| <b>2h</b> | Centrul celei mai vechi localități din România are multe de zis. Descoperă bisericile și clădirile de patrimoniu.",
+    "headlineImg": "/casapetri/img/activities/trails/historicalCenter/presentation.jpg",
+    "showPageHeadline": true,
+    "url": {
+      "link": "#/activities/trails/historicalCenter",
+      "textOnMouseOver": "Vezi traseul Centrului istoric",
+      "openInNewTab": false
+    },
+    "carouselAdvertise": [
+      {
+        "img": "/casaPetri/img/activities/trails/historicalCenter/carouselAdvertise/1.jpg"
+      },
+      {
+        "img": "/casaPetri/img/activities/trails/historicalCenter/carouselAdvertise/2.jpg"
+      },
+      {
+        "img": "/casaPetri/img/activities/trails/historicalCenter/carouselAdvertise/3.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+<div class="row">
+    <div ng-repeat="advertiseBox in section.content.advertiseBoxesToOtherPagesCarousels"
+         ng-init="pagePresentationPath=advertiseBox.page"
+         class="col-xs-8 col-sm-6 col-md-4 col-lg-3 advertiseBox defaultClickStyle">
+                <span ng-controller='GetPagePresentationCtrl'>
+                    <uib-carousel interval="advertiseBox.timeInterval">
+                        <uib-slide ng-repeat="slide in pagePresentation.carouselAdvertise">
+                            <img alt="{{pagePresentation.title}}" ng-src="{{slide.img}}"
+                                 ng-click="openUrl(pagePresentation.url)"
+                                 title="{{pagePresentation.url.textOnMouseOver}}">
+                        </uib-slide>
+                    </uib-carousel>
+                    <div class="caption" ng-click="openUrl(pagePresentation.url)"
+                         title="{{pagePresentation.url.textOnMouseOver}}">
+                        <h3 ng-bind-html="pagePresentation.title | trustHtml"></h3>
+                        <p ng-bind-html="pagePresentation.description | trustHtml"></p>
+                    </div>
+                </span>
+    </div>
+</div>
+<div style="clear:both"></div>

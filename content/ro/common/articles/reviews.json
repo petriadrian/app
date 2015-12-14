@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "title": "Nastasia - Barcelona(SP)",
+    "textContent": "<span style='font-family: Merienda, cursive'>Un loc de poveste, cu oameni frumoși în ganduri și simțiri, casa la care mă reintorc cu drag și dor de fiecare data! Casa Petri Roșia Montană!</span>",
+    "moreDetailsLink": "https://www.facebook.com/nechiti.nastasia",
+    "moreDetailsText": "Nastasia a acceptat să fie contactată pe facebook cu întrebări despre experiența ei. Clik aici...",
+    "images": [
+      {
+        "title": "Nastasia - Barcelona(SP)",
+        "description": " la Casa Petri",
+        "thumbnailUrl": "/casaPetri/img/reviews/reviewer/thumbnail/1.jpg",
+        "fullSizeUrl": "/casaPetri/img/reviews/reviewer/fullSize/1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Andreea - Oradea(RO)",
+    "textContent": "<span style='font-family: Merienda, cursive'>Oamenii frumosi la gazde frumoase trag! Multam de hamace with a view, vibe creativ si activist, clatite cu zambet larg si respiro cu WiFiiiiiii :))) ca sa afle lumea ca suntem la Casa Petri si ce facem pe acolo. Raportam de pe baricade ca stocul de dor s-a refacut rapid si numaram weekendurile pana va trecem iar pragul!</span>",
+    "moreDetailsLink": "https://www.facebook.com/andreea.firastraeru",
+    "moreDetailsText": "Andreea a acceptat să fie contactată pe facebook cu întrebări despre experiența ei. Clik aici...",
+    "images": [
+      {
+        "title": "Andreea - Oradea(RO)",
+        "description": " la Casa Petri",
+        "thumbnailUrl": "/casaPetri/img/reviews/reviewer/thumbnail/2.jpg",
+        "fullSizeUrl": "/casaPetri/img/reviews/reviewer/fullSize/2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Felicia - Satu Mare(RO)",
+    "textContent": "<span style='font-family: Merienda, cursive'>Oamenii frumosi la gazde frumoase trag! Multam de hamace with a view, vibe creativ si activist, clatite cu zambet larg si respiro cu WiFiiiiiii :))) ca sa afle lumea ca suntem la Casa Petri si ce facem pe acolo. Raportam de pe baricade ca stocul de dor s-a refacut rapid si numaram weekendurile pana va trecem iar pragul!",
+    "images": [
+      {
+        "title": "Felicia - Satu Mare(RO)",
+        "description": " la Casa Petri",
+        "thumbnailUrl": "/casaPetri/img/reviews/reviewer/thumbnail/3.jpg",
+        "fullSizeUrl": "/casaPetri/img/reviews/reviewer/fullSize/3.jpg"
+      }
+    ]
+  }
+]
