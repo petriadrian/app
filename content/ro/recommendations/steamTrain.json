@@ -46,6 +46,27 @@
     },
     {
       "title": {
+        "text": "Cum ajung?",
+        "iconFortAwesomeClass": "fa fa-map-signs",
+        "showSectionTitle": true,
+        "sectionId": "map",
+        "addLinkInPageHeadline": true
+      },
+      "content": {
+        "articles": [
+          {
+            "category": "trails",
+            "ids": [
+              {
+                "id": "mapForSteamTrain"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
         "text": "Vezi și",
         "iconFortAwesomeClass": "fa fa-coffee",
         "showSectionTitle": true,

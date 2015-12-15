@@ -1,0 +1,258 @@
+[
+  {
+    "id": "mapForHistoricalCenter",
+    "textContent": "Un traseu ușor prin centrului istoric a celei mai vechi localități atestate din Romania (anul 131). Centrul istoric are multe cladiri vechi, impunătoare declarate monumente de patrimoniu. O parte din case au fost părăsite în schimbul despăgubirilor date de comapania minieră care își dorea să facă o exploatare în zonă. Totși aceste case au rămas aici ca adevărați stâlpi de istorie ai unei foste comunități care dispunea de toate funcționalitățile necesare. O parte din acestea au fost sau sunt in proces de restaurare. <br>Sub harta gasiti cateva imagini si sfaturi despre principalele obiective pe care le intalniti pe acest traseu. Porniti de la Casa Petri care este si ea o casă de patrimoniu(fost sediu de bancă, spital și cinematograf) aflată chiar in centrul istoric si vizitati pas cu pas fiecare obiectiv.",
+    "map": {
+      "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=taul%20brazi&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Şcoala Germană DC146 Roșia Montană 517615 | Casa David Francisc DC146 Roșia Montană 517615 | Berg, DC146, Roșia Montană 517615|Biserica Romano-Catolică, Roșia Montană| Biserica Unitariană, 530, Roșia Montană | Casa Parohială Unitariană, DC117, Roșia Montană, Județul Alba, România | Şcoala Maghiară DC117 Roșia Montană 517615 | Casa Heneș DC117 Roșia Montană 517615 | Casa Szekey Acos, DC117, Roșia Montană 517615 ",
+      "indicationsBoxes": [
+        {
+          "textOnMouseOver": "durată",
+          "text": "2h",
+          "iconFortAwesomeClass": "fa fa-clock-o"
+        },
+        {
+          "textOnMouseOver": "lungime dus-întors",
+          "text": "5km",
+          "iconFortAwesomeClass": "fa fa-arrows-h"
+        },
+        {
+          "textOnMouseOver": "dificultate",
+          "text": "usor",
+          "iconFortAwesomeClass": "fa fa-line-chart"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mapForCarnic",
+    "textContent": "Curtea casei Petri are o frumoasă priveliște spre masivul Cârnic. Dacă vă uitați atent de aici spre vârful Cârnicului o să observați o stâncă cu o formă de cal și o cruce în vârful acestuia. Acesta este Sfinxul Cârnicului sau 'Căluțul' cum îi mai spune în zonă, care reprezintă și obiectivul nostru principal pentru acest traseu. Pornim spre Tăul Brazi și Tăul Anghel - două mici lacuri de munte. Plecăm apoi prin pădurea de brazi spre Platoul Cârnic - o mică terasă cu o priveliște frumoasă. Continuăm apoi urcușul până în vârful masivului la Piatra Corbului și Sfinx. ",
+    "moreDetailsLink": "http://www.gpsies.com/map.do?fileId=esbtvmiyuytvzprs",
+    "moreDetailsText": "Datele GPS și traseul îl puteți găsi și pe gpsies.com. Detalii aici...",
+    "map": {
+      "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Casa Parohială Unitariană, DC117, Roșia Montană, Alba County, Romania | Casa Heneș, DC117, Roșia Montană, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Tăul Anghel, Rosia Montana, Alba County, Romania | Platoul Cârnic, Rosia Montana, Alba County, Romania | Piatra Corbului, Rosia Montana, Alba County, Romania",
+      "indicationsBoxes": [
+        {
+          "textOnMouseOver": "durată",
+          "text": "3h",
+          "iconFortAwesomeClass": "fa fa-clock-o"
+        },
+        {
+          "textOnMouseOver": "lungime dus-întors",
+          "text": "7km",
+          "iconFortAwesomeClass": "fa fa-arrows-h"
+        },
+        {
+          "textOnMouseOver": "dificultate",
+          "text": "mediu",
+          "iconFortAwesomeClass": "fa fa-line-chart"
+        },
+        {
+          "textOnMouseOver": "indicații",
+          "text": "bocanci de munte și pelerină",
+          "iconFortAwesomeClass": "fa fa-check-square-o"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mapForRomanGalleries",
+    "textContent": "Traseul ne va purta spre celebrele galerii romane de la Muzeul Mineritului. Drumul de la Casa Petri până la Galeriile Romane este asfaltat, iar partea a 2-a traseului spre biserica Greco Catolică și sculpturi până înapoi la casa Petri este pe drum de țară.",
+    "map": {
+      "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJmREpqBvNTkcR0-GMtovthj8&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Biserica Adormirea Maicii Domnului, Strada Principală 175, Roșia Montană 517615 | Biserica Greco-Catolică Adormirea Maicii Domnului, Roșia Montană | Orlea, Roșia Montană, Alba County, Romania | Sculpturi Calcar, DC147, Roșia Montană 517615 | Casa Petri, DC146 334, Roșia Montană 517615",
+      "indicationsBoxes": [
+        {
+          "textOnMouseOver": "durată",
+          "text": "3h",
+          "iconFortAwesomeClass": "fa fa-clock-o"
+        },
+        {
+          "textOnMouseOver": "lungime dus-întors",
+          "text": "6km",
+          "iconFortAwesomeClass": "fa fa-arrows-h"
+        },
+        {
+          "textOnMouseOver": "dificultate",
+          "text": "ușor",
+          "iconFortAwesomeClass": "fa fa-line-chart"
+        },
+        {
+          "textOnMouseOver": "indicații",
+          "text": "bocanci de munte și pelerină",
+          "iconFortAwesomeClass": "fa fa-check-square-o"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mapForWeatherStation",
+    "textContent": "Acesta este unul dintre cele mai pitorești trasee. Vă va plimba prin locul nostru preferat - Țarina, care reprezintă terenurile de pământ pe care roșienii le dețineau aproape de centrul comunei și unde creșteau animale și își țineau culturile. Traseul vă va duce pe la Tăul Țarinii și apoi până la Stația Meteo de unde vă promitem o priveliște nemaiîntâlnită. A doua parte a traseului vă va coborâ pe la Tăul Mare și chiar înainte de a intra în centrul istoric mai facem un popoas la Galeria Văidoaia și o casă veche cu totul specială.",
+    "moreDetailsText": "Datele GPS și traseul îl puteți găsi și pe gpsies.com. Detalii aici...",
+    "moreDetailsLink": "http://www.gpsies.com/map.do?fileId=angfatdqfdrtdpsu",
+    "map": {
+      "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJi1rDktfMTkcRD_0U6qTLpqg&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Berg, DC146, Roșia Montană, Alba County, Romania | Tăul Țarinii, Rosia Montana, Alba County, Romania| Vârful Rotundu 1240m, Rosia Montana, Alba County, Romania | Tăul Mare, Rosia Montana, Alba County, Romania | Casa Szekey Acos, DC117, Roșia Montană, Alba County, Romania | Galeria Văidoaia, Rosia Montana, Alba County, Romania | Casa Petri Rosia Montana, Historical center, nr. 334, Roșia Montană 517615",
+      "indicationsBoxes": [
+        {
+          "textOnMouseOver": "durată pe jos",
+          "text": "5h",
+          "iconFortAwesomeClass": "fa fa-male"
+        },
+        {
+          "textOnMouseOver": "durată cu bicicleta",
+          "text": "3h",
+          "iconFortAwesomeClass": "fa fa-bicycle"
+        },
+        {
+          "textOnMouseOver": "lungime dus-întors",
+          "text": "11km",
+          "iconFortAwesomeClass": "fa fa-arrows-h"
+        },
+        {
+          "textOnMouseOver": "dificultate",
+          "text": "mediu",
+          "iconFortAwesomeClass": "fa fa-line-chart"
+        },
+        {
+          "textOnMouseOver": "indicații",
+          "text": "bocanci de munte și pelerină",
+          "iconFortAwesomeClass": "fa fa-check-square-o"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mapForLetySulei",
+    "textContent": "Traseul ne va duce pe la galeria Văidoaia și Tăul Mare după care vom urca până pe masivul Lety și Șulei pentru a admira belvederea de aici. De aici o luam spre zona 'brazi' spre masivul  Cârnic până pe vârful lui la Piatra Corbului și Sfinx. Coborâm apoi spre Tăul Brazi și centrul istoric.",
+    "moreDetailsText": "",
+    "moreDetailsLink": "",
+    "map": {
+      "iframeSrc":  "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Galeria Văidoaia, Rosia Montana, Alba County, Romania | Casa Szekey Acos, DC117, Roșia Montană, Alba County, Romania | Tăul Mare, Rosia Montana, Alba County, Romania | Masivul Şulei, Rosia Montana, Alba County, Romania | Tăul Corna, comuna Rosia Montana, Alba County, Romania | Sfinxul Cârnic, Rosia Montana, Alba County, Romania | Piatra Corbului, DJ742, Roșia Montană, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Tăul Anghel, Rosia Montana, Alba County, Romania | Casa Petri Rosia Montana, Historical center, nr. 334, Roșia Montană 517615",
+      "indicationsBoxes": [
+        {
+          "textOnMouseOver": "durată pe jos",
+          "text": "4h",
+          "iconFortAwesomeClass": "fa fa-male"
+        },
+        {
+          "textOnMouseOver": "durată cu bicicleta",
+          "text": "2h",
+          "iconFortAwesomeClass": "fa fa-bicycle"
+        },
+        {
+          "textOnMouseOver": "lungime dus-întors",
+          "text": "15km",
+          "iconFortAwesomeClass": "fa fa-arrows-h"
+        },
+        {
+          "textOnMouseOver": "dificultate",
+          "text": "mediu",
+          "iconFortAwesomeClass": "fa fa-line-chart"
+        },
+        {
+          "textOnMouseOver": "indicații",
+          "text": "bocanci de munte și pelerină",
+          "iconFortAwesomeClass": "fa fa-check-square-o"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mapForDetunata",
+    "textContent": "Începem traseul din centrul istoric de la Casa Petri și pornim spre Tăul Mare. O luăm pe malul lui până ajungem în dreapta masivelor Lety și Șulei pe care poți să urci puțin pentru a te bucura de belvederea asupra satului. Pornim apoi spre satele Muntari și Poiana printr-un peisaj tipic din Țara Moților presărat ici și colo cu căpițe și pașuni pe unde o să întâlniți turme de oi sau vaci. Ne continuăm drumul până ce dăm de o culme montană formată din niște coloane înalte de bazalt. Aceasta este Detunata pe care se poate urca până în vârf pentru a ne bucara de peisaj și aerul de munte. <br>Traseul este marcat complet cu indicatorul cruce roșie de către Salvamont așa că va fi foarte ușor de urmăit. Dacă mergi cu bicileta află că pe ultimii 500 de metri o să urci pe o potecă ingustă care nu e accesibilă pentru biciclete.",
+    "moreDetailsLink": "http://www.bikemap.net/en/route/3052348-rosia-montana-poiana-detunata-goala/#/z13/46.28539,23.16415/terrain",
+    "moreDetailsText": "Datele GPS și traseul îl puteți găsi și aici pe bikemap.net",
+    "map": {
+      "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJv_3GPwvLTkcRDy5ru-eVXWI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Tăul Mare, Rosia Montana, Alba County, Romania | Masivul Şulei, Rosia Montana, Alba County, Romania | Muntari, Alba County, Romania | Casa Petri Rosia Montana, Historical center, nr. 334, Roșia Montană 517615",
+      "indicationsBoxes": [
+        {
+          "textOnMouseOver": "durată pe jos",
+          "text": "7h",
+          "iconFortAwesomeClass": "fa fa-male"
+        },
+        {
+          "textOnMouseOver": "durată cu bicicleta",
+          "text": "4h",
+          "iconFortAwesomeClass": "fa fa-bicycle"
+        },
+        {
+          "textOnMouseOver": "lungime dus-întors",
+          "text": "21km",
+          "iconFortAwesomeClass": "fa fa-arrows-h"
+        },
+        {
+          "textOnMouseOver": "dificultate",
+          "text": "mediu",
+          "iconFortAwesomeClass": "fa fa-line-chart"
+        },
+        {
+          "textOnMouseOver": "indicații",
+          "text": "bocanci de munte și pelerină",
+          "iconFortAwesomeClass": "fa fa-check-square-o"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mapForTopAttractions",
+    "textContent": "Ați ajuns în Rosia Montana sau planuiti o vizită și nu prea aveți mult timp? Musai sa parcurgeti acest traseu pentru a cunoaste principalele obiective turistice de aici. Sub harta gasiti cateva imagini si sfaturi despre principalele obiectivele pe care le intalniti pe acest traseu. Porniti de la Casa Petri care se afla chiar in centrul istoric si vizitati pas cu pas fiecare obiectiv.",
+    "moreDetailsLink": "http://www.bikemap.net/en/route/3052348-rosia-montana-poiana-detunata-goala/#/z13/46.28539,23.16415/terrain",
+    "moreDetailsText": "Datele GPS și traseul îl puteți găsi și aici pe bikemap.net",
+    "map": {
+      "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=sfinxul%20carnic&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Galeriile Romane, Roșia Montană, Județul Alba | Berg, DC146, Roșia Montană 517615|Biserica Romano-Catolică, Roșia Montană|Biserica Unitariană, 530, Roșia Montană|Galeria Văidoaia, Rosia Montana, Alba County, Romania| Casa Szekey Acos, DC117, Roșia Montană, Alba County, Romania | Platoul Cârnic, Rosia Montana, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Piatra Corbului, Rosia Montana, Alba County, Romania",
+      "indicationsBoxes": [
+        {
+          "textOnMouseOver": "durată pe jos",
+          "text": "7h",
+          "iconFortAwesomeClass": "fa fa-clock"
+        },
+        {
+          "textOnMouseOver": "lungime dus-întors",
+          "text": "12km",
+          "iconFortAwesomeClass": "fa fa-arrows-h"
+        },
+        {
+          "textOnMouseOver": "dificultate",
+          "text": "ușor",
+          "iconFortAwesomeClass": "fa fa-line-chart"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mapForSteamTrain",
+    "textContent": "",
+    "map": {
+      "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJXbvdmu3NTkcRy1frt92KFy0&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=Gura Roșiei, Județul Alba",
+      "indicationsBoxes": [
+        {
+          "textOnMouseOver": "durată",
+          "text": "15min",
+          "iconFortAwesomeClass": "fa fa-car"
+        },
+        {
+          "textOnMouseOver": "lungime",
+          "text": "10km",
+          "iconFortAwesomeClass": "fa fa-arrows-h"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mapForDaffodilMeadow",
+    "textContent": "",
+    "map": {
+      "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJvT6u7RzKTkcR1hUfXNYaqcI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=Gura Roșiei, Județul Alba",
+      "indicationsBoxes": [
+        {
+          "textOnMouseOver": "durată",
+          "text": "1h",
+          "iconFortAwesomeClass": "fa fa-car"
+        },
+        {
+          "textOnMouseOver": "lungime",
+          "text": "39km",
+          "iconFortAwesomeClass": "fa fa-arrows-h"
+        }
+      ]
+    }
+  }
+]

@@ -1,8 +1,8 @@
 {
   "presentation": {
     "title": "Galeriile Romane",
-    "headlineText": "",
-    "description": "| <b>3h</b> | Pătrundem în adâncul masivului Orlea, în galeriile romane și apoi vizităm atracțiile din zonă",
+    "headlineText": "Traseul spre galeriile romane, bisericile și sculpturile masivului Orlea",
+    "description": "| <b>3h</b> | Pătrundem în adâncul muntelui, în galeriile romane și apoi vizităm atracțiile din zonă",
     "headlineImg": "/casapetri/img/activities/trails/romanGalleries/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -21,5 +21,98 @@
         "img": "/casaPetri/img/activities/trails/romanGalleries/carouselAdvertise/3.jpg"
       }
     ]
-  }
+  },
+  "sections": [
+    {
+      "title": {
+        "text": "Traseu",
+        "iconFortAwesomeClass": "fa fa-map-signs",
+        "showSectionTitle": true,
+        "sectionId": "details",
+        "addLinkInPageHeadline": true
+      },
+      "content": {
+        "articles": [
+          {
+            "category": "trails",
+            "ids": [
+              {
+                "id": "mapForRomanGalleries"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "text": "Atracții",
+        "iconFortAwesomeClass": "fa fa-star",
+        "showSectionTitle": true,
+        "sectionId": "map",
+        "addLinkInPageHeadline": true
+      },
+      "content": {
+        "articles": [
+          {
+            "category": "attractions",
+            "ids": [
+              {
+                "id": "romanGalleries"
+              },
+              {
+                "id": "grecoCatholicChurch"
+              },
+              {
+                "id": "limestoneSculptures"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "text": "Gata traseul? Îți recomandam și:",
+        "iconFortAwesomeClass": "fa fa-child",
+        "showSectionTitle": true,
+        "sectionId": "nextTrail",
+        "addLinkInPageHeadline": false
+      },
+      "content": {
+        "pageBanner": {
+          "page": "/activities/trails/weatherStation"
+        }
+      }
+    },
+    {
+      "title": {
+        "text": "Vezi și",
+        "iconFortAwesomeClass": "fa fa-coffee",
+        "showSectionTitle": true,
+        "sectionId": "accommodation",
+        "addLinkInPageHeadline": false
+      },
+      "content": {
+        "advertiseBoxesToOtherPagesCarousels": [
+          {
+            "timeInterval": "12000",
+            "page": "/accommodation/rooms"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "/accommodation/camping"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "/activities/hiking"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "/activities/cycling"
+          }
+        ]
+      }
+    }
+  ]
 }

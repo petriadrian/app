@@ -127,6 +127,10 @@ body {
     padding: 0.5%;
 }
 
+.advertiseBox {
+    /*border-bottom: 1px solid #B9B9B9;*/
+}
+
 .advertiseBox .caption {
     height: 11em;
     overflow: hidden;
@@ -185,7 +189,6 @@ body {
 .pageBanner {
     padding: 1%;
     margin: 20px 0px 0px 0px;
-    border-top: 1px solid #B9B9B9;
 }
 
 .pageBanner h1 {

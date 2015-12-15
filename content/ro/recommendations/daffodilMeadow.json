@@ -1,12 +1,12 @@
 {
   "presentation": {
     "title": "Poina cu narcise",
-    "headlineText": "",
+    "headlineText": "O poiană ca în povești. Narcisele de la Negrileasa",
     "description": "<b>| Mai |</b> O patura alba si un miros imbatator pun stapanire pe Poiana Negrileasa  |~36km de noi|",
-    "headlineImg": "",
+    "headlineImg": "/casaPetri/img/recommendations/daffodilMeadow/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "/casaPetri/recommendations/daffodilMeadow",
+      "link": "#/recommendations/daffodilMeadow",
       "textOnMouseOver" : "Vezi mai multe detalii",
       "openInNewTab": false
     },
@@ -21,5 +21,78 @@
         "img": "/casaPetri/img/recommendations/daffodilMeadow/carouselAdvertise/3.jpg"
       }
     ]
-  }
+  },
+  "sections": [
+    {
+      "title": {
+        "text": "Detalii",
+        "iconFortAwesomeClass": "fa fa-info-circle",
+        "showSectionTitle": true,
+        "sectionId": "details",
+        "addLinkInPageHeadline": true
+      },
+      "content": {
+        "articles": [
+          {
+            "category": "pageIntros",
+            "ids": [
+              {
+                "id": "daffodilMeadow"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "text": "Cum ajung?",
+        "iconFortAwesomeClass": "fa fa-map-signs",
+        "showSectionTitle": true,
+        "sectionId": "map",
+        "addLinkInPageHeadline": true
+      },
+      "content": {
+        "articles": [
+          {
+            "category": "trails",
+            "ids": [
+              {
+                "id": "mapForDaffodilMeadow"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "text": "Vezi și",
+        "iconFortAwesomeClass": "fa fa-coffee",
+        "showSectionTitle": true,
+        "sectionId": "accommodation",
+        "addLinkInPageHeadline": false
+      },
+      "content": {
+        "advertiseBoxesToOtherPagesCarousels": [
+          {
+            "timeInterval": "12000",
+            "page": "/accommodation/rooms"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "/accommodation/camping"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "/activities/hiking"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "/activities/cycling"
+          }
+        ]
+      }
+    }
+  ]
 }

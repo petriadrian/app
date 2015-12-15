@@ -1,7 +1,7 @@
-<div class="row">
+<div class="row advertiseBox">
     <div ng-repeat="advertiseBox in section.content.advertiseBoxesToOtherPagesCarousels"
          ng-init="pagePresentationPath=advertiseBox.page"
-         class="col-xs-8 col-sm-6 col-md-4 col-lg-3 advertiseBox defaultClickStyle displayOnCenter">
+         class="col-xs-8 col-sm-6 col-md-4 col-lg-3 defaultClickStyle displayOnCenter">
                 <span ng-controller='GetPagePresentationCtrl'>
                     <uib-carousel interval="advertiseBox.timeInterval">
                         <uib-slide ng-repeat="slide in pagePresentation.carouselAdvertise">

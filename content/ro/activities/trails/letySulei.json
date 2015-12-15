@@ -1,8 +1,8 @@
 {
   "presentation": {
     "title": "Vârfurile Lety și Șulei",
-    "headlineText": "",
-    "description": "| <b>4h</b> | Urcăm pe 2 culmi cu forme ciudate, întâlnim 2 tăuri minunate și o galerie cu urme de filoane de aur",
+    "headlineText": "Traseul spre masivele Lety și Șulei ",
+    "description": "| <b>4h</b> | Urcăm pe 2 culmi cu forme ciudate, întâlnim 2 tăuri minunate un sat ascuns și o galerie cu urme de filoane de aur",
     "headlineImg": "/casapetri/img/activities/trails/letySulei/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -21,5 +21,116 @@
         "img": "/casaPetri/img/activities/trails/letySulei/carouselAdvertise/3.jpg"
       }
     ]
-  }
+  },
+  "sections": [
+    {
+      "title": {
+        "text": "Traseu",
+        "iconFortAwesomeClass": "fa fa-map-signs",
+        "showSectionTitle": true,
+        "sectionId": "details",
+        "addLinkInPageHeadline": true
+      },
+      "content": {
+        "articles": [
+          {
+            "category": "trails",
+            "ids": [
+              {
+                "id": "mapForLetySulei"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "text": "Atracții",
+        "iconFortAwesomeClass": "fa fa-star",
+        "showSectionTitle": true,
+        "sectionId": "map",
+        "addLinkInPageHeadline": true
+      },
+      "content": {
+        "articles": [
+          {
+            "category": "attractions",
+            "ids": [
+              {
+                "id": "vaidoaiaGalleries"
+              },
+              {
+                "id": "szekeyHouse"
+              },
+              {
+                "id": "bigLake"
+              },
+              {
+                "id": "letySulei"
+              },
+              {
+                "id": "cornaLake"
+              },
+              {
+                "id": "ravenStone"
+              },
+              {
+                "id": "carnicSfinx"
+              },
+              {
+                "id": "braziLake"
+              },
+              {
+                "id": "sicilianStreet"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "text": "Gata traseul? Îți recomandam și:",
+        "iconFortAwesomeClass": "fa fa-child",
+        "showSectionTitle": true,
+        "sectionId": "nextTrail",
+        "addLinkInPageHeadline": false
+      },
+      "content": {
+        "pageBanner": {
+          "page": "/activities/trails/historicalCenter"
+        }
+      }
+    },
+    {
+      "title": {
+        "text": "Vezi și",
+        "iconFortAwesomeClass": "fa fa-coffee",
+        "showSectionTitle": true,
+        "sectionId": "accommodation",
+        "addLinkInPageHeadline": false
+      },
+      "content": {
+        "advertiseBoxesToOtherPagesCarousels": [
+          {
+            "timeInterval": "12000",
+            "page": "/accommodation/rooms"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "/accommodation/camping"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "/activities/hiking"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "/activities/cycling"
+          }
+        ]
+      }
+    }
+  ]
 }

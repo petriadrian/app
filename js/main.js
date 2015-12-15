@@ -66,9 +66,19 @@ app.config(['$routeProvider', function ($routeProvider) {
         // Home
         .when("/", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         //// Pages
-        .when("/activities/hiking", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         .when("/reviews", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+
+        .when("/activities/hiking", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/historicalCenter", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/carnic", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/romanGalleries", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/weatherStation", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/letySulei", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/topAttractions", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/detunata", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+
         .when("/recommendations/steamTrain", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/recommendations/daffodilMeadow", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         //// else 404
         .otherwise("/404", {templateUrl: "partials/404.html", controller: "PageCtrl"});
 }]);
