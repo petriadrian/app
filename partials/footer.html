@@ -5,6 +5,7 @@
              ng-click="openUrl(reviewContent.presentation.url)"
              title="{{reviewContent.presentation.url.textOnMouseOver}}">
         <i class="col-xs-12 col-sm-12 col-md-12 col-lg-12 fa fa-quote-left"></i>
+
         <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 reviewPreviewArea">
             <div class="carousel slide" data-ride="carousel" data-interval="10000">
                 <div id="reviewCarouselLayout" class="carousel-inner">
@@ -50,11 +51,15 @@
 
         <section class="footerFeedback col-xs-10 col-sm-6 col-md-4 col-lg-3">
             <form role="form" onsubmit="">
-                <div data-ng-repeat="textarea in footerContent.form.textarea" class="form-group">
-                    <textarea placeholder="{{textarea.placeholder}}" class="form-control" rows="{{textarea.rows}}"
-                              name="{{textarea.title}}" ng-required="textarea.required=='true'?true:false"></textarea>
+                <div data-ng-repeat="field in footerContent.form.fields" class="form-group">
+                    <textarea class="form-control"
+                              placeholder="{{field.placeholder}}"
+                              rows="{{field.rows}}"
+                              maxlength="{{field.maxChars}}"
+                              name="{{field.name}}"
+                              ng-required="field.required"></textarea>
                 </div>
-                <button type="submit" class="btn btn-primary">{{footerContent.form.submitButton}}</button>
+                <button type="submit" class="btn btn-primary">{{footerContent.form.sendButtonText}}</button>
             </form>
         </section>
     </div>

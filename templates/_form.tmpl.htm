@@ -1,13 +1,20 @@
-<form role="form" class="col-xs-12 col-sm-12 col-md-6 col-lg-8 displayOnCenter" onsubmit="">
-    <div data-ng-repeat="textarea in section.content.form.textarea" class="form-group">
-        <textarea placeholder="{{textarea.placeholder}}"
-                  class="form-control"
-                  rows="{{textarea.rows}}"
-                  maxlength="{{textarea.maxNumberOfCharacters}}"
-                  name="{{textarea.title}}"
-                  ng-required="textarea.required"></textarea>
+<form role="form" class="col-xs-12 col-sm-12 col-md-6 col-lg-8 displayOnCenter" onsubmit="section.content.form.action">
+    <div data-ng-repeat="field in section.content.form.fields" class="input-group">
+        <span class="input-group-addon"><i ng-class="field.iconFortAwesomeClass"></i></span>
+        <input type="text" class="form-control"
+               ng-if="field.type == 'textRow'"
+               name="{{field.name}}"
+               maxlength="{{field.maxChars}}"
+               placeholder="{{field.placeholder}}"
+               ng-required="field.required">
+        <textarea ng-if="field.type == 'textarea'" class="form-control"
+                  placeholder="{{field.placeholder}}"
+                  rows="{{field.rows}}"
+                  maxlength="{{field.maxChars}}"
+                  name="{{field.name}}"
+                  ng-required="field.required"></textarea>
     </div>
-    <button type="submit" class="btn btn-primary">{{section.content.form.submitButton}}</button>
+    <button type="submit" class="btn btn-primary">{{section.content.form.sendButtonText}}</button>
 </form>
 
 <div style="clear:both"></div>

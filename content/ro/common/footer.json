@@ -31,20 +31,26 @@
   "googleMapLink": "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc",
   "facebookLink": "https://www.facebook.com/casapetrirosiamontana",
   "form": {
-    "textarea": [
+    "action": "",
+    "sendButtonText": "Trimite",
+    "fields": [
       {
-        "title": "feedback",
+        "type": "textarea",
+        "name": "feedback",
+        "iconFortAwesomeClass": "fa fa-commenting fa-fw",
         "placeholder": "Vrem să ne înbunatătim. Lasă-ne aici un feedback! ...",
-        "rows": "3",
-        "required": "true"
+        "rows": 3,
+        "maxChars": 350,
+        "required": true
       },
       {
-        "title": "email",
+        "type": "textRow",
+        "name": "email",
+        "rows": 1,
+        "iconFortAwesomeClass": "fa fa-user fa-fw",
         "placeholder": "Email",
-        "rows": "1",
-        "required": "false"
+        "required": true
       }
-    ],
-    "submitButton": "Trimite"
+    ]
   }
 }

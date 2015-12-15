@@ -324,10 +324,6 @@ footer .row section{
     background-color: transparent;
 }
 
-.input-group textarea {
-    resize: vertical;
-}
-
 .reservationForm .submitButton {
     width: 98%;
     margin: 1%;
@@ -382,6 +378,10 @@ footer .row section{
     font-size: 1.2em;
     padding: 10px 20px;
     display: inline-block;
+}
+
+.input-group {
+    margin-bottom: 1%;
 }
 
 .listWithIconTitleDetail {

@@ -1,12 +1,12 @@
 {
   "presentation": {
     "title": "Mocănița",
-    "headlineText": "",
+    "headlineText": "Străbate Țara Moților în Mocănița cu abur",
     "description": "<b>| Iun-Sept |</b> Strabate calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur  |~10km de noi|",
-    "headlineImg": "",
+    "headlineImg": "/casaPetri/img/recommendations/steamTrain/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "/casaPetri/recommendations/steamTrain",
+      "link": "#/recommendations/steamTrain",
       "textOnMouseOver" : "Vezi mai multe detalii",
       "openInNewTab": false
     },
@@ -21,5 +21,57 @@
         "img": "/casaPetri/img/recommendations/steamTrain/carouselAdvertise/3.jpg"
       }
     ]
-  }
+  },
+  "sections": [
+    {
+      "title": {
+        "text": "Detalii",
+        "iconFortAwesomeClass": "fa fa-info-circle",
+        "showSectionTitle": true,
+        "sectionId": "details",
+        "addLinkInPageHeadline": true
+      },
+      "content": {
+        "articles": [
+          {
+            "category": "pageIntros",
+            "ids": [
+              {
+                "id": "steamTrain"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "text": "Vezi și",
+        "iconFortAwesomeClass": "fa fa-coffee",
+        "showSectionTitle": true,
+        "sectionId": "accommodation",
+        "addLinkInPageHeadline": false
+      },
+      "content": {
+        "advertiseBoxesToOtherPagesCarousels": [
+          {
+            "timeInterval": "12000",
+            "page": "/accommodation/rooms"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "/accommodation/camping"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "/activities/hiking"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "/activities/cycling"
+          }
+        ]
+      }
+    }
+  ]
 }

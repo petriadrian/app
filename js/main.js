@@ -68,6 +68,7 @@ app.config(['$routeProvider', function ($routeProvider) {
         //// Pages
         .when("/activities/hiking", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         .when("/reviews", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/recommendations/steamTrain", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         //// else 404
         .otherwise("/404", {templateUrl: "partials/404.html", controller: "PageCtrl"});
 }]);

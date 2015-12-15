@@ -60,30 +60,35 @@
       },
       "content": {
         "form": {
-          "textarea": [
+          "action": "",
+          "sendButtonText": "Trimite",
+          "fields": [
             {
-              "title": "feedback",
+              "type": "textarea",
+              "name": "feedback",
+              "iconFortAwesomeClass": "fa fa-commenting fa-fw",
               "placeholder": "Vrem să ne înbunatătim. Lasă-ne aici un feedback! ...",
-              "rows": "3",
-              "maxNumberOfCharacters": "350",
+              "rows": 3,
+              "maxChars": 350,
               "required": true
             },
             {
-              "title": "localitate",
+              "type": "textRow",
+              "name": "name",
+              "iconFortAwesomeClass": "fa fa-user fa-fw",
+              "placeholder": "Nume",
+              "maxChars": 30,
+              "required": true
+            },
+            {
+              "type": "textRow",
+              "name": "locality",
+              "iconFortAwesomeClass": "fa fa-map-marker fa-fw",
               "placeholder": "Localitate",
-              "rows": "1",
-              "maxNumberOfCharacters": "50",
-              "required": true
-            },
-            {
-              "title": "email",
-              "placeholder": "Email",
-              "rows": "1",
-              "maxNumberOfCharacters": "50",
+              "maxChars": 30,
               "required": false
             }
-          ],
-          "submitButton": "Trimite"
+          ]
         }
       }
     },
