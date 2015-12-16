@@ -77,6 +77,8 @@ app.config(['$routeProvider', function ($routeProvider) {
         .when("/activities/trails/topAttractions", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         .when("/activities/trails/detunata", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
 
+        .when("/activities/cycling", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+
         .when("/recommendations/steamTrain", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         .when("/recommendations/daffodilMeadow", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         //// else 404
@@ -100,7 +102,7 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
     if ($location.hash()) {
         $timeout(function () {
             $anchorScroll($location.hash());
-        }, 2000);
+        }, 800);
     }
 });
 
