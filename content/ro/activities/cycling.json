@@ -56,15 +56,19 @@
         "advertiseBoxesToOtherPagesCarousels": [
           {
             "timeInterval": "12000",
-            "page": "/activities/trails/fourLakes"
-          },
-          {
-            "timeInterval": "12000",
             "page": "/activities/trails/weatherStation"
           },
           {
             "timeInterval": "12000",
+            "page": "/activities/trails/fourLakes"
+          },
+          {
+            "timeInterval": "12000",
             "page": "/activities/trails/detunata"
+          },
+          {
+            "timeInterval": "12000",
+            "page": "/activities/trails/rollerCoaster"
           },
           {
             "timeInterval": "12000",

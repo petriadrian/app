@@ -112,7 +112,8 @@ body {
 .titleLayout {
     position: relative;
     border-bottom: 1px solid #B9B9B9;
-    margin: 40px 0px 10px 0px;
+    margin-bottom: 10px;
+    margin-top: 40px;
     font-size: 2.3em;
 }
 
@@ -194,6 +195,11 @@ body {
 .pageBanner h1 {
     font-size: 2em;
 }
+
+.pageBanner p {
+    font-size: 1.2em;
+}
+
 
 .pageBanner img {
     width: 100%;

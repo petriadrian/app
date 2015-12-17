@@ -78,6 +78,7 @@ app.config(['$routeProvider', function ($routeProvider) {
         .when("/activities/trails/detunata", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
 
         .when("/activities/cycling", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/fourLakes", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
 
         .when("/recommendations/steamTrain", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         .when("/recommendations/daffodilMeadow", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})

@@ -2,11 +2,11 @@
   "presentation": {
     "title": "4 lacuri",
     "headlineText": "Descoperă traseul celor 4 lacuri din Roșia Montană",
-    "description": "| <b>4h</b> | Traseul turului loca",
-    "headlineImg": "/casapetri/img/activities/trails/carnic/presentation.jpg",
+    "description": "Prin acest traseu vei face turul localității pe un drum de țară șerpuit printre lacuri, dealuri și mici sate de munte- <b>16km</b>",
+    "headlineImg": "/casapetri/img/activities/trails/fourLakes/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/activities/trails/carnic",
+      "link": "#/activities/trails/fourLakes",
       "textOnMouseOver": "Vezi traseul Muntelui Cârnic",
       "openInNewTab": false
     },
@@ -37,7 +37,7 @@
             "category": "trails",
             "ids": [
               {
-                "id": "mapForCarnic"
+                "id": "mapForFourLakes"
               }
             ]
           }
@@ -58,19 +58,22 @@
             "category": "attractions",
             "ids": [
               {
-                "id": "sicilianStreet"
+                "id": "tariniLake"
+              },
+              {
+                "id": "weatherStation"
+              },
+              {
+                "id": "bigLake"
+              },
+              {
+                "id": "letySulei"
+              },
+              {
+                "id": "cornaLake"
               },
               {
                 "id": "braziLake"
-              },
-              {
-                "id": "carnicPlateau"
-              },
-              {
-                "id": "carnicSfinx"
-              },
-              {
-                "id": "ravenStone"
               }
             ]
           }
