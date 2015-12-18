@@ -7,7 +7,7 @@
     "showPageHeadline": true,
     "url": {
       "link": "#/recommendations/steamTrain",
-      "textOnMouseOver" : "Vezi mai multe detalii",
+      "textOnMouseOver": "Vezi mai multe detalii",
       "openInNewTab": false
     },
     "carouselAdvertise": [
@@ -32,16 +32,30 @@
         "addLinkInPageHeadline": true
       },
       "content": {
-        "articles": [
-          {
-            "category": "pageIntros",
-            "ids": [
-              {
-                "id": "steamTrain"
-              }
-            ]
-          }
-        ]
+        "articles": {
+          "specificArticles": [
+            {
+              "title": "",
+              "textContent": "Daca ajungeti in zona in weekend merita sa incercati Mocanita cu abur. Aceasta circula intre Abrud si Campeni iar durata unei calatorii este cam de 3 ore. Gara Mocanitei este in Abrud Sat care este cam 15 minute de mers cu masina de Casa Petri pe drum asfaltat (vedeti harta de mai jos). Calea ferata ingusta si Mocanita au fost restaurata recent si au fost puse la dispozitia turistilor.",
+              "moreDetailsLink": "http://www.cfi.ro/index.php?p=1_15",
+              "moreDetailsText": "Mai multe detalii despre orar si traseu aici...",
+              "images": [
+                {
+                  "title": "Mocanita prin satul Cristea",
+                  "description": "",
+                  "thumbnailUrl": "/casaPetri/img/recommendations/steamTrain/thumbnail/1.jpg",
+                  "fullSizeUrl": "/casaPetri/img/recommendations/steamTrain/fullSize/1.jpg"
+                },
+                {
+                  "title": "Mocanita",
+                  "description": "",
+                  "thumbnailUrl": "/casaPetri/img/recommendations/steamTrain/thumbnail/2.jpg",
+                  "fullSizeUrl": "/casaPetri/img/recommendations/steamTrain/fullSize/2.jpg"
+                }
+              ]
+            }
+          ]
+        }
       }
     },
     {
@@ -53,16 +67,28 @@
         "addLinkInPageHeadline": true
       },
       "content": {
-        "articles": [
-          {
-            "category": "trails",
-            "ids": [
-              {
-                "id": "mapForSteamTrain"
+        "articles": {
+          "specificArticles": [
+            {
+              "textContent": "",
+              "map": {
+                "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJXbvdmu3NTkcRy1frt92KFy0&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=Gura Roșiei, Județul Alba",
+                "indicationsBoxes": [
+                  {
+                    "textOnMouseOver": "durată",
+                    "text": "15min",
+                    "iconFortAwesomeClass": "fa fa-car"
+                  },
+                  {
+                    "textOnMouseOver": "lungime",
+                    "text": "10km",
+                    "iconFortAwesomeClass": "fa fa-arrows-h"
+                  }
+                ]
               }
-            ]
-          }
-        ]
+            }
+          ]
+        }
       }
     },
     {

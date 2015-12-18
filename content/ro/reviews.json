@@ -32,22 +32,24 @@
         "addLinkInPageHeadline": true
       },
       "content": {
-        "articles": [
-          {
-            "category": "reviews",
-            "ids": [
-              {
-                "id": "1"
-              },
-              {
-                "id": "2"
-              },
-              {
-                "id": "3"
-              }
-            ]
-          }
-        ]
+        "articles": {
+          "commonArticles": [
+            {
+              "category": "reviews",
+              "ids": [
+                {
+                  "id": "1"
+                },
+                {
+                  "id": "2"
+                },
+                {
+                  "id": "3"
+                }
+              ]
+            }
+          ]
+        }
       }
     },
     {

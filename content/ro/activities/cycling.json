@@ -6,7 +6,7 @@
     "headlineImg": "/casapetri/img/activities/cycling/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "textOnMouseOver" : "Vezi traseele de bicicletă",
+      "textOnMouseOver": "Vezi traseele de bicicletă",
       "link": "#/activities/cycling",
       "openInNewTab": false
     },
@@ -32,16 +32,16 @@
         "addLinkInPageHeadline": true
       },
       "content": {
-        "articles": [
-          {
-            "category": "pageIntros",
-            "ids": [
-              {
-                "id": "cycling"
-              }
-            ]
-          }
-        ]
+        "articles": {
+          "specificArticles": [
+            {
+              "title": "",
+              "textContent": "to add",
+              "moreDetailsLink": "https://www.facebook.com/calin.capros",
+              "moreDetailsText": "Pentru mai multe detalii despre trasee bicicletă, îl puteți contacta pe Călin Caproș"
+            }
+          ]
+        }
       }
     },
     {
@@ -103,7 +103,6 @@
             "timeInterval": "12000",
             "page": "recommendations/daffodilMeadow"
           }
-
         ]
       }
     },

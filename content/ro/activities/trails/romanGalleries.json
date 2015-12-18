@@ -32,37 +32,38 @@
         "addLinkInPageHeadline": true
       },
       "content": {
-        "articles" : [
-          {
-            "type": "specificArticle",
-            "textContent": "Traseul ne va purta spre celebrele galerii romane de la Muzeul Mineritului. Drumul de la Casa Petri până la Galeriile Romane este asfaltat, iar partea a 2-a traseului spre biserica Greco Catolică și sculpturi până înapoi la casa Petri este pe drum de țară.",
-            "map": {
-              "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJmREpqBvNTkcR0-GMtovthj8&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Biserica Adormirea Maicii Domnului, Strada Principală 175, Roșia Montană 517615 | Biserica Greco-Catolică Adormirea Maicii Domnului, Roșia Montană | Orlea, Roșia Montană, Alba County, Romania | Sculpturi Calcar, DC147, Roșia Montană 517615 | Casa Petri, DC146 334, Roșia Montană 517615",
-              "indicationsBoxes": [
-                {
-                  "textOnMouseOver": "durată",
-                  "text": "3h",
-                  "iconFortAwesomeClass": "fa fa-clock-o"
-                },
-                {
-                  "textOnMouseOver": "lungime dus-întors",
-                  "text": "6km",
-                  "iconFortAwesomeClass": "fa fa-arrows-h"
-                },
-                {
-                  "textOnMouseOver": "dificultate",
-                  "text": "ușor",
-                  "iconFortAwesomeClass": "fa fa-line-chart"
-                },
-                {
-                  "textOnMouseOver": "indicații",
-                  "text": "bocanci de munte și pelerină",
-                  "iconFortAwesomeClass": "fa fa-check-square-o"
-                }
-              ]
+        "articles": {
+          "specificArticles": [
+            {
+              "textContent": "Traseul ne va purta spre celebrele galerii romane de la Muzeul Mineritului. Drumul de la Casa Petri până la Galeriile Romane este asfaltat, iar partea a 2-a traseului spre biserica Greco Catolică și sculpturi până înapoi la casa Petri este pe drum de țară.",
+              "map": {
+                "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJmREpqBvNTkcR0-GMtovthj8&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Biserica Adormirea Maicii Domnului, Strada Principală 175, Roșia Montană 517615 | Biserica Greco-Catolică Adormirea Maicii Domnului, Roșia Montană | Orlea, Roșia Montană, Alba County, Romania | Sculpturi Calcar, DC147, Roșia Montană 517615 | Casa Petri, DC146 334, Roșia Montană 517615",
+                "indicationsBoxes": [
+                  {
+                    "textOnMouseOver": "durată",
+                    "text": "3h",
+                    "iconFortAwesomeClass": "fa fa-male-o"
+                  },
+                  {
+                    "textOnMouseOver": "lungime dus-întors",
+                    "text": "6km",
+                    "iconFortAwesomeClass": "fa fa-arrows-h"
+                  },
+                  {
+                    "textOnMouseOver": "dificultate",
+                    "text": "ușor",
+                    "iconFortAwesomeClass": "fa fa-line-chart"
+                  },
+                  {
+                    "textOnMouseOver": "indicații",
+                    "text": "bocanci de munte și pelerină",
+                    "iconFortAwesomeClass": "fa fa-check-square-o"
+                  }
+                ]
+              }
             }
-          }
-        ]
+          ]
+        }
       }
     },
     {
@@ -74,23 +75,24 @@
         "addLinkInPageHeadline": true
       },
       "content": {
-        "articles": [
-          {
-            "type": "commonArticles",
-            "category": "attractions",
-            "ids": [
-              {
-                "id": "romanGalleries"
-              },
-              {
-                "id": "grecoCatholicChurch"
-              },
-              {
-                "id": "limestoneSculptures"
-              }
-            ]
-          }
-        ]
+        "articles": {
+          "commonArticles": [
+            {
+              "category": "attractions",
+              "ids": [
+                {
+                  "id": "romanGalleries"
+                },
+                {
+                  "id": "grecoCatholicChurch"
+                },
+                {
+                  "id": "limestoneSculptures"
+                }
+              ]
+            }
+          ]
+        }
       }
     },
     {

@@ -15,6 +15,7 @@ var app = angular.module('appFunctionality', ['ngRoute', 'ngAnimate', 'ui.bootst
 app.run(function ($rootScope, $window, $anchorScroll, $location, $http) {
     //set a function for opening any url in new or same tab
     $rootScope.openUrl = function (url) {
+        debugger;
         if (typeof(url.openInNewTab) !== 'undefined' && url.openInNewTab) {
             $window.open(url.link, '_blank');
         } else {
@@ -39,7 +40,6 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http) {
     }
     //get Articles function
     $rootScope.getArticles = function(categoryArticles, idsOfTheNeededArticles) {
-        debugger;
         var path = '/casaPetri/content/' + $rootScope.userLanguage + '/common/articles/' + categoryArticles + '.json';
         var neededArticlesIds = [];
         $.each(idsOfTheNeededArticles, function (key, neededArticle) {
@@ -116,12 +116,10 @@ app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http) {
 
 app.controller('FooterCtrl', function ($scope, $rootScope, $http) {
     var reviewsPath = '/casaPetri/content/' + $rootScope.userLanguage + '/reviews.json';
-    debugger;
     $http.get(reviewsPath).success(function (reviewContent) {
         $scope.reviewContent = reviewContent;
-        $scope.reviews = $rootScope.getArticles(reviewContent.sections[0].content.articles[0].category, reviewContent.sections[0].content.articles[0].ids);
+        $scope.reviews = $rootScope.getArticles(reviewContent.sections[0].content.articles.commonArticles[0].category, reviewContent.sections[0].content.articles.commonArticles[0].ids);
     });
-    debugger;
     var footerContentPath = '/casaPetri/content/' + $rootScope.userLanguage + '/common/footer.json';
     $http.get(footerContentPath).success(function (footerContentResult) {
         $scope.footerContent = footerContentResult;
@@ -135,9 +133,8 @@ app.controller('GetPagePresentationCtrl', function ($scope, $rootScope, $http) {
     });
 });
 
-app.controller('GetArticlesCtrl', function ($scope, $rootScope) {
+app.controller('GetCategoryArticlesCtrl', function ($scope, $rootScope) {
     $scope.categoryArticles = $rootScope.getArticles($scope.categoryArticles.category, $scope.categoryArticles.ids);
-
 });
 
 /**

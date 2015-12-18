@@ -1,0 +1,29 @@
+<article class="defaultArticle anchorParent">
+    <header ng-if="!!article.title" class="articleTitle">
+        <h3><span ng-bind="article.title"></span></h3>
+    </header>
+    <section ng-if="!!article.textContent" class="defaultArticleText">
+        <span ng-bind-html="article.textContent | trustHtml"></span>
+        <a ng-if="!!article.moreDetailsLink" ng-href="{{article.moreDetailsLink}}" class="btn-link" target="_blank">{{article.moreDetailsText}}</i></a>
+    </section>
+    <section ng-if="!!article.images">
+        <figure ng-repeat="image in article.images" class="photoAlbum defaultClickStyle">
+            <a rel="fancybox" title="{{image.title}} - {{image.description}}" class="fancybox"
+               ng-href="{{image.fullSizeUrl}}">
+                <img ng-src="{{image.thumbnailUrl | trustUrl}}" alt="{{image.title}}">
+                <figcaption><b> {{image.title}} </b> - {{image.description}}</figcaption>
+            </a>
+        </figure>
+    </section>
+    <section ng-if="!!article.map">
+        <iframe class="trailMap" frameborder="0" ng-src="{{article.map.iframeSrc | trustUrl}}" allowfullscreen></iframe>
+        <div class="trailIndicators">
+            <p ng-repeat="indicationBox in article.map.indicationsBoxes" title="{{indicationBox.textOnMouseOver}}">
+                <i ng-class="indicationBox.iconFortAwesomeClass"></i>
+                {{indicationBox.text}}
+            </p>
+        </div>
+    </section>
+</article>
+
+
