@@ -9,12 +9,7 @@
       "link": "#/",
       "textOnMouseOver": "homepage",
       "openInNewTab": false
-    },
-    "carouselAdvertise": [
-      {
-        "img": ""
-      }
-    ]
+    }
   },
   "sections": [
     {
@@ -23,7 +18,7 @@
         "timeInterval": "12000",
         "slides": [
           {
-            "page": "/accommodation/rooms"
+            "page": "/activities/trails/romanGalleries"
           },
           {
             "page": "/accommodation/camping"

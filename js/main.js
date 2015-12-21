@@ -120,8 +120,11 @@ app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http) {
 app.controller('FooterCtrl', function ($scope, $rootScope, $http) {
     var reviewsPath = '/casaPetri/content/' + $rootScope.userLanguage + '/reviews.json';
     $http.get(reviewsPath).success(function (reviewContent) {
-        $scope.reviewContent = reviewContent;
-        $scope.reviews = $rootScope.getArticles(reviewContent.sections[1].commonArticles[0].category, reviewContent.sections[1].commonArticles[0].ids);
+        $scope.reviewPresentation = reviewContent.presentation;
+    });
+    var reviewsPath = '/casaPetri/content/' + $rootScope.userLanguage + '/common/articles/reviews.json';
+    $http.get(reviewsPath).success(function (reviews) {
+        $scope.reviews = reviews;
     });
     var footerContentPath = '/casaPetri/content/' + $rootScope.userLanguage + '/common/footer.json';
     $http.get(footerContentPath).success(function (footerContentResult) {
