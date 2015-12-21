@@ -44,7 +44,7 @@
         "required": true
       },
       {
-        "type": "textRow",
+        "type": "email",
         "name": "email",
         "rows": 1,
         "iconFortAwesomeClass": "fa fa-user fa-fw",

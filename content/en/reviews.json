@@ -25,7 +25,7 @@
       "title": "Impresii",
       "addButtonInHeader": "true",
       "iconFortAwesomeClass": "fa fa-commenting",
-      "content": {
+      {
         "articles": [
           {
             "title": "Nastasia - Barcelona(SP)",

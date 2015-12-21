@@ -7,7 +7,7 @@
     "showPageHeadline": true,
     "url": {
       "link": "#/accommodation/facilities",
-      "textOnMouseOver" : "Vezi facilități",
+      "textOnMouseOver": "Vezi facilități",
       "openInNewTab": false
     },
     "carouselAdvertise": [
@@ -18,145 +18,139 @@
   },
   "sections": [
     {
-      "title": {
-        "text": "Cosy Spots",
-        "iconFortAwesomeClass": "fa fa-heart",
-        "showSectionTitle": true,
-        "sectionId": "cosySpots",
-        "addLinkInPageHeadline": true
-      },
-      "content": {
-        "articles": {
-          "specificArticles": [
+      "type": "title",
+      "text": "Cosy Spots",
+      "iconFortAwesomeClass": "fa fa-heart",
+      "sectionId": "cosySpots",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "",
+          "images": [
             {
-              "title": "",
-              "textContent": "",
-              "images": [
-                {
-                  "title": "Căsuța de vară",
-                  "description": "Poate ploua si nu poti sta afara. Aici puteti lua masa, urmari un film sau sa jucati un board game. Ai jucat vreodata Saboteour in localitate cu peste 150km de galerii subterane? Poate nu e ca si cataratul pe munte dar e o senzatie si asta...",
-                  "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/livingroom.jpg",
-                  "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/livingroom.jpg"
-                },
-                {
-                  "title": "Măsuța de cafea din târnațd",
-                  "description": "Tarnatul e specific caselor din zona, e un hol cu gemulete mici de lemn. Bunicii nostrii obisnuiau de dimineata sa isi bea cafeaua aici si sa lase putin geamul crapat pentru a intra aer curat ca sa se trezeasca usor",
-                  "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/coffeeTable.jpg",
-                  "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/coffeeTable.jpg"
-                },
-                {
-                  "title": "Ușa cu cărțdi",
-                  "description": "Un locusor improvizat plin cu carti vechi. Daca iti place sa simti mirosul cartilor atunci cand citesti acesta e locul tau",
-                  "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/doorBook.jpg",
-                  "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/doorBook.jpg"
-                },
-                {
-                  "title": "Locusoarele dintre cufarale cu reviste vechi",
-                  "description": "Ce tot vrei sa fii la curent cu stirile de actualitate?! Lasa ca faci asta la job ... Aici poti rasfoi carti, reviste, ziare vechi. Nu rata colectia de ziare cu Rosia Monatana",
-                  "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/booksPlaces.jpg",
-                  "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/booksPlaces.jpg"
-                },
-                {
-                  "title": "Leneveala in hamac",
-                  "description": "Da ce are daca merg la munte si lenevesc intr-un hamac pe facebook? Daca tot am gasit free wifi ... ",
-                  "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/hammock.jpg",
-                  "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/hammock.jpg"
-                },
-                {
-                  "title": "Masuta din foisor",
-                  "description": "Cu priveliste spre masivul Carnic, e numa buna de stat la povesti, inchinat pahare de tuica sau luat masa inainte de a pleca pe traseu",
-                  "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/pavilion.jpg",
-                  "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/pavilion.jpg"
-                },
-                {
-                  "title": "Dulapul cu carti",
-                  "description": "Ca tot nu am mai folosit acest bufet de bucatarie am zis sa nu il aruncam ci sa il transformam in ceva. Cum aveam multe carti...a devenit biblioteca. Dulapiorul mic de langa este cu carti pentru copii.",
-                  "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/booksCloset.jpg",
-                  "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/booksCloset.jpg"
-                }
-              ]
+              "title": "Căsuța de vară",
+              "description": "Poate ploua si nu poti sta afara. Aici puteti lua masa, urmari un film sau sa jucati un board game. Ai jucat vreodata Saboteour in localitate cu peste 150km de galerii subterane? Poate nu e ca si cataratul pe munte dar e o senzatie si asta...",
+              "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/livingroom.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/livingroom.jpg"
+            },
+            {
+              "title": "Măsuța de cafea din târnațd",
+              "description": "Tarnatul e specific caselor din zona, e un hol cu gemulete mici de lemn. Bunicii nostrii obisnuiau de dimineata sa isi bea cafeaua aici si sa lase putin geamul crapat pentru a intra aer curat ca sa se trezeasca usor",
+              "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/coffeeTable.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/coffeeTable.jpg"
+            },
+            {
+              "title": "Ușa cu cărțdi",
+              "description": "Un locusor improvizat plin cu carti vechi. Daca iti place sa simti mirosul cartilor atunci cand citesti acesta e locul tau",
+              "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/doorBook.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/doorBook.jpg"
+            },
+            {
+              "title": "Locusoarele dintre cufarale cu reviste vechi",
+              "description": "Ce tot vrei sa fii la curent cu stirile de actualitate?! Lasa ca faci asta la job ... Aici poti rasfoi carti, reviste, ziare vechi. Nu rata colectia de ziare cu Rosia Monatana",
+              "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/booksPlaces.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/booksPlaces.jpg"
+            },
+            {
+              "title": "Leneveala in hamac",
+              "description": "Da ce are daca merg la munte si lenevesc intr-un hamac pe facebook? Daca tot am gasit free wifi ... ",
+              "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/hammock.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/hammock.jpg"
+            },
+            {
+              "title": "Masuta din foisor",
+              "description": "Cu priveliste spre masivul Carnic, e numa buna de stat la povesti, inchinat pahare de tuica sau luat masa inainte de a pleca pe traseu",
+              "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/pavilion.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/pavilion.jpg"
+            },
+            {
+              "title": "Dulapul cu carti",
+              "description": "Ca tot nu am mai folosit acest bufet de bucatarie am zis sa nu il aruncam ci sa il transformam in ceva. Cum aveam multe carti...a devenit biblioteca. Dulapiorul mic de langa este cu carti pentru copii.",
+              "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/booksCloset.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/booksCloset.jpg"
             }
           ]
         }
-      }
+      ]
     },
     {
-      "title": {
-        "text": "Utile",
-        "iconFortAwesomeClass": "fa fa-umbrella",
-        "showSectionTitle": true,
-        "sectionId": "utils",
-        "addLinkInPageHeadline": true
-      },
-      "content": {
-        "listOfItems": [
-          {
-            "title": "Wifi gratuit",
-            "iconFortAwesomeClass": "fa fa-wifi",
-            "details": ""
-          },
-          {
-            "title": "Bucătarie",
-            "iconFortAwesomeClass": "fa fa-cutlery",
-            "details": " - frigider, cuptor , aragaz, vesela"
-          },
-          {
-            "title": "Board games",
-            "iconFortAwesomeClass": "fa fa-futbol-o",
-            "details": "Saboteour, Carcasone, Activity..."
-          },
-          {
-            "title": "Parcare gratuita",
-            "iconFortAwesomeClass": "fa fa-car",
-            "details": ""
-          },
-          {
-            "title": "Ecran videoproiector",
-            "iconFortAwesomeClass": "fa fa-television",
-            "details": ""
-          },
-          {
-            "title": "Informatii turistice",
-            "iconFortAwesomeClass": "fa fa-info-circle",
-            "details": ""
-          },
-          {
-            "title": "Garaj biciclete",
-            "iconFortAwesomeClass": "fa fa-bicycle",
-            "details": ""
-          }
-        ]
-      }
+      "type": "title",
+      "text": "Utile",
+      "iconFortAwesomeClass": "fa fa-umbrella",
+      "sectionId": "utils",
+      "addLinkInPageHeadline": true
     },
     {
-      "title": {
-        "text": "Vezi și",
-        "iconFortAwesomeClass": "fa fa-coffee",
-        "showSectionTitle": true,
-        "sectionId": "accommodation",
-        "addLinkInPageHeadline": false
-      },
-      "content": {
-        "advertiseBoxesToOtherPagesCarousels": [
-          {
-            "timeInterval": "12000",
-            "page": "/accommodation/rooms"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "/accommodation/camping"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "/activities/hiking"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "/activities/cycling"
-          }
-        ]
-      }
+      "type": "listOfItems",
+      "items": [
+        {
+          "title": "Wifi gratuit",
+          "iconFortAwesomeClass": "fa fa-wifi",
+          "details": ""
+        },
+        {
+          "title": "Bucătarie",
+          "iconFortAwesomeClass": "fa fa-cutlery",
+          "details": " - frigider, cuptor , aragaz, vesela"
+        },
+        {
+          "title": "Board games",
+          "iconFortAwesomeClass": "fa fa-futbol-o",
+          "details": "Saboteour, Carcasone, Activity..."
+        },
+        {
+          "title": "Parcare gratuita",
+          "iconFortAwesomeClass": "fa fa-car",
+          "details": ""
+        },
+        {
+          "title": "Ecran videoproiector",
+          "iconFortAwesomeClass": "fa fa-television",
+          "details": ""
+        },
+        {
+          "title": "Informatii turistice",
+          "iconFortAwesomeClass": "fa fa-info-circle",
+          "details": ""
+        },
+        {
+          "title": "Garaj biciclete",
+          "iconFortAwesomeClass": "fa fa-bicycle",
+          "details": ""
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Vezi și",
+      "iconFortAwesomeClass": "fa fa-coffee",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/rooms"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/camping"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/hiking"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/cycling"
+        }
+      ]
     }
   ]
-
 }

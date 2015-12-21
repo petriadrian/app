@@ -188,21 +188,21 @@ body {
     margin: 10px 0px;
 }
 
-.pageBanner {
+.banner {
     padding: 1%;
     margin: 20px 0px 0px 0px;
 }
 
-.pageBanner h1 {
+.banner h1 {
     font-size: 2em;
 }
 
-.pageBanner p {
+.banner p {
     font-size: 1.2em;
 }
 
 
-.pageBanner img {
+.banner img {
     width: 100%;
 }
 
@@ -433,7 +433,7 @@ footer .row section{
         min-height: 230px;
     }
 
-    .pageBanner img,
+    .banner img,
     .pageIntro img {
         width: 140%;
     }
@@ -451,7 +451,7 @@ footer .row section{
         min-height: 250px;
     }
 
-    .pageBanner img,
+    .banner img,
     .pageIntro img {
         display:block;
         width: 120%;

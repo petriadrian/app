@@ -24,130 +24,122 @@
   },
   "sections": [
     {
-      "title": {
-        "text": "Traseu",
-        "iconFortAwesomeClass": "fa fa-map-signs",
-        "showSectionTitle": true,
-        "sectionId": "details",
-        "addLinkInPageHeadline": true
-      },
-      "content": {
-        "articles": {
-          "specificArticles": [
-            {
-              "textContent": "Aceasta este varianta mai lungă a traseului 'Stația Meteo'. Pornim de la Casa Petri din Centrul istoric spre plaiurile Țarinii. Când crezi că urcușul nu se mai termină odată, îți apare în față Tăul Țarinii, numai bun să te răcorești puțin cu apă rece de munte. Pornim apoi spre Vârful Rotundu la Stația Meteo. De aici toată valea Roșiei Montne se deschide în fața ta. Apoi cobori printr-o pădure de brazi până dai de vechiul drum miner pe care urci până la Cariera Roșia Poieni. În dreapta o sa vezi Tăul Mare. De la Carieră o iei puțin la vale până ajungi la o potecă ce duce la masivului Lety și Sulei. După ce te saturi de admirat priveliștea o iei pe un drum de piatră până la Tăul Corna. Ne întoarcem apoi pe lângă Piatra Corbului spre Tăul Brazi, ultimul popas înainte de a ajunge acasă.",
-              "moreDetailsText": "Aici gasiți același traseu și pe bikemap.net...",
-              "moreDetailsLink": "http://www.bikemap.net/en/route/2757824-circuit-tauri-rosia-montana/#/z14/46.30656,23.14124/terrain",
-              "map": {
-                "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Tăul Țarinii, Rosia Montana, Alba County, Romania| Staţie meteo, Rosia Montana, Alba County, Romania | Vârful Rotundu 1240m, Rosia Montana, Alba County, Romania | Tăul Mare, Rosia Montana, Alba County, Romania | Masivul Şulei, Rosia Montana, Alba County, Romania | Tăul Corna,comuna Rosia Montana, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Tăul Anghel, Rosia Montana, Alba County, Romania | Jig-Vaidoaia, Rosia Montana, Alba County, Romania | Casa Petri Rosia Montana, Historical center, nr. 334, Roșia Montană 517615",
-                "indicationsBoxes": [
-                  {
-                    "textOnMouseOver": "durată pe jos",
-                    "text": "7h",
-                    "iconFortAwesomeClass": "fa fa-male"
-                  },
-                  {
-                    "textOnMouseOver": "durată cu bicicleta",
-                    "text": "4h",
-                    "iconFortAwesomeClass": "fa fa-bicycle"
-                  },
-                  {
-                    "textOnMouseOver": "lungime dus-întors",
-                    "text": "16km",
-                    "iconFortAwesomeClass": "fa fa-arrows-h"
-                  },
-                  {
-                    "textOnMouseOver": "dificultate",
-                    "text": "ușor",
-                    "iconFortAwesomeClass": "fa fa-line-chart"
-                  }
-                ]
+      "type": "title",
+      "text": "Traseu",
+      "iconFortAwesomeClass": "fa fa-map-signs",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Aceasta este varianta mai lungă a traseului 'Stația Meteo'. Pornim de la Casa Petri din Centrul istoric spre plaiurile Țarinii. Când crezi că urcușul nu se mai termină odată, îți apare în față Tăul Țarinii, numai bun să te răcorești puțin cu apă rece de munte. Pornim apoi spre Vârful Rotundu la Stația Meteo. De aici toată valea Roșiei Montne se deschide în fața ta. Apoi cobori printr-o pădure de brazi până dai de vechiul drum miner pe care urci până la Cariera Roșia Poieni. În dreapta o sa vezi Tăul Mare. De la Carieră o iei puțin la vale până ajungi la o potecă ce duce la masivului Lety și Sulei. După ce te saturi de admirat priveliștea o iei pe un drum de piatră până la Tăul Corna. Ne întoarcem apoi pe lângă Piatra Corbului spre Tăul Brazi, ultimul popas înainte de a ajunge acasă.",
+          "moreDetailsText": "Aici gasiți același traseu și pe bikemap.net...",
+          "moreDetailsLink": "http://www.bikemap.net/en/route/2757824-circuit-tauri-rosia-montana/#/z14/46.30656,23.14124/terrain",
+          "map": {
+            "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Tăul Țarinii, Rosia Montana, Alba County, Romania| Staţie meteo, Rosia Montana, Alba County, Romania | Vârful Rotundu 1240m, Rosia Montana, Alba County, Romania | Tăul Mare, Rosia Montana, Alba County, Romania | Masivul Şulei, Rosia Montana, Alba County, Romania | Tăul Corna,comuna Rosia Montana, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Tăul Anghel, Rosia Montana, Alba County, Romania | Jig-Vaidoaia, Rosia Montana, Alba County, Romania | Casa Petri Rosia Montana, Historical center, nr. 334, Roșia Montană 517615",
+            "indicationsBoxes": [
+              {
+                "textOnMouseOver": "durată pe jos",
+                "text": "7h",
+                "iconFortAwesomeClass": "fa fa-male"
+              },
+              {
+                "textOnMouseOver": "durată cu bicicleta",
+                "text": "4h",
+                "iconFortAwesomeClass": "fa fa-bicycle"
+              },
+              {
+                "textOnMouseOver": "lungime dus-întors",
+                "text": "16km",
+                "iconFortAwesomeClass": "fa fa-arrows-h"
+              },
+              {
+                "textOnMouseOver": "dificultate",
+                "text": "ușor",
+                "iconFortAwesomeClass": "fa fa-line-chart"
               }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "title": {
-        "text": "Atracții",
-        "iconFortAwesomeClass": "fa fa-star",
-        "showSectionTitle": true,
-        "sectionId": "map",
-        "addLinkInPageHeadline": true
-      },
-      "content": {
-        "articles": {
-          "commonArticles": [
-            {
-              "category": "attractions",
-              "ids": [
-                {
-                  "id": "tariniLake"
-                },
-                {
-                  "id": "weatherStation"
-                },
-                {
-                  "id": "bigLake"
-                },
-                {
-                  "id": "letySulei"
-                },
-                {
-                  "id": "cornaLake"
-                },
-                {
-                  "id": "braziLake"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "title": {
-        "text": "Gata traseul? Îți recomandam și:",
-        "iconFortAwesomeClass": "fa fa-child",
-        "showSectionTitle": true,
-        "sectionId": "nextTrail",
-        "addLinkInPageHeadline": false
-      },
-      "content": {
-        "pageBanner": {
-          "page": "/activities/trails/romanGalleries"
-        }
-      }
-    },
-    {
-      "title": {
-        "text": "Vezi și",
-        "iconFortAwesomeClass": "fa fa-coffee",
-        "showSectionTitle": true,
-        "sectionId": "accommodation",
-        "addLinkInPageHeadline": false
-      },
-      "content": {
-        "advertiseBoxesToOtherPagesCarousels": [
-          {
-            "timeInterval": "12000",
-            "page": "/accommodation/rooms"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "/accommodation/camping"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "/activities/hiking"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "/activities/cycling"
+            ]
           }
-        ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Atracții",
+      "iconFortAwesomeClass": "fa fa-star",
+      "sectionId": "map",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "tariniLake"
+            },
+            {
+              "id": "weatherStation"
+            },
+            {
+              "id": "bigLake"
+            },
+            {
+              "id": "letySulei"
+            },
+            {
+              "id": "cornaLake"
+            },
+            {
+              "id": "braziLake"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Gata traseul? Îți recomandam și:",
+      "iconFortAwesomeClass": "fa fa-child",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "banner": {
+        "page": "/activities/trails/romanGalleries"
       }
+    },
+    {
+      "type": "title",
+      "text": "Vezi și",
+      "iconFortAwesomeClass": "fa fa-coffee",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/rooms"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/camping"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/hiking"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/cycling"
+        }
+      ]
     }
   ]
 }

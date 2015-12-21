@@ -18,111 +18,106 @@
   },
   "sections": [
     {
-      "title": {
-        "text": "Carousel",
-        "iconFortAwesomeClass": "",
-        "showSectionTitle": false,
-        "sectionId": "centralCarousel",
-        "addLinkInPageHeadline": false
-      },
-      "content": {
-        "centralCarousel": {
-          "timeInterval": "12000",
-          "slides": [
-            {
-              "page": "/accommodation/rooms"
-            },
-            {
-              "page": "/accommodation/camping"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "title": {
-        "text": "Unde stau?",
-        "iconFortAwesomeClass": "fa fa-bed",
-        "showSectionTitle": true,
-        "sectionId": "accommodation",
-        "addLinkInPageHeadline": false
-      },
-      "content": {
-        "advertiseBoxesToOtherPagesCarousels": [
+      "type": "advertise",
+      "centralCarousel": {
+        "timeInterval": "12000",
+        "slides": [
           {
-            "timeInterval": "12000",
             "page": "/accommodation/rooms"
           },
           {
-            "timeInterval": "12000",
             "page": "/accommodation/camping"
-          }
-        ],
-        "pageBanner": {
-          "page": "/accommodation/facilities"
-        }
-      }
-    },
-    {
-      "title": {
-        "text": "Ce fac acolo?",
-        "iconFortAwesomeClass": "fa fa-bicycle",
-        "showSectionTitle": true,
-        "addLinkInPageHeadline": false,
-        "sectionId": "activities"
-      },
-      "content": {
-        "advertiseBoxesToOtherPagesCarousels": [
-          {
-            "timeInterval": "12000",
-            "page": "/activities/hiking"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "/activities/cycling"
-          }
-        ],
-        "pageBanner": {
-          "page": "/activities/trails/topAttractions"
-        }
-      }
-    },
-    {
-      "title": {
-        "text": "De neratat!",
-        "iconFortAwesomeClass": "fa fa-calendar",
-        "showSectionTitle": true,
-        "sectionId": "recommendations",
-        "addLinkInPageHeadline": false
-      },
-      "content": {
-        "advertiseBoxesToOtherPagesCarousels": [
-          {
-            "page": "/recommendations/festival"
-          },
-          {
-            "page": "/recommendations/marathon"
-          },
-          {
-            "page": "/recommendations/monumentsRestorations"
-          },
-          {
-            "page": "/recommendations/steamTrain"
-          },
-          {
-            "page": "/recommendations/daffodilMeadow"
-          },
-          {
-            "page": "/recommendations/firstMai"
-          },
-          {
-            "page": "/recommendations/scoutsOng"
-          },
-          {
-            "page": "/recommendations/souvenirShop"
           }
         ]
       }
+    },
+    {
+      "type": "title",
+      "text": "Unde stau?",
+      "iconFortAwesomeClass": "fa fa-bed",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/rooms"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/camping"
+        }
+      ]
+    },
+    {
+      "type": "advertise",
+      "banner": {
+        "page": "/accommodation/facilities"
+      }
+    },
+    {
+      "type": "title",
+      "text": "Ce fac acolo?",
+      "iconFortAwesomeClass": "fa fa-bicycle",
+      "addLinkInPageHeadline": false,
+      "sectionId": "activities"
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/activities/hiking"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/cycling"
+        }
+      ]
+    },
+    {
+      "type": "advertise",
+      "banner": {
+        "page": "/activities/trails/topAttractions"
+      }
+    },
+    {
+      "type": "title",
+      "text": "De neratat!",
+      "iconFortAwesomeClass": "fa fa-calendar",
+      "sectionId": "recommendations",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "page": "/recommendations/festival"
+        },
+        {
+          "page": "/recommendations/marathon"
+        },
+        {
+          "page": "/recommendations/monumentsRestorations"
+        },
+        {
+          "page": "/recommendations/steamTrain"
+        },
+        {
+          "page": "/recommendations/daffodilMeadow"
+        },
+        {
+          "page": "/recommendations/firstMai"
+        },
+        {
+          "page": "/recommendations/scoutsOng"
+        },
+        {
+          "page": "/recommendations/souvenirShop"
+        }
+      ]
     }
   ]
 }

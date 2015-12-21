@@ -24,112 +24,106 @@
   },
   "sections": [
     {
-      "title": {
-        "text": "Detalii",
-        "iconFortAwesomeClass": "fa fa-info-circle",
-        "showSectionTitle": true,
-        "sectionId": "details",
-        "addLinkInPageHeadline": true
-      },
-      "content": {
-        "articles": {
-          "specificArticles": [
-            {
-              "title": "",
-              "textContent": "Ne place localitatea noastră. E înconjurată de munți, văi, lacuri, biserici, clădiri de patrimoniu, galerii antice ... abia așteptăm să o descoperi și tu! Așa că de vi la Roșia nu vizita doar muzeul și magazinul din centru, pentru că zona are mult mai mult de oferit. <br> Am organizat traseele în 'scurte' și 'lungi'. Timpul indicat pentru un traseu reprezintă durata traseului dus - întors  de la Casa Petri. Traseele 'scurte' le-am organizat în așa fel încât să vă alegeți un traseu de ~2h pe care să îl faceți de dimineță, apoi să vă întoarceți la Casa Petri să mâncați și să vă odihniți iar apoi să plecați pe un traseu de ~4h. Traseele 'lungi' o să vă cam ia o zi întegă (în funcție de condiția fizică). Puteți face zoom pe hărți sau să le vedeți în mod satelit sau hartă deoarece sunt reealizate pe google maps astfel că pot fi accesate de pe orice telefon mobil sau tabletă pentru a le lua cu voi în timpul drumeției.",
-              "moreDetailsLink": "https://turismlarosiamontana.wordpress.com/about",
-              "moreDetailsText": "Se organizează și tururi ghidate. Mai multe detalii aici..."
-            }
-          ]
+      "type": "title",
+      "text": "Detalii",
+      "iconFortAwesomeClass": "fa fa-info-circle",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Ne place localitatea noastră. E înconjurată de munți, văi, lacuri, biserici, clădiri de patrimoniu, galerii antice ... abia așteptăm să o descoperi și tu! Așa că de vi la Roșia nu vizita doar muzeul și magazinul din centru, pentru că zona are mult mai mult de oferit. <br> Am organizat traseele în 'scurte' și 'lungi'. Timpul indicat pentru un traseu reprezintă durata traseului dus - întors  de la Casa Petri. Traseele 'scurte' le-am organizat în așa fel încât să vă alegeți un traseu de ~2h pe care să îl faceți de dimineță, apoi să vă întoarceți la Casa Petri să mâncați și să vă odihniți iar apoi să plecați pe un traseu de ~4h. Traseele 'lungi' o să vă cam ia o zi întegă (în funcție de condiția fizică). Puteți face zoom pe hărți sau să le vedeți în mod satelit sau hartă deoarece sunt reealizate pe google maps astfel că pot fi accesate de pe orice telefon mobil sau tabletă pentru a le lua cu voi în timpul drumeției.",
+          "moreDetailsLink": "https://turismlarosiamontana.wordpress.com/about",
+          "moreDetailsText": "Se organizează și tururi ghidate. Mai multe detalii aici..."
         }
-      }
+      ]
     },
     {
-      "title": {
-        "text": "Trasee scurte",
-        "iconFortAwesomeClass": "fa fa-map-signs",
-        "showSectionTitle": true,
-        "sectionId": "shortTrails",
-        "addLinkInPageHeadline": true
-      },
-      "content": {
-        "advertiseBoxesToOtherPagesCarousels": [
-          {
-            "timeInterval": "12000",
-            "page": "/activities/trails/historicalCenter"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "/activities/trails/carnic"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "/activities/trails/romanGalleries"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "/activities/trails/weatherStation"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "/activities/trails/letySulei"
-          }
-        ]
-      }
+      "type": "title",
+      "text": "Trasee scurte",
+      "iconFortAwesomeClass": "fa fa-map-signs",
+      "sectionId": "shortTrails",
+      "addLinkInPageHeadline": true
     },
     {
-      "title": {
-        "text": "Trasee lungi",
-        "iconFortAwesomeClass": "fa fa-map-signs",
-        "showSectionTitle": true,
-        "sectionId": "longTrails",
-        "addLinkInPageHeadline": true
-      },
-      "content": {
-        "advertiseBoxesToOtherPagesCarousels": [
-          {
-            "timeInterval": "12000",
-            "page": "/activities/trails/detunata"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "/activities/trails/geamana"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "/activities/trails/topAttractions"
-          }
-        ]
-      }
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/activities/trails/historicalCenter"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/trails/carnic"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/trails/romanGalleries"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/trails/weatherStation"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/trails/letySulei"
+        }
+      ]
     },
     {
-      "title": {
-        "text": "Vezi și",
-        "iconFortAwesomeClass": "fa fa-coffee",
-        "showSectionTitle": true,
-        "sectionId": "accommodation",
-        "addLinkInPageHeadline": false
-      },
-      "content": {
-        "advertiseBoxesToOtherPagesCarousels": [
-          {
-            "timeInterval": "12000",
-            "page": "/accommodation/rooms"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "/accommodation/camping"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "/activities/hiking"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "/activities/cycling"
-          }
-        ]
-      }
+      "type": "title",
+      "text": "Trasee lungi",
+      "iconFortAwesomeClass": "fa fa-map-signs",
+      "sectionId": "longTrails",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/activities/trails/detunata"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/trails/geamana"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/trails/topAttractions"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Vezi și",
+      "iconFortAwesomeClass": "fa fa-coffee",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/rooms"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/camping"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/hiking"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/cycling"
+        }
+      ]
     }
   ]
 }

@@ -1,19 +1,25 @@
-<button ng-if="!!section.content.form.hideFormUnderButton" class="btn btn-large btn-primary buttonWithMargins"
+<button ng-if="!!section.hideFormUnderButton" class="btn btn-large btn-primary buttonWithMargins"
         onclick="toggleForm(this)">
-    {{section.content.form.hideFormUnderButton}} &nbsp&nbsp<i class="showHideForm fa fa-caret-down"></i>
+    {{section.hideFormUnderButton}} &nbsp&nbsp<i class="showHideForm fa fa-caret-down"></i>
 </button>
 <div style="clear:both"></div>
 
-<form method="post" role="form" ng-class="{'hideElement': section.content.form.hideFormUnderButton}"
+<form method="post" role="form" ng-class="{'hideElement': section.hideFormUnderButton}"
       class="col-xs-12 col-sm-12 col-md-10 col-lg-8 displayOnCenter"
-      onsubmit="section.content.form.action">
-    <div data-ng-repeat="field in section.content.form.fields" class="input-group">
+      onsubmit="section.action">
+    <div data-ng-repeat="field in section.fields" class="input-group">
         <span ng-if="!!field.iconFortAwesomeClass" class="input-group-addon"><i
                 ng-class="field.iconFortAwesomeClass"></i></span>
         <input ng-if="field.type == 'textRow'"
                type="text" class="form-control"
                name="{{field.name}}"
                maxlength="{{field.maxChars}}"
+               placeholder="{{field.placeholder}}"
+               ng-required="field.required"/>
+        <input ng-if="field.type == 'number'"
+               type="number" class="form-control"
+               name="{{field.name}}"
+               min="1" max="{{field.maxLimit}}"
                placeholder="{{field.placeholder}}"
                ng-required="field.required"/>
         <textarea ng-if="field.type == 'textarea'" class="form-control"
@@ -58,7 +64,7 @@
             </label>
         </div>
     </div>
-    <button type="submit" class="btn btn-primary">{{section.content.form.sendButtonText}}</button>
+    <button type="submit" class="btn btn-primary">{{section.sendButtonText}}</button>
 </form>
 
 <div style="clear:both"></div>

@@ -56,20 +56,20 @@
             {
               "title": "Camera cărților",
               "description": "interior cu biblioteca geamuri si masa, pereti piatra",
-              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/minersRoom/thumbnail/1.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/minersRoom/fullSize/1.jpg"
+              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room1/thumbnail/1.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room1/fullSize/1.jpg"
             },
             {
               "title": "Camera cărților",
               "description": "In vitrina din camera sunt poze vechi din Rosia, flori de mina si obiecte folosite in trecut in zona. Camera are 4 paturi separate tip bunck beds. La cerere se mai poate extinde canapeaua astfel se mai suplimenteaza cu inca un loc sau doua. Printr-o rezervare se rezerva toata camera.",
-              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/minersRoom/thumbnail/2.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/minersRoom/fullSize/2.jpg"
+              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room1/thumbnail/2.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room1/fullSize/2.jpg"
             },
             {
-              "title": "Camera cărților - Baie propie",
-              "description": "Incalzire prin boiler electric",
-              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/minersRoom/thumbnail/3.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/minersRoom/fullSize/3.jpg"
+              "title": "Camera cărților - baie propie",
+              "description": "Încălzire prin boiler electric",
+              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room1/thumbnail/3.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room1/fullSize/3.jpg"
             }
           ]
         }
@@ -159,30 +159,213 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "Camera cărților",
+          "title": "Camera din căsuță",
           "textContent": "",
           "images": [
             {
-              "title": "Camera cărților",
-              "description": "interior cu biblioteca geamuri si masa, pereti piatra",
-              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/minersRoom/thumbnail/1.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/minersRoom/fullSize/1.jpg"
+              "title": "Camera din căsuță",
+              "description": "interior cu paturile așezate pe mijloca",
+              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room2/thumbnail/1.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room2/fullSize/1.jpg"
             },
             {
-              "title": "Camera cărților",
-              "description": "In vitrina din camera sunt poze vechi din Rosia, flori de mina si obiecte folosite in trecut in zona. Camera are 4 paturi separate tip bunck beds. La cerere se mai poate extinde canapeaua astfel se mai suplimenteaza cu inca un loc sau doua. Printr-o rezervare se rezerva toata camera.",
-              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/minersRoom/thumbnail/2.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/minersRoom/fullSize/2.jpg"
+              "title": "Camera din căsuță",
+              "description": "cu casuța de afara",
+              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room2/thumbnail/2.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room2/fullSize/2.jpg"
             },
             {
-              "title": "Camera cărților - Baie propie",
-              "description": "Incalzire prin boiler electric",
-              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/minersRoom/thumbnail/3.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/minersRoom/fullSize/3.jpg"
+              "title": "Camera din căsuță - baie propie",
+              "description": "Încălzire prin boiler pe lemne",
+              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room2/thumbnail/3.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room2/fullSize/3.jpg"
             }
           ]
         }
       ]
+    },
+    {
+      "type": "form",
+      "action": "",
+      "sendButtonText": "Trimite",
+      "hideFormUnderButton": "Rezervă camera din căsuță",
+      "fields": [
+        {
+          "type": "textRow",
+          "name": "name",
+          "iconFortAwesomeClass": "fa fa-user fa-fw",
+          "placeholder": "Nume",
+          "maxChars": 30,
+          "required": true
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "placeholder": "Email",
+          "required": true
+        },
+        {
+          "type": "daterange",
+          "name": "period",
+          "iconFortAwesomeClass": "fa fa-calendar fa-fw",
+          "placeholder": "Alege perioada",
+          "required": true
+        },
+        {
+          "type": "selectBox",
+          "name": "seats",
+          "iconFortAwesomeClass": "fa fa-bed fa-fw",
+          "placeholder": "Număr de locuri și preț",
+          "selectOptions": [
+            {
+              "text": "1 loc - 60lei/noapte"
+            },
+            {
+              "text": "2 locuri - 110lei/noapte"
+            }
+          ]
+        },
+        {
+          "type": "checkBoxes",
+          "title": "Doresc:",
+          "checkBoxes": [
+            {
+              "text": "pat dublu în cameră"
+            },
+            {
+              "text": "parcare"
+            },
+            {
+              "text": "acces bucătărie"
+            },
+            {
+              "text": "garaj biciclete"
+            },
+            {
+              "text": "ecran videoproiector"
+            }
+          ]
+        },
+        {
+          "type": "textarea",
+          "name": "others",
+          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "placeholder": "Altele",
+          "rows": 3,
+          "maxChars": 350,
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Camera din târnaț",
+          "textContent": "",
+          "images": [
+            {
+              "title": "Camera din târnaț",
+              "description": "interior cu pereti",
+              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room3/thumbnail/1.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room3/fullSize/1.jpg"
+            },
+            {
+              "title": "Camera din târnaț",
+              "description": "cu casuța de afara",
+              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room3/thumbnail/2.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room3/fullSize/2.jpg"
+            },
+            {
+              "title": "Camera din târnaț - baie pe hol",
+              "description": "Încălzire prin boiler electric",
+              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room3/thumbnail/3.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room3/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "action": "",
+      "sendButtonText": "Trimite",
+      "hideFormUnderButton": "Rezervă camera din târnaț",
+      "fields": [
+        {
+          "type": "textRow",
+          "name": "name",
+          "iconFortAwesomeClass": "fa fa-user fa-fw",
+          "placeholder": "Nume",
+          "maxChars": 30,
+          "required": true
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "placeholder": "Email",
+          "required": true
+        },
+        {
+          "type": "daterange",
+          "name": "period",
+          "iconFortAwesomeClass": "fa fa-calendar fa-fw",
+          "placeholder": "Alege perioada",
+          "required": true
+        },
+        {
+          "type": "selectBox",
+          "name": "seats",
+          "iconFortAwesomeClass": "fa fa-bed fa-fw",
+          "placeholder": "Număr de locuri și preț",
+          "selectOptions": [
+            {
+              "text": "2 locuri - 150lei/noapte"
+            },
+            {
+              "text": "3 locuri - 200lei/noapte"
+            }
+          ]
+        },
+        {
+          "type": "checkBoxes",
+          "title": "Doresc:",
+          "checkBoxes": [
+            {
+              "text": "paturi separate în cameră"
+            },
+            {
+              "text": "parcare"
+            },
+            {
+              "text": "acces bucătărie și camera de zi"
+            },
+            {
+              "text": "garaj biciclete"
+            },
+            {
+              "text": "ecran videoproiector"
+            }
+          ]
+        },
+        {
+          "type": "textarea",
+          "name": "others",
+          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "placeholder": "Altele",
+          "rows": 3,
+          "maxChars": 350,
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "advertise",
+      "banner": {
+        "page": "/accommodation/facilities"
+      }
     },
     {
       "type": "title",
@@ -192,8 +375,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseBoxesToOtherPagesCarousels",
-      "boxes": [
+      "type": "advertise",
+      "carouselBoxes": [
         {
           "timeInterval": "12000",
           "page": "/accommodation/rooms"

@@ -15,7 +15,6 @@ var app = angular.module('appFunctionality', ['ngRoute', 'ngAnimate', 'ui.bootst
 app.run(function ($rootScope, $window, $anchorScroll, $location, $http) {
     //set a function for opening any url in new or same tab
     $rootScope.openUrl = function (url) {
-        debugger;
         if (typeof(url.openInNewTab) !== 'undefined' && url.openInNewTab) {
             $window.open(url.link, '_blank');
         } else {
@@ -122,7 +121,7 @@ app.controller('FooterCtrl', function ($scope, $rootScope, $http) {
     var reviewsPath = '/casaPetri/content/' + $rootScope.userLanguage + '/reviews.json';
     $http.get(reviewsPath).success(function (reviewContent) {
         $scope.reviewContent = reviewContent;
-        $scope.reviews = $rootScope.getArticles(reviewContent.sections[0].content.articles.commonArticles[0].category, reviewContent.sections[0].content.articles.commonArticles[0].ids);
+        $scope.reviews = $rootScope.getArticles(reviewContent.sections[1].commonArticles[0].category, reviewContent.sections[1].commonArticles[0].ids);
     });
     var footerContentPath = '/casaPetri/content/' + $rootScope.userLanguage + '/common/footer.json';
     $http.get(footerContentPath).success(function (footerContentResult) {
@@ -131,6 +130,7 @@ app.controller('FooterCtrl', function ($scope, $rootScope, $http) {
 });
 
 app.controller('GetPagePresentationCtrl', function ($scope, $rootScope, $http) {
+    debugger;
     var pageToLoadPath = '/casaPetri/content/' + $rootScope.userLanguage + $scope.pagePresentationPath + '.json';
     $http.get(pageToLoadPath).success(function (pageResult) {
         $scope.pagePresentation = pageResult.presentation;
@@ -158,5 +158,5 @@ app.filter('trustHtml', ['$sce', function ($sce) {
 
 function toggleForm(button) {
     $('input[name="dataRange"]').daterangepicker();
-    $(button.parentNode).find(".hideElement").toggle(500);
+    $(button.parentNode).find(".hideElement").toggle(300);
 }

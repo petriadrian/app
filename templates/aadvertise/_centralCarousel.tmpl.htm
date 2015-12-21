@@ -1,6 +1,6 @@
 <uib-carousel class="col-xs-12 col-sm-12 col-md-12 col-lg-12 centralCarousel"
-              interval="section.content.centralCarousel.timeInterval">
-    <uib-slide ng-repeat="slide in section.content.centralCarousel.slides"
+              interval="section.centralCarousel.timeInterval">
+    <uib-slide ng-repeat="slide in section.centralCarousel.slides"
                ng-init="pagePresentationPath=slide.page">
                     <span ng-controller='GetPagePresentationCtrl'
                           ng-click="openUrl(pagePresentation.url)"

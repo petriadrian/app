@@ -24,137 +24,129 @@
   },
   "sections": [
     {
-      "title": {
-        "text": "Traseu",
-        "iconFortAwesomeClass": "fa fa-map-signs",
-        "showSectionTitle": true,
-        "sectionId": "details",
-        "addLinkInPageHeadline": true
-      },
-      "content": {
-        "articles": {
-          "specificArticles": [
-            {
-              "textContent": "Ați ajuns în Rosia Montana sau planuiti o vizită și nu prea aveți mult timp? Musai sa parcurgeti acest traseu pentru a cunoaste principalele obiective turistice de aici. Sub harta gasiti cateva imagini si sfaturi despre principalele obiectivele pe care le intalniti pe acest traseu. Porniti de la Casa Petri care se afla chiar in centrul istoric si vizitati pas cu pas fiecare obiectiv.",
-              "moreDetailsLink": "http://www.bikemap.net/en/route/3052348-rosia-montana-poiana-detunata-goala/#/z13/46.28539,23.16415/terrain",
-              "moreDetailsText": "Datele GPS și traseul îl puteți găsi și aici pe bikemap.net",
-              "map": {
-                "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=sfinxul%20carnic&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Galeriile Romane, Roșia Montană, Județul Alba | Berg, DC146, Roșia Montană 517615|Biserica Romano-Catolică, Roșia Montană|Biserica Unitariană, 530, Roșia Montană|Galeria Văidoaia, Rosia Montana, Alba County, Romania| Casa Szekey Acos, DC117, Roșia Montană, Alba County, Romania | Platoul Cârnic, Rosia Montana, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Piatra Corbului, Rosia Montana, Alba County, Romania",
-                "indicationsBoxes": [
-                  {
-                    "textOnMouseOver": "durată pe jos",
-                    "text": "7h",
-                    "iconFortAwesomeClass": "fa fa-male"
-                  },
-                  {
-                    "textOnMouseOver": "lungime dus-întors",
-                    "text": "12km",
-                    "iconFortAwesomeClass": "fa fa-arrows-h"
-                  },
-                  {
-                    "textOnMouseOver": "dificultate",
-                    "text": "ușor",
-                    "iconFortAwesomeClass": "fa fa-line-chart"
-                  }
-                ]
+      "type": "title",
+      "text": "Traseu",
+      "iconFortAwesomeClass": "fa fa-map-signs",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Ați ajuns în Rosia Montana sau planuiti o vizită și nu prea aveți mult timp? Musai sa parcurgeti acest traseu pentru a cunoaste principalele obiective turistice de aici. Sub harta gasiti cateva imagini si sfaturi despre principalele obiectivele pe care le intalniti pe acest traseu. Porniti de la Casa Petri care se afla chiar in centrul istoric si vizitati pas cu pas fiecare obiectiv.",
+          "moreDetailsLink": "http://www.bikemap.net/en/route/3052348-rosia-montana-poiana-detunata-goala/#/z13/46.28539,23.16415/terrain",
+          "moreDetailsText": "Datele GPS și traseul îl puteți găsi și aici pe bikemap.net",
+          "map": {
+            "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=sfinxul%20carnic&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Galeriile Romane, Roșia Montană, Județul Alba | Berg, DC146, Roșia Montană 517615|Biserica Romano-Catolică, Roșia Montană|Biserica Unitariană, 530, Roșia Montană|Galeria Văidoaia, Rosia Montana, Alba County, Romania| Casa Szekey Acos, DC117, Roșia Montană, Alba County, Romania | Platoul Cârnic, Rosia Montana, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Piatra Corbului, Rosia Montana, Alba County, Romania",
+            "indicationsBoxes": [
+              {
+                "textOnMouseOver": "durată pe jos",
+                "text": "7h",
+                "iconFortAwesomeClass": "fa fa-male"
+              },
+              {
+                "textOnMouseOver": "lungime dus-întors",
+                "text": "12km",
+                "iconFortAwesomeClass": "fa fa-arrows-h"
+              },
+              {
+                "textOnMouseOver": "dificultate",
+                "text": "ușor",
+                "iconFortAwesomeClass": "fa fa-line-chart"
               }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "title": {
-        "text": "Atracții",
-        "iconFortAwesomeClass": "fa fa-star",
-        "showSectionTitle": true,
-        "sectionId": "map",
-        "addLinkInPageHeadline": true
-      },
-      "content": {
-        "articles": {
-          "commonArticles": [
-            {
-              "category": "attractions",
-              "ids": [
-                {
-                  "id": "romanGalleries"
-                },
-                {
-                  "id": "panoramicBench"
-                },
-                {
-                  "id": "romanCatholicChurch"
-                },
-                {
-                  "id": "unitarianChurch"
-                },
-                {
-                  "id": "vaidoaiaGalleries"
-                },
-                {
-                  "id": "szekeyHouse"
-                },
-                {
-                  "id": "braziLake"
-                },
-                {
-                  "id": "carnicPlateau"
-                },
-                {
-                  "id": "carnicSfinx"
-                },
-                {
-                  "id": "ravenStone"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "title": {
-        "text": "Gata traseul? Îți recomandam și:",
-        "iconFortAwesomeClass": "fa fa-child",
-        "showSectionTitle": true,
-        "sectionId": "nextTrail",
-        "addLinkInPageHeadline": false
-      },
-      "content": {
-        "pageBanner": {
-          "page": "/activities/trails/weatherStation"
-        }
-      }
-    },
-    {
-      "title": {
-        "text": "Vezi și",
-        "iconFortAwesomeClass": "fa fa-coffee",
-        "showSectionTitle": true,
-        "sectionId": "accommodation",
-        "addLinkInPageHeadline": false
-      },
-      "content": {
-        "advertiseBoxesToOtherPagesCarousels": [
-          {
-            "timeInterval": "12000",
-            "page": "/accommodation/rooms"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "/accommodation/camping"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "/activities/hiking"
-          },
-          {
-            "timeInterval": "12000",
-            "page": "/activities/cycling"
+            ]
           }
-        ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Atracții",
+      "iconFortAwesomeClass": "fa fa-star",
+      "sectionId": "map",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "romanGalleries"
+            },
+            {
+              "id": "panoramicBench"
+            },
+            {
+              "id": "romanCatholicChurch"
+            },
+            {
+              "id": "unitarianChurch"
+            },
+            {
+              "id": "vaidoaiaGalleries"
+            },
+            {
+              "id": "szekeyHouse"
+            },
+            {
+              "id": "braziLake"
+            },
+            {
+              "id": "carnicPlateau"
+            },
+            {
+              "id": "carnicSfinx"
+            },
+            {
+              "id": "ravenStone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Gata traseul? Îți recomandam și:",
+      "iconFortAwesomeClass": "fa fa-child",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "banner": {
+        "page": "/activities/trails/weatherStation"
       }
+    },
+    {
+      "type": "title",
+      "text": "Vezi și",
+      "iconFortAwesomeClass": "fa fa-coffee",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/rooms"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/camping"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/hiking"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/cycling"
+        }
+      ]
     }
   ]
 }
