@@ -40,9 +40,9 @@
                 "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=taul%20brazi&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Şcoala Germană DC146 Roșia Montană 517615 | Casa David Francisc DC146 Roșia Montană 517615 | Berg, DC146, Roșia Montană 517615|Biserica Romano-Catolică, Roșia Montană| Biserica Unitariană, 530, Roșia Montană | Casa Parohială Unitariană, DC117, Roșia Montană, Județul Alba, România | Şcoala Maghiară DC117 Roșia Montană 517615 | Casa Heneș DC117 Roșia Montană 517615 | Casa Szekey Acos, DC117, Roșia Montană 517615 ",
                 "indicationsBoxes": [
                   {
-                    "textOnMouseOver": "durată",
+                    "textOnMouseOver": "durată pe jos",
                     "text": "2h",
-                    "iconFortAwesomeClass": "fa fa-male-o"
+                    "iconFortAwesomeClass": "fa fa-male"
                   },
                   {
                     "textOnMouseOver": "lungime dus-întors",

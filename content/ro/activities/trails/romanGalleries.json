@@ -40,9 +40,9 @@
                 "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJmREpqBvNTkcR0-GMtovthj8&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Biserica Adormirea Maicii Domnului, Strada Principală 175, Roșia Montană 517615 | Biserica Greco-Catolică Adormirea Maicii Domnului, Roșia Montană | Orlea, Roșia Montană, Alba County, Romania | Sculpturi Calcar, DC147, Roșia Montană 517615 | Casa Petri, DC146 334, Roșia Montană 517615",
                 "indicationsBoxes": [
                   {
-                    "textOnMouseOver": "durată",
+                    "textOnMouseOver": "durată pe jos",
                     "text": "3h",
-                    "iconFortAwesomeClass": "fa fa-male-o"
+                    "iconFortAwesomeClass": "fa fa-male"
                   },
                   {
                     "textOnMouseOver": "lungime dus-întors",

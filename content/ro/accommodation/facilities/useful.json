@@ -1,37 +1,3 @@
 [
-  {
-    "title": "Wifi gratuit",
-    "iconFontAwesomeClass": "fa fa-wifi",
-    "details": ""
-  },
-  {
-    "title": "Bucătarie",
-    "iconFontAwesomeClass": "fa fa-cutlery",
-    "details": " - frigider, cuptor , aragaz, vesela"
-  },
-  {
-    "title": "Board games",
-    "iconFontAwesomeClass": "fa fa-futbol-o",
-    "details": "Saboteour, Carcasone, Activity..."
-  },
-  {
-    "title": "Parcare gratuita",
-    "iconFontAwesomeClass": "fa fa-car",
-    "details": ""
-  },
-  {
-    "title": "Ecran videoproiector",
-    "iconFontAwesomeClass": "fa fa-television",
-    "details": ""
-  },
-  {
-    "title": "Informatii turistice",
-    "iconFontAwesomeClass": "fa fa-info-circle",
-    "details": ""
-  },
-  {
-    "title": "Garaj biciclete",
-    "iconFontAwesomeClass": "fa fa-bicycle",
-    "details": ""
-  }
+
 ]

@@ -126,6 +126,7 @@ body {
     float: none;
     display: inline-block;
     padding: 0.5%;
+    margin: auto;
 }
 
 .advertiseBox {
@@ -221,11 +222,6 @@ footer .row section{
     vertical-align: middle;
 }
 
-.form-control{
-    font-size: inherit;
-    border: 1px solid #b8b8b8;
-}
-
 .footerFeedback input,
 .footerFeedback textarea,
 .footerFeedback button {
@@ -239,6 +235,10 @@ footer .row section{
 
 .footerFeedback button {
     color: gray;
+}
+
+.buttonWithMargins{
+    margin: 2%;
 }
 
 .footerFeedback input:HOVER,
@@ -312,30 +312,8 @@ footer .row section{
     color: white;
 }
 
-.reservationImages {
-    margin-bottom: 30px;
-}
-
-.reservationForm {
-    width: 100%;
-    padding: 2% 12%;
+.hideElement {
     display: none;
-}
-
-.reservationForm .input-group,
-.reservationForm p {
-    padding: 1%;
-    width: 100%;
-}
-
-.hideReservationForm {
-    color: #151F1D;
-    background-color: transparent;
-}
-
-.reservationForm .submitButton {
-    width: 98%;
-    margin: 1%;
 }
 
 .photoAlbum {
@@ -393,15 +371,15 @@ footer .row section{
     margin-bottom: 1%;
 }
 
-.listWithIconTitleDetail {
-    margin: 20px 0;
+.listOfItems {
+    margin: 2% 0;
 }
 
-.listWithIconTitleDetail i {
+.listOfItems i {
     font-size: 1.8em;
 }
 
-.listWithIconTitleDetail span {
+.listOfItems span {
     font-size: 1.4em;
 }
 

@@ -5,7 +5,7 @@
     <!-- SECTIONS-->
     <section ng-repeat="section in pageContent.sections" class="row">
         <!-- TITLE -->
-        <div ng-if="section.title.showSectionTitle"
+        <div ng-if="section.type == 'title'"
              ng-include="'templates/_sectionTitle.tmpl.htm'"></div>
         <!-- CENTRAL CAROUSEL -->
         <div ng-if="!!section.content.centralCarousel"
@@ -17,10 +17,13 @@
         <div ng-if="!!section.content.pageBanner"
              ng-include="'templates/_pageBanner.tmpl.htm'"></div>
         <!--ARTICLES-->
-        <div ng-if="!!section.content.articles"
+        <div ng-if="section.type == 'articles'"
              ng-include="'templates/articles/_articlesManagement.tmpl.htm'"></div>
         <!--FORM-->
         <div ng-if="!!section.content.form"
              ng-include="'templates/_form.tmpl.htm'"></div>
+        <!--LIST OF ITEMS-->
+        <div ng-if="!!section.content.listOfItems"
+             ng-include="'templates/_listOfItems.tmpl.htm'"></div>
     </section>
 </div>

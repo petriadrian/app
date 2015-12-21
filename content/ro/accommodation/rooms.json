@@ -6,8 +6,8 @@
     "headlineImg": "/casapetri/img/accommodation/rooms/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "/accommodation/rooms",
-      "textOnMouseOver" : "Vezi locurile de cazare",
+      "link": "#/accommodation/rooms",
+      "textOnMouseOver": "Vezi locurile de cazare",
       "openInNewTab": false
     },
     "carouselAdvertise": [
@@ -24,94 +24,193 @@
   },
   "sections": [
     {
-      "title": "Detalii",
-      "addButtonInHeader": "true",
+      "type": "title",
+      "text": "Detalii",
       "iconFortAwesomeClass": "fa fa-info-circle",
-      "content": {
-        "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Galeria Văidoaia, Rosia Montana, Alba County, Romania | Casa Szekey Acos, DC117, Roșia Montană, Alba County, Romania | Tăul Mare, Rosia Montana, Alba County, Romania | Masivul Şulei, Rosia Montana, Alba County, Romania | Tăul Corna, Rosia Montana, Alba County, Romania | Sfinxul Cârnic, Rosia Montana, Alba County, Romania | Piatra Corbului, DJ742, Roșia Montană, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Tăul Anghel, Rosia Montana, Alba County, Romania | Casa Petri Rosia Montana, Historical center, nr. 334, Roșia Montană 517615",
-        "articles": [
-          {
-            "title": "",
-            "text": "",
-            "moreDetailsLink": "http://www.cfi.ro/index.php?p=1_15",
-            "moreDetailsText": "Mai multe detalii despre orar si traseu aici (www.cfi.ro)",
-            "images": [
-              {
-                "title": "Mocanita prin satul Cristea",
-                "text": "",
-                "thumbnailUrl": "/casaPetri/img/recommendations/steamTrain/thumbnail/1.jpg",
-                "fullSizeUrl": "/casaPetri/img/recommendations/steamTrain/fullSize/1.jpg"
-              }
-            ],
-            "itemsList": [
-              {
-                "hoverText": "umblat",
-                "iconFontAwesomeClass": "fa fa-male",
-                "text": "4h"
-              },
-              {
-                "hoverText": "cu bicicleta",
-                "indicationText": "2h",
-                "indicationIconFontAwesomeClass": "fa fa-bicycle"
-              },
-              {
-                "indicationHoverText": "lungime dus-întors",
-                "indicationText": "12km",
-                "indicationIconFontAwesomeClass": "fa fa-arrows-h"
-              },
-              {
-                "indicationHoverText": "dificultate",
-                "indicationText": "mediu",
-                "indicationIconFontAwesomeClass": "fa fa-line-chart"
-              }
-            ]
-          }
-        ],
-        "commonArticles": [
-          {
-            "id": "vaidoaiaGalleries"
-          },
-          {
-            "id": "szekeyHouse"
-          },
-          {
-            "id": "bigLake"
-          },
-          {
-            "id": "letySulei"
-          },
-          {
-            "id": "cornaLake"
-          },
-          {
-            "id": "ravenStone"
-          },
-          {
-            "id": "carnicSfinx"
-          },
-          {
-            "id": "braziLake"
-          },
-          {
-            "id": "sicilianStreet"
-          }
-        ],
-        "linksToOtherPages": [
-          {
-            "id": "sicilianStreet"
-          }
-        ]
-      }
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
     },
     {
-      "title": "Rezervări",
-      "addButtonInHeader": "true",
-      "iconFortAwesomeClass": "fa fa-bed"
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Situată în centrul istoric al Roșiei Montane, fost sediu de bancă, spital și cinematograf, Casa Petri funcționează astăzi ca spațiu de cazare. S-a păstrat stilul și organizarea casei și s-au scos în evidență elementele tradiționale. Podelele de lemn, zugrăveala de var, geamurile și ușile de lemn au fost păstrate și restaurate. Cărți, ziare și reviste vechi o să găsiți cam prin toata căsuța. Acestea pot fi citite, răsfoite dar vă rugăm ca la plecare să le puneți la locul lor. De vi iarna află că am păstrat și modul de încălzire al camerelor prin teracote pe lemne, parcă adormi mai usor când auzi focul tihnind în sobă. <br>Oferim <b>10% discount celor care vin cu bicicleta sau cu chitara (si le și folosești)</b>. </br> În momentul rezervării specificati facilitățile dorite pentru a ne asigura că sunt disponibile. Este interzis fumatul în interior, ascultatul de muzică tare sau comportamentul necivilizat. Prin efectuarea unei rezervări vă asumați că ați luat la cunoștință de acestea. <br><b>După rezervare o să revenim cu un email sau telefon de confirmare.</b> <br>Prețul este negociabil în funcție de numărul de persoane sau perioadă (datele noastre de contact le găsiți în footer-ul siteu-lui)."
+        }
+      ]
     },
     {
-      "title": "Vezi și",
-      "addButtonInHeader": "false",
-      "iconFortAwesomeClass": "fa fa-coffee"
+      "type": "title",
+      "text": "Rezervări",
+      "iconFortAwesomeClass": "fa fa-bed",
+      "sectionId": "reservations",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Camera cărților",
+          "textContent": "",
+          "images": [
+            {
+              "title": "Camera cărților",
+              "description": "interior cu biblioteca geamuri si masa, pereti piatra",
+              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/minersRoom/thumbnail/1.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/minersRoom/fullSize/1.jpg"
+            },
+            {
+              "title": "Camera cărților",
+              "description": "In vitrina din camera sunt poze vechi din Rosia, flori de mina si obiecte folosite in trecut in zona. Camera are 4 paturi separate tip bunck beds. La cerere se mai poate extinde canapeaua astfel se mai suplimenteaza cu inca un loc sau doua. Printr-o rezervare se rezerva toata camera.",
+              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/minersRoom/thumbnail/2.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/minersRoom/fullSize/2.jpg"
+            },
+            {
+              "title": "Camera cărților - Baie propie",
+              "description": "Incalzire prin boiler electric",
+              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/minersRoom/thumbnail/3.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/minersRoom/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "action": "",
+      "sendButtonText": "Trimite",
+      "hideFormUnderButton": "Rezervă camera cărților",
+      "fields": [
+        {
+          "type": "textRow",
+          "name": "name",
+          "iconFortAwesomeClass": "fa fa-user fa-fw",
+          "placeholder": "Nume",
+          "maxChars": 30,
+          "required": true
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "placeholder": "Email",
+          "required": true
+        },
+        {
+          "type": "daterange",
+          "name": "period",
+          "iconFortAwesomeClass": "fa fa-calendar fa-fw",
+          "placeholder": "Alege perioada",
+          "required": true
+        },
+        {
+          "type": "selectBox",
+          "name": "seats",
+          "iconFortAwesomeClass": "fa fa-bed fa-fw",
+          "placeholder": "Număr de locuri și preț",
+          "selectOptions": [
+            {
+              "text": "2 locuri - 120lei/noapte"
+            },
+            {
+              "text": "3 locuri - 170lei/noapte"
+            },
+            {
+              "text": "4 locuri - 230lei/noapte"
+            },
+            {
+              "text": "5 locuri - 280lei/noapte"
+            },
+            {
+              "text": "6 locuri - 330lei/noapte"
+            }
+          ]
+        },
+        {
+          "type": "checkBoxes",
+          "title": "Doresc:",
+          "checkBoxes": [
+            {
+              "text": "parcare"
+            },
+            {
+              "text": "acces bucătărie și camera de zi"
+            },
+            {
+              "text": "garaj biciclete"
+            },
+            {
+              "text": "ecran videoproiector"
+            }
+          ]
+        },
+        {
+          "type": "textarea",
+          "name": "others",
+          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "placeholder": "Altele",
+          "rows": 3,
+          "maxChars": 350,
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Camera cărților",
+          "textContent": "",
+          "images": [
+            {
+              "title": "Camera cărților",
+              "description": "interior cu biblioteca geamuri si masa, pereti piatra",
+              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/minersRoom/thumbnail/1.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/minersRoom/fullSize/1.jpg"
+            },
+            {
+              "title": "Camera cărților",
+              "description": "In vitrina din camera sunt poze vechi din Rosia, flori de mina si obiecte folosite in trecut in zona. Camera are 4 paturi separate tip bunck beds. La cerere se mai poate extinde canapeaua astfel se mai suplimenteaza cu inca un loc sau doua. Printr-o rezervare se rezerva toata camera.",
+              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/minersRoom/thumbnail/2.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/minersRoom/fullSize/2.jpg"
+            },
+            {
+              "title": "Camera cărților - Baie propie",
+              "description": "Incalzire prin boiler electric",
+              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/minersRoom/thumbnail/3.jpg",
+              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/minersRoom/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Vezi și",
+      "iconFortAwesomeClass": "fa fa-coffee",
+      "sectionId": "seeAlso",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertiseBoxesToOtherPagesCarousels",
+      "boxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/rooms"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/camping"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/hiking"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/cycling"
+        }
+      ]
     }
   ]
 }

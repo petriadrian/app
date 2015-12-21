@@ -6,7 +6,7 @@
     "headlineImg": "/casapetri/img/accommodation/camping/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "/accommodation/camping",
+      "link": "#/accommodation/camping",
       "textOnMouseOver" : "Vezi locurile de campare",
       "openInNewTab": false
     },

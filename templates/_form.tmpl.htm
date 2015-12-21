@@ -1,18 +1,62 @@
-<form role="form" class="col-xs-12 col-sm-12 col-md-6 col-lg-8 displayOnCenter" onsubmit="section.content.form.action">
+<button ng-if="!!section.content.form.hideFormUnderButton" class="btn btn-large btn-primary buttonWithMargins"
+        onclick="toggleForm(this)">
+    {{section.content.form.hideFormUnderButton}} &nbsp&nbsp<i class="showHideForm fa fa-caret-down"></i>
+</button>
+<div style="clear:both"></div>
+
+<form method="post" role="form" ng-class="{'hideElement': section.content.form.hideFormUnderButton}"
+      class="col-xs-12 col-sm-12 col-md-10 col-lg-8 displayOnCenter"
+      onsubmit="section.content.form.action">
     <div data-ng-repeat="field in section.content.form.fields" class="input-group">
-        <span class="input-group-addon"><i ng-class="field.iconFortAwesomeClass"></i></span>
-        <input type="text" class="form-control"
-               ng-if="field.type == 'textRow'"
+        <span ng-if="!!field.iconFortAwesomeClass" class="input-group-addon"><i
+                ng-class="field.iconFortAwesomeClass"></i></span>
+        <input ng-if="field.type == 'textRow'"
+               type="text" class="form-control"
                name="{{field.name}}"
                maxlength="{{field.maxChars}}"
                placeholder="{{field.placeholder}}"
-               ng-required="field.required">
+               ng-required="field.required"/>
         <textarea ng-if="field.type == 'textarea'" class="form-control"
                   placeholder="{{field.placeholder}}"
                   rows="{{field.rows}}"
                   maxlength="{{field.maxChars}}"
                   name="{{field.name}}"
                   ng-required="field.required"></textarea>
+        <span ng-if="field.type == 'daterange'">
+                <input type="text"
+                       name="daterange"
+                       class="form-control"
+                       placeholder="{{field.placeholder}}"
+                       ng-required="field.required"/>
+                <script type="text/javascript">
+                    $(function () {
+                        $('input[name="daterange"]').daterangepicker();
+                    });
+                </script>
+            </span>
+        <input ng-if="field.type == 'phone'"
+               type="tel" class="form-control"
+               name="{{field.name}}"
+               placeholder="{{field.placeholder}}"
+               ng-required="field.required"/>
+        <input ng-if="field.type == 'email'"
+               type="email" class="form-control"
+               name="{{field.name}}"
+               placeholder="{{field.placeholder}}"
+               ng-required="field.required"/>
+        <select ng-if="field.type == 'selectBox'" class="form-control" ng-required="field.required"
+                name="{{field.name}}">
+            <option disabled selected style='display:none;'>{{field.placeholder}}</option>
+            <option ng-repeat="option in field.selectOptions" value="{{option.text}}">{{option.text}}</option>
+        </select>
+
+        <div ng-if="field.type == 'checkBoxes'">
+            <span><b>{{field.title}}</b></span>
+            <label ng-repeat="checkBox in field.checkBoxes" class="checkbox-inline">
+                <input type="checkbox" name="{{field.title}}" value="{{checkBox.text}}"/>
+                {{checkBox.text}}
+            </label>
+        </div>
     </div>
     <button type="submit" class="btn btn-primary">{{section.content.form.sendButtonText}}</button>
 </form>

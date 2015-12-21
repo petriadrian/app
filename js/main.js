@@ -68,6 +68,10 @@ app.config(['$routeProvider', function ($routeProvider) {
         //// Pages
         .when("/reviews", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
 
+        .when("/accommodation/facilities", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/accommodation/camping", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/accommodation/rooms", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+
         .when("/activities/hiking", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         .when("/activities/trails/historicalCenter", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         .when("/activities/trails/carnic", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
@@ -103,7 +107,7 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
     if ($location.hash()) {
         $timeout(function () {
             $anchorScroll($location.hash());
-        }, 800);
+        }, 1200);
     }
 });
 
@@ -151,3 +155,8 @@ app.filter('trustHtml', ['$sce', function ($sce) {
         return $sce.trustAsHtml(html);
     };
 }]);
+
+function toggleForm(button) {
+    $('input[name="dataRange"]').daterangepicker();
+    $(button.parentNode).find(".hideElement").toggle(500);
+}
