@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Campare",
     "headlineText": "Am adormit sub stele, era munte, liniște, răcoare...",
-    "description": "Vezi zona de campare din curte",
+    "description": "Curtea casei e numai bună de campat în siguranță, cu accees la facilități și priveliște spre munte",
     "headlineImg": "/casapetri/img/accommodation/camping/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -50,7 +50,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "Zona de campare",
+          "title": "",
           "textContent": "",
           "images": [
             {
