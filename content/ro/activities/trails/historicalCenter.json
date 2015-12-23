@@ -62,7 +62,7 @@
       "type": "title",
       "text": "Atracții",
       "iconFortAwesomeClass": "fa fa-star",
-      "sectionId": "map",
+      "sectionId": "attractions",
       "addLinkInPageHeadline": true
     },
     {

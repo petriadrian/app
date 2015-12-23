@@ -34,7 +34,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Începem traseul din centrul istoric de la Casa Petri și pornim spre Tăul Mare. O luăm pe malul lui până ajungem în dreapta masivelor Lety și Șulei pe care poți să urci puțin pentru a te bucura de belvederea asupra satului. Pornim apoi spre satele Muntari și Poiana printr-un peisaj tipic din Țara Moților presărat ici și colo cu căpițe și pașuni pe unde o să întâlniți turme de oi sau vaci. Ne continuăm drumul până ce dăm de o culme montană formată din niște coloane înalte de bazalt. Aceasta este Detunata pe care se poate urca până în vârf pentru a ne bucara de peisaj și aerul de munte. <br>Traseul este marcat complet cu indicatorul cruce roșie de către Salvamont așa că va fi foarte ușor de urmăit. Dacă mergi cu bicileta află că pe ultimii 500 de metri o să urci pe o potecă ingustă care nu e accesibilă pentru biciclete.",
+          "textContent": "Începem traseul din centrul istoric, de la Casa Petri și o luăm spre Tăul Mare. Ne bucurăm puțin aici de apa rece de munte și apoi pornim spre masivele Lety și Șulei pe care poți să urci puțin pentru a te bucura de belvederea asupra satului. Pornim apoi spre satele Muntari și Poiana printr-un peisaj tipic din Țara Moților, presărat ici și colo cu căpițe și pașuni pe unde o să întâlniți turme de oi sau vaci. Ne continuăm drumul până ce dăm de o culme montană formată din niște coloane înalte de bazalt ca cele din imaginea de mai sus. Pare puțin înfricoșător ... nu e așa? O potecă vă va urca până pe vârful acestei culmi și orice temere va dispărea odată ce o să vedeți priveliștea de aici. <br>Traseul este complet marcat cu marcajul 'cruce roșie' de către Salvamont așa că va fi foarte ușor de urmăit. Dacă mergi cu bicileta află că pe ultimii 500 de metri o să urci pe o potecă ingustă care nu e accesibilă pentru biciclete.",
           "moreDetailsLink": "http://www.bikemap.net/en/route/3052348-rosia-montana-poiana-detunata-goala/#/z13/46.28539,23.16415/terrain",
           "moreDetailsText": "Datele GPS și traseul îl puteți găsi și aici pe bikemap.net",
           "map": {
@@ -74,7 +74,7 @@
       "type": "title",
       "text": "Atracții",
       "iconFortAwesomeClass": "fa fa-star",
-      "sectionId": "map",
+      "sectionId": "attractions",
       "addLinkInPageHeadline": true
     },
     {

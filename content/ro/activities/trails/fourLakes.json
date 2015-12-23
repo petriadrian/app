@@ -27,7 +27,7 @@
       "type": "title",
       "text": "Traseu",
       "iconFortAwesomeClass": "fa fa-map-signs",
-      "sectionId": "details",
+      "sectionId": "map",
       "addLinkInPageHeadline": true
     },
     {
@@ -69,7 +69,7 @@
       "type": "title",
       "text": "Atracții",
       "iconFortAwesomeClass": "fa fa-star",
-      "sectionId": "map",
+      "sectionId": "attractions",
       "addLinkInPageHeadline": true
     },
     {
