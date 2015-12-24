@@ -33,8 +33,8 @@
                     </a>
                 </li>
                 <li data-ng-repeat="button in headerContent.languageButtons">
-                    <a ng-if="button.languageCode != userLanguage" title="{{button.url.textOnMouseOver}}"
-                       ng-click="openUrl(button.url)" data-toggle="collapse" data-target=".navbar-collapse.in">
+                    <a title="{{button.url.textOnMouseOver}}"
+                       ng-click="localizationService.changeLanguage(button.languageCode)" data-toggle="collapse" data-target=".navbar-collapse.in">
                         <i ng-if="!!button.iconFontAwesomeClass" class="{{button.iconFontAwesomeClass}}"></i>
                         <span ng-if="!!button.text">{{button.text}}</span>
                     </a>

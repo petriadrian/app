@@ -27,16 +27,6 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http) {
         $anchorScroll();
         $location.hash(old);
     };
-    // set userLanguage. should run only once
-    if (typeof(location.search.split('lang=')[1]) == 'undefined') {
-        $rootScope.userLanguage = navigator.language || navigator.userLanguage;
-    } else {
-        $rootScope.userLanguage = location.search.split('lang=')[1];
-    }
-    if ($rootScope.userLanguage != RO_LOCALE) {
-        console.log("English not ready");
-        $rootScope.userLanguage = RO_LOCALE; // should be EN_LOCALE ... but en content is not yet added
-    }
     //get Articles function
     $rootScope.getArticles = function(categoryArticles, idsOfTheNeededArticles) {
         var path = '/casaPetri/content/' + $rootScope.userLanguage + '/common/articles/' + categoryArticles + '.json';
@@ -82,6 +72,7 @@ app.config(['$routeProvider', function ($routeProvider) {
 
         .when("/activities/cycling", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         .when("/activities/trails/fourLakes", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/rollerCoaster", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
 
         .when("/recommendations/steamTrain", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         .when("/recommendations/daffodilMeadow", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
@@ -92,14 +83,14 @@ app.config(['$routeProvider', function ($routeProvider) {
 /**
  * Controllers
  */
-app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $routeParams, $http, $timeout, $anchorScroll) {
+app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $routeParams, $http, $timeout, $anchorScroll, localizationService) {
     var pageSuffix;
     if ($location.$$path == '/') {
         pageSuffix = '/home';
     } else {
         pageSuffix = $location.$$path;
     }
-    var pageContentPath = '/casaPetri/content/' + $rootScope.userLanguage + pageSuffix + '.json';
+    var pageContentPath = '/casaPetri/content/' + 'ro' + pageSuffix + '.json';
     $http.get(pageContentPath).success(function (pageContentResult) {
         $scope.pageContent = pageContentResult;
     });
@@ -108,33 +99,78 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
             $anchorScroll($location.hash());
         }, 1200);
     }
+
+    // localization
+    $scope.localizationService = localizationService;
+    $scope.$watch('localizationService.language', function (oldVal, newVal) {
+        if(!angular.isUndefined(oldVal) && oldVal != newVal) {
+            $scope.reloadContent(newVal);
+        }
+    });
+    $scope.reloadContent = function (language) {
+        console.log('content of site not ready yet');
+    };
 });
 
-app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http) {
-    var headerContentPath = '/casaPetri/content/' + $rootScope.userLanguage + '/common/header.json';
+app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, localizationService) {
+
+    var headerContentPath = '/casaPetri/content/' + localizationService.language + '/common/header.json';
     $http.get(headerContentPath).success(function (headerContentResult) {
         $scope.headerContent = headerContentResult;
     });
+
+    // localization
+    $scope.localizationService = localizationService;
+    $scope.$watch('localizationService.language', function (newVal, oldVal) {
+        if(!angular.isUndefined(oldVal) && oldVal != newVal) {
+            $scope.reloadContent(newVal);
+        }
+    });
+    $scope.reloadContent = function (newLanguage) {
+        $rootScope.userLanguage = newLanguage;
+        var headerContentPath = '/casaPetri/content/' + newLanguage + '/common/header.json';
+        $http.get(headerContentPath).success(function (headerContentResult) {
+            $scope.headerContent = headerContentResult;
+        });
+    };
+
 });
 
-app.controller('FooterCtrl', function ($scope, $rootScope, $http) {
-    var reviewsPath = '/casaPetri/content/' + $rootScope.userLanguage + '/reviews.json';
-    $http.get(reviewsPath).success(function (reviewContent) {
-        $scope.reviewPresentation = reviewContent.presentation;
+app.controller('FooterCtrl', function ($scope, $rootScope, $http, $timeout, localizationService) {
+
+    var reviewsPagePath = '/casaPetri/content/' + 'ro' + '/reviews.json';
+    $http.get(reviewsPagePath).success(function (reviewPageContent) {
+        $scope.reviewPresentation = reviewPageContent.presentation;
     });
-    var reviewsPath = '/casaPetri/content/' + $rootScope.userLanguage + '/common/articles/reviews.json';
-    $http.get(reviewsPath).success(function (reviews) {
-        $scope.reviews = reviews;
+    var reviewsArticlesPath = '/casaPetri/content/' + 'ro' + '/common/articles/reviews.json';
+    $http.get(reviewsArticlesPath).success(function (reviewArticles) {
+        $scope.reviews = reviewArticles;
     });
-    var footerContentPath = '/casaPetri/content/' + $rootScope.userLanguage + '/common/footer.json';
+    var footerContentPath = '/casaPetri/content/' + localizationService.language + '/common/footer.json';
     $http.get(footerContentPath).success(function (footerContentResult) {
         $scope.footerContent = footerContentResult;
     });
+
+    // localization
+    $scope.localizationService = localizationService;
+    $scope.$watch('localizationService.language', function (newVal, oldVal) {
+        if(!angular.isUndefined(oldVal) && oldVal != newVal) {
+            $scope.reloadContent(newVal);
+        }
+    });
+    $scope.reloadContent = function (newLanguage) {
+        console.log('language changed: footer');
+        $rootScope.userLanguage = newLanguage;
+        var footerContentPath = '/casaPetri/content/' + newLanguage + '/common/footer.json';
+        $http.get(footerContentPath).success(function (footerContentResult) {
+            $scope.footerContent = footerContentResult;
+        });
+    };
 });
 
 app.controller('GetPagePresentationCtrl', function ($scope, $rootScope, $http) {
-    debugger;
-    var pageToLoadPath = '/casaPetri/content/' + $rootScope.userLanguage + $scope.pagePresentationPath + '.json';
+    
+    var pageToLoadPath = '/casaPetri/content/' + 'ro' + $scope.pagePresentationPath + '.json';
     $http.get(pageToLoadPath).success(function (pageResult) {
         $scope.pagePresentation = pageResult.presentation;
     });
@@ -163,3 +199,16 @@ function toggleForm(button) {
     $('input[name="dataRange"]').daterangepicker();
     $(button.parentNode).find(".hideElement").toggle(300);
 }
+
+app.factory('localizationService', function() {
+    var factory = {};
+    factory.language = navigator.language || navigator.userLanguage;
+    if (factory.language != RO_LOCALE) {
+        factory.language = EN_LOCALE;
+    }
+    factory.changeLanguage = function (lang) {
+        console.log('changeLanguage', lang);
+      this.language = lang;
+    };
+    return factory;
+});

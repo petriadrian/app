@@ -1,0 +1,159 @@
+{
+  "presentation": {
+    "title": "RollerCoaster",
+    "headlineText": "Traseul serpentinelor de munte - Corna - Seliște",
+    "description": "Coborâș plin de adrenalină pe serpentinele vechiului drum al carierei și urcăm înapoi pe un drum de țară - <b>15km</b>",
+    "headlineImg": "/casapetri/img/activities/trails/rollerCoaster/presentation.jpg",
+    "showPageHeadline": true,
+    "url": {
+      "link": "#/activities/trails/rollerCoaster",
+      "textOnMouseOver": "Vezi traseul spre vârfurile Lety și Șulei",
+      "openInNewTab": false
+    },
+    "carouselAdvertise": [
+      {
+        "img": "/casaPetri/img/activities/trails/rollerCoaster/carouselAdvertise/1.jpg"
+      },
+      {
+        "img": "/casaPetri/img/activities/trails/rollerCoaster/carouselAdvertise/2.jpg"
+      },
+      {
+        "img": "/casaPetri/img/activities/trails/rollerCoaster/carouselAdvertise/3.jpg"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "Traseu",
+      "iconFortAwesomeClass": "fa fa-map-signs",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Acesta este traseul copilăriei noastre. <i>Ne luam bicicletele și urcam pe la Tăul Mare până ce dadeam de drumul asflatat al carierei de Cupru. De aici ne plăcea să ne dăm drumul la vale cu cea mai mare viteză spre orașul Abrud de unde ne cumpăram înghețată și mai pierdeam vremea prin centrul istoric. Apoi ne luam inima în dinți pentru că urma partea grea a traseului: Urcușul pe un drum de țară spre casă, prin satul Seliște. Pe drum e și Tăul Tapului în apele căruia ne aruncam să ne răcorim puțin. De aici mai e un mic urcuș până acasă.</i> <br>Vă provocăm și pe voi să parcurgeți traseul și să gustați din plăcerile copilăriei noastre. Pe drumurile asfaltate, deși cariera de Cupru e oprită, e posibil să mai circule mașini. În orașul Abrud e puțin trafic dar în ~10min îl traversați. În zona Gura Cornei puteți să luați masa (Recomandăm restaurantul Laguna sau Detunata)",
+          "moreDetailsText": "",
+          "moreDetailsLink": "",
+          "map": {
+            "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Tăul Mare, Rosia Montana, Alba County, Romania | Helești, Alba County, Romania | Corna, Alba County, Romania | Gura Cornei, Alba County, Romania | Strada Mărășești, Abrud, Alba County, Romania | Biserica Romano-Catolică, Piața Cuza Vodă, Abrud, Alba County, Romania | Tăul Țapului, Rosia Montana, Alba County, Romania",
+            "indicationsBoxes": [
+              {
+                "textOnMouseOver": "durată pe jos",
+                "text": "4h",
+                "iconFortAwesomeClass": "fa fa-male"
+              },
+              {
+                "textOnMouseOver": "durată cu bicicleta",
+                "text": "2h",
+                "iconFortAwesomeClass": "fa fa-bicycle"
+              },
+              {
+                "textOnMouseOver": "lungime dus-întors",
+                "text": "15km",
+                "iconFortAwesomeClass": "fa fa-arrows-h"
+              },
+              {
+                "textOnMouseOver": "dificultate",
+                "text": "mediu",
+                "iconFortAwesomeClass": "fa fa-line-chart"
+              },
+              {
+                "textOnMouseOver": "indicații",
+                "text": "bocanci de munte și pelerină",
+                "iconFortAwesomeClass": "fa fa-check-square-o"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Atracții",
+      "iconFortAwesomeClass": "fa fa-star",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "vaidoaiaGalleries"
+            },
+            {
+              "id": "szekeyHouse"
+            },
+            {
+              "id": "bigLake"
+            },
+            {
+              "id": "letySulei"
+            },
+            {
+              "id": "cornaLake"
+            },
+            {
+              "id": "ravenStone"
+            },
+            {
+              "id": "carnicSfinx"
+            },
+            {
+              "id": "braziLake"
+            },
+            {
+              "id": "sicilianStreet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Gata traseul? Îți recomandam și:",
+      "iconFortAwesomeClass": "fa fa-child",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "banner": {
+        "page": "/activities/trails/historicalCenter"
+      }
+    },
+    {
+      "type": "title",
+      "text": "Vezi și",
+      "iconFortAwesomeClass": "fa fa-coffee",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/rooms"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/camping"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/hiking"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/cycling"
+        }
+      ]
+    }
+  ]
+}

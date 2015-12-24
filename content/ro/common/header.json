@@ -63,18 +63,7 @@
       "iconFontAwesomeClass": "",
       "languageCode": "en",
       "url": {
-        "link": "/casapetri/index.html?lang=en",
         "textOnMouseOver": "switch to english",
-        "openInNewTab": false
-      }
-    },
-    {
-      "text": "RO",
-      "iconFontAwesomeClass": "",
-      "languageCode": "ro",
-      "url": {
-        "link": "/casapetri/index.html?lang=ro",
-        "textOnMouseOver": "schimbă în română",
         "openInNewTab": false
       }
     }

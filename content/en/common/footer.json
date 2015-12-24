@@ -1,29 +1,56 @@
 {
-  "contact": {
-    "title": "Casa Petri Roșia Montană",
-    "phone": "(004)0743188186",
-    "email": "casapetri@gmail.com",
-    "address": "Str. Piata nr.331, Rosia Montana, jud. Alba, Romania",
-    "homepageLink": "/casaPetri/index.html?lang=ro",
-    "imgSiteLogoUrl": "/casapetri/img/common/siteLogo.png"
+  "contactCard": {
+    "url": {
+      "link": "/casaPetri",
+      "textOnMouseOver" : "Go to homepage",
+      "openInNewTab": false
+    },
+    "content": [
+      {
+        "text": "",
+        "iconFortAwesomeClass": "fa fa-home fa-2x fa-flip-horizontal"
+      },
+      {
+        "text": "Casa Petri Roșia Montană",
+        "iconFortAwesomeClass": "fa fa-copyright"
+      },
+      {
+        "text": "(+4)0743188186",
+        "iconFortAwesomeClass": "fa fa-phone"
+      },
+      {
+        "text": "casapetri@gmail.com",
+        "iconFortAwesomeClass": "fa fa-envelope-o"
+      },
+      {
+        "text": "Str. Piață nr.331, Roșia Montană, state Alba, Romania",
+        "iconFortAwesomeClass": "fa fa-map-marker"
+      }
+    ]
   },
   "googleMapLink": "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc",
   "facebookLink": "https://www.facebook.com/casapetrirosiamontana",
   "form": {
-    "textarea": [
+    "action": "",
+    "sendButtonText": "Send",
+    "fields": [
       {
-        "title": "feedback",
-        "placeholder": "We want to get better. Leave us a feedback! ...",
-        "rows": "3",
-        "required": "true"
+        "type": "textarea",
+        "name": "feedback",
+        "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+        "placeholder": "We want to improve. Leave us a feedback! ...",
+        "rows": 3,
+        "maxChars": 350,
+        "required": true
       },
       {
-        "title": "email",
+        "type": "email",
+        "name": "email",
+        "rows": 1,
+        "iconFortAwesomeClass": "fa fa-user fa-fw",
         "placeholder": "Email",
-        "rows": "1",
-        "required": "false"
+        "required": true
       }
-    ],
-    "submitButton": "Trimite"
+    ]
   }
 }
