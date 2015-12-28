@@ -15,12 +15,12 @@
             </a>
         </figure>
     </section>
-    <section ng-if="!!article.map">
-        <iframe class="trailMap" frameborder="0" ng-src="{{article.map.iframeSrc | trustUrl}}" allowfullscreen></iframe>
+    <section ng-if="!!article.iframe">
+        <iframe class="trailMap" frameborder="0" ng-src="{{article.iframe.src | trustUrl}}" allowfullscreen></iframe>
         <div class="trailIndicators">
-            <p ng-repeat="indicationBox in article.map.indicationsBoxes" title="{{indicationBox.textOnMouseOver}}">
-                <i ng-class="indicationBox.iconFortAwesomeClass"></i>
-                {{indicationBox.text}}
+            <p ng-if="!!article.iframe.list" ng-repeat="item in article.iframe.list" title="{{item.textOnMouseOver}}">
+                <i ng-class="item.iconFortAwesomeClass"></i>
+                {{item.text}}
             </p>
         </div>
     </section>

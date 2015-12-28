@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Detunata",
     "headlineText": "Traseul satelor din Apuseni spre masivul Detunata",
-    "description": "Pornim spre Tăul Mare, tecem prin câteva cătune de munte până ajungem pe vârful coloanelor de bazalt - <b>21km</b>",
+    "description": "Pornim spre Tăul Mare, tecem prin câteva cătune de munte până ajungem pe vârful coloanelor de bazalt - <b>19km</b>",
     "headlineImg": "/casapetri/img/activities/trails/detunata/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -34,12 +34,12 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Începem traseul din centrul istoric, de la Casa Petri și o luăm spre Tăul Mare. Ne bucurăm puțin aici de apa rece de munte și apoi pornim spre masivele Lety și Șulei pe care poți să urci puțin pentru a te bucura de belvederea asupra satului. Pornim apoi spre satele Muntari și Poiana printr-un peisaj tipic din Țara Moților, presărat ici și colo cu căpițe și pașuni pe unde o să întâlniți turme de oi sau vaci. Ne continuăm drumul până ce dăm de o culme montană formată din niște coloane înalte de bazalt ca cele din imaginea de mai sus. Pare puțin înfricoșător ... nu e așa? O potecă vă va urca până pe vârful acestei culmi și orice temere va dispărea odată ce o să vedeți priveliștea de aici. <br>Traseul este complet marcat cu marcajul 'cruce roșie' de către Salvamont așa că va fi foarte ușor de urmăit. Dacă mergi cu bicileta află că pe ultimii 500 de metri o să urci pe o potecă ingustă care nu e accesibilă pentru biciclete.",
+          "textContent": "Începem traseul din centrul istoric, de la Casa Petri și o luăm spre Tăul Mare unde ne înviorăm puțin cu apa rece de munte că lung traseu ne mai așteaptă... Pornim apoi spre satele Muntari și Poiana printr-un peisaj tipic din Țara Moților, presărat ici și colo cu căpițe și pașuni pe unde o să întâlniți turme de oi sau vaci. Ne continuăm drumul până ce dăm de o culme montană formată din niște coloane înalte de bazalt ca cele din imaginea de mai sus. Pare puțin înfricoșător ... nu e așa? O potecă vă va urca până pe vârful acestei culmi și orice temere va dispărea odată ce o să vedeți priveliștea de aici. <br>Traseul este complet marcat cu marcajul 'cruce roșie' de către Salvamont așa că va fi foarte ușor de urmăit. Dacă mergi cu bicileta află că pe ultimii 500 de metri o să urci pe o potecă ingustă care nu e accesibilă pentru biciclete.",
           "moreDetailsLink": "http://www.bikemap.net/en/route/3052348-rosia-montana-poiana-detunata-goala/#/z13/46.28539,23.16415/terrain",
           "moreDetailsText": "Datele GPS și traseul îl puteți găsi și aici pe bikemap.net",
-          "map": {
-            "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJv_3GPwvLTkcRDy5ru-eVXWI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Tăul Mare, Rosia Montana, Alba County, Romania | Masivul Şulei, Rosia Montana, Alba County, Romania | Muntari, Alba County, Romania | Casa Petri Rosia Montana, Historical center, nr. 334, Roșia Montană 517615",
-            "indicationsBoxes": [
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Tăul Mare, Rosia Montana, Alba County, Romania | Muntari, Alba County, Romania | Detunata Goală, Bucium, Alba County, Romania",
+            "list": [
               {
                 "textOnMouseOver": "durată pe jos",
                 "text": "7h",
@@ -52,7 +52,7 @@
               },
               {
                 "textOnMouseOver": "lungime dus-întors",
-                "text": "21km",
+                "text": "19km",
                 "iconFortAwesomeClass": "fa fa-arrows-h"
               },
               {
@@ -87,7 +87,7 @@
               "id": "bigLake"
             },
             {
-              "id": "letySulei"
+              "id": "muntariPoiana"
             },
             {
               "id": "detunata"
@@ -106,7 +106,7 @@
     {
       "type": "advertise",
       "banner": {
-        "page": "/activities/trails/letySulei"
+        "page": "/activities/trails/geamana"
       }
     },
     {

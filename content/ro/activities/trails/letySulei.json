@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Vârfurile Lety și Șulei",
     "headlineText": "Traseul spre masivele Lety și Șulei ",
-    "description": "Urcăm pe 2 culmi cu forme ciudate, întâlnim 2 tăuri minunate un sat ascuns și o galerie cu urme de filoane de aur - <b>15km</b>",
+    "description": "Urcăm pe 2 culmi cu forme ciudate, întâlnim 2 tăuri minunate un sat ascuns și o galerie cu urme de filoane de aur - <b>11km</b>",
     "headlineImg": "/casapetri/img/activities/trails/letySulei/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -37,9 +37,9 @@
           "textContent": "Traseul ne va duce pe la galeria Văidoaia și Tăul Mare după care vom urca până pe masivul Lety și Șulei pentru a admira belvederea de aici. De aici o luam spre zona 'brazi' spre masivul  Cârnic până pe vârful lui la Piatra Corbului și Sfinx. Coborâm apoi spre Tăul Brazi și centrul istoric.",
           "moreDetailsText": "",
           "moreDetailsLink": "",
-          "map": {
-            "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Galeria Văidoaia, Rosia Montana, Alba County, Romania | Casa Szekey Acos, DC117, Roșia Montană, Alba County, Romania | Tăul Mare, Rosia Montana, Alba County, Romania | Masivul Şulei, Rosia Montana, Alba County, Romania | Masivul Lety, Rosia Montana, Alba County, Romania | Tăul Corna, comuna Rosia Montana, Alba County, Romania | Sfinxul Cârnic, Rosia Montana, Alba County, Romania | Piatra Corbului, DJ742, Roșia Montană, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Tăul Anghel, Rosia Montana, Alba County, Romania | Casa Petri Rosia Montana, Historical center, nr. 334, Roșia Montană 517615",
-            "indicationsBoxes": [
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Galeria Văidoaia, Rosia Montana, Alba County, Romania | Casa Szekey Acos, DC117, Roșia Montană, Alba County, Romania | Tăul Mare, Rosia Montana, Alba County, Romania | Masivul Şulei, Rosia Montana, Alba County, Romania | Masivul Lety, Rosia Montana, Alba County, Romania | Tăul Corna, comuna Rosia Montana, Alba County, Romania | Sfinxul Cârnic, Rosia Montana, Alba County, Romania | Piatra Corbului, DJ742, Roșia Montană, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Tăul Anghel, Rosia Montana, Alba County, Romania | Casa Petri Rosia Montana, Historical center, nr. 334, Roșia Montană 517615",
+            "list": [
               {
                 "textOnMouseOver": "durată pe jos",
                 "text": "4h",
@@ -52,7 +52,7 @@
               },
               {
                 "textOnMouseOver": "lungime dus-întors",
-                "text": "15km",
+                "text": "11km",
                 "iconFortAwesomeClass": "fa fa-arrows-h"
               },
               {

@@ -251,14 +251,14 @@
       {
         "title": "PORTA FELICE",
         "description": "Hideto YADA | Japonia | Universitatea din Osaka si Tama | Sculptura din calcar de Vistea marcat cu foita de aur",
-        "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/sculpture/thumbnail/3.jpg",
-        "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/sculpture/fullSize/3.jpg"
+        "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/sculpture/thumbnail/1.jpg",
+        "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/sculpture/fullSize/1.jpg"
       },
       {
         "title": "DOOR",
         "description": "Ehab ELLABAN | Egipt | Academia de Arte Zamalek, Cairo | Sculptura din calcar de Vistea",
-        "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/sculpture/thumbnail/4.jpg",
-        "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/sculpture/fullSize/4.jpg"
+        "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/sculpture/thumbnail/2.jpg",
+        "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/sculpture/fullSize/2.jpg"
       }
     ]
   },
@@ -304,10 +304,10 @@
   },
   {
     "id": "copperPit",
-    "title": "Cariera de Cupru",
-    "textContent": "60% din zăcămintele de cupru din România se află aici. O parte dintre aceste zăcăminte au fost extrase însă efectele exploatării asupra zonei sunt devastatoare. Vizitați cariera și vedeți acestea cu ochii voștri dar  atenție: Pentru a intra la carieră este nevoie să treceți pe la punctul de verificare cu barieră pe care îl întâlniți pe traseu! Dacă doriți să mai vedeți din urmările acestei exploatări vizitați 'Geamăna'- iazul de decantare din avalul carierei",
-    "moreDetailsLink": "http://www.alba.djc.ro/ObiectiveDetalii.aspx?ID=2184",
-    "moreDetailsText": "Mai multe detalii aici...",
+    "title": "Cariera Roșia Poieni",
+    "textContent": "60% din zăcămintele de cupru din România se află aici. O parte dintre aceste zăcăminte au fost extrase însă efectele exploatării asupra zonei sunt devastatoare. Vizitați cariera și vedeți acestea cu ochii voștri dar  atenție: Pentru a intra la carieră este nevoie să treceți pe la <b>punctul de verificare</b> cu barieră pe care îl întâlniți pe traseu. În funcție de programul lor există posibilitatea să nu vă lase să intrați! Sterilul rezultat de la această carieră a fost deversat în aval peste satul 'Geamăna'",
+    "moreDetailsLink": "https://www.youtube.com/watch?v=J4bG7oil3gU",
+    "moreDetailsText": "Maia Morgenstern a filmat aici un videoclip pentru a-i face pe oameni să conștientizeze importanța naturii. Îl puteți vedea aici...",
     "images": [
       {
         "title": "Cariera de Cupru",
@@ -400,6 +400,35 @@
         "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/detunata/fullSize/2.jpg"
       }
     ]
+  },
+  {
+    "id": "muntariPoiana",
+    "title": "Muntari",
+    "textContent": "Descoperiți drumul de țară prin satele Muntari și Poiana, două sate din Munții Apuseni unde parcă timpul s-a oprit în loc.",
+    "images": [
+      {
+        "title": "Drumul prin satele Muntari și Poiana",
+        "description": "",
+        "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/muntariPoiana/thumbnail/1.jpg",
+        "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/muntariPoiana/fullSize/1.jpg"
+      },
+      {
+        "title": "Drumul prin satele Muntari și Poiana",
+        "description": "",
+        "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/muntariPoiana/thumbnail/2.jpg",
+        "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/muntariPoiana/fullSize/2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "geamana",
+    "title": "Geamăna",
+    "textContent": "Video-ul de mai jos este cel ami reprezentativ pentru Geamăna. Acesta a fost unul dintre motoarele care i-au făcut pe oameni să conștientizeze că natura este importantă și că trebuie să iasă în stradă pentru a lupta împotriva poluării în perioada în care se dorea construirea unui lac imens de cianură la Roșia Montană. Deocamdată Roșia a scăpat dar pentru satul Geamană e prea târziu. Înafară de turla bisericii, satul e acoperit complet de deșeurile de la cariera de Cupru. Deșeurile de aici nu conțin cianură.",
+    "moreDetailsLink": "http://www.historia.ro/exclusiv_web/actualitate/articol/geam-na-satul-apuseni-furat-sterilul-mina-cupru-ro-ia-poieni",
+    "moreDetailsText": "Mai multe detalii aici...",
+    "iframe": {
+      "src": "https://www.youtube.com/embed/zMvnZnlMzbg"
+    }
   },
   {
     "id": "xxx",

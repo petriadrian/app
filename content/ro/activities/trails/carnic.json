@@ -37,9 +37,9 @@
           "textContent": "Curtea casei Petri are o frumoasă priveliște spre masivul Cârnic. Dacă vă uitați atent de aici spre vârful Cârnicului o să observați o stâncă cu o formă de cal și o cruce în vârful acestuia. Acesta este Sfinxul Cârnicului sau 'Căluțul' cum îi mai spune în zonă, care reprezintă și obiectivul nostru principal pentru acest traseu. Pornim spre Tăul Brazi și Tăul Anghel - două mici lacuri de munte. Plecăm apoi prin pădurea de brazi spre Platoul Cârnic - o mică terasă cu o priveliște frumoasă. Continuăm apoi urcușul până în vârful masivului la Piatra Corbului și Sfinx. ",
           "moreDetailsLink": "http://www.gpsies.com/map.do?fileId=esbtvmiyuytvzprs",
           "moreDetailsText": "Datele GPS și traseul îl puteți găsi și pe gpsies.com. Detalii aici...",
-          "map": {
-            "iframeSrc": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Casa Parohială Unitariană, DC117, Roșia Montană, Alba County, Romania | Casa Heneș, DC117, Roșia Montană, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Tăul Anghel, Rosia Montana, Alba County, Romania | Platoul Cârnic, Rosia Montana, Alba County, Romania | Piatra Corbului, Rosia Montana, Alba County, Romania",
-            "indicationsBoxes": [
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Casa Parohială Unitariană, DC117, Roșia Montană, Alba County, Romania | Casa Heneș, DC117, Roșia Montană, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Tăul Anghel, Rosia Montana, Alba County, Romania | Platoul Cârnic, Rosia Montana, Alba County, Romania | Piatra Corbului, Rosia Montana, Alba County, Romania",
+            "list": [
               {
                 "textOnMouseOver": "durată pe jos",
                 "text": "3h",
