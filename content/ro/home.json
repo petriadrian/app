@@ -18,10 +18,19 @@
         "timeInterval": "12000",
         "slides": [
           {
+            "page": "/activities/trails/weatherStation"
+          },
+          {
             "page": "/activities/trails/romanGalleries"
           },
           {
-            "page": "/activities/trails/weatherStation"
+            "page": "/activities/trails/fourLakes"
+          },
+          {
+            "page": "/activities/cycling"
+          },
+          {
+            "page": "/activities/hiking"
           }
         ]
       }

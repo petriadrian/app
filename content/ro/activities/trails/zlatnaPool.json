@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Ștrandul Zlatna",
     "headlineText": "Traseul spre Ștrandul Zlatna",
-    "description": "Nu e doar un traseu spre ștrand pentru că în cale ve-ți transpira urcând 'Dealul Mare'. Dar destinația e răcoritoare <b>~39km</b>",
+    "description": "Nu e doar un traseu spre ștrand pentru că pe drum veți transpira urcând 'Dealul Mare'. Dar destinația e răcoritoare <b>~39km</b>",
     "headlineImg": "/casapetri/img/activities/trails/zlatnaPool/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -13,6 +13,9 @@
     "carouselAdvertise": [
       {
         "img": "/casaPetri/img/activities/trails/zlatnaPool/carouselAdvertise/1.jpg"
+      },
+      {
+        "img": "/casaPetri/img/activities/trails/zlatnaPool/carouselAdvertise/2.jpg"
       }
     ]
   },
@@ -32,7 +35,7 @@
           "moreDetailsText": "Mai multe detalii despre bazin și ce mai puteți vizita în Zltana găsiți aici",
           "moreDetailsLink": "http://viziteazazlatna.ro/blog/locatii-agrement/zlatna-sport-center-2/#!prettyPhoto",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJ_QzUS1O4TkcR3bMlNuiXfbU&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints= Gura Roșiei, Alba County, Romania",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJ_QzUS1O4TkcR3bMlNuiXfbU&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints= Gura Roșiei, Alba County, Romania | Castel Zlatna",
             "list": [
               {
                 "textOnMouseOver": "durată cu bicicleta",
@@ -76,14 +79,14 @@
           "moreDetailsLink": "http://viziteazazlatna.ro/blog/locatii-agrement/zlatna-sport-center-2/#!prettyPhoto",
           "images": [
             {
-              "title": "",
+              "title": "Bazinul de înot Zlatna",
               "description": "",
               "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/zlatnaPool/thumbnail/1.jpg",
               "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/zlatnaPool/fullSize/1.jpg"
             },
             {
-              "title": "",
-              "description": "",
+              "title": "Bazinul de înot Zlatna",
+              "description": "din câte știm credem că e deschis și noaptea dar aveți grijă pe traseul de întoarcere",
               "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/zlatnaPool/thumbnail/2.jpg",
               "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/zlatnaPool/fullSize/2.jpg"
             }

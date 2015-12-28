@@ -55,7 +55,7 @@
           "images": [
             {
               "title": "Camera cărților",
-              "description": "interior cu biblioteca geamuri si masa, pereti piatra",
+              "description": "aici găsiți 'Dulapul cu cărți' - un fost bufet de bucătărie transformat în bibliotecă. Prin el găsiți cărți vechi și board games.",
               "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room1/thumbnail/1.jpg",
               "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room1/fullSize/1.jpg"
             },
@@ -110,19 +110,19 @@
           "placeholder": "Număr de locuri și preț",
           "selectOptions": [
             {
-              "text": "2 locuri - 120lei/noapte"
+              "text": "2 locuri - 110lei/noapte"
             },
             {
-              "text": "3 locuri - 170lei/noapte"
+              "text": "3 locuri - 165lei/noapte"
             },
             {
-              "text": "4 locuri - 230lei/noapte"
+              "text": "4 locuri - 220lei/noapte"
             },
             {
-              "text": "5 locuri - 280lei/noapte"
+              "text": "5 locuri - 270lei/noapte"
             },
             {
-              "text": "6 locuri - 330lei/noapte"
+              "text": "6 locuri - 310lei/noapte"
             }
           ]
         },
@@ -164,13 +164,13 @@
           "images": [
             {
               "title": "Camera din căsuță",
-              "description": "interior cu paturile așezate pe mijloca",
+              "description": "paturile se pot uni sau twin",
               "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room2/thumbnail/1.jpg",
               "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room2/fullSize/1.jpg"
             },
             {
               "title": "Camera din căsuță",
-              "description": "cu casuța de afara",
+              "description": "exterior",
               "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room2/thumbnail/2.jpg",
               "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room2/fullSize/2.jpg"
             },
@@ -222,7 +222,7 @@
               "text": "1 loc - 60lei/noapte"
             },
             {
-              "text": "2 locuri - 110lei/noapte"
+              "text": "2 locuri - 120lei/noapte"
             }
           ]
         },
@@ -267,13 +267,13 @@
           "images": [
             {
               "title": "Camera din târnaț",
-              "description": "interior cu pereti",
+              "description": "paturi se pot uni sau twin",
               "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room3/thumbnail/1.jpg",
               "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room3/fullSize/1.jpg"
             },
             {
               "title": "Camera din târnaț",
-              "description": "cu casuța de afara",
+              "description": "",
               "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room3/thumbnail/2.jpg",
               "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room3/fullSize/2.jpg"
             },

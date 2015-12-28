@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Trasee ciclism",
     "headlineText": "Testează frânele, umflă rotile și hai cu bița la Roșia!",
-    "description": "De la trasee de MTB pe drumuri de țară printre culmi montane și lacuri până la trasee pe asfalt pentru cursieră/moto/auto spre obiectivele din zonă",
+    "description": "De la trasee de MTB pe drumuri de țară printre culmi montane și lacuri până la trasee pe asfalt (cursieră/moto/auto) spre obiectivele turistice",
     "headlineImg": "/casapetri/img/activities/cycling/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -75,7 +75,7 @@
     },
     {
       "type": "title",
-      "text": "Trasee asfalte (cursieră/auto/moto)",
+      "text": "Trasee asfaltate",
       "iconFortAwesomeClass": "fa fa-map-signs",
       "sectionId": "asphaltTrails",
       "addLinkInPageHeadline": true
