@@ -75,6 +75,8 @@ app.config(['$routeProvider', function ($routeProvider) {
         .when("/activities/trails/fourLakes", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         .when("/activities/trails/rollerCoaster", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         .when("/activities/trails/vulcan", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/zlatnaPool", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/scarisoara", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
 
         .when("/recommendations/steamTrain", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         .when("/recommendations/daffodilMeadow", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})

@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Centrul istoric",
     "headlineText": "Descoperă clădirile de patrimoniu prin traseul centrului istoric",
-    "description": "Centrul celei mai vechi localități din România are multe de zis. Descoperă-i bisericile și clădirile de patrimoniu - <b>4km</b>",
+    "description": "Centrul celei mai vechi localități din România are multe de zis. Descoperă-i bisericile și clădirile de patrimoniu <b>~3km</b>",
     "headlineImg": "/casapetri/img/activities/trails/historicalCenter/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -40,12 +40,12 @@
             "list": [
               {
                 "textOnMouseOver": "durată pe jos",
-                "text": "2h",
+                "text": "~2h",
                 "iconFortAwesomeClass": "fa fa-male"
               },
               {
-                "textOnMouseOver": "lungime dus-întors",
-                "text": "4km",
+                "textOnMouseOver": "lungime",
+                "text": "~3km",
                 "iconFortAwesomeClass": "fa fa-arrows-h"
               },
               {

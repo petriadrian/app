@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Mocănița",
     "headlineText": "Străbate Țara Moților în Mocănița cu abur",
-    "description": "<b>| Iun-Sept |</b> Strabate calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur  |~10km de noi|",
+    "description": "<b>| Iun-Sept |</b> Strabate calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur <b>~10km</b>",
     "headlineImg": "/casaPetri/img/recommendations/steamTrain/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -57,7 +57,7 @@
     },
     {
       "type": "title",
-      "text": "Cum ajung?",
+      "text": "Cum ajung la gară?",
       "iconFortAwesomeClass": "fa fa-map-signs",
       "sectionId": "map",
       "addLinkInPageHeadline": true

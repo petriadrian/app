@@ -38,21 +38,21 @@
           "moreDetailsText": "Aici gasiți același traseu și pe bikemap.net...",
           "moreDetailsLink": "http://www.bikemap.net/en/route/2757824-circuit-tauri-rosia-montana/#/z14/46.30656,23.14124/terrain",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Tăul Țarinii, Rosia Montana, Alba County, Romania| Staţie meteo, Rosia Montana, Alba County, Romania | Vârful Rotundu 1240m, Rosia Montana, Alba County, Romania | Tăul Mare, Rosia Montana, Alba County, Romania | Masivul Şulei, Rosia Montana, Alba County, Romania | Tăul Corna,comuna Rosia Montana, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Tăul Anghel, Rosia Montana, Alba County, Romania | Jig-Vaidoaia, Rosia Montana, Alba County, Romania | Casa Petri Rosia Montana, Historical center, nr. 334, Roșia Montană 517615",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Tăul Țarinii, Rosia Montana, Alba County, Romania| Staţie meteo, Rosia Montana, Alba County, Romania | Vârful Rotundu 1240m, Rosia Montana, Alba County, Romania | Tăul Mare, Rosia Montana, Alba County, Romania | Masivul Şulei, Rosia Montana, Alba County, Romania | Tăul Corna,comuna Rosia Montana, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Tăul Anghel, Rosia Montana, Alba County, Romania | Jig-Vaidoaia, Rosia Montana, Alba County, Romania",
             "list": [
               {
                 "textOnMouseOver": "durată pe jos",
-                "text": "7h",
+                "text": "~7h",
                 "iconFortAwesomeClass": "fa fa-male"
               },
               {
                 "textOnMouseOver": "durată cu bicicleta",
-                "text": "4h",
+                "text": "~4h",
                 "iconFortAwesomeClass": "fa fa-bicycle"
               },
               {
-                "textOnMouseOver": "lungime dus-întors",
-                "text": "16km",
+                "textOnMouseOver": "lungime",
+                "text": "~16km",
                 "iconFortAwesomeClass": "fa fa-arrows-h"
               },
               {

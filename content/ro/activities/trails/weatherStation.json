@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Stația Meteo",
     "headlineText": "Traseul drumului de țară spre Stația Meteo și Tăul Mare",
-    "description": "Descoperim plaiurile Țarnii, apele liniștite ale tăurilor și priveliștea întregului ținut de pe Vârful Rotundu - <b>11km</b>",
+    "description": "Descoperim plaiurile Țarnii, apele liniștite ale tăurilor și priveliștea întregului ținut de pe Vârful Rotundu <b>~10km</b>",
     "headlineImg": "/casapetri/img/activities/trails/weatherStation/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -38,21 +38,21 @@
           "moreDetailsText": "Datele GPS și traseul îl puteți găsi și pe gpsies.com. Detalii aici...",
           "moreDetailsLink": "http://www.gpsies.com/map.do?fileId=angfatdqfdrtdpsu",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJi1rDktfMTkcRD_0U6qTLpqg&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Berg, DC146, Roșia Montană, Alba County, Romania | Tăul Țarinii, Rosia Montana, Alba County, Romania| Vârful Rotundu 1240m, Rosia Montana, Alba County, Romania | Tăul Mare, Rosia Montana, Alba County, Romania | Casa Szekey Acos, DC117, Roșia Montană, Alba County, Romania | Galeria Văidoaia, Rosia Montana, Alba County, Romania | Casa Petri Rosia Montana, Historical center, nr. 334, Roșia Montană 517615",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Berg, DC146, Roșia Montană, Alba County, Romania | Tăul Țarinii, Rosia Montana, Alba County, Romania| Vârful Rotundu 1240m, Rosia Montana, Alba County, Romania | Tăul Mare, Rosia Montana, Alba County, Romania | Casa Szekey Acos, DC117, Roșia Montană, Alba County, Romania | Galeria Văidoaia, Rosia Montana, Alba County, Romania",
             "list": [
               {
                 "textOnMouseOver": "durată pe jos",
-                "text": "5h",
+                "text": "~5h",
                 "iconFortAwesomeClass": "fa fa-male"
               },
               {
                 "textOnMouseOver": "durată cu bicicleta",
-                "text": "3h",
+                "text": "~3h",
                 "iconFortAwesomeClass": "fa fa-bicycle"
               },
               {
-                "textOnMouseOver": "lungime dus-întors",
-                "text": "11km",
+                "textOnMouseOver": "lungime",
+                "text": "~10km",
                 "iconFortAwesomeClass": "fa fa-arrows-h"
               },
               {

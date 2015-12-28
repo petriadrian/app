@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Vulcan",
     "headlineText": "Traseul spre muntele Vulcan",
-    "description": "Descoperiți drumul șerpuit printre Munții Apuseni spre masivul Vulcan - <b>39km</b>",
+    "description": "Descoperiți drumul șerpuit printre Munții Apuseni spre masivul Vulcan <b>~22km</b>",
     "headlineImg": "/casapetri/img/activities/trails/vulcan/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -28,7 +28,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Pentru a ajunge la destinație porniți de la Casa Petri spre Gura Roșiei - Abrud Sat - Ciuruleasa - Muntele Vulcan. Traseul este pe drum asfaltat și este deosebit de frumos întrucât ve-ți parcurge Munții Abrudului și o pădure de conifere al cărei miros de brad sigur vă va rămâne ca amintire. Drumul asfaltat se va termina la poalele muntelui. Pentru a ajunge în vârf va trebui să urcați pe o poteca de munte. ",
+          "textContent": "Pentru a ajunge la destinație porniți de la Casa Petri spre Gura Roșiei - Abrud Sat - Ciuruleasa - Muntele Vulcan. Traseul este unul deosebit deoarece ve-ți parcurge Munții Abrudului și o pădure de conifere al cărei miros de brad sigur vă va rămâne ca amintire. Pentru a ajunge în vârf va trebui să urcați pe o poteca de munte, deoarece drumul asfaltat se va termina la poalele muntelui.  ",
           "moreDetailsText": "",
           "moreDetailsLink": "",
           "iframe": {
@@ -36,17 +36,17 @@
             "list": [
               {
                 "textOnMouseOver": "durată cu bicicleta",
-                "text": "5h",
+                "text": "~5h",
                 "iconFortAwesomeClass": "fa fa-bicycle"
               },
               {
-                "textOnMouseOver": "lungime dus-întors",
-                "text": "39km",
+                "textOnMouseOver": "lungime",
+                "text": "~22km",
                 "iconFortAwesomeClass": "fa fa-arrows-h"
               },
               {
                 "textOnMouseOver": "dificultate",
-                "text": "greu",
+                "text": "mediu",
                 "iconFortAwesomeClass": "fa fa-line-chart"
               }
             ]
@@ -66,8 +66,8 @@
       "specificArticles": [
         {
           "title": "Vulcan",
-          "textContent": "",
-          "moreDetailsText": "Încercați un traseu de escaladă. Mi multe aici...",
+          "textContent": "'Vulcanul este un masiv ce domină net împrejurimile, cu deschidere vastă asupra tuturor munților învecinați ce constă dintr-un platou carstic împadurit, înconjurat aproape în întregime de pereți ce depașesc pe alocuri 150m înălțime. Este declarat rezervație naturală. Din punct de vedere al escaladei și alpinismului, pereții sunt un adevarat paradis, cu rocă aderentă, iar traseele au in general asigurări solide.'",
+          "moreDetailsText": "Sursa și mai multe despre traseele de escaladă găsiți aici...",
           "moreDetailsLink": "http://www.amunteanu.go.ro/buces_vulcan.htm",
           "images": [
             {
@@ -78,7 +78,7 @@
             },
             {
               "title": "Muntele Vulcan",
-              "description": "",
+              "description": "Peretele Corbilor",
               "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/vulcan/thumbnail/2.jpg",
               "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/vulcan/fullSize/2.jpg"
             }
@@ -96,7 +96,7 @@
     {
       "type": "advertise",
       "banner": {
-        "page": "/activities/trails/geamana"
+        "page": "/activities/trails/scarisoara"
       }
     },
     {

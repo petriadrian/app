@@ -1,0 +1,136 @@
+{
+  "presentation": {
+    "title": "Ștrandul Zlatna",
+    "headlineText": "Traseul spre Ștrandul Zlatna",
+    "description": "Nu e doar un traseu spre ștrand pentru că în cale ve-ți transpira urcând 'Dealul Mare'. Dar destinația e răcoritoare <b>~39km</b>",
+    "headlineImg": "/casapetri/img/activities/trails/zlatnaPool/presentation.jpg",
+    "showPageHeadline": true,
+    "url": {
+      "link": "#/activities/trails/zlatnaPool",
+      "textOnMouseOver": "Vezi traseul spre Scărișoara",
+      "openInNewTab": false
+    },
+    "carouselAdvertise": [
+      {
+        "img": "/casaPetri/img/activities/trails/zlatnaPool/carouselAdvertise/1.jpg"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "Traseu",
+      "iconFortAwesomeClass": "fa fa-map-signs",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Ce e cel mai minuant la acest traseu e că o luăm spre un vechi oraș minier 'Zlatna' în care se încercă dezvoltarea turismului. Ce e bine e că au și reușit să facă ceva. Dovezile sunt acest ștrand 'de lux' dotat cu absolut tot ce e necesar și aleea pietonală de lângă el. Dar stați că nu e așa simplu... până acolo trebuie să pedalăm drumul cu serpentine de pe 'Dealul Mare' printre păduri de fagi, conifere. Cu cât mai epuizat ajungi, cu atât va fi baia mai bună :)",
+          "moreDetailsText": "Mai multe detalii despre bazin și ce mai puteți vizita în Zltana găsiți aici",
+          "moreDetailsLink": "http://viziteazazlatna.ro/blog/locatii-agrement/zlatna-sport-center-2/#!prettyPhoto",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJ_QzUS1O4TkcR3bMlNuiXfbU&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints= Gura Roșiei, Alba County, Romania",
+            "list": [
+              {
+                "textOnMouseOver": "durată cu bicicleta",
+                "text": "~?h",
+                "iconFortAwesomeClass": "fa fa-bicycle"
+              },
+              {
+                "textOnMouseOver": "durata cu mașina",
+                "text": "~1h",
+                "iconFortAwesomeClass": "fa fa-car"
+              },
+              {
+                "textOnMouseOver": "lungime",
+                "text": "~39km",
+                "iconFortAwesomeClass": "fa fa-arrows-h"
+              },
+              {
+                "textOnMouseOver": "dificultate",
+                "text": "mediu",
+                "iconFortAwesomeClass": "fa fa-line-chart"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Atracții",
+      "iconFortAwesomeClass": "fa fa-star",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Ștrandul Zlatna",
+          "textContent": "'Zlatna Sport Center este un complex sportiv cu dotări la nivel internațional. Aici găsiți bazine înot (ștrand adulți și copii) în aer liber cu apă încalzita , Centrul SPA, teren tenis zgură și teren fotbal.' Prețurile de intrare sunt mai mult decât acceptabile.",
+          "moreDetailsText": "Mai multe detalii despre bazin și ce mai puteți vizita în Zltana găsiți aici",
+          "moreDetailsLink": "http://viziteazazlatna.ro/blog/locatii-agrement/zlatna-sport-center-2/#!prettyPhoto",
+          "images": [
+            {
+              "title": "",
+              "description": "",
+              "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/zlatnaPool/thumbnail/1.jpg",
+              "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/zlatnaPool/fullSize/1.jpg"
+            },
+            {
+              "title": "",
+              "description": "",
+              "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/zlatnaPool/thumbnail/2.jpg",
+              "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/zlatnaPool/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Gata traseul? Îți recomandam și:",
+      "iconFortAwesomeClass": "fa fa-child",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "banner": {
+        "page": "/recommendations/daffodilMeadow"
+      }
+    },
+    {
+      "type": "title",
+      "text": "Vezi și",
+      "iconFortAwesomeClass": "fa fa-coffee",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/rooms"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/camping"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/hiking"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/cycling"
+        }
+      ]
+    }
+  ]
+}

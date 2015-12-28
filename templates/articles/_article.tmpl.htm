@@ -16,7 +16,7 @@
         </figure>
     </section>
     <section ng-if="!!article.iframe">
-        <iframe class="trailMap" frameborder="0" ng-src="{{article.iframe.src | trustUrl}}" allowfullscreen></iframe>
+        <iframe class="trailMap" frameborder="0" ng-src="{{article.iframe.src | trustUrl}}" allowfullscreen ></iframe>
         <div class="trailIndicators">
             <p ng-if="!!article.iframe.list" ng-repeat="item in article.iframe.list" title="{{item.textOnMouseOver}}">
                 <i ng-class="item.iconFortAwesomeClass"></i>

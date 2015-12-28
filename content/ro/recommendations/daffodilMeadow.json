@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Poina cu narcise",
     "headlineText": "O poiană ca în povești. Narcisele de la Negrileasa",
-    "description": "<b>| Mai |</b> O patura alba si un miros imbatator pun stapanire pe Poiana Negrileasa  |~39km de noi|",
+    "description": "<b>| Mai |</b> O patura alba si un miros imbatator pun stapanire pe Poiana Negrileasa <b>~39km</b>",
     "headlineImg": "/casaPetri/img/recommendations/daffodilMeadow/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -57,7 +57,7 @@
     },
     {
       "type": "title",
-      "text": "Cum ajung?",
+      "text": "Cum ajung la poiană?",
       "iconFortAwesomeClass": "fa fa-map-signs",
       "sectionId": "map",
       "addLinkInPageHeadline": true
@@ -72,7 +72,7 @@
             "list": [
               {
                 "textOnMouseOver": "durată cu bicicleta",
-                "text": "8h",
+                "text": "?h",
                 "iconFortAwesomeClass": "fa fa-bicycle"
               },
               {

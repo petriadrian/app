@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Roller Coaster",
     "headlineText": "Traseul roller coaster - Corna - Seliște",
-    "description": "Coborâș plin de adrenalină pe serpentinele vechiului drum al carierei și urcuș înapoi pe un drum de țară - <b>25km</b>",
+    "description": "Coborâș plin de adrenalină pe serpentinele vechiului drum al carierei și urcuș înapoi pe un drum de țară <b>~25km</b>",
     "headlineImg": "/casapetri/img/activities/trails/rollerCoaster/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -42,12 +42,12 @@
             "list": [
               {
                 "textOnMouseOver": "durată cu bicicleta",
-                "text": "6h",
+                "text": "~6h",
                 "iconFortAwesomeClass": "fa fa-bicycle"
               },
               {
-                "textOnMouseOver": "lungime dus-întors",
-                "text": "25km",
+                "textOnMouseOver": "lungime",
+                "text": "~25km",
                 "iconFortAwesomeClass": "fa fa-arrows-h"
               },
               {

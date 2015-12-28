@@ -305,9 +305,9 @@
   {
     "id": "copperPit",
     "title": "Cariera Roșia Poieni",
-    "textContent": "60% din zăcămintele de cupru din România se află aici. O parte dintre aceste zăcăminte au fost extrase însă efectele exploatării asupra zonei sunt devastatoare. Vizitați cariera și vedeți acestea cu ochii voștri dar  atenție: Pentru a intra la carieră este nevoie să treceți pe la <b>punctul de verificare</b> cu barieră pe care îl întâlniți pe traseu. În funcție de programul lor există posibilitatea să nu vă lase să intrați! Sterilul rezultat de la această carieră a fost deversat în aval peste satul 'Geamăna'",
+    "textContent": "60% din zăcămintele de cupru din România se află aici. O parte dintre aceste zăcăminte au fost extrase însă efectele exploatării asupra zonei sunt devastatoare. Un munte este ras iar sterilul rezultat de aici a fost deversat în aval peste satul 'Geamăna'. Vizitați cariera și vedeți acestea cu ochii voștri dar  atenție: Pentru a intra la carieră este nevoie să treceți pe la <b>punctul de verificare</b> cu barieră pe care îl întâlniți pe traseu. Nu au un program specific de vizitare și există posibilitatea să nu vă lase să intrați(în acest caz traseul se scurtează cu 4km).",
     "moreDetailsLink": "https://www.youtube.com/watch?v=J4bG7oil3gU",
-    "moreDetailsText": "Maia Morgenstern a filmat aici un videoclip pentru a-i face pe oameni să conștientizeze importanța naturii. Îl puteți vedea aici...",
+    "moreDetailsText": "Maia Morgenstern a filmat aici un videoclip pentru a-i face pe oameni să conștientizeze efectele carierelor de suprafață. Îl vedeți aici...",
     "images": [
       {
         "title": "Cariera de Cupru",
@@ -423,7 +423,7 @@
   {
     "id": "geamana",
     "title": "Geamăna",
-    "textContent": "Video-ul de mai jos este cel ami reprezentativ pentru Geamăna. Acesta a fost unul dintre motoarele care i-au făcut pe oameni să conștientizeze că natura este importantă și că trebuie să iasă în stradă pentru a lupta împotriva poluării în perioada în care se dorea construirea unui lac imens de cianură la Roșia Montană. Deocamdată Roșia a scăpat dar pentru satul Geamană e prea târziu. Înafară de turla bisericii, satul e acoperit complet de deșeurile de la cariera de Cupru. Deșeurile de aici nu conțin cianură.",
+    "textContent": "Video-ul de mai jos este cel mai reprezentativ pentru Geamăna. Acesta a fost unul dintre motoarele care i-a făcut pe oameni să conștientizeze că natura este importantă și că trebuie să iasă în stradă pentru a lupta împotriva poluării în perioada în care se dorea construirea unui lac imens de cianură la Roșia Montană. Deocamdată Roșia a scăpat dar pentru satul Geamană e prea târziu. Înafară de turla bisericii, satul e acoperit complet de deșeurile de la cariera de Cupru. Deșeurile de aici nu conțin cianură.",
     "moreDetailsLink": "http://www.historia.ro/exclusiv_web/actualitate/articol/geam-na-satul-apuseni-furat-sterilul-mina-cupru-ro-ia-poieni",
     "moreDetailsText": "Mai multe detalii aici...",
     "iframe": {

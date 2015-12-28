@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Top 10 atracții",
     "headlineText": "<b>Top 10 atracții</b> de vizitat în Roșia Montană!",
-    "description": "Traseul principalelor atracții: centrul istoric, lacurile, galeriile romane - <b>12km</b>",
+    "description": "Traseul principalelor atracții: centrul istoric, lacurile, galeriile romane <b>~10km</b>",
     "headlineImg": "/casapetri/img/activities/trails/topAttractions/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -42,12 +42,12 @@
             "list": [
               {
                 "textOnMouseOver": "durată pe jos",
-                "text": "7h",
+                "text": "~6h",
                 "iconFortAwesomeClass": "fa fa-male"
               },
               {
-                "textOnMouseOver": "lungime dus-întors",
-                "text": "12km",
+                "textOnMouseOver": "lungime",
+                "text": "~10km",
                 "iconFortAwesomeClass": "fa fa-arrows-h"
               },
               {

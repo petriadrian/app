@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Vârful Cârnic",
     "headlineText": "Traseul spre acoperișul întregului ținut - masivul Cârnic",
-    "description": " De pe ulițele satului ajungem la Tăul Brazi și apoi urcăm pe masivul Cârnic la Piatra Corbului și la Sfinx - <b>7km</b>",
+    "description": " De pe ulițele satului ajungem la Tăul Brazi și apoi urcăm pe masivul Cârnic la Piatra Corbului și la Sfinx <b>~5km</b>",
     "headlineImg": "/casapetri/img/activities/trails/carnic/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -42,12 +42,12 @@
             "list": [
               {
                 "textOnMouseOver": "durată pe jos",
-                "text": "3h",
+                "text": "~3h",
                 "iconFortAwesomeClass": "fa fa-male"
               },
               {
-                "textOnMouseOver": "lungime dus-întors",
-                "text": "7km",
+                "textOnMouseOver": "lungime",
+                "text": "~5km",
                 "iconFortAwesomeClass": "fa fa-arrows-h"
               },
               {
