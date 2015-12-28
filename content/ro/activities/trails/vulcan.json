@@ -67,18 +67,20 @@
         {
           "title": "Vulcan",
           "textContent": "",
+          "moreDetailsText": "Încercați un traseu de escaladă. Mi multe aici...",
+          "moreDetailsLink": "http://www.amunteanu.go.ro/buces_vulcan.htm",
           "images": [
             {
-              "title": "Drumul fostei cariere",
-              "description": "spre satul Corna",
-              "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/cornaRoad/thumbnail/1.jpg",
-              "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/cornaRoad/fullSize/1.jpg"
+              "title": "Drumul spre Muntele Vulcan",
+              "description": "",
+              "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/vulcan/thumbnail/1.jpg",
+              "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/vulcan/fullSize/1.jpg"
             },
             {
-              "title": "Drumul pe lângă satul Corna",
-              "description": "în spate se vad o parte din serpentinele de pe lângă satul Corna. Vă puteți aventura și prin sat pentru a vizita cele 2 biserici sau Tăul Cartuș.",
-              "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/cornaRoad/thumbnail/2.jpg",
-              "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/cornaRoad/fullSize/2.jpg"
+              "title": "Muntele Vulcan",
+              "description": "",
+              "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/vulcan/thumbnail/2.jpg",
+              "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/vulcan/fullSize/2.jpg"
             }
           ]
         }
