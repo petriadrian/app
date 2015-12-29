@@ -3,7 +3,7 @@
     "title": "Poiana cu narcise",
     "headlineText": "O poiană ca în povești. Narcisele de la Negrileasa",
     "description": "<b>| Mai |</b> O patura alba si un miros imbatator pun stapanire pe Poiana Negrileasa <b>~39km</b>",
-    "headlineImg": "/casaPetri/img/recommendations/daffodilMeadow/presentation.jpg",
+    "headlineImg": "img/recommendations/daffodilMeadow/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/recommendations/daffodilMeadow",
@@ -12,13 +12,13 @@
     },
     "carouselAdvertise": [
       {
-        "img": "/casaPetri/img/recommendations/daffodilMeadow/carouselAdvertise/1.jpg"
+        "img": "img/recommendations/daffodilMeadow/carouselAdvertise/1.jpg"
       },
       {
-        "img": "/casaPetri/img/recommendations/daffodilMeadow/carouselAdvertise/2.jpg"
+        "img": "img/recommendations/daffodilMeadow/carouselAdvertise/2.jpg"
       },
       {
-        "img": "/casaPetri/img/recommendations/daffodilMeadow/carouselAdvertise/3.jpg"
+        "img": "img/recommendations/daffodilMeadow/carouselAdvertise/3.jpg"
       }
     ]
   },
@@ -42,14 +42,14 @@
             {
               "title": "Poiana cu Narcise",
               "description": "Vă rugăm să nu culegeți multe narcise. Odată rupte se ofilesc destul de rapid și își pierd mirosul ... magia lor are efect doar aici, în mediul lor natural. În schimb faceți multe poze cu ele :)",
-              "thumbnailUrl": "/casaPetri/img/recommendations/daffodilMeadow/thumbnail/1.jpg",
-              "fullSizeUrl": "/casaPetri/img/recommendations/daffodilMeadow/fullSize/1.jpg"
+              "thumbnailUrl": "img/recommendations/daffodilMeadow/thumbnail/1.jpg",
+              "fullSizeUrl": "img/recommendations/daffodilMeadow/fullSize/1.jpg"
             },
             {
               "title": "Poiana cu Narcise",
               "description": "Zona este înconjurată de culmi montane și păduri de conifere. De ai timp poți să te mai aventurezi prin împrejurări",
-              "thumbnailUrl": "/casaPetri/img/recommendations/daffodilMeadow/thumbnail/2.jpg",
-              "fullSizeUrl": "/casaPetri/img/recommendations/daffodilMeadow/fullSize/2.jpg"
+              "thumbnailUrl": "img/recommendations/daffodilMeadow/thumbnail/2.jpg",
+              "fullSizeUrl": "img/recommendations/daffodilMeadow/fullSize/2.jpg"
             }
           ]
         }

@@ -3,7 +3,7 @@
     "title": "Geamăna",
     "headlineText": "Traseul Geamăna - învățați să prețuiți natura",
     "description": "Care este prețul metalelor din telefonul tău sau bijuterii? Vezi cariera de suprafață și satul îngropat în steril <b>~22km</b>",
-    "headlineImg": "/casapetri/img/activities/trails/geamana/presentation.jpg",
+    "headlineImg": "img/activities/trails/geamana/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/trails/geamana",
@@ -12,13 +12,13 @@
     },
     "carouselAdvertise": [
       {
-        "img": "/casaPetri/img/activities/trails/geamana/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/geamana/carouselAdvertise/1.jpg"
       },
       {
-        "img": "/casaPetri/img/activities/trails/geamana/carouselAdvertise/2.jpg"
+        "img": "img/activities/trails/geamana/carouselAdvertise/2.jpg"
       },
       {
-        "img": "/casaPetri/img/activities/trails/geamana/carouselAdvertise/3.jpg"
+        "img": "img/activities/trails/geamana/carouselAdvertise/3.jpg"
       }
     ]
   },

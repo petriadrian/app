@@ -1,38 +1,38 @@
 {
   "logo": {
-    "text": "Casa Roșia Montană",
-    "imgUrl": "/casapetri/img/common/siteLogo.png",
+    "text": "Casa Petri Roșia Montană",
+    "imgUrl": "img/common/siteLogo.png",
     "url": {
       "link": "#/",
-      "textOnMouseOver": "Go to homepage",
+      "textOnMouseOver": "Întoarcete la pagina principală",
       "openInNewTab": false
     }
   },
   "leftButtons": [
     {
-      "text": "Where do i stay?",
+      "text": "Unde stau?",
       "iconFontAwesomeClass": "",
       "url": {
         "link": "#/#accommodation",
-        "textOnMouseOver": "Rooms, camping and facilities",
+        "textOnMouseOver": "Vezi cazare și facilități",
         "openInNewTab": false
       }
     },
     {
-      "text": "Activities?",
+      "text": "Ce fac acolo?",
       "iconFontAwesomeClass": "",
       "url": {
         "link": "#/#activities",
-        "textOnMouseOver": "Go to activities",
+        "textOnMouseOver": "Vezi activități",
         "openInNewTab": false
       }
     },
     {
-      "text": "Do not miss!",
+      "text": "De neratat!",
       "iconFontAwesomeClass": "",
       "url": {
         "link": "#/#recommendations",
-        "textOnMouseOver": "Go to recommendations",
+        "textOnMouseOver": "Vezi activități speciale",
         "openInNewTab": false
       }
     }
@@ -43,16 +43,25 @@
       "iconFontAwesomeClass": "fa fa-lg fa-facebook",
       "url": {
         "link": "https://www.facebook.com/casapetrirosiamontana",
-        "textOnMouseOver": "Follow us on facebook",
+        "textOnMouseOver": "Urmărește-ne pe Facebook",
         "openInNewTab": true
       }
     },
     {
       "text": "",
-      "iconFontAwesomeClass": "fa fa-video-camera",
+      "iconFontAwesomeClass": "fa fa-cloud",
       "url": {
-        "link": "http://www.rmgc.ro/media/galerie-video/webcam/casa-325-rosia-montana.html#container",
-        "textOnMouseOver": "live webCam",
+        "link": "https://www.meteoblue.com/en/weather/forecast/week/ro%C8%99ia-montan%C4%83_romania_668639",
+        "textOnMouseOver": "cum va fi vremea?",
+        "openInNewTab": true
+      }
+    },
+    {
+      "text": "",
+      "iconFontAwesomeClass": "fa fa-map-marker",
+      "url": {
+        "link": "https://www.google.ro/maps/dir//Casa+Petri,+DC146+334,+Ro%C8%99ia+Montan%C4%83+517615/@46.4076261,22.8131462,9z/data=!4m13!1m4!3m3!1s0x474ecce046c99d41:0xc76f83a95070630c!2sCasa+Petri!3b1!4m7!1m0!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754?hl=ro",
+        "textOnMouseOver": "cum ajung?",
         "openInNewTab": true
       }
     }
@@ -61,7 +70,7 @@
     {
       "text": "RO",
       "iconFontAwesomeClass": "",
-      "languageCode": "ro",
+      "languageCode": "en",
       "url": {
         "textOnMouseOver": "schimbă în română",
         "openInNewTab": false

@@ -9,8 +9,8 @@
       {
         "title": "Nastasia - Barcelona(SP)",
         "description": " la Casa Petri",
-        "thumbnailUrl": "/casaPetri/img/reviews/reviewer/thumbnail/1.jpg",
-        "fullSizeUrl": "/casaPetri/img/reviews/reviewer/fullSize/1.jpg"
+        "thumbnailUrl": "img/reviews/reviewer/thumbnail/1.jpg",
+        "fullSizeUrl": "img/reviews/reviewer/fullSize/1.jpg"
       }
     ]
   },
@@ -24,8 +24,8 @@
       {
         "title": "Andreea - Oradea(RO)",
         "description": " la Casa Petri",
-        "thumbnailUrl": "/casaPetri/img/reviews/reviewer/thumbnail/2.jpg",
-        "fullSizeUrl": "/casaPetri/img/reviews/reviewer/fullSize/2.jpg"
+        "thumbnailUrl": "img/reviews/reviewer/thumbnail/2.jpg",
+        "fullSizeUrl": "img/reviews/reviewer/fullSize/2.jpg"
       }
     ]
   },
@@ -37,8 +37,8 @@
       {
         "title": "Felicia - Satu Mare(RO)",
         "description": " la Casa Petri",
-        "thumbnailUrl": "/casaPetri/img/reviews/reviewer/thumbnail/3.jpg",
-        "fullSizeUrl": "/casaPetri/img/reviews/reviewer/fullSize/3.jpg"
+        "thumbnailUrl": "img/reviews/reviewer/thumbnail/3.jpg",
+        "fullSizeUrl": "img/reviews/reviewer/fullSize/3.jpg"
       }
     ]
   }

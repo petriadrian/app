@@ -1,9 +1,9 @@
 {
   "contactCard": {
     "url": {
-      "link": "/casaPetri",
-      "textOnMouseOver" : "Go to homepage",
-      "openInNewTab": false
+      "link": "https://www.google.ro/maps/dir//Casa+Petri,+DC146+334,+Ro%C8%99ia+Montan%C4%83+517615/@46.4076261,22.8131462,9z/data=!4m13!1m4!3m3!1s0x474ecce046c99d41:0xc76f83a95070630c!2sCasa+Petri!3b1!4m7!1m0!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754?hl=ro",
+      "textOnMouseOver" : "Vezi cum ajungi la noi",
+      "openInNewTab": true
     },
     "content": [
       {
@@ -23,22 +23,22 @@
         "iconFortAwesomeClass": "fa fa-envelope-o"
       },
       {
-        "text": "Str. Piață nr.331, Roșia Montană, state Alba, Romania",
+        "text": "Str. Piață nr.331, Roșia Montană, jud. Alba, România",
         "iconFortAwesomeClass": "fa fa-map-marker"
       }
     ]
   },
-  "googleMapLink": "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc",
+  "weatherLink": "https://www.meteoblue.com/en/weather/widget/daily/ro%c8%99ia-montan%c4%83_romania_668639?days=7&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&pictoicon=1&maxtemperature=1&layout=dark",
   "facebookLink": "https://www.facebook.com/casapetrirosiamontana",
   "form": {
     "action": "",
-    "sendButtonText": "Send",
+    "sendButtonText": "Trimite",
     "fields": [
       {
         "type": "textarea",
         "name": "feedback",
         "iconFortAwesomeClass": "fa fa-commenting fa-fw",
-        "placeholder": "We want to improve. Leave us a feedback! ...",
+        "placeholder": "Vrem să ne înbunatătim. Lasă-ne aici un feedback! ...",
         "rows": 3,
         "maxChars": 350,
         "required": true

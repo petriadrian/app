@@ -3,7 +3,7 @@
     "title": "Reviews",
     "headlineText": "Crestem impreuna cu cei ce ne trec pragul",
     "description": "Vezi experiențele și impresiile celor care ne-au vizitat. O parte dintre ei pot fi contactați",
-    "headlineImg": "/casaPetri/img/reviews/presentation.jpg",
+    "headlineImg": "img/reviews/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/reviews",
@@ -12,13 +12,13 @@
     },
     "carouselAdvertise": [
       {
-        "imgUrl": "/casaPetri/img/reviews/carouselAdvertise/1.jpg"
+        "imgUrl": "img/reviews/carouselAdvertise/1.jpg"
       },
       {
-        "imgUrl": "/casaPetri/img/reviews/carouselAdvertise/2.jpg"
+        "imgUrl": "img/reviews/carouselAdvertise/2.jpg"
       },
       {
-        "imgUrl": "/casaPetri/img/reviews/carouselAdvertise/3.jpg"
+        "imgUrl": "img/reviews/carouselAdvertise/3.jpg"
       }
     ]
   },

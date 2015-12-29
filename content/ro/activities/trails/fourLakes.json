@@ -3,7 +3,7 @@
     "title": "4 lacuri",
     "headlineText": "Descoperă traseul celor 4 lacuri din Roșia Montană",
     "description": "Prin acest traseu vei face turul localității pe un drum de țară șerpuit printre lacuri, dealuri și mici sate de munte- <b>16km</b>",
-    "headlineImg": "/casapetri/img/activities/trails/fourLakes/presentation.jpg",
+    "headlineImg": "img/activities/trails/fourLakes/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/trails/fourLakes",
@@ -12,13 +12,13 @@
     },
     "carouselAdvertise": [
       {
-        "img": "/casaPetri/img/activities/trails/fourLakes/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/fourLakes/carouselAdvertise/1.jpg"
       },
       {
-        "img": "/casaPetri/img/activities/trails/fourLakes/carouselAdvertise/2.jpg"
+        "img": "img/activities/trails/fourLakes/carouselAdvertise/2.jpg"
       },
       {
-        "img": "/casaPetri/img/activities/trails/fourLakes/carouselAdvertise/3.jpg"
+        "img": "img/activities/trails/fourLakes/carouselAdvertise/3.jpg"
       }
     ]
   },
@@ -34,7 +34,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Aceasta este varianta mai lungă a traseului 'Stația Meteo'. Pornim de la Casa Petri din Centrul istoric spre plaiurile Țarinii. Când crezi că urcușul nu se mai termină odată, îți apare în față Tăul Țarinii, numai bun să te răcorești puțin cu apă rece de munte. Pornim apoi spre Vârful Rotundu la Stația Meteo. De aici toată valea Roșiei Montne se deschide în fața ta. Apoi cobori printr-o pădure de brazi până dai de vechiul drum miner pe care urci până la Cariera Roșia Poieni. În dreapta o sa vezi Tăul Mare. De la Carieră o iei puțin la vale până ajungi la o potecă ce duce la masivului Lety și Sulei. După ce te saturi de admirat priveliștea o iei pe un drum de piatră până la Tăul Corna. Ne întoarcem apoi pe lângă Piatra Corbului spre Tăul Brazi, ultimul popas înainte de a ajunge acasă.",
+          "textContent": "Aceasta este varianta mai lungă a traseului 'Stația Meteo'. Pornim de la Casa Petri din Centrul istoric spre plaiurile Țarinii. Când crezi că urcușul nu se mai termină odată, îți apare în față Tăul Țarinii, numai bun să te răcorești puțin cu apă rece de munte. Pornim spre Vârful Rotundu la Stația Meteo. Aici e cel mai înalt punct de pe traseu și toată valea Roșiei Montne se deschide în fața ta. Dacă ne uităm de aici în stânga observăm 'Tăul Mare' care este următoarea destinație. Coborâm spre Tău și apoi urcăm iar puțin până pe masivului Lety și Sulei. După ce te saturi de admirat priveliștea o luăm spre Tăul Corna. Ne întoarcem apoi pe sub Piatra Corbului spre Tăul Brazi, ultimul popas înainte de a ajunge acasă.",
           "moreDetailsText": "Aici gasiți același traseu și pe bikemap.net...",
           "moreDetailsLink": "http://www.bikemap.net/en/route/2757824-circuit-tauri-rosia-montana/#/z14/46.30656,23.14124/terrain",
           "iframe": {

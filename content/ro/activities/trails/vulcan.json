@@ -3,7 +3,7 @@
     "title": "Vulcan",
     "headlineText": "Traseul spre muntele Vulcan",
     "description": "Descoperiți drumul șerpuit printre Munții Apuseni spre masivul Vulcan <b>~22km</b>",
-    "headlineImg": "/casapetri/img/activities/trails/vulcan/presentation.jpg",
+    "headlineImg": "img/activities/trails/vulcan/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/trails/vulcan",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "/casaPetri/img/activities/trails/vulcan/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/vulcan/carouselAdvertise/1.jpg"
       }
     ]
   },
@@ -73,14 +73,14 @@
             {
               "title": "Drumul spre Muntele Vulcan",
               "description": "",
-              "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/vulcan/thumbnail/1.jpg",
-              "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/vulcan/fullSize/1.jpg"
+              "thumbnailUrl": "img/activities/trails/attractions/vulcan/thumbnail/1.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/vulcan/fullSize/1.jpg"
             },
             {
               "title": "Muntele Vulcan",
               "description": "Peretele Corbilor",
-              "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/vulcan/thumbnail/2.jpg",
-              "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/vulcan/fullSize/2.jpg"
+              "thumbnailUrl": "img/activities/trails/attractions/vulcan/thumbnail/2.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/vulcan/fullSize/2.jpg"
             }
           ]
         }

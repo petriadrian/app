@@ -3,7 +3,7 @@
     "title": "Top 10 atracții",
     "headlineText": "<b>Top 10 atracții</b> de vizitat în Roșia Montană!",
     "description": "Traseul principalelor atracții: centrul istoric, lacurile, galeriile romane <b>~10km</b>",
-    "headlineImg": "/casapetri/img/activities/trails/topAttractions/presentation.jpg",
+    "headlineImg": "img/activities/trails/topAttractions/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/trails/topAttractions",
@@ -12,13 +12,13 @@
     },
     "carouselAdvertise": [
       {
-        "img": "/casaPetri/img/activities/trails/topAttractions/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/topAttractions/carouselAdvertise/1.jpg"
       },
       {
-        "img": "/casaPetri/img/activities/trails/topAttractions/carouselAdvertise/2.jpg"
+        "img": "img/activities/trails/topAttractions/carouselAdvertise/2.jpg"
       },
       {
-        "img": "/casaPetri/img/activities/trails/topAttractions/carouselAdvertise/3.jpg"
+        "img": "img/activities/trails/topAttractions/carouselAdvertise/3.jpg"
       }
     ]
   },
@@ -34,7 +34,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Ați ajuns în Rosia Montana sau plănuiți o vizită și nu prea aveți mult timp? Vă propunem acest traseu care cuprinde <b>principalele</b> obiective din celălalte trasee. Sub hartă găsiți câteva imagini și sfaturi despre principalele obiectivele pe care le întâlniți pe acest traseu. Porniți de la Casa Petri care se află chiar în centrul istoric și vizitați pas cu pas fiecare obiectiv.",
+          "textContent": "Ați ajuns în Rosia Montana sau plănuiți o vizită și nu prea aveți mult timp? Vă propunem acest traseu care cuprinde <b>principalele</b> obiective turistice de aici. Sub hartă găsiți câteva imagini și sfaturi despre aceste obiective. Porniți de la Casa Petri care se află chiar în centrul istoric și vizitați pas cu pas fiecare obiectiv.",
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=sfinxul%20carnic&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Galeriile Romane, Roșia Montană, Județul Alba | Berg, DC146, Roșia Montană 517615|Biserica Romano-Catolică, Roșia Montană|Biserica Unitariană, 530, Roșia Montană|Galeria Văidoaia, Rosia Montana, Alba County, Romania| Casa Szekey Acos, DC117, Roșia Montană, Alba County, Romania | Platoul Cârnic, Rosia Montana, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Piatra Corbului, Rosia Montana, Alba County, Romania",
             "list": [

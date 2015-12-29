@@ -16,22 +16,22 @@ function scrollToAnchor() {
 
 // dynamicContentLoader(templatePathSuffix, contentPathSuffix, idParentElement, templateId);
 function dynamicContentLoader(templatePathSuffix, contentPathSuffix, idParentElement, templateId) {
-    $.get('/casaPetri/template/' + templatePathSuffix, function (template) {
+    $.get('template/' + templatePathSuffix, function (template) {
         $('#' + idParentElement).append(template);
-        $.get('/casaPetri/content/' + getLanguage() + '/' + contentPathSuffix, function (content) {
+        $.get('content/' + getLanguage() + '/' + contentPathSuffix, function (content) {
             $('#' + templateId).tmpl(content).appendTo('#' + idParentElement);
         })
     });
 }
 
 function loadContentWithSpecificIds(templatePathSuffix, allItemsContentPathSuffix, itemsToBeLoadedPathSuffix, idParentElement, templateId) {
-    $.getJSON('/casaPetri/content/' + getLanguage() + '/' + itemsToBeLoadedPathSuffix, function (neededItems) {
+    $.getJSON('content/' + getLanguage() + '/' + itemsToBeLoadedPathSuffix, function (neededItems) {
         var neededItemsIds = [];
         $.each(neededItems, function (key, neededItem) {
             neededItemsIds.push(neededItem.id);
         });
-        $.getJSON('/casaPetri/content/' + getLanguage() + '/' + allItemsContentPathSuffix, function (allItemsContent) {
-            $.get('/casaPetri/template/' + templatePathSuffix, function (template) {
+        $.getJSON('content/' + getLanguage() + '/' + allItemsContentPathSuffix, function (allItemsContent) {
+            $.get('template/' + templatePathSuffix, function (template) {
                 $('#' + idParentElement).append(template);
                 var finalItems = new Array(neededItemsIds.length);
                 $.each(allItemsContent, function (key, itemContent) {
@@ -49,7 +49,7 @@ function loadContentWithSpecificIds(templatePathSuffix, allItemsContentPathSuffi
 }
 
 function htmlContentLoader(htmlPageSuffix, idParentElement) {
-    $.get('/casaPetri/pages/' + htmlPageSuffix, function (content) {
+    $.get('pages/' + htmlPageSuffix, function (content) {
         $('#' + idParentElement).append(content);
     });
 }

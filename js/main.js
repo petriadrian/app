@@ -29,7 +29,7 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http) {
     };
     //get Articles function
     $rootScope.getArticles = function(categoryArticles, idsOfTheNeededArticles) {
-        var path = '/casaPetri/content/' + 'ro' + '/common/articles/' + categoryArticles + '.json';
+        var path = 'content/' + 'ro' + '/common/articles/' + categoryArticles + '.json';
         var neededArticlesIds = [];
         $.each(idsOfTheNeededArticles, function (key, neededArticle) {
             neededArticlesIds.push(neededArticle.id);
@@ -94,7 +94,7 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
     } else {
         pageSuffix = $location.$$path;
     }
-    var pageContentPath = '/casaPetri/content/' + 'ro' + pageSuffix + '.json';
+    var pageContentPath = 'content/' + 'ro' + pageSuffix + '.json';
     $http.get(pageContentPath).success(function (pageContentResult) {
         $scope.pageContent = pageContentResult;
     });
@@ -118,7 +118,7 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
 
 app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, localizationService) {
 
-    var headerContentPath = '/casaPetri/content/' + localizationService.language + '/common/header.json';
+    var headerContentPath = 'content/' + localizationService.language + '/common/header.json';
     $http.get(headerContentPath).success(function (headerContentResult) {
         $scope.headerContent = headerContentResult;
     });
@@ -132,7 +132,7 @@ app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, local
     });
     $scope.reloadContent = function (newLanguage) {
         $rootScope.userLanguage = newLanguage;
-        var headerContentPath = '/casaPetri/content/' + newLanguage + '/common/header.json';
+        var headerContentPath = 'content/' + newLanguage + '/common/header.json';
         $http.get(headerContentPath).success(function (headerContentResult) {
             $scope.headerContent = headerContentResult;
         });
@@ -142,15 +142,15 @@ app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, local
 
 app.controller('FooterCtrl', function ($scope, $rootScope, $http, $timeout, localizationService) {
 
-    var reviewsPagePath = '/casaPetri/content/' + 'ro' + '/reviews.json';
+    var reviewsPagePath = 'content/' + 'ro' + '/reviews.json';
     $http.get(reviewsPagePath).success(function (reviewPageContent) {
         $scope.reviewPresentation = reviewPageContent.presentation;
     });
-    var reviewsArticlesPath = '/casaPetri/content/' + 'ro' + '/common/articles/reviews.json';
+    var reviewsArticlesPath = 'content/' + 'ro' + '/common/articles/reviews.json';
     $http.get(reviewsArticlesPath).success(function (reviewArticles) {
         $scope.reviews = reviewArticles;
     });
-    var footerContentPath = '/casaPetri/content/' + localizationService.language + '/common/footer.json';
+    var footerContentPath = 'content/' + localizationService.language + '/common/footer.json';
     $http.get(footerContentPath).success(function (footerContentResult) {
         $scope.footerContent = footerContentResult;
     });
@@ -165,7 +165,7 @@ app.controller('FooterCtrl', function ($scope, $rootScope, $http, $timeout, loca
     $scope.reloadContent = function (newLanguage) {
         console.log('language changed: footer');
         $rootScope.userLanguage = newLanguage;
-        var footerContentPath = '/casaPetri/content/' + newLanguage + '/common/footer.json';
+        var footerContentPath = 'content/' + newLanguage + '/common/footer.json';
         $http.get(footerContentPath).success(function (footerContentResult) {
             $scope.footerContent = footerContentResult;
         });
@@ -174,7 +174,7 @@ app.controller('FooterCtrl', function ($scope, $rootScope, $http, $timeout, loca
 
 app.controller('GetPagePresentationCtrl', function ($scope, $rootScope, $http) {
     
-    var pageToLoadPath = '/casaPetri/content/' + 'ro' + $scope.pagePresentationPath + '.json';
+    var pageToLoadPath = 'content/' + 'ro' + $scope.pagePresentationPath + '.json';
     $http.get(pageToLoadPath).success(function (pageResult) {
         $scope.pagePresentation = pageResult.presentation;
     });

@@ -3,7 +3,7 @@
     "title": "Ghețarul Scărișoara",
     "headlineText": "Traseul spre Ghețarul Scărișoara... brrrr",
     "description": "Unul dintre cele mai mari ghetare subterane din lume iar traseul e unul dintre cele mai pitoresti din Apuseni <b>~58km</b>",
-    "headlineImg": "/casapetri/img/activities/trails/scarisoara/presentation.jpg",
+    "headlineImg": "img/activities/trails/scarisoara/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/trails/scarisoara",
@@ -12,10 +12,10 @@
     },
     "carouselAdvertise": [
       {
-        "img": "/casaPetri/img/activities/trails/scarisoara/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/scarisoara/carouselAdvertise/1.jpg"
       },
       {
-        "img": "/casaPetri/img/activities/trails/scarisoara/carouselAdvertise/2.jpg"
+        "img": "img/activities/trails/scarisoara/carouselAdvertise/2.jpg"
       }
     ]
   },
@@ -81,14 +81,14 @@
             {
               "title": "Intrarea în ghețarul Scărișoara",
               "description": "",
-              "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/scarisoara/thumbnail/1.jpg",
-              "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/scarisoara/fullSize/1.jpg"
+              "thumbnailUrl": "img/activities/trails/attractions/scarisoara/thumbnail/1.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/scarisoara/fullSize/1.jpg"
             },
             {
               "title": "Ghețarul Scărișoara",
               "description": "blocul de gheață în formă de rechin",
-              "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/scarisoara/thumbnail/2.jpg",
-              "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/scarisoara/fullSize/2.jpg"
+              "thumbnailUrl": "img/activities/trails/attractions/scarisoara/thumbnail/2.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/scarisoara/fullSize/2.jpg"
             }
           ]
         }

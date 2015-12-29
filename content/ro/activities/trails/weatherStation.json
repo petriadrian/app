@@ -3,7 +3,7 @@
     "title": "Stația Meteo",
     "headlineText": "Descoperă traseul drumului de țară spre Stația Meteo",
     "description": "Vizităm plaiurile Țarnii, apele liniștite ale tăurilor și priveliștea întregului ținut de pe Vârful Rotundu <b>~10km</b>",
-    "headlineImg": "/casapetri/img/activities/trails/weatherStation/presentation.jpg",
+    "headlineImg": "img/activities/trails/weatherStation/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/trails/weatherStation",
@@ -12,13 +12,13 @@
     },
     "carouselAdvertise": [
       {
-        "img": "/casaPetri/img/activities/trails/weatherStation/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/weatherStation/carouselAdvertise/1.jpg"
       },
       {
-        "img": "/casaPetri/img/activities/trails/weatherStation/carouselAdvertise/2.jpg"
+        "img": "img/activities/trails/weatherStation/carouselAdvertise/2.jpg"
       },
       {
-        "img": "/casaPetri/img/activities/trails/weatherStation/carouselAdvertise/3.jpg"
+        "img": "img/activities/trails/weatherStation/carouselAdvertise/3.jpg"
       }
     ]
   },

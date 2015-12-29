@@ -3,16 +3,16 @@
     "title": "Camere",
     "id": "bookRooms",
     "details": "Căsuța a fost cinematograf, spital ?i banc? iar acum este redeschis? ca spa?iu de cazare. Vizita?i-o!",
-    "destinationPageLink": "location.href='/casaPetri/pages/accommodation/casaPetri/rooms.html?lang=ro'",
+    "destinationPageLink": "location.href='pages/accommodationrooms.html?lang=ro'",
     "carouselImages": [
       {
-        "carouselImgUrl": "/casaPetri/img/accommodation/casaPetri/rooms/pageAdvertiseBox/1.jpg"
+        "carouselImgUrl": "img/accommodationrooms/pageAdvertiseBox/1.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/accommodation/casaPetri/rooms/pageAdvertiseBox/2.jpg"
+        "carouselImgUrl": "img/accommodationrooms/pageAdvertiseBox/2.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/accommodation/casaPetri/rooms/pageAdvertiseBox/3.jpg"
+        "carouselImgUrl": "img/accommodationrooms/pageAdvertiseBox/3.jpg"
       }
     ],
     "carouselTimeInterval": "12000"
@@ -21,16 +21,16 @@
     "title": "Mancare",
     "id": "foodRecommendations",
     "details": "Cazare la mii de stele sub lumina lunii? Rezerva un loc de cort cu acces la baie si bucatarie",
-    "destinationPageLink": "location.href='/casaPetri/pages/accommodation/casaPetri/camping.html?lang=ro'",
+    "destinationPageLink": "location.href='pages/accommodationcamping.html?lang=ro'",
     "carouselImages": [
       {
-        "carouselImgUrl": "/casaPetri/img/accommodation/casaPetri/camping/pageAdvertiseBox/1.jpg"
+        "carouselImgUrl": "img/accommodationcamping/pageAdvertiseBox/1.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/accommodation/casaPetri/camping/pageAdvertiseBox/2.jpg"
+        "carouselImgUrl": "img/accommodationcamping/pageAdvertiseBox/2.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/accommodation/casaPetri/camping/pageAdvertiseBox/3.jpg"
+        "carouselImgUrl": "img/accommodationcamping/pageAdvertiseBox/3.jpg"
       }
     ],
     "carouselTimeInterval": "12000"
@@ -39,16 +39,16 @@
     "title": "Campare",
     "id": "bookCamping",
     "details": "Cazare la mii de stele sub lumina lunii? Rezerva un loc de cort cu acces la baie si bucatarie",
-    "destinationPageLink": "location.href='/casaPetri/pages/accommodation/casaPetri/camping.html?lang=ro'",
+    "destinationPageLink": "location.href='pages/accommodationcamping.html?lang=ro'",
     "carouselImages": [
       {
-        "carouselImgUrl": "/casaPetri/img/accommodation/casaPetri/camping/pageAdvertiseBox/1.jpg"
+        "carouselImgUrl": "img/accommodationcamping/pageAdvertiseBox/1.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/accommodation/casaPetri/camping/pageAdvertiseBox/2.jpg"
+        "carouselImgUrl": "img/accommodationcamping/pageAdvertiseBox/2.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/accommodation/casaPetri/camping/pageAdvertiseBox/3.jpg"
+        "carouselImgUrl": "img/accommodationcamping/pageAdvertiseBox/3.jpg"
       }
     ],
     "carouselTimeInterval": "12000"
@@ -57,16 +57,16 @@
     "title": "Reviews",
     "id": "houseReviews",
     "details": "Vezi experiențele și impresiile celor care ne-au vizitat. O parte dintre ei pot fi contactați",
-    "destinationPageLink": "location.href='/casaPetri/pages/review.html?lang=ro'",
+    "destinationPageLink": "location.href='pages/review.html?lang=ro'",
     "carouselImages": [
       {
-        "carouselImgUrl": "/casaPetri/img/review/pageAdvertiseBox/1.jpg"
+        "carouselImgUrl": "img/review/pageAdvertiseBox/1.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/review/pageAdvertiseBox/2.jpg"
+        "carouselImgUrl": "img/review/pageAdvertiseBox/2.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/review/pageAdvertiseBox/3.jpg"
+        "carouselImgUrl": "img/review/pageAdvertiseBox/3.jpg"
       }
     ],
     "carouselTimeInterval": "12000"
@@ -75,16 +75,16 @@
     "title": "Trasee drumeții",
     "id": "hikingPaths",
     "details": "Plimbări ușoare pe ulițele satului printre biserici și clădiri de patrimoniu până la trasee pe culmi montane, lacuri și monumente naturale",
-    "destinationPageLink": "location.href='/casaPetri/pages/activities/hiking.html?lang=ro'",
+    "destinationPageLink": "location.href='pages/activities/hiking.html?lang=ro'",
     "carouselImages": [
       {
-        "carouselImgUrl": "/casaPetri/img/activities/hiking/pageAdvertiseBox/1.jpg"
+        "carouselImgUrl": "img/activities/hiking/pageAdvertiseBox/1.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/activities/hiking/pageAdvertiseBox/2.jpg"
+        "carouselImgUrl": "img/activities/hiking/pageAdvertiseBox/2.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/activities/hiking/pageAdvertiseBox/3.jpg"
+        "carouselImgUrl": "img/activities/hiking/pageAdvertiseBox/3.jpg"
       }
     ],
     "carouselTimeInterval": "12000"
@@ -93,16 +93,16 @@
     "title": "Trasee ciclism",
     "id": "cyclingPaths",
     "details": "Trasee de MTB pe drumuri de țară printre culmi montane, lacuri  și păduri până la trasee de cursieră pe asfalt spre obiectivele din zonă",
-    "destinationPageLink": "location.href='/casaPetri/pages/activities/cycling.html?lang=ro'",
+    "destinationPageLink": "location.href='pages/activities/cycling.html?lang=ro'",
     "carouselImages": [
       {
-        "carouselImgUrl": "/casaPetri/img/activities/cycling/pageAdvertiseBox/1.jpg"
+        "carouselImgUrl": "img/activities/cycling/pageAdvertiseBox/1.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/activities/cycling/pageAdvertiseBox/2.jpg"
+        "carouselImgUrl": "img/activities/cycling/pageAdvertiseBox/2.jpg"
       },
       {
-        "carouselImgUrl": "/casaPetri/img/activities/cycling/pageAdvertiseBox/3.jpg"
+        "carouselImgUrl": "img/activities/cycling/pageAdvertiseBox/3.jpg"
       }
     ],
     "carouselTimeInterval": "12000"

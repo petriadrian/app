@@ -3,7 +3,7 @@
     "title": "Camere",
     "headlineText": "O cafea într-o dimineață la Roșia Montană?",
     "description": "Fost cinematograf, bancă și centru medical a comunei, acum căsuța își deschide porțile ca spațiu de cazare",
-    "headlineImg": "/casapetri/img/accommodation/rooms/presentation.jpg",
+    "headlineImg": "img/accommodation/rooms/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/accommodation/rooms",
@@ -12,13 +12,13 @@
     },
     "carouselAdvertise": [
       {
-        "img": "/casaPetri/img/accommodation/rooms/carouselAdvertise/1.jpg"
+        "img": "img/accommodation/rooms/carouselAdvertise/1.jpg"
       },
       {
-        "img": "/casaPetri/img/accommodation/rooms/carouselAdvertise/2.jpg"
+        "img": "img/accommodation/rooms/carouselAdvertise/2.jpg"
       },
       {
-        "img": "/casaPetri/img/accommodation/rooms/carouselAdvertise/3.jpg"
+        "img": "img/accommodation/rooms/carouselAdvertise/3.jpg"
       }
     ]
   },
@@ -35,7 +35,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Situată în centrul istoric al Roșiei Montane, fost sediu de bancă, spital și cinematograf, Casa Petri funcționează astăzi ca spațiu de cazare. S-a păstrat stilul și organizarea casei și s-au scos în evidență elementele tradiționale. Podelele de lemn, zugrăveala de var, geamurile și ușile de lemn au fost păstrate și restaurate. Cărți, ziare și reviste vechi o să găsiți cam prin toata căsuța. Acestea pot fi citite, răsfoite dar vă rugăm ca la plecare să le puneți la locul lor. De vi iarna află că am păstrat și modul de încălzire al camerelor prin teracote pe lemne, parcă adormi mai usor când auzi focul tihnind în sobă. <br>Oferim <b>10% discount celor care vin cu bicicleta sau cu chitara (si le și folosești)</b>. </br> În momentul rezervării specificati facilitățile dorite pentru a ne asigura că sunt disponibile. Este interzis fumatul în interior, ascultatul de muzică tare sau comportamentul necivilizat. Prin efectuarea unei rezervări vă asumați că ați luat la cunoștință de acestea. <br><b>După rezervare o să revenim cu un email sau telefon de confirmare.</b> <br>Prețul este negociabil în funcție de numărul de persoane sau perioadă (datele noastre de contact le găsiți în footer-ul siteu-lui)."
+          "textContent": "Situată în centrul istoric al Roșiei Montane, fost sediu de bancă, spital și cinematograf, Casa Petri funcționează astăzi ca spațiu de cazare. S-a păstrat stilul și organizarea casei și s-au scos în evidență elementele tradiționale. Podelele de lemn, zugrăveala de var, geamurile și ușile de lemn au fost păstrate și restaurate. Cărți, ziare și reviste vechi o să găsiți cam prin toata căsuța. Acestea pot fi citite, răsfoite dar vă rugăm ca la plecare să le puneți la locul lor. De vi iarna află că am păstrat și modul de încălzire al camerelor prin teracote pe lemne, parcă adormi mai usor când auzi focul tihnind în sobă. <br>Oferim <b>10% discount celor care vin cu bicicleta sau cu chitara (si le și folosești)</b>. </br> În momentul rezervării specificați facilitățile dorite pentru a ne asigura că sunt disponibile. Este interzis fumatul în interior, ascultatul de muzică tare sau comportamentul necivilizat. Prin efectuarea unei rezervări vă asumați că ați luat la cunoștință de acestea. <br><b>După rezervare o să revenim cu un email sau telefon de confirmare.</b>"
         }
       ]
     },
@@ -56,20 +56,20 @@
             {
               "title": "Camera cărților",
               "description": "aici găsiți 'Dulapul cu cărți' - un fost bufet de bucătărie transformat în bibliotecă. Prin el găsiți cărți vechi și board games.",
-              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room1/thumbnail/1.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room1/fullSize/1.jpg"
+              "thumbnailUrl": "img/accommodation/rooms/room1/thumbnail/1.jpg",
+              "fullSizeUrl": "img/accommodation/rooms/room1/fullSize/1.jpg"
             },
             {
               "title": "Camera cărților",
               "description": "In vitrina din camera sunt poze vechi din Rosia, flori de mina si obiecte folosite in trecut in zona. Camera are 4 paturi separate tip bunck beds. La cerere se mai poate extinde canapeaua astfel se mai suplimenteaza cu inca un loc sau doua. Printr-o rezervare se rezerva toata camera.",
-              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room1/thumbnail/2.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room1/fullSize/2.jpg"
+              "thumbnailUrl": "img/accommodation/rooms/room1/thumbnail/2.jpg",
+              "fullSizeUrl": "img/accommodation/rooms/room1/fullSize/2.jpg"
             },
             {
               "title": "Camera cărților - baie propie",
               "description": "Încălzire prin boiler electric",
-              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room1/thumbnail/3.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room1/fullSize/3.jpg"
+              "thumbnailUrl": "img/accommodation/rooms/room1/thumbnail/3.jpg",
+              "fullSizeUrl": "img/accommodation/rooms/room1/fullSize/3.jpg"
             }
           ]
         }
@@ -165,20 +165,20 @@
             {
               "title": "Camera din căsuță",
               "description": "paturile se pot uni sau twin",
-              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room2/thumbnail/1.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room2/fullSize/1.jpg"
+              "thumbnailUrl": "img/accommodation/rooms/room2/thumbnail/1.jpg",
+              "fullSizeUrl": "img/accommodation/rooms/room2/fullSize/1.jpg"
             },
             {
               "title": "Camera din căsuță",
               "description": "exterior",
-              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room2/thumbnail/2.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room2/fullSize/2.jpg"
+              "thumbnailUrl": "img/accommodation/rooms/room2/thumbnail/2.jpg",
+              "fullSizeUrl": "img/accommodation/rooms/room2/fullSize/2.jpg"
             },
             {
               "title": "Camera din căsuță - baie propie",
               "description": "Încălzire prin boiler pe lemne",
-              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room2/thumbnail/3.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room2/fullSize/3.jpg"
+              "thumbnailUrl": "img/accommodation/rooms/room2/thumbnail/3.jpg",
+              "fullSizeUrl": "img/accommodation/rooms/room2/fullSize/3.jpg"
             }
           ]
         }
@@ -268,20 +268,20 @@
             {
               "title": "Camera din târnaț",
               "description": "paturi se pot uni sau twin",
-              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room3/thumbnail/1.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room3/fullSize/1.jpg"
+              "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/1.jpg",
+              "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/1.jpg"
             },
             {
               "title": "Camera din târnaț",
               "description": "",
-              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room3/thumbnail/2.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room3/fullSize/2.jpg"
+              "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/2.jpg",
+              "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/2.jpg"
             },
             {
               "title": "Camera din târnaț - baie pe hol",
               "description": "Încălzire prin boiler electric",
-              "thumbnailUrl": "/casaPetri/img/accommodation/rooms/room3/thumbnail/3.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/rooms/room3/fullSize/3.jpg"
+              "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/3.jpg",
+              "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/3.jpg"
             }
           ]
         }

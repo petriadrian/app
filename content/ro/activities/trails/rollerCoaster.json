@@ -3,7 +3,7 @@
     "title": "Roller Coaster",
     "headlineText": "Traseul roller coaster - Corna - Seliște",
     "description": "Coborâș plin de adrenalină pe serpentinele vechiului drum al carierei și urcuș înapoi pe un drum de țară <b>~25km</b>",
-    "headlineImg": "/casapetri/img/activities/trails/rollerCoaster/presentation.jpg",
+    "headlineImg": "img/activities/trails/rollerCoaster/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/trails/rollerCoaster",
@@ -12,13 +12,13 @@
     },
     "carouselAdvertise": [
       {
-        "img": "/casaPetri/img/activities/trails/rollerCoaster/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/rollerCoaster/carouselAdvertise/1.jpg"
       },
       {
-        "img": "/casaPetri/img/activities/trails/rollerCoaster/carouselAdvertise/2.jpg"
+        "img": "img/activities/trails/rollerCoaster/carouselAdvertise/2.jpg"
       },
       {
-        "img": "/casaPetri/img/activities/trails/rollerCoaster/carouselAdvertise/3.jpg"
+        "img": "img/activities/trails/rollerCoaster/carouselAdvertise/3.jpg"
       }
     ]
   },
@@ -90,14 +90,14 @@
             {
               "title": "Drumul fostei cariere",
               "description": "spre satul Corna",
-              "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/cornaRoad/thumbnail/1.jpg",
-              "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/cornaRoad/fullSize/1.jpg"
+              "thumbnailUrl": "img/activities/trails/attractions/cornaRoad/thumbnail/1.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/cornaRoad/fullSize/1.jpg"
             },
             {
               "title": "Drumul pe lângă satul Corna",
               "description": "în spate se vad o parte din serpentinele de pe lângă satul Corna. Vă puteți aventura și prin sat pentru a vizita cele 2 biserici sau Tăul Cartuș.",
-              "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/cornaRoad/thumbnail/2.jpg",
-              "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/cornaRoad/fullSize/2.jpg"
+              "thumbnailUrl": "img/activities/trails/attractions/cornaRoad/thumbnail/2.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/cornaRoad/fullSize/2.jpg"
             }
           ]
         }
@@ -115,8 +115,8 @@
             {
               "title": "Abrud",
               "description": "centrul istoric - Biserica Romano Catolică",
-              "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/abrud/thumbnail/1.jpg",
-              "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/abrud/fullSize/1.jpg"
+              "thumbnailUrl": "img/activities/trails/attractions/abrud/thumbnail/1.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/abrud/fullSize/1.jpg"
             }
           ]
         },
@@ -127,14 +127,14 @@
             {
               "title": "Drumul de țară prin Seliște",
               "description": "",
-              "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/selisteRoad/thumbnail/1.jpg",
-              "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/selisteRoad/fullSize/1.jpg"
+              "thumbnailUrl": "img/activities/trails/attractions/selisteRoad/thumbnail/1.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/selisteRoad/fullSize/1.jpg"
             },
             {
               "title": "Tăul Țapului",
               "description": "",
-              "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/selisteRoad/thumbnail/2.jpg",
-              "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/selisteRoad/fullSize/2.jpg"
+              "thumbnailUrl": "img/activities/trails/attractions/selisteRoad/thumbnail/2.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/selisteRoad/fullSize/2.jpg"
             }
           ]
         }

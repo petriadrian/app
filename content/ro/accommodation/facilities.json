@@ -3,7 +3,7 @@
     "title": "Facilități",
     "headlineText": "Facilitățile și locușoarele cosy de la Casa Petri",
     "description": "Hamacele cu priveliște, 'Dulapul cu cărți', board games, terasa...",
-    "headlineImg": "/casaPetri/img/accommodation/facilities/presentation.jpg",
+    "headlineImg": "img/accommodation/facilities/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/accommodation/facilities",
@@ -33,45 +33,45 @@
           "images": [
             {
               "title": "Căsuța de vară",
-              "description": "Poate ploua si nu poti sta afara. Aici puteti lua masa, urmari un film sau sa jucati un board game. Ai jucat vreodata Saboteour in localitate cu peste 150km de galerii subterane? Poate nu e ca si cataratul pe munte dar e o senzatie si asta...",
-              "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/livingroom.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/livingroom.jpg"
+              "description": "Poate ploua și nu poți sta afară. Aici puteti lua masa, urmări un film sau sa jucați un board game. Te-ai jucat vreodată Saboteour în localitate cu peste 150km de galerii subterane? Poate nu e ca si cățăratul pe munte dar e o senzație și asta...",
+              "thumbnailUrl": "img/accommodation/facilities/cosySpots/thumbnail/livingroom.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cosySpots/fullSize/livingroom.jpg"
             },
             {
               "title": "Măsuța de cafea din târnaț",
-              "description": "Tarnatul e specific caselor din zona, e un hol cu gemulete mici de lemn. Bunicii nostrii obisnuiau de dimineata sa isi bea cafeaua aici si sa lase putin geamul crapat pentru a intra aer curat ca sa se trezeasca usor",
-              "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/coffeeTable.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/coffeeTable.jpg"
+              "description": "Târnațul e specific caselor din zonă, e un hol cu gemulețe mici de lemn. Bunicii nostrii obișnuiau de dimineață să își bea cafeaua aici și să lase puțin geamul crăpat pentru a intra aer curat ca sa se trezească ușor",
+              "thumbnailUrl": "img/accommodation/facilities/cosySpots/thumbnail/coffeeTable.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cosySpots/fullSize/coffeeTable.jpg"
             },
             {
               "title": "Ușa cu cărți",
-              "description": "Un locusor improvizat plin cu carti vechi. Daca iti place sa simti mirosul cartilor atunci cand citesti acesta e locul tau",
-              "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/doorBook.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/doorBook.jpg"
+              "description": "Un locușor improvizat plin cu carți vechi. Dacă îți place să simți mirosul cărților atunci când citești, acesta e locul tău",
+              "thumbnailUrl": "img/accommodation/facilities/cosySpots/thumbnail/doorBook.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cosySpots/fullSize/doorBook.jpg"
             },
             {
-              "title": "Locusoarele dintre cufarale cu reviste vechi",
-              "description": "Ce tot vrei sa fii la curent cu stirile de actualitate?! Lasa ca faci asta la job ... Aici poti rasfoi carti, reviste, ziare vechi. Nu rata colectia de ziare cu Rosia Monatana",
-              "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/booksPlaces.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/booksPlaces.jpg"
+              "title": "Locușoarele dintre cufărale cu reviste vechi",
+              "description": "De ce să fii la curent cu știrile de actualitate?! Lasă că faci asta la job ... Aici poți răsfoi cărți, reviste, ziare vechi. Nu rata colecția de ziare cu Roșia Montană",
+              "thumbnailUrl": "img/accommodation/facilities/cosySpots/thumbnail/booksPlaces.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cosySpots/fullSize/booksPlaces.jpg"
             },
             {
-              "title": "Leneveala in hamac",
-              "description": "Da ce are daca merg la munte si lenevesc intr-un hamac pe facebook? Daca tot am gasit free wifi ... ",
-              "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/hammock.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/hammock.jpg"
+              "title": "Leneveală în hamac",
+              "description": "'Și ce dacă merg la munte și lenevesc într-un hamac pe facebook? Dacă tot am găsit free wifi ...'",
+              "thumbnailUrl": "img/accommodation/facilities/cosySpots/thumbnail/hammock.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cosySpots/fullSize/hammock.jpg"
             },
             {
-              "title": "Masuta din foisor",
-              "description": "Cu priveliste spre masivul Carnic, e numa buna de stat la povesti, inchinat pahare de tuica sau luat masa inainte de a pleca pe traseu",
-              "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/pavilion.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/pavilion.jpg"
+              "title": "Măsuța din foișor",
+              "description": "Cu priveliște spre masivul Cârnic, e numai bună de stat la povești, închinat pahare de țuică sau luat masa înainte de a pleca pe traseu",
+              "thumbnailUrl": "img/accommodation/facilities/cosySpots/thumbnail/pavilion.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cosySpots/fullSize/pavilion.jpg"
             },
             {
-              "title": "Dulapul cu carti",
-              "description": "Ca tot nu am mai folosit acest bufet de bucatarie am zis sa nu il aruncam ci sa il transformam in ceva. Cum aveam multe carti...a devenit biblioteca. Dulapiorul mic de langa este cu carti pentru copii.",
-              "thumbnailUrl": "/casaPetri/img/accommodation/facilities/cosySpots/thumbnail/booksCloset.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/facilities/cosySpots/fullSize/booksCloset.jpg"
+              "title": "Dulapul cu cărți",
+              "description": "Că tot nu am mai folosit acest bufet de bucătărie am zis să nu îl aruncăm ci să îl transformăm în ceva. Cum aveam multe carți...a devenit bibliotecă. Aici găsiți și o secțiune cu cărți pentru copii.",
+              "thumbnailUrl": "img/accommodation/facilities/cosySpots/thumbnail/booksCloset.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cosySpots/fullSize/booksCloset.jpg"
             }
           ]
         }
@@ -103,7 +103,7 @@
           "details": "Saboteour, Carcasone, Activity..."
         },
         {
-          "title": "Parcare gratuita",
+          "title": "Parcare gratuită",
           "iconFortAwesomeClass": "fa fa-car",
           "details": ""
         },
@@ -113,7 +113,7 @@
           "details": ""
         },
         {
-          "title": "Informatii turistice",
+          "title": "Informații turistice",
           "iconFortAwesomeClass": "fa fa-info-circle",
           "details": ""
         },

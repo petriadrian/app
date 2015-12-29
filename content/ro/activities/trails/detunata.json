@@ -3,7 +3,7 @@
     "title": "Detunata",
     "headlineText": "Traseul satelor din Apuseni spre masivul Detunata",
     "description": "Pornim spre Tăul Mare, tecem prin câteva cătune de munte până ajungem pe vârful coloanelor de bazalt <b>~10km</b>",
-    "headlineImg": "/casapetri/img/activities/trails/detunata/presentation.jpg",
+    "headlineImg": "img/activities/trails/detunata/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/trails/detunata",
@@ -12,13 +12,13 @@
     },
     "carouselAdvertise": [
       {
-        "img": "/casaPetri/img/activities/trails/detunata/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/detunata/carouselAdvertise/1.jpg"
       },
       {
-        "img": "/casaPetri/img/activities/trails/detunata/carouselAdvertise/2.jpg"
+        "img": "img/activities/trails/detunata/carouselAdvertise/2.jpg"
       },
       {
-        "img": "/casaPetri/img/activities/trails/detunata/carouselAdvertise/3.jpg"
+        "img": "img/activities/trails/detunata/carouselAdvertise/3.jpg"
       }
     ]
   },

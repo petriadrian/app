@@ -215,7 +215,7 @@ footer {
 
 footer section,
 footer .row section{
-    margin: 2% 0px;
+    margin: 1% 0px;
     overflow: hidden;
     float: none;
     display: inline-block;
@@ -255,6 +255,7 @@ footer .row section{
 
 .gradientFromWhiteToTransparent{
     position: relative;
+	overflow: hidden;
 }
 
 .gradientFromWhiteToTransparent:after {

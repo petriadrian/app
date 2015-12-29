@@ -3,7 +3,7 @@
     "title": "Campare",
     "headlineText": "Am adormit sub stele, era munte, liniște, răcoare...",
     "description": "Curtea casei e numai bună de campat în siguranță, cu accees la facilități și priveliște spre munte",
-    "headlineImg": "/casapetri/img/accommodation/camping/presentation.jpg",
+    "headlineImg": "img/accommodation/camping/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/accommodation/camping",
@@ -12,13 +12,13 @@
     },
     "carouselAdvertise": [
       {
-        "img": "/casaPetri/img/accommodation/camping/carouselAdvertise/1.jpg"
+        "img": "img/accommodation/camping/carouselAdvertise/1.jpg"
       },
       {
-        "img": "/casaPetri/img/accommodation/camping/carouselAdvertise/2.jpg"
+        "img": "img/accommodation/camping/carouselAdvertise/2.jpg"
       },
       {
-        "img": "/casaPetri/img/accommodation/camping/carouselAdvertise/3.jpg"
+        "img": "img/accommodation/camping/carouselAdvertise/3.jpg"
       }
     ]
   },
@@ -35,7 +35,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Ia-ti cortul in spate si hai la Rosia. Ai acces la baie, bucatarie, camera de zi, terasa cu loc pentru gratar si parcare. Cortul si lucrurile iti vor fi in siguranta intrucat zona de campare este in curte ingradita. Prețul este de  <b>25lei/persoană/noapte</b> și este <b>negociabil</b> în funcție de durata și numar de persoane (specificati in sectiunea -Altele- din formular daca doriti discount). Oferim <b>10% discount celor care vin cu bicicleta sau cu chitara (si le si folosesc)</b>. </br>In momentul rezervarii specificati facilitatile dorite pentru a ne asigura ca sunt disponibile. </br>Este interzis fumatul in interiorul casei, ascultatul de muzica tare sau comportamentul necivilizat. Facutul focului este permis doar in spatiile amenajate. Prin efectuarea unei rezervari va asumati ca ati luat la cunostinta de acestea. <br><b>Dupa rezervare o sa revenim cu un email sau telefon de confirmare.</b>. <br>Pentru orice alte detalii ne puteti contacta la:"
+          "textContent": "Ia-ti cortul in spate si hai la Rosia. Ai acces la baie, bucatarie, camera de zi, terasa cu loc pentru gratar si parcare. Cortul si lucrurile iti vor fi in siguranta intrucat zona de campare este in curte ingradita. Prețul este de  <b>25lei/persoană/noapte</b>. Oferim <b>10% discount celor care vin cu bicicleta sau cu chitara (si le si folosesc)</b>. </br>In momentul rezervarii specificati facilitatile dorite pentru a ne asigura ca sunt disponibile. </br>Este interzis fumatul in interiorul casei, ascultatul de muzica tare sau comportamentul necivilizat. Facutul focului este permis doar in spatiile amenajate. Prin efectuarea unei rezervari va asumati ca ati luat la cunostinta de acestea. <br><b>Dupa rezervare o sa revenim cu un email sau telefon de confirmare.</b>."
         }
       ]
     },
@@ -55,21 +55,21 @@
           "images": [
             {
               "title": "Zona de campare",
-              "description": "text",
-              "thumbnailUrl": "/casaPetri/img/accommodation/camping/thumbnail/1.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/camping/fullSize/1.jpg"
+              "description": "",
+              "thumbnailUrl": "img/accommodation/camping/thumbnail/1.jpg",
+              "fullSizeUrl": "img/accommodation/camping/fullSize/1.jpg"
             },
             {
               "title": "Zona de campare",
-              "description": "text",
-              "thumbnailUrl": "/casaPetri/img/accommodation/camping/thumbnail/2.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/camping/fullSize/2.jpg"
+              "description": "",
+              "thumbnailUrl": "img/accommodation/camping/thumbnail/2.jpg",
+              "fullSizeUrl": "img/accommodation/camping/fullSize/2.jpg"
             },
             {
               "title": "Zona de campare - baie",
               "description": "Încălzire prin boiler pe lemne",
-              "thumbnailUrl": "/casaPetri/img/accommodation/camping/thumbnail/3.jpg",
-              "fullSizeUrl": "/casaPetri/img/accommodation/camping/fullSize/3.jpg"
+              "thumbnailUrl": "img/accommodation/camping/thumbnail/3.jpg",
+              "fullSizeUrl": "img/accommodation/camping/fullSize/3.jpg"
             }
           ]
         }

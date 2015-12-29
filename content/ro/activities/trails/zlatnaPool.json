@@ -3,7 +3,7 @@
     "title": "Ștrandul Zlatna",
     "headlineText": "Traseul spre Ștrandul Zlatna",
     "description": "Nu e doar un traseu spre ștrand pentru că pe drum veți transpira urcând 'Dealul Mare'. Dar destinația e răcoritoare <b>~39km</b>",
-    "headlineImg": "/casapetri/img/activities/trails/zlatnaPool/presentation.jpg",
+    "headlineImg": "img/activities/trails/zlatnaPool/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/trails/zlatnaPool",
@@ -12,10 +12,10 @@
     },
     "carouselAdvertise": [
       {
-        "img": "/casaPetri/img/activities/trails/zlatnaPool/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/zlatnaPool/carouselAdvertise/1.jpg"
       },
       {
-        "img": "/casaPetri/img/activities/trails/zlatnaPool/carouselAdvertise/2.jpg"
+        "img": "img/activities/trails/zlatnaPool/carouselAdvertise/2.jpg"
       }
     ]
   },
@@ -31,7 +31,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Ce e cel mai minuant la acest traseu e că o luăm spre un vechi oraș minier 'Zlatna' în care se încercă dezvoltarea turismului. Ce e bine e că au și reușit să facă ceva. Dovezile sunt acest ștrand 'de lux' dotat cu absolut tot ce e necesar și aleea pietonală de lângă el. Dar stați că nu e așa simplu... până acolo trebuie să pedalăm drumul cu serpentine de pe 'Dealul Mare' printre păduri de fagi, conifere. Cu cât mai epuizat ajungi, cu atât va fi baia mai bună :)",
+          "textContent": "Ce e cel mai minuant la acest traseu e că o luăm spre un vechi oraș minier 'Zlatna' în care se încercă dezvoltarea turismului. Ce e bine e că au și reușit să facă ceva. Dovezile sunt acest ștrand 'de lux' dotat cu absolut tot ce e necesar și aleea pietonală de lângă el. Dar stați că nu e așa simplu... până acolo trebuie să pedalăm drumul cu serpentine de pe 'Dealul Mare' printre păduri de fagi și conifere. Cu cât mai epuizat ajungi, cu atât va fi baia mai bună :)",
           "moreDetailsText": "Mai multe detalii despre bazin și ce mai puteți vizita în Zltana găsiți aici",
           "moreDetailsLink": "http://viziteazazlatna.ro/blog/locatii-agrement/zlatna-sport-center-2/#!prettyPhoto",
           "iframe": {
@@ -81,14 +81,14 @@
             {
               "title": "Bazinul de înot Zlatna",
               "description": "",
-              "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/zlatnaPool/thumbnail/1.jpg",
-              "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/zlatnaPool/fullSize/1.jpg"
+              "thumbnailUrl": "img/activities/trails/attractions/zlatnaPool/thumbnail/1.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/zlatnaPool/fullSize/1.jpg"
             },
             {
               "title": "Bazinul de înot Zlatna",
               "description": "din câte știm credem că e deschis și noaptea dar aveți grijă pe traseul de întoarcere",
-              "thumbnailUrl": "/casaPetri/img/activities/trails/attractions/zlatnaPool/thumbnail/2.jpg",
-              "fullSizeUrl": "/casaPetri/img/activities/trails/attractions/zlatnaPool/fullSize/2.jpg"
+              "thumbnailUrl": "img/activities/trails/attractions/zlatnaPool/thumbnail/2.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/zlatnaPool/fullSize/2.jpg"
             }
           ]
         }
