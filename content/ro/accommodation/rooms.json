@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Camere",
     "headlineText": "O cafea într-o dimineață la Roșia Montană?",
-    "description": "Fost cinematograf, bancă și centru medical a comunei, acum căsuța își deschide porțile ca spațiu de cazare",
+    "description": "Fost cinematograf, bancă și centru medical al comunei, acum căsuța își deschide porțile ca spațiu de cazare",
     "headlineImg": "img/accommodation/rooms/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -61,7 +61,7 @@
             },
             {
               "title": "Camera cărților",
-              "description": "In vitrina din camera sunt poze vechi din Rosia, flori de mina si obiecte folosite in trecut in zona. Camera are 4 paturi separate tip bunck beds. La cerere se mai poate extinde canapeaua astfel se mai suplimenteaza cu inca un loc sau doua. Printr-o rezervare se rezerva toata camera.",
+              "description": "In vitrina din camera sunt poze vechi din Rosia, flori de mina si obiecte folosite in trecut in zona. Camera are 4 paturi separate și o canapea care la cerere se poate extinde pentru a mai suplimenta cu încă un loc sau doua.",
               "thumbnailUrl": "img/accommodation/rooms/room1/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room1/fullSize/2.jpg"
             },
@@ -164,7 +164,7 @@
           "images": [
             {
               "title": "Camera din căsuță",
-              "description": "paturile se pot uni sau twin",
+              "description": "la cerere se pot uni paturile",
               "thumbnailUrl": "img/accommodation/rooms/room2/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room2/fullSize/1.jpg"
             },
@@ -267,13 +267,13 @@
           "images": [
             {
               "title": "Camera din târnaț",
-              "description": "paturi se pot uni sau twin",
+              "description": "la cerere paturile se pot despărți",
               "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/1.jpg"
             },
             {
               "title": "Camera din târnaț",
-              "description": "",
+              "description": "s-a păstrat zugrăveala făcută de bunicii noștri.",
               "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/2.jpg"
             },

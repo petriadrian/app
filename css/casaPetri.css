@@ -318,7 +318,7 @@ footer .row section{
 }
 
 .photoAlbum {
-    width: 320px;
+    max-width: 320px;
     margin: 5px;
     background-color: rgba(256, 256, 256, 0.8);
     box-shadow: 0px 3px 5px rgba(34, 25, 25, 0.4);
@@ -328,7 +328,7 @@ footer .row section{
 }
 
 .photoAlbum img {
-    width: 100%;
+    max-width: 100%;
     max-height: 320px;
     border-bottom: 1px solid #ccc;
     padding-bottom: 15px;
