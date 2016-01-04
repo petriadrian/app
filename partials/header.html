@@ -18,7 +18,7 @@
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
                 <li data-ng-repeat="button in headerContent.leftButtons">
-                    <a title="{{button.url.textOnMouseOver}}" ng-click="openUrl(button.url)"
+                    <a title="{{button.url.textOnMouseOver}}" ng-click="redirectOrScroll(button.url)"
                        data-toggle="collapse" data-target=".navbar-collapse.in">
                         <i ng-if="!!button.iconFontAwesomeClass" class="{{button.iconFontAwesomeClass}}"></i>
                         <span ng-if="!!button.text">{{button.text}}</span></a>

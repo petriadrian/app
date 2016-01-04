@@ -7,16 +7,16 @@
         <a ng-if="!!article.moreDetailsLink" ng-href="{{article.moreDetailsLink}}" class="btn-link" target="_blank">{{article.moreDetailsText}}</i></a>
     </section>
     <section ng-if="!!article.images">
-        <figure ng-repeat="image in article.images" class="photoAlbum defaultClickStyle">
-            <a rel="fancybox" title="{{image.title}} - {{image.description}}" class="fancybox"
-               ng-href="{{image.fullSizeUrl}}">
+        <a rel="fancybox" ng-repeat="image in article.images" title="{{image.title}} - {{image.description}}" class="fancybox"
+           ng-href="{{image.fullSizeUrl}}">
+            <figure class="photoAlbum defaultClickStyle">
                 <img ng-src="{{image.thumbnailUrl | trustUrl}}" alt="{{image.title}}">
                 <figcaption><b> {{image.title}} </b> - {{image.description}}</figcaption>
-            </a>
-        </figure>
+            </figure>
+        </a>
     </section>
     <section ng-if="!!article.iframe">
-        <iframe class="trailMap" frameborder="0" ng-src="{{article.iframe.src | trustUrl}}" allowfullscreen ></iframe>
+        <iframe class="trailMap" frameborder="0" ng-src="{{article.iframe.src | trustUrl}}" allowfullscreen></iframe>
         <div class="trailIndicators">
             <p ng-if="!!article.iframe.list" ng-repeat="item in article.iframe.list" title="{{item.textOnMouseOver}}">
                 <i ng-class="item.iconFortAwesomeClass"></i>

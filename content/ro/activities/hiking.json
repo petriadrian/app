@@ -35,7 +35,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Localitatea noastră e înconjurată de munți, văi, lacuri, biserici, clădiri de patrimoniu și galerii antice. Abia așteptăm să o descoperi și tu! Așa că de vii la Roșia, nu vizita doar muzeul și magazinul din centru, pentru că zona are mult mai mult de oferit. Uită-te peste traseele de mai jos și găsește-le pe cele pe care vrei să le parcurgi, în funcție de condiția ta fizică și de atracțiile turistice pe care vrei să le vezi. <br>Harțile traseelor sunt realizate pe <b>google maps</b> astfel că poți face zoom, poți să le vezi în modul satelit sau hartă sau poți să le accesezi de pe orice telefon sau tabletă în timpul drumeției.  Sub hartă găsiți indicațiile (durată, lungime) estimate de noi, iar cele dîn interiorul hărții sunt estimate de google.",
+          "textContent": "Localitatea noastră e înconjurată de munți, văi, lacuri, biserici, clădiri de patrimoniu și galerii antice. Abia așteptăm să o descoperi și tu! Așa că de vii la Roșia, nu vizita doar muzeul și magazinul din centru, pentru că zona are mult mai mult de oferit. Uită-te peste traseele de mai jos și găsește-le pe cele pe care vrei să le parcurgi, în funcție de condiția ta fizică și de atracțiile turistice pe care vrei să le vezi. <br>Harțile traseelor sunt realizate pe <b>google maps</b> astfel că poți face zoom, poți să le vezi în modul satelit sau hartă sau poți să le accesezi de pe orice telefon sau tabletă în timpul drumeției.  Sub harta fiecărui traseu găsiți indicațiile (durată, lungime) estimate de noi, iar cele dîn interiorul hărții sunt estimate de google.",
           "moreDetailsLink": "https://turismlarosiamontana.wordpress.com/about",
           "moreDetailsText": "Ocazional se organizează și tururi ghidate. Mai multe detalii aici..."
         }
@@ -109,6 +109,10 @@
       "carouselBoxes": [
         {
           "timeInterval": "12000",
+          "page": "/activities/cycling"
+        },
+        {
+          "timeInterval": "12000",
           "page": "/accommodation/rooms"
         },
         {
@@ -117,11 +121,7 @@
         },
         {
           "timeInterval": "12000",
-          "page": "/activities/hiking"
-        },
-        {
-          "timeInterval": "12000",
-          "page": "/activities/cycling"
+          "page": "/accommodation/facilities"
         }
       ]
     }

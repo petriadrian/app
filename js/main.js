@@ -116,7 +116,7 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
     };
 });
 
-app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, localizationService) {
+app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, $location, localizationService) {
 
     var headerContentPath = 'content/' + localizationService.language + '/common/header.json';
     $http.get(headerContentPath).success(function (headerContentResult) {
@@ -138,6 +138,14 @@ app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, local
         });
     };
 
+    //redirect or just scroll from header buttons
+    $scope.redirectOrScroll = function(url) {
+        if ($location.$$path == '/') {
+            $rootScope.scrollTo((url.link).substring((url.link).lastIndexOf("#")+1))
+        } else {
+            $rootScope.openUrl(url)
+        }
+    }
 });
 
 app.controller('FooterCtrl', function ($scope, $rootScope, $http, $timeout, localizationService) {

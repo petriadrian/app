@@ -138,7 +138,8 @@ body {
     overflow: hidden;
 }
 
-.advertiseBox .carousel-indicators{
+.advertiseBox .carousel-indicators,
+.advertiseBox .carousel-control {
     display: none;
 }
 

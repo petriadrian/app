@@ -2,19 +2,19 @@
   {
     "id": "romanGalleries",
     "title": "Galeriile Romane - Muzeu",
-    "textContent": "Patrunde-ti in adancul muntiilor si descoperiti galeriile antice realizate in perioada ocupatiei romane in Dacia pentru a extrage aurul. În subsolul localității există peste 120km de galerii antice însă lungimea lor exactă nu este cunoscută pentru că rețeaua construită timp de aproape 2000 de ani nu a fost cercetată integral până în prezent. Practic oriunde v-ați afla în Roșia vă aflați deasupra unor galerii, ele find dispuse chiar și pe mai multe etaje. La Muzeul Mineritului de aici sunt amenajate și deschise publicului doar 700m din aceste galerii. Nu ratati si exponatele de aici ca de exemplu monumentele funerare și șteampurile(vă lăsăm pe voi să descoperți ce sunt acestea). Muzeul este deschis doar de dimineață iar accesul în galerii se face prin tururi ghidate care durează cam o oră.",
+    "textContent": "În adâncul masivului Orlea o să descoperiți o parte din galeriile antice realizate în perioada ocupației romane în Dacia pentru a extrage aurul. În subsolul localității există peste 120km de astfel de galerii, însă lungimea exactă nu este cunoscută pentru că rețeaua construită timp de aproape 2000 de ani nu a fost cercetată integral. Oriunde vă aflați în Roșia sunteți deasupra unor galerii, ele find dispuse chiar și pe mai multe etaje. Nu ratati si exponatele de aici ca de exemplu monumentele funerare și instalațiile folosite pentru a extrage și prelucra aurul. Muzeul este deschis doar de dimineață iar accesul în galerii se face prin tururi ghidate care durează cam o oră.",
     "moreDetailsLink": "http://www.alba.djc.ro/ObiectiveDetalii.aspx?ID=2184",
-    "moreDetailsText": "Mai multe detalii despre muzeu aici...",
+    "moreDetailsText": "Mai multe detalii aici...",
     "images": [
       {
         "title": "Galeriile Romane",
-        "description": "Sectiunea cu subteranul prezinta o retea de galerii miniere realizate in adancul masivul Orlea, cu dalta si ciocanul.",
+        "description": "Pentru a le vizita se coboara 157 de trepte in subteran.",
         "thumbnailUrl": "img/activities/trails/attractions/romanGalleries/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/romanGalleries/fullSize/1.jpg"
       },
       {
-        "title": "Galeriile Romane",
-        "description": "Pentru a le vizita se coboara 157 de trepte in subteran.",
+        "title": "Șteampurile",
+        "description": "instalație folosită pentru prelucrarea minereului",
         "thumbnailUrl": "img/activities/trails/attractions/romanGalleries/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/romanGalleries/fullSize/2.jpg"
       }
@@ -88,13 +88,13 @@
     "images": [
       {
         "title": "Biserica Unitariana",
-        "description": "Slujbele au loc in fiecare duminica . Preotul de aici, domnul Arpi este unul dintre cei mai apreciati din zona. Se organizeaza chiar si excursii din Cluj la slujbele lui.",
+        "description": "Slujbele din fiecare Duminică, ținute de domnul preot Arpi, sunt destul de apreciate, întrucât se organizează chiar si excursii din Cluj pentru acestea.",
         "thumbnailUrl": "img/activities/trails/attractions/churches/unitarianChurch/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/unitarianChurch/fullSize/1.jpg"
       },
       {
         "title": "Biserica Unitariana",
-        "description": "Preotul sustine dezvoltarea turistica a zonei de aceea ii lasa aici pe cei care doresec sa tina diverse evenimente culturale. Interesati-va daca nu e un astfel de eveniment cand ajungeti pe aici.",
+        "description": "Preotul susține dezvoltarea turistică a zonei, de aceea permite celor ce doresec să țină diverse evenimente culturale aici. Interesați-vă dacă nu e un astfel de eveniment când ajungeți pe aici.",
         "thumbnailUrl": "img/activities/trails/attractions/churches/unitarianChurch/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/unitarianChurch/fullSize/2.jpg"
       }
@@ -103,7 +103,7 @@
   {
     "id": "vaidoaiaGalleries",
     "title": "Galeria și Vârful Jig-Văidoaia",
-    "textContent": "De aici incepe partea mai de munte a traseului pentru ca o sa aveti de urcat pe pietre spre galerie. Galeria este diferita fata de cea vazuta la muzeu si pare mai degraba o pestera. Dar urmele de sapaturi pe locul filoanelor de aur de pe peretii acesteia o sa va convinga ca a fost creeata de stramosii nostri in cautarea aurului. Apoi urcati pe varful masivului din care face parte galeria si bucarati-va de privelistea spre taul brazi, Carnic si intreaga vale a Rosiei Montane",
+    "textContent": "Galeria este diferită față de cea de la Muzeul Mineritului și pare mai degrabă o peșteră. Dar urmele de săpături pe locul filoanelor de aur de pe pereții acesteia o să vă convingă că a fost creeată de stramoșii noștri în căutarea aurului. Urcați apoi și pe vârful masivului și bucurați-vă de privelistea spre Tăul Brazi, Cârnic și întreaga vale a Roșiei Montane. Atenție! Urcușul spre galerie și spre vârf se face pe pietre. ",
     "images": [
       {
         "title": "Galeria Vaidoaia",
@@ -133,8 +133,8 @@
         "fullSizeUrl": "img/activities/trails/attractions/sicilianStreet/fullSize/1.jpg"
       },
       {
-        "title": "Biserica Calvină și Casele aurarilor",
-        "description": "Acesta este stilul tradițional al caselor din zonă simplu și elegant. Văruite în alb complet și cu geamurile de culoare gri. ",
+        "title": "Biserica Calvină și casele aurarilor",
+        "description": "acesta este stilul tradițional al caselor din zonă.",
         "thumbnailUrl": "img/activities/trails/attractions/sicilianStreet/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/sicilianStreet/fullSize/2.jpg"
       }
@@ -164,17 +164,17 @@
   {
     "id": "braziLake",
     "title": "Tăul Brazi",
-    "textContent": "Tăurile din Roșia sunt lacuri artificiale creeate pentru a acumula apa de pe dealuri. Pârâurile din zona erau alimentate de aceste lacuri si astfel se actionau morile steampurilor care macinau aurul. La muzeul mineritului sunt expuse șteampuri și se poate vedea cum functionau. In total exista 7 tauri dar Taul brazi este cel mai pitoresc si mai usor accesibil. Chiar deasupra Taului Brazi se afla Taul Anghel numit in zona si Taul fara fund.",
+    "textContent": "Tăurile din Roșia sunt lacuri artificiale creeate pentru acumularea apei în scopul folosirii ei pentru a acționa morile steampurilor. La muzeul mineritului sunt expuse șteampuri și se poate vedea cum funcționau pentru a produce aur. Drumul de la Casa Petri până la Tăul Brazi e asfaltat și aici o să găsiți și o <b>zonă de agreement</b> cu băncuțe, bărcuțe pe lac și spațiu pentru făcut grătare. Dacă aveți timp, deasupra Tăului Brazi se află Tăul Anghel (sau Tăul fară fund) pe care îl puteți vizita.",
     "images": [
       {
-        "title": "Taul Brazi",
-        "description": "Casuta de la coada lacului este a unui pictor care s-a mutat aici pentru a folosi privelistea drept sursa de inspiratie pentru operele sale. ",
+        "title": "Tăul Brazi",
+        "description": "Căsuța de la coada lacului este a unui pictor care s-a mutat aici pentru a folosi priveliștea drept sursă de inspirație pentru operele sale. ",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/braziLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/braziLake/fullSize/1.jpg"
       },
       {
-        "title": "Taul Brazi",
-        "description": "Aici se afla si o zona de agreement cu bancute si barcute si spatiu pentru facut gratare.",
+        "title": "Tăul Brazi",
+        "description": "dis de dimineață.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/braziLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/braziLake/fullSize/2.jpg"
       }
@@ -229,7 +229,7 @@
     "images": [
       {
         "title": "Piatra Corbului",
-        "description": " Numele ii vine de la forma ei de cap de corb asa cum se vede din vale",
+        "description": " Numele ii vine de la forma ei de cap de corb",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/ravenStone/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/ravenStone/fullSize/1.jpg"
       },
@@ -244,7 +244,7 @@
   {
     "id": "limestoneSculptures",
     "title": "Sculpturile de calcar",
-    "textContent": "Faceți un popas și la Sculpturile de calcar. Pe aici ve-ți întâlni ferme unde puteți întreba de o masă cu bucate tradiționale. \"Asociaţia Internaţională pentru Simpozioanele de Sculptură au organizat aici primul Simpozion Internaţional de Sculptură Monumentală din România. Trei artişti români şi şase artişti invitaţi din Argentina, Canada, Egipt, Franţa, Olanda şi Japonia au constituit o echipă care a reprezentat toate continentele şi care a lucrat timp de o lună într-un spirit de prietenie şi de emulaţie artistică. Simpozionul s-a desfăşurat la Roşia Montana, localitate care deţine un trecut prestigios, fiind în acelaşi timp şi unul dintre primele situri locuite datate din ţară.\" Sculpturile monumentale în piatră au fost donate patrimoniului Roşia Montană",
+    "textContent": "Faceți un popas și la Sculpturile de calcar. Aici ve-ți întâlni și ferme unde puteți întreba de o masă cu bucate tradiționale. \"Asociaţia Internaţională pentru Simpozioanele de Sculptură au organizat aici primul Simpozion Internaţional de Sculptură Monumentală din România. Trei artişti români şi şase artişti invitaţi din Argentina, Canada, Egipt, Franţa, Olanda şi Japonia au constituit o echipă care a reprezentat toate continentele şi care a lucrat timp de o lună într-un spirit de prietenie şi de emulaţie artistică. Simpozionul s-a desfăşurat la Roşia Montana, localitate care deţine un trecut prestigios, fiind în acelaşi timp şi unul dintre primele situri locuite datate din ţară.\" Sculpturile monumentale în piatră au fost donate patrimoniului Roşia Montană",
     "moreDetailsLink": "http://www.simpozionrosiamontana.org/Catalogue_Rosia_Montana.pdf",
     "moreDetailsText": "Mai multe detalii aici.",
     "images": [
@@ -265,7 +265,7 @@
   {
     "id": "tariniLake",
     "title": "Tăul Țarinii",
-    "textContent": "Aici este un mic colț de rai foarte aproape de Casa Petri. Un lac bine ascuns după niște sălcii înalte care își scalda ramurile în el. Acesta se află în țarina Roșiei Montane. Țarina este locul unde roșienii au terenurile agricole. Pe aici localnicii plantează boabe (cartofi), au fânețe, își țin animalele - de aceea o să vedeți terenul împărțit în mici parcele de teren și pe ici colo câte o șură. Anul aceste locuri sunt însuflețite de festivalul FânFest care însuflțește aceste locuri cu tineri ce vin cu corturi..",
+    "textContent": "Aici este un mic colț de rai foarte aproape de Casa Petri. Un lac bine ascuns după niște sălcii înalte care își scalda ramurile în el. Țarina este locul unde roșienii au terenurile agricole, de aceea terenul este împărțit în mici parcele și pe ici, pe colo vedem câte o șură sau căpițe cu fân. Anual aceste locuri sunt însuflețite de festivalul FânFest care umple aceste locuri cu tineri ce vin să stea cu cortul.",
     "moreDetailsLink": "http://www.fanfest.ro",
     "moreDetailsText": "Mai multe detalii despre festival aici...",
     "images": [
@@ -286,11 +286,11 @@
   {
     "id": "weatherStation",
     "title": "Stația Meteo",
-    "textContent": "După un urcuș strajnic pe un drum de țară, ca un tunel rece printr-o pădure de molizi, ajungem la stația meteo de munte Roșia Montană aflată pe Vârful Rotundu(1240m). Această stație este folosită de aviație și deține aparatură pentru detectarea schimbărilor meteorologice.",
+    "textContent": "După un urcuș strajnic pe un drum de țară, traversăm o pădure de molizi și ajungem la stația meteo de munte Roșia Montană aflată pe Vârful Rotundu(1240m). Această stație este folosită de aviație și deține aparatură pentru detectarea schimbărilor meteorologice.",
     "images": [
       {
         "title": "Stația Meteo",
-        "description": "Angajatii stației meteo sunt oameni extraordinari, primitori si extrem de deschiși cu turiștii care ajung pe aici. De obicei oferă tururi ale stației meteo și vă explică cum functionează aparatura dacă sunteți interesat.",
+        "description": "Angajatii stației meteo sunt oameni primitori si extrem de deschiși cu turiștii care ajung pe aici (de obicei oferă tururi ale stației meteo prin care explică cum functionează aparatura)",
         "thumbnailUrl": "img/activities/trails/attractions/weatherStation/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/weatherStation/fullSize/1.jpg"
       },
@@ -326,7 +326,7 @@
   {
     "id": "bigLake",
     "title": "Tăul Mare",
-    "textContent": "După cum îi spune și numele acesta este cel mai mare lac din Roșia, fiind unul din cele mai liniștite și relaxante locuri de pe aici. Are și 2 mici pontoane, numai bune de stat și admirat priveliștea sau de selfie :) . Pe vremuri era folosit pentru antrenarea șteampurilor dar acum este folosit pentru penscuit și agreemet.",
+    "textContent": "După cum îi spune și numele, acesta este cel mai mare lac din Roșia, fiind unul din cele mai liniștite și relaxante locuri de pe aici. Are și 2 mici pontoane, numai bune de stat și admirat priveliștea sau de selfie :) . Pe vremuri era folosit pentru antrenarea șteampurilor dar acum este folosit pentru penscuit și agreemet.",
     "images": [
       {
         "title": "Tăul Mare",

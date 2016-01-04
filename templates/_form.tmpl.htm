@@ -4,9 +4,9 @@
 </button>
 <div style="clear:both"></div>
 
-<form method="post" role="form" ng-class="{'hideElement': section.hideFormUnderButton}"
+<form role="form" ng-class="{'hideElement': section.hideFormUnderButton}"
       class="col-xs-12 col-sm-12 col-md-10 col-lg-8 displayOnCenter"
-      onsubmit="section.action">
+      action="mailto:petriadrian@gmail.com" method="post" novalidate>
     <div data-ng-repeat="field in section.fields" class="input-group">
         <span ng-if="!!field.iconFortAwesomeClass" class="input-group-addon"><i
                 ng-class="field.iconFortAwesomeClass"></i></span>
@@ -64,7 +64,7 @@
             </label>
         </div>
     </div>
-    <button type="submit" class="btn btn-primary">{{section.sendButtonText}}</button>
+    <input type="submit" class="btn btn-primary" value="{{section.sendButtonText}}"/>
 </form>
 
 <div style="clear:both"></div>

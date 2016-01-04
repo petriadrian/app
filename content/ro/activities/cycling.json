@@ -35,7 +35,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Îți propunem cele mai tari trasee din zonă relizate în funcție de condiția ta fizică și tipul de bicicletă preferat (MTB sau cursieră). Cele de MTB te vor plimba pe drumuri de țară, în jurul localității și în satele alăturate spre diverse atracții turistice. Traseele de asfalt sunt realizate pe drumuri nationale spre obiectivele din zonă. Găsește traseele potrivite pentru tine, pune bicicleta pe mașină și hai la Roșia pentru a le parcurge. <br>Harțile traseelor sunt realizate pe <b>google maps</b> astfel că poți face zoom, poți să le vezi în modul satelit sau hartă sau poți să le accesezi de pe orice telefon sau tabletă în timpul drumeției.  Sub hartă găsiți indicațiile (durată, lungime) estimate de noi, iar cele afișate în interiorul hărții sunt estimate de google. Cât timp nu te dai cu bița o poți lăsa în siguranță, închisă într-un garaj din curte.",
+          "textContent": "Îți propunem cele mai tari trasee din zonă relizate în funcție de condiția ta fizică și tipul de bicicletă preferat (MTB sau cursieră). Cele de MTB te vor plimba pe drumuri de țară, în jurul localității și în satele alăturate spre diverse atracții turistice. Traseele de asfalt sunt realizate pe drumuri nationale spre obiectivele din zonă. Găsește traseele potrivite pentru tine, pune bicicleta pe mașină și hai la Roșia pentru a le parcurge. <br>Harțile traseelor sunt realizate pe <b>google maps</b> astfel că poți face zoom, poți să le vezi în modul satelit sau hartă sau poți să le accesezi de pe orice telefon sau tabletă în timpul drumeției.  Sub harta fiecărui traseu găsiți indicațiile (durată, lungime) estimate de noi, iar cele afișate în interiorul hărții sunt estimate de google. Cât timp nu te dai cu bița o poți lăsa în siguranță, închisă într-un garaj din curte.",
           "moreDetailsLink": "https://www.facebook.com/calin.capros",
           "moreDetailsText": "Pentru mai multe detalii despre trasee îl puteți contacta aici pe Călin Caproș (e cel mai priceput în materie de biciclete din zonă. Poate fi contactat și pentru defecțiuni tehnice întrucât are un mic atelier)"
         }
@@ -113,6 +113,10 @@
       "carouselBoxes": [
         {
           "timeInterval": "12000",
+          "page": "/activities/hiking"
+        },
+        {
+          "timeInterval": "12000",
           "page": "/accommodation/rooms"
         },
         {
@@ -121,11 +125,7 @@
         },
         {
           "timeInterval": "12000",
-          "page": "/activities/hiking"
-        },
-        {
-          "timeInterval": "12000",
-          "page": "/activities/cycling"
+          "page": "/accommodation/facilities"
         }
       ]
     }

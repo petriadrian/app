@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Stația Meteo",
     "headlineText": "Descoperă traseul drumului de țară spre Stația Meteo",
-    "description": "Vizităm plaiurile Țarnii, apele liniștite ale tăurilor și priveliștea întregului ținut de pe Vârful Rotundu <b>~10km</b>",
+    "description": "Vizităm plaiurile Țarinei, lacuri de munte și priveliștea întregului ținut de pe Vârful Rotundu <b>~10km</b>",
     "headlineImg": "img/activities/trails/weatherStation/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -34,7 +34,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Acesta este unul dintre cele mai pitorești trasee care vă va plimba prin locul nostru preferat - Țarina. Aici sunt terenurile de pământ pe care roșienii le dețineau aproape de centrul comunei, unde creșteau animale și își țineau culturile. Multe dintre aceste gospodării au dispărut odată ce oamenii au fost plătiți să plece de aici pentru a se deschide o carieră de aur. Dar plaiurile țarinii au scăpat de macinul excavatoarelor și au rămas la fel de frumoase. Traseul vă va duce pe la Tăul Țarinii și apoi până la Stația Meteo de unde vă promitem o priveliște nemaiîntâlnită. A doua parte a traseului vă va coborâ pe la Tăul Mare și chiar înainte de a intra în centrul istoric mai facem un popoas la Galeria Văidoaia și o casă veche cu totul specială.",
+          "textContent": "Acesta este unul dintre cele mai pitorești trasee care te vor plimba prin locul nostru preferat - Țarina. Aici sunt terenurile de pământ pe care roșienii le dețin aproape de centrul comunei, unde își cresc animalele sau culturile de legume. Traseul vă va duce pe la Tăul Țarinii și apoi până la Stația Meteo de unde vă promitem o priveliște nemaiîntâlnită. A doua parte a traseului vă va coborâ pe la Tăul Mare și chiar înainte de a intra în centrul istoric mai facem un popoas la Galeria Văidoaia și o casă veche cu totul specială.",
           "moreDetailsText": "Datele GPS și traseul îl puteți găsi și pe gpsies.com. Detalii aici...",
           "moreDetailsLink": "http://www.gpsies.com/map.do?fileId=angfatdqfdrtdpsu",
           "iframe": {
