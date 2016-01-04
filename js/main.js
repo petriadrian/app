@@ -28,7 +28,7 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http) {
         $location.hash(old);
     };
     //get Articles function
-    $rootScope.getArticles = function(categoryArticles, idsOfTheNeededArticles) {
+    $rootScope.getArticles = function (categoryArticles, idsOfTheNeededArticles) {
         var path = 'content/' + 'ro' + '/common/articles/' + categoryArticles + '.json';
         var neededArticlesIds = [];
         $.each(idsOfTheNeededArticles, function (key, neededArticle) {
@@ -52,7 +52,7 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http) {
  */
 app.config(['$routeProvider', function ($routeProvider) {
     $routeProvider
-        // Home
+    // Home
         .when("/", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         //// Pages
         .when("/reviews", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
@@ -107,13 +107,36 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
     // localization
     $scope.localizationService = localizationService;
     $scope.$watch('localizationService.language', function (oldVal, newVal) {
-        if(!angular.isUndefined(oldVal) && oldVal != newVal) {
+        if (!angular.isUndefined(oldVal) && oldVal != newVal) {
             $scope.reloadContent(newVal);
         }
     });
     $scope.reloadContent = function (language) {
         console.log('content of site not ready yet');
     };
+
+    $scope.formData = {};
+    $scope.sendEmailFromForm = function () {
+        debugger;
+        $.ajax({
+            type: 'POST',
+            url: 'js/send_mail.php',
+            data: $scope.formData,
+            dataType: 'json',
+            success: function (data) {
+
+                // log data to the console so we can see
+                console.log(data);
+
+                // if validation fails
+                // add the error class to show a red input
+                // add the error message to the help block under the input
+                if (!data.success) {
+
+                }
+            }
+        });
+    }
 });
 
 app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, $location, localizationService) {
@@ -126,7 +149,7 @@ app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, $loca
     // localization
     $scope.localizationService = localizationService;
     $scope.$watch('localizationService.language', function (newVal, oldVal) {
-        if(!angular.isUndefined(oldVal) && oldVal != newVal) {
+        if (!angular.isUndefined(oldVal) && oldVal != newVal) {
             $scope.reloadContent(newVal);
         }
     });
@@ -139,9 +162,9 @@ app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, $loca
     };
 
     //redirect or just scroll from header buttons
-    $scope.redirectOrScroll = function(url) {
+    $scope.redirectOrScroll = function (url) {
         if ($location.$$path == '/') {
-            $rootScope.scrollTo((url.link).substring((url.link).lastIndexOf("#")+1))
+            $rootScope.scrollTo((url.link).substring((url.link).lastIndexOf("#") + 1))
         } else {
             $rootScope.openUrl(url)
         }
@@ -166,7 +189,7 @@ app.controller('FooterCtrl', function ($scope, $rootScope, $http, $timeout, loca
     // localization
     $scope.localizationService = localizationService;
     $scope.$watch('localizationService.language', function (newVal, oldVal) {
-        if(!angular.isUndefined(oldVal) && oldVal != newVal) {
+        if (!angular.isUndefined(oldVal) && oldVal != newVal) {
             $scope.reloadContent(newVal);
         }
     });
@@ -181,7 +204,7 @@ app.controller('FooterCtrl', function ($scope, $rootScope, $http, $timeout, loca
 });
 
 app.controller('GetPagePresentationCtrl', function ($scope, $rootScope, $http) {
-    
+
     var pageToLoadPath = 'content/' + 'ro' + $scope.pagePresentationPath + '.json';
     $http.get(pageToLoadPath).success(function (pageResult) {
         $scope.pagePresentation = pageResult.presentation;
@@ -212,7 +235,7 @@ function toggleForm(button) {
     $(button.parentNode).find(".hideElement").toggle(300);
 }
 
-app.factory('localizationService', function() {
+app.factory('localizationService', function () {
     var factory = {};
     factory.language = navigator.language || navigator.userLanguage;
     if (factory.language != RO_LOCALE) {
@@ -220,7 +243,7 @@ app.factory('localizationService', function() {
     }
     factory.changeLanguage = function (lang) {
         console.log('changeLanguage', lang);
-      this.language = lang;
+        this.language = lang;
     };
     return factory;
 });

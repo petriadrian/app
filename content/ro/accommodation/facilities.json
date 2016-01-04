@@ -1,7 +1,7 @@
 {
   "presentation": {
     "title": "Facilități",
-    "headlineText": "Facilitățile și locușoarele cosy de la Casa Petri",
+    "headlineText": "Facilitățile și locușoarele cozy de la Casa Petri",
     "description": "Hamace cu priveliște, 'Dulapul cu cărți', board games, terasa...",
     "headlineImg": "img/accommodation/facilities/presentation.jpg",
     "showPageHeadline": true,
@@ -25,9 +25,9 @@
   "sections": [
     {
       "type": "title",
-      "text": "Cosy Spots",
+      "text": "Cozy Spots",
       "iconFortAwesomeClass": "fa fa-heart",
-      "sectionId": "cosySpots",
+      "sectionId": "cozySpots",
       "addLinkInPageHeadline": true
     },
     {
@@ -40,44 +40,44 @@
             {
               "title": "Căsuța de vară",
               "description": "Aici puteti lua masa, juca un board game sau urmări un film. Te-ai jucat vreodată Saboteour într-o localitate cu peste 150km de galerii subterane? Poate nu e ca si cățăratul pe munte, dar e și asta o experiență...",
-              "thumbnailUrl": "img/accommodation/facilities/cosySpots/thumbnail/livingroom.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cosySpots/fullSize/livingroom.jpg"
+              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/livingroom.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/livingroom.jpg"
             },
             {
               "title": "Măsuța de cafea din târnaț",
               "description": "Târnațul, specific caselor din zonă, este un hol cu gemulețe mici de lemn unde bunicii noștri obișnuiau să își bea cafeaua în fiecare dimineață.",
-              "thumbnailUrl": "img/accommodation/facilities/cosySpots/thumbnail/coffeeTable.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cosySpots/fullSize/coffeeTable.jpg"
+              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/coffeeTable.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/coffeeTable.jpg"
             },
             {
               "title": "Ușa cu cărți",
               "description": "Un locușor improvizat plin cu carți vechi. Dacă îți place să simți mirosul cărților atunci când citești, acesta e locul tău",
-              "thumbnailUrl": "img/accommodation/facilities/cosySpots/thumbnail/doorBook.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cosySpots/fullSize/doorBook.jpg"
+              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/doorBook.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/doorBook.jpg"
             },
             {
               "title": "Locușoarele dintre cufărale cu reviste vechi",
               "description": "De ce să fii la curent cu știrile de actualitate?! Lasă că faci asta la job ... Aici poți răsfoi cărți, reviste, ziare vechi. Nu rata colecția de ziare cu Roșia Montană",
-              "thumbnailUrl": "img/accommodation/facilities/cosySpots/thumbnail/booksPlaces.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cosySpots/fullSize/booksPlaces.jpg"
+              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/booksPlaces.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/booksPlaces.jpg"
             },
             {
               "title": "Leneveală în hamac",
               "description": "În curte sunt câțiva pomi de care, pe vreme bună, agățăm hamce în care poți lenevi pe net dacă tot avem free wifi și aici.",
-              "thumbnailUrl": "img/accommodation/facilities/cosySpots/thumbnail/hammock.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cosySpots/fullSize/hammock.jpg"
+              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/hammock.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/hammock.jpg"
             },
             {
               "title": "Măsuța din foișor",
               "description": "Cu priveliște spre masivul Cârnic, e numai bună de stat la povești, închinat pahare de țuică sau luat masa înainte de a pleca pe traseu",
-              "thumbnailUrl": "img/accommodation/facilities/cosySpots/thumbnail/pavilion.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cosySpots/fullSize/pavilion.jpg"
+              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/pavilion.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/pavilion.jpg"
             },
             {
               "title": "Dulapul cu cărți",
               "description": "Nemaifolosind acest bufet, am decis să nu îl aruncăm, ci să îi găsim o altă întrebuințare. Având multe cărți moștenite, l-am transformat într-o bibliotecă unde am creat chiar și o secțiune cu cărți pentru copii.",
-              "thumbnailUrl": "img/accommodation/facilities/cosySpots/thumbnail/booksCloset.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cosySpots/fullSize/booksCloset.jpg"
+              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/booksCloset.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/booksCloset.jpg"
             }
           ]
         }
@@ -111,11 +111,6 @@
         {
           "title": "Parcare gratuită",
           "iconFortAwesomeClass": "fa fa-car",
-          "details": ""
-        },
-        {
-          "title": "Ecran videoproiector",
-          "iconFortAwesomeClass": "fa fa-television",
           "details": ""
         },
         {

@@ -50,16 +50,30 @@
         </section>
 
         <section class="footerFeedback col-xs-10 col-sm-5 col-md-4 col-lg-3">
-            <form role="form" onsubmit="">
+            <form role="form" action="js/send_mail.php" method="post">
                 <div data-ng-repeat="field in footerContent.form.fields" class="form-group">
-                    <textarea class="form-control"
+                    <input ng-if="field.type == 'hidden'" type="hidden"
+                           name="{{field.name}}"
+                           value="{{field.name}}">
+                    <input ng-if="field.type == 'textRow'"
+                           type="text" class="form-control"
+                           name="{{field.name}}"
+                           maxlength="{{field.maxChars}}"
+                           placeholder="{{field.placeholder}}"
+                           ng-required="field.required"/>
+                    <input ng-if="field.type == 'email'"
+                           type="email" class="form-control"
+                           name="{{field.name}}"
+                           placeholder="{{field.placeholder}}"
+                           ng-required="field.required"/>
+                    <textarea ng-if="field.type == 'textarea'" class="form-control"
                               placeholder="{{field.placeholder}}"
                               rows="{{field.rows}}"
                               maxlength="{{field.maxChars}}"
                               name="{{field.name}}"
                               ng-required="field.required"></textarea>
                 </div>
-                <button type="submit" class="btn btn-primary">{{footerContent.form.sendButtonText}}</button>
+                <input type="submit" class="btn btn-primary" value="{{footerContent.form.sendButtonText}}"/>
             </form>
         </section>
 

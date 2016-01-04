@@ -35,6 +35,10 @@
     "sendButtonText": "Trimite",
     "fields": [
       {
+        "type": "hidden",
+        "name": "new_suggestion"
+      },
+      {
         "type": "textarea",
         "name": "feedback",
         "iconFortAwesomeClass": "fa fa-commenting fa-fw",

@@ -62,6 +62,10 @@
       "sendButtonText": "Trimite",
       "fields": [
         {
+          "type": "hidden",
+          "name": "new_review"
+        },
+        {
           "type": "textarea",
           "name": "feedback",
           "iconFortAwesomeClass": "fa fa-commenting fa-fw",

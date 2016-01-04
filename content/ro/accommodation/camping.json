@@ -77,10 +77,13 @@
     },
     {
       "type": "form",
-      "action": "",
       "sendButtonText": "Trimite",
       "hideFormUnderButton": "Rezervă spațiu de campare",
       "fields": [
+        {
+          "type": "hidden",
+          "name": "camping_reservation"
+        },
         {
           "type": "textRow",
           "name": "name",
@@ -124,16 +127,16 @@
           "title": "Doresc:",
           "checkBoxes": [
             {
+              "name": "parkingSpot",
               "text": "parcare"
             },
             {
+              "name": "kitchenAccess",
               "text": "acces bucătărie și camera de zi"
             },
             {
+              "name": "bikeGarage",
               "text": "garaj biciclete"
-            },
-            {
-              "text": "ecran videoproiector"
             }
           ]
         },

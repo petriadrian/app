@@ -77,10 +77,13 @@
     },
     {
       "type": "form",
-      "action": "",
       "sendButtonText": "Trimite",
       "hideFormUnderButton": "Rezervă camera cărților",
       "fields": [
+        {
+          "type": "hidden",
+          "name": "books_room_reservation"
+        },
         {
           "type": "textRow",
           "name": "name",
@@ -131,16 +134,16 @@
           "title": "Doresc:",
           "checkBoxes": [
             {
+              "name": "parkingSpot",
               "text": "parcare"
             },
             {
+              "name": "kitchenAccess",
               "text": "acces bucătărie și camera de zi"
             },
             {
+              "name": "bikeGarage",
               "text": "garaj biciclete"
-            },
-            {
-              "text": "ecran videoproiector"
             }
           ]
         },
@@ -186,10 +189,13 @@
     },
     {
       "type": "form",
-      "action": "",
       "sendButtonText": "Trimite",
       "hideFormUnderButton": "Rezervă căsuța",
       "fields": [
+        {
+          "type": "hidden",
+          "name": "little_house_reservation"
+        },
         {
           "type": "textRow",
           "name": "name",
@@ -231,16 +237,16 @@
           "title": "Doresc:",
           "checkBoxes": [
             {
+              "name": "doubleBed",
               "text": "pat dublu în cameră"
             },
             {
+              "name": "parkingSpot",
               "text": "parcare"
             },
             {
+              "name": "bikeGarage",
               "text": "garaj biciclete"
-            },
-            {
-              "text": "ecran videoproiector"
             }
           ]
         },
@@ -286,10 +292,13 @@
     },
     {
       "type": "form",
-      "action": "",
       "sendButtonText": "Trimite",
       "hideFormUnderButton": "Rezervă camera din târnaț",
       "fields": [
+        {
+          "type": "hidden",
+          "name": "upstairs_room_reservation"
+        },
         {
           "type": "textRow",
           "name": "name",
@@ -331,19 +340,20 @@
           "title": "Doresc:",
           "checkBoxes": [
             {
+              "name": "twinBeds",
               "text": "paturi separate în cameră"
             },
             {
+              "name": "parkingSpot",
               "text": "parcare"
             },
             {
+              "name": "kitchenAccess",
               "text": "acces bucătărie și camera de zi"
             },
             {
+              "name": "bikeGarage",
               "text": "garaj biciclete"
-            },
-            {
-              "text": "ecran videoproiector"
             }
           ]
         },
