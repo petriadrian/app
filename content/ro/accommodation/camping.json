@@ -78,6 +78,7 @@
     {
       "type": "form",
       "title": "campingReservation",
+      "successMessage": "Vă mulțumim! O să revenim cu un răspuns de confirmare cât mai repede.",
       "sendButtonText": "Trimite",
       "hideFormUnderButton": "Rezervă spațiu de campare",
       "fields": [
@@ -105,7 +106,7 @@
         },
         {
           "type": "number",
-          "name": "persons",
+          "name": "numberOfPersons",
           "iconFortAwesomeClass": "fa fa-male fa-fw",
           "placeholder": "Numar de persoane",
           "maxLimit": 12,
@@ -113,7 +114,7 @@
         },
         {
           "type": "number",
-          "name": "persons",
+          "name": "numberOfTents",
           "iconFortAwesomeClass": "fa fa-chevron-up fa-fw",
           "placeholder": "Numar de corturi",
           "maxLimit": 6,

@@ -78,6 +78,7 @@
     {
       "type": "form",
       "title": "booksRoomReservation",
+      "successMessage": "Vă mulțumim! O să revenim cu un răspuns de confirmare cât mai repede.",
       "sendButtonText": "Trimite",
       "hideFormUnderButton": "Rezervă camera cărților",
       "fields": [
@@ -119,10 +120,10 @@
               "text": "4 locuri - 220lei/noapte"
             },
             {
-              "text": "5 locuri - 270lei/noapte"
+              "text": "5 locuri - 260lei/noapte"
             },
             {
-              "text": "6 locuri - 310lei/noapte"
+              "text": "6 locuri - 300lei/noapte"
             }
           ]
         },
@@ -187,6 +188,7 @@
     {
       "type": "form",
       "title": "littleHouseReservation",
+      "successMessage": "Vă mulțumim! O să revenim cu un răspuns de confirmare cât mai repede.",
       "sendButtonText": "Trimite",
       "hideFormUnderButton": "Rezervă căsuța",
       "fields": [
@@ -222,7 +224,7 @@
               "text": "1 loc - 60lei/noapte"
             },
             {
-              "text": "2 locuri - 120lei/noapte"
+              "text": "2 locuri - 110lei/noapte"
             }
           ]
         },
@@ -288,6 +290,7 @@
       "type": "form",
       "title": "upstairsRoomReservation",
       "sendButtonText": "Trimite",
+      "successMessage": "Vă mulțumim! O să revenim cu un răspuns de confirmare cât mai repede.",
       "hideFormUnderButton": "Rezervă camera din târnaț",
       "fields": [
         {

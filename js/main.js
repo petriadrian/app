@@ -44,6 +44,33 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http) {
             });
         });
         return finalItems;
+    };
+
+    // process form requests
+    $rootScope.formData = {};
+    $rootScope.sendEmailFromForm = function (formTitle, successMessage) {
+        $rootScope.formData.title = formTitle;
+        debugger;
+        $.ajax({
+            type: 'POST',
+            url: 'js/send_mail.php',
+            data: $rootScope.formData,
+            dataType: 'json',
+            success: function (data) {
+                for (var field in $rootScope.formData) {
+                    $rootScope.formData[field] = '';
+                }
+                $rootScope.formData = {};
+                alert(successMessage);
+            },
+            error: function(errorThrown) {
+                for (var field in $rootScope.formData) {
+                    $rootScope.formData[field] = '';
+                }
+                $rootScope.formData = {};
+                alert(successMessage);
+            }
+        });
     }
 });
 
@@ -114,35 +141,6 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
     $scope.reloadContent = function (language) {
         console.log('content of site not ready yet');
     };
-
-    $scope.formData = {};
-    $scope.sendEmailFromForm = function (formTitle) {
-        $scope.formData.title = formTitle;
-        debugger;
-        $.ajax({
-            type: 'POST',
-            url: 'js/send_mail.php',
-            data: $scope.formData,
-            dataType: 'json',
-            success: function (data) {
-
-                // log data to the console so we can see
-                console.log(data);
-
-                // if validation fails
-                // add the error class to show a red input
-                // add the error message to the help block under the input
-                debugger;
-                alert("Thank you! We will respond as fast as possible");
-                $scope.formData = {};
-
-            },
-            error: function(xhr, status, error) {
-                debugger;
-                alert("Thank you! We will respond as fast as possible");
-            }
-        });
-    }
 });
 
 app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, $location, localizationService) {

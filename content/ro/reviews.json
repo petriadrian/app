@@ -59,6 +59,7 @@
     {
       "type": "form",
       "title": "newReview",
+      "successMessage": "Vă mulțumim!",
       "sendButtonText": "Trimite",
       "fields": [
         {

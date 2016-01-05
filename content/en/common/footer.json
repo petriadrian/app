@@ -33,6 +33,7 @@
   "form": {
     "action": "",
     "title": "newSuggestion",
+    "successMessage": "Vă mulțumim! O să revenim cu un răspuns cât mai repede.",
     "sendButtonText": "Trimite",
     "fields": [
       {
