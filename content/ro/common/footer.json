@@ -32,12 +32,9 @@
   "facebookLink": "https://www.facebook.com/casapetrirosiamontana",
   "form": {
     "action": "",
+    "title": "newSuggestion",
     "sendButtonText": "Trimite",
     "fields": [
-      {
-        "type": "hidden",
-        "name": "new_suggestion"
-      },
       {
         "type": "textarea",
         "name": "feedback",

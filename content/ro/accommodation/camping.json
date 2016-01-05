@@ -77,13 +77,10 @@
     },
     {
       "type": "form",
+      "title": "campingReservation",
       "sendButtonText": "Trimite",
       "hideFormUnderButton": "Rezervă spațiu de campare",
       "fields": [
-        {
-          "type": "hidden",
-          "name": "camping_reservation"
-        },
         {
           "type": "textRow",
           "name": "name",

@@ -9,10 +9,6 @@
     <div data-ng-repeat="field in section.fields" class="input-group">
         <span ng-if="!!field.iconFortAwesomeClass" class="input-group-addon"><i
                 ng-class="field.iconFortAwesomeClass"></i></span>
-        <input ng-if="field.type == 'hidden'" type="hidden"
-               name="{{field.name}}"
-               ng-model="formData[field.name]"
-               ng-bind="field.name">
         <input ng-if="field.type == 'textRow'"
                type="text" class="form-control"
                name="{{field.name}}"
@@ -73,7 +69,7 @@
             </label>
         </div>
     </div>
-    <input type="submit" class="btn btn-primary" value="{{section.sendButtonText}}" ng-click="sendEmailFromForm()"/>
+    <input type="submit" class="btn btn-primary" value="{{section.sendButtonText}}" ng-click="sendEmailFromForm(section.title)"/>
 </form>
 
 <div style="clear:both"></div>

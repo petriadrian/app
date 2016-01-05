@@ -77,13 +77,10 @@
     },
     {
       "type": "form",
+      "title": "booksRoomReservation",
       "sendButtonText": "Trimite",
       "hideFormUnderButton": "Rezervă camera cărților",
       "fields": [
-        {
-          "type": "hidden",
-          "name": "books_room_reservation"
-        },
         {
           "type": "textRow",
           "name": "name",
@@ -189,13 +186,10 @@
     },
     {
       "type": "form",
+      "title": "littleHouseReservation",
       "sendButtonText": "Trimite",
       "hideFormUnderButton": "Rezervă căsuța",
       "fields": [
-        {
-          "type": "hidden",
-          "name": "little_house_reservation"
-        },
         {
           "type": "textRow",
           "name": "name",
@@ -292,13 +286,10 @@
     },
     {
       "type": "form",
+      "title": "upstairsRoomReservation",
       "sendButtonText": "Trimite",
       "hideFormUnderButton": "Rezervă camera din târnaț",
       "fields": [
-        {
-          "type": "hidden",
-          "name": "upstairs_room_reservation"
-        },
         {
           "type": "textRow",
           "name": "name",

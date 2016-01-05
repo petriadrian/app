@@ -58,13 +58,9 @@
     },
     {
       "type": "form",
-      "action": "",
+      "title": "newReview",
       "sendButtonText": "Trimite",
       "fields": [
-        {
-          "type": "hidden",
-          "name": "new_review"
-        },
         {
           "type": "textarea",
           "name": "feedback",

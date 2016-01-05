@@ -52,7 +52,7 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http) {
  */
 app.config(['$routeProvider', function ($routeProvider) {
     $routeProvider
-    // Home
+        // Home
         .when("/", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
         //// Pages
         .when("/reviews", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
@@ -116,7 +116,8 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
     };
 
     $scope.formData = {};
-    $scope.sendEmailFromForm = function () {
+    $scope.sendEmailFromForm = function (formTitle) {
+        $scope.formData.title = formTitle;
         debugger;
         $.ajax({
             type: 'POST',
@@ -131,9 +132,14 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
                 // if validation fails
                 // add the error class to show a red input
                 // add the error message to the help block under the input
-                if (!data.success) {
+                debugger;
+                alert("Thank you! We will respond as fast as possible");
+                $scope.formData = {};
 
-                }
+            },
+            error: function(xhr, status, error) {
+                debugger;
+                alert("Thank you! We will respond as fast as possible");
             }
         });
     }
