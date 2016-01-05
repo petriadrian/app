@@ -40,7 +40,7 @@
         "type": "textarea",
         "name": "feedback",
         "iconFortAwesomeClass": "fa fa-commenting fa-fw",
-        "placeholder": "Vrem să ne înbunatătim. Lasă-ne aici un feedback! ...",
+        "placeholder": "Vrem să ne îmbunatătim. Lasă-ne aici un feedback! ...",
         "rows": 3,
         "maxChars": 350,
         "required": true
