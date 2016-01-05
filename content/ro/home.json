@@ -18,6 +18,9 @@
         "timeInterval": "12000",
         "slides": [
           {
+            "page": "/home"
+          },
+          {
             "page": "/activities/trails/weatherStation"
           },
           {

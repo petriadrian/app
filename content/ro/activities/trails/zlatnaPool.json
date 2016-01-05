@@ -73,6 +73,24 @@
       "type": "articles",
       "specificArticles": [
         {
+          "title": "Dealul Mare",
+          "textContent": "Drumul de pe 'Dealul Mare' este unul deosebit de spectaculos. E adevăvărat că o să ai de urcat pe sepentine dar chiar de e vară va fi destul de răcoare pentru că drumul trece prin păduri de fagi și cam la tot pasul ai să întâlnești câte un izvor cu apă rece sau câte un popas cu băncuțe.",
+          "images": [
+            {
+              "title": "Drumul prin pădure",
+              "description": "",
+              "thumbnailUrl": "img/activities/trails/attractions/bigHillRoad/thumbnail/1.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/bigHillRoad/fullSize/1.jpg"
+            },
+            {
+              "title": "Castelul din Izvorul Ampoiului",
+              "description": "odată ce întâlnești acest castel vei fi destul de aproape de destinație.",
+              "thumbnailUrl": "img/activities/trails/attractions/bigHillRoad/thumbnail/2.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/bigHillRoad/fullSize/2.jpg"
+            }
+          ]
+        },
+        {
           "title": "Ștrandul Zlatna",
           "textContent": "'Zlatna Sport Center este un complex sportiv cu dotări la nivel internațional. Aici găsiți bazine înot (ștrand adulți și copii) în aer liber cu apă încalzita , Centrul SPA, teren tenis zgură și teren fotbal.' Prețurile de intrare sunt mai mult decât acceptabile.",
           "moreDetailsText": "Mai multe detalii despre bazin și ce mai puteți vizita în Zltana găsiți aici",
