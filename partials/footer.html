@@ -66,7 +66,10 @@
                               ng-model="formData[field.name]"
                               ng-required="field.required"></textarea>
                 </div>
-                <button type="submit" class="btn btn-primary" ng-bind="footerContent.form.sendButtonText"/>
+                <button type="submit" class="btn btn-primary">
+                    {{footerContent.form.sendButtonText}}
+                    <span class="spinner" ng-show="formLoading"><i class="fa fa-spinner fa-pulse"></i></span>
+                </button>
             </form>
         </section>
 

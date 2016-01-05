@@ -70,7 +70,11 @@
             </label>
         </div>
     </div>
-    <input type="submit" class="btn btn-primary" value="{{section.sendButtonText}}"/>
+
+    <button type="submit" class="btn btn-primary">
+        {{section.sendButtonText}}
+        <span class="spinner" ng-show="formLoading"><i class="fa fa-spinner fa-pulse"></i></span>
+    </button>
 </form>
 
 <div style="clear:both"></div>

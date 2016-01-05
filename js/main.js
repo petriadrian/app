@@ -49,6 +49,7 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http) {
     // process form requests
     $rootScope.formData = {};
     $rootScope.sendEmailFromForm = function (formTitle, successMessage) {
+        $rootScope.formLoading = true;
         $rootScope.formData.title = formTitle;
         debugger;
         $.ajax({
@@ -61,6 +62,7 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http) {
                     $rootScope.formData[field] = '';
                 }
                 $rootScope.formData = {};
+                $rootScope.formLoading = false;
                 alert(successMessage);
             },
             error: function(errorThrown) {
@@ -68,6 +70,7 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http) {
                     $rootScope.formData[field] = '';
                 }
                 $rootScope.formData = {};
+                $rootScope.formLoading = false;
                 alert(successMessage);
             }
         });
