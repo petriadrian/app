@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Poiana cu narcise",
     "headlineText": "O poiană ca în povești. Narcisele de la Negrileasa",
-    "description": "<b>| Mai |</b> O patura alba si un miros imbatator pun stapanire pe Poiana Negrileasa <b>~39km</b>",
+    "description": "<b>| Mai |</b> O patura alba si un miros imbatator pun stapanire pe Poiana Negrileasa <b>~77km</b>",
     "headlineImg": "img/recommendations/daffodilMeadow/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -71,19 +71,19 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJvT6u7RzKTkcR1hUfXNYaqcI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=Gura Roșiei, Județul Alba",
             "list": [
               {
-                "textOnMouseOver": "durată cu bicicleta",
+                "textOnMouseOver": "lungime dus-întors",
+                "text": "77km",
+                "iconFortAwesomeClass": "fa fa-refresh"
+              },
+              {
+                "textOnMouseOver": "durată cu bicicleta dus-întors",
                 "text": "?h",
                 "iconFortAwesomeClass": "fa fa-bicycle"
               },
               {
                 "textOnMouseOver": "durată cu mașina",
-                "text": "1h",
+                "text": "2h",
                 "iconFortAwesomeClass": "fa fa-car"
-              },
-              {
-                "textOnMouseOver": "lungime",
-                "text": "39km",
-                "iconFortAwesomeClass": "fa fa-arrows-h"
               }
             ]
           }

@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Top 10 atracții",
     "headlineText": "<b>Top 10 atracții</b> de vizitat în Roșia Montană",
-    "description": "Traseul principalelor atracții: centrul istoric, lacurile, galeriile romane <b>~10km</b>",
+    "description": "Traseul principalelor atracții: centrul istoric, lacurile, galeriile romane <b>~15km</b>",
     "headlineImg": "img/activities/trails/topAttractions/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -39,14 +39,14 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=sfinxul%20carnic&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Galeriile Romane, Roșia Montană, Județul Alba | Berg, DC146, Roșia Montană 517615|Biserica Romano-Catolică, Roșia Montană|Biserica Unitariană, 530, Roșia Montană|Galeria Văidoaia, Rosia Montana, Alba County, Romania| Casa Szekey Acos, DC117, Roșia Montană, Alba County, Romania | Platoul Cârnic, Rosia Montana, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Piatra Corbului, Rosia Montana, Alba County, Romania",
             "list": [
               {
-                "textOnMouseOver": "durată pe jos",
-                "text": "~6h",
-                "iconFortAwesomeClass": "fa fa-male"
+                "textOnMouseOver": "lungime dus-întors",
+                "text": "~15km",
+                "iconFortAwesomeClass": "fa fa-refresh"
               },
               {
-                "textOnMouseOver": "lungime",
-                "text": "~10km",
-                "iconFortAwesomeClass": "fa fa-arrows-h"
+                "textOnMouseOver": "durată pe jos dus-întors",
+                "text": "~6h",
+                "iconFortAwesomeClass": "fa fa-male"
               },
               {
                 "textOnMouseOver": "dificultate",

@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Trasee ciclism",
     "headlineText": "Testează frânele, umflă rotile și hai cu bița la Roșia!",
-    "description": "De la trasee de <b>MTB</b> pe drumuri de țară printre culmi montane și lacuri până la trasee pe asfalt (<b>cursieră/moto/auto</b>) spre obiectivele turistice",
+    "description": "De la trasee de <b>MTB</b> pe drumuri de țară printre culmi montane și lacuri până la trasee pe asfalt (<b>cursieră/auto/moto</b>) spre obiectivele turistice",
     "headlineImg": "img/activities/cycling/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -35,7 +35,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Îți propunem cele mai tari trasee din zonă relizate în funcție de condiția ta fizică și tipul de bicicletă preferat (MTB sau cursieră). Cele de MTB te vor plimba pe drumuri de țară, în jurul localității și în satele alăturate spre diverse atracții turistice. Traseele de asfalt (pentru cursieră, moto/auto) sunt realizate pe drumuri nationale, spre obiectivele din zonă. Găsește traseele potrivite pentru tine, pune bicicleta pe mașină și hai la Roșia pentru a le parcurge. <br>Harțile traseelor sunt realizate pe <b>google maps</b> astfel că poți face zoom, poți să le vezi în modul satelit sau hartă sau poți să le accesezi de pe orice telefon sau tabletă în timpul drumeției.  Sub harta fiecărui traseu găsiți indicațiile (durată, lungime) estimate de noi, iar cele afișate în interiorul hărții sunt estimate de google. Cât timp nu te dai cu bița o poți lăsa în siguranță, închisă într-un garaj din curte.",
+          "textContent": "Îți propunem cele mai tari trasee din zonă relizate în funcție de condiția ta fizică și tipul de bicicletă preferat (MTB sau cursieră). Cele de MTB te vor plimba pe drumuri de țară, în jurul localității și în satele alăturate spre diverse atracții turistice. Traseele de asfalt - cursieră/auto/moto, sunt realizate pe drumuri nationale, spre obiectivele din zonă. Găsește traseele potrivite pentru tine, pune bicicleta pe mașină și hai la Roșia pentru a le parcurge. <br>Harțile traseelor sunt realizate pe <b>google maps</b> astfel că poți face zoom, poți să le vezi în modul satelit sau hartă sau poți să le accesezi de pe orice telefon sau tabletă în timpul drumeției. Sub fiecare traseu găsiți indicațiile (<b>lungime dus-întors</b>, durată) estimate de noi, iar cele afișate în interiorul hărții sunt estimate de google. Cât timp nu te dai cu bița o poți lăsa în siguranță, închisă într-un garaj din curte.",
           "moreDetailsLink": "https://www.facebook.com/calin.capros",
           "moreDetailsText": "Pentru mai multe detalii despre trasee îl puteți contacta aici pe Călin Caproș (e cel mai priceput în materie de biciclete din zonă. Poate fi contactat și pentru defecțiuni tehnice întrucât are un mic atelier)"
         }
@@ -75,7 +75,7 @@
     },
     {
       "type": "title",
-      "text": "Trasee asfaltate",
+      "text": "Trasee asfaltate - cursieră/auto/moto",
       "iconFortAwesomeClass": "fa fa-map-signs",
       "sectionId": "asphaltTrails",
       "addLinkInPageHeadline": true
@@ -89,7 +89,7 @@
         },
         {
           "timeInterval": "12000",
-          "page": "/activities/trails/scarisoara"
+          "page": "/recommendations/daffodilMeadow"
         },
         {
           "timeInterval": "12000",
@@ -97,7 +97,7 @@
         },
         {
           "timeInterval": "12000",
-          "page": "/recommendations/daffodilMeadow"
+          "page": "/activities/trails/scarisoara"
         }
       ]
     },

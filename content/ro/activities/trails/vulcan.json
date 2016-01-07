@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Vulcan",
     "headlineText": "Traseul spre muntele Vulcan",
-    "description": "Descoperiți drumul șerpuit printre Munții Apuseni spre masivul Vulcan <b>~22km</b>",
+    "description": "Descoperiți drumul șerpuit printre Munții Apuseni spre masivul Vulcan <b>~42km</b>",
     "headlineImg": "img/activities/trails/vulcan/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -35,14 +35,19 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJzU_RaFLQTkcRJzSmd-Hq-ek&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints= Gura Roșiei, Alba County, Romania",
             "list": [
               {
-                "textOnMouseOver": "durată cu bicicleta",
-                "text": "~5h",
+                "textOnMouseOver": "lungime dus-întors",
+                "text": "~42km",
+                "iconFortAwesomeClass": "fa fa-refresh"
+              },
+              {
+                "textOnMouseOver": "durată cu bicicleta dus-întors",
+                "text": "~?h",
                 "iconFortAwesomeClass": "fa fa-bicycle"
               },
               {
-                "textOnMouseOver": "lungime",
-                "text": "~22km",
-                "iconFortAwesomeClass": "fa fa-arrows-h"
+                "textOnMouseOver": "durata cu mașina dus-întors",
+                "text": "~1h",
+                "iconFortAwesomeClass": "fa fa-car"
               },
               {
                 "textOnMouseOver": "dificultate",

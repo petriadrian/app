@@ -41,19 +41,19 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Berg, DC146, Roșia Montană, Alba County, Romania | Tăul Țarinii, Rosia Montana, Alba County, Romania| Vârful Rotundu 1240m, Rosia Montana, Alba County, Romania | Tăul Mare, Rosia Montana, Alba County, Romania | Casa Szekey Acos, DC117, Roșia Montană, Alba County, Romania | Galeria Văidoaia, Rosia Montana, Alba County, Romania",
             "list": [
               {
-                "textOnMouseOver": "durată pe jos",
+                "textOnMouseOver": "lungime dus-întors",
+                "text": "~10km",
+                "iconFortAwesomeClass": "fa fa-refresh"
+              },
+              {
+                "textOnMouseOver": "durată pe jos dus-întors",
                 "text": "~5h",
                 "iconFortAwesomeClass": "fa fa-male"
               },
               {
-                "textOnMouseOver": "durată cu bicicleta",
+                "textOnMouseOver": "durată cu bicicleta dus-întors",
                 "text": "~3h",
                 "iconFortAwesomeClass": "fa fa-bicycle"
-              },
-              {
-                "textOnMouseOver": "lungime",
-                "text": "~10km",
-                "iconFortAwesomeClass": "fa fa-arrows-h"
               },
               {
                 "textOnMouseOver": "dificultate",

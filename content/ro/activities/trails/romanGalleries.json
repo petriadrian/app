@@ -39,14 +39,14 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Galeriile Romane, Roșia Montană, Alba County, Romania | Biserica Adormirea Maicii Domnului, Strada Principală 175, Roșia Montană 517615 | Biserica Greco-Catolică Adormirea Maicii Domnului, Roșia Montană | Sculpturi Calcar, DC147, Roșia Montană 517615",
             "list": [
               {
-                "textOnMouseOver": "durată pe jos",
-                "text": "~3h",
-                "iconFortAwesomeClass": "fa fa-male"
+                "textOnMouseOver": "lungime dus-întors",
+                "text": "~5km",
+                "iconFortAwesomeClass": "fa fa-refresh"
               },
               {
-                "textOnMouseOver": "lungime",
-                "text": "~5km",
-                "iconFortAwesomeClass": "fa fa-arrows-h"
+                "textOnMouseOver": "durată pe jos dus-întors",
+                "text": "~3h",
+                "iconFortAwesomeClass": "fa fa-male"
               },
               {
                 "textOnMouseOver": "dificultate",

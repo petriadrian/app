@@ -2,12 +2,12 @@
   "presentation": {
     "title": "Ștrandul Zlatna",
     "headlineText": "Traseul spre Ștrandul Zlatna",
-    "description": "Nu e doar un traseu spre ștrand pentru că pe drum veți transpira urcând 'Dealul Mare'. Dar destinația e răcoritoare <b>~39km</b>",
+    "description": "Nu e doar un traseu spre ștrand pentru că pe drum veți transpira urcând 'Dealul Mare'. Dar destinația e răcoritoare <b>~79km</b>",
     "headlineImg": "img/activities/trails/zlatnaPool/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/trails/zlatnaPool",
-      "textOnMouseOver": "Vezi traseul spre Scărișoara",
+      "textOnMouseOver": "Vezi traseul spre Ștrandul Zlatna",
       "openInNewTab": false
     },
     "carouselAdvertise": [
@@ -38,19 +38,19 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJ_QzUS1O4TkcR3bMlNuiXfbU&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints= Gura Roșiei, Alba County, Romania | Castel Zlatna",
             "list": [
               {
-                "textOnMouseOver": "durată cu bicicleta",
+                "textOnMouseOver": "durată cu bicicleta dus-întors",
                 "text": "~?h",
                 "iconFortAwesomeClass": "fa fa-bicycle"
               },
               {
-                "textOnMouseOver": "durata cu mașina",
-                "text": "~1h",
+                "textOnMouseOver": "durata cu mașina dus-întors",
+                "text": "~2h",
                 "iconFortAwesomeClass": "fa fa-car"
               },
               {
-                "textOnMouseOver": "lungime",
-                "text": "~39km",
-                "iconFortAwesomeClass": "fa fa-arrows-h"
+                "textOnMouseOver": "lungime dus-întors",
+                "text": "~79km",
+                "iconFortAwesomeClass": "fa fa-refresh"
               },
               {
                 "textOnMouseOver": "dificultate",

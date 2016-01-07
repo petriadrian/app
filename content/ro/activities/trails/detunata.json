@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Detunata",
     "headlineText": "Traseul satelor din Apuseni spre masivul Detunata",
-    "description": "Pornim spre Tăul Mare, tecem prin câteva cătune de munte până ajungem pe vârful coloanelor de bazalt <b>~10km</b>",
+    "description": "Pornim spre Tăul Mare, tecem prin câteva cătune de munte până ajungem pe vârful coloanelor de bazalt <b>~20km</b>",
     "headlineImg": "img/activities/trails/detunata/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -41,19 +41,19 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJv_3GPwvLTkcRDy5ru-eVXWI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Tăul Mare, Rosia Montana, Alba County, Romania | Muntari, Alba County, Romania",
             "list": [
               {
-                "textOnMouseOver": "durată pe jos",
-                "text": "~3h",
+                "textOnMouseOver": "lungime dus-întors",
+                "text": "~20km",
+                "iconFortAwesomeClass": "fa fa-refresh"
+              },
+              {
+                "textOnMouseOver": "durată pe jos dus-întors",
+                "text": "~7h",
                 "iconFortAwesomeClass": "fa fa-male"
               },
               {
-                "textOnMouseOver": "durată cu bicicleta",
-                "text": "~2h",
+                "textOnMouseOver": "durată cu bicicleta dus-întors",
+                "text": "~5h",
                 "iconFortAwesomeClass": "fa fa-bicycle"
-              },
-              {
-                "textOnMouseOver": "lungime",
-                "text": "~10km",
-                "iconFortAwesomeClass": "fa fa-arrows-h"
               },
               {
                 "textOnMouseOver": "dificultate",

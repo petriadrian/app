@@ -76,9 +76,9 @@
                 "iconFortAwesomeClass": "fa fa-car"
               },
               {
-                "textOnMouseOver": "lungime",
+                "textOnMouseOver": "lungime dus-întors",
                 "text": "10km",
-                "iconFortAwesomeClass": "fa fa-arrows-h"
+                "iconFortAwesomeClass": "fa fa-refresh"
               }
             ]
           }

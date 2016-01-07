@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Vârful Cârnic",
     "headlineText": "Traseul spre acoperișul întregului ținut - masivul Cârnic",
-    "description": " De pe ulițele satului ajungem la Tăul Brazi și apoi urcăm pe masivul Cârnic la Piatra Corbului și la Sfinx <b>~5km</b>",
+    "description": " De pe ulițele satului ajungem la Tăul Brazi și apoi urcăm pe masivul Cârnic la Piatra Corbului și la Sfinx <b>~8km</b>",
     "headlineImg": "img/activities/trails/carnic/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -41,15 +41,16 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Casa Parohială Unitariană, DC117, Roșia Montană, Alba County, Romania | Casa Heneș, DC117, Roșia Montană, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Tăul Anghel, Rosia Montana, Alba County, Romania | Platoul Cârnic, Rosia Montana, Alba County, Romania | Piatra Corbului, Rosia Montana, Alba County, Romania",
             "list": [
               {
-                "textOnMouseOver": "durată pe jos",
+                "textOnMouseOver": "lungime dus-întors",
+                "text": "~8km",
+                "iconFortAwesomeClass": "fa fa-refresh"
+              },
+              {
+                "textOnMouseOver": "durată pe jos dus-întors",
                 "text": "~3h",
                 "iconFortAwesomeClass": "fa fa-male"
               },
-              {
-                "textOnMouseOver": "lungime",
-                "text": "~5km",
-                "iconFortAwesomeClass": "fa fa-arrows-h"
-              },
+
               {
                 "textOnMouseOver": "dificultate",
                 "text": "mediu",

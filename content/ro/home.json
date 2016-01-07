@@ -1,8 +1,8 @@
 {
   "presentation": {
     "title": "Pagina Principală",
-    "headlineText": "~ exploatare turistică de suprafață ~",
-    "description": "cazare - campare - trasee drumeție - trasee ciclism",
+    "headlineText": "exploatare turistică de suprafață",
+    "description": "- cazare - campare - trasee drumeție - trasee ciclism -",
     "headlineImg": "img/homePage/presentation.jpg",
     "showPageHeadline": false,
     "url": {

@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Centrul istoric",
     "headlineText": "Descoperă clădirile de patrimoniu prin traseul centrului istoric",
-    "description": "Centrul celei mai vechi localități din România are multe de zis. Descoperă-i bisericile și clădirile de patrimoniu <b>~3km</b>",
+    "description": "Centrul celei mai vechi localități din România are multe de zis. Descoperă-i bisericile și clădirile de patrimoniu <b>~5km</b>",
     "headlineImg": "img/activities/trails/historicalCenter/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -39,14 +39,14 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=taul%20brazi&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Şcoala Germană DC146 Roșia Montană 517615 | Casa David Francisc DC146 Roșia Montană 517615 | Berg, DC146, Roșia Montană 517615|Biserica Romano-Catolică, Roșia Montană| Biserica Unitariană, 530, Roșia Montană | Casa Parohială Unitariană, DC117, Roșia Montană, Județul Alba, România | Şcoala Maghiară DC117 Roșia Montană 517615 | Calvinist Church DC117, Roșia Montană 517615, Romania | Casa Heneș DC117 Roșia Montană 517615 | Casa Szekey Acos, DC117, Roșia Montană 517615 ",
             "list": [
               {
-                "textOnMouseOver": "durată pe jos",
-                "text": "~2h",
-                "iconFortAwesomeClass": "fa fa-male"
+                "textOnMouseOver": "lungime dus-întors",
+                "text": "~5km",
+                "iconFortAwesomeClass": "fa fa-refresh"
               },
               {
-                "textOnMouseOver": "lungime",
-                "text": "~3km",
-                "iconFortAwesomeClass": "fa fa-arrows-h"
+                "textOnMouseOver": "durată pe jos dus-întors",
+                "text": "~2h",
+                "iconFortAwesomeClass": "fa fa-male"
               },
               {
                 "textOnMouseOver": "dificultate",
