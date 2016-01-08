@@ -1,6 +1,6 @@
 <?php
     include('/home/hdeldkaw/php/Mail.php');
-    error_reporting(E_ERROR | E_PARSE);
+    error_reporting(E_ALL ^ E_WARNING);
 
     $recipients = 'petriadrian@gmail.com';
 

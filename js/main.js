@@ -151,9 +151,7 @@ app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, $loca
 });
 
 app.controller('FooterCtrl', function ($scope, $rootScope, $http, $timeout, localizationService) {
-    $scope.footerContent = {
-        form: {}
-    };
+
     var reviewsPagePath = 'content/' + 'ro' + '/reviews.json';
     $http.get(reviewsPagePath).success(function (reviewPageContent) {
         $scope.reviewPresentation = reviewPageContent.presentation;
@@ -252,6 +250,7 @@ app.directive('sectionForm', function () {
                        }
                        scope.formObj = {};
                        scope.formLoading = false;
+                       console.log("successfully sent form to email");
                        alert(scope.section.successMessage);
                    },
                    error: function(errorThrown) {
@@ -260,6 +259,7 @@ app.directive('sectionForm', function () {
                        }
                        scope.formObj = {};
                        scope.formLoading = false;
+                       console.log("error while sending form to email");
                        alert(scope.section.successMessage);
                    }
                });
