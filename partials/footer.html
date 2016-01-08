@@ -6,7 +6,7 @@
              title="{{reviewPresentation.url.textOnMouseOver}}">
         <i class="col-xs-12 col-sm-12 col-md-12 col-lg-12 fa fa-quote-left"></i>
         <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 reviewPreviewArea">
-            <div class="carousel slide" data-ride="carousel" data-interval="10000">
+            <div class="carousel slide" data-ride="carousel" data-interval="8000">
                 <div id="reviewCarouselLayout" class="carousel-inner">
                     <div ng-repeat="review in reviews track by $index" ng-class='{active:$first}' class="item">
                         <div class="carousel-caption">
@@ -50,27 +50,7 @@
         </section>
 
         <section class="footerFeedback col-xs-10 col-sm-5 col-md-4 col-lg-3">
-            <form role="form" name="form" ng-submit="form.$valid && sendEmailFromForm(footerContent.form.title, footerContent.form.successMessage)">
-                <div data-ng-repeat="field in footerContent.form.fields" class="form-group">
-                    <input ng-if="field.type == 'email'"
-                           type="email" class="form-control"
-                           name="{{field.name}}"
-                           ng-model="formData[field.name]"
-                           placeholder="{{field.placeholder}}"
-                           ng-required="field.required"/>
-                    <textarea ng-if="field.type == 'textarea'" class="form-control"
-                              placeholder="{{field.placeholder}}"
-                              rows="{{field.rows}}"
-                              maxlength="{{field.maxChars}}"
-                              name="{{field.name}}"
-                              ng-model="formData[field.name]"
-                              ng-required="field.required"></textarea>
-                </div>
-                <button type="submit" class="btn btn-primary">
-                    {{footerContent.form.sendButtonText}}
-                    <span class="spinner" ng-show="formLoading"><i class="fa fa-spinner fa-pulse"></i></span>
-                </button>
-            </form>
+            <section-form data-section="footerContent.form"></section-form>
         </section>
 
     </div>

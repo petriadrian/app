@@ -44,6 +44,9 @@
             },
             {
               "id": "3"
+            },
+            {
+              "id": "4"
             }
           ]
         }
@@ -66,7 +69,7 @@
           "type": "textarea",
           "name": "feedback",
           "iconFortAwesomeClass": "fa fa-commenting fa-fw",
-          "placeholder": "Vrem să ne înbunatătim. Lasă-ne aici un feedback! ...",
+          "placeholder": "Cum te-ai simțit la Casa Petri? ...",
           "rows": 3,
           "maxChars": 350,
           "required": true

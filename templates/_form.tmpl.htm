@@ -4,28 +4,27 @@
 </button>
 <div style="clear:both"></div>
 
-<form role="form" ng-class="{'hideElement': section.hideFormUnderButton}"
-      class="col-xs-12 col-sm-12 col-md-10 col-lg-8 displayOnCenter" name="form"
-      ng-submit="form.$valid && sendEmailFromForm(section.title, section.successMessage)">
+<form role="form" ng-class="{'hideElement': section.hideFormUnderButton}" name="form"
+      ng-submit="form.$valid && sendEmailFromForm()">
     <div data-ng-repeat="field in section.fields" class="input-group">
         <span ng-if="!!field.iconFortAwesomeClass" class="input-group-addon"><i
                 ng-class="field.iconFortAwesomeClass"></i></span>
         <input ng-if="field.type == 'textRow'"
                type="text" class="form-control"
                name="{{field.name}}"
-               ng-model="formData[field.name]"
+               ng-model="formObj[field.name]"
                maxlength="{{field.maxChars}}"
                placeholder="{{field.placeholder}}"
                ng-required="field.required"/>
         <input ng-if="field.type == 'number'"
-               ng-model="formData[field.name]"
+               ng-model="formObj[field.name]"
                type="number" class="form-control"
                name="{{field.name}}"
                min="1" max="{{field.maxLimit}}"
                placeholder="{{field.placeholder}}"
                ng-required="field.required"/>
         <textarea ng-if="field.type == 'textarea'" class="form-control"
-                  ng-model="formData[field.name]"
+                  ng-model="formObj[field.name]"
                   placeholder="{{field.placeholder}}"
                   rows="{{field.rows}}"
                   maxlength="{{field.maxChars}}"
@@ -33,7 +32,7 @@
                   ng-required="field.required"></textarea>
         <span ng-if="field.type == 'daterange'">
                 <input type="text"
-                       ng-model="formData[field.name]"
+                       ng-model="formObj[field.name]"
                        name="daterange"
                        class="form-control"
                        placeholder="{{field.placeholder}}"
@@ -47,17 +46,17 @@
         <input ng-if="field.type == 'phone'"
                type="tel" class="form-control"
                name="{{field.name}}"
-               ng-model="formData[field.name]"
+               ng-model="formObj[field.name]"
                placeholder="{{field.placeholder}}"
                ng-required="field.required"/>
         <input ng-if="field.type == 'email'"
                type="email" class="form-control"
                name="{{field.name}}"
-               ng-model="formData[field.name]"
+               ng-model="formObj[field.name]"
                placeholder="{{field.placeholder}}"
                ng-required="field.required"/>
         <select ng-if="field.type == 'selectBox'" class="form-control" ng-required="field.required"
-                name="{{field.name}}" ng-model="formData[field.name]">
+                name="{{field.name}}" ng-model="formObj[field.name]">
             <option disabled selected style='display:none;' ng-bind="field.placeholder"></option>
             <option ng-repeat="option in field.selectOptions" value="{{option.text}}">{{option.text}}</option>
         </select>
@@ -65,7 +64,7 @@
         <div ng-if="field.type == 'checkBoxes'">
             <span><b>{{field.title}}</b></span>
             <label ng-repeat="checkBox in field.checkBoxes" class="checkbox-inline">
-                <input type="checkbox" name="{{checkBox.name}}" ng-model="formData[checkBox.name]" value="true"/>
+                <input type="checkbox" name="{{checkBox.name}}" ng-model="formObj[checkBox.name]" value="true"/>
                 {{checkBox.text}}
             </label>
         </div>

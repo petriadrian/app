@@ -228,7 +228,6 @@ footer .row section{
 .footerFeedback button {
     float: left;
     width: 100%;
-    border: 1px solid gray;
     background-color: #1D2626;
     color: white;
     padding: 3px 12px;
@@ -236,6 +235,7 @@ footer .row section{
 
 .footerFeedback button {
     color: gray;
+    border: 1px solid white;
 }
 
 .buttonWithMargins{
@@ -383,6 +383,11 @@ footer .row section{
 
 .listOfItems span {
     font-size: 1.4em;
+}
+
+.input-group-addon{
+    background-color: transparent;
+    color: inherit;
 }
 
 .btn-primary,

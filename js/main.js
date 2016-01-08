@@ -46,35 +46,7 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http) {
         return finalItems;
     };
 
-    // process form requests
-    $rootScope.formData = {};
-    $rootScope.sendEmailFromForm = function (formTitle, successMessage) {
-        $rootScope.formLoading = true;
-        $rootScope.formData.title = formTitle;
-        debugger;
-        $.ajax({
-            type: 'POST',
-            url: 'js/send_mail.php',
-            data: $rootScope.formData,
-            dataType: 'json',
-            success: function (data) {
-                for (var field in $rootScope.formData) {
-                    $rootScope.formData[field] = '';
-                }
-                $rootScope.formData = {};
-                $rootScope.formLoading = false;
-                alert(successMessage);
-            },
-            error: function(errorThrown) {
-                for (var field in $rootScope.formData) {
-                    $rootScope.formData[field] = '';
-                }
-                $rootScope.formData = {};
-                $rootScope.formLoading = false;
-                alert(successMessage);
-            }
-        });
-    }
+
 });
 
 /**
@@ -179,7 +151,9 @@ app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, $loca
 });
 
 app.controller('FooterCtrl', function ($scope, $rootScope, $http, $timeout, localizationService) {
-
+    $scope.footerContent = {
+        form: {}
+    };
     var reviewsPagePath = 'content/' + 'ro' + '/reviews.json';
     $http.get(reviewsPagePath).success(function (reviewPageContent) {
         $scope.reviewPresentation = reviewPageContent.presentation;
@@ -253,4 +227,43 @@ app.factory('localizationService', function () {
         this.language = lang;
     };
     return factory;
+});
+
+app.directive('sectionForm', function () {
+   return {
+       restrict: 'E',
+       scope: {
+           section: '='
+       },
+       templateUrl: 'templates/_form.tmpl.htm',
+       link: function (scope, element, attrs) {
+           scope.formObj = {};
+           scope.sendEmailFromForm = function () {
+               scope.formLoading = true;
+               scope.formObj.title = scope.section.title;
+               $.ajax({
+                   type: 'POST',
+                   url: 'js/send_mail.php',
+                   data: scope.formObj,
+                   dataType: 'json',
+                   success: function (data) {
+                       for (var field in scope.formObj) {
+                           scope.formObj[field] = '';
+                       }
+                       scope.formObj = {};
+                       scope.formLoading = false;
+                       alert(scope.section.successMessage);
+                   },
+                   error: function(errorThrown) {
+                       for (var field in scope.formObj) {
+                           scope.formObj[field] = '';
+                       }
+                       scope.formObj = {};
+                       scope.formLoading = false;
+                       alert(scope.section.successMessage);
+                   }
+               });
+           }
+       }
+   }
 });

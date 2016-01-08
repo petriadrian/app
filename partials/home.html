@@ -14,8 +14,9 @@
         <div ng-if="section.type == 'articles'"
              ng-include="'templates/articles/_articlesManagement.tmpl.htm'"></div>
         <!--FORM-->
-        <div ng-if="section.type == 'form'"
-             ng-include="'templates/_form.tmpl.htm'"></div>
+        <div ng-if="section.type == 'form'">
+            <section-form data-section="section"></section-form>
+        </div>
         <!--LIST OF ITEMS-->
         <div ng-if="section.type == 'listOfItems'"
              ng-include="'templates/_listOfItems.tmpl.htm'"></div>
