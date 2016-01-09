@@ -15,7 +15,7 @@
         "iconFortAwesomeClass": "fa fa-copyright"
       },
       {
-        "text": "(+4)0743188186",
+        "text": "0743188186",
         "iconFortAwesomeClass": "fa fa-phone"
       },
       {
@@ -39,7 +39,7 @@
         "type": "textarea",
         "name": "feedback",
         "iconFortAwesomeClass": "fa fa-commenting fa-fw",
-        "placeholder": "Vrem să ne îmbunatătim. Lasă-ne aici un feedback! ...",
+        "placeholder": "Vrem să ne îmbunatătim. Lasă-ne un feedback! ...",
         "rows": 3,
         "maxChars": 350,
         "required": true

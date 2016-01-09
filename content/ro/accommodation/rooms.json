@@ -35,7 +35,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Situată în centrul istoric, fost sediu de bancă, centru medical și cinematograf, Casa Petri funcționează astăzi ca spațiu de cazare. S-a păstrat stilul și organizarea casei și s-au scos în evidență elementele tradiționale. Podelele de lemn, zugrăveala de var, geamurile și ușile de lemn au fost păstrate și restaurate. Cărți, ziare și reviste vechi o să găsiți cam prin toata căsuța. Acestea pot fi citite, răsfoite dar vă rugăm ca la plecare să le puneți la locul lor. De vi iarna află că am păstrat și modul de încălzire al camerelor prin teracote pe lemne, parcă adormi mai usor când auzi focul tihnind în sobă. <br>Oferim <b>10% discount celor care vin cu bicicleta sau cu chitara (si le și folosești)</b>. </br> În momentul rezervării specificați facilitățile dorite pentru a ne asigura că sunt disponibile. Este interzis fumatul în interior, ascultatul de muzică tare sau comportamentul necivilizat. Prin efectuarea unei rezervări vă asumați că ați luat la cunoștință de acestea. <br><b>După rezervare o să revenim cu un email sau telefon de confirmare.</b>"
+          "textContent": "Situată în centrul istoric, fost sediu de bancă, centru medical și cinematograf, Casa Petri funcționează astăzi ca spațiu de cazare. S-a păstrat stilul și organizarea casei și s-au scos în evidență elementele tradiționale. Podelele de lemn, zugrăveala de var, geamurile și ușile de lemn au fost păstrate și restaurate. Prin toată căsuța o să găsiți cărți, ziare și reviste vechi, care pot fi răsfoite și citite cu grijă de cei curioși, dar la plecare nu uitați să le puneți la locul lor. De vii iarna, află că am păstrat și modul de încălzire al camerelor prin teracote, parcă adormi mai usor când auzi lemnele trosnind în sobă. <br>Oferim <b>10% discount celor care vin cu bicicleta sau cu chitara (și le și folosesc)</b>. </br> În momentul rezervării specificați facilitățile dorite pentru a ne asigura că sunt disponibile. Este interzis fumatul în interior, ascultatul muzicii la volum ridicat  sau comportamentul necivilizat. <br><b>După rezervare vom reveni cu un email sau telefon de confirmare.</b>"
         }
       ]
     },
@@ -51,17 +51,17 @@
       "specificArticles": [
         {
           "title": "Camera cărților",
-          "textContent": "Camera se află la parterul casei cu intrare direct din curte. Are baie propie iar pereții de un metru grosime sunt construiți din bucăți mari de piatră. Camera are 2 paturi etajate și o canapea care la cerere se poate extinde pentru a mai suplimenta cu încă doua locuri.",
+          "textContent": "Camera se află la parterul casei cu intrare direct din curte, are baie proprie, iar pereții de un metru grosime sunt construiți din bucăți mari de piatră. Dispune de două paturi etajate și o canapea, care la cerere se poate extinde pentru a mai suplimenta cu încă doua locuri.",
           "images": [
             {
               "title": "Camera cărților",
-              "description": "aici găsiți 'Dulapul cu cărți' - un fost bufet de bucătărie transformat în bibliotecă. Prin el găsiți cărți vechi și board games.",
+              "description": "aici găsiți 'Dulapul cu cărți' - un fost bufet de bucătărie transformat în bibliotecă unde găsiți cărți vechi și diverse jocuri.",
               "thumbnailUrl": "img/accommodation/rooms/room1/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room1/fullSize/1.jpg"
             },
             {
               "title": "Camera cărților",
-              "description": "interior. În vitrină sunt poze vechi, flori de mină și obiecte folosite în trecut în zonă.",
+              "description": "interior. În vitrină sunt poze vechi din Roșia, flori de mină și obiecte folosite în trecut prin gospodărie.",
               "thumbnailUrl": "img/accommodation/rooms/room1/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room1/fullSize/2.jpg"
             },
@@ -161,7 +161,7 @@
       "specificArticles": [
         {
           "title": "Căsuța",
-          "textContent": "Acesta este fosta căsuță de vară a gospodăriei. Este ca o garsonieră întrucât are o cameră, baie și bucătărie, astfel că o să te simți ca acasă.",
+          "textContent": "Fosta căsuță de vară a gospodăriei este ca o mică garsonieră întrucât are o cameră, o baie și o bucătărie. O să te simți ca acasă.",
           "images": [
             {
               "title": "Camera din căsuță",

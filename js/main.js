@@ -55,33 +55,33 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http) {
 app.config(['$routeProvider', function ($routeProvider) {
     $routeProvider
         // Home
-        .when("/", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
         //// Pages
-        .when("/reviews", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/reviews", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
 
-        .when("/accommodation/facilities", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
-        .when("/accommodation/camping", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
-        .when("/accommodation/rooms", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/accommodation/facilities", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+        .when("/accommodation/camping", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+        .when("/accommodation/rooms", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
 
-        .when("/activities/hiking", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/historicalCenter", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/carnic", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/romanGalleries", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/weatherStation", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/letySulei", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/topAttractions", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/detunata", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/geamana", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/activities/hiking", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/historicalCenter", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/carnic", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/romanGalleries", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/weatherStation", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/letySulei", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/topAttractions", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/detunata", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/geamana", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
 
-        .when("/activities/cycling", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/fourLakes", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/rollerCoaster", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/vulcan", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/zlatnaPool", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/scarisoara", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/activities/cycling", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/fourLakes", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/rollerCoaster", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/vulcan", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/zlatnaPool", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+        .when("/activities/trails/scarisoara", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
 
-        .when("/recommendations/steamTrain", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
-        .when("/recommendations/daffodilMeadow", {templateUrl: "partials/home.html", controller: "DefaultPageCtrl"})
+        .when("/recommendations/steamTrain", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+        .when("/recommendations/daffodilMeadow", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
         //// else 404
         .otherwise("/404", {templateUrl: "partials/404.html", controller: "PageCtrl"});
 }]);

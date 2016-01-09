@@ -10,29 +10,29 @@
   },
   "leftButtons": [
     {
-      "text": "Unde stau?",
+      "text": "Where do I stay?",
       "iconFontAwesomeClass": "",
       "url": {
         "link": "#/#accommodation",
-        "textOnMouseOver": "Vezi cazare și facilități",
+        "textOnMouseOver": "Accommodation and facilities",
         "openInNewTab": false
       }
     },
     {
-      "text": "Ce fac acolo?",
+      "text": "What I will do there?",
       "iconFontAwesomeClass": "",
       "url": {
         "link": "#/#activities",
-        "textOnMouseOver": "Vezi activități",
+        "textOnMouseOver": "Activities",
         "openInNewTab": false
       }
     },
     {
-      "text": "De neratat",
+      "text": "Do not miss",
       "iconFontAwesomeClass": "",
       "url": {
         "link": "#/#recommendations",
-        "textOnMouseOver": "Vezi activități speciale",
+        "textOnMouseOver": "Special activities",
         "openInNewTab": false
       }
     }
@@ -43,7 +43,7 @@
       "iconFontAwesomeClass": "fa fa-lg fa-facebook",
       "url": {
         "link": "https://www.facebook.com/casapetrirosiamontana",
-        "textOnMouseOver": "Urmărește-ne pe Facebook",
+        "textOnMouseOver": "Follow us on facebook",
         "openInNewTab": true
       }
     },
@@ -52,7 +52,7 @@
       "iconFontAwesomeClass": "fa fa-map-marker",
       "url": {
         "link": "https://www.google.ro/maps/dir//Casa+Petri,+DC146+334,+Ro%C8%99ia+Montan%C4%83+517615/@46.4076261,22.8131462,9z/data=!4m13!1m4!3m3!1s0x474ecce046c99d41:0xc76f83a95070630c!2sCasa+Petri!3b1!4m7!1m0!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754?hl=ro",
-        "textOnMouseOver": "cum ajung?",
+        "textOnMouseOver": "How to get there?",
         "openInNewTab": true
       }
     }
@@ -61,7 +61,7 @@
     {
       "text": "RO",
       "iconFontAwesomeClass": "",
-      "languageCode": "en",
+      "languageCode": "ro",
       "url": {
         "textOnMouseOver": "schimbă în română",
         "openInNewTab": false

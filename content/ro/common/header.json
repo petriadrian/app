@@ -59,11 +59,11 @@
   ],
   "languageButtons": [
     {
-      "text": "RO",
+      "text": "EN",
       "iconFontAwesomeClass": "",
       "languageCode": "en",
       "url": {
-        "textOnMouseOver": "schimbă în română",
+        "textOnMouseOver": "switch to english",
         "openInNewTab": false
       }
     }
