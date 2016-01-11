@@ -46,6 +46,8 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http, localiza
         return finalItems;
     };
 
+    // localization
+    $rootScope.localizationService = localizationService;
 
 });
 
@@ -107,15 +109,12 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
     }
 
     // localization
-    $scope.localizationService = localizationService;
     $scope.$watch('localizationService.language', function (newVal, oldVal) {
         if (!angular.isUndefined(oldVal) && oldVal != newVal) {
             $scope.reloadContent(newVal);
         }
     });
     $scope.reloadContent = function (newLanguage) {
-        $rootScope.userLanguage = newLanguage;
-        debugger;
         if ($location.$$path == '/') {
             pageSuffix = '/home';
         } else {
@@ -137,14 +136,12 @@ app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, $loca
     });
 
     // localization
-    $scope.localizationService = localizationService;
     $scope.$watch('localizationService.language', function (newVal, oldVal) {
         if (!angular.isUndefined(oldVal) && oldVal != newVal) {
             $scope.reloadContent(newVal);
         }
     });
     $scope.reloadContent = function (newLanguage) {
-        $rootScope.userLanguage = newLanguage;
         var headerContentPath = 'content/' + newLanguage + '/common/header.json';
         $http.get(headerContentPath).success(function (headerContentResult) {
             $scope.headerContent = headerContentResult;
@@ -166,7 +163,6 @@ app.controller('FooterCtrl', function ($scope, $rootScope, $http, $timeout, loca
 
     var reviewsPagePath = 'content/' + localizationService.language + '/review.json';
     $http.get(reviewsPagePath).success(function (reviewPageContent) {
-        debugger;
         $scope.reviewPresentation = reviewPageContent.presentation;
     });
     var reviewsArticlesPath = 'content/' + localizationService.language + '/common/articles/reviews.json';
@@ -179,24 +175,29 @@ app.controller('FooterCtrl', function ($scope, $rootScope, $http, $timeout, loca
     });
 
     // localization
-    $scope.localizationService = localizationService;
     $scope.$watch('localizationService.language', function (newVal, oldVal) {
         if (!angular.isUndefined(oldVal) && oldVal != newVal) {
             $scope.reloadContent(newVal);
         }
     });
     $scope.reloadContent = function (newLanguage) {
-        console.log('language changed: footer');
-        $rootScope.userLanguage = newLanguage;
         var footerContentPath = 'content/' + newLanguage + '/common/footer.json';
         $http.get(footerContentPath).success(function (footerContentResult) {
             $scope.footerContent = footerContentResult;
         });
+        var reviewsPagePath = 'content/' + newLanguage + '/review.json';
+        $http.get(reviewsPagePath).success(function (reviewPageContent) {
+            $scope.reviewPresentation = reviewPageContent.presentation;
+        });
+        var reviewsArticlesPath = 'content/' + newLanguage + '/common/articles/reviews.json';
+        $http.get(reviewsArticlesPath).success(function (reviewArticles) {
+            $scope.reviews = reviewArticles;
+        });
+        console.log('language changed: footer');
     };
 });
 
 app.controller('GetPagePresentationCtrl', function ($scope, $rootScope, $http, localizationService) {
-
     var pageToLoadPath = 'content/' + localizationService.language + $scope.pagePresentationPath + '.json';
     $http.get(pageToLoadPath).success(function (pageResult) {
         $scope.pagePresentation = pageResult.presentation;
@@ -240,7 +241,7 @@ app.factory('localizationService', function () {
     return factory;
 });
 
-app.directive('sectionForm', function () {
+app.directive('sectionForm', function ($timeout) {
    return {
        restrict: 'E',
        scope: {
@@ -249,6 +250,9 @@ app.directive('sectionForm', function () {
        templateUrl: 'templates/_form.tmpl.htm',
        link: function (scope, element, attrs) {
            scope.formObj = {};
+           scope.responseMessage = '';
+           scope.showResponse = false;
+           scope.messageType = 'success';
            scope.sendEmailFromForm = function () {
                scope.formLoading = true;
                scope.formObj.title = scope.section.title;
@@ -257,23 +261,43 @@ app.directive('sectionForm', function () {
                    url: 'scripts/send_mail.php',
                    data: scope.formObj,
                    dataType: 'json',
-                   success: function (data) {
+                   success: function (data){
                        for (var field in scope.formObj) {
                            scope.formObj[field] = '';
                        }
+                       if(data.success == true) {
+                           //success
+                           console.log("sauces", data);
+                           scope.showResponse = true;
+                           scope.responseMessage = scope.section.successMessage;
+                           scope.messageType = 'success';
+                       }
+                       else {
+                           console.log("fail", data);
+                           scope.showResponse = true;
+                           scope.responseMessage = scope.section.errorMessage || "ERROR";
+                           scope.messageType = 'error';
+                       }
                        scope.formObj = {};
-                       scope.formLoading = false;
                        console.log("successfully sent form to email");
-                       alert(scope.section.successMessage);
+                       scope.formLoading = false;
+                       $timeout(function() {
+                           scope.showResponse = false;
+                       }, 20000);
                    },
                    error: function(errorThrown) {
                        for (var field in scope.formObj) {
                            scope.formObj[field] = '';
                        }
                        scope.formObj = {};
+                       console.log("error while sending form to email", errorThrown);
+                       scope.responseMessage = scope.section.errorMessage || "ERROR";
+                       scope.messageType = 'error';
+                       scope.showResponse = true;
                        scope.formLoading = false;
-                       console.log("error while sending form to email");
-                       alert(scope.section.successMessage);
+                       $timeout(function() {
+                           scope.showResponse = false;
+                       }, 20000);
                    }
                });
            }

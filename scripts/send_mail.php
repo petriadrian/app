@@ -1,6 +1,7 @@
 <?php
+    error_reporting(0);
     include('/home/hdeldkaw/php/Mail.php');
-    error_reporting(E_ALL ^ E_WARNING);
+    use \stdClass;
 
     $recipients = 'petriadrian@gmail.com';
 
@@ -18,5 +19,12 @@
     $mail =& Mail::factory('sendmail');
 
     $result = $mail->send($recipients, $headers, $body);
-    var_dump($result);
-?>
+
+    $ret = new stdClass();
+    if($result) {
+        $ret->success = true;
+    }
+    else {
+        $ret->success = false;
+    }
+    echo json_encode($ret);

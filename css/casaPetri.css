@@ -228,12 +228,14 @@ footer .row section{
 .footerFeedback button {
     float: left;
     width: 100%;
-    background-color: #1D2626;
+    background-color: transparent;
     color: white;
     padding: 3px 12px;
 }
 
-.footerFeedback button {
+.footerFeedback button,
+.footerFeedback button:HOVER,
+.footerFeedback button:FOCUS {
     color: gray;
     border: 1px solid white;
 }
@@ -247,7 +249,7 @@ footer .row section{
 .footerFeedback textarea:HOVER,
 .footerFeedback textarea:FOCUS {
     background-color: white;
-    color: #151F1D;
+    color: black;
 }
 
 .contactCard p {
@@ -431,6 +433,13 @@ footer .row section{
     border-color: white;
 }
 
+.alert {
+    margin: 0.5%;
+}
+
+.visibility-hidden {
+    visibility: hidden;
+}
 
 /* MEDIA */
 @media only screen and (max-width: 600px) {
