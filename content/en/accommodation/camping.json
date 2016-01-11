@@ -1,13 +1,13 @@
 {
   "presentation": {
-    "title": "Campare",
-    "headlineText": "Am adormit sub stele, era munte, liniște, răcoare...",
-    "description": "Curtea casei e numai bună de campat în siguranță, cu accees la facilități și priveliște spre munte",
+    "title": "Camping",
+    "headlineText": "My tent beside the mountains... is my home",
+    "description": "The yard is excellent for safe camping, has facilities access and a spectacular view to the mountain",
     "headlineImg": "img/accommodation/camping/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/accommodation/camping",
-      "textOnMouseOver" : "Vezi locurile de campare",
+      "textOnMouseOver" : "See the camping spots...",
       "openInNewTab": false
     },
     "carouselAdvertise": [
@@ -25,7 +25,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "Detalii",
+      "text": "Details",
       "iconFortAwesomeClass": "fa fa-info-circle",
       "sectionId": "details",
       "addLinkInPageHeadline": true
@@ -35,13 +35,13 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Ia-ți cortul în spate și hai la Roșia. Ai acces la baie, bucătărie, cameră de zi, terasă cu loc pentru grătar și parcare. Cortul și lucrurile îți vor fi în siguranță întrucât zona de campare este în curte îngrădită. Prețul este de <b>25lei</b>/persoană/noapte. Oferim <b>10% discount</b> celor care vin cu bicicleta și fac cel puțin un traseu. <br>În momentul rezervării specificați facilitățile dorite pentru a ne asigura că sunt disponibile. Este interzis fumatul în interiorul casei, ascultatul de muzică tare sau comportamentul necivilizat. Făcutul focului este permis doar în spațiile amenajate. <br><b>După rezervare o să revenim cu un email sau telefon de confirmare.</b>."
+          "textContent": "Pack your tent and come to Roșia. You'll have access to the bathroom, kitchen, living room, terrace with barbecue and parking. The tent and your possessions will be safe as the camping area is in the fenced yard. The price is <b>6€</b> /person/night. We offer <b>10% discount</b> to guests that bring their bikes and makes at least one trail. During booking process, please specify the facilities that you want so we can make sure they are available. Please note that inside the house smoking, loud music or misbehaviour are prohibited. Fire is allowed only in designated places. <br><b>The booking will be confirmed it by email or phone.</b>."
         }
       ]
     },
     {
       "type": "title",
-      "text": "Rezervări",
+      "text": "Bookings",
       "iconFortAwesomeClass": "fa fa-chevron-circle-up",
       "sectionId": "reservations",
       "addLinkInPageHeadline": true
@@ -54,20 +54,20 @@
           "textContent": "",
           "images": [
             {
-              "title": "Zona de campare",
-              "description": "curte",
+              "title": "Camping area",
+              "description": "yard",
               "thumbnailUrl": "img/accommodation/camping/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/camping/fullSize/1.jpg"
             },
             {
-              "title": "Zona de campare",
-              "description": "curte",
+              "title": "Camping area",
+              "description": "yard",
               "thumbnailUrl": "img/accommodation/camping/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/camping/fullSize/2.jpg"
             },
             {
-              "title": "Zona de campare - baie",
-              "description": "Încălzire prin boiler pe lemne",
+              "title": "Camping area - bathroom",
+              "description": " Heating with wood boiler",
               "thumbnailUrl": "img/accommodation/camping/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/camping/fullSize/3.jpg"
             }
@@ -78,15 +78,15 @@
     {
       "type": "form",
       "title": "campingReservation",
-      "successMessage": "Vă mulțumim! O să revenim cu un răspuns de confirmare cât mai repede.",
-      "sendButtonText": "Trimite",
-      "hideFormUnderButton": "Rezervă spațiu de campare",
+      "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
+      "sendButtonText": "Send",
+      "hideFormUnderButton": "Book a camping spot",
       "fields": [
         {
           "type": "textRow",
           "name": "name",
           "iconFortAwesomeClass": "fa fa-user fa-fw",
-          "placeholder": "Nume",
+          "placeholder": "Name",
           "maxChars": 30,
           "required": true
         },
@@ -101,14 +101,14 @@
           "type": "daterange",
           "name": "period",
           "iconFortAwesomeClass": "fa fa-calendar fa-fw",
-          "placeholder": "Alege perioada",
+          "placeholder": "Select the period",
           "required": true
         },
         {
           "type": "number",
           "name": "numberOfPersons",
           "iconFortAwesomeClass": "fa fa-male fa-fw",
-          "placeholder": "Numar de persoane",
+          "placeholder": "How many persons?",
           "maxLimit": 12,
           "required": true
         },
@@ -116,25 +116,25 @@
           "type": "number",
           "name": "numberOfTents",
           "iconFortAwesomeClass": "fa fa-chevron-up fa-fw",
-          "placeholder": "Numar de corturi",
+          "placeholder": "How many tents?",
           "maxLimit": 6,
           "required": true
         },
         {
           "type": "checkBoxes",
-          "title": "Doresc:",
+          "title": "I wish:",
           "checkBoxes": [
             {
               "name": "parkingSpot",
-              "text": "parcare"
+              "text": "parking"
             },
             {
               "name": "kitchenAccess",
-              "text": "acces bucătărie și camera de zi"
+              "text": "kitchen and living room"
             },
             {
               "name": "bikeGarage",
-              "text": "garaj biciclete"
+              "text": "bike garage"
             }
           ]
         },
@@ -142,7 +142,7 @@
           "type": "textarea",
           "name": "others",
           "iconFortAwesomeClass": "fa fa-commenting fa-fw",
-          "placeholder": "Altele",
+          "placeholder": "Others",
           "rows": 3,
           "maxChars": 350,
           "required": false
@@ -157,7 +157,7 @@
     },
     {
       "type": "title",
-      "text": "Vezi și",
+      "text": "See also",
       "iconFortAwesomeClass": "fa fa-coffee",
       "sectionId": "seeAlso",
       "addLinkInPageHeadline": false

@@ -1,0 +1,59 @@
+[
+  {
+    "id": "1",
+    "title": "Nastasia - Barcelona(SP)",
+    "textContent": "<span style='font-family: Merienda, cursive'> A fairytale place, with wonderful people, both in thoughts and in senses, the house where I always come back gladly! Petri House Roșia Montană!</span>",
+    "moreDetailsLink": "https://www.facebook.com/nechiti.nastasia",
+    "moreDetailsText": "You can ask Nastasia, on facebook, about her experience. Click here...",
+    "images": [
+      {
+        "title": "Nastasia - Barcelona(SP)",
+        "description": " at Casa Petri",
+        "thumbnailUrl": "img/reviews/reviewer/thumbnail/1.jpg",
+        "fullSizeUrl": "img/reviews/reviewer/fullSize/1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Andreea - Oradea(RO)",
+    "textContent": "<span style='font-family: Merienda, cursive'>Oamenii frumosi la gazde frumoase trag! Multam de hamace with a view, vibe creativ si activist, clatite cu zambet larg si respiro cu WiFiiiiiii :))) ca sa afle lumea ca suntem la Casa Petri si ce facem pe acolo. Raportam de pe baricade ca stocul de dor s-a refacut rapid si numaram weekendurile pana va trecem iar pragul!</span>",
+    "moreDetailsLink": "https://www.facebook.com/andreea.firastraeru",
+    "moreDetailsText": "You can ask Andreea, on facebook, about her experience. Click here...",
+    "images": [
+      {
+        "title": "Andreea - Oradea(RO)",
+        "description": " at Casa Petri",
+        "thumbnailUrl": "img/reviews/reviewer/thumbnail/2.jpg",
+        "fullSizeUrl": "img/reviews/reviewer/fullSize/2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Felicia - Satu Mare(RO)",
+    "textContent": "<span style='font-family: Merienda, cursive'>We had a great time here at Casa Petri!</span>",
+    "images": [
+      {
+        "title": "Felicia - Satu Mare(RO)",
+        "description": " at Casa Petri",
+        "thumbnailUrl": "img/reviews/reviewer/thumbnail/3.jpg",
+        "fullSizeUrl": "img/reviews/reviewer/fullSize/3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Ana von Aether - Paris(FR)",
+    "textContent": "<span style='font-family: Merienda, cursive'>Mulțumesc încă o data că m-ați primit la voi. Mi-a făcut plăcere să vă cunosc! Mi-a placut foarte mult la fan fest și dacă o să reușesc să vin și la anul, tot la voi vreau sa stau. Păstram legătura</span>",
+    "textContent": "<span style='font-family: Merienda, cursive'>Thanks for the accomodation. It was a pleasure to meet you! I enjoyed a lot Fân Fest and if I'll come next year to the festival, I also want to stay at Casa Petri. Keep in touch!</span>",
+    "images": [
+      {
+        "title": "Ana von Aether - Paris(FR)",
+        "description": " with her friends at Fân Fest",
+        "thumbnailUrl": "img/reviews/reviewer/thumbnail/4.jpg",
+        "fullSizeUrl": "img/reviews/reviewer/fullSize/4.jpg"
+      }
+    ]
+  }
+]

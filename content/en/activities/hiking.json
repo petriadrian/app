@@ -1,0 +1,130 @@
+{
+  "presentation": {
+    "title": "Hiking trails",
+    "headlineText": "We have trails so let's hit the road!",
+    "description": "Plimbări ușoare pe ulițele satului printre clădiri de patrimoniu până la trasee pe culmi montane, lacuri și sate",
+    "description": "From light walks on the village’s streets, among heritage buildings to hiking trails in the mountains, among lakes and villages",
+    "headlineImg": "img/activities/hiking/presentation.jpg",
+    "showPageHeadline": true,
+    "url": {
+      "link": "#/activities/hiking",
+      "textOnMouseOver": "See the hiking trails...",
+      "openInNewTab": false
+    },
+    "carouselAdvertise": [
+      {
+        "img": "img/activities/hiking/carouselAdvertise/1.jpg"
+      },
+      {
+        "img": "img/activities/hiking/carouselAdvertise/2.jpg"
+      },
+      {
+        "img": "img/activities/hiking/carouselAdvertise/3.jpg"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "Details",
+      "iconFortAwesomeClass": "fa fa-info-circle",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Our village is surrounded by mountains, valleys, churches, heritage buildings and ancient galleries. We can't wait for you to discover them! So, if you come to Roșia, don't visit just the museum and the local store, because the area has much more to offer. Check the trails below and find the ones that you would like, based on your fitness and the touristic attractions you would like to see. <br>The maps of the trails are done in <b>google maps</b>, so you can zoom in, see them in satellite mode or access them from any device. Under each trail you'll find indications estimated by us (<b>round trip distance</b>, duration) and the indications within the map are being estimated by google.",
+          "moreDetailsLink": "https://turismlarosiamontana.wordpress.com/about",
+          "moreDetailsText": "Occasionally, there are guided tours organised. More details here..."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Short trails",
+      "iconFortAwesomeClass": "fa fa-map-signs",
+      "sectionId": "shortTrails",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/activities/trails/historicalCenter"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/trails/romanGalleries"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/trails/carnic"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/trails/weatherStation"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/trails/letySulei"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Long trails",
+      "iconFortAwesomeClass": "fa fa-map-signs",
+      "sectionId": "longTrails",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/activities/trails/detunata"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/trails/geamana"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/trails/topAttractions"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "See also",
+      "iconFortAwesomeClass": "fa fa-coffee",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/activities/cycling"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/rooms"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/camping"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/facilities"
+        }
+      ]
+    }
+  ]
+}

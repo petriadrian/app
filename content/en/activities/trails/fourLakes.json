@@ -1,13 +1,13 @@
 {
   "presentation": {
-    "title": "4 lacuri",
-    "headlineText": "Descoperă traseul celor 4 lacuri",
-    "description": "Turul localității pe un drum de țară printre lacuri, dealuri și mici sate de munte <b>16km</b>",
+    "title": "4 lakes",
+    "headlineText": "Discover the 4 lakes trail",
+    "description": "Tour of the village on a countryside, among lakes, hills and small mountain villages <b>16km</b>",
     "headlineImg": "img/activities/trails/fourLakes/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/trails/fourLakes",
-      "textOnMouseOver": "Vezi traseul celor 4 lacuri",
+      "textOnMouseOver": "See the 4 lakes trail",
       "openInNewTab": false
     },
     "carouselAdvertise": [

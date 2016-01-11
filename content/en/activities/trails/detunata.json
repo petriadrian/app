@@ -1,0 +1,141 @@
+{
+  "presentation": {
+    "title": "Detunata",
+    "headlineText": "Traseul satelor din Apuseni spre masivul Detunata",
+    "description": "Pornim spre Tăul Mare, tecem prin câteva cătune de munte până ajungem pe vârful coloanelor de bazalt <b>~19km</b>",
+    "headlineImg": "img/activities/trails/detunata/presentation.jpg",
+    "showPageHeadline": true,
+    "url": {
+      "link": "#/activities/trails/detunata",
+      "textOnMouseOver": "Vezi traseul spre Detunata",
+      "openInNewTab": false
+    },
+    "carouselAdvertise": [
+      {
+        "img": "img/activities/trails/detunata/carouselAdvertise/1.jpg"
+      },
+      {
+        "img": "img/activities/trails/detunata/carouselAdvertise/2.jpg"
+      },
+      {
+        "img": "img/activities/trails/detunata/carouselAdvertise/3.jpg"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "Traseu",
+      "iconFortAwesomeClass": "fa fa-map-signs",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Începem traseul din centrul istoric, de la Casa Petri și o luăm spre Tăul Mare unde ne înviorăm puțin cu apa rece de munte că lung traseu ne mai așteaptă... Pornim apoi spre satele Muntari și Poiana printr-un peisaj tipic din Țara Moților, presărat ici și colo cu căpițe și pașuni pe unde o să întâlniți turme de oi sau vaci. Ne continuăm drumul până ce dăm de o culme montană formată din niște coloane înalte de bazalt ca cele din imaginea de mai sus. Pare puțin înfricoșător ... nu e așa? O potecă vă va urca până pe vârful acestei culmi și orice temere va dispărea odată ce o să vedeți priveliștea de aici. <br>Traseul este complet marcat cu marcajul 'cruce roșie' de către Salvamont așa că va fi foarte ușor de urmăit. Dacă mergi cu bicileta află că pe ultimii 500 de metri o să urci pe o potecă ingustă care nu e accesibilă pentru biciclete.",
+          "moreDetailsLink": "http://www.bikemap.net/en/route/3052348-rosia-montana-poiana-detunata-goala/#/z13/46.28539,23.16415/terrain",
+          "moreDetailsText": "Datele GPS și traseul îl puteți găsi și aici pe bikemap.net",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJv_3GPwvLTkcRDy5ru-eVXWI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Tăul Mare, Rosia Montana, Alba County, Romania | Muntari, Alba County, Romania",
+            "list": [
+              {
+                "textOnMouseOver": "lungime dus-întors",
+                "text": "~19km",
+                "iconFortAwesomeClass": "fa fa-refresh"
+              },
+              {
+                "textOnMouseOver": "durată pe jos dus-întors",
+                "text": "~7h",
+                "iconFortAwesomeClass": "fa fa-male"
+              },
+              {
+                "textOnMouseOver": "durată cu bicicleta dus-întors",
+                "text": "~5h",
+                "iconFortAwesomeClass": "fa fa-bicycle"
+              },
+              {
+                "textOnMouseOver": "dificultate",
+                "text": "mediu",
+                "iconFortAwesomeClass": "fa fa-line-chart"
+              },
+              {
+                "textOnMouseOver": "indicații",
+                "text": "bocanci de munte, pelerină, apă",
+                "iconFortAwesomeClass": "fa fa-check-square-o"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Atracții",
+      "iconFortAwesomeClass": "fa fa-star",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "bigLake"
+            },
+            {
+              "id": "muntariPoiana"
+            },
+            {
+              "id": "detunata"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Gata traseul? Îți recomandam și:",
+      "iconFortAwesomeClass": "fa fa-child",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "banner": {
+        "page": "/activities/trails/geamana"
+      }
+    },
+    {
+      "type": "title",
+      "text": "Vezi și",
+      "iconFortAwesomeClass": "fa fa-coffee",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/rooms"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/camping"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/hiking"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/cycling"
+        }
+      ]
+    }
+  ]
+}

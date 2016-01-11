@@ -1,0 +1,143 @@
+{
+  "presentation": {
+    "title": "Vârful Cârnic",
+    "headlineText": "Traseul spre acoperișul întregului ținut - masivul Cârnic",
+    "description": " De pe ulițele satului ajungem la Tăul Brazi și apoi urcăm pe masivul Cârnic la Piatra Corbului și la Sfinx <b>~8km</b>",
+    "headlineImg": "img/activities/trails/carnic/presentation.jpg",
+    "showPageHeadline": true,
+    "url": {
+      "link": "#/activities/trails/carnic",
+      "textOnMouseOver": "Vezi traseul Muntelui Cârnic",
+      "openInNewTab": false
+    },
+    "carouselAdvertise": [
+      {
+        "img": "img/activities/trails/carnic/carouselAdvertise/1.jpg"
+      },
+      {
+        "img": "img/activities/trails/carnic/carouselAdvertise/2.jpg"
+      },
+      {
+        "img": "img/activities/trails/carnic/carouselAdvertise/3.jpg"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "Traseu",
+      "iconFortAwesomeClass": "fa fa-map-signs",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Curtea casei Petri are o frumoasă priveliște spre masivul Cârnic. Dacă vă uitați atent de aici spre vârful Cârnicului o să observați o stâncă cu o formă de cal și o cruce în vârful acestuia. Acesta este Sfinxul Cârnicului sau 'Căluțul' cum îi mai spune în zonă, care reprezintă și obiectivul nostru principal pentru acest traseu. Pornim spre Tăul Brazi și Tăul Anghel - două mici lacuri de munte. Plecăm apoi prin pădurea de brazi spre Platoul Cârnic - o mică terasă cu o priveliște frumoasă. Continuăm apoi urcușul până în vârful masivului la Piatra Corbului și Sfinx. ",
+          "moreDetailsLink": "http://www.gpsies.com/map.do?fileId=esbtvmiyuytvzprs",
+          "moreDetailsText": "Datele GPS și traseul îl puteți găsi și pe gpsies.com. Detalii aici...",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Casa Parohială Unitariană, DC117, Roșia Montană, Alba County, Romania | Casa Heneș, DC117, Roșia Montană, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Tăul Anghel, Rosia Montana, Alba County, Romania | Platoul Cârnic, Rosia Montana, Alba County, Romania | Piatra Corbului, Rosia Montana, Alba County, Romania",
+            "list": [
+              {
+                "textOnMouseOver": "lungime dus-întors",
+                "text": "~8km",
+                "iconFortAwesomeClass": "fa fa-refresh"
+              },
+              {
+                "textOnMouseOver": "durată pe jos dus-întors",
+                "text": "~3h",
+                "iconFortAwesomeClass": "fa fa-male"
+              },
+
+              {
+                "textOnMouseOver": "dificultate",
+                "text": "mediu",
+                "iconFortAwesomeClass": "fa fa-line-chart"
+              },
+              {
+                "textOnMouseOver": "indicații",
+                "text": "bocanci de munte, pelerină, apă",
+                "iconFortAwesomeClass": "fa fa-check-square-o"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Atracții",
+      "iconFortAwesomeClass": "fa fa-star",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "sicilianStreet"
+            },
+            {
+              "id": "braziLake"
+            },
+            {
+              "id": "carnicPlateau"
+            },
+            {
+              "id": "carnicSfinx"
+            },
+            {
+              "id": "ravenStone"
+            }
+          ]
+        }
+      ]
+  },
+    {
+      "type": "title",
+      "text": "Gata traseul? Îți recomandam și:",
+      "iconFortAwesomeClass": "fa fa-child",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "banner": {
+        "page": "/activities/trails/romanGalleries"
+      }
+    },
+    {
+      "type": "title",
+      "text": "Vezi și",
+      "iconFortAwesomeClass": "fa fa-coffee",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/rooms"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/camping"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/hiking"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/cycling"
+        }
+      ]
+    }
+  ]
+}

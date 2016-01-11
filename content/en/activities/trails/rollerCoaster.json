@@ -1,0 +1,185 @@
+{
+  "presentation": {
+    "title": "Roller Coaster",
+    "headlineText": "Traseul roller coaster - Corna - Seliște",
+    "description": "Coborâș plin de adrenalină pe serpentinele vechiului drum al carierei și urcuș înapoi pe un drum de țară <b>~25km</b>",
+    "headlineImg": "img/activities/trails/rollerCoaster/presentation.jpg",
+    "showPageHeadline": true,
+    "url": {
+      "link": "#/activities/trails/rollerCoaster",
+      "textOnMouseOver": "Vezi traseul roller coaster",
+      "openInNewTab": false
+    },
+    "carouselAdvertise": [
+      {
+        "img": "img/activities/trails/rollerCoaster/carouselAdvertise/1.jpg"
+      },
+      {
+        "img": "img/activities/trails/rollerCoaster/carouselAdvertise/2.jpg"
+      },
+      {
+        "img": "img/activities/trails/rollerCoaster/carouselAdvertise/3.jpg"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "Traseu",
+      "iconFortAwesomeClass": "fa fa-map-signs",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Acesta este traseul copilăriei noastre. <i>Ne luam bicicletele și urcam pe la Tăul Mare până ce dadeam de drumul carierei de Cupru. De aici ne plăcea să ne dăm drumul la vale cu cea mai mare viteză spre satul Corna și orașul Abrud de unde ne cumpăram înghețată și mai pierdeam vremea prin centrul istoric. Apoi ne luam inima în dinți pentru că urma partea grea a traseului: Urcușul pe un drum de țară spre casă, prin satul Seliște. Pe drum e și Tăul Tapului în apele căruia ne aruncam să ne răcorim puțin. De aici mai e un mic urcuș până acasă.</i> <br>Vă provocăm și pe voi să parcurgeți traseul și să gustați din plăcerile copilăriei noastre. În zona Gura Cornei puteți să luați masa (Recomandăm restaurantul Laguna sau Detunata). Va trebui să treceți prin localitatea Abrud unde e puțin trafic dar în ~10min îl traversați.",
+          "moreDetailsText": "",
+          "moreDetailsLink": "",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Tăul Mare, Rosia Montana, Alba County, Romania | Helești, Alba County, Romania | Corna, Alba County, Romania | Gura Cornei, Alba County, Romania | Strada Mărășești, Abrud, Alba County, Romania | Biserica Romano-Catolică, Piața Cuza Vodă, Abrud, Alba County, Romania | Tăul Țapului, Rosia Montana, Alba County, Romania",
+            "list": [
+              {
+                "textOnMouseOver": "lungime dus-întors",
+                "text": "~25km",
+                "iconFortAwesomeClass": "fa fa-refresh"
+              },
+              {
+                "textOnMouseOver": "durată cu bicicleta dus-întors",
+                "text": "~6h",
+                "iconFortAwesomeClass": "fa fa-bicycle"
+              },
+              {
+                "textOnMouseOver": "dificultate",
+                "text": "greu",
+                "iconFortAwesomeClass": "fa fa-line-chart"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Atracții",
+      "iconFortAwesomeClass": "fa fa-star",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "bigLake"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Drumul Cornei",
+          "textContent": "Drumul era asfaltat în trecut și folosit pentru a ajunge la Cariera de Cupru, dar acum s-a deteriorat și este puțin circulat, ceea ce il face numai bun pentru un traseu de mtb. Acest drum vă va duce la vale pe marginea versantului cu priveliște spre valea Cornii.",
+          "images": [
+            {
+              "title": "Drumul fostei cariere",
+              "description": "spre satul Corna",
+              "thumbnailUrl": "img/activities/trails/attractions/cornaRoad/thumbnail/1.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/cornaRoad/fullSize/1.jpg"
+            },
+            {
+              "title": "Drumul pe lângă satul Corna",
+              "description": "în spate se vad o parte din serpentinele de pe lângă satul Corna. Vă puteți aventura și prin sat pentru a vizita cele 2 biserici sau Tăul Cartuș.",
+              "thumbnailUrl": "img/activities/trails/attractions/cornaRoad/thumbnail/2.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/cornaRoad/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Abrud",
+          "textContent": "Prin Abrud o veți lua în treacăt pentru a ajunge la drumul de țară care vă va urca prin Seliște înapoi spre Roșia. De aveți timp puteți vizita rapid și centrul istoric Abrud în zona Bisericii Catolice.",
+          "moreDetailsLink": "http://www.primaria-abrud.ro/index.php/ro/orasul/item/98-pagini-de-istorie",
+          "moreDetailsText": "Deși orașul nu și-a pus în valoare istoria, aflați că și aici s-a scris o bună bucată din istoria României. Mai multe aici.",
+          "images": [
+            {
+              "title": "Abrud",
+              "description": "centrul istoric - Biserica Romano Catolică",
+              "thumbnailUrl": "img/activities/trails/attractions/abrud/thumbnail/1.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/abrud/fullSize/1.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Seliște - Tăul Țapului",
+          "textContent": "Din Abrud o să urcați pe un deal până ajungeți deasupra orașului. De aici o luați pe un drum de țară până ajungeți în satul Seliște iar apoi spre Tăul Țapului. De aici o să coborâți puțin până ajungeți la Stadionul Roșiei Montane și de aici urcați iar până la Casa Petri ",
+          "images": [
+            {
+              "title": "Drumul de țară prin Seliște",
+              "description": "",
+              "thumbnailUrl": "img/activities/trails/attractions/selisteRoad/thumbnail/1.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/selisteRoad/fullSize/1.jpg"
+            },
+            {
+              "title": "Tăul Țapului",
+              "description": "",
+              "thumbnailUrl": "img/activities/trails/attractions/selisteRoad/thumbnail/2.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/selisteRoad/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Gata traseul? Îți recomandam și:",
+      "iconFortAwesomeClass": "fa fa-child",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "banner": {
+        "page": "/activities/trails/geamana"
+      }
+    },
+    {
+      "type": "title",
+      "text": "Vezi și",
+      "iconFortAwesomeClass": "fa fa-coffee",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/rooms"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/camping"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/hiking"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/cycling"
+        }
+      ]
+    }
+  ]
+}

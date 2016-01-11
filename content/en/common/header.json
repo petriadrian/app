@@ -10,7 +10,7 @@
   },
   "leftButtons": [
     {
-      "text": "Where do I stay?",
+      "text": "Stay here..",
       "iconFontAwesomeClass": "",
       "url": {
         "link": "#/#accommodation",
@@ -19,7 +19,7 @@
       }
     },
     {
-      "text": "What I will do there?",
+      "text": "Do this..",
       "iconFontAwesomeClass": "",
       "url": {
         "link": "#/#activities",

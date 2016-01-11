@@ -1,0 +1,25 @@
+{
+  "presentation": {
+    "title": "Festival",
+    "headlineText": "",
+    "description": "<b>| August |</b> Theatre, forums, music, film. Attend the most active festival: FânFest",
+    "headlineImg": "",
+    "showPageHeadline": true,
+    "url": {
+      "link": "http://www.fanfest.ro",
+      "textOnMouseOver" : "See the Fân Fest official page...",
+      "openInNewTab": true
+    },
+    "carouselAdvertise": [
+      {
+        "img": "img/recommendations/festival/carouselAdvertise/1.jpg"
+      },
+      {
+        "img": "img/recommendations/festival/carouselAdvertise/2.jpg"
+      },
+      {
+        "img": "img/recommendations/festival/carouselAdvertise/3.jpg"
+      }
+    ]
+  }
+}

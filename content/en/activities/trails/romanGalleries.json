@@ -1,0 +1,134 @@
+{
+  "presentation": {
+    "title": "The Roman Galleries",
+    "headlineText": "Discover the Roman Galleries – a trail on the 'Orlea' Mountain",
+    "description": "Go deep underground, into the Roman Galleries and then visit the local attractions <b>~5km</b>",
+    "headlineImg": "img/activities/trails/romanGalleries/presentation.jpg",
+    "showPageHeadline": true,
+    "url": {
+      "link": "#/activities/trails/romanGalleries",
+      "textOnMouseOver": "See more...",
+      "openInNewTab": false
+    },
+    "carouselAdvertise": [
+      {
+        "img": "img/activities/trails/romanGalleries/carouselAdvertise/1.jpg"
+      },
+      {
+        "img": "img/activities/trails/romanGalleries/carouselAdvertise/2.jpg"
+      },
+      {
+        "img": "img/activities/trails/romanGalleries/carouselAdvertise/3.jpg"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "Traseu",
+      "iconFortAwesomeClass": "fa fa-map-signs",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Traseul ne va purta spre celebrele galerii romane de la Muzeul Mineritului. Drumul de la Casa Petri până la Muzeu este asfaltat, iar partea a 2-a traseului, spre biserica Greco Catolică și sculpturi se face pe drum de țară.",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Galeriile Romane, Roșia Montană, Alba County, Romania | Biserica Adormirea Maicii Domnului, Strada Principală 175, Roșia Montană 517615 | Biserica Greco-Catolică Adormirea Maicii Domnului, Roșia Montană | Sculpturi Calcar, DC147, Roșia Montană 517615",
+            "list": [
+              {
+                "textOnMouseOver": "lungime dus-întors",
+                "text": "~5km",
+                "iconFortAwesomeClass": "fa fa-refresh"
+              },
+              {
+                "textOnMouseOver": "durată pe jos dus-întors",
+                "text": "~3h",
+                "iconFortAwesomeClass": "fa fa-male"
+              },
+              {
+                "textOnMouseOver": "dificultate",
+                "text": "ușor",
+                "iconFortAwesomeClass": "fa fa-line-chart"
+              },
+              {
+                "textOnMouseOver": "indicații",
+                "text": "bocanci de munte, pelerină, apă",
+                "iconFortAwesomeClass": "fa fa-check-square-o"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Atracții",
+      "iconFortAwesomeClass": "fa fa-star",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "romanGalleries"
+            },
+            {
+              "id": "grecoCatholicChurch"
+            },
+            {
+              "id": "limestoneSculptures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Gata traseul? Îți recomandam și:",
+      "iconFortAwesomeClass": "fa fa-child",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "banner": {
+        "page": "/activities/trails/weatherStation"
+      }
+    },
+    {
+      "type": "title",
+      "text": "Vezi și",
+      "iconFortAwesomeClass": "fa fa-coffee",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/rooms"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/camping"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/hiking"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/cycling"
+        }
+      ]
+    }
+  ]
+}

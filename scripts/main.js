@@ -12,7 +12,7 @@ var app = angular.module('appFunctionality', ['ngRoute', 'ngAnimate', 'ui.bootst
 /**
  * Initialization
  */
-app.run(function ($rootScope, $window, $anchorScroll, $location, $http) {
+app.run(function ($rootScope, $window, $anchorScroll, $location, $http, localizationService) {
     //set a function for opening any url in new or same tab
     $rootScope.openUrl = function (url) {
         if (typeof(url.openInNewTab) !== 'undefined' && url.openInNewTab) {
@@ -29,7 +29,7 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http) {
     };
     //get Articles function
     $rootScope.getArticles = function (categoryArticles, idsOfTheNeededArticles) {
-        var path = 'content/' + 'ro' + '/common/articles/' + categoryArticles + '.json';
+        var path = 'content/' + localizationService.language + '/common/articles/' + categoryArticles + '.json';
         var neededArticlesIds = [];
         $.each(idsOfTheNeededArticles, function (key, neededArticle) {
             neededArticlesIds.push(neededArticle.id);
@@ -57,7 +57,7 @@ app.config(['$routeProvider', function ($routeProvider) {
         // Home
         .when("/", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
         //// Pages
-        .when("/reviews", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+        .when("/review", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
 
         .when("/accommodation/facilities", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
         .when("/accommodation/camping", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
@@ -96,7 +96,7 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
     } else {
         pageSuffix = $location.$$path;
     }
-    var pageContentPath = 'content/' + 'ro' + pageSuffix + '.json';
+    var pageContentPath = 'content/' + localizationService.language + pageSuffix + '.json';
     $http.get(pageContentPath).success(function (pageContentResult) {
         $scope.pageContent = pageContentResult;
     });
@@ -108,21 +108,32 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
 
     // localization
     $scope.localizationService = localizationService;
-    $scope.$watch('localizationService.language', function (oldVal, newVal) {
+    $scope.$watch('localizationService.language', function (newVal, oldVal) {
         if (!angular.isUndefined(oldVal) && oldVal != newVal) {
             $scope.reloadContent(newVal);
         }
     });
-    $scope.reloadContent = function (language) {
-        console.log('content of site not ready yet');
+    $scope.reloadContent = function (newLanguage) {
+        $rootScope.userLanguage = newLanguage;
+        debugger;
+        if ($location.$$path == '/') {
+            pageSuffix = '/home';
+        } else {
+            pageSuffix = $location.$$path;
+        }
+        var translatedContentPath = 'content/' + newLanguage + pageSuffix + '.json';
+        $http.get(translatedContentPath).success(function (translatedContent) {
+            $scope.pageContent = translatedContent;
+        });
+        console.log('language changed: page');
     };
 });
 
 app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, $location, localizationService) {
 
-    var headerContentPath = 'content/' + localizationService.language + '/common/header.json';
-    $http.get(headerContentPath).success(function (headerContentResult) {
-        $scope.headerContent = headerContentResult;
+    var translatedContentPath = 'content/' + localizationService.language + '/common/header.json';
+    $http.get(translatedContentPath).success(function (translatedContentResult) {
+        $scope.headerContent = translatedContentResult;
     });
 
     // localization
@@ -138,6 +149,7 @@ app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, $loca
         $http.get(headerContentPath).success(function (headerContentResult) {
             $scope.headerContent = headerContentResult;
         });
+        console.log('language changed: header');
     };
 
     //redirect or just scroll from header buttons
@@ -152,11 +164,12 @@ app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, $loca
 
 app.controller('FooterCtrl', function ($scope, $rootScope, $http, $timeout, localizationService) {
 
-    var reviewsPagePath = 'content/' + 'ro' + '/reviews.json';
+    var reviewsPagePath = 'content/' + localizationService.language + '/review.json';
     $http.get(reviewsPagePath).success(function (reviewPageContent) {
+        debugger;
         $scope.reviewPresentation = reviewPageContent.presentation;
     });
-    var reviewsArticlesPath = 'content/' + 'ro' + '/common/articles/reviews.json';
+    var reviewsArticlesPath = 'content/' + localizationService.language + '/common/articles/reviews.json';
     $http.get(reviewsArticlesPath).success(function (reviewArticles) {
         $scope.reviews = reviewArticles;
     });
@@ -182,9 +195,9 @@ app.controller('FooterCtrl', function ($scope, $rootScope, $http, $timeout, loca
     };
 });
 
-app.controller('GetPagePresentationCtrl', function ($scope, $rootScope, $http) {
+app.controller('GetPagePresentationCtrl', function ($scope, $rootScope, $http, localizationService) {
 
-    var pageToLoadPath = 'content/' + 'ro' + $scope.pagePresentationPath + '.json';
+    var pageToLoadPath = 'content/' + localizationService.language + $scope.pagePresentationPath + '.json';
     $http.get(pageToLoadPath).success(function (pageResult) {
         $scope.pagePresentation = pageResult.presentation;
     });
@@ -241,7 +254,7 @@ app.directive('sectionForm', function () {
                scope.formObj.title = scope.section.title;
                $.ajax({
                    type: 'POST',
-                   url: 'js/send_mail.php',
+                   url: 'scripts/send_mail.php',
                    data: scope.formObj,
                    dataType: 'json',
                    success: function (data) {

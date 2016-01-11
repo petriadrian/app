@@ -1,0 +1,130 @@
+{
+  "presentation": {
+    "title": "HomePage",
+    "headlineText": "Discover an unique place in the Transylvania's mountains",
+    "description": "- accommodation – camping – hiking trails – cycling trails –",
+    "headlineImg": "img/homePage/presentation.jpg",
+    "showPageHeadline": false,
+    "url": {
+      "link": "#/",
+      "textOnMouseOver": "homepage",
+      "openInNewTab": false
+    }
+  },
+  "sections": [
+    {
+      "type": "advertise",
+      "centralCarousel": {
+        "timeInterval": "12000",
+        "slides": [
+          {
+            "page": "/home"
+          },
+          {
+            "page": "/activities/trails/weatherStation"
+          },
+          {
+            "page": "/activities/trails/romanGalleries"
+          },
+          {
+            "page": "/activities/trails/fourLakes"
+          },
+          {
+            "page": "/activities/cycling"
+          },
+          {
+            "page": "/activities/hiking"
+          }
+        ]
+      }
+    },
+    {
+      "type": "title",
+      "text": "Stay here:",
+      "iconFortAwesomeClass": "fa fa-bed",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/rooms"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/accommodation/camping"
+        }
+      ]
+    },
+    {
+      "type": "advertise",
+      "banner": {
+        "page": "/accommodation/facilities"
+      }
+    },
+    {
+      "type": "title",
+      "text": "Do this:",
+      "iconFortAwesomeClass": "fa fa-bicycle",
+      "addLinkInPageHeadline": false,
+      "sectionId": "activities"
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "timeInterval": "12000",
+          "page": "/activities/hiking"
+        },
+        {
+          "timeInterval": "12000",
+          "page": "/activities/cycling"
+        }
+      ]
+    },
+    {
+      "type": "advertise",
+      "banner": {
+        "page": "/activities/trails/topAttractions"
+      }
+    },
+    {
+      "type": "title",
+      "text": "Do not miss",
+      "iconFortAwesomeClass": "fa fa-calendar",
+      "sectionId": "recommendations",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "advertise",
+      "carouselBoxes": [
+        {
+          "page": "/recommendations/festival"
+        },
+        {
+          "page": "/recommendations/marathon"
+        },
+        {
+          "page": "/recommendations/monumentsRestorations"
+        },
+        {
+          "page": "/recommendations/steamTrain"
+        },
+        {
+          "page": "/recommendations/daffodilMeadow"
+        },
+        {
+          "page": "/recommendations/firstMai"
+        },
+        {
+          "page": "/recommendations/scoutsOng"
+        },
+        {
+          "page": "/recommendations/souvenirShop"
+        }
+      ]
+    }
+  ]
+}

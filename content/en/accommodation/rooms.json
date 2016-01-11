@@ -1,13 +1,13 @@
 {
   "presentation": {
-    "title": "Camere",
-    "headlineText": "O cafea într-o dimineață la Roșia Montană?",
-    "description": "Fost cinematograf, bancă și centru medical al comunei, acum căsuța își deschide porțile ca spațiu de cazare",
+    "title": "Rooms",
+    "headlineText": "Morning coffee at Roșia Montană?",
+    "description": "Commune’s former cinema, bank and medical center, now the house opens its doors for tourist accommodation",
     "headlineImg": "img/accommodation/rooms/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/accommodation/rooms",
-      "textOnMouseOver": "Vezi locurile de cazare",
+      "textOnMouseOver": "See the rooms...",
       "openInNewTab": false
     },
     "carouselAdvertise": [
@@ -25,7 +25,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "Detalii",
+      "text": "Details",
       "iconFortAwesomeClass": "fa fa-info-circle",
       "sectionId": "details",
       "addLinkInPageHeadline": true
@@ -35,13 +35,13 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Situată în centrul istoric, fost sediu de bancă, centru medical și cinematograf, Casa Petri funcționează astăzi ca spațiu de cazare. S-a păstrat stilul și organizarea casei și s-au scos în evidență elementele tradiționale. Podelele de lemn, zugrăveala de var, geamurile și ușile de lemn au fost păstrate și restaurate. Prin toată căsuța o să găsiți cărți, ziare și reviste vechi, care pot fi răsfoite și citite cu grijă de cei curioși, dar la plecare nu uitați să le puneți la locul lor. De vii iarna, află că am păstrat și modul de încălzire al camerelor prin teracote, parcă adormi mai usor când auzi lemnele trosnind în sobă. <br>Oferim <b>10% discount</b> celor care vin cu bicicleta și fac cel puțin un traseu. </br> În momentul rezervării specificați facilitățile dorite pentru a ne asigura că sunt disponibile. Este interzis fumatul în interior, ascultatul muzicii la volum ridicat  sau comportamentul necivilizat. <br><b>După rezervare vom reveni cu un email sau telefon de confirmare.</b>"
+          "textContent": "Being placed in the historical center, former bank, medical center and cinema, Petri House is now open for tourists accommodation. The style and house planning have been kept and the traditional elements have been emphasized. The wood flooring,lime painting, wood windows and doors have been preserved and restored. All around the house you can find old books, newspapers, magazines, that can be carefully read by the ones curious about them, but at departure please leave them at their spot. If you visit us on winter time, you will find out that we also preserved the heating system with terracotta tiles, and you can fall asleep listening to wood burning in the stove. <br>We offer <b>10% discount</b> to guests that bring their bikes and makes at least one trail. During booking process, please specify the facilities that you want so we can make sure they are available. It is not allowed to smoke inside the house or to listen loud music. <br><b>The booking will be confirmed by email or phone.</b>"
         }
       ]
     },
     {
       "type": "title",
-      "text": "Rezervări",
+      "text": "Bookings",
       "iconFortAwesomeClass": "fa fa-bed",
       "sectionId": "reservations",
       "addLinkInPageHeadline": true
@@ -50,24 +50,24 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "Camera cărților",
-          "textContent": "Camera se află la parterul casei cu intrare direct din curte, are baie proprie, iar pereții de un metru grosime sunt construiți din bucăți mari de piatră. Dispune de două paturi etajate și o canapea, care la cerere se poate extinde pentru a mai suplimenta cu încă doua locuri.",
+          "title": "'Books' room",
+          "textContent": "The rooms is on the ground floor, with entrance from the front yard, private bathroom, and one meter wide walls built out of big rocks. It has two bunk beds and an expandable couch, that can provide 2 extra beds if needed.",
           "images": [
             {
-              "title": "Camera cărților",
-              "description": "aici găsiți 'Dulapul cu cărți' - un fost bufet de bucătărie transformat în bibliotecă unde găsiți cărți vechi și diverse jocuri.",
+              "title": "'Books' room",
+              "description": " here you can find ‘the cupboard with books’ - a cupboard transformed into a library where you can find old books and board games.",
               "thumbnailUrl": "img/accommodation/rooms/room1/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room1/fullSize/1.jpg"
             },
             {
-              "title": "Camera cărților",
-              "description": "interior. În vitrină sunt poze vechi din Roșia, flori de mină și obiecte folosite în trecut prin gospodărie.",
+              "title": "'Books' room - inside",
+              "description": " In the showcase are old photos from Roșia, 'flori de mină' and objects used in the household.",
               "thumbnailUrl": "img/accommodation/rooms/room1/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room1/fullSize/2.jpg"
             },
             {
-              "title": "Camera cărților - baie",
-              "description": "Încălzire prin boiler electric",
+              "title": "'Books' room - bathroom",
+              "description": "Heating with electric boiler",
               "thumbnailUrl": "img/accommodation/rooms/room1/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room1/fullSize/3.jpg"
             }
@@ -78,15 +78,15 @@
     {
       "type": "form",
       "title": "booksRoomReservation",
-      "successMessage": "Vă mulțumim! O să revenim cu un răspuns de confirmare cât mai repede.",
-      "sendButtonText": "Trimite",
-      "hideFormUnderButton": "Rezervă camera cărților",
+      "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
+      "sendButtonText": "Send",
+      "hideFormUnderButton": "Book this room",
       "fields": [
         {
           "type": "textRow",
           "name": "name",
           "iconFortAwesomeClass": "fa fa-user fa-fw",
-          "placeholder": "Nume",
+          "placeholder": "Name",
           "maxChars": 30,
           "required": true
         },
@@ -101,47 +101,47 @@
           "type": "daterange",
           "name": "period",
           "iconFortAwesomeClass": "fa fa-calendar fa-fw",
-          "placeholder": "Alege perioada",
+          "placeholder": "Select the period",
           "required": true
         },
         {
           "type": "selectBox",
           "name": "seats",
           "iconFortAwesomeClass": "fa fa-bed fa-fw",
-          "placeholder": "Număr de locuri și preț",
+          "placeholder": "Seats and price",
           "selectOptions": [
             {
-              "text": "2 locuri - 120lei/noapte"
+              "text": "2 seats - 29€ /night"
             },
             {
-              "text": "3 locuri - 165lei/noapte"
+              "text": "3 seats - 39€ /night"
             },
             {
-              "text": "4 locuri - 220lei/noapte"
+              "text": "4 seats - 49€ /night"
             },
             {
-              "text": "5 locuri - 260lei/noapte"
+              "text": "5 seats - 59€ /night"
             },
             {
-              "text": "6 locuri - 300lei/noapte"
+              "text": "6 seats - 69€ /night"
             }
           ]
         },
         {
           "type": "checkBoxes",
-          "title": "Doresc:",
+          "title": "I wish:",
           "checkBoxes": [
             {
               "name": "parkingSpot",
-              "text": "parcare"
+              "text": "parking"
             },
             {
               "name": "kitchenAccess",
-              "text": "acces bucătărie și camera de zi"
+              "text": "kitchen"
             },
             {
               "name": "bikeGarage",
-              "text": "garaj biciclete"
+              "text": "bike garage"
             }
           ]
         },
@@ -149,7 +149,7 @@
           "type": "textarea",
           "name": "others",
           "iconFortAwesomeClass": "fa fa-commenting fa-fw",
-          "placeholder": "Altele",
+          "placeholder": "Others",
           "rows": 3,
           "maxChars": 350,
           "required": false
@@ -160,24 +160,24 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "Căsuța",
-          "textContent": "Fosta căsuță de vară a gospodăriei este ca o mică garsonieră întrucât are o cameră, o baie și o bucătărie. O să te simți ca acasă.",
+          "title": "The little house",
+          "textContent": "The former summer house of the household has one room, a bathroom and a kitchen. You will feel like home.",
           "images": [
             {
-              "title": "Camera din căsuță",
-              "description": "la cerere se pot uni paturile",
+              "title": "The little house",
+              "description": " inside. If you want, the beds can be joined",
               "thumbnailUrl": "img/accommodation/rooms/room2/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room2/fullSize/1.jpg"
             },
             {
-              "title": "Căsuța",
-              "description": "exterior",
+              "title": "The little house",
+              "description": "from the outside.",
               "thumbnailUrl": "img/accommodation/rooms/room2/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room2/fullSize/2.jpg"
             },
             {
-              "title": "Căsuța - baie",
-              "description": "Încălzire prin boiler pe lemne",
+              "title": "The little house - bathroom",
+              "description": " Heating with wood boiler",
               "thumbnailUrl": "img/accommodation/rooms/room2/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room2/fullSize/3.jpg"
             }
@@ -188,15 +188,15 @@
     {
       "type": "form",
       "title": "littleHouseReservation",
-      "successMessage": "Vă mulțumim! O să revenim cu un răspuns de confirmare cât mai repede.",
-      "sendButtonText": "Trimite",
-      "hideFormUnderButton": "Rezervă căsuța",
+      "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
+      "sendButtonText": "Send",
+      "hideFormUnderButton": "Book the little house",
       "fields": [
         {
           "type": "textRow",
           "name": "name",
           "iconFortAwesomeClass": "fa fa-user fa-fw",
-          "placeholder": "Nume",
+          "placeholder": "Name",
           "maxChars": 30,
           "required": true
         },
@@ -211,38 +211,42 @@
           "type": "daterange",
           "name": "period",
           "iconFortAwesomeClass": "fa fa-calendar fa-fw",
-          "placeholder": "Alege perioada",
+          "placeholder": "Select the period",
           "required": true
         },
         {
           "type": "selectBox",
           "name": "seats",
           "iconFortAwesomeClass": "fa fa-bed fa-fw",
-          "placeholder": "Număr de locuri și preț",
+          "placeholder": "Seats and price",
           "selectOptions": [
             {
-              "text": "1 loc - 70lei/noapte"
+              "text": "1 seat - 19€ /night"
             },
             {
-              "text": "2 locuri - 120lei/noapte"
+              "text": "2 seats - 29€ /night"
             }
           ]
         },
         {
           "type": "checkBoxes",
-          "title": "Doresc:",
+          "title": "I wish:",
           "checkBoxes": [
             {
               "name": "doubleBed",
-              "text": "pat dublu în cameră"
+              "text": "double bed"
             },
             {
               "name": "parkingSpot",
-              "text": "parcare"
+              "text": "parking"
+            },
+            {
+              "name": "kitchenAccess",
+              "text": "kitchen"
             },
             {
               "name": "bikeGarage",
-              "text": "garaj biciclete"
+              "text": "bike garage"
             }
           ]
         },
@@ -250,7 +254,7 @@
           "type": "textarea",
           "name": "others",
           "iconFortAwesomeClass": "fa fa-commenting fa-fw",
-          "placeholder": "Altele",
+          "placeholder": "Others",
           "rows": 3,
           "maxChars": 350,
           "required": false
@@ -261,24 +265,24 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "Camera din târnaț",
-          "textContent": "Această cameră se află la etajul casei. Are și un mic hol unde se află 'măsuța de cafea' și 'ușa cu cărți' (vedeți secțiunea 'facilități'). Prin acest hol se face și accesul la baie.",
+          "title": "'Upstairs' room",
+          "textContent": "The room from the top floor, also has a small hallway, where you can find 'the coffee table' and 'the door with books' (see 'Facilities' section). This hallway provides access to the bathroom.",
           "images": [
             {
-              "title": "Camera din târnaț",
-              "description": "la cerere paturile se pot despărți",
+              "title": "'Upstairs' room",
+              "description": "the beds can also be twin",
               "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/1.jpg"
             },
             {
-              "title": "Camera din târnaț",
+              "title": "'Upstairs' room",
               "description": "",
               "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/2.jpg"
             },
             {
-              "title": "Camera din târnaț - baie",
-              "description": "Încălzire prin boiler electric",
+              "title": "'Upstairs' room - bathroom",
+              "description": " Heating with electric boiler",
               "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/3.jpg"
             }
@@ -289,15 +293,15 @@
     {
       "type": "form",
       "title": "upstairsRoomReservation",
-      "sendButtonText": "Trimite",
-      "successMessage": "Vă mulțumim! O să revenim cu un răspuns de confirmare cât mai repede.",
-      "hideFormUnderButton": "Rezervă camera din târnaț",
+      "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
+      "sendButtonText": "Send",
+      "hideFormUnderButton": "Book the 'Upstairs' room",
       "fields": [
         {
           "type": "textRow",
           "name": "name",
           "iconFortAwesomeClass": "fa fa-user fa-fw",
-          "placeholder": "Nume",
+          "placeholder": "Name",
           "maxChars": 30,
           "required": true
         },
@@ -312,42 +316,42 @@
           "type": "daterange",
           "name": "period",
           "iconFortAwesomeClass": "fa fa-calendar fa-fw",
-          "placeholder": "Alege perioada",
+          "placeholder": "Select period",
           "required": true
         },
         {
           "type": "selectBox",
           "name": "seats",
           "iconFortAwesomeClass": "fa fa-bed fa-fw",
-          "placeholder": "Număr de locuri și preț",
+          "placeholder": "Seats and price",
           "selectOptions": [
             {
-              "text": "2 locuri - 150lei/noapte"
+              "text": "2 seats - 35€ /night"
             },
             {
-              "text": "3 locuri - 200lei/noapte"
+              "text": "3 seats - 45€ /night"
             }
           ]
         },
         {
           "type": "checkBoxes",
-          "title": "Doresc:",
+          "title": "I wish:",
           "checkBoxes": [
             {
               "name": "twinBeds",
-              "text": "paturi separate în cameră"
+              "text": "twin beds"
             },
             {
               "name": "parkingSpot",
-              "text": "parcare"
+              "text": "parking"
             },
             {
               "name": "kitchenAccess",
-              "text": "acces bucătărie și camera de zi"
+              "text": "kitchen"
             },
             {
               "name": "bikeGarage",
-              "text": "garaj biciclete"
+              "text": "bike garage"
             }
           ]
         },
@@ -355,7 +359,7 @@
           "type": "textarea",
           "name": "others",
           "iconFortAwesomeClass": "fa fa-commenting fa-fw",
-          "placeholder": "Altele",
+          "placeholder": "Others",
           "rows": 3,
           "maxChars": 350,
           "required": false
@@ -370,7 +374,7 @@
     },
     {
       "type": "title",
-      "text": "Vezi și",
+      "text": "See also",
       "iconFortAwesomeClass": "fa fa-coffee",
       "sectionId": "seeAlso",
       "addLinkInPageHeadline": false

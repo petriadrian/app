@@ -1,13 +1,13 @@
 {
   "presentation": {
     "title": "Reviews",
-    "headlineText": "Crestem impreuna cu cei ce ne trec pragul",
-    "description": "Vezi experiențele și impresiile celor care ne-au vizitat. O parte dintre ei pot fi contactați",
+    "headlineText": "We grow together with the ones who visit us",
+    "description": "See the experiences and reviews from people who visited us. Some of them can even be contacted. ",
     "headlineImg": "img/reviews/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/reviews",
-      "textOnMouseOver": "Vezi mai multe imagini și review-uri de la cei care ne-au vizitat",
+      "link": "#/review",
+      "textOnMouseOver": "See more images and reviews...",
       "openInNewTab": false
     },
     "carouselAdvertise": [
@@ -25,7 +25,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "Impresii",
+      "text": "Reviews",
       "iconFortAwesomeClass": "fa fa-commenting",
       "sectionId": "reviews",
       "addLinkInPageHeadline": true
@@ -54,7 +54,7 @@
     },
     {
       "type": "title",
-      "text": "Adaugă o impresie",
+      "text": "Add a review",
       "iconFortAwesomeClass": "fa fa-pencil-square-o",
       "sectionId": "addReview",
       "addLinkInPageHeadline": true
@@ -62,14 +62,14 @@
     {
       "type": "form",
       "title": "newReview",
-      "successMessage": "Vă mulțumim!",
-      "sendButtonText": "Trimite",
+      "successMessage": "Thank you! Your review will help others in choosing Roșia Montană for their next trip",
+      "sendButtonText": "Send",
       "fields": [
         {
           "type": "textarea",
           "name": "feedback",
           "iconFortAwesomeClass": "fa fa-commenting fa-fw",
-          "placeholder": "Cum te-ai simțit la Casa Petri? ...",
+          "placeholder": "Share here your experience at Casa Petri...",
           "rows": 3,
           "maxChars": 350,
           "required": true
@@ -78,7 +78,7 @@
           "type": "textRow",
           "name": "name",
           "iconFortAwesomeClass": "fa fa-user fa-fw",
-          "placeholder": "Nume",
+          "placeholder": "Name",
           "maxChars": 30,
           "required": true
         },
@@ -86,7 +86,7 @@
           "type": "textRow",
           "name": "locality",
           "iconFortAwesomeClass": "fa fa-map-marker fa-fw",
-          "placeholder": "Localitate",
+          "placeholder": "City",
           "maxChars": 30,
           "required": false
         }
@@ -94,7 +94,7 @@
     },
     {
       "type": "title",
-      "text": "Vezi și",
+      "text": "See also",
       "iconFortAwesomeClass": "fa fa-coffee",
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
