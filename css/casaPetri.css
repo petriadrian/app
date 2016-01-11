@@ -236,7 +236,6 @@ footer .row section{
 .footerFeedback button,
 .footerFeedback button:HOVER,
 .footerFeedback button:FOCUS {
-    color: gray;
     border: 1px solid white;
 }
 
