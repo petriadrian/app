@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Rooms",
     "headlineText": "Morning coffee at Roșia Montană?",
-    "description": "Commune’s former cinema, bank and medical center, now the house opens its doors for tourist accommodation",
+    "description": "Our house is a heritage building opened now for touristic accommodation. Here you can see or <b>book the rooms</b>.",
     "headlineImg": "img/accommodation/rooms/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -35,7 +35,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Being placed in the historical center, former bank, medical center and cinema, Petri House is now open for tourists accommodation. The style and house planning have been kept and the traditional elements have been emphasized. The wood flooring,lime painting, wood windows and doors have been preserved and restored. All around the house you can find old books, newspapers, magazines, that can be carefully read by the ones curious about them, but at departure please leave them at their spot. If you visit us on winter time, you will find out that we also preserved the heating system with terracotta tiles, and you can fall asleep listening to wood burning in the stove. <br>We offer <b>10% discount</b> to guests that bring their bikes and makes at least one trail. During booking process, please specify the facilities that you want so we can make sure they are available. It is not allowed to smoke inside the house or to listen loud music. <br><b>The booking will be confirmed by email or phone.</b>"
+          "textContent": "The house is an heritage building placed in the historical center of Roșia Montană. It had an important role in the life of the community because it was used as a bank, medical center and later even as a cinema. We preserved the style and the traditional elements of the house as the wood floor, the painting, the windows and doors. All around the house you can find old books, newspapers, magazines, that can be carefully read by the ones curious about them. If you visit us on winter time, you will find out that we also preserved the heating system with terracotta tiles, so you can fall asleep listening to wood burning in the stove. <br>We offer <b>10% discount</b> to guests that bring their bikes and makes at least one trail. During booking process, please specify the facilities that you want so we can make sure they are available. It is not allowed to smoke inside the house or to listen loud music. <br><b>The booking will be confirmed by email or phone.</b>"
         }
       ]
     },

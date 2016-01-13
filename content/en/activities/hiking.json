@@ -2,8 +2,7 @@
   "presentation": {
     "title": "Hiking trails",
     "headlineText": "We have trails so let's hit the road!",
-    "description": "Plimbări ușoare pe ulițele satului printre clădiri de patrimoniu până la trasee pe culmi montane, lacuri și sate",
-    "description": "From light walks on the village’s streets, among heritage buildings to hiking trails in the mountains, among lakes and villages",
+    "description": "From light walks among heritage buildings and old churches to hiking trails along lakes, nature attractions and villages",
     "headlineImg": "img/activities/hiking/presentation.jpg",
     "showPageHeadline": true,
     "url": {
