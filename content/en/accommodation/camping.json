@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Camping",
     "headlineText": "My tent beside the mountains... is my home",
-    "description": "The yard is perfect for safe camping with facilities access and a nice view to the mountain. Here you can <b>book a camping place</b>.",
+    "description": "Looking for safe camping, facilities access and a nice view to the mountain? <b>Book a camping place</b> in our yard.",
     "headlineImg": "img/accommodation/camping/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -35,7 +35,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Pack your tent and come to Roșia. You'll have access to the bathroom, kitchen, living room, terrace with barbecue and parking. The tent and your possessions will be safe as the camping area is in the fenced yard. The price is <b>6€</b> /person/night. We offer <b>10% discount</b> to guests that bring their bikes and makes at least one trail. During booking process, please specify the facilities that you want so we can make sure they are available. Please note that inside the house smoking, loud music or misbehaviour are prohibited. Fire is allowed only in designated places. <br><b>The booking will be confirmed it by email or phone.</b>."
+          "textContent": "Pack your tent and come to Roșia. You'll have access to the bathroom, kitchen, terrace and parking. The tent and your possessions will be safe as the camping area is in the fenced yard. The price is <b>6€</b> /person/night. We offer <b>5% discount</b> to guests that bring their bikes and do at least one cycling trail. During booking process, please specify the facilities that you want so we can make sure they are available. It is not allowed to smoke inside, listen loud music and fire is allowed only in designated fireplaces. <br><b>The booking will be confirmed by email or phone.</b>."
         }
       ]
     },
@@ -110,7 +110,7 @@
           "name": "numberOfPersons",
           "iconFortAwesomeClass": "fa fa-male fa-fw",
           "placeholder": "How many persons?",
-          "maxLimit": 12,
+          "maxLimit": 10,
           "required": true
         },
         {
@@ -118,7 +118,7 @@
           "name": "numberOfTents",
           "iconFortAwesomeClass": "fa fa-chevron-up fa-fw",
           "placeholder": "How many tents?",
-          "maxLimit": 6,
+          "maxLimit": 5,
           "required": true
         },
         {

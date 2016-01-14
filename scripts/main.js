@@ -49,6 +49,12 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http, localiza
     // localization
     $rootScope.localizationService = localizationService;
 
+    //google analytics
+    debugger;
+    $window.ga('create', 'UA-72421107-1', 'auto');
+    $rootScope.$on('$routeChangeSuccess', function(event, toState){
+        $window.ga('send', 'pageview', { page: $location.path() });
+    });
 });
 
 /**

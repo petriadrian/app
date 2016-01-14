@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Rooms",
     "headlineText": "Morning coffee at Roșia Montană?",
-    "description": "Our house is a heritage building opened now for touristic accommodation. Here you can see or <b>book the rooms</b>.",
+    "description": "The house is a heritage building opened now for touristic accommodation. Here you can see or <b>book the rooms</b>.",
     "headlineImg": "img/accommodation/rooms/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -35,7 +35,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "The house is an heritage building placed in the historical center of Roșia Montană. It had an important role in the life of the community because it was used as a bank, medical center and later even as a cinema. We preserved the style and the traditional elements of the house as the wood floor, the painting, the windows and doors. All around the house you can find old books, newspapers, magazines, that can be carefully read by the ones curious about them. If you visit us on winter time, you will find out that we also preserved the heating system with terracotta tiles, so you can fall asleep listening to wood burning in the stove. <br>We offer <b>10% discount</b> to guests that bring their bikes and makes at least one trail. During booking process, please specify the facilities that you want so we can make sure they are available. It is not allowed to smoke inside the house or to listen loud music. <br><b>The booking will be confirmed by email or phone.</b>"
+          "textContent": "The house is a heritage building placed in the historical center of Roșia Montană. It had an important role in the community life, being used as a bank, medical center and later on even as a cinema. We preserved the style and the traditional elements of the house, like the wooden floor, the windows or the heating with terracotta tiles. All around the house you can find old books, newspapers, magazines, that can be carefully read by the ones curious about them. <br>We offer <b>5% discount</b> to guests that bring their bikes and do at least one cycling trail. During booking process, please specify the facilities that you want so we can make sure they are available. It is not allowed to smoke inside or to listen loud music. <br><b>The booking will be confirmed by email or phone.</b>"
         }
       ]
     },
@@ -51,7 +51,7 @@
       "specificArticles": [
         {
           "title": "'Books' room",
-          "textContent": "The rooms is on the ground floor, with entrance from the front yard, private bathroom, and one meter wide walls built out of big rocks. It has two bunk beds and an expandable couch, that can provide 2 extra beds if needed.",
+          "textContent": "The room is on the ground floor, with entrance from the front yard, it has private bathroom and one meter wide walls built out of big rocks. It has two bunk beds and an expandable couch, that can provide 2 extra beds if needed.",
           "images": [
             {
               "title": "'Books' room",
@@ -162,7 +162,7 @@
       "specificArticles": [
         {
           "title": "The little house",
-          "textContent": "The former summer house of the household has one room, a bathroom and a kitchen. You will feel like home.",
+          "textContent": "The old summer house of the household has one room, a bathroom and a kitchen. You will feel like home.",
           "images": [
             {
               "title": "The little house",
@@ -268,11 +268,11 @@
       "specificArticles": [
         {
           "title": "'Upstairs' room",
-          "textContent": "The room from the top floor, also has a small hallway, where you can find 'the coffee table' and 'the door with books' (see 'Facilities' section). This hallway provides access to the bathroom.",
+          "textContent": "The room from the top floor has a small hallway, where you can find 'the coffee table' and 'the door with books' (see 'Facilities' section). This hallway provides access to the bathroom.",
           "images": [
             {
               "title": "'Upstairs' room",
-              "description": "the beds can also be twin",
+              "description": "If you want the beds can be separated.",
               "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/1.jpg"
             },

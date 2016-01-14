@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Campare",
     "headlineText": "Am adormit sub stele, era munte, liniște, răcoare...",
-    "description": "Curtea casei e numai bună de campat în siguranță, cu accees la facilități și priveliște spre munte. De aici poți <b>rezerva un loc de campare</b>",
+    "description": "Campare în siguranță, cu accees la facilități și priveliște spre munte? <b>Rezervă un loc de campare</b> în curtea casei.",
     "headlineImg": "img/accommodation/camping/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -35,7 +35,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Ia-ți cortul în spate și hai la Roșia. Ai acces la baie, bucătărie, cameră de zi, terasă cu loc pentru grătar și parcare. Cortul și lucrurile îți vor fi în siguranță întrucât zona de campare este în curte îngrădită. Prețul este de <b>25lei</b>/persoană/noapte. Oferim <b>10% discount</b> celor care vin cu bicicleta și fac cel puțin un traseu. <br>În momentul rezervării specificați facilitățile dorite pentru a ne asigura că sunt disponibile. Este interzis fumatul în interiorul casei, ascultatul de muzică tare sau comportamentul necivilizat. Făcutul focului este permis doar în spațiile amenajate. <br><b>După rezervare o să revenim cu un email sau telefon de confirmare.</b>."
+          "textContent": "Ia-ți cortul în spate și hai la Roșia. Ai acces la baie, bucătărie, cameră de zi, terasă cu loc pentru grătar și parcare. Cortul și lucrurile îți vor fi în siguranță întrucât zona de campare este în curte îngrădită. Prețul este de <b>25lei</b>/persoană/noapte. Oferim <b>10% discount</b> celor care vin cu bicicleta și fac cel puțin un traseu. <br>În momentul rezervării specificați facilitățile dorite pentru a ne asigura că sunt disponibile. Este interzis fumatul în interior, ascultatul de muzică la volum ridicat sau făcutul focului în spații neamenajate. <br><b>După rezervare o să revenim cu un email sau telefon de confirmare.</b>."
         }
       ]
     },
@@ -110,7 +110,7 @@
           "name": "numberOfPersons",
           "iconFortAwesomeClass": "fa fa-male fa-fw",
           "placeholder": "Numar de persoane",
-          "maxLimit": 12,
+          "maxLimit": 10,
           "required": true
         },
         {
@@ -118,7 +118,7 @@
           "name": "numberOfTents",
           "iconFortAwesomeClass": "fa fa-chevron-up fa-fw",
           "placeholder": "Numar de corturi",
-          "maxLimit": 6,
+          "maxLimit": 5,
           "required": true
         },
         {
