@@ -10,7 +10,7 @@
   },
   "leftButtons": [
     {
-      "text": "Stay here..",
+      "text": "Accommodation",
       "iconFontAwesomeClass": "",
       "url": {
         "link": "#/#accommodation",
@@ -19,7 +19,7 @@
       }
     },
     {
-      "text": "Do this..",
+      "text": "Activities",
       "iconFontAwesomeClass": "",
       "url": {
         "link": "#/#activities",
