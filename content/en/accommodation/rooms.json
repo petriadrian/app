@@ -35,7 +35,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "The house is a heritage building placed in the historical center of Roșia Montană. It had an important role in the community life, being used as a bank, medical center and later on even as a cinema. We preserved the style and the traditional elements of the house, like the wooden floor, the windows or the heating with terracotta tiles. All around the house you can find old books, newspapers, magazines, that can be carefully read by the ones curious about them. <br>We offer <b>5% discount</b> to guests that bring their bikes and do at least one cycling trail. During booking process, please specify the facilities that you want so we can make sure they are available. It is not allowed to smoke inside or to listen loud music. <br><b>The booking will be confirmed by email or phone.</b>"
+          "textContent": "We wish to make tourism in this mining locality so we prepared our inherited house for touristic accommodation. It is situated in the historical center and it had an important role in the community life, being used as a bank, medical center and later on even as a cinema. Today is a heritage building where we preserved the traditional style: the wooden floor, the doors, the windows or the heating with terracotta tiles. All around the house you can find our grandparents' old books, newspapers, magazines, that can be carefully read by the ones curious about them. <br>We offer <b>5% discount</b> to guests that bring their bikes and do at least one cycling track. It is not allowed to smoke inside or to listen loud music. <br><b>The booking will be confirmed by email or phone.</b>"
         }
       ]
     },
@@ -51,7 +51,7 @@
       "specificArticles": [
         {
           "title": "'Books' room",
-          "textContent": "The room is on the ground floor, with entrance from the front yard, it has private bathroom and one meter wide walls built out of big rocks. It has two bunk beds and an expandable couch, that can provide 2 extra beds if needed.",
+          "textContent": "The downstairs room has one meter wide walls built out of rocks and a closet filled with books. It has private bathroom, two bunk beds and an expandable couch. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i>",
           "images": [
             {
               "title": "'Books' room",
@@ -61,7 +61,7 @@
             },
             {
               "title": "'Books' room - inside",
-              "description": " In the showcase are old photos from Roșia, 'flori de mină' and objects used in the household.",
+              "description": " In the showcase are old photos from Roșia, crystal clusters rocks from the roman gallery and old objects used in the household.",
               "thumbnailUrl": "img/accommodation/rooms/room1/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room1/fullSize/2.jpg"
             },
@@ -138,7 +138,7 @@
             },
             {
               "name": "kitchenAccess",
-              "text": "kitchen"
+              "text": "kitchen and living room access"
             },
             {
               "name": "bikeGarage",
@@ -162,7 +162,7 @@
       "specificArticles": [
         {
           "title": "The little house",
-          "textContent": "The old summer house of the household has one room, a bathroom and a kitchen. You will feel like home.",
+          "textContent": "The old summer house of the household has one room with two beds, a bathroom and a kitchen. You will feel like home. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i>",
           "images": [
             {
               "title": "The little house",
@@ -244,7 +244,7 @@
             },
             {
               "name": "kitchenAccess",
-              "text": "kitchen"
+              "text": "kitchen and living room access"
             },
             {
               "name": "bikeGarage",
@@ -268,23 +268,23 @@
       "specificArticles": [
         {
           "title": "'Upstairs' room",
-          "textContent": "The room from the top floor has a small hallway, where you can find 'the coffee table' and 'the door with books' (see 'Facilities' section). This hallway provides access to the bathroom.",
+          "textContent": "The room has a hallway with many small windows called 'târnaț' (specific for the houses from our area). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i>",
           "images": [
             {
               "title": "'Upstairs' room",
-              "description": "If you want the beds can be separated.",
+              "description": "If you want, the beds can be separated.",
               "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/1.jpg"
             },
             {
               "title": "'Upstairs' room",
-              "description": "",
+              "description": "the painting was made in 1950 and is verry well preserved",
               "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/2.jpg"
             },
             {
-              "title": "'Upstairs' room - bathroom",
-              "description": " Heating with electric boiler",
+              "title": "'Upstairs' room",
+              "description": "the bathroom access is made through the hallway where you can also find a chic coffee table and many places with old books.",
               "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/3.jpg"
             }
@@ -350,7 +350,7 @@
             },
             {
               "name": "kitchenAccess",
-              "text": "kitchen"
+              "text": "kitchen and living room access"
             },
             {
               "name": "bikeGarage",

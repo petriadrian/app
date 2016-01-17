@@ -35,7 +35,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Ia-ți cortul în spate și hai la Roșia. Ai acces la baie, bucătărie, cameră de zi, terasă cu loc pentru grătar și parcare. Cortul și lucrurile îți vor fi în siguranță întrucât zona de campare este în curte îngrădită. Prețul este de <b>25lei</b>/persoană/noapte. Oferim <b>10% discount</b> celor care vin cu bicicleta și fac cel puțin un traseu. <br>În momentul rezervării specificați facilitățile dorite pentru a ne asigura că sunt disponibile. Este interzis fumatul în interior, ascultatul de muzică la volum ridicat sau făcutul focului în spații neamenajate. <br><b>După rezervare o să revenim cu un email sau telefon de confirmare.</b>."
+          "textContent": "Și noi, așa ca tine, atunci când mergem la munte căutăm un loc potrivit pentru cort. De aceea am pregătit în curte un mic spațiu de campare cu acces la baie, bucătărie, cameră de zi, foișor, parcare și wifi. Oferim <b>10% discount</b> celor care vin cu bicicleta și fac cel puțin un traseu. <br> Este interzis fumatul în interior, ascultatul de muzică la volum ridicat sau făcutul focului în spații neamenajate. <br><b>După rezervare o să revenim cu un email sau telefon de confirmare.</b>  <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i>"
         }
       ]
     },
@@ -58,12 +58,6 @@
               "description": "curte",
               "thumbnailUrl": "img/accommodation/camping/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/camping/fullSize/1.jpg"
-            },
-            {
-              "title": "Zona de campare",
-              "description": "curte",
-              "thumbnailUrl": "img/accommodation/camping/thumbnail/2.jpg",
-              "fullSizeUrl": "img/accommodation/camping/fullSize/2.jpg"
             },
             {
               "title": "Zona de campare - baie",
@@ -106,19 +100,43 @@
           "required": true
         },
         {
-          "type": "number",
-          "name": "numberOfPersons",
-          "iconFortAwesomeClass": "fa fa-male fa-fw",
-          "placeholder": "Numar de persoane",
-          "maxLimit": 10,
-          "required": true
+          "type": "selectBox",
+          "name": "seats",
+          "iconFortAwesomeClass": "fa fa-bed fa-fw",
+          "placeholder": "Număr de locuri și preț",
+          "selectOptions": [
+            {
+              "text": "1 loc - 35 lei/noapte"
+            },
+            {
+              "text": "2 locuri - 55 lei/noapte"
+            },
+            {
+              "text": "3 locuri - 75 lei/noapte"
+            },
+            {
+              "text": "4 locuri - 95 lei/noapte"
+            },
+            {
+              "text": "5 locuri - 115 lei/noapte"
+            },
+            {
+              "text": "6 locuri - 135 lei/noapte"
+            },
+            {
+              "text": "7 locuri - 155 lei/noapte"
+            },
+            {
+              "text": "8 locuri - 175 lei/noapte"
+            }
+          ]
         },
         {
           "type": "number",
           "name": "numberOfTents",
           "iconFortAwesomeClass": "fa fa-chevron-up fa-fw",
           "placeholder": "Numar de corturi",
-          "maxLimit": 5,
+          "maxLimit": 4,
           "required": true
         },
         {

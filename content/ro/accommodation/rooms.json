@@ -35,7 +35,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Casa este o clădire de patrimoniu situată în centrul istoric al Roșiei Montane. Încă din trecut a avut un rol important în viața comunității fiind folosită ca sediu de bancă, centru medical sau chiar și cinematograf. S-a păstrat stilul și elementele tradiționale ale casei ca podelele de lemn, geamurile, ușile sau modul de încălzire al camerelor prin teracote pe lemne. Prin toată căsuța o să găsiți cărți, ziare și reviste vechi, care pot fi răsfoite și citite cu grijă de cei curioși. <br>Oferim <b>10% discount</b> celor care vin cu bicicleta și fac cel puțin un traseu. </br> În momentul rezervării specificați facilitățile dorite pentru a ne asigura că sunt disponibile. Este interzis fumatul în interior sau ascultatul muzicii la volum ridicat. <br><b>După rezervare vom reveni cu un email sau telefon de confirmare.</b>"
+          "textContent": "Deoarece ne dorim turism la Roșia Montană, am transformat căsuța moștenită de la bunici în spațiu de cazare. Este situată chiar în centrul istoric și a avut un rol important în viața comunității fiind sediu de bancă, centru medical sau chiar cinematograf. Azi este o clădire de patrimoniu în care am păstrat stilul tradițional: podelele de lemn, geamurile, ușile sau modul de încălzire prin teracote pe lemne. Prin căsuța o să găsiți cărțile, ziarele și revistele bunicilor noștri pe care, de ești curios, le poți răsfoi și citi cu grijă. <br>Oferim <b>5% discount</b> celor care vin cu bicicleta și fac cel puțin un traseu. Este interzis fumatul în interior sau ascultatul muzicii la volum ridicat. <br><b>După rezervare vom reveni cu un email sau telefon de confirmare.</b>"
         }
       ]
     },
@@ -51,7 +51,7 @@
       "specificArticles": [
         {
           "title": "Camera cărților",
-          "textContent": "Camera se află la parterul casei cu intrare direct din curte, are baie proprie, iar pereții de un metru grosime sunt construiți din bucăți mari de piatră. Dispune de două paturi etajate și o canapea, care la cerere se poate extinde pentru a mai suplimenta cu încă doua locuri.",
+          "textContent": "Camera de la parter are pereți de piatră de un metru grosime și un dulap plin cu cărți. Dispune de baie proprie, două paturi etajate și o canapea extensibilă. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i>",
           "images": [
             {
               "title": "Camera cărților",
@@ -162,11 +162,11 @@
       "specificArticles": [
         {
           "title": "Căsuța",
-          "textContent": "Fosta căsuță de vară a gospodăriei este ca o mică garsonieră întrucât are o cameră, o baie și o bucătărie. O să te simți ca acasă.",
+          "textContent": "Fosta căsuță de vară a gospodăriei este ca o mică garsonieră. Dispune de o cameră cu 2 paturi, baie și bucătărie. O să te simți ca acasă. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i>",
           "images": [
             {
               "title": "Camera din căsuță",
-              "description": "la cerere se pot uni paturile",
+              "description": "la cerere se pot uni paturile pentru a deveni unul dublu",
               "thumbnailUrl": "img/accommodation/rooms/room2/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room2/fullSize/1.jpg"
             },
@@ -264,7 +264,7 @@
       "specificArticles": [
         {
           "title": "Camera din târnaț",
-          "textContent": "Această cameră se află la etajul casei. Are și un mic hol unde se află 'măsuța de cafea' și 'ușa cu cărți' (vedeți secțiunea 'facilități'). Prin acest hol se face și accesul la baie.",
+          "textContent": "Camera se află la etajul casei iar pentru a ajunge la ea vei urca prin târnaț (un hol cu multe ferestre mici, specific caselor din zonă). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i>",
           "images": [
             {
               "title": "Camera din târnaț",
@@ -274,12 +274,12 @@
             },
             {
               "title": "Camera din târnaț",
-              "description": "",
+              "description": "zugrăveala datează de prin 1950 și este foarte bine păstrată. Cam 2 săptămâni a durat atunci realizarea ei. ",
               "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/2.jpg"
             },
             {
-              "title": "Camera din târnaț - baie",
+              "title": "Camera din târnaț - accesul la baie se face prin târnaț unde găsești o cochetă măsuța de cafea și multe cărți vechi.",
               "description": "Încălzire prin boiler electric",
               "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/3.jpg"

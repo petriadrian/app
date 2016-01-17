@@ -40,7 +40,7 @@
     },
     {
       "type": "title",
-      "text": "Stay here",
+      "text": "Accommodation",
       "iconFortAwesomeClass": "fa fa-bed",
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
@@ -66,7 +66,7 @@
     },
     {
       "type": "title",
-      "text": "Do this",
+      "text": "Activities",
       "iconFortAwesomeClass": "fa fa-bicycle",
       "addLinkInPageHeadline": false,
       "sectionId": "activities"

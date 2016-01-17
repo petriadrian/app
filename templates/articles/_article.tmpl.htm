@@ -1,6 +1,6 @@
 <article class="defaultArticle anchorParent">
     <header ng-if="!!article.title" class="articleTitle">
-        <h3><span ng-bind="article.title"></span></h3>
+        <h3><span ng-bind-html="article.title | trustHtml"></span></h3>
     </header>
     <section ng-if="!!article.textContent" class="defaultArticleText">
         <span ng-bind-html="article.textContent | trustHtml"></span>

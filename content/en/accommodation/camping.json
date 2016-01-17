@@ -35,7 +35,8 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Pack your tent and come to Roșia. You'll have access to the bathroom, kitchen, terrace and parking. The tent and your possessions will be safe as the camping area is in the fenced yard. The price is <b>6€</b> /person/night. We offer <b>5% discount</b> to guests that bring their bikes and do at least one cycling trail. During booking process, please specify the facilities that you want so we can make sure they are available. It is not allowed to smoke inside, listen loud music and fire is allowed only in designated fireplaces. <br><b>The booking will be confirmed by email or phone.</b>."
+          "textContent": "We also love to go camping in the mountains when we find a good spot. That's why we prepared in our yard a small camping place with bathroom access, kitchen with living room, free wifi, terrace and parking. We offer <b>10% discount</b> for those who bring their bikes and do at least one cycling trail. It is not allowed to smoke inside, listen loud music and fire is allowed only in designated fireplaces. <br><b>The booking will be confirmed by email or phone.</b>. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i>"
+
         }
       ]
     },
@@ -58,12 +59,6 @@
               "description": "yard",
               "thumbnailUrl": "img/accommodation/camping/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/camping/fullSize/1.jpg"
-            },
-            {
-              "title": "Camping area",
-              "description": "yard",
-              "thumbnailUrl": "img/accommodation/camping/thumbnail/2.jpg",
-              "fullSizeUrl": "img/accommodation/camping/fullSize/2.jpg"
             },
             {
               "title": "Camping area - bathroom",
@@ -106,19 +101,43 @@
           "required": true
         },
         {
-          "type": "number",
-          "name": "numberOfPersons",
-          "iconFortAwesomeClass": "fa fa-male fa-fw",
-          "placeholder": "How many persons?",
-          "maxLimit": 10,
-          "required": true
+          "type": "selectBox",
+          "name": "seats",
+          "iconFortAwesomeClass": "fa fa-bed fa-fw",
+          "placeholder": "Seats and price",
+          "selectOptions": [
+            {
+              "text": "1 seat - 8€ /night"
+            },
+            {
+              "text": "2 seats - 13€ /night"
+            },
+            {
+              "text": "3 seats - 17€ /night"
+            },
+            {
+              "text": "4 seats - 21€ /night"
+            },
+            {
+              "text": "5 seats - 26€ /night"
+            },
+            {
+              "text": "6 seats - 30€ /night"
+            },
+            {
+              "text": "7 seats - 35€ /night"
+            },
+            {
+              "text": "8 seats - 39€ /night"
+            }
+          ]
         },
         {
           "type": "number",
           "name": "numberOfTents",
           "iconFortAwesomeClass": "fa fa-chevron-up fa-fw",
           "placeholder": "How many tents?",
-          "maxLimit": 5,
+          "maxLimit": 4,
           "required": true
         },
         {
@@ -131,7 +150,7 @@
             },
             {
               "name": "kitchenAccess",
-              "text": "kitchen and living room"
+              "text": "kitchen and living room access"
             },
             {
               "name": "bikeGarage",
