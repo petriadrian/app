@@ -112,19 +112,19 @@
           "placeholder": "Seats and price",
           "selectOptions": [
             {
-              "text": "2 seats - 29€ /night"
+              "text": "2 seats - 27€ /night"
             },
             {
-              "text": "3 seats - 39€ /night"
+              "text": "3 seats - 35€ /night"
             },
             {
-              "text": "4 seats - 49€ /night"
+              "text": "4 seats - 45€ /night"
             },
             {
-              "text": "5 seats - 59€ /night"
+              "text": "5 seats - 50€ /night"
             },
             {
-              "text": "6 seats - 69€ /night"
+              "text": "6 seats - 59€ /night"
             }
           ]
         },
@@ -223,10 +223,10 @@
           "placeholder": "Seats and price",
           "selectOptions": [
             {
-              "text": "1 seat - 19€ /night"
+              "text": "1 seat - 14€ /night"
             },
             {
-              "text": "2 seats - 29€ /night"
+              "text": "2 seats - 23€ /night"
             }
           ]
         },
@@ -329,10 +329,10 @@
           "placeholder": "Seats and price",
           "selectOptions": [
             {
-              "text": "2 seats - 35€ /night"
+              "text": "2 seats - 29€ /night"
             },
             {
-              "text": "3 seats - 45€ /night"
+              "text": "3 seats - 39€ /night"
             }
           ]
         },

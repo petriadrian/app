@@ -10,16 +10,16 @@
   },
   "leftButtons": [
     {
-      "text": "Stay here..",
+      "text": "Accommodation",
       "iconFontAwesomeClass": "",
       "url": {
         "link": "#/#accommodation",
-        "textOnMouseOver": "Accommodation and facilities",
+        "textOnMouseOver": "accommodation",
         "openInNewTab": false
       }
     },
     {
-      "text": "Do this..",
+      "text": "Activities",
       "iconFontAwesomeClass": "",
       "url": {
         "link": "#/#activities",

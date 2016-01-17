@@ -115,16 +115,16 @@
               "text": "2 locuri - 120lei/noapte"
             },
             {
-              "text": "3 locuri - 165lei/noapte"
+              "text": "3 locuri - 150lei/noapte"
             },
             {
-              "text": "4 locuri - 220lei/noapte"
+              "text": "4 locuri - 200lei/noapte"
             },
             {
-              "text": "5 locuri - 260lei/noapte"
+              "text": "5 locuri - 230lei/noapte"
             },
             {
-              "text": "6 locuri - 300lei/noapte"
+              "text": "6 locuri - 270lei/noapte"
             }
           ]
         },
@@ -223,10 +223,10 @@
           "placeholder": "Număr de locuri și preț",
           "selectOptions": [
             {
-              "text": "1 loc - 70lei/noapte"
+              "text": "1 loc - 60lei/noapte"
             },
             {
-              "text": "2 locuri - 120lei/noapte"
+              "text": "2 locuri - 100lei/noapte"
             }
           ]
         },
@@ -325,10 +325,10 @@
           "placeholder": "Număr de locuri și preț",
           "selectOptions": [
             {
-              "text": "2 locuri - 150lei/noapte"
+              "text": "2 locuri - 130lei/noapte"
             },
             {
-              "text": "3 locuri - 200lei/noapte"
+              "text": "3 locuri - 170lei/noapte"
             }
           ]
         },
