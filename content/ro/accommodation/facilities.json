@@ -39,7 +39,7 @@
           "images": [
             {
               "title": "Căsuța de vară",
-              "description": "Aici puteti lua masa, juca un board game sau urmări un film. Te-ai jucat vreodată Saboteour într-o localitate cu peste 150km de galerii subterane? Poate nu e ca si cățăratul pe munte, dar e și asta o experiență...",
+              "description": "Aici puteți lua masa, să stați la povești sau să jucați un board game. Te-ai jucat vreodată Saboteour într-o localitate cu peste 150km de galerii subterane? Poate nu e ca si cățăratul pe munte, dar e și asta o experiență...",
               "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/livingroom.jpg",
               "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/livingroom.jpg"
             },
@@ -87,7 +87,7 @@
       "type": "title",
       "text": "Utile",
       "iconFortAwesomeClass": "fa fa-umbrella",
-      "sectionId": "utils",
+      "sectionId": "useful",
       "addLinkInPageHeadline": true
     },
     {

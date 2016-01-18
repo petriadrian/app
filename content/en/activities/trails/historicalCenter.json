@@ -1,7 +1,7 @@
 {
   "presentation": {
     "title": "Historical center",
-    "headlineText": "Discover the heritage buildings through historical center trail",
+    "headlineText": "Discover the heritage buildings - historical center trail",
     "description": "The historical center of the oldest Romanian locality have a lot of things to discover(churches, old buildings, village paths) <b>~5km</b>",
     "headlineImg": "img/activities/trails/historicalCenter/presentation.jpg",
     "showPageHeadline": true,
@@ -108,7 +108,7 @@
     },
     {
       "type": "title",
-      "text": "Vezi și",
+      "text": "See also",
       "iconFortAwesomeClass": "fa fa-coffee",
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false

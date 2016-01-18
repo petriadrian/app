@@ -104,7 +104,7 @@
     },
     {
       "type": "title",
-      "text": "Vezi și",
+      "text": "See also",
       "iconFortAwesomeClass": "fa fa-coffee",
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
