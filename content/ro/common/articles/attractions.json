@@ -44,7 +44,7 @@
   {
     "id": "panoramicBench",
     "title": "Băncuța Panoramică(Berg)",
-    "textContent": "Cel mai romantic loc din Roșia Montană este cu siguranță 'Băncuța Panoramică'. Drumul spre ea ne va duce prin fostul cartier nemțesc 'Berg', iar odată ajunși aici ni se dechide în față o frumoasă belvedere spre muntele Cârnic. Acesta adapostește în interiorul lui peste 150km de galerii romane, antice, unice in lume dar si vreo 200 de tone de aur după care râvnesc atâția...",
+    "textContent": "Cel mai romantic loc din Roșia Montană este cu siguranță 'Băncuța Panoramică'. Este cam la 10 minute de Casa Petri și vă recomandăm să vă întoarceți și noaptea pentru a vă bucura de cerul înstelat și liniștea satului. Drumul spre ea ne va plimba prin fostul cartier nemțesc 'Berg'.",
     "images": [
       {
         "title": "Școala Germană și Casa Francisc",
@@ -54,7 +54,7 @@
       },
       {
         "title": "Băncuța Panoramică",
-        "description": "Este cam la 5min de Casa Petri și vă recomandăm să vă întoarceți și noaptea pentru a vă bucura de cerul înstelat și liniștea satului",
+        "description": "belvedere spre masivul Cârnic care adăpostește peste 150km de galerii romane, antice, unice in lume.",
         "thumbnailUrl": "img/activities/trails/attractions/panoramicBench/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/panoramicBench/fullSize/2.jpg"
       }
@@ -63,11 +63,11 @@
   {
     "id": "romanCatholicChurch",
     "title": "Biserica Romano-Catolica",
-    "textContent": "Așezarea ei deasupra satului fac ca turnul cu ceas să fie vizibil din tot centrul istoric și sunetul clopotelor să fie auzit de la orice casă. Locul de veci din fața bisericii, din marmură neagră, esta a celui care a finanțat construcția ei. O legendă spune că in timp ce acesta căuta aur pe galerii s-a întâlnit cu vâlva băii și a făcut cu ea un pact referitor la biserică. Nu vă spunem mai mult ... veniți la Roșia și întrebați vreun localnic pentru a afla mai multe.",
+    "textContent": "Așezarea ei deasupra satului fac ca turnul cu ceas să fie vizibil din tot centrul istoric și sunetul clopotelor să fie auzit de la orice casă. De la bunici știm că locul de veci din fața bisericii, din marmură neagră, esta a celui care a finanțat construcția ei cu condiția ca biserica și locul lui să nu fie mutate niciodată. Se spune că în timp ce acesta căuta aur pe galerii s-a întâlnit cu vâlva băii și a făcut un pact cu ea referitor la biserică. Nu vă spunem mai multe ... veniți la Roșia și întrebați de acest pact.",
     "images": [
       {
         "title": "Biserica Romano-Catolica",
-        "description": "Slujbele au loc in prima duminica din luna. La sfarsitul fiecarei slujbe se canta la orga din interiorul ei",
+        "description": "Slujbele au loc în prima duminică din lună. La sfarșitul slujbei se cântă la orga din interiorul ei",
         "thumbnailUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/fullSize/1.jpg"
       },
@@ -142,7 +142,7 @@
   {
     "id": "szekeyHouse",
     "title": "Casa Szekey",
-    "textContent": "Printre casele de patrimoniu de la poalele masivului Jig-Văidoaia găsiți și casa Szekey Acoș. Pare o mică cetate împrejmuită de un zid de piatră cu o poartă înaltă boltită. Probabil că aceste elemente de piatră: zidul, poarta, masivul Văidoaia l-au înspirat pe Dan Pița în 1972 să facă aici filmul 'Nunta de piatră'. După ce parcurgeți acest traseu putem urmări filmul la Casa Petri întrucât va avea un mai mare impact odată ce cunoașteți zona. O parte din echipa de filmare au fost cazați atunci la noi, unde puteți gasi o imagine cu autograful lor. Filmul a fost nominalizat pe locul 6 în top 10 filme romanesti ale tuturor timpurilor în cadrul TiFF.",
+    "textContent": "Casa Szekey Acoș, de la poalele masivului Jig-Văidoaia, pare o mică cetate împrejmuită de un zid de piatră cu o poartă înaltă boltită. Probabil că aceste elemente de piatră: zidul, poarta, masivul Văidoaia l-au înspirat pe Dan Pița în 1972 să facă aici filmul 'Nunta de piatră'. După parcurgerea traseului putem urmări filmul la Casa Petri întrucât va avea un mai mare impact odată ce cunoașteți zona. O parte din echipa de filmare au fost cazați atunci la noi, unde puteți gasi o imagine cu autograful lor. Filmul a fost nominalizat pe locul 6 în top 10 filme romanesti ale tuturor timpurilor în cadrul TiFF.",
     "moreDetailsLink": "http://procinema.ro/stiri/nunta-de-piatra-locul-6-in-clasamentul-celor-mai-bune-10-filme-romanesti-ale-tuturor-timpurilor-a-sarbatorit.html#ixzz3rft5sJu5",
     "moreDetailsText": " Vezi mai mult... ",
     "images": [
