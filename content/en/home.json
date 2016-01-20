@@ -101,27 +101,35 @@
       "type": "advertise",
       "carouselBoxes": [
         {
+          "timeInterval": "10000",
           "page": "/recommendations/festival"
         },
         {
+          "timeInterval": "10000",
           "page": "/recommendations/marathon"
         },
         {
+          "timeInterval": "10000",
           "page": "/recommendations/monumentsRestorations"
         },
         {
+          "timeInterval": "10000",
           "page": "/recommendations/steamTrain"
         },
         {
+          "timeInterval": "10000",
           "page": "/recommendations/daffodilMeadow"
         },
         {
+          "timeInterval": "10000",
           "page": "/recommendations/firstMai"
         },
         {
+          "timeInterval": "10000",
           "page": "/recommendations/scoutsOng"
         },
         {
+          "timeInterval": "10000",
           "page": "/recommendations/souvenirShop"
         }
       ]
