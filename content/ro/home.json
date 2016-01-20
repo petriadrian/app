@@ -15,7 +15,7 @@
     {
       "type": "advertise",
       "centralCarousel": {
-        "timeInterval": "12000",
+        "timeInterval": "5000",
         "slides": [
           {
             "page": "/home"
@@ -30,10 +30,10 @@
             "page": "/activities/trails/fourLakes"
           },
           {
-            "page": "/activities/cycling"
+            "page": "/activities/trails/geamana"
           },
           {
-            "page": "/activities/hiking"
+            "page": "/activities/trails/historicalCenter"
           }
         ]
       }
@@ -49,11 +49,11 @@
       "type": "advertise",
       "carouselBoxes": [
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/accommodation/camping"
         }
       ]
@@ -75,11 +75,11 @@
       "type": "advertise",
       "carouselBoxes": [
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]

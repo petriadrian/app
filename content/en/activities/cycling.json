@@ -53,23 +53,23 @@
       "type": "advertise",
       "carouselBoxes": [
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/activities/trails/weatherStation"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/activities/trails/fourLakes"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/activities/trails/detunata"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/activities/trails/rollerCoaster"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/activities/trails/geamana"
         }
       ]
@@ -85,19 +85,19 @@
       "type": "advertise",
       "carouselBoxes": [
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/activities/trails/vulcan"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/recommendations/daffodilMeadow"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/activities/trails/zlatnaPool"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/activities/trails/scarisoara"
         }
       ]
@@ -113,19 +113,19 @@
       "type": "advertise",
       "carouselBoxes": [
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/accommodation/facilities"
         }
       ]

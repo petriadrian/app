@@ -237,7 +237,9 @@ function toggleForm(button) {
 app.factory('localizationService', function () {
     var factory = {};
     factory.language = navigator.language || navigator.userLanguage;
-    if (factory.language != RO_LOCALE) {
+    if (factory.language.indexOf(RO_LOCALE) > -1) {
+        factory.language = RO_LOCALE;
+    } else {
         factory.language = EN_LOCALE;
     }
     factory.changeLanguage = function (lang) {

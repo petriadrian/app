@@ -103,11 +103,11 @@
   {
     "id": "vaidoaiaGalleries",
     "title": "Galeria și Vârful Jig-Văidoaia",
-    "textContent": "Galeria este diferită față de cea de la Muzeul Mineritului și pare mai degrabă o peșteră. Dar urmele de săpături pe locul filoanelor de aur de pe pereții acesteia o să vă convingă că a fost creeată de stramoșii noștri în căutarea aurului. Urcați apoi și pe vârful masivului și bucurați-vă de privelistea spre Tăul Brazi, Cârnic și întreaga vale a Roșiei Montane. Atenție! Urcușul spre galerie și spre vârf se face pe pietre. ",
+    "textContent": "Galeria este diferită față de cea de la Muzeul Mineritului și pare mai degrabă o peșteră. Dar urmele de săpături pe locul filoanelor de aur de pe pereții acesteia o să vă convingă că a fost creeată de stramoșii noștri în căutarea aurului. Urcați până pe vârful masivului și bucurați-vă de privelistea spre Tăul Brazi, Cârnic și întreaga vale a Roșiei Montane. Atenție: aveți de urcat pe pietre! ",
     "images": [
       {
         "title": "Galeria Vaidoaia",
-        "description": "Parca aici e inima Rosiei Montane. Priviti rocile din jur si o sa intelegeti de unde vine numele localitatii.",
+        "description": "Aici e 'inima' Rosiei Montane. După rocile din jur o sa vă dați seama de unde vine numele localitatii.",
         "thumbnailUrl": "img/activities/trails/attractions/vaidoaiaGalleries/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/vaidoaiaGalleries/fullSize/1.jpg"
       },
@@ -142,9 +142,9 @@
   {
     "id": "szekeyHouse",
     "title": "Casa Szekey",
-    "textContent": "Casa Szekey Acoș, de la poalele masivului Jig-Văidoaia, pare o mică cetate împrejmuită de un zid de piatră cu o poartă înaltă boltită. Probabil că aceste elemente de piatră: zidul, poarta, masivul Văidoaia l-au înspirat pe Dan Pița în 1972 să facă aici filmul 'Nunta de piatră'. După parcurgerea traseului putem urmări filmul la Casa Petri întrucât va avea un mai mare impact odată ce cunoașteți zona. O parte din echipa de filmare au fost cazați atunci la noi, unde puteți gasi o imagine cu autograful lor. Filmul a fost nominalizat pe locul 6 în top 10 filme romanesti ale tuturor timpurilor în cadrul TiFF.",
+    "textContent": "Casa Szekey Acoș, de la poalele masivului Jig-Văidoaia, pare o mică cetate împrejmuită de un zid de piatră cu o poartă înaltă boltită. Probabil că aceste elemente de piatră l-au înspirat pe Dan Pița în 1972 să facă aici filmul 'Nunta de piatră'. La întoarcerea de pe traseu putem urmări filmul la Casa Petri întrucât va avea un mai mare impact odată ce cunoașteți zona. O parte din echipa de filmare au fost cazați atunci la noi, unde puteți găsi o imagine cu autograful lor.",
     "moreDetailsLink": "http://procinema.ro/stiri/nunta-de-piatra-locul-6-in-clasamentul-celor-mai-bune-10-filme-romanesti-ale-tuturor-timpurilor-a-sarbatorit.html#ixzz3rft5sJu5",
-    "moreDetailsText": " Vezi mai mult... ",
+    "moreDetailsText": "Filmul a fost nominalizat la TiFF în top 10 filme romanesti ale tuturor timpurilor. Vezi aici... ",
     "images": [
       {
         "title": "Casa Szekely",
@@ -154,7 +154,7 @@
       },
       {
         "title": "Centrul istoric - imagine din filmul 'Nunta de Piatră'",
-        "description": "Centrul era plin de buticuri cu diverse bunătăți, articole de îmbrăcăminte, ateliere de reparat păpuci, croitorii..",
+        "description": "Aici erau buticuri cu diverse bunătăți, articole de îmbrăcăminte, ateliere de reparat păpuci, croitorii..",
         "thumbnailUrl": "img/activities/trails/attractions/szekeyHouse/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/szekeyHouse/fullSize/2.jpg"
       }
@@ -163,7 +163,7 @@
   {
     "id": "braziLake",
     "title": "Tăul Brazi",
-    "textContent": "Tăurile din Roșia sunt lacuri artificiale creeate pentru acumularea apei în scopul folosirii ei pentru a acționa morile steampurilor. La Muzeul Mineritului sunt expuse șteampuri și puteți vedea cum funcționau pentru a produce aur. Drumul de la Casa Petri până la Tăul Brazi e asfaltat. Aici găsiți o <b>zonă de agreement</b> cu băncuțe, bărcuțe și spațiu pentru făcut grătare. Vizitați și Tăul Anghel (sau Tăul fară fund) care se află chiar deasupra acestui tău.",
+    "textContent": "Lacul dintre brazi are și o <b>zonă de agrement</b> cu băncuțe, bărcuțe și spații amenajate pentru grătare. Tăurile din Roșia sunt lacuri artificiale de acumulare folosite pentru a acționa morile șteampurilor. La Muzeul Mineritului sunt expuse șteampuri unde se poate vedea cum produceau aur.",
     "images": [
       {
         "title": "Tăul Brazi",
@@ -172,8 +172,8 @@
         "fullSizeUrl": "img/activities/trails/attractions/lakes/braziLake/fullSize/1.jpg"
       },
       {
-        "title": "Tăul Brazi",
-        "description": "dis de dimineață.",
+        "title": "Tăul Brazi - dis de dimineață",
+        "description": "De aici puteți urca, și până la Tăul Anghel (sau tăul fară fund) care este cam la 10 minute distanță.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/braziLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/braziLake/fullSize/2.jpg"
       }
@@ -302,19 +302,19 @@
   {
     "id": "copperPit",
     "title": "Cariera Roșia Poieni",
-    "textContent": "60% din zăcămintele de cupru din România se află aici. O parte dintre aceste zăcăminte au fost extrase însă efectele exploatării asupra zonei sunt devastatoare. Un munte este ras iar sterilul rezultat de aici a fost deversat în aval peste satul 'Geamăna'. Vizitați cariera și vedeți acestea cu ochii voștri dar  atenție: Pentru a intra la carieră este nevoie să treceți pe la <b>punctul de verificare</b> cu barieră pe care îl întâlniți pe traseu. Nu au un program specific de vizitare și există posibilitatea să nu vă lase să intrați(în acest caz traseul se scurtează cu 4km).",
+    "textContent": "Efectele exploatării de cupru asupra zonei sunt devastatoare: un munte ras, vegetație distrusă, iar sterilul rezultat de aici a fost deversat în aval peste satul Geamăna. Accesul se face pe la un <b>punct de verificare</b> cu barieră pe care o să îl întâlniți pe traseu! Nu au un program specific de vizitare și este posibil să nu puteți intra.",
     "moreDetailsLink": "https://www.youtube.com/watch?v=J4bG7oil3gU",
-    "moreDetailsText": "Maia Morgenstern a filmat aici un videoclip pentru a-i face pe oameni să conștientizeze efectele carierelor de suprafață. Îl vedeți aici...",
+    "moreDetailsText": "Maia Morgenstern a filmat aici un videoclip pentru a trage un semnal de alarmă asupra exploatărilor. Îl puteți vedea aici...",
     "images": [
       {
         "title": "Cariera de Cupru",
-        "description": "Cariera are 68 de trepte seci și lipsite de vegetatație.O treaptă are 15m înălțime.",
+        "description": "Cariera are 68 de trepte, fiecare având 15m înălțime.",
         "thumbnailUrl": "img/activities/trails/attractions/copperPit/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/copperPit/fullSize/1.jpg"
       },
       {
         "title": "Cariera de Cupru",
-        "description": "Cariera de Cupru a fost deschisă în perioada comunismului. Atunci funcționau aceste utilaje imense care acum zac în mijlocul carierei.",
+        "description": "a fost una dintre mândriile regimului comunist român.",
         "thumbnailUrl": "img/activities/trails/attractions/copperPit/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/copperPit/fullSize/2.jpg"
       }
@@ -342,7 +342,7 @@
   {
     "id": "letySulei",
     "title": "Lety și Sulei",
-    "textContent": "Vârfurile Lety și Sulei sunt destul de apropiate unul de celalălt. Din depărtare au forma de șauă, unul este rotund și celălalt este înalt și ascuțit. Pe aici își au cuibul ulii și vulturi astfel că îi puteți vedea adesea cum își iau zborul sau cum planează deasupra. Dacă ajungeți pe aici cu bicicleta va trebui să o lăsați la baza lui în caz că doriți să urcați pe vârf.",
+    "textContent": "Vârfurile Lety și Sulei sunt destul de apropiate unul de celalălt. Din depărtare au forma de șauă, unul este rotund și celălalt este înalt și ascuțit. Dacă ajungeți pe aici cu bicicleta va trebui să o lăsați la baza lui în caz că doriți să urcați pe vârf.",
     "images": [
       {
         "title": "Masivul Sulei",
@@ -361,11 +361,11 @@
   {
     "id": "cornaLake",
     "title": "Tăul Corna",
-    "textContent": "Un mic lac la umbra masivului Cârnic - Piatra Corbului. Numele lui vine de la satul Corna care se află chiar în avalul lacului. În cazul în care s-ar fi deschis aici o exploatare minieră acestă zonă s-ar fi aflat pe fundul lacului de cianură.  Satul este mic, liniștit dar extrem de pitoresc, motiv pentru care câțiva bucureșteni au renunțat la aglomerația orașului și s-au mutat aici.",
+    "textContent": "Un mic lac la umbra masivului Cârnic - Piatra Corbului. Chiar lăngă el se află satul Corna, o așezare liniștită și foarte pitorească.",
     "images": [
       {
         "title": "Tăul Corna",
-        "description": "Opriți-vă puțin pe marginea lacului pentru a admira cum se oglindește Piatra Corbului în lac.",
+        "description": "merită un popas și aici.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/cornaLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/cornaLake/fullSize/1.jpg"
       },
@@ -386,7 +386,7 @@
     "images": [
       {
         "title": "Detunata",
-        "description": "La baza acestui masiv printre blocurile de bazalt, în inima pădurii de molid uneori se formează un mic ghețar care e miraculos într-o vara călduroasă. Vă lasăm pe voi să îl descoperiți.",
+        "description": "La baza acestui masiv printre blocurile de bazalt, în inima pădurii de molid, se formează uneori un mic ghețar. Vă lasăm pe voi să îl descoperiți.",
         "thumbnailUrl": "img/activities/trails/attractions/detunata/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/detunata/fullSize/1.jpg"
       },
@@ -420,7 +420,7 @@
   {
     "id": "geamana",
     "title": "Geamăna",
-    "textContent": "Video-ul de mai jos este cel mai reprezentativ pentru Geamăna. Acesta a fost unul dintre motoarele care i-a făcut pe oameni să conștientizeze că natura este importantă și că trebuie să iasă în stradă pentru a lupta împotriva poluării în perioada în care se dorea construirea unui lac imens de cianură la Roșia Montană. Deocamdată Roșia a scăpat dar pentru satul Geamană e prea târziu. Înafară de turla bisericii, satul e acoperit complet de deșeurile de la cariera de Cupru. Deșeurile de aici nu conțin cianură.",
+    "textContent": "Video-ul de mai jos este cel mai reprezentativ pentru Geamăna. Acesta a fost unul din motoarele care i-a făcut pe oameni să conștientizeze efectele exploatărilor și că trebuie să protesteze împotriva poluării, în perioada în care se dorea construirea unui lac imens de cianură la Roșia Montană. Deocamdată Roșia a scăpat dar pentru satul Geamană e prea târziu. Înafară de turla bisericii, satul e acoperit complet de deșeurile de la Cariera de Cupru, care nu conțin cianură.",
     "moreDetailsLink": "http://www.historia.ro/exclusiv_web/actualitate/articol/geam-na-satul-apuseni-furat-sterilul-mina-cupru-ro-ia-poieni",
     "moreDetailsText": "Mai multe detalii aici...",
     "iframe": {

@@ -9,7 +9,7 @@
                         <img alt="{{pagePresentation.title}}" ng-src="{{pagePresentation.headlineImg}}">
                         <div class="carousel-caption">
                             <h3 ng-bind-html="pagePresentation.headlineText  | trustHtml"></h3>
-                            <p ng-bind-html="pagePresentation.description | trustHtml"></p>
+                            <p class="hidden-xs hidden-sm" ng-bind-html="pagePresentation.description | trustHtml"></p>
                         </div>
                     </span>
     </uib-slide>

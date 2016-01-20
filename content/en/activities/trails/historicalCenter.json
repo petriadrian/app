@@ -1,8 +1,8 @@
 {
   "presentation": {
     "title": "Historical center",
-    "headlineText": "Discover the heritage buildings - historical center trail",
-    "description": "The historical center of the oldest Romanian locality have a lot of things to discover(churches, old buildings, village paths) <b>~5km</b>",
+    "headlineText": "The heritage buildings - historical center trail",
+    "description": "Discover the historical center of the oldest Romanian locality - churches, old buildings, village paths. <b>~5km</b>",
     "headlineImg": "img/activities/trails/historicalCenter/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -25,7 +25,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "Traseu",
+      "text": "Trail map",
       "iconFortAwesomeClass": "fa fa-map-signs",
       "sectionId": "details",
       "addLinkInPageHeadline": true
@@ -34,7 +34,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Un traseu ușor prin centrului istoric al celei mai vechi localități atestate din Romania (anul 131). O să observați multe clădiri de patrimoniu vechi, o parte părăsite, ce au avut diverse funcționalități. Toate acestea sigur vă vor duce cu gândul la alte vremuri. Pornim de la Casa Petri care este și ea o casă de patrimoniu și o luăm încet pe ulițele satului pentru a analiza fiecare obiectiv.",
+          "textContent": "Un traseu ușor prin centrului istoric al celei mai vechi localități atestate din Romania (anul 131). Vizităm clădirile de patrimoniu vechi, o parte părăsite, ce aveau funcționalități deiverse, care sigur vă vor duce cu gândul la alte vremuri. Pornim de la Casa Petri care este și ea o casă de patrimoniu și o luăm încet pe ulițele satului pentru a vedea fiecare obiectiv.",
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=taul%20brazi&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Şcoala Germană DC146 Roșia Montană 517615 | Casa David Francisc DC146 Roșia Montană 517615 | Berg, DC146, Roșia Montană 517615|Biserica Romano-Catolică, Roșia Montană| Biserica Unitariană, 530, Roșia Montană | Casa Parohială Unitariană, DC117, Roșia Montană, Județul Alba, România | Şcoala Maghiară DC117 Roșia Montană 517615 | Calvinist Church DC117, Roșia Montană 517615, Romania | Casa Heneș DC117 Roșia Montană 517615 | Casa Szekey Acos, DC117, Roșia Montană 517615 ",
             "list": [
@@ -49,8 +49,8 @@
                 "iconFortAwesomeClass": "fa fa-male"
               },
               {
-                "textOnMouseOver": "dificultate",
-                "text": "usor",
+                "textOnMouseOver": "difficulty",
+                "text": "easy",
                 "iconFortAwesomeClass": "fa fa-line-chart"
               }
             ]
@@ -60,7 +60,7 @@
     },
     {
       "type": "title",
-      "text": "Atracții",
+      "text": "Highlights",
       "iconFortAwesomeClass": "fa fa-star",
       "sectionId": "attractions",
       "addLinkInPageHeadline": true
@@ -95,7 +95,7 @@
     },
     {
       "type": "title",
-      "text": "Gata traseul? Îți recomandam și:",
+      "text": "I finished the trail! Start the next one:",
       "iconFortAwesomeClass": "fa fa-child",
       "sectionId": "nextTrail",
       "addLinkInPageHeadline": false
@@ -117,19 +117,19 @@
       "type": "advertise",
       "carouselBoxes": [
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]

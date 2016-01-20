@@ -22,7 +22,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "Traseu",
+      "text": "Trail map",
       "iconFortAwesomeClass": "fa fa-map-signs",
       "sectionId": "details",
       "addLinkInPageHeadline": true
@@ -51,8 +51,8 @@
                 "iconFortAwesomeClass": "fa fa-car"
               },
               {
-                "textOnMouseOver": "dificultate",
-                "text": "greu",
+                "textOnMouseOver": "difficulty",
+                "text": "heavy",
                 "iconFortAwesomeClass": "fa fa-line-chart"
               }
             ]
@@ -62,7 +62,7 @@
     },
     {
       "type": "title",
-      "text": "Atracții",
+      "text": "Highlights",
       "iconFortAwesomeClass": "fa fa-star",
       "sectionId": "attractions",
       "addLinkInPageHeadline": true
@@ -119,7 +119,7 @@
     },
     {
       "type": "title",
-      "text": "Gata traseul? Îți recomandam și:",
+      "text": "I finished the trail! Start the next one:",
       "iconFortAwesomeClass": "fa fa-child",
       "sectionId": "nextTrail",
       "addLinkInPageHeadline": false
@@ -141,19 +141,19 @@
       "type": "advertise",
       "carouselBoxes": [
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]

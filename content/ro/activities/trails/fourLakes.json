@@ -34,7 +34,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Aceasta este varianta mai lungă a traseului 'Stația Meteo'. Pornim de la Casa Petri din Centrul istoric spre plaiurile Țarinii. Când crezi că urcușul nu se mai termină odată, îți apare în față Tăul Țarinii, numai bun să te răcorești puțin cu apă rece de munte. Pornim spre Vârful Rotundu la Stația Meteo. Aici e cel mai înalt punct de pe traseu și toată valea Roșiei Montne se deschide în fața ta. Dacă ne uităm de aici în stânga observăm 'Tăul Mare' care este următoarea destinație. Coborâm spre Tău și apoi urcăm iar puțin până pe masivului Lety și Sulei. După ce te saturi de admirat priveliștea o luăm spre Tăul Corna. Ne întoarcem apoi pe sub Piatra Corbului spre Tăul Brazi, ultimul popas înainte de a ajunge acasă.",
+          "textContent": "Aceasta este varianta mai lungă a traseului 'Stația Meteo'. Pornim de la Casa Petri și o luăm prin țarină spre Tăul Țarinii care e numai bun să te răcorești puțin cu apă rece de munte. De aici o luăm spre Stația Meteo - Vârful Rotundu - cel mai înalt punct de pe traseu. În stânga observăm 'Tăul Mare', care reprezintă următoarea destinație. O luăm spre el și apoi urcăm până pe masivul Lety și Sulei. Facem un popas ne bucurăm de priveliște și pornim spre Tăul Corna. Ne întoarcem apoi pe sub Piatra Corbului la Tăul Brazi, ultimul popas înainte de a ajunge acasă.",
           "moreDetailsText": "Aici gasiți același traseu și pe bikemap.net...",
           "moreDetailsLink": "http://www.bikemap.net/en/route/2757824-circuit-tauri-rosia-montana/#/z14/46.30656,23.14124/terrain",
           "iframe": {
@@ -124,19 +124,19 @@
       "type": "advertise",
       "carouselBoxes": [
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "12000",
+          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]

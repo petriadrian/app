@@ -4,7 +4,7 @@
      title="{{pagePresentation.url.textOnMouseOver}}"
      ng-click="openUrl(pagePresentation.url)">
     <h1 ng-bind-html="pagePresentation.headlineText | trustHtml"></h1>
-    <p class="lead" ng-bind-html="pagePresentation.description | trustHtml"></p>
+    <p class="hidden-xs lead" ng-bind-html="pagePresentation.description | trustHtml"></p>
     <div class="gradientFromWhiteToTransparent">
         <img alt="{{pagePresentation.title}}" ng-src="{{pagePresentation.headlineImg}}">
     </div>
