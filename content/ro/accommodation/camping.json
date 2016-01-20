@@ -7,7 +7,7 @@
     "showPageHeadline": true,
     "url": {
       "link": "#/accommodation/camping",
-      "textOnMouseOver" : "Vezi locurile de campare",
+      "textOnMouseOver": "Vezi locurile de campare",
       "openInNewTab": false
     },
     "carouselAdvertise": [
@@ -25,8 +25,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "Detalii",
-      "iconFortAwesomeClass": "fa fa-info-circle",
+      "text": "<i class='fa fa-info-circle'></i> Detalii",
       "sectionId": "details",
       "addLinkInPageHeadline": true
     },
@@ -41,8 +40,7 @@
     },
     {
       "type": "title",
-      "text": "Rezervări",
-      "iconFortAwesomeClass": "fa fa-chevron-circle-up",
+      "text": "<i class='fa fa-chevron-circle-up'></i> Rezervări",
       "sectionId": "reservations",
       "addLinkInPageHeadline": true
     },
@@ -176,8 +174,7 @@
     },
     {
       "type": "title",
-      "text": "Vezi și",
-      "iconFortAwesomeClass": "fa fa-coffee",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
       "sectionId": "seeAlso",
       "addLinkInPageHeadline": false
     },

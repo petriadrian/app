@@ -95,8 +95,8 @@
     },
     {
       "type": "title",
-      "text": "Vezi și",
-      "iconFortAwesomeClass": "fa fa-coffee",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },

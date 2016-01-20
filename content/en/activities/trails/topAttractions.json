@@ -25,8 +25,8 @@
   "sections": [
     {
       "type": "title",
-      "text": "Trail map",
-      "iconFortAwesomeClass": "fa fa-map-signs",
+      "text": "<i class='fa fa-map-signs'></i> Trail map",
+
       "sectionId": "details",
       "addLinkInPageHeadline": true
     },
@@ -60,8 +60,8 @@
     },
     {
       "type": "title",
-      "text": "Attractions",
-      "iconFortAwesomeClass": "fa fa-star",
+      "text": "<i class='fa fa-star'></i> Attractions",
+
       "sectionId": "attractions",
       "addLinkInPageHeadline": true
     },
@@ -107,8 +107,8 @@
     },
     {
       "type": "title",
-      "text": "I finished the trail! Start the next one:",
-      "iconFortAwesomeClass": "fa fa-child",
+      "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
+
       "sectionId": "nextTrail",
       "addLinkInPageHeadline": false
     },
@@ -120,8 +120,8 @@
     },
     {
       "type": "title",
-      "text": "See also",
-      "iconFortAwesomeClass": "fa fa-coffee",
+      "text": "<i class='fa fa-coffee'></i> See also",
+
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },

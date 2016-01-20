@@ -1,8 +1,4 @@
 <p ng-repeat="item in section.items" class="listOfItems">
-    <i class="{{item.iconFortAwesomeClass}}"></i>
-    <span>
-        {{item.title}}
-    </span>
-    {{item.details}}
+    <span ng-bind-html="item.title | trustHtml"></span>{{item.details}}
 </p>
 <div style="clear:both"></div>

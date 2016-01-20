@@ -25,8 +25,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "Cozy Spots",
-      "iconFortAwesomeClass": "fa fa-heart",
+      "text": "<i class='fa fa-heart'></i> Cozy Spots",
       "sectionId": "cozySpots",
       "addLinkInPageHeadline": true
     },
@@ -85,8 +84,7 @@
     },
     {
       "type": "title",
-      "text": "Utile",
-      "iconFortAwesomeClass": "fa fa-umbrella",
+      "text": "<i class='fa fa-umbrella'></i> Utile",
       "sectionId": "useful",
       "addLinkInPageHeadline": true
     },
@@ -94,41 +92,34 @@
       "type": "listOfItems",
       "items": [
         {
-          "title": "Wifi gratuit",
-          "iconFortAwesomeClass": "fa fa-wifi",
+          "title": "<i class='fa fa-wifi'></i> Wifi gratuit",
           "details": ""
         },
         {
-          "title": "Bucătarie",
-          "iconFortAwesomeClass": "fa fa-cutlery",
+          "title": "<i class='fa fa-cutlery'></i> Bucătarie",
           "details": " - frigider, cuptor , aragaz, vesela"
         },
         {
-          "title": "Board games",
-          "iconFortAwesomeClass": "fa fa-futbol-o",
+          "title": "<i class='fa fa-futbol-o'></i> Board games",
           "details": "Saboteour, Carcasone, Activity..."
         },
         {
-          "title": "Parcare gratuită",
-          "iconFortAwesomeClass": "fa fa-car",
+          "title": "<i class='fa fa-car'></i> Parcare gratuită",
           "details": ""
         },
         {
-          "title": "Informații turistice",
-          "iconFortAwesomeClass": "fa fa-info-circle",
+          "title": "<i class='fa fa-info-circle'></i> Informații turistice",
           "details": ""
         },
         {
-          "title": "Garaj biciclete",
-          "iconFortAwesomeClass": "fa fa-bicycle",
+          "title": "<i class='fa fa-bicycle'></i> Garaj biciclete",
           "details": ""
         }
       ]
     },
     {
       "type": "title",
-      "text": "Vezi și",
-      "iconFortAwesomeClass": "fa fa-coffee",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },

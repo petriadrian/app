@@ -25,8 +25,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "Cozy Spots",
-      "iconFortAwesomeClass": "fa fa-heart",
+      "text": "<i class='fa fa-heart'></i> Cozy Spots",
       "sectionId": "cozySpots",
       "addLinkInPageHeadline": true
     },
@@ -86,8 +85,7 @@
     },
     {
       "type": "title",
-      "text": "Useful",
-      "iconFortAwesomeClass": "fa fa-umbrella",
+      "text": "<i class='fa fa-umbrella'></i> Useful",
       "sectionId": "useful",
       "addLinkInPageHeadline": true
     },
@@ -95,41 +93,34 @@
       "type": "listOfItems",
       "items": [
         {
-          "title": "Free Wifi",
-          "iconFortAwesomeClass": "fa fa-wifi",
+          "title": "<i class='fa fa-wifi'></i> Free Wifi",
           "details": ""
         },
         {
-          "title": "Kitchen",
-          "iconFortAwesomeClass": "fa fa-cutlery",
+          "title": "<i class='fa fa-cutlery'></i> Kitchen",
           "details": " - fridge, oven, gas stove, dishes"
         },
         {
-          "title": "Board games",
-          "iconFortAwesomeClass": "fa fa-futbol-o",
+          "title": "<i class='fa fa-futbol-o'></i> Board games",
           "details": "Saboteour, Carcasone, Activity..."
         },
         {
-          "title": "Free parking",
-          "iconFortAwesomeClass": "fa fa-car",
+          "title": "<i class='fa fa-car'></i> Free parking",
           "details": ""
         },
         {
-          "title": "Touristic information",
-          "iconFortAwesomeClass": "fa fa-info-circle",
+          "title": "<i class='fa fa-info-circle'></i> Touristic information",
           "details": ""
         },
         {
-          "title": "Bike garage",
-          "iconFortAwesomeClass": "fa fa-bicycle",
+          "title": "<i class='fa fa-bicycle'></i> Bike garage",
           "details": ""
         }
       ]
     },
     {
       "type": "title",
-      "text": "See also",
-      "iconFortAwesomeClass": "fa fa-coffee",
+      "text": "<i class='fa fa-coffee'></i> See also",
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },

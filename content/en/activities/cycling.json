@@ -1,7 +1,7 @@
 {
   "presentation": {
     "title": "Cycling trails",
-    "headlineText": "Test the brakes, the tires and bring your bike to Roșia!",
+    "headlineText": "Check your bike brakes and bring it to Roșia!",
     "description": "From <b>MTB</b> trails on unpaved roads along mountain peaks and lakes, to paved trails for <b>touring bikes</b> towards touristic sights",
     "headlineImg": "img/activities/cycling/presentation.jpg",
     "showPageHeadline": true,
@@ -25,8 +25,8 @@
   "sections": [
     {
       "type": "title",
-      "text": "Details",
-      "iconFortAwesomeClass": "fa fa-info-circle",
+      "text": "<i class='fa fa-info-circle'></i> Details",
+
       "sectionId": "details",
       "addLinkInPageHeadline": true
     },
@@ -44,8 +44,7 @@
     },
     {
       "type": "title",
-      "text": "MTB Trails",
-      "iconFortAwesomeClass": "fa fa-map-signs",
+      "text": "<i class='fa fa-map-signs'></i> MTB Trails",
       "sectionId": "mtbTrails",
       "addLinkInPageHeadline": true
     },
@@ -76,8 +75,7 @@
     },
     {
       "type": "title",
-      "text": "Paved trails - touring bike",
-      "iconFortAwesomeClass": "fa fa-map-signs",
+      "text": "<i class='fa fa-map-signs'></i> Asphalt trails",
       "sectionId": "asphaltTrails",
       "addLinkInPageHeadline": true
     },
@@ -104,8 +102,8 @@
     },
     {
       "type": "title",
-      "text": "See also",
-      "iconFortAwesomeClass": "fa fa-coffee",
+      "text": "<i class='fa fa-coffee'></i> See also",
+
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },

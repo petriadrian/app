@@ -40,8 +40,7 @@
     },
     {
       "type": "title",
-      "text": "Accommodation",
-      "iconFortAwesomeClass": "fa fa-bed",
+      "text": "<i class='fa fa-bed'></i> Accommodation",
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },
@@ -66,8 +65,7 @@
     },
     {
       "type": "title",
-      "text": "Activities",
-      "iconFortAwesomeClass": "fa fa-bicycle",
+      "text": "<i class='fa fa-bicycle'></i> Activities",
       "addLinkInPageHeadline": false,
       "sectionId": "activities"
     },
@@ -92,8 +90,7 @@
     },
     {
       "type": "title",
-      "text": "Do not miss",
-      "iconFortAwesomeClass": "fa fa-calendar",
+      "text": "<i class='fa fa-calendar'></i> Do not miss",
       "sectionId": "recommendations",
       "addLinkInPageHeadline": false
     },

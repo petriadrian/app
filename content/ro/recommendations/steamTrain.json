@@ -25,8 +25,8 @@
   "sections": [
     {
       "type": "title",
-      "text": "Detalii",
-      "iconFortAwesomeClass": "fa fa-info-circle",
+      "text": "<i class='fa fa-info-circle'></i> Detalii",
+
       "sectionId": "details",
       "addLinkInPageHeadline": true
     },
@@ -57,8 +57,8 @@
     },
     {
       "type": "title",
-      "text": "Cum ajung la gară?",
-      "iconFortAwesomeClass": "fa fa-map-signs",
+      "text": "<i class='fa fa-map-signs'></i> Cum ajung la gară?",
+
       "sectionId": "map",
       "addLinkInPageHeadline": true
     },
@@ -87,8 +87,8 @@
     },
     {
       "type": "title",
-      "text": "Vezi și",
-      "iconFortAwesomeClass": "fa fa-coffee",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },

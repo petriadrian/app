@@ -25,8 +25,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "Reviews",
-      "iconFortAwesomeClass": "fa fa-commenting",
+      "text": "<i class='fa fa-commenting'></i> Reviews",
       "sectionId": "reviews",
       "addLinkInPageHeadline": true
     },
@@ -54,8 +53,7 @@
     },
     {
       "type": "title",
-      "text": "Add a review",
-      "iconFortAwesomeClass": "fa fa-pencil-square-o",
+      "text": "<i class='fa fa-pencil-square-o'></i> Add a review",
       "sectionId": "addReview",
       "addLinkInPageHeadline": true
     },
@@ -95,8 +93,8 @@
     },
     {
       "type": "title",
-      "text": "See also",
-      "iconFortAwesomeClass": "fa fa-coffee",
+      "text": "<i class='fa fa-coffee'></i> See also",
+
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },

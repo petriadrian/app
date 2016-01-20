@@ -7,7 +7,7 @@
     "showPageHeadline": true,
     "url": {
       "link": "#/accommodation/camping",
-      "textOnMouseOver" : "See the camping spots...",
+      "textOnMouseOver": "See the camping spots...",
       "openInNewTab": false
     },
     "carouselAdvertise": [
@@ -25,8 +25,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "Details",
-      "iconFortAwesomeClass": "fa fa-info-circle",
+      "text": "<i class='fa fa-info-circle'></i> Details",
       "sectionId": "details",
       "addLinkInPageHeadline": true
     },
@@ -36,14 +35,12 @@
         {
           "title": "",
           "textContent": "We also love to go camping in the mountains when we find a good spot. That's why we prepared in our yard a small camping place with bathroom access, kitchen with living room, free wifi, terrace and parking. We offer <b>10% discount</b> for those who bring their bikes and do at least one cycling trail. It is not allowed to smoke inside, listen loud music and fire is allowed only in designated fireplaces. <br><b>The booking will be confirmed by email or phone.</b>. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i>"
-
         }
       ]
     },
     {
       "type": "title",
-      "text": "Bookings",
-      "iconFortAwesomeClass": "fa fa-chevron-circle-up",
+      "text": "<i class='fa fa-chevron-circle-up'></i> Bookings",
       "sectionId": "reservations",
       "addLinkInPageHeadline": true
     },
@@ -177,8 +174,7 @@
     },
     {
       "type": "title",
-      "text": "See also",
-      "iconFortAwesomeClass": "fa fa-coffee",
+      "text": "<i class='fa fa-coffee'></i> See also",
       "sectionId": "seeAlso",
       "addLinkInPageHeadline": false
     },

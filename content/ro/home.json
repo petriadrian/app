@@ -40,8 +40,7 @@
     },
     {
       "type": "title",
-      "text": "Unde stau?",
-      "iconFortAwesomeClass": "fa fa-bed",
+      "text": "<i class='fa fa-bed'></i> Unde stau?",
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },
@@ -66,8 +65,7 @@
     },
     {
       "type": "title",
-      "text": "Ce fac acolo?",
-      "iconFortAwesomeClass": "fa fa-bicycle",
+      "text": "<i class='fa fa-bicycle'></i> Ce fac acolo?",
       "addLinkInPageHeadline": false,
       "sectionId": "activities"
     },
@@ -92,8 +90,7 @@
     },
     {
       "type": "title",
-      "text": "De neratat",
-      "iconFortAwesomeClass": "fa fa-calendar",
+      "text": "<i class='fa fa-calendar'></i> De neratat",
       "sectionId": "recommendations",
       "addLinkInPageHeadline": false
     },

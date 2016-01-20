@@ -25,8 +25,8 @@
   "sections": [
     {
       "type": "title",
-      "text": "Details",
-      "iconFortAwesomeClass": "fa fa-info-circle",
+      "text": "<i class='fa fa-info-circle'></i> Details",
+
       "sectionId": "details",
       "addLinkInPageHeadline": true
     },
@@ -57,8 +57,7 @@
     },
     {
       "type": "title",
-      "text": "How to get there?",
-      "iconFortAwesomeClass": "fa fa-map-signs",
+      "text": "<i class='fa fa-map-signs'></i> How to get there?",
       "sectionId": "map",
       "addLinkInPageHeadline": true
     },
@@ -92,8 +91,8 @@
     },
     {
       "type": "title",
-      "text": "See also",
-      "iconFortAwesomeClass": "fa fa-coffee",
+      "text": "<i class='fa fa-coffee'></i> See also",
+
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },

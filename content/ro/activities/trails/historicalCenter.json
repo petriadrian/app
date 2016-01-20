@@ -25,8 +25,8 @@
   "sections": [
     {
       "type": "title",
-      "text": "Traseu",
-      "iconFortAwesomeClass": "fa fa-map-signs",
+      "text": "<i class='fa fa-map-signs'></i> Traseu",
+
       "sectionId": "details",
       "addLinkInPageHeadline": true
     },
@@ -60,8 +60,8 @@
     },
     {
       "type": "title",
-      "text": "Atracții",
-      "iconFortAwesomeClass": "fa fa-star",
+      "text": "<i class='fa fa-star'></i> Atracții",
+
       "sectionId": "attractions",
       "addLinkInPageHeadline": true
     },
@@ -95,8 +95,8 @@
     },
     {
       "type": "title",
-      "text": "Gata traseul? Îți recomandam și:",
-      "iconFortAwesomeClass": "fa fa-child",
+      "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
+
       "sectionId": "nextTrail",
       "addLinkInPageHeadline": false
     },
@@ -108,8 +108,8 @@
     },
     {
       "type": "title",
-      "text": "Vezi și",
-      "iconFortAwesomeClass": "fa fa-coffee",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },

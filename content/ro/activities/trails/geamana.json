@@ -1,7 +1,7 @@
 {
   "presentation": {
     "title": "Geamăna",
-    "headlineText": "Traseul spre Geamăna - învățați să prețuiți natura",
+    "headlineText": "Traseul spre satul scufundat - Geamăna",
     "description": "Care este prețul metalelor din telefon sau bijuterii? Vezi cariera de suprafață și satul îngropat în steril <b>~39km</b>",
     "headlineImg": "img/activities/trails/geamana/presentation.jpg",
     "showPageHeadline": true,
@@ -25,8 +25,8 @@
   "sections": [
     {
       "type": "title",
-      "text": "Traseu",
-      "iconFortAwesomeClass": "fa fa-map-signs",
+      "text": "<i class='fa fa-map-signs'></i> Traseu",
+
       "sectionId": "details",
       "addLinkInPageHeadline": true
     },
@@ -72,8 +72,8 @@
     },
     {
       "type": "title",
-      "text": "Atracții",
-      "iconFortAwesomeClass": "fa fa-star",
+      "text": "<i class='fa fa-star'></i> Atracții",
+
       "sectionId": "attractions",
       "addLinkInPageHeadline": true
     },
@@ -101,8 +101,8 @@
     },
     {
       "type": "title",
-      "text": "Gata traseul? Îți recomandam și:",
-      "iconFortAwesomeClass": "fa fa-child",
+      "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
+
       "sectionId": "nextTrail",
       "addLinkInPageHeadline": false
     },
@@ -114,8 +114,8 @@
     },
     {
       "type": "title",
-      "text": "See also",
-      "iconFortAwesomeClass": "fa fa-coffee",
+      "text": "<i class='fa fa-coffee'></i> See also",
+
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },
