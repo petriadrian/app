@@ -25,8 +25,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "Impresii",
-      "iconFortAwesomeClass": "fa fa-commenting",
+      "text": "<i class='fa fa-commenting'></i> Impresii",
       "sectionId": "reviews",
       "addLinkInPageHeadline": true
     },
@@ -54,8 +53,7 @@
     },
     {
       "type": "title",
-      "text": "Adaugă o impresie",
-      "iconFortAwesomeClass": "fa fa-pencil-square-o",
+      "text": "<i class='fa fa-pencil-square-o'></i> Adaugă o impresie",
       "sectionId": "addReview",
       "addLinkInPageHeadline": true
     },
