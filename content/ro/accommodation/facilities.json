@@ -37,16 +37,16 @@
           "textContent": "Prin toată căsuța o să găsiți cărți, ziare și reviste vechi moștenite în mare parte de la bunicii noștri. Avem cărți pentru copii, beletristică, reviste Cinema, cărți și ziare despre Roșia Montană și multe altele. Vă rugăm să aveți grijă de ele și să le puneți la locul lor după folosire.",
           "images": [
             {
-              "title": "Ușa cu cărți",
-              "description": "Dacă îți place mirosul cărților când citești, atunci acest locșor improvizat, plin cu carți va fi pe placul tău.",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/doorBook.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/doorBook.jpg"
-            },
-            {
               "title": "Geamantanele cu cărți",
               "description": "Cu aceste geamantane s-a mers în armată, s-au cărat borcane cu mâncare în studenție, iar acum găzduiesc cărți, viniluri și reviste Cinema.",
               "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/booksPlaces.jpg",
               "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/booksPlaces.jpg"
+            },
+            {
+              "title": "Ușa cu cărți",
+              "description": "Dacă îți place mirosul cărților când citești, atunci acest locșor improvizat, plin cu carți va fi pe placul tău.",
+              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/doorBook.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/doorBook.jpg"
             },
             {
               "title": "Dulapul cu cărți",
@@ -72,16 +72,16 @@
           "textContent": "După un traseu pe munte vă invităm să citiți sau să vă relaxați într-un locșor liniștit de prin casă sau gradină.",
           "images": [
             {
-              "title": "Măsuța de cafea din târnaț",
-              "description": "Târnațul, specific caselor din zonă, este un hol cu gemulețe mici de lemn unde bunicii noștri obișnuiau să își bea cafeaua în fiecare dimineață.",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/coffeeTable.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/coffeeTable.jpg"
-            },
-            {
               "title": "Hamace cu priveliște",
               "description": "În curte sunt câțiva pomi de care, pe vreme bună, agățăm hamce numai bune de lenevit. Este semnal wifi și aici.",
               "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/hammock.jpg",
               "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/hammock.jpg"
+            },
+            {
+              "title": "Măsuța de cafea din târnaț",
+              "description": "Târnațul, specific caselor din zonă, este un hol cu gemulețe mici de lemn unde bunicii noștri obișnuiau să își bea cafeaua în fiecare dimineață.",
+              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/coffeeTable.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/coffeeTable.jpg"
             },
             {
               "title": "Măsuța din foișor",

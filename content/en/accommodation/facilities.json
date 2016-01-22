@@ -1,7 +1,7 @@
 {
   "presentation": {
     "title": "Books",
-    "headlineText": "Books and the cozy spots for reading or relaxing",
+    "headlineText": "Books and cozy spots for reading or relaxing",
     "description": "After hiking or biking, relax by reading a book in hammock!",
     "headlineImg": "img/accommodation/facilities/presentation.jpg",
     "showPageHeadline": true,
@@ -34,20 +34,13 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Prin toată căsuța o să găsiți cărți, ziare și reviste vechi moștenite în mare parte de la bunicii noștri. Avem cărți pentru copii, beletristică, reviste Cinema, cărți și ziare despre Roșia Montană și multe altele. Vă rugăm să aveți grijă de ele și să le puneți la locul lor după folosire.",
-          "textContent": "",
+          "textContent": "All around the house you will find books, newspapers and magazines, most of them inherited from our grandparents. There are books for children, belletristic books, books and newspapers about Rosia Montana and many others. Unfortunately most of them are in romanian language. Please use them carefully and then leave them in their place.",
           "images": [
             {
-              "title": "Living room",
-              "description": "Here you can dine, hang out with your friends or play a board games. Have you ever played 'Saboteour' in a place with over 150 km of underground galleries? It may not be mountain climbing, but it is something to be tried..",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/livingroom.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/livingroom.jpg"
-            },
-            {
-              "title": "The coffee table from 'târnaț'",
-              "description": "'Târnaț' is a hallway with small wooden windows specific to the houses from our area. Here is a where our grandparents used to have their morning coffee.",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/coffeeTable.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/coffeeTable.jpg"
+              "title": "Suitcases with books",
+              "description": "These suitcases were used to carry clothes in the army or jars with food when going to college, and now they are used for holding books, vinyls and Cinema magazines.",
+              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/booksPlaces.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/booksPlaces.jpg"
             },
             {
               "title": "The door with books",
@@ -56,26 +49,7 @@
               "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/doorBook.jpg"
             },
             {
-              "title": "The spots between the old magazines' suitcases",
-              "description": "Why be up to date with today's news? You can do this at your workplace.. Here you can shuffle through books, magazines or old newspapers. Don't miss the newspaper collection with Roșia Montană.",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/booksPlaces.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/booksPlaces.jpg"
-            },
-            {
-              "title": "Hanging out in the hammock",
-              "description": "In the yard we have some trees where we hang out hammocks. Here you can rest after a long hike and surf on the internet (there is wifi too).",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/hammock.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/hammock.jpg"
-            },
-            {
-              "title": "The terrace table",
-              "description": "With a nice view to the 'Cârnic' mountain, it's the perfect spot for chatting, drinking 'țuica' or eat before going out for a hike",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/pavilion.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/pavilion.jpg"
-            },
-            {
               "title": "The cupboard with books",
-              "description": "Nemaifolosind acest bufet, am decis să nu îl aruncăm, ci să îi găsim o altă întrebuințare. Având multe cărți moștenite, l-am transformat într-o bibliotecă unde am creat chiar și o secțiune cu cărți pentru copii.",
               "description": "We decided to recycle this old, unused cupboard and transform it into a library. Here you can find a section with books for children.",
               "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/booksCloset.jpg",
               "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/booksCloset.jpg"
@@ -86,8 +60,8 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-book'></i> Books",
-      "sectionId": "books",
+      "text": "<i class='fa fa-heart'></i> Cozy spots",
+      "sectionId": "cozySpots",
       "addLinkInPageHeadline": true
     },
     {
@@ -95,13 +69,13 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "",
+          "textContent": "After hiking or biking we invite you to relax in a cosy spot from our house or garden",
           "images": [
             {
-              "title": "Living room",
-              "description": "Here you can dine, hang out with your friends or play a board games. Have you ever played 'Saboteour' in a place with over 150 km of underground galleries? It may not be mountain climbing, but it is something to be tried..",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/livingroom.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/livingroom.jpg"
+              "title": "Hammocks",
+              "description": "In the yard we have some trees where we hang out hammocks. Here you can rest after a long hike and surf on the internet (there is wifi too).",
+              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/hammock.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/hammock.jpg"
             },
             {
               "title": "The coffee table from 'târnaț'",
@@ -110,35 +84,16 @@
               "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/coffeeTable.jpg"
             },
             {
-              "title": "The door with books",
-              "description": "If you like the smell of old books when you read, then this is your spot.",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/doorBook.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/doorBook.jpg"
-            },
-            {
-              "title": "The spots between the old magazines' suitcases",
-              "description": "Why be up to date with today's news? You can do this at your workplace.. Here you can shuffle through books, magazines or old newspapers. Don't miss the newspaper collection with Roșia Montană.",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/booksPlaces.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/booksPlaces.jpg"
-            },
-            {
-              "title": "Hanging out in the hammock",
-              "description": "In the yard we have some trees where we hang out hammocks. Here you can rest after a long hike and surf on the internet (there is wifi too).",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/hammock.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/hammock.jpg"
-            },
-            {
               "title": "The terrace table",
               "description": "With a nice view to the 'Cârnic' mountain, it's the perfect spot for chatting, drinking 'țuica' or eat before going out for a hike",
               "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/pavilion.jpg",
               "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/pavilion.jpg"
             },
             {
-              "title": "The cupboard with books",
-              "description": "Nemaifolosind acest bufet, am decis să nu îl aruncăm, ci să îi găsim o altă întrebuințare. Având multe cărți moștenite, l-am transformat într-o bibliotecă unde am creat chiar și o secțiune cu cărți pentru copii.",
-              "description": "We decided to recycle this old, unused cupboard and transform it into a library. Here you can find a section with books for children.",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/booksCloset.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/booksCloset.jpg"
+              "title": "Living room",
+              "description": "Here you can dine, hang out with your friends or play a board games. Have you ever played 'Saboteour' in a place with over 150 km of underground galleries? It may not be mountain climbing, but it is something to be tried..",
+              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/livingroom.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/livingroom.jpg"
             }
           ]
         }

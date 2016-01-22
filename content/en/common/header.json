@@ -10,7 +10,7 @@
   },
   "leftButtons": [
     {
-      "text": "Accommodation",
+      "text": "<i class='fa fa-lg fa-bed'></i>",
       "url": {
         "link": "#/#accommodation",
         "textOnMouseOver": "accommodation",
@@ -18,7 +18,7 @@
       }
     },
     {
-      "text": "Activities",
+      "text": "<i class='fa fa-lg fa-bicycle'></i>",
       "url": {
         "link": "#/#activities",
         "textOnMouseOver": "Activities",
