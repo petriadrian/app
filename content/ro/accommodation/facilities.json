@@ -1,13 +1,13 @@
 {
   "presentation": {
-    "title": "Facilități",
-    "headlineText": "Facilitățile și locușoarele cozy de la Casa Petri",
-    "description": "Hamace cu priveliște, 'Dulapul cu cărți', board games, terasa...",
+    "title": "Cărți",
+    "headlineText": "Cărți și locșoare de citit sau de relaxare",
+    "description": "După un traseu de munte, relaxați-vă citind o carte în hamac!",
     "headlineImg": "img/accommodation/facilities/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/accommodation/facilities",
-      "textOnMouseOver": "Vezi facilități",
+      "textOnMouseOver": "Vezi mai mult...",
       "openInNewTab": false
     },
     "carouselAdvertise": [
@@ -25,7 +25,42 @@
   "sections": [
     {
       "type": "title",
-      "text": "<i class='fa fa-heart'></i> Cozy Spots",
+      "text": "<i class='fa fa-book'></i> Cărți",
+      "sectionId": "books",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Prin toată căsuța o să găsiți cărți, ziare și reviste vechi moștenite în mare parte de la bunicii noștri. Avem cărți pentru copii, beletristică, reviste Cinema, cărți și ziare despre Roșia Montană și multe altele. Vă rugăm să aveți grijă de ele și să le puneți la locul lor după folosire.",
+          "images": [
+            {
+              "title": "Ușa cu cărți",
+              "description": "Dacă îți place mirosul cărților când citești, atunci acest locșor improvizat, plin cu carți va fi pe placul tău.",
+              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/doorBook.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/doorBook.jpg"
+            },
+            {
+              "title": "Geamantanele cu cărți",
+              "description": "Cu aceste geamantane s-a mers în armată, s-au cărat borcane cu mâncare în studenție, iar acum găzduiesc cărți, viniluri și reviste Cinema.",
+              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/booksPlaces.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/booksPlaces.jpg"
+            },
+            {
+              "title": "Dulapul cu cărți",
+              "description": "Nemaifolosind acest bufet, am decis să nu îl aruncăm, ci să îi găsim o altă întrebuințare. Având multe cărți, l-am transformat într-o bibliotecă unde găsișți chiar și cărți pentru copii.",
+              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/booksCloset.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/booksCloset.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-heart'></i> Zone de relaxare",
       "sectionId": "cozySpots",
       "addLinkInPageHeadline": true
     },
@@ -34,14 +69,8 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "",
+          "textContent": "După un traseu pe munte vă invităm să citiți sau să vă relaxați într-un locșor liniștit de prin casă sau gradină.",
           "images": [
-            {
-              "title": "Căsuța de vară",
-              "description": "Aici puteți lua masa, să stați la povești sau să jucați un board game. Te-ai jucat vreodată Saboteour într-o localitate cu peste 150km de galerii subterane? Poate nu e ca si cățăratul pe munte, dar e și asta o experiență...",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/livingroom.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/livingroom.jpg"
-            },
             {
               "title": "Măsuța de cafea din târnaț",
               "description": "Târnațul, specific caselor din zonă, este un hol cu gemulețe mici de lemn unde bunicii noștri obișnuiau să își bea cafeaua în fiecare dimineață.",
@@ -49,20 +78,8 @@
               "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/coffeeTable.jpg"
             },
             {
-              "title": "Ușa cu cărți",
-              "description": "Un locușor improvizat plin cu carți vechi. Dacă îți place să simți mirosul cărților atunci când citești, acesta e locul tău",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/doorBook.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/doorBook.jpg"
-            },
-            {
-              "title": "Locușoarele dintre geamantanele cu reviste vechi",
-              "description": "De ce să fii la curent cu știrile de actualitate?! Lasă că faci asta la job ... Aici poți răsfoi cărți, reviste, ziare vechi. Nu rata colecția de ziare cu Roșia Montană",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/booksPlaces.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/booksPlaces.jpg"
-            },
-            {
-              "title": "Leneveală în hamac",
-              "description": "În curte sunt câțiva pomi de care, pe vreme bună, agățăm hamce în care poți lenevi pe net dacă tot avem free wifi și aici.",
+              "title": "Hamace cu priveliște",
+              "description": "În curte sunt câțiva pomi de care, pe vreme bună, agățăm hamce numai bune de lenevit. Este semnal wifi și aici.",
               "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/hammock.jpg",
               "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/hammock.jpg"
             },
@@ -73,47 +90,12 @@
               "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/pavilion.jpg"
             },
             {
-              "title": "Dulapul cu cărți",
-              "description": "Nemaifolosind acest bufet, am decis să nu îl aruncăm, ci să îi găsim o altă întrebuințare. Având multe cărți moștenite, l-am transformat într-o bibliotecă unde am creat chiar și o secțiune cu cărți pentru copii.",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/booksCloset.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/booksCloset.jpg"
+              "title": "Căsuța de vară",
+              "description": "Aici puteți lua masa, povesti sau juca un board game. Să joci Saboteour într-o zonă cu peste 150km de galerii subterane... e o experiență :)",
+              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/livingroom.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/livingroom.jpg"
             }
           ]
-        }
-      ]
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-umbrella'></i> Utile",
-      "sectionId": "useful",
-      "addLinkInPageHeadline": true
-    },
-    {
-      "type": "listOfItems",
-      "items": [
-        {
-          "title": "<i class='fa fa-wifi'></i> Wifi gratuit",
-          "details": ""
-        },
-        {
-          "title": "<i class='fa fa-cutlery'></i> Bucătarie",
-          "details": " - frigider, cuptor , aragaz, vesela"
-        },
-        {
-          "title": "<i class='fa fa-futbol-o'></i> Board games",
-          "details": "Saboteour, Carcasone, Activity..."
-        },
-        {
-          "title": "<i class='fa fa-car'></i> Parcare gratuită",
-          "details": ""
-        },
-        {
-          "title": "<i class='fa fa-info-circle'></i> Informații turistice",
-          "details": ""
-        },
-        {
-          "title": "<i class='fa fa-bicycle'></i> Garaj biciclete",
-          "details": ""
         }
       ]
     },

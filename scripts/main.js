@@ -50,7 +50,6 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http, localiza
     $rootScope.localizationService = localizationService;
 
     //google analytics
-    debugger;
     $window.ga('create', 'UA-72421107-1', 'auto');
     $rootScope.$on('$routeChangeSuccess', function(event, toState){
         $window.ga('send', 'pageview', { page: $location.path() });
@@ -228,6 +227,14 @@ app.filter('trustHtml', ['$sce', function ($sce) {
         return $sce.trustAsHtml(html);
     };
 }]);
+
+app.filter('removeHtmlFromText', function() {
+        return function(text) {
+            debugger;
+            return  text ? String(text).replace(/<[^>]+>/gm, '') : '';
+        };
+    }
+);
 
 function toggleForm(button) {
     $('input[name="dataRange"]').daterangepicker();

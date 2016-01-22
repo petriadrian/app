@@ -7,7 +7,7 @@
         <span ng-repeat="section in pageContent.sections">
             <a ng-if="section.type == 'title' && section.addLinkInPageHeadline"
                ng-click="scrollTo(section.sectionId)"
-               class="btn btn-large btn-primary" ng-bind-html="section.text | trustHtml"></a>
+               class="btn btn-large btn-primary">{{section.text | removeHtmlFromText}}</a>
         </span>
     </div>
 </div>
