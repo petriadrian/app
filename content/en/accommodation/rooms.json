@@ -1,7 +1,7 @@
 {
   "presentation": {
     "title": "Rooms",
-    "headlineText": "Morning coffee at Roșia Montană?",
+    "headlineText": "Morning coffee in Roșia Montană?",
     "description": "The house is a heritage building opened now for touristic accommodation. Here you can see or <b>book the rooms</b>.",
     "headlineImg": "img/accommodation/rooms/presentation.jpg",
     "showPageHeadline": true,
@@ -384,11 +384,11 @@
       "carouselBoxes": [
         {
           "timeInterval": "10000",
-          "page": "/review"
+          "page": "/accommodation/camping"
         },
         {
           "timeInterval": "10000",
-          "page": "/accommodation/camping"
+          "page": "/review"
         },
         {
           "timeInterval": "10000",

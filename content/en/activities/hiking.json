@@ -28,14 +28,14 @@
       "text": "<i class='fa fa-info-circle'></i> Details",
 
       "sectionId": "details",
-      "addLinkInPageHeadline": true
+      "addLinkInPageHeadline": false
     },
     {
       "type": "articles",
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Our village is surrounded by mountains, valleys, churches, heritage buildings and ancient galleries. We can't wait for you to discover them! So, if you come to Roșia, don't visit just the museum and the local store, because the area has much more to offer. Check the trails below and find the ones that you would like, based on your fitness and the touristic attractions you would like to see. <br>The maps of the trails are done in <b>google maps</b>, so you can zoom in, see them in satellite mode or access them from any device. Under each trail you'll find indications estimated by us (<b>round trip distance</b>, duration) and the indications within the map are being estimated by google.",
+          "textContent": "Our village is surrounded by mountains, valleys, old churches, heritage buildings and ancient galleries. So, If you come to Roșia, don't visit just the museum and the local store, because the area has much more to offer. Check the trails below and find the ones you like, based on the touristic attractions you would like to see. <br>The maps of the trails are done in <b>google maps</b>, so you can zoom in, see them in satellite mode or access them from any device. Under each trail you'll find indications estimated by us (<b>round trip distance</b>, duration). The indications within the map are being estimated by google.",
           "moreDetailsLink": "https://turismlarosiamontana.wordpress.com/about",
           "moreDetailsText": "Occasionally, there are guided tours organised. More details here..."
         }
@@ -43,7 +43,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Short trails",
+      "text": "<i class='fa fa-map-signs'></i> Short trails (2h - 4h)",
       "sectionId": "shortTrails",
       "addLinkInPageHeadline": true
     },
@@ -74,7 +74,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Long trails",
+      "text": "<i class='fa fa-map-signs'></i> Long trails (5h - 9h)",
       "sectionId": "longTrails",
       "addLinkInPageHeadline": true
     },

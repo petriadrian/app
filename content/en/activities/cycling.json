@@ -1,7 +1,7 @@
 {
   "presentation": {
     "title": "Cycling trails",
-    "headlineText": "Check your bike brakes and bring it to Roșia!",
+    "headlineText": "Cycling trails - discover our area by bike",
     "description": "From <b>MTB</b> trails on unpaved roads along mountain peaks and lakes, to paved trails for <b>touring bikes</b> towards touristic sights",
     "headlineImg": "img/activities/cycling/presentation.jpg",
     "showPageHeadline": true,
@@ -28,17 +28,16 @@
       "text": "<i class='fa fa-info-circle'></i> Details",
 
       "sectionId": "details",
-      "addLinkInPageHeadline": true
+      "addLinkInPageHeadline": false
     },
     {
       "type": "articles",
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Îți propunem cele mai tari trasee din zonă relizate în funcție de condiția ta fizică și tipul de bicicletă preferat (MTB sau cursieră). Cele de MTB te vor plimba pe drumuri de țară, în jurul localității și în satele alăturate spre diverse atracții turistice. Traseele de asfalt - cursieră/auto/moto, sunt realizate pe drumuri nationale, spre obiectivele din zonă. Găsește traseele potrivite pentru tine, pune bicicleta pe mașină și hai la Roșia pentru a le parcurge. <br>Harțile traseelor sunt realizate pe <b>google maps</b> astfel că poți face zoom, poți să le vezi în modul satelit sau hartă sau poți să le accesezi de pe orice telefon sau tabletă în timpul drumeției. Sub fiecare traseu găsiți indicațiile (<b>lungime dus-întors</b>, durată) estimate de noi, iar cele afișate în interiorul hărții sunt estimate de google. Cât timp nu te dai cu bița o poți lăsa în siguranță, închisă într-un garaj din curte.",
-          "textContent": "These are the  best trails from the area, based on your fitness and the type of your bike (MTB or touring bike). The MTB trails will take you on country roads, around the village and surrounding villages towards various attractions. The paved trails - for touring bikes, motorcycles and cars - are mapped on national roads, towards the attractions in the area. Find the right trail for you, and bring your bike to Roșia to ride along it. <br>The maps of the trails are made in <b>google maps</b>, so you can zoom in, see them in satellite mode or access them on any smartphone or tablet. Under each trail you'll find indications estimated by us (<b>round trip distance</b>, duration) and the indications within the map being estimated by google. When you don’t ride your bike, you can keep it safe in the garage.",
+          "textContent": "Test your bike brakes, inflate the tires  and bring it to Roșia Montană. The MTB trails will take you on country roads, around the village and surrounding villages towards various attractions. The paved trails - for touring bikes, motorcycles or cars - are mapped on national roads, towards the attractions from our area. <br>The maps of the trails are made in <b>google maps</b>, so you can zoom in, see them in satellite mode or access them on any smartphone or tablet. Under each trail you'll find indications estimated by us (<b>round trip distance</b>, duration). The indications within the map are provided by google. When you don’t ride your bike, you can keep it safe in our garage.",
           "moreDetailsLink": "https://www.facebook.com/calin.capros",
-          "moreDetailsText": "For more details about trails you can contact Călin Caproș (the best in the area when  it comes to bikes. He can also be contacted for technical problems, as he owns a small workshop)."
+          "moreDetailsText": "For more details about bike trails, you can contact Călin Caproș (he also owns a small bike workshop, if your bike needs a fix)."
         }
       ]
     },

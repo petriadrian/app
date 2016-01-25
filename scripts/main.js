@@ -230,7 +230,6 @@ app.filter('trustHtml', ['$sce', function ($sce) {
 
 app.filter('removeHtmlFromText', function() {
         return function(text) {
-            debugger;
             return  text ? String(text).replace(/<[^>]+>/gm, '') : '';
         };
     }

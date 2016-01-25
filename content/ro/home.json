@@ -1,8 +1,8 @@
 {
   "presentation": {
     "title": "Pagina Principală",
-    "headlineText": "exploatare turistică de suprafață",
-    "description": "- cazare - campare - trasee drumeție - trasee ciclism -",
+    "headlineText": "Încă te mai întrebi: 'De ce să vizitez Roșia Montană?'",
+    "description": "pe acest site găsești cazare și trasee spre atracțiile turistice de aici",
     "headlineImg": "img/homePage/presentation.jpg",
     "showPageHeadline": false,
     "url": {
@@ -15,7 +15,7 @@
     {
       "type": "advertise",
       "centralCarousel": {
-        "timeInterval": "5000",
+        "timeInterval": "7000",
         "slides": [
           {
             "page": "/home"

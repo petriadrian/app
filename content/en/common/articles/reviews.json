@@ -45,7 +45,6 @@
   {
     "id": "4",
     "title": "Ana von Aether - Paris(FR)",
-    "textContent": "<span style='font-family: Merienda, cursive'>Mulțumesc încă o data că m-ați primit la voi. Mi-a făcut plăcere să vă cunosc! Mi-a placut foarte mult la fan fest și dacă o să reușesc să vin și la anul, tot la voi vreau sa stau. Păstram legătura</span>",
     "textContent": "<span style='font-family: Merienda, cursive'>Thanks for the accomodation. It was a pleasure to meet you! I enjoyed a lot Fân Fest and if I'll come next year to the festival, I also want to stay at Casa Petri. Keep in touch!</span>",
     "images": [
       {
@@ -53,6 +52,21 @@
         "description": " with her friends at Fân Fest",
         "thumbnailUrl": "img/reviews/reviewer/thumbnail/4.jpg",
         "fullSizeUrl": "img/reviews/reviewer/fullSize/4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Alex Bartiș - Cluj-Napoca(RO)",
+    "textContent": "<span style='font-family: Merienda, cursive'>It was really cool! It's the most beautiful building from Roșia Montană and is right in the historical center!</span>",
+    "moreDetailsLink": "https://photos.google.com/share/AF1QipPIX2LP4qX1vBZ9k1aHL3n2_DwqE1JGlV9UfULwlkQe3lBo_XPm-SJfo5Nn29ZtsQ/story/AF1QipNvtEn_xmGQ0Rssl_iGlIlPaUYQJT_1OjBeTeC4qi9-i_hECYF8YvVmCd2HMCan1A?key=dG9NQ012enB5M2VNeHkwcmJyZXVOUkZweHBZeGJ3",
+    "moreDetailsText": "Alex also made a clip with photos made on his hiking trip to Cârnic peak and to Weather Station. You can see it here...",
+    "images": [
+      {
+        "title": "Alex Bartiș - Cluj-Napoca(RO)",
+        "description": " with Sebi on Cârnic Peak",
+        "thumbnailUrl": "img/reviews/reviewer/thumbnail/5.jpg",
+        "fullSizeUrl": "img/reviews/reviewer/fullSize/5.jpg"
       }
     ]
   }

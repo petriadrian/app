@@ -26,30 +26,9 @@ body {
     width: 100%;
 }
 
-.navbar-brand {
-    margin: 0px;
-    padding: 0px;
-}
-
-.siteLogo {
+.navbar-header img {
+    width: 140px;
     height: 50px;
-    width: 240px;
-    cursor: pointer;
-}
-
-.siteLogo img {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-}
-
-.siteLogo h1 {
-    position: absolute;
-    font-size: 0.8em;
-    color: white;
-    top: 10px;
-    left: 60px;
-    padding: 0;
 }
 
 .nav > li.hideElement {
@@ -306,8 +285,8 @@ footer .row section{
     position:absolute;
     display: inline-block;
     left:0; top:0;
-    width: 94%;
-    margin: 2% 3%;
+    width: 90%;
+    margin: 2% 5%;
 }
 
 .pageIntro .btn-primary {
@@ -404,6 +383,8 @@ footer .row section{
     text-decoration: none;
 }
 
+.btn-primary:ACTIVE,
+.btn-primary:FOCUS,
 .defaultClickStyle:ACTIVE {
     background-color: #157f15;
 }
@@ -422,9 +403,9 @@ footer .row section{
 }
 
 .btn-primary:HOVER,
-.siteLogo:hover > img,
 .navbar-default .navbar-nav > li > a:hover {
     color: white;
+    cursor: pointer;
     background-color: #157f15;
     border-color: white;
 }

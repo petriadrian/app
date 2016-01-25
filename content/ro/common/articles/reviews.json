@@ -54,5 +54,20 @@
         "fullSizeUrl": "img/reviews/reviewer/fullSize/4.jpg"
       }
     ]
+  },
+  {
+    "id": "5",
+    "title": "Alex Bartiș - Cluj-Napoca(RO)",
+    "textContent": "<span style='font-family: Merienda, cursive'>E foarte misto! E cea mai frumoasa cladire din Rosia Montana, si e super aproape de centru!</span>",
+    "moreDetailsLink": "https://photos.google.com/share/AF1QipPIX2LP4qX1vBZ9k1aHL3n2_DwqE1JGlV9UfULwlkQe3lBo_XPm-SJfo5Nn29ZtsQ/story/AF1QipNvtEn_xmGQ0Rssl_iGlIlPaUYQJT_1OjBeTeC4qi9-i_hECYF8YvVmCd2HMCan1A?key=dG9NQ012enB5M2VNeHkwcmJyZXVOUkZweHBZeGJ3",
+    "moreDetailsText": "Alex a făcut și o prezentare cu poze făcute pe traseul masivului Cârnic și spre Stația Meteo. Îl poți vedea aici...",
+    "images": [
+      {
+        "title": "Alex Bartiș - Cluj-Napoca(RO)",
+        "description": " cu Sebi pe vârful Cârnic",
+        "thumbnailUrl": "img/reviews/reviewer/thumbnail/5.jpg",
+        "fullSizeUrl": "img/reviews/reviewer/fullSize/5.jpg"
+      }
+    ]
   }
 ]

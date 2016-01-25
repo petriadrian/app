@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Weather Station",
     "headlineText": "Discover the country side trail to the Weather Station",
-    "description": "Visit the Țarina land, the mountain lakes and enjoy the whole landscape from Rotundu Peak <b>~10km</b>",
+    "description": "Visit the Țarina land, the mountain lakes and enjoy the whole landscape from Rotundu Peak",
     "headlineImg": "img/activities/trails/weatherStation/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -47,7 +47,7 @@
               },
               {
                 "textOnMouseOver": "durată pe jos dus-întors",
-                "text": "~5h",
+                "text": "~4.5h",
                 "iconFortAwesomeClass": "fa fa-male"
               },
               {
