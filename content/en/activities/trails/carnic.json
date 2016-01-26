@@ -1,13 +1,13 @@
 {
   "presentation": {
-    "title": "Vârful Cârnic",
+    "title": "Cârnic peak",
     "headlineText": "Hike on the golden mountain - Cârnic trail",
     "description": "From village we go to the Firs Lake and then we climb on the top of Cârnic, to the Raven Stone and Sfinx. <i class='fa fa-male'> ~3h </i>",
     "headlineImg": "img/activities/trails/carnic/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/trails/carnic",
-      "textOnMouseOver": "Vezi traseul Muntelui Cârnic",
+      "textOnMouseOver": "See the Cârnic mountain trail...",
       "openInNewTab": false
     },
     "carouselAdvertise": [

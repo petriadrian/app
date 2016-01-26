@@ -63,7 +63,7 @@
   {
     "id": "romanCatholicChurch",
     "title": "Biserica Romano-Catolica",
-    "textContent": "Așezarea ei deasupra satului fac ca turnul cu ceas să fie vizibil din tot centrul istoric și sunetul clopotelor să fie auzit de la orice casă. De la bunici știm că locul de veci din fața bisericii, din marmură neagră, esta a celui care a finanțat construcția ei cu condiția ca biserica și locul lui să nu fie mutate niciodată. Se spune că în timp ce acesta căuta aur pe galerii s-a întâlnit cu vâlva băii și a făcut un pact cu ea referitor la biserică. Nu vă spunem mai multe ... veniți la Roșia și întrebați de acest pact.",
+    "textContent": "Așezarea ei deasupra satului fac ca turnul cu ceas să fie vizibil din tot centrul istoric și sunetul clopotelor să fie auzit de la orice casă. De la bunici știm că locul de veci, din fața bisericii, esta a celui care a finanțat construcția ei cu condiția ca biserica și locul lui să nu fie mutate niciodată. Se spune că în timp ce acesta căuta aur pe galerii, s-a întâlnit cu vâlva băii și a făcut un pact cu ea referitor la biserică. Nu vă spunem mai multe ... veniți la Roșia și întrebați de acest pact.",
     "images": [
       {
         "title": "Biserica Romano-Catolica",
@@ -73,7 +73,7 @@
       },
       {
         "title": "Biserica Romano-Catolica",
-        "description": "De paști, sătenii aduc un coș cu mâncare pentru a fii sfințită iar mormantul mântuitorului este păzit întreaga zi de 7 gărzi care elibereaza intrarea în timpul slujbei de înviere.",
+        "description": "De paști, sătenii aduc un coș cu mâncare pentru a fii sfințită. Mormantul mântuitorului este păzit întreaga zi de 7 gărzi care elibereaza intrarea în timpul slujbei de înviere.",
         "thumbnailUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/fullSize/2.jpg"
       }
@@ -142,7 +142,7 @@
   {
     "id": "szekeyHouse",
     "title": "Casa Szekey",
-    "textContent": "Casa Szekey Acoș, de la poalele masivului Jig-Văidoaia, pare o mică cetate împrejmuită de un zid de piatră cu o poartă înaltă boltită. Probabil că aceste elemente de piatră l-au înspirat pe Dan Pița în 1972 să facă aici filmul 'Nunta de piatră'. La întoarcerea de pe traseu putem urmări filmul la Casa Petri întrucât va avea un mai mare impact odată ce cunoașteți zona. O parte din echipa de filmare au fost cazați atunci la noi, unde puteți găsi o imagine cu autograful lor.",
+    "textContent": "Casa Szekey Acoș, de la poalele masivului Jig-Văidoaia, este ca o mică cetate împrejmuită de un zid de piatră cu o poartă înaltă boltită. Probabil că aceste elemente de piatră l-au înspirat pe Dan Pița în 1972 să facă aici filmul 'Nunta de piatră'. La întoarcerea de pe traseu putem urmări filmul la Casa Petri întrucât va avea un mai mare impact odată ce cunoașteți zona. O parte din echipa de filmare au fost cazați atunci la noi, unde puteți găsi o imagine cu autograful lor.",
     "moreDetailsLink": "http://procinema.ro/stiri/nunta-de-piatra-locul-6-in-clasamentul-celor-mai-bune-10-filme-romanesti-ale-tuturor-timpurilor-a-sarbatorit.html#ixzz3rft5sJu5",
     "moreDetailsText": "Filmul a fost nominalizat la TiFF în top 10 filme romanesti ale tuturor timpurilor. Vezi aici... ",
     "images": [
@@ -207,7 +207,7 @@
     "images": [
       {
         "title": "Sfinxul Carnic",
-        "description": "Crucea de pe Sfinx a fost pusă aici de baiesi(mineri) pentru a fi călauziți pe mină în căutarea aurului.",
+        "description": "Crucea de pe Sfinx a fost pusă aici de baieși (mineri) pentru a fi călauziți pe mină în căutarea aurului.",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicSfinx/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicSfinx/fullSize/1.jpg"
       },
@@ -222,7 +222,7 @@
   {
     "id": "ravenStone",
     "title": "Piatra Corbului",
-    "textContent": "De la Sfinx o luăm pe culmea muntelui, pe unde am venit, pana la capătul potecii. Ne aflăm pe Piatra Corbului - rezervație naturală protejată. De aici se vede Tăul și satul Corna.",
+    "textContent": "De la Sfinx o luăm pe culmea muntelui, pe unde am venit, pana la capătul potecii. Ne aflăm pe Piatra Corbului - rezervație naturală protejată. De aici se vede Tăul Corna și satul Corna.",
     "images": [
       {
         "title": "Piatra Corbului",

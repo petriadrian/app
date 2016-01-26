@@ -1,13 +1,13 @@
 {
   "presentation": {
-    "title": "Ghețarul Scărișoara",
-    "headlineText": "Traseul spre Ghețarul Scărișoara",
-    "description": "Unul dintre cele mai mari ghetare subterane din lume iar traseul e unul dintre cele mai pitoresti din Apuseni. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~9h </i>",
+    "title": "Scarisoara Glacier",
+    "headlineText": "The trail to 'Scărișoara' cave glacier",
+    "description": "A spectacular trail through the Apuseni Mountains, to one of the largest underground glacier in the world. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~9h </i>",
     "headlineImg": "img/activities/trails/scarisoara/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/trails/scarisoara",
-      "textOnMouseOver": "Vezi traseul spre Scărișoara",
+      "textOnMouseOver": "See the Scărișoara trail...",
       "openInNewTab": false
     },
     "carouselAdvertise": [

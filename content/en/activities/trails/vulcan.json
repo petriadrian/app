@@ -1,13 +1,13 @@
 {
   "presentation": {
-    "title": "Vulcan",
-    "headlineText": "Traseul spre muntele Vulcan",
-    "description": "Descoperiți drumul șerpuit printre Munții Apuseni spre masivul Vulcan. <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~5h </i>",
+    "title": "Vulcan mountain",
+    "headlineText": "Trail to Vulcan peak",
+    "description": "The winding road along a pine forest and Apuseni villages, up to the Vulcan mountain. <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~5h </i>",
     "headlineImg": "img/activities/trails/vulcan/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/trails/vulcan",
-      "textOnMouseOver": "Vezi traseul spre Vulcan",
+      "textOnMouseOver": "See the Vulcan trail...",
       "openInNewTab": false
     },
     "carouselAdvertise": [

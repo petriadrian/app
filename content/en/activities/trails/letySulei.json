@@ -1,13 +1,13 @@
 {
   "presentation": {
-    "title": "Vârfurile Lety și Șulei",
-    "headlineText": "Traseul spre masivele Lety și Șulei ",
-    "description": "Urcăm pe 2 culmi cu forme ciudate, întâlnim 2 tăuri, un sat ascuns și o galerie cu urme de filoane de aur. <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
+    "title": "Lety and Sulei peak",
+    "headlineText": "Hiking trail to Lety and Șulei ",
+    "description": "Climb on 2 peaks, visit 2 lakes, a hidden village and an gallery with marks of gold diggings. <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
     "headlineImg": "img/activities/trails/letySulei/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/trails/letySulei",
-      "textOnMouseOver": "Vezi traseul spre vârfurile Lety și Șulei",
+      "textOnMouseOver": "See the Lety and Șulei trail...",
       "openInNewTab": false
     },
     "carouselAdvertise": [

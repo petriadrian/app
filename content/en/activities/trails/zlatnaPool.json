@@ -1,13 +1,13 @@
 {
   "presentation": {
-    "title": "Ștrandul Zlatna",
-    "headlineText": "Traseul spre Ștrandul Zlatna",
-    "description": "Nu e doar un traseu spre ștrand pentru că pe drum veți transpira urcând 'Dealul Mare'. Dar destinația e răcoritoare. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~7h </i>",
+    "title": "Zlatna Pool",
+    "headlineText": "The trail to Zlatna pool",
+    "description": "This is not just a simple trail to the pool, as you'll have to climb 'Dealul Mare' to reach the invigorating pool. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~7h </i>",
     "headlineImg": "img/activities/trails/zlatnaPool/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/trails/zlatnaPool",
-      "textOnMouseOver": "Vezi traseul spre Ștrandul Zlatna",
+      "textOnMouseOver": "See the trail...",
       "openInNewTab": false
     },
     "carouselAdvertise": [

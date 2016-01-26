@@ -2,12 +2,12 @@
   "presentation": {
     "title": "Roller Coaster",
     "headlineText": "Traseul roller coaster - Corna - Seliște",
-    "description": "Coborâș plin de adrenalină pe serpentinele vechiului drum al carierei și urcuș înapoi pe un drum de țară. <i class='fa fa-bicycle'> ~6h </i>",
+    "description": "Get high speed on the serpentine of the old mining road and then climb back on a country side road. <i class='fa fa-bicycle'> ~6h </i>",
     "headlineImg": "img/activities/trails/rollerCoaster/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/trails/rollerCoaster",
-      "textOnMouseOver": "Vezi traseul roller coaster",
+      "textOnMouseOver": "See the Roller Coaster trail",
       "openInNewTab": false
     },
     "carouselAdvertise": [

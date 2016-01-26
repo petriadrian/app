@@ -1,13 +1,13 @@
 {
   "presentation": {
     "title": "Detunata",
-    "headlineText": "Traseul satelor din Apuseni spre masivul Detunata",
-    "description": "Pornim spre Tăul Mare, tecem prin câteva cătune de munte până ajungem pe vârful coloanelor de bazalt. <i class='fa fa-male'> ~7h </i> | <i class='fa fa-bicycle'> ~5h </i>",
+    "headlineText": "The trail to the basalt columns - Detunata",
+    "description": "Visit the 'Big' Lake, some specific mountain villages and then climb on the Detunata peak. <i class='fa fa-male'> ~7h </i> | <i class='fa fa-bicycle'> ~5h </i>",
     "headlineImg": "img/activities/trails/detunata/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/trails/detunata",
-      "textOnMouseOver": "Vezi traseul spre Detunata",
+      "textOnMouseOver": "See the Detunata trail...",
       "openInNewTab": false
     },
     "carouselAdvertise": [

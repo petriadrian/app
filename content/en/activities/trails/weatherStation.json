@@ -7,7 +7,7 @@
     "showPageHeadline": true,
     "url": {
       "link": "#/activities/trails/weatherStation",
-      "textOnMouseOver": "See more...",
+      "textOnMouseOver": "See the trail...",
       "openInNewTab": false
     },
     "carouselAdvertise": [
