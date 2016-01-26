@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Ghețarul Scărișoara",
     "headlineText": "Traseul spre Ghețarul Scărișoara",
-    "description": "Unul dintre cele mai mari ghetare subterane din lume iar traseul e unul dintre cele mai pitoresti din Apuseni <b>~110km</b>",
+    "description": "Unul dintre cele mai mari ghetare subterane din lume iar traseul e unul dintre cele mai pitoresti din Apuseni. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~9h </i>",
     "headlineImg": "img/activities/trails/scarisoara/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -42,7 +42,7 @@
               },
               {
                 "textOnMouseOver": "durată cu bicicleta dus-întors",
-                "text": "~?h",
+                "text": "9h",
                 "iconFortAwesomeClass": "fa fa-bicycle"
               },
               {

@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Ștrandul Zlatna",
     "headlineText": "Traseul spre Ștrandul Zlatna",
-    "description": "Nu e doar un traseu spre ștrand pentru că pe drum veți transpira urcând 'Dealul Mare'. Dar destinația e răcoritoare",
+    "description": "Nu e doar un traseu spre ștrand pentru că pe drum veți transpira urcând 'Dealul Mare'. Dar destinația e răcoritoare. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~7h </i>",
     "headlineImg": "img/activities/trails/zlatnaPool/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -39,7 +39,7 @@
             "list": [
               {
                 "textOnMouseOver": "durată cu bicicleta dus-întors",
-                "text": "~?h",
+                "text": "~7h",
                 "iconFortAwesomeClass": "fa fa-bicycle"
               },
               {

@@ -43,7 +43,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Short trails (2h - 4h)",
+      "text": "<i class='fa fa-map-signs'></i> Short trails",
       "sectionId": "shortTrails",
       "addLinkInPageHeadline": true
     },
@@ -74,7 +74,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Long trails (5h - 9h)",
+      "text": "<i class='fa fa-map-signs'></i> Long trails",
       "sectionId": "longTrails",
       "addLinkInPageHeadline": true
     },

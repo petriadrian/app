@@ -2,7 +2,7 @@
   "presentation": {
     "title": "4 lacuri",
     "headlineText": "Descoperă traseul celor 4 lacuri",
-    "description": "Turul localității pe un drum de țară printre lacuri, dealuri și mici sate de munte <b>16km</b>",
+    "description": "Turul localității pe un drum de țară printre lacuri, dealuri și mici sate de munte. <i class='fa fa-male'> ~6h </i> | <i class='fa fa-bicycle'> ~4h </i>",
     "headlineImg": "img/activities/trails/fourLakes/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -47,7 +47,7 @@
               },
               {
                 "textOnMouseOver": "durată pe jos dus-întors",
-                "text": "~7h",
+                "text": "~6h",
                 "iconFortAwesomeClass": "fa fa-male"
               },
               {

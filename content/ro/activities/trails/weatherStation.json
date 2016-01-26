@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Stația Meteo",
     "headlineText": "Descoperă traseul drumului de țară spre Stația Meteo",
-    "description": "Vizităm plaiurile Țarinei, lacuri de munte și priveliștea întregului ținut de pe Vârful Rotundu <b>~10km</b>",
+    "description": "Vizităm plaiurile Țarinei, lacuri de munte și priveliștea întregului ținut de pe Vârful Rotundu. <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
     "headlineImg": "img/activities/trails/weatherStation/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -47,7 +47,7 @@
               },
               {
                 "textOnMouseOver": "durată pe jos dus-întors",
-                "text": "~4.5h",
+                "text": "~4h",
                 "iconFortAwesomeClass": "fa fa-male"
               },
               {

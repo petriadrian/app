@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Vulcan",
     "headlineText": "Traseul spre muntele Vulcan",
-    "description": "Descoperiți drumul șerpuit printre Munții Apuseni spre masivul Vulcan",
+    "description": "Descoperiți drumul șerpuit printre Munții Apuseni spre masivul Vulcan. <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~5h </i>",
     "headlineImg": "img/activities/trails/vulcan/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -41,7 +41,7 @@
               },
               {
                 "textOnMouseOver": "durată cu bicicleta dus-întors",
-                "text": "~?h",
+                "text": "~5h",
                 "iconFortAwesomeClass": "fa fa-bicycle"
               },
               {

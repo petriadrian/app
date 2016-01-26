@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Poiana cu narcise",
     "headlineText": "O poiană ca în povești. Narcisele de la Negrileasa",
-    "description": "<b>| Mai |</b> O patura alba si un miros imbatator pun stapanire pe Poiana Negrileasa <b>~77km</b>",
+    "description": "<b>| Mai |</b> O patura alba si un miros imbatator pun stapanire pe Poiana Negrileasa. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~7h </i>",
     "headlineImg": "img/recommendations/daffodilMeadow/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -77,7 +77,7 @@
               },
               {
                 "textOnMouseOver": "durată cu bicicleta dus-întors",
-                "text": "?h",
+                "text": "7h",
                 "iconFortAwesomeClass": "fa fa-bicycle"
               },
               {

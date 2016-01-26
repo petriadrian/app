@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Vârfurile Lety și Șulei",
     "headlineText": "Traseul spre masivele Lety și Șulei ",
-    "description": "Urcăm pe 2 culmi cu forme ciudate, întâlnim 2 tăuri minunate un sat ascuns și o galerie cu urme de filoane de aur",
+    "description": "Urcăm pe 2 culmi cu forme ciudate, întâlnim 2 tăuri, un sat ascuns și o galerie cu urme de filoane de aur. <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
     "headlineImg": "img/activities/trails/letySulei/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -52,7 +52,7 @@
               },
               {
                 "textOnMouseOver": "durată cu bicicleta dus-întors",
-                "text": "~2h",
+                "text": "~3h",
                 "iconFortAwesomeClass": "fa fa-bicycle"
               },
               {

@@ -2,7 +2,7 @@
   "presentation": {
     "title": "4 lakes",
     "headlineText": "Discover the trail along the 4 lakes",
-    "description": "The tour of the village among lakes, hills and mountain villages | <span><i class='fa fa-male'></i>~7h | <i class='fa fa-bicycle'></i>~4h</span> |",
+    "description": "The tour of the village among lakes, hills and mountain villages. <i class='fa fa-male'> ~6h </i> | <i class='fa fa-bicycle'> ~4h </i>",
     "headlineImg": "img/activities/trails/fourLakes/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -47,7 +47,7 @@
               },
               {
                 "textOnMouseOver": "durată pe jos dus-întors",
-                "text": "~7h",
+                "text": "~6h",
                 "iconFortAwesomeClass": "fa fa-male"
               },
               {

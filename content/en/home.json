@@ -34,13 +34,16 @@
           },
           {
             "page": "/activities/trails/historicalCenter"
+          },
+          {
+            "page": "/activities/trails/carnic"
           }
         ]
       }
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-bed'></i> Accommodation",
+      "text": "<i class='fa fa-bed'></i> Where to stay?",
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },
@@ -65,7 +68,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-bicycle'></i> Activities",
+      "text": "<i class='fa fa-bicycle'></i> What to do there?",
       "addLinkInPageHeadline": false,
       "sectionId": "activities"
     },
