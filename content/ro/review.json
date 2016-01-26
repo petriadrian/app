@@ -63,7 +63,7 @@
     {
       "type": "form",
       "title": "newReview",
-      "successMessage": "Vă mulțumim! Părerea dumneavoastră ne ajută să atragem turiști la Roșia",
+      "successMessage": "Vă mulțumim! Părerea dumneavoastră îi va ajuta pe alți turiști în a alege Roșia ca destinație de vacanță.",
       "errorMessage": "EROARE! Contactați-ne prin email sau telefon (le găsiți în footer)",
       "sendButtonText": "Trimite",
       "fields": [
