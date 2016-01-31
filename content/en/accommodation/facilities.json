@@ -39,20 +39,32 @@
             {
               "title": "Suitcases with books",
               "description": "These suitcases were used to carry clothes in the army or jars with food when going to college, and now they are used for holding books, vinyls and Cinema magazines.",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/booksPlaces.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/booksPlaces.jpg"
+              "thumbnailUrl": "img/accommodation/facilities/books/thumbnail/booksPlaces.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/books/fullSize/booksPlaces.jpg"
             },
             {
               "title": "The door with books",
               "description": "If you like the smell of old books when you read, then this is your spot.",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/doorBook.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/doorBook.jpg"
+              "thumbnailUrl": "img/accommodation/facilities/books/thumbnail/doorBook.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/books/fullSize/doorBook.jpg"
             },
             {
               "title": "The cupboard with books",
               "description": "We decided to recycle this old, unused cupboard and transform it into a library. Here you can find a section with books for children.",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/booksCloset.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/booksCloset.jpg"
+              "thumbnailUrl": "img/accommodation/facilities/books/thumbnail/booksCloset.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/books/fullSize/booksCloset.jpg"
+            },
+            {
+              "title": "The Ladder with books",
+              "description": ".",
+              "thumbnailUrl": "img/accommodation/facilities/books/thumbnail/booksLadder.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/books/fullSize/booksLadder.jpg"
+            },
+            {
+              "title": "The lost suitcase",
+              "description": "a way to travel",
+              "thumbnailUrl": "img/accommodation/facilities/books/thumbnail/lostSuitcase.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/books/fullSize/lostSuitcase.jpg"
             }
           ]
         }

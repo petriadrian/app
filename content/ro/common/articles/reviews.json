@@ -32,7 +32,7 @@
   {
     "id": "3",
     "title": "Felicia - Satu Mare(RO)",
-    "textContent": "<span style='font-family: Merienda, cursive'>Oamenii frumosi la gazde frumoase trag! Multam de hamace with a view, vibe creativ si activist, clatite cu zambet larg si respiro cu WiFiiiiiii :))) ca sa afle lumea ca suntem la Casa Petri si ce facem pe acolo. Raportam de pe baricade ca stocul de dor s-a refacut rapid si numaram weekendurile pana va trecem iar pragul!</span>",
+    "textContent": "<span style='font-family: Merienda, cursive'>Am petrecut 3 zile minunate la casa Petri, ne-am simțit excelent aici. Gazda (Adi) ne-a impresionat cu calmul și bunul simț iar vecina (Alina) cu mesele delicioase. Abia așteptăm să revenim </span>",
     "images": [
       {
         "title": "Felicia - Satu Mare(RO)",
@@ -67,6 +67,75 @@
         "description": " cu Sebi pe vârful Cârnic",
         "thumbnailUrl": "img/reviews/reviewer/thumbnail/5.jpg",
         "fullSizeUrl": "img/reviews/reviewer/fullSize/5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Josefen - Denmark(DK)",
+    "textContent": "<span style='font-family: Merienda, cursive'>România totuși rămâne să fie descoperită ca un loc unic de a-ți petrece concediul. Peisajul fantastic și oamenii primitori fac ca România să fie o experiență de neuitat. Roșia Montană, în mod particular, este interesantă pentru istorie, geologie, folclor, locație și nu o să găsești un loc mai bun de cazare decât micuța, primitoarea și noua restaurată Căsuța Petri. Mulțumesc pentru cazare. </span>",
+    "images": [
+      {
+        "title": "Josefen - Denmark",
+        "description": "din caietul nostru cu impresii.",
+        "thumbnailUrl": "img/reviews/reviewer/thumbnail/6.jpg",
+        "fullSizeUrl": "img/reviews/reviewer/fullSize/6.jpg"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Alexandra Postelnicu - București(RO)",
+    "textContent": "<span style='font-family: Merienda, cursive'> Mulțumim pentru acest loc de rai, unde ne-am simțit minunat. Una dintre cele mai mari realizări a fost că am dormit nemișcată, pe când în București am nevoie de pastile de somn.</span>",
+    "moreDetailsLink": "http://www.rosiamontanamarathon.ro/",
+    "moreDetailsText": "Alexandra s-a îndrăgostit de Roșia Montană și organizează anual aici un maraton. Mai multe detalii aici...",
+    "images": [
+      {
+        "title": "Alexandra Postelnicu - București(RO)",
+        "description": " cu prietenii pe Vârful Rotundu - Stația Meteo",
+        "thumbnailUrl": "img/reviews/reviewer/thumbnail/7.jpg",
+        "fullSizeUrl": "img/reviews/reviewer/fullSize/7.jpg"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Ramona Dominicioiu - Cluj Napoca(RO)",
+    "textContent": "<span style='font-family: Merienda, cursive'> Adi și tatăl lui sunt cele mai faine gazde! Iubesc să beau cafeaua pe băncuță și să mă uit la muntele Cârnic. </span>",
+    "moreDetailsLink": "http://www.ecoruralis.ro/web/ro/",
+    "moreDetailsText": "Ramona vine în fiecare an la festivalul Fân Fest cu echipa ei pentru a vinde semințe ecologice și să țină prezentări despre importanța folosirii acestora în agricultură. Mai multe detalii aici...",
+    "images": [
+      {
+        "title": "Ramona Dominicioiu - Cluj Napoca(RO)",
+        "description": " cu echipa ei la Fân Fest unde comercializează semințe țărănești",
+        "thumbnailUrl": "img/reviews/reviewer/thumbnail/8.jpg",
+        "fullSizeUrl": "img/reviews/reviewer/fullSize/8.jpg"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Sophie & Alma - Leipzig(DE)",
+    "textContent": "<span style='font-family: Merienda, cursive'> Căsuța Petri in Roșia Montană este cu siguranță locul perfect pentru a duce un stil de viață bună și liniștită. Vă mulțumim pentru primirea călduroasă și pentru ospitalitatea voastră! A fost foarte fain să celebrăm Paștele aici cu voi. Mulțumită lui Tică și familiei Petri ne vom aminti cu siguranță de ospitalitatea românească ca fiind una extraordinară. </span>",
+    "images": [
+      {
+        "title": "Sophie & Alma - Leipzig(DE)",
+        "description": "din caietul nostru cu impresii.",
+        "thumbnailUrl": "img/reviews/reviewer/thumbnail/9.jpg",
+        "fullSizeUrl": "img/reviews/reviewer/fullSize/9.jpg"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Livia - Cluj Napoca(RO)",
+    "textContent": "<span style='font-family: Merienda, cursive'> Pentru mine e prima dată când vin la Roșia Montană și mă bucur că am avut ocazia să fiu cazată aici. Camera cărților e minunată și locul e superb. Îmi voi aminti cu drag de acest loc și de oamenii pe care i-am întâlnit aici.</span>",
+    "images": [
+      {
+        "title": "Livia - Cluj Napoca(RO)",
+        "description": "din caietul nostru cu impresii.",
+        "thumbnailUrl": "img/reviews/reviewer/thumbnail/10.jpg",
+        "fullSizeUrl": "img/reviews/reviewer/fullSize/10.jpg"
       }
     ]
   }

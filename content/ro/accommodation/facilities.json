@@ -39,20 +39,32 @@
             {
               "title": "Geamantanele cu cărți",
               "description": "Cu aceste geamantane s-a mers în armată, s-au cărat borcane cu mâncare în studenție, iar acum găzduiesc cărți, viniluri și reviste Cinema.",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/booksPlaces.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/booksPlaces.jpg"
+              "thumbnailUrl": "img/accommodation/facilities/books/thumbnail/booksPlaces.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/books/fullSize/booksPlaces.jpg"
             },
             {
               "title": "Ușa cu cărți",
               "description": "Dacă îți place mirosul cărților când citești, atunci acest locșor improvizat, plin cu carți va fi pe placul tău.",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/doorBook.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/doorBook.jpg"
+              "thumbnailUrl": "img/accommodation/facilities/books/thumbnail/doorBook.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/books/fullSize/doorBook.jpg"
             },
             {
               "title": "Dulapul cu cărți",
               "description": "Nemaifolosind acest bufet, am decis să nu îl aruncăm, ci să îi găsim o altă întrebuințare. Având multe cărți, l-am transformat într-o bibliotecă unde găsișți chiar și cărți pentru copii.",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/booksCloset.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/booksCloset.jpg"
+              "thumbnailUrl": "img/accommodation/facilities/books/thumbnail/booksCloset.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/books/fullSize/booksCloset.jpg"
+            },
+            {
+              "title": "Scara cu cărți",
+              "description": ".",
+              "thumbnailUrl": "img/accommodation/facilities/books/thumbnail/booksLadder.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/books/fullSize/booksLadder.jpg"
+            },
+            {
+              "title": "Geamantanul rătăcit",
+              "description": "un mod de a călători.",
+              "thumbnailUrl": "img/accommodation/facilities/books/thumbnail/lostSuitcase.jpg",
+              "fullSizeUrl": "img/accommodation/facilities/books/fullSize/lostSuitcase.jpg"
             }
           ]
         }

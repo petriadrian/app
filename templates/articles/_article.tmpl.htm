@@ -1,4 +1,5 @@
 <article class="defaultArticle anchorParent">
+    <span id="{{article.id}}" class="anchor"></span>
     <header ng-if="!!article.title" class="articleTitle">
         <h3><span ng-bind-html="article.title | trustHtml"></span></h3>
     </header>
@@ -7,7 +8,8 @@
         <a ng-if="!!article.moreDetailsLink" ng-href="{{article.moreDetailsLink}}" class="btn-link" target="_blank">{{article.moreDetailsText}}</i></a>
     </section>
     <section ng-if="!!article.images">
-        <a rel="fancybox" ng-repeat="image in article.images" title="{{image.title}} - {{image.description}}" class="fancybox"
+        <a rel="fancybox" ng-repeat="image in article.images" title="{{image.title}} - {{image.description}}"
+           class="fancybox"
            ng-href="{{image.fullSizeUrl}}">
             <figure class="photoAlbum defaultClickStyle">
                 <img ng-src="{{image.thumbnailUrl | trustUrl}}" alt="{{image.title}}">
