@@ -270,19 +270,19 @@
           "images": [
             {
               "title": "'Upstairs' room",
-              "description": "If you want, the beds can be separated.",
+              "description": "If you want, the beds can be separated. The painting was made in 1950 and is very well preserved",
               "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/1.jpg"
             },
             {
-              "title": "'Upstairs' room",
-              "description": "the painting was made in 1950 and is verry well preserved",
+              "title": "'Upstairs' room - sitting and relaxing area",
+              "description": "on the hallway you can find a chic coffee table and many places with old books.",
               "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/2.jpg"
             },
             {
-              "title": "'Upstairs' room",
-              "description": "the bathroom access is made through the hallway where you can also find a chic coffee table and many places with old books.",
+              "title": "'Upstairs' room - bathroom",
+              "description": "the access is made through the hallway.",
               "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/3.jpg"
             }

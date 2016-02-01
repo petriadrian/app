@@ -31,6 +31,14 @@
     },
     {
       "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Many interesting and beautiful peoples had visited us. We had, and still have, a lot to learn from you and from them and how to adapt to yours/theirs needs. You can find the reviews in our reviews book at Casa Petri. We are waiting for you to look through it and to write also your review."
+        }
+      ]
+    },
+    {
+      "type": "articles",
       "commonArticles": [
         {
           "category": "reviews",
@@ -42,6 +50,9 @@
               "id": "2"
             },
             {
+              "id": "6"
+            },
+            {
               "id": "3"
             },
             {
@@ -49,6 +60,18 @@
             },
             {
               "id": "5"
+            },
+            {
+              "id": "7"
+            },
+            {
+              "id": "8"
+            },
+            {
+              "id": "9"
+            },
+            {
+              "id": "10"
             }
           ]
         }

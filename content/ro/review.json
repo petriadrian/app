@@ -31,6 +31,14 @@
     },
     {
       "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": " Mulți oameni faini ne-au trecut pragul de la care am avut multe de învățat. Impresiile sunt luate din caietul pentru review-uri al Casei Petri pe care îl găsiți prin camere. Vă așteptăm să îl răsfoiți și să ne lăsați și voi o impresie."
+        }
+      ]
+    },
+    {
+      "type": "articles",
       "commonArticles": [
         {
           "category": "reviews",
@@ -42,6 +50,9 @@
               "id": "2"
             },
             {
+              "id": "6"
+            },
+            {
               "id": "3"
             },
             {
@@ -49,6 +60,18 @@
             },
             {
               "id": "5"
+            },
+            {
+              "id": "7"
+            },
+            {
+              "id": "8"
+            },
+            {
+              "id": "9"
+            },
+            {
+              "id": "10"
             }
           ]
         }
@@ -97,7 +120,6 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> Vezi și",
-
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },

@@ -57,6 +57,10 @@
         {
           "timeInterval": "10000",
           "page": "/accommodation/camping"
+        },
+        {
+          "timeInterval": "10000",
+          "page": "/review"
         }
       ]
     },
