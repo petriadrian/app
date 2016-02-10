@@ -3,6 +3,7 @@
     "title": "HomePage",
     "headlineText": "Roșia Montană - the oldest locality from Transylvania",
     "description": "on this web site you'll find accommodation and trails along the touristic attractions",
+    "metaDescription": "An vintage accommodation in the historic center of Rosia Montana, up in the Transylvania's mountains. Here you'll also find hiking and biking trails to the main attractions from our area.",
     "headlineImg": "img/homePage/presentation.jpg",
     "showPageHeadline": false,
     "url": {
@@ -57,10 +58,6 @@
         {
           "timeInterval": "10000",
           "page": "/accommodation/camping"
-        },
-        {
-          "timeInterval": "10000",
-          "page": "/review"
         }
       ]
     },

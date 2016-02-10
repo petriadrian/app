@@ -1,13 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="appFunctionality" ng-controller="DefaultPageCtrl">
 <head>
     <title>Casa Petri Rosia Montana</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" lang="en"
-          content="An vintage accommodation in the historic center of Rosia Montana, up in the Transylvania's mountains. Here you'll also find hiking and biking trails to the main attractions from our area."/>
-    <meta name="description" lang="ro"
-          content="Un loc tradițional de cazare în centrul istoric din Roșia Montană - Munții Apuseni. Aici găsiți și trasee de drumetie si de bicicleta spre principalele atractii turistice."/>
+    <meta name="description" content="{{pageContent.presentation.metaDescription}}"/>
     <link rel="image_src" href="img/common/sitePresentationOnShare.jpg" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="img/common/favicon.ico"/>
@@ -26,7 +23,7 @@
 
 </head>
 
-<body ng-app="appFunctionality">
+<body>
 <!--[if lt IE 7]>
 <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
     your browser</a> to improve your experience.</p>

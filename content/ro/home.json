@@ -3,6 +3,7 @@
     "title": "Pagina Principală",
     "headlineText": "Încă te mai întrebi: 'De ce să vizitez Roșia Montană?'",
     "description": "pe acest site găsești cazare și trasee spre atracțiile turistice de aici",
+    "metaDescription": "Un loc tradițional de cazare în centrul istoric din Roșia Montană - Munții Apuseni. Aici găsiți și trasee de drumetie si de bicicleta spre principalele atractii turistice.",
     "headlineImg": "img/homePage/presentation.jpg",
     "showPageHeadline": false,
     "url": {
@@ -57,10 +58,6 @@
         {
           "timeInterval": "10000",
           "page": "/accommodation/camping"
-        },
-        {
-          "timeInterval": "10000",
-          "page": "/review"
         }
       ]
     },
