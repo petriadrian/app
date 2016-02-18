@@ -1,11 +1,14 @@
 <!DOCTYPE html>
-<html ng-app="appFunctionality" ng-controller="DefaultPageCtrl">
+<html ng-app="appFunctionality" ng-controller="metaDataController">
 <head>
-    <title>Casa Petri Rosia Montana</title>
+    <title ng-bind="'Casa Petri | ' + metaData.title"></title>
+    <meta name="description" content="{{metaData.description}}"/>
+    <link rel="image_src" ng-href="{{metaData.imgUrl}}" />
+    <meta property="og:title" content="'Casa Petri | ' + {{metaData.title}}" />
+    <meta property="og:description" content="{{metaData.description}}" />
+    <meta property="og:image" content="{{metaData.imgUrl}}" />
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="{{pageContent.presentation.metaDescription}}"/>
-    <link rel="image_src" href="img/common/sitePresentationOnShare.jpg" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="img/common/favicon.ico"/>
     <!-- CSS -->

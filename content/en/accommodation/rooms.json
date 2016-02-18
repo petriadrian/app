@@ -10,6 +10,11 @@
       "textOnMouseOver": "See the rooms...",
       "openInNewTab": false
     },
+    "metaData": {
+      "title": "Book a room",
+      "description": "AAn vintage accommodation in the historic center of Rosia Montana, up in the Transylvania's mountains. Here you'll also find hiking and biking trails to the main attractions from our area.",
+      "imgUrl": "img/common/sitePresentationOnShare.jpg"
+    },
     "carouselAdvertise": [
       {
         "img": "img/accommodation/rooms/carouselAdvertise/1.jpg"

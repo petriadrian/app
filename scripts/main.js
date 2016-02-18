@@ -106,6 +106,7 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
     var pageContentPath = 'content/' + localizationService.language + pageSuffix + '.json';
     $http.get(pageContentPath).success(function (pageContentResult) {
         $scope.pageContent = pageContentResult;
+        $rootScope.metaData = $scope.pageContent.presentation.metaData;
     });
     if ($location.hash()) {
         $timeout(function () {
@@ -128,6 +129,7 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
         var translatedContentPath = 'content/' + newLanguage + pageSuffix + '.json';
         $http.get(translatedContentPath).success(function (translatedContent) {
             $scope.pageContent = translatedContent;
+            $rootScope.metaData = $scope.pageContent.presentation.metaData;
         });
         console.log('language changed: page');
     };
@@ -211,6 +213,10 @@ app.controller('GetPagePresentationCtrl', function ($scope, $rootScope, $http, l
 
 app.controller('GetCategoryArticlesCtrl', function ($scope, $rootScope) {
     $scope.categoryArticles = $rootScope.getArticles($scope.categoryArticles.category, $scope.categoryArticles.ids);
+});
+
+app.controller('metaDataController', function ($scope, $rootScope) {
+    $rootScope.metaData = {}
 });
 
 /**
