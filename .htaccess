@@ -1,14 +1,6 @@
-<ifModule mod_rewrite.c>
  RewriteEngine On
 
 # allow social media crawlers to work by redirecting them to a server-rendered static version on the page
-RewriteCond %{HTTP_USER_AGENT} (facebookexternalhit/[0-9]|Twitterbot|Pinterest|Google.*snippet)
-RewriteRule #/(.+) http://www.casapetrirosiamontana.ro/crawlersPageGenerator.php?pageUrl=$1 [QSA]
 
-# Required to allow direct-linking of pages so they can be processed by Angular
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_URI} !index
-RewriteRule (.*) index.html [L]
+RewriteRule (.*) scripts/crawlersPageGenerator.php?pageUrl=$1
 
-</ifModule>

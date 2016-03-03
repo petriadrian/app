@@ -60,8 +60,8 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http, localiza
  * Configure the Routes
  */
 app.config(['$routeProvider', '$locationProvider', function ($routeProvider, $locationProvider) {
-    $locationProvider.html5Mode(true);
-    $locationProvider.hashPrefix('!');
+    //$locationProvider.html5Mode(true);
+    //$locationProvider.hashPrefix('!');
     $routeProvider
         // Home
         .when("/", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})

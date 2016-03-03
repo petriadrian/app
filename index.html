@@ -1,13 +1,9 @@
 <!DOCTYPE html>
 <html ng-app="appFunctionality" ng-controller="metaDataController">
 <head>
-    <title ng-bind="'Casa Petri | ' + metaData.title"></title>
+    <title ng-bind="'indexHTML | ' + metaData.title"></title>
     <meta name="description" content="{{metaData.description}}"/>
     <link rel="image_src" ng-href="{{metaData.imgUrl}}" />
-    <meta property="og:title"       content="'Casa Petri | ' + {{metaData.title}}" />
-    <meta property="og:type"        content="article" />
-    <meta property="og:description" content="{{metaData.description}}" />
-    <meta property="og:image"       content="{{metaData.imgUrl}}" />
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -24,8 +20,8 @@
           href="http://fonts.googleapis.com/css?family=Merienda|Open+Sans&subset=latin,latin-ext">
     <link href="css/daterangepicker.css" rel="stylesheet">
     <link type="text/css" rel="stylesheet" href="css/casaPetri.css">
-    <base href="/app/">
-    <meta name="fragment" content="!">
+    <!--<base href="/app/">-->
+    <!--<meta name="fragment" content="!">-->
 
 </head>
 
