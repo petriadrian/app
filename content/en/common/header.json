@@ -12,7 +12,7 @@
     {
       "text": "<i class='fa fa-lg fa-map-signs'></i> hike",
       "url": {
-        "link": "#/activities/hiking",
+        "link": "activities/hiking",
         "textOnMouseOver": "hiking trails",
         "openInNewTab": false
       }
