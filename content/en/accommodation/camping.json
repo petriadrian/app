@@ -100,6 +100,7 @@
         {
           "type": "selectBox",
           "name": "seats",
+          "required": true,
           "iconFortAwesomeClass": "fa fa-bed fa-fw",
           "placeholder": "Seats and price",
           "selectOptions": [

@@ -281,14 +281,15 @@ app.directive('sectionForm', function ($timeout) {
                scope.formObj.title = scope.section.title;
                $.ajax({
                    type: 'POST',
-                   url: 'scripts/send_mail.php',
+                   url: '/scripts/send_mail.php',
                    data: scope.formObj,
                    dataType: 'json',
                    success: function (data){
+                       debugger;
                        for (var field in scope.formObj) {
                            scope.formObj[field] = '';
                        }
-                       if(data.success == true) {
+                       if(data) {
                            //success
                            console.log("sauces", data);
                            scope.showResponse = true;

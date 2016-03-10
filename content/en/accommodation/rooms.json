@@ -111,6 +111,7 @@
         {
           "type": "selectBox",
           "name": "seats",
+          "required": true,
           "iconFortAwesomeClass": "fa fa-bed fa-fw",
           "placeholder": "Seats and price",
           "selectOptions": [
@@ -222,6 +223,7 @@
         {
           "type": "selectBox",
           "name": "seats",
+          "required": true,
           "iconFortAwesomeClass": "fa fa-bed fa-fw",
           "placeholder": "Seats and price",
           "selectOptions": [
@@ -330,6 +332,7 @@
           "name": "seats",
           "iconFortAwesomeClass": "fa fa-bed fa-fw",
           "placeholder": "Seats and price",
+          "required": true,
           "selectOptions": [
             {
               "text": "2 seats - 29€ /night"

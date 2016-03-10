@@ -1,12 +1,13 @@
 <?php
-    error_reporting(0);
+error_reporting(-1);
+ini_set('display_errors', 'On');
+set_error_handler("var_dump");
     include('/home/hdeldkaw/php/Mail.php');
-    use \stdClass;
 
-    $recipients = 'petriadrian@gmail.com';
+    $recipients = 'petriadrian@gmail.com,petri_adrian@yahoo.com';
 
-    $headers['From'] = 'casaPetriWebSite@casapetrirosiamontana.ro';
-    $headers['To'] = 'petriadrian@gmail.com';
+    $headers['From'] = 'casapetriwebsite@casapetrirosiamontana.ro';
+    $headers['To'] = 'petri_adrian@yahoo.com';
     $headers['Subject'] = 'Casa Petri';
     $headers['MIME-Version'] = '1.0';
     $headers['Content-Type'] = 'text/html; charset=ISO-8859-1';
@@ -20,11 +21,4 @@
 
     $result = $mail->send($recipients, $headers, $body);
 
-    $ret = new stdClass();
-    if($result) {
-        $ret->success = true;
-    }
-    else {
-        $ret->success = false;
-    }
-    echo json_encode($ret);
+    echo json_encode($result);

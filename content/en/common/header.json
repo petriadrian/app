@@ -20,7 +20,7 @@
     {
       "text": "<i class='fa fa-lg fa-bicycle'></i> ride",
       "url": {
-        "link": "activities/cycling",
+        "link": "#/activities/cycling",
         "textOnMouseOver": "cycling trails",
         "openInNewTab": false
       }
@@ -28,7 +28,7 @@
     {
       "text": "<i class='fa fa-lg fa-book'></i> read",
       "url": {
-        "link": "accommodation/facilities",
+        "link": "#/accommodation/facilities",
         "textOnMouseOver": "read & relax",
         "openInNewTab": false
       }
