@@ -6,7 +6,7 @@
     "headlineImg": "img/activities/hiking/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/activities/hiking",
+      "link": "activities/hiking",
       "textOnMouseOver": "See the hiking trails...",
       "openInNewTab": false
     },

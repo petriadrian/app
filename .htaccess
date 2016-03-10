@@ -1,6 +1,17 @@
- RewriteEngine On
+<VirtualHost *:80>
+    ServerName my-app
 
-# allow social media crawlers to work by redirecting them to a server-rendered static version on the page
+    DocumentRoot /path/to/app
 
-RewriteRule (.*) scripts/crawlersPageGenerator.php?pageUrl=$1
+    <Directory /path/to/app>
+        RewriteEngine on
 
+        # Don't rewrite files or directories
+        RewriteCond %{REQUEST_FILENAME} -f [OR]
+        RewriteCond %{REQUEST_FILENAME} -d
+        RewriteRule ^ - [L]
+
+        # Rewrite everything else to index.html to allow html5 state links
+        RewriteRule ^ index.html [L]
+    </Directory>
+</VirtualHost>

@@ -18,8 +18,9 @@ makePage($jsonData, $SITE_ROOT);
 
 function getData($siteRoot)
 {
-    echo $_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF'];
-    $pageUrl = isset($_GET['pageUrl']) ? $_GET['pageUrl'] : 'home';
+//    echo $_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF'];
+    echo $_GET['pageUrl'];
+    $pageUrl =  'home';
     $rawData = file_get_contents($siteRoot . 'content/en/' . $pageUrl . '.json');
     return json_decode($rawData);
 }

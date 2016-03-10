@@ -15,6 +15,7 @@ var app = angular.module('appFunctionality', ['ngRoute', 'ngAnimate', 'ui.bootst
 app.run(function ($rootScope, $window, $anchorScroll, $location, $http, localizationService) {
     //set a function for opening any url in new or same tab
     $rootScope.openUrl = function (url) {
+        debugger;
         if (typeof(url.openInNewTab) !== 'undefined' && url.openInNewTab) {
             $window.open(url.link, '_blank');
         } else {
@@ -60,8 +61,8 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http, localiza
  * Configure the Routes
  */
 app.config(['$routeProvider', '$locationProvider', function ($routeProvider, $locationProvider) {
-    //$locationProvider.html5Mode(true);
     //$locationProvider.hashPrefix('!');
+    $locationProvider.html5Mode(true);
     $routeProvider
         // Home
         .when("/", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})

@@ -10,6 +10,7 @@
     <section ng-if="!!article.images">
         <a rel="fancybox" ng-repeat="image in article.images" title="{{image.title}} - {{image.description}}"
            class="fancybox"
+           target="_self"
            ng-href="{{image.fullSizeUrl}}">
             <figure class="photoAlbum defaultClickStyle">
                 <img ng-src="{{image.thumbnailUrl | trustUrl}}" alt="{{image.title}}">
