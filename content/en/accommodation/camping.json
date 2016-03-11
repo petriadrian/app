@@ -6,7 +6,7 @@
     "headlineImg": "img/accommodation/camping/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/accommodation/camping",
+      "link": "accommodation/camping",
       "textOnMouseOver": "See the camping spots...",
       "openInNewTab": false
     },

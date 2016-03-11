@@ -6,7 +6,7 @@
     "headlineImg": "img/activities/trails/geamana/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/activities/trails/geamana",
+      "link": "activities/trails/geamana",
       "textOnMouseOver": "Vezi traseul spre Geamana",
       "openInNewTab": false
     },

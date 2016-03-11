@@ -6,7 +6,7 @@
     "headlineImg": "img/activities/trails/romanGalleries/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/activities/trails/romanGalleries",
+      "link": "activities/trails/romanGalleries",
       "textOnMouseOver": "See the Orlea trail...",
       "openInNewTab": false
     },

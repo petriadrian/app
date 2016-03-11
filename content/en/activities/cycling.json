@@ -7,7 +7,7 @@
     "showPageHeadline": true,
     "url": {
       "textOnMouseOver": "See biking trails...",
-      "link": "#/activities/cycling",
+      "link": "activities/cycling",
       "openInNewTab": false
     },
     "carouselAdvertise": [

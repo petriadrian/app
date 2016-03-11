@@ -6,7 +6,7 @@
     "headlineImg": "img/activities/trails/vulcan/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/activities/trails/vulcan",
+      "link": "activities/trails/vulcan",
       "textOnMouseOver": "Vezi traseul spre Vulcan",
       "openInNewTab": false
     },

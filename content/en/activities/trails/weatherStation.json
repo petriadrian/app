@@ -6,7 +6,7 @@
     "headlineImg": "img/activities/trails/weatherStation/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/activities/trails/weatherStation",
+      "link": "activities/trails/weatherStation",
       "textOnMouseOver": "See the trail...",
       "openInNewTab": false
     },

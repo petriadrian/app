@@ -6,7 +6,7 @@
     "headlineImg": "img/activities/trails/fourLakes/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/activities/trails/fourLakes",
+      "link": "activities/trails/fourLakes",
       "textOnMouseOver": "Vezi traseul celor 4 lacuri",
       "openInNewTab": false
     },

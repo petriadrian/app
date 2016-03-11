@@ -6,7 +6,7 @@
     "headlineImg": "img/accommodation/rooms/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/accommodation/rooms",
+      "link": "accommodation/rooms",
       "textOnMouseOver": "See the rooms...",
       "openInNewTab": false
     },

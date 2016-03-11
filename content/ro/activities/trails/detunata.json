@@ -6,7 +6,7 @@
     "headlineImg": "img/activities/trails/detunata/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/activities/trails/detunata",
+      "link": "activities/trails/detunata",
       "textOnMouseOver": "Vezi traseul spre Detunata",
       "openInNewTab": false
     },

@@ -6,7 +6,7 @@
     "headlineImg": "img/activities/trails/letySulei/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/activities/trails/letySulei",
+      "link": "activities/trails/letySulei",
       "textOnMouseOver": "Vezi traseul spre vârfurile Lety și Șulei",
       "openInNewTab": false
     },

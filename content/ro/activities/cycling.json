@@ -7,7 +7,7 @@
     "showPageHeadline": true,
     "url": {
       "textOnMouseOver": "Vezi traseele de bicicletă",
-      "link": "#/activities/cycling",
+      "link": "activities/cycling",
       "openInNewTab": false
     },
     "carouselAdvertise": [

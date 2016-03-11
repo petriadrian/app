@@ -6,7 +6,7 @@
     "headlineImg": "img/activities/trails/scarisoara/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/activities/trails/scarisoara",
+      "link": "activities/trails/scarisoara",
       "textOnMouseOver": "Vezi traseul spre Scărișoara",
       "openInNewTab": false
     },

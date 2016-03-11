@@ -7,7 +7,7 @@
     "headlineImg": "img/homePage/presentation.jpg",
     "showPageHeadline": false,
     "url": {
-      "link": "#/",
+      "link": "",
       "textOnMouseOver": "homepage",
       "openInNewTab": false
     }

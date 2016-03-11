@@ -6,7 +6,7 @@
     "headlineImg": "img/activities/trails/rollerCoaster/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/activities/trails/rollerCoaster",
+      "link": "activities/trails/rollerCoaster",
       "textOnMouseOver": "Vezi traseul roller coaster",
       "openInNewTab": false
     },
