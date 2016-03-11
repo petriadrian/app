@@ -1,7 +1,8 @@
 <?php
-error_reporting(-1);
-ini_set('display_errors', 'On');
-set_error_handler("var_dump");
+    error_reporting(-1);
+    ini_set('display_errors', 'On');
+    set_error_handler("var_dump");
+
     include('/home/hdeldkaw/php/Mail.php');
 
     $recipients = 'petriadrian@gmail.com,petri_adrian@yahoo.com';

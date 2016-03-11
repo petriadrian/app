@@ -136,6 +136,12 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
         });
         console.log('language changed: page');
     };
+    $scope.$on('$locationChangeStart',
+        function (event, next, current) {
+            if (next.indexOf('img/') > 0) {
+                event.preventDefault();
+            }
+        });
 });
 
 app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, $location, localizationService) {
