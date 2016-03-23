@@ -6,7 +6,7 @@
     "headlineImg": "img/activities/trails/romanGalleries/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/activities/trails/romanGalleries",
+      "link": "activities/trails/romanGalleries",
       "textOnMouseOver": "Vezi traseul spre Galeriile Romane",
       "openInNewTab": false
     },

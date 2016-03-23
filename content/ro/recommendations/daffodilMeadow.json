@@ -6,7 +6,7 @@
     "headlineImg": "img/recommendations/daffodilMeadow/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/recommendations/daffodilMeadow",
+      "link": "recommendations/daffodilMeadow",
       "textOnMouseOver": "Vezi mai multe detalii",
       "openInNewTab": false
     },

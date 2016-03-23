@@ -6,7 +6,7 @@
     "headlineImg": "img/activities/trails/historicalCenter/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/activities/trails/historicalCenter",
+      "link": "activities/trails/historicalCenter",
       "textOnMouseOver": "See the historical center trail...",
       "openInNewTab": false
     },

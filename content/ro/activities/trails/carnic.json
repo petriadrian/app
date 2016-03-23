@@ -6,7 +6,7 @@
     "headlineImg": "img/activities/trails/carnic/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/activities/trails/carnic",
+      "link": "activities/trails/carnic",
       "textOnMouseOver": "Vezi traseul Muntelui Cârnic",
       "openInNewTab": false
     },

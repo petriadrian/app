@@ -6,7 +6,7 @@
     "headlineImg": "img/activities/trails/topAttractions/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/activities/trails/topAttractions",
+      "link": "activities/trails/topAttractions",
       "textOnMouseOver": "See more details...",
       "openInNewTab": false
     },

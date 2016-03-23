@@ -6,7 +6,7 @@
     "headlineImg": "img/activities/trails/letySulei/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/activities/trails/letySulei",
+      "link": "activities/trails/letySulei",
       "textOnMouseOver": "See the Lety and Șulei trail...",
       "openInNewTab": false
     },

@@ -6,7 +6,7 @@
     "headlineImg": "img/recommendations/steamTrain/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/recommendations/steamTrain",
+      "link": "recommendations/steamTrain",
       "textOnMouseOver": "Vezi mai multe detalii",
       "openInNewTab": false
     },

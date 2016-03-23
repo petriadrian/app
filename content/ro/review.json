@@ -6,7 +6,7 @@
     "headlineImg": "img/reviews/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/review",
+      "link": "review",
       "textOnMouseOver": "Vezi mai multe imagini și review-uri de la cei care ne-au vizitat",
       "openInNewTab": false
     },

@@ -6,7 +6,7 @@
     "headlineImg": "img/activities/hiking/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/activities/hiking",
+      "link": "activities/hiking",
       "textOnMouseOver": "Vezi traseele de drumeție",
       "openInNewTab": false
     },

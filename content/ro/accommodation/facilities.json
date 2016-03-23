@@ -6,7 +6,7 @@
     "headlineImg": "img/accommodation/facilities/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/accommodation/facilities",
+      "link": "accommodation/facilities",
       "textOnMouseOver": "Vezi mai mult...",
       "openInNewTab": false
     },

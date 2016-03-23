@@ -6,7 +6,7 @@
     "headlineImg": "img/activities/trails/zlatnaPool/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "#/activities/trails/zlatnaPool",
+      "link": "activities/trails/zlatnaPool",
       "textOnMouseOver": "Vezi traseul spre Ștrandul Zlatna",
       "openInNewTab": false
     },
