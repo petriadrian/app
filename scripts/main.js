@@ -19,7 +19,8 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http, localiza
         if (typeof(url.openInNewTab) !== 'undefined' && url.openInNewTab) {
             $window.open(url.link, '_blank');
         } else {
-            $window.open(url.link, '_self');
+            $window.location.href = url.link;
+            //$window.open(url.link, '_self');
         }
     };
     $rootScope.scrollTo = function (id) {

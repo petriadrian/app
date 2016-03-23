@@ -10,6 +10,11 @@
       "textOnMouseOver": "See the camping spots...",
       "openInNewTab": false
     },
+    "metaData": {
+      "title": "Book camping",
+      "description": "camping camp",
+      "imgUrl": "img/common/sitePresentationOnShare.jpg"
+    },
     "carouselAdvertise": [
       {
         "img": "img/accommodation/camping/carouselAdvertise/1.jpg"
