@@ -38,7 +38,7 @@
           "moreDetailsText": "Datele GPS și traseul îl puteți găsi și pe gpsies.com. Detalii aici...",
           "moreDetailsLink": "http://www.gpsies.com/map.do?fileId=angfatdqfdrtdpsu",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Berg, DC146, Roșia Montană, Alba County, Romania | Tăul Țarinii, Rosia Montana, Alba County, Romania| Vârful Rotundu 1240m, Rosia Montana, Alba County, Romania | Tăul Mare, Rosia Montana, Alba County, Romania | Casa Szekey Acos, DC117, Roșia Montană, Alba County, Romania | Galeria Văidoaia, Rosia Montana, Alba County, Romania",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Berg, DC146, Roșia Montană, Alba County, Romania | Tăul Țarinii, Rosia Montana, Alba County, Romania| Vârful Rotundu 1240m, Rosia Montana, Alba County, Romania | Tăul Mare, Rosia Montana, Alba County, Romania | Casa Szekey Acos, DC117, Roșia Montană, Alba County, Romania | Jig-Vaidoaia, Rosia Montana, Alba County, Romania",
             "list": [
               {
                 "textOnMouseOver": "lungime dus-întors",
