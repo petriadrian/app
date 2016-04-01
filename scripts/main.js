@@ -296,17 +296,16 @@ app.directive('sectionForm', function ($timeout) {
                        for (var field in scope.formObj) {
                            scope.formObj[field] = '';
                        }
-                       if(data) {
+                       if(data.status == "success") {
                            //success
-                           console.log("success", data);
                            console.log("success", JSON.stringify(data));
                            scope.showResponse = true;
                            scope.responseMessage = scope.section.successMessage;
                            scope.messageType = 'success';
                        }
                        else {
-                           console.log("fail", data);
-                           console.log("success", JSON.stringify(data));
+                           // error
+                           console.log("error", JSON.stringify(data));
                            scope.showResponse = true;
                            scope.responseMessage = scope.section.errorMessage || "ERROR";
                            scope.messageType = 'error';
