@@ -28,7 +28,7 @@
     {
       "text": "<i class='fa fa-lg fa-book'></i> read",
       "url": {
-        "link": "accommodation/facilities",
+        "link": "accommodation/booksAndCosy",
         "textOnMouseOver": "read & relax",
         "openInNewTab": false
       }

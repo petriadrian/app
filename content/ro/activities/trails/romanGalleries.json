@@ -36,7 +36,7 @@
         {
           "textContent": "Traseul ne va purta spre celebrele galerii romane de la Muzeul Mineritului. Drumul de la Casa Petri până la Muzeu este asfaltat, iar partea a 2-a traseului, spre biserica Greco Catolică și sculpturi se face pe drum de țară.",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Galeriile Romane, Roșia Montană, Alba County, Romania | Biserica Adormirea Maicii Domnului, Strada Principală 175, Roșia Montană 517615 | Biserica Greco-Catolică Adormirea Maicii Domnului, Roșia Montană | Sculpturi Calcar, DC147, Roșia Montană 517615",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJmREpqBvNTkcR0-GMtovthj8|place_id:ChIJLRYf_xrNTkcRVs2TeQDpAj4|place_id:ChIJ-0OGVhDNTkcRThLcLvAEoLQ|place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw",
             "list": [
               {
                 "textOnMouseOver": "lungime dus-întors",

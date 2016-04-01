@@ -37,7 +37,7 @@
           "moreDetailsLink": "http://www.gpsies.com/map.do?fileId=esbtvmiyuytvzprs",
           "moreDetailsText": "Datele GPS și traseul le găsiți și aici...",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Casa Parohială Unitariană, DC117, Roșia Montană, Alba County, Romania | Casa Heneș, DC117, Roșia Montană, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Tăul Anghel, Rosia Montana, Alba County, Romania | Platoul Cârnic, Rosia Montana, Alba County, Romania | Piatra Corbului, Rosia Montana, Alba County, Romania",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJYfZ-m-DMTkcRiccAioKsyvo|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q|place_id:ChIJvc6yG-TMTkcRwUw0D4ybV38|place_id:ChIJ3xPsYeXMTkcR-i2Sq02cmlM",
             "list": [
               {
                 "textOnMouseOver": "lungime dus-întors",

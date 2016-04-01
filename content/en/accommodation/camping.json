@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Camping",
     "headlineText": "My tent beside the mountains... is my home",
-    "description": "Looking for safe camping, facilities access and a nice view to the mountain? <b>Book a camping place</b> in our yard.",
+    "description": "Safe camping with mountain view and bathroom or kitchen access. <b>Book a camping place</b> in our yard.",
     "headlineImg": "img/accommodation/camping/presentation.jpg",
     "showPageHeadline": true,
     "url": {
@@ -11,9 +11,9 @@
       "openInNewTab": false
     },
     "metaData": {
-      "title": "Book camping",
-      "description": "camping camp",
-      "imgUrl": "img/common/sitePresentationOnShare.jpg"
+      "title": "Camping at Rosia Montana. Bookings",
+      "description": "Safe camping with mountain view and bathroom or kitchen access. Backpack your stuff and discover Rosia Montana (mining industry, roman galleries, mountains, lakes, historical buildings). You will find here hiking or cycling trails, guides and bikes for rent",
+      "imgUrl": "img/accommodation/camping/displayOnShare.jpg"
     },
     "carouselAdvertise": [
       {
@@ -175,7 +175,7 @@
     {
       "type": "advertise",
       "banner": {
-        "page": "/accommodation/facilities"
+        "page": "/accommodation/booksAndCosy"
       }
     },
     {

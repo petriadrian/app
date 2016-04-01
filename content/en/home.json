@@ -2,18 +2,18 @@
   "presentation": {
     "title": "HomePage",
     "headlineText": "Roșia Montană - the oldest locality from Transylvania",
-    "description": "On this web site you'll find accommodation and trails along the touristic attractions",
+    "description": "Here you'll find accommodation and trails along the touristic attractions",
     "headlineImg": "img/homePage/presentation.jpg",
     "showPageHeadline": false,
     "url": {
-      "link": "",
+      "link": "/",
       "textOnMouseOver": "homepage",
       "openInNewTab": false
     },
     "metaData": {
-      "title": "Accommodation + hiking and cycling trails in the area",
-      "description": "An vintage accommodation in the historic center of Rosia Montana, up in the Transylvania's mountains. Here you'll also find hiking and biking trails to the main attractions from our area.",
-      "imgUrl": "img/common/sitePresentationOnShare.jpg"
+      "title": "Casa Petri Rosia Montana",
+      "description": "Accommodation in an old miner's house from the historical center of Rosia Montana, up in the Transylvania's mountains. Discover the roman galleries, mining industry, mountains, lakes or the historical buildings from our area by the hiking or cycling trails from this website. Rent guides and bikes.",
+      "imgUrl": "img/homePage/displayOnShare.jpg"
     }
   },
   "sections": [
@@ -68,7 +68,7 @@
     {
       "type": "advertise",
       "banner": {
-        "page": "/accommodation/facilities"
+        "page": "/accommodation/booksAndCosy"
       }
     },
     {

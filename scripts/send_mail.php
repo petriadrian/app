@@ -1,11 +1,7 @@
 <?php
-    error_reporting(-1);
-    ini_set('display_errors', 'On');
-    set_error_handler("var_dump");
-
     include('/home/hdeldkaw/php/Mail.php');
 
-    $recipients = 'petriadrian@gmail.com,petri_adrian@yahoo.com';
+    $recipients = ' petri_adrian@yahoo.com';
 
     $headers['From'] = 'casapetriwebsite@casapetrirosiamontana.ro';
     $headers['To'] = 'petri_adrian@yahoo.com';
@@ -22,4 +18,7 @@
 
     $result = $mail->send($recipients, $headers, $body);
 
-    echo json_encode($result);
+if (PEAR::isError($mail)) {
+    echo $_GET['callback'] .json_encode($mail->getMessage()) . "\n" . json_encode($mail->getUserInfo());
+}
+

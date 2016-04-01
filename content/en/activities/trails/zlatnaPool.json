@@ -35,7 +35,7 @@
           "moreDetailsText": "Mai multe detalii despre bazin și ce mai puteți vizita în Zltana găsiți aici",
           "moreDetailsLink": "http://viziteazazlatna.ro/blog/locatii-agrement/zlatna-sport-center-2/#!prettyPhoto",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJ_QzUS1O4TkcR3bMlNuiXfbU&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints= Gura Roșiei, Alba County, Romania | Castel Zlatna",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJ_QzUS1O4TkcR3bMlNuiXfbU&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJjSih12DITkcRIS4ADNOMR1s",
             "list": [
               {
                 "textOnMouseOver": "durată cu bicicleta dus-întors",

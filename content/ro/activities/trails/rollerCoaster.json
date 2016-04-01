@@ -38,7 +38,7 @@
           "moreDetailsText": "",
           "moreDetailsLink": "",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints= Tăul Mare, Rosia Montana, Alba County, Romania | Helești, Alba County, Romania | Corna, Alba County, Romania | Gura Cornei, Alba County, Romania | Strada Mărășești, Abrud, Alba County, Romania | Biserica Romano-Catolică, Piața Cuza Vodă, Abrud, Alba County, Romania | Tăul Țapului, Rosia Montana, Alba County, Romania",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJc1wCQWDMTkcR4k7C7fXZvWE|place_id:ChIJKYpFTlfMTkcRe8HEyvHBE70|place_id:ChIJB5Fu9y3MTkcRnQ6Q90AjcSI|place_id:ChIJkSGcmcLNTkcRffVcUbhpnfY|place_id:ChIJd5zxAenNTkcRaPviE9EZQ9o|place_id:ChIJMcYyfAfNTkcRMZeC6fyMAIo",
             "list": [
               {
                 "textOnMouseOver": "lungime dus-întors",

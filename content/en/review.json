@@ -10,6 +10,11 @@
       "textOnMouseOver": "See more images and reviews...",
       "openInNewTab": false
     },
+    "metaData": {
+      "title": "Casa Petri Rosia Montana",
+      "description": "See the experiences and reviews from people who visited us. Discover Rosia Montana (mining industry, roman galleries, mountains, lakes or the historical buildings through the hiking or cycling trails from our website.",
+      "imgUrl": "img/reviews/displayOnShare.jpg"
+    },
     "carouselAdvertise": [
       {
         "img": "img/reviews/carouselAdvertise/1.jpg"

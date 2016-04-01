@@ -38,7 +38,7 @@
           "moreDetailsText": "Aici gasiți același traseu și pe bikemap.net...",
           "moreDetailsLink": "http://www.bikemap.net/en/route/2757824-circuit-tauri-rosia-montana/#/z14/46.30656,23.14124/terrain",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=Tăul Țarinii, Rosia Montana, Alba County, Romania| Staţie meteo, Rosia Montana, Alba County, Romania | Vârful Rotundu 1240m, Rosia Montana, Alba County, Romania | Tăul Mare, Rosia Montana, Alba County, Romania | Masivul Şulei, Rosia Montana, Alba County, Romania | Tăul Corna,comuna Rosia Montana, Alba County, Romania | Tăul Brazi, Rosia Montana, Alba County, Romania | Tăul Anghel, Rosia Montana, Alba County, Romania | Jig-Vaidoaia, Rosia Montana, Alba County, Romania",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo|place_id:ChIJi1rDktfMTkcRD_0U6qTLpqg|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs|place_id:ChIJnTJOLfDMTkcR6Bj-a0LHYdg|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q| Jig-Vaidoaia, Rosia Montana, Alba County, Romania",
             "list": [
               {
                 "textOnMouseOver": "lungime dus-întors",

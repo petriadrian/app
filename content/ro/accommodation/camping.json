@@ -2,13 +2,18 @@
   "presentation": {
     "title": "Campare",
     "headlineText": "Am adormit sub stele, era munte, liniște, răcoare...",
-    "description": "Campare în siguranță, cu accees la facilități și priveliște spre munte? <b>Rezervă un loc de campare</b> în curtea casei.",
+    "description": "Campare în siguranță cu priveliște spre munte și accees la baie/bucătărie. <b>Rezervă un loc de campare</b> în curtea casei.",
     "headlineImg": "img/accommodation/camping/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "accommodation/camping",
       "textOnMouseOver": "Vezi locurile de campare",
       "openInNewTab": false
+    },
+    "metaData": {
+      "title": "Campare la Roșia Montană. Rezervări",
+      "description": "Locuri de campare în siguranță cu priveliște spre munte și acces la baie sau bucătărie. Descoperă Roșia Montană (galeriile romane, industria minieră, centrul vechi, munți, lacuri...) Aici găsești trasee de drumeție sau bicicletă, ghizi și biciclete de închiriat.",
+      "imgUrl": "img/accommodation/camping/displayOnShare.jpg"
     },
     "carouselAdvertise": [
       {
@@ -170,7 +175,7 @@
     {
       "type": "advertise",
       "banner": {
-        "page": "/accommodation/facilities"
+        "page": "/accommodation/booksAndCosy"
       }
     },
     {

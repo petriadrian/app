@@ -70,7 +70,7 @@ app.config(['$routeProvider', '$locationProvider', function ($routeProvider, $lo
         //// Pages
         .when("/review", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
 
-        .when("/accommodation/facilities", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+        .when("/accommodation/booksAndCosy", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
         .when("/accommodation/camping", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
         .when("/accommodation/rooms", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
 
@@ -110,7 +110,7 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
     var pageContentPath = 'content/' + localizationService.language + pageSuffix + '.json';
     $http.get(pageContentPath).success(function (pageContentResult) {
         $scope.pageContent = pageContentResult;
-        $rootScope.metaData = $scope.pageContent.presentation.metaData;
+        $rootScope.pagePresentation = $scope.pageContent.presentation;
     });
     if ($location.hash()) {
         $timeout(function () {
@@ -298,13 +298,15 @@ app.directive('sectionForm', function ($timeout) {
                        }
                        if(data) {
                            //success
-                           console.log("sauces", data);
+                           console.log("success", data);
+                           console.log("success", JSON.stringify(data));
                            scope.showResponse = true;
                            scope.responseMessage = scope.section.successMessage;
                            scope.messageType = 'success';
                        }
                        else {
                            console.log("fail", data);
+                           console.log("success", JSON.stringify(data));
                            scope.showResponse = true;
                            scope.responseMessage = scope.section.errorMessage || "ERROR";
                            scope.messageType = 'error';

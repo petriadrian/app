@@ -32,7 +32,7 @@
           "moreDetailsText": "",
           "moreDetailsLink": "",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJzU_RaFLQTkcRJzSmd-Hq-ek&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints= Gura Roșiei, Alba County, Romania",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJzU_RaFLQTkcRJzSmd-Hq-ek&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs",
             "list": [
               {
                 "textOnMouseOver": "lungime dus-întors",

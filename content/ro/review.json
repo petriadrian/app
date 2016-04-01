@@ -10,6 +10,11 @@
       "textOnMouseOver": "Vezi mai multe imagini și review-uri de la cei care ne-au vizitat",
       "openInNewTab": false
     },
+    "metaData": {
+      "title": "Casa Petri Rosia Montana",
+      "description": "Vezi experiențele și impresiile celor care ne-au vizitat. Descoperă și tu Roșia Montană: galeriile romane, industria minieră, clădirile de patrimoniu, lacurile și munții din zonă prin traseele de drumeție sau bicicletă propuse pe site.",
+      "imgUrl": "img/reviews/displayOnShare.jpg"
+    },
     "carouselAdvertise": [
       {
         "img": "img/reviews/carouselAdvertise/1.jpg"

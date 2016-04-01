@@ -2,13 +2,18 @@
   "presentation": {
     "title": "Camere",
     "headlineText": "O cafea într-o dimineață la Roșia Montană?",
-    "description": "Casa este o clădire de patrimoniu deschisă acum ca spațiu de cazare. Vezi aici cum arată interiorul și <b>rezervă o cameră</b>.",
+    "description": "Vezi interiorul aceastei vechi case de mineri din centrul istoric Roșia Montană. Aici se pot face <b>rezervări camere</b>.",
     "headlineImg": "img/accommodation/rooms/presentation.jpg",
     "showPageHeadline": true,
     "url": {
       "link": "accommodation/rooms",
       "textOnMouseOver": "Vezi locurile de cazare",
       "openInNewTab": false
+    },
+    "metaData": {
+      "title": "Cazare la Rosia Montana. Rezervări",
+      "description": "Vezi camerele din această veche casă de mineri din centrul istoric. Descoperă Roșia Montană (galeriile romane, industria minieră, centrul vechi, munți, lacuri...) Aici găsești trasee de drumeție sau bicicletă, ghizi și biciclete de închiriat.",
+      "imgUrl": "img/accommodation/rooms/displayOnShare.jpg"
     },
     "carouselAdvertise": [
       {
@@ -369,7 +374,7 @@
     {
       "type": "advertise",
       "banner": {
-        "page": "/accommodation/facilities"
+        "page": "/accommodation/booksAndCosy"
       }
     },
     {

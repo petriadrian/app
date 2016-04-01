@@ -33,7 +33,7 @@
         {
           "textContent": "Pornim de la Casa Petri și o luăm spre capitala Țării Moților - orașul Câmpeni. Ținem de aici drumul de pe malul râului Arieș unde ne mai putem opri pentru a ne revigora cu apă rece de munte sau să luăm masa pe la vreo pensiune. Trecem de Albac și ajungem în Gârda unde facem dreapta. De aici drumul asfaltat se îngustează și devine parcă și mai frumus întrucât urcăm pe munte până la Ghețar.",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJX0JNIW_RSEcR1vLt5txsNTw&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints= Gura Roșiei, Alba County, Romania | Câmpeni, Alba County, Romania ",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJX0JNIW_RSEcR1vLt5txsNTw&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJR3EQGOAsSUcR5LmrbHY10WY",
             "list": [
               {
                 "textOnMouseOver": "lungime dus-întors",

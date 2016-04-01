@@ -3,22 +3,27 @@
     "title": "Relax",
     "headlineText": "Books and cozy spots for reading or relaxing",
     "description": "After hiking or biking, relax by reading a book in the hammock. See our books and cozy places.",
-    "headlineImg": "img/accommodation/facilities/presentation.jpg",
+    "headlineImg": "img/accommodation/booksAndCosy/presentation.jpg",
     "showPageHeadline": true,
     "url": {
-      "link": "accommodation/facilities",
+      "link": "accommodation/booksAndCosy",
       "textOnMouseOver": "See more...",
       "openInNewTab": false
     },
+    "metaData": {
+      "title": "Books and cosy spots at Casa Petri",
+      "description": "After hiking or biking, relax by reading a book in the hammock. See here our books and cozy places from Casa Petri Rosia Montana.",
+      "imgUrl": "img/accommodation/booksAndCosy/displayOnShare.jpg"
+    },
     "carouselAdvertise": [
       {
-        "img": "img/accommodation/facilities/carouselAdvertise/1.jpg"
+        "img": "img/accommodation/booksAndCosy/carouselAdvertise/1.jpg"
       },
       {
-        "img": "img/accommodation/facilities/carouselAdvertise/2.jpg"
+        "img": "img/accommodation/booksAndCosy/carouselAdvertise/2.jpg"
       },
       {
-        "img": "img/accommodation/facilities/carouselAdvertise/3.jpg"
+        "img": "img/accommodation/booksAndCosy/carouselAdvertise/3.jpg"
       }
     ]
   },
@@ -39,32 +44,32 @@
             {
               "title": "Suitcases with books",
               "description": "These suitcases were used to carry clothes in the army or jars with food when going to college, and now they are used for holding books, vinyls and Cinema magazines.",
-              "thumbnailUrl": "img/accommodation/facilities/books/thumbnail/booksPlaces.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/books/fullSize/booksPlaces.jpg"
+              "thumbnailUrl": "img/accommodation/booksAndCosy/books/thumbnail/booksPlaces.jpg",
+              "fullSizeUrl": "img/accommodation/booksAndCosy/books/fullSize/booksPlaces.jpg"
             },
             {
               "title": "The door with books",
               "description": "If you like the smell of old books when you read, then this is your spot.",
-              "thumbnailUrl": "img/accommodation/facilities/books/thumbnail/doorBook.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/books/fullSize/doorBook.jpg"
+              "thumbnailUrl": "img/accommodation/booksAndCosy/books/thumbnail/doorBook.jpg",
+              "fullSizeUrl": "img/accommodation/booksAndCosy/books/fullSize/doorBook.jpg"
             },
             {
               "title": "The cupboard with books",
               "description": "We decided to recycle this old, unused cupboard and transform it into a library. Here you can find a section with books for children.",
-              "thumbnailUrl": "img/accommodation/facilities/books/thumbnail/booksCloset.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/books/fullSize/booksCloset.jpg"
+              "thumbnailUrl": "img/accommodation/booksAndCosy/books/thumbnail/booksCloset.jpg",
+              "fullSizeUrl": "img/accommodation/booksAndCosy/books/fullSize/booksCloset.jpg"
             },
             {
               "title": "The Ladder with books",
               "description": ".",
-              "thumbnailUrl": "img/accommodation/facilities/books/thumbnail/booksLadder.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/books/fullSize/booksLadder.jpg"
+              "thumbnailUrl": "img/accommodation/booksAndCosy/books/thumbnail/booksLadder.jpg",
+              "fullSizeUrl": "img/accommodation/booksAndCosy/books/fullSize/booksLadder.jpg"
             },
             {
               "title": "The lost suitcase",
               "description": "a way to travel",
-              "thumbnailUrl": "img/accommodation/facilities/books/thumbnail/lostSuitcase.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/books/fullSize/lostSuitcase.jpg"
+              "thumbnailUrl": "img/accommodation/booksAndCosy/books/thumbnail/lostSuitcase.jpg",
+              "fullSizeUrl": "img/accommodation/booksAndCosy/books/fullSize/lostSuitcase.jpg"
             }
           ]
         }
@@ -86,26 +91,26 @@
             {
               "title": "Hammocks",
               "description": "In the yard we have some trees where we hang out hammocks. Here you can rest after a long hike and surf on the internet (there is wifi too).",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/hammock.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/hammock.jpg"
+              "thumbnailUrl": "img/accommodation/booksAndCosy/cozySpots/thumbnail/hammock.jpg",
+              "fullSizeUrl": "img/accommodation/booksAndCosy/cozySpots/fullSize/hammock.jpg"
             },
             {
               "title": "The coffee table from 'târnaț'",
               "description": "'Târnaț' is a hallway with small wooden windows specific to the houses from our area. Here is a where our grandparents used to have their morning coffee.",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/coffeeTable.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/coffeeTable.jpg"
+              "thumbnailUrl": "img/accommodation/booksAndCosy/cozySpots/thumbnail/coffeeTable.jpg",
+              "fullSizeUrl": "img/accommodation/booksAndCosy/cozySpots/fullSize/coffeeTable.jpg"
             },
             {
               "title": "The terrace table",
               "description": "With a nice view to the 'Cârnic' mountain, it's the perfect spot for chatting, drinking 'țuica' or eat before going out for a hike",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/pavilion.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/pavilion.jpg"
+              "thumbnailUrl": "img/accommodation/booksAndCosy/cozySpots/thumbnail/pavilion.jpg",
+              "fullSizeUrl": "img/accommodation/booksAndCosy/cozySpots/fullSize/pavilion.jpg"
             },
             {
               "title": "Living room",
               "description": "Here you can dine, hang out with your friends or play a board games. Have you ever played 'Saboteour' in a place with over 150 km of underground galleries? It may not be mountain climbing, but it is something to be tried..",
-              "thumbnailUrl": "img/accommodation/facilities/cozySpots/thumbnail/livingroom.jpg",
-              "fullSizeUrl": "img/accommodation/facilities/cozySpots/fullSize/livingroom.jpg"
+              "thumbnailUrl": "img/accommodation/booksAndCosy/cozySpots/thumbnail/livingroom.jpg",
+              "fullSizeUrl": "img/accommodation/booksAndCosy/cozySpots/fullSize/livingroom.jpg"
             }
           ]
         }
