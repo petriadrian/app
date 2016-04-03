@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "1st of May",
-    "headlineText": "",
+    "headline": "",
     "description": "<b>| May |</b> Guitar's sound, campfire and guided tours are already a tradition for the mini-holiday on the 1st of May",
-    "headlineImg": "",
-    "showPageHeadline": true,
+    "fullWidthImg": "",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "https://vizitatirosiamontana.wordpress.com/2015/02/06/vacanta-1-mai-2015-rosia-montana-pachetul-turistic-245-lei",
       "textOnMouseOver" : "See more...",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/recommendations/firstMai/carouselAdvertise/1.jpg"
+        "img": "img/recommendations/firstMai/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/recommendations/firstMai/carouselAdvertise/2.jpg"

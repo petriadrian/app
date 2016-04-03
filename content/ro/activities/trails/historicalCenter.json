@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Centrul istoric",
-    "headlineText": "Traseul clădirilor de patrimoniu din centrul istoric",
+    "headline": "Traseul clădirilor de patrimoniu din centrul istoric",
     "description": "Descoperă centrul celei mai vechi localități din România: biserici, clădiri de patrimoniu și ulițele satului. <i class='fa fa-male'> ~2h </i>",
-    "headlineImg": "img/activities/trails/historicalCenter/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/trails/historicalCenter/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/trails/historicalCenter",
       "textOnMouseOver": "Vezi traseul Centrului istoric",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/trails/historicalCenter/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/historicalCenter/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/activities/trails/historicalCenter/carouselAdvertise/2.jpg"
@@ -101,7 +101,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/activities/trails/carnic"
       }
@@ -114,8 +114,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

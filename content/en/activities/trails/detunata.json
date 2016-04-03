@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Detunata",
-    "headlineText": "The trail to the basalt columns - Detunata",
+    "headline": "The trail to the basalt columns - Detunata",
     "description": "Visit the 'Big' Lake, some specific mountain villages and then climb on the Detunata peak. <i class='fa fa-male'> ~7h </i> | <i class='fa fa-bicycle'> ~5h </i>",
-    "headlineImg": "img/activities/trails/detunata/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/trails/detunata/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/trails/detunata",
       "textOnMouseOver": "See the Detunata trail...",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/trails/detunata/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/detunata/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/activities/trails/detunata/carouselAdvertise/2.jpg"
@@ -104,7 +104,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/activities/trails/geamana"
       }
@@ -117,8 +117,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

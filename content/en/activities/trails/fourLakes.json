@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "4 lakes",
-    "headlineText": "Discover the trail along the 4 lakes",
+    "headline": "Discover the trail along the 4 lakes",
     "description": "The tour of the village among lakes, hills and mountain villages. <i class='fa fa-male'> ~6h </i> | <i class='fa fa-bicycle'> ~4h </i>",
-    "headlineImg": "img/activities/trails/fourLakes/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/trails/fourLakes/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/trails/fourLakes",
       "textOnMouseOver": "See the 4 lakes trail",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/trails/fourLakes/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/fourLakes/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/activities/trails/fourLakes/carouselAdvertise/2.jpg"
@@ -108,7 +108,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/activities/trails/rollerCoaster"
       }
@@ -121,8 +121,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

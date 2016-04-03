@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "4 lacuri",
-    "headlineText": "Descoperă traseul celor 4 lacuri",
+    "headline": "Descoperă traseul celor 4 lacuri",
     "description": "Turul localității pe un drum de țară printre lacuri, dealuri și mici sate de munte. <i class='fa fa-male'> ~6h </i> | <i class='fa fa-bicycle'> ~4h </i>",
-    "headlineImg": "img/activities/trails/fourLakes/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/trails/fourLakes/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/trails/fourLakes",
       "textOnMouseOver": "Vezi traseul celor 4 lacuri",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/trails/fourLakes/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/fourLakes/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/activities/trails/fourLakes/carouselAdvertise/2.jpg"
@@ -108,7 +108,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/activities/trails/rollerCoaster"
       }
@@ -121,8 +121,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

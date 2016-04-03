@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Hiking trails",
-    "headlineText": "Hiking trails - discover the attractions of our area",
+    "headline": "Hiking trails - discover the attractions of our area",
     "description": "From light walks among heritage buildings and old churches to hiking trails along lakes, nature attractions and villages",
-    "headlineImg": "img/activities/hiking/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/hiking/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/hiking",
       "textOnMouseOver": "See the hiking trails...",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/hiking/carouselAdvertise/1.jpg"
+        "img": "img/activities/hiking/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/activities/hiking/carouselAdvertise/2.jpg"
@@ -48,8 +48,8 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/activities/trails/historicalCenter"
@@ -79,8 +79,8 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/activities/trails/detunata"
@@ -103,8 +103,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/activities/cycling"

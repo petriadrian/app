@@ -1,7 +1,7 @@
 {
   "logo": {
     "text": "casa petri",
-    "imgUrl": "img/common/siteLogo.png",
+    "displayOnShareImg": "img/common/siteLogo.png",
     "url": {
       "link": "/",
       "textOnMouseOver": "întoarcete la pagina principală",

@@ -1,32 +1,28 @@
 {
-  "presentation": {
+  "advertise": {
     "title": "Trasee ciclism",
-    "headlineText": "Testează frânele, umflă rotile și hai cu bița la Roșia!",
+    "headline": "Testează frânele, umflă rotile și hai cu bița la Roșia!",
     "description": "De la trasee de <b>MTB</b> pe drumuri de țară printre culmi montane și lacuri până la trasee pe asfalt (<b>cursieră/auto/moto</b>) spre obiectivele turistice",
-    "headlineImg": "img/activities/cycling/presentation.jpg",
-    "showPageHeadline": true,
-    "url": {
-      "textOnMouseOver": "Vezi traseele de bicicletă",
-      "link": "activities/cycling",
-      "openInNewTab": false
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/activities/cycling/carouselAdvertise/1.jpg"
-      },
-      {
-        "img": "img/activities/cycling/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/activities/cycling/carouselAdvertise/3.jpg"
-      }
-    ]
+    "fullWidthImg": "img/activities/cycling/advertise/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/cycling/advertise/smallBoxImg.jpg"
+  },
+  "url": {
+    "textOnMouseOver": "Vezi traseele de bicicletă",
+    "link": "activities/cycling",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Descoperă Roșia Montană pe bicicletă - trasee mtb/asfalt",
+    "description": "De la trasee de MTB pe drumuri de țară printre culmi montane și lacuri până la trasee pe asfalt (cursieră/auto/moto) spre obiectivele turistice",
+    "displayOnShareImg": "img/activities/cycling/advertise/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
   },
   "sections": [
     {
       "type": "title",
       "text": "<i class='fa fa-info-circle'></i> Detalii",
-
       "sectionId": "details",
       "addLinkInPageHeadline": false
     },
@@ -48,8 +44,8 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/activities/trails/weatherStation"
@@ -79,8 +75,8 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/activities/trails/vulcan"
@@ -102,13 +98,12 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> Vezi și",
-
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/activities/hiking"

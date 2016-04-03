@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Lety and Sulei peak",
-    "headlineText": "Hiking trail to Lety and Șulei ",
+    "headline": "Hiking trail to Lety and Șulei ",
     "description": "Climb on 2 peaks, visit 2 lakes, a hidden village and an gallery with marks of gold diggings. <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
-    "headlineImg": "img/activities/trails/letySulei/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/trails/letySulei/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/trails/letySulei",
       "textOnMouseOver": "See the Lety and Șulei trail...",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/trails/letySulei/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/letySulei/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/activities/trails/letySulei/carouselAdvertise/2.jpg"
@@ -116,7 +116,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/activities/trails/historicalCenter"
       }
@@ -129,8 +129,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

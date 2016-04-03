@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Vulcan mountain",
-    "headlineText": "Trail to Vulcan peak",
+    "headline": "Trail to Vulcan peak",
     "description": "The winding road along a pine forest and Apuseni villages, up to the Vulcan mountain. <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~5h </i>",
-    "headlineImg": "img/activities/trails/vulcan/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/trails/vulcan/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/trails/vulcan",
       "textOnMouseOver": "See the Vulcan trail...",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/trails/vulcan/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/vulcan/advertise/smallBoxImg.jpg"
       }
     ]
   },
@@ -99,7 +99,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/activities/trails/scarisoara"
       }
@@ -112,8 +112,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

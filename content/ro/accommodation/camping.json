@@ -1,31 +1,23 @@
 {
-  "presentation": {
+  "advertise": {
     "title": "Campare",
-    "headlineText": "Am adormit sub stele, era munte, liniște, răcoare...",
+    "headline": "Am adormit sub stele, era munte, liniște, răcoare...",
     "description": "Campare în siguranță cu priveliște spre munte și accees la baie/bucătărie. <b>Rezervă un loc de campare</b> în curtea casei.",
-    "headlineImg": "img/accommodation/camping/presentation.jpg",
-    "showPageHeadline": true,
-    "url": {
-      "link": "accommodation/camping",
-      "textOnMouseOver": "Vezi locurile de campare",
-      "openInNewTab": false
-    },
-    "metaData": {
-      "title": "Campare la Roșia Montană. Rezervări",
-      "description": "Locuri de campare în siguranță cu priveliște spre munte și acces la baie sau bucătărie. Descoperă Roșia Montană (galeriile romane, industria minieră, centrul vechi, munți, lacuri...) Aici găsești trasee de drumeție sau bicicletă, ghizi și biciclete de închiriat.",
-      "imgUrl": "img/accommodation/camping/displayOnShare.jpg"
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/accommodation/camping/carouselAdvertise/1.jpg"
-      },
-      {
-        "img": "img/accommodation/camping/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/accommodation/camping/carouselAdvertise/3.jpg"
-      }
-    ]
+    "fullWidthImg": "img/accommodation/camping/advertise/fullWidthImg.jpg",
+    "smallBoxImg": "img/accommodation/camping/advertise/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "accommodation/camping",
+    "textOnMouseOver": "Vezi locurile de campare",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Campare Rosia Montana - Casa Petri",
+    "description": "Locuri de campare în siguranță cu priveliște spre munte și acces la baie sau bucătărie. Descoperă Roșia Montană (galeriile romane, industria minieră, centrul vechi, munți, lacuri...) Aici găsești trasee de drumeție sau bicicletă, ghizi și biciclete de închiriat.",
+    "displayOnShareImg": "img/accommodation/camping/advertise/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
   },
   "sections": [
     {
@@ -59,14 +51,14 @@
             {
               "title": "Zona de campare",
               "description": "curte",
-              "thumbnailUrl": "img/accommodation/camping/thumbnail/1.jpg",
-              "fullSizeUrl": "img/accommodation/camping/fullSize/1.jpg"
+              "thumbnailUrl": "img/accommodation/camping/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/accommodation/camping/article/fullSize/1.jpg"
             },
             {
               "title": "Zona de campare - baie",
               "description": "Încălzire prin boiler pe lemne",
-              "thumbnailUrl": "img/accommodation/camping/thumbnail/3.jpg",
-              "fullSizeUrl": "img/accommodation/camping/fullSize/3.jpg"
+              "thumbnailUrl": "img/accommodation/camping/article/thumbnail/3.jpg",
+              "fullSizeUrl": "img/accommodation/camping/article/fullSize/3.jpg"
             }
           ]
         }
@@ -173,7 +165,7 @@
       ]
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/accommodation/booksAndCosy"
       }
@@ -185,22 +177,18 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/review"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]

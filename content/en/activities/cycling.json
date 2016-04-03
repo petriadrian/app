@@ -1,32 +1,28 @@
 {
-  "presentation": {
+  "advertise": {
     "title": "Cycling trails",
-    "headlineText": "Cycling trails - discover our area by bike",
+    "headline": "Cycling trails - discover our area by bike",
     "description": "From <b>MTB</b> trails on unpaved roads along mountain peaks and lakes, to paved trails for <b>touring bikes</b> towards touristic sights",
-    "headlineImg": "img/activities/cycling/presentation.jpg",
-    "showPageHeadline": true,
-    "url": {
-      "textOnMouseOver": "See biking trails...",
-      "link": "activities/cycling",
-      "openInNewTab": false
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/activities/cycling/carouselAdvertise/1.jpg"
-      },
-      {
-        "img": "img/activities/cycling/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/activities/cycling/carouselAdvertise/3.jpg"
-      }
-    ]
+    "fullWidthImg": "img/activities/cycling/advertise/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/cycling/advertise/smallBoxImg.jpg"
+  },
+  "url": {
+    "textOnMouseOver": "See biking trails...",
+    "link": "activities/cycling",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Discover Rosia Montana by bike - mtb/asphalt trails",
+    "description": "From MTB trails on unpaved roads along mountain peaks and lakes, to paved trails for touring bikes towards touristic sights",
+    "displayOnShareImg": "img/activities/cycling/advertise/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
   },
   "sections": [
     {
       "type": "title",
       "text": "<i class='fa fa-info-circle'></i> Details",
-
       "sectionId": "details",
       "addLinkInPageHeadline": false
     },
@@ -48,8 +44,8 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/activities/trails/weatherStation"
@@ -79,8 +75,8 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/activities/trails/vulcan"
@@ -102,13 +98,12 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> See also",
-
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/activities/hiking"

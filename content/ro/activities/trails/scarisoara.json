@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Ghețarul Scărișoara",
-    "headlineText": "Traseul spre Ghețarul Scărișoara",
+    "headline": "Traseul spre Ghețarul Scărișoara",
     "description": "Unul dintre cele mai mari ghetare subterane din lume iar traseul e unul dintre cele mai pitoresti din Apuseni. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~9h </i>",
-    "headlineImg": "img/activities/trails/scarisoara/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/trails/scarisoara/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/trails/scarisoara",
       "textOnMouseOver": "Vezi traseul spre Scărișoara",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/trails/scarisoara/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/scarisoara/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/activities/trails/scarisoara/carouselAdvertise/2.jpg"
@@ -124,7 +124,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/activities/trails/zlatnaPool"
       }
@@ -137,8 +137,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

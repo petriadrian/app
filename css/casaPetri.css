@@ -35,28 +35,28 @@ body {
     display: none;
 }
 
-.centralCarousel {
+.carousel {
     padding: 0px;
 }
 
-.centralCarousel h3 {
+.carousel h3 {
     margin: 0;
     color: inherit;
     font-size: 1.8em;
 }
 
-.centralCarousel .item {
+.carousel .item {
     background: #151F1D;
     height: 350px;
 }
 
-.centralCarousel .carousel-inner img {
+.carousel .carousel-inner img {
     height: 100%;
     width: 100%;
     margin: auto;
 }
 
-.centralCarousel .carousel-caption {
+.carousel .carousel-caption {
     text-shadow: -1px -1px 3px #000,
     1px -1px 3px #000,
     -1px 1px 3px #000,
@@ -434,7 +434,7 @@ footer .row section{
         width: 140%;
     }
 
-    .centralCarousel .item {
+    .carousel .item {
         height: 200px;
     }
 
@@ -453,7 +453,7 @@ footer .row section{
         width: 120%;
     }
 
-    .centralCarousel .item {
+    .carousel .item {
         height: 250px;
     }
 }

@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Ștrandul Zlatna",
-    "headlineText": "Traseul spre Ștrandul Zlatna",
+    "headline": "Traseul spre Ștrandul Zlatna",
     "description": "Nu e doar un traseu spre ștrand pentru că pe drum veți transpira urcând 'Dealul Mare'. Dar destinația e răcoritoare. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~7h </i>",
-    "headlineImg": "img/activities/trails/zlatnaPool/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/trails/zlatnaPool/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/trails/zlatnaPool",
       "textOnMouseOver": "Vezi traseul spre Ștrandul Zlatna",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/trails/zlatnaPool/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/zlatnaPool/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/activities/trails/zlatnaPool/carouselAdvertise/2.jpg"
@@ -119,7 +119,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/recommendations/daffodilMeadow"
       }
@@ -131,8 +131,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

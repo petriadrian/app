@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Daffodil Meadow",
-    "headlineText": "A fairytale meadow. The daffodils from 'Negrileasa'",
+    "headline": "A fairytale meadow. The daffodils from 'Negrileasa'",
     "description": "<b>| May |</b> A white blanket of daffodils and their lovely smell offer you an unforgettable experience. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~7h </i>",
-    "headlineImg": "img/recommendations/daffodilMeadow/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/recommendations/daffodilMeadow/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "recommendations/daffodilMeadow",
       "textOnMouseOver": "See more...",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/recommendations/daffodilMeadow/carouselAdvertise/1.jpg"
+        "img": "img/recommendations/daffodilMeadow/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/recommendations/daffodilMeadow/carouselAdvertise/2.jpg"
@@ -97,8 +97,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

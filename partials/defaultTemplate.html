@@ -1,14 +1,14 @@
 <div class="container">
     <!-- PAGE HEADLINE-->
-    <div ng-if="pageContent.presentation.showPageHeadline"
+    <div ng-if="pageContent.config.showPageHeadline"
          ng-include="'templates/_pageHeadline.tmpl.htm'"></div>
     <!-- SECTIONS-->
     <section ng-repeat="section in pageContent.sections" class="row">
         <!-- TITLE -->
         <div ng-if="section.type == 'title'"
              ng-include="'templates/_sectionTitle.tmpl.htm'"></div>
-        <!-- ADVERTISE -->
-        <div ng-if="section.type == 'advertise'"
+        <!-- ADVERTISE TO OTHER PAGES -->
+        <div ng-if="section.type == 'advertiseToOtherPages'"
              ng-include="'templates/aadvertise/_advertiseManagement.tmpl.htm'"></div>
         <!--ARTICLES-->
         <div ng-if="section.type == 'articles'"

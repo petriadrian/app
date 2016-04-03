@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Roller Coaster",
-    "headlineText": "Traseul roller coaster - Corna - Seliște",
+    "headline": "Traseul roller coaster - Corna - Seliște",
     "description": "Coborâș plin de adrenalină pe serpentinele vechiului drum al carierei și urcuș înapoi pe un drum de țară. <i class='fa fa-bicycle'> ~6h </i>",
-    "headlineImg": "img/activities/trails/rollerCoaster/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/trails/rollerCoaster/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/trails/rollerCoaster",
       "textOnMouseOver": "Vezi traseul roller coaster",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/trails/rollerCoaster/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/rollerCoaster/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/activities/trails/rollerCoaster/carouselAdvertise/2.jpg"
@@ -148,7 +148,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/activities/trails/geamana"
       }
@@ -161,8 +161,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

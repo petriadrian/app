@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Mocănița",
-    "headlineText": "Străbate Țara Moților în Mocănița cu abur",
+    "headline": "Străbate Țara Moților în Mocănița cu abur",
     "description": "<b>| Iun-Sept |</b> Strabate calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur <b>~10km</b>",
-    "headlineImg": "img/recommendations/steamTrain/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/recommendations/steamTrain/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "recommendations/steamTrain",
       "textOnMouseOver": "Vezi mai multe detalii",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/recommendations/steamTrain/carouselAdvertise/1.jpg"
+        "img": "img/recommendations/steamTrain/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/recommendations/steamTrain/carouselAdvertise/2.jpg"
@@ -93,8 +93,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

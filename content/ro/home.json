@@ -1,25 +1,28 @@
 {
-  "presentation": {
+  "advertise": {
     "title": "Pagina Principală",
-    "headlineText": "Încă te mai întrebi: 'De ce să vizitez Roșia Montană?'",
+    "headline": "Încă te mai întrebi: 'De ce să vizitez Roșia Montană?'",
     "description": "pe acest site găsești cazare și trasee spre atracțiile turistice din zonă",
-    "headlineImg": "img/homePage/presentation.jpg",
-    "showPageHeadline": false,
-    "url": {
-      "link": "",
-      "textOnMouseOver": "homepage",
-      "openInNewTab": false
-    },
-    "metaData": {
-      "title": "Casa Petri Rosia Montana",
-      "description": "Spațiu de cazare într-o fostă locuință de mineri din centrul istoric Rosia Montană. Descoperă galeriile romane, industria minieră, clădirile de patrimoniu, lacurile și munții din zonă prin traseele de drumeție sau ciclism de pe site. Închiriază ghizi sau biciclete.",
-      "imgUrl": "img/homePage/displayOnShare.jpg"
-    }
+    "fullWidthImg": "img/homePage/advertise/fullWidthImg.jpg",
+    "smallBoxImg": "img/homePage/advertise/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "",
+    "textOnMouseOver": "homepage",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Casa Petri Rosia Montana",
+    "description": "Spațiu de cazare într-o fostă locuință de mineri din centrul istoric Rosia Montană. Descoperă galeriile romane, industria minieră, clădirile de patrimoniu, lacurile și munții din zonă prin traseele de drumeție sau ciclism de pe site. Închiriază ghizi sau biciclete.",
+    "displayOnShareImg": "img/homePage/advertise/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": false
   },
   "sections": [
     {
-      "type": "advertise",
-      "centralCarousel": {
+      "type": "advertiseToOtherPages",
+      "carousel": {
         "timeInterval": "7000",
         "slides": [
           {
@@ -53,20 +56,18 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         }
       ]
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/accommodation/booksAndCosy"
       }
@@ -78,20 +79,18 @@
       "sectionId": "activities"
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/activities/trails/topAttractions"
       }
@@ -103,38 +102,30 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/recommendations/festival"
         },
         {
-          "timeInterval": "10000",
           "page": "/recommendations/marathon"
         },
         {
-          "timeInterval": "10000",
           "page": "/recommendations/monumentsRestorations"
         },
         {
-          "timeInterval": "10000",
           "page": "/recommendations/steamTrain"
         },
         {
-          "timeInterval": "10000",
           "page": "/recommendations/daffodilMeadow"
         },
         {
-          "timeInterval": "10000",
           "page": "/recommendations/firstMai"
         },
         {
-          "timeInterval": "10000",
           "page": "/recommendations/scoutsOng"
         },
         {
-          "timeInterval": "10000",
           "page": "/recommendations/souvenirShop"
         }
       ]

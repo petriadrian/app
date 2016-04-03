@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Geamăna",
-    "headlineText": "The trail to the flooded village - Geamana",
+    "headline": "The trail to the flooded village - Geamana",
     "description": "What's the real price of the metals? See the open pit and the flooded village. <i class='fa fa-male'> ~9h </i> | <i class='fa fa-bicycle'> ~6h </i>",
-    "headlineImg": "img/activities/trails/geamana/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/trails/geamana/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/trails/geamana",
       "textOnMouseOver": "See the Geamana trail",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/trails/geamana/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/geamana/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/activities/trails/geamana/carouselAdvertise/2.jpg"
@@ -107,7 +107,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/activities/trails/weatherStation"
       }
@@ -120,8 +120,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

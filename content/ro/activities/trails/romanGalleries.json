@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Galeriile Romane",
-    "headlineText": "Descoperă galeriile romane - traseul masivului Orlea",
+    "headline": "Descoperă galeriile romane - traseul masivului Orlea",
     "description": "Pătrundem în adâncul muntelui, în galeriile romane și apoi vizităm atracțiile din zonă. <i class='fa fa-male'> ~3h </i>",
-    "headlineImg": "img/activities/trails/romanGalleries/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/trails/romanGalleries/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/trails/romanGalleries",
       "textOnMouseOver": "Vezi traseul spre Galeriile Romane",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/trails/romanGalleries/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/romanGalleries/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/activities/trails/romanGalleries/carouselAdvertise/2.jpg"
@@ -97,7 +97,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/activities/trails/weatherStation"
       }
@@ -110,8 +110,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

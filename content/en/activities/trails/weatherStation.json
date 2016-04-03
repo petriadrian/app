@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Weather Station",
-    "headlineText": "Discover the country side trail to the Weather Station",
+    "headline": "Discover the country side trail to the Weather Station",
     "description": "Visit the Țarina land, the mountain lakes and enjoy the whole landscape from Rotundu Peak. <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
-    "headlineImg": "img/activities/trails/weatherStation/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/trails/weatherStation/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/trails/weatherStation",
       "textOnMouseOver": "See the trail...",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/trails/weatherStation/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/weatherStation/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/activities/trails/weatherStation/carouselAdvertise/2.jpg"
@@ -116,7 +116,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/activities/trails/detunata"
       }
@@ -129,8 +129,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

@@ -1,31 +1,23 @@
 {
-  "presentation": {
+  "advertise": {
     "title": "Relax",
-    "headlineText": "Cărți și locșoare de citit sau de relaxare",
+    "headline": "Cărți și locșoare de citit sau de relaxare de prin Casa Petri",
     "description": "După un traseu de munte, relaxați-vă citind o carte în hamac. Vedeți cărțile și zonele de relaxare.",
-    "headlineImg": "img/accommodation/booksAndCosy/presentation.jpg",
-    "showPageHeadline": true,
-    "url": {
-      "link": "accommodation/booksAndCosy",
-      "textOnMouseOver": "Vezi mai mult...",
-      "openInNewTab": false
-    },
-    "metaData": {
-      "title": "Cărți și locșoare de relaxare de la Casa Petri",
-      "description": "După un traseu de munte sau bicicletă, relaxați-vă citind o carte în hamac. Vedeți aici cărțile și zonele de relaxare de la Casa Petri Rosia Montana.",
-      "imgUrl": "img/accommodation/booksAndCosy/displayOnShare.jpg"
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/accommodation/booksAndCosy/carouselAdvertise/1.jpg"
-      },
-      {
-        "img": "img/accommodation/booksAndCosy/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/accommodation/booksAndCosy/carouselAdvertise/3.jpg"
-      }
-    ]
+    "fullWidthImg": "img/accommodation/booksAndCosy/advertise/fullWidthImg.jpg",
+    "smallBoxImg": "img/accommodation/booksAndCosy/advertise/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "accommodation/booksAndCosy",
+    "textOnMouseOver": "Vezi mai mult...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Cărți și locșoare de relaxare de la Casa Petri",
+    "description": "După un traseu de munte sau bicicletă, relaxați-vă citind o carte în hamac. Vedeți aici cărțile și zonele de relaxare de la Casa Petri Rosia Montana.",
+    "displayOnShareImg": "img/accommodation/booksAndCosy/advertise/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
   },
   "sections": [
     {
@@ -44,32 +36,32 @@
             {
               "title": "Geamantanele cu cărți",
               "description": "Cu aceste geamantane s-a mers în armată, s-au cărat borcane cu mâncare în studenție, iar acum găzduiesc cărți, viniluri și reviste Cinema.",
-              "thumbnailUrl": "img/accommodation/booksAndCosy/books/thumbnail/booksPlaces.jpg",
-              "fullSizeUrl": "img/accommodation/booksAndCosy/books/fullSize/booksPlaces.jpg"
+              "thumbnailUrl": "img/accommodation/booksAndCosy/article/books/thumbnail/booksPlaces.jpg",
+              "fullSizeUrl": "img/accommodation/booksAndCosy/article/books/fullSize/booksPlaces.jpg"
             },
             {
               "title": "Ușa cu cărți",
               "description": "Dacă îți place mirosul cărților când citești, atunci acest locșor improvizat, plin cu carți va fi pe placul tău.",
-              "thumbnailUrl": "img/accommodation/booksAndCosy/books/thumbnail/doorBook.jpg",
-              "fullSizeUrl": "img/accommodation/booksAndCosy/books/fullSize/doorBook.jpg"
+              "thumbnailUrl": "img/accommodation/booksAndCosy/article/books/thumbnail/doorBook.jpg",
+              "fullSizeUrl": "img/accommodation/booksAndCosy/article/books/fullSize/doorBook.jpg"
             },
             {
               "title": "Dulapul cu cărți",
               "description": "Nemaifolosind acest bufet, am decis să nu îl aruncăm, ci să îi găsim o altă întrebuințare. Având multe cărți, l-am transformat într-o bibliotecă unde găsișți chiar și cărți pentru copii.",
-              "thumbnailUrl": "img/accommodation/booksAndCosy/books/thumbnail/booksCloset.jpg",
-              "fullSizeUrl": "img/accommodation/booksAndCosy/books/fullSize/booksCloset.jpg"
+              "thumbnailUrl": "img/accommodation/booksAndCosy/article/books/thumbnail/booksCloset.jpg",
+              "fullSizeUrl": "img/accommodation/booksAndCosy/article/books/fullSize/booksCloset.jpg"
             },
             {
               "title": "Scara cu cărți",
               "description": ".",
-              "thumbnailUrl": "img/accommodation/booksAndCosy/books/thumbnail/booksLadder.jpg",
-              "fullSizeUrl": "img/accommodation/booksAndCosy/books/fullSize/booksLadder.jpg"
+              "thumbnailUrl": "img/accommodation/booksAndCosy/article/books/thumbnail/booksLadder.jpg",
+              "fullSizeUrl": "img/accommodation/booksAndCosy/article/books/fullSize/booksLadder.jpg"
             },
             {
               "title": "Geamantanul rătăcit",
               "description": "un mod de a călători.",
-              "thumbnailUrl": "img/accommodation/booksAndCosy/books/thumbnail/lostSuitcase.jpg",
-              "fullSizeUrl": "img/accommodation/booksAndCosy/books/fullSize/lostSuitcase.jpg"
+              "thumbnailUrl": "img/accommodation/booksAndCosy/article/books/thumbnail/lostSuitcase.jpg",
+              "fullSizeUrl": "img/accommodation/booksAndCosy/article/books/fullSize/lostSuitcase.jpg"
             }
           ]
         }
@@ -91,26 +83,26 @@
             {
               "title": "Hamace cu priveliște",
               "description": "În curte sunt câțiva pomi de care, pe vreme bună, agățăm hamce numai bune de lenevit. Este semnal wifi și aici.",
-              "thumbnailUrl": "img/accommodation/booksAndCosy/cozySpots/thumbnail/hammock.jpg",
-              "fullSizeUrl": "img/accommodation/booksAndCosy/cozySpots/fullSize/hammock.jpg"
+              "thumbnailUrl": "img/accommodation/booksAndCosy/article/cozySpots/thumbnail/hammock.jpg",
+              "fullSizeUrl": "img/accommodation/booksAndCosy/article/cozySpots/fullSize/hammock.jpg"
             },
             {
               "title": "Măsuța de cafea din târnaț",
               "description": "Târnațul, specific caselor din zonă, este un hol cu gemulețe mici de lemn unde bunicii noștri obișnuiau să își bea cafeaua în fiecare dimineață.",
-              "thumbnailUrl": "img/accommodation/booksAndCosy/cozySpots/thumbnail/coffeeTable.jpg",
-              "fullSizeUrl": "img/accommodation/booksAndCosy/cozySpots/fullSize/coffeeTable.jpg"
+              "thumbnailUrl": "img/accommodation/booksAndCosy/article/cozySpots/thumbnail/coffeeTable.jpg",
+              "fullSizeUrl": "img/accommodation/booksAndCosy/article/cozySpots/fullSize/coffeeTable.jpg"
             },
             {
               "title": "Măsuța din foișor",
               "description": "Cu priveliște spre masivul Cârnic, e numai bună de stat la povești, închinat pahare de țuică sau luat masa înainte de a pleca pe traseu",
-              "thumbnailUrl": "img/accommodation/booksAndCosy/cozySpots/thumbnail/pavilion.jpg",
-              "fullSizeUrl": "img/accommodation/booksAndCosy/cozySpots/fullSize/pavilion.jpg"
+              "thumbnailUrl": "img/accommodation/booksAndCosy/article/cozySpots/thumbnail/pavilion.jpg",
+              "fullSizeUrl": "img/accommodation/booksAndCosy/article/cozySpots/fullSize/pavilion.jpg"
             },
             {
               "title": "Căsuța de vară",
               "description": "Aici puteți lua masa, povesti sau juca un board game. Să joci Saboteour într-o zonă cu peste 150km de galerii subterane... e o experiență :)",
-              "thumbnailUrl": "img/accommodation/booksAndCosy/cozySpots/thumbnail/livingroom.jpg",
-              "fullSizeUrl": "img/accommodation/booksAndCosy/cozySpots/fullSize/livingroom.jpg"
+              "thumbnailUrl": "img/accommodation/booksAndCosy/article/cozySpots/thumbnail/livingroom.jpg",
+              "fullSizeUrl": "img/accommodation/booksAndCosy/article/cozySpots/fullSize/livingroom.jpg"
             }
           ]
         }
@@ -123,22 +115,18 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "10000",
           "page": "/review"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         }
       ]

@@ -1,12 +1,14 @@
-<span ng-init="pagePresentationPath=section.banner.page"></span>
+<span ng-init="otherPagePath=section.banner.page"></span>
 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 banner defaultClickStyle displayOnCenter"
-     ng-controller="GetPagePresentationCtrl"
-     title="{{pagePresentation.url.textOnMouseOver}}"
-     ng-click="openUrl(pagePresentation.url)">
-    <h1 ng-bind-html="pagePresentation.headlineText | trustHtml"></h1>
-    <p class="hidden-xs lead" ng-bind-html="pagePresentation.description | trustHtml"></p>
+     ng-controller="GetOtherPageContentCtrl"
+     title="{{otherPageContent.url.textOnMouseOver}}"
+     ng-click="openUrl(otherPageContent.url)">
+    <h1 ng-bind-html="otherPageContent.advertise.headline | trustHtml"></h1>
+    <p class="hidden-xs lead"
+       ng-bind-html="otherPageContent.advertise.description | trustHtml"></p>
     <div class="gradientFromWhiteToTransparent">
-        <img alt="{{pagePresentation.title}}" ng-src="{{pagePresentation.headlineImg}}">
+        <img alt="{{otherPageContent.advertise.title}}"
+             ng-src="{{otherPageContent.advertise.fullWidthImg}}">
     </div>
 
 </div>

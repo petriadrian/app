@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Scarisoara Glacier",
-    "headlineText": "The trail to 'Scărișoara' cave glacier",
+    "headline": "The trail to 'Scărișoara' cave glacier",
     "description": "A spectacular trail through the Apuseni Mountains, to one of the largest underground glacier in the world. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~9h </i>",
-    "headlineImg": "img/activities/trails/scarisoara/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/trails/scarisoara/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/trails/scarisoara",
       "textOnMouseOver": "See the Scărișoara trail...",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/trails/scarisoara/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/scarisoara/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/activities/trails/scarisoara/carouselAdvertise/2.jpg"
@@ -125,7 +125,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/activities/trails/zlatnaPool"
       }
@@ -138,8 +138,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

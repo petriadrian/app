@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Poiana cu narcise",
-    "headlineText": "O poiană ca în povești. Narcisele de la Negrileasa",
+    "headline": "O poiană ca în povești. Narcisele de la Negrileasa",
     "description": "<b>| Mai |</b> O patura alba si un miros imbatator pun stapanire pe Poiana Negrileasa. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~7h </i>",
-    "headlineImg": "img/recommendations/daffodilMeadow/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/recommendations/daffodilMeadow/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "recommendations/daffodilMeadow",
       "textOnMouseOver": "Vezi mai multe detalii",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/recommendations/daffodilMeadow/carouselAdvertise/1.jpg"
+        "img": "img/recommendations/daffodilMeadow/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/recommendations/daffodilMeadow/carouselAdvertise/2.jpg"
@@ -98,8 +98,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

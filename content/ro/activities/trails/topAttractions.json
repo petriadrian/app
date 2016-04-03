@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Top 10 atracții",
-    "headlineText": "<b>Top 10 atracții</b> de vizitat în Roșia Montană",
+    "headline": "<b>Top 10 atracții</b> de vizitat în Roșia Montană",
     "description": "Traseul principalelor atracții: centrul istoric, lacurile, galeriile romane. <i class='fa fa-male'> ~6h </i>",
-    "headlineImg": "img/activities/trails/topAttractions/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/trails/topAttractions/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/trails/topAttractions",
       "textOnMouseOver": "Vezi mai multe detalii",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/trails/topAttractions/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/topAttractions/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/activities/trails/topAttractions/carouselAdvertise/2.jpg"
@@ -113,7 +113,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/activities/trails/weatherStation"
       }
@@ -126,8 +126,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

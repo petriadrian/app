@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Cârnic peak",
-    "headlineText": "Hike on the golden mountain - Cârnic trail",
+    "headline": "Hike on the golden mountain - Cârnic trail",
     "description": "From village we go to the Firs Lake and then we climb on the top of Cârnic, to the Raven Stone and Sfinx. <i class='fa fa-male'> ~3h </i>",
-    "headlineImg": "img/activities/trails/carnic/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/trails/carnic/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/trails/carnic",
       "textOnMouseOver": "See the Cârnic mountain trail...",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/trails/carnic/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/carnic/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/activities/trails/carnic/carouselAdvertise/2.jpg"
@@ -103,7 +103,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/activities/trails/romanGalleries"
       }
@@ -115,8 +115,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

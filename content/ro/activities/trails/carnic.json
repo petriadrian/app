@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Vârful Cârnic",
-    "headlineText": "Drumeție pe muntele de aur - traseul Cârnic",
+    "headline": "Drumeție pe muntele de aur - traseul Cârnic",
     "description": " De pe ulițele satului ajungem la Tăul Brazi și apoi urcăm pe masivul Cârnic la Piatra Corbului și la Sfinx. <i class='fa fa-male'> ~3h </i>",
-    "headlineImg": "img/activities/trails/carnic/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/trails/carnic/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/trails/carnic",
       "textOnMouseOver": "Vezi traseul Muntelui Cârnic",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/trails/carnic/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/carnic/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/activities/trails/carnic/carouselAdvertise/2.jpg"
@@ -104,7 +104,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/activities/trails/romanGalleries"
       }
@@ -116,8 +116,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

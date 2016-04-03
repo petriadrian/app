@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Maraton",
-    "headlineText": "",
+    "headline": "",
     "description": "<b>| Iulie |</b> Maraton, Semimaraton, maraton copii. Drumurile satului devin piste de alergare",
-    "headlineImg": "",
-    "showPageHeadline": true,
+    "fullWidthImg": "",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "http://www.rosiamontanamarathon.ro",
       "textOnMouseOver" : "Vezi pagina oficială maraton",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/recommendations/marathon/carouselAdvertise/1.jpg"
+        "img": "img/recommendations/marathon/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/recommendations/marathon/carouselAdvertise/2.jpg"

@@ -31,7 +31,7 @@ function getData($siteRoot)
 
 function makePage($data, $siteRoot)
 {
-    $imageUrl = $siteRoot . $data->presentation->metaData->imgUrl;
+    $imageUrl = $siteRoot . $data->presentation->metaData->displayOnShareImg;
     $pageUrl = $siteRoot . $data->presentation->url->link;
     ?>
     <!DOCTYPE html>

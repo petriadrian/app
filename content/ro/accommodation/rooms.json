@@ -1,31 +1,23 @@
 {
-  "presentation": {
+  "advertise": {
     "title": "Camere",
-    "headlineText": "O cafea într-o dimineață la Roșia Montană?",
+    "headline": "O cafea într-o dimineață la Roșia Montană?",
     "description": "Vezi interiorul aceastei vechi case de mineri din centrul istoric Roșia Montană. Aici se pot face <b>rezervări camere</b>.",
-    "headlineImg": "img/accommodation/rooms/presentation.jpg",
-    "showPageHeadline": true,
-    "url": {
-      "link": "accommodation/rooms",
-      "textOnMouseOver": "Vezi locurile de cazare",
-      "openInNewTab": false
-    },
-    "metaData": {
-      "title": "Cazare la Rosia Montana. Rezervări",
-      "description": "Vezi camerele din această veche casă de mineri din centrul istoric. Descoperă Roșia Montană (galeriile romane, industria minieră, centrul vechi, munți, lacuri...) Aici găsești trasee de drumeție sau bicicletă, ghizi și biciclete de închiriat.",
-      "imgUrl": "img/accommodation/rooms/displayOnShare.jpg"
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/accommodation/rooms/carouselAdvertise/1.jpg"
-      },
-      {
-        "img": "img/accommodation/rooms/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/accommodation/rooms/carouselAdvertise/3.jpg"
-      }
-    ]
+    "fullWidthImg": "img/accommodation/rooms/advertise/fullWidthImg.jpg",
+    "smallBoxImg": "img/accommodation/rooms/advertise/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "accommodation/rooms",
+    "textOnMouseOver": "Vezi locurile de cazare",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Cazare Rosia Montana - Casa Petri",
+    "description": "Vezi camerele din această veche casă de mineri din centrul istoric. Descoperă Roșia Montană (galeriile romane, industria minieră, centrul vechi, munți, lacuri...) Aici găsești trasee de drumeție sau bicicletă, ghizi și biciclete de închiriat.",
+    "displayOnShareImg": "img/accommodation/rooms/advertise/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
   },
   "sections": [
     {
@@ -59,20 +51,20 @@
             {
               "title": "Camera cărților",
               "description": "aici găsiți 'Dulapul cu cărți' - un fost bufet de bucătărie transformat în bibliotecă unde găsiți cărți vechi și diverse jocuri.",
-              "thumbnailUrl": "img/accommodation/rooms/room1/thumbnail/1.jpg",
-              "fullSizeUrl": "img/accommodation/rooms/room1/fullSize/1.jpg"
+              "thumbnailUrl": "img/accommodation/rooms/article/room1/thumbnail/1.jpg",
+              "fullSizeUrl": "img/accommodation/rooms/article/room1/fullSize/1.jpg"
             },
             {
               "title": "Camera cărților",
               "description": "interior. În vitrină sunt poze vechi din Roșia, flori de mină și obiecte folosite în trecut prin gospodărie.",
-              "thumbnailUrl": "img/accommodation/rooms/room1/thumbnail/2.jpg",
-              "fullSizeUrl": "img/accommodation/rooms/room1/fullSize/2.jpg"
+              "thumbnailUrl": "img/accommodation/rooms/article/room1/thumbnail/2.jpg",
+              "fullSizeUrl": "img/accommodation/rooms/article/room1/fullSize/2.jpg"
             },
             {
               "title": "Camera cărților - baie",
               "description": "Încălzire prin boiler electric",
-              "thumbnailUrl": "img/accommodation/rooms/room1/thumbnail/3.jpg",
-              "fullSizeUrl": "img/accommodation/rooms/room1/fullSize/3.jpg"
+              "thumbnailUrl": "img/accommodation/rooms/article/room1/thumbnail/3.jpg",
+              "fullSizeUrl": "img/accommodation/rooms/article/room1/fullSize/3.jpg"
             }
           ]
         }
@@ -171,20 +163,20 @@
             {
               "title": "Camera din căsuță",
               "description": "la cerere se pot uni paturile pentru a deveni unul dublu",
-              "thumbnailUrl": "img/accommodation/rooms/room2/thumbnail/1.jpg",
-              "fullSizeUrl": "img/accommodation/rooms/room2/fullSize/1.jpg"
+              "thumbnailUrl": "img/accommodation/rooms/article/room2/thumbnail/1.jpg",
+              "fullSizeUrl": "img/accommodation/rooms/article/room2/fullSize/1.jpg"
             },
             {
               "title": "Căsuța",
               "description": "exterior",
-              "thumbnailUrl": "img/accommodation/rooms/room2/thumbnail/2.jpg",
-              "fullSizeUrl": "img/accommodation/rooms/room2/fullSize/2.jpg"
+              "thumbnailUrl": "img/accommodation/rooms/article/room2/thumbnail/2.jpg",
+              "fullSizeUrl": "img/accommodation/rooms/article/room2/fullSize/2.jpg"
             },
             {
               "title": "Căsuța - baie",
               "description": "Încălzire prin boiler pe lemne",
-              "thumbnailUrl": "img/accommodation/rooms/room2/thumbnail/3.jpg",
-              "fullSizeUrl": "img/accommodation/rooms/room2/fullSize/3.jpg"
+              "thumbnailUrl": "img/accommodation/rooms/article/room2/thumbnail/3.jpg",
+              "fullSizeUrl": "img/accommodation/rooms/article/room2/fullSize/3.jpg"
             }
           ]
         }
@@ -274,20 +266,20 @@
             {
               "title": "Camera din târnaț",
               "description": "la cerere paturile se pot despărți. Zugrăveala datează de prin anul 1950 și este foarte bine păstrată. Cam 2 săptămâni a durat atunci realizarea ei.",
-              "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/1.jpg",
-              "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/1.jpg"
+              "thumbnailUrl": "img/accommodation/rooms/article/room3/thumbnail/1.jpg",
+              "fullSizeUrl": "img/accommodation/rooms/article/room3/fullSize/1.jpg"
             },
             {
               "title": "Camera din târnaț - zona de relaxare din târnaț",
               "description": "aici găsiți ocochetă măsuță de cafea și multe locuri cu cărți vechi.",
-              "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/2.jpg",
-              "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/2.jpg"
+              "thumbnailUrl": "img/accommodation/rooms/article/room3/thumbnail/2.jpg",
+              "fullSizeUrl": "img/accommodation/rooms/article/room3/fullSize/2.jpg"
             },
             {
               "title": "Camera din târnaț - baie",
               "description": "accesul se face prin târnaț.",
-              "thumbnailUrl": "img/accommodation/rooms/room3/thumbnail/3.jpg",
-              "fullSizeUrl": "img/accommodation/rooms/room3/fullSize/3.jpg"
+              "thumbnailUrl": "img/accommodation/rooms/article/room3/thumbnail/3.jpg",
+              "fullSizeUrl": "img/accommodation/rooms/article/room3/fullSize/3.jpg"
             }
           ]
         }
@@ -372,7 +364,7 @@
       ]
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/accommodation/booksAndCosy"
       }
@@ -384,22 +376,18 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "10000",
           "page": "/review"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]

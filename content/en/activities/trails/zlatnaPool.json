@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Zlatna Pool",
-    "headlineText": "The trail to Zlatna pool",
+    "headline": "The trail to Zlatna pool",
     "description": "This is not just a simple trail to the pool, as you'll have to climb 'Dealul Mare' to reach the invigorating pool. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~7h </i>",
-    "headlineImg": "img/activities/trails/zlatnaPool/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/trails/zlatnaPool/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/trails/zlatnaPool",
       "textOnMouseOver": "See the trail...",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/trails/zlatnaPool/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/zlatnaPool/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/activities/trails/zlatnaPool/carouselAdvertise/2.jpg"
@@ -120,7 +120,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/recommendations/daffodilMeadow"
       }
@@ -133,8 +133,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

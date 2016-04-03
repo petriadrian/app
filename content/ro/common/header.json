@@ -1,7 +1,7 @@
 {
   "logo": {
     "text": "Casa Petri Roșia Montană",
-    "imgUrl": "img/common/siteLogo.png",
+    "displayOnShareImg": "img/common/siteLogo.png",
     "url": {
       "link": "/",
       "textOnMouseOver": "Întoarcete la pagina principală",

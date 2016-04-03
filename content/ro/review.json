@@ -1,31 +1,23 @@
 {
-  "presentation": {
+  "advertise": {
     "title": "Reviews",
-    "headlineText": "Crestem impreuna cu cei ce ne trec pragul",
+    "headline": "Crestem impreuna cu cei ce ne trec pragul",
     "description": "Vezi experiențele și impresiile celor care ne-au vizitat. O parte dintre ei pot fi contactați",
-    "headlineImg": "img/reviews/presentation.jpg",
-    "showPageHeadline": true,
-    "url": {
-      "link": "review",
-      "textOnMouseOver": "Vezi mai multe imagini și review-uri de la cei care ne-au vizitat",
-      "openInNewTab": false
-    },
-    "metaData": {
-      "title": "Casa Petri Rosia Montana",
-      "description": "Vezi experiențele și impresiile celor care ne-au vizitat. Descoperă și tu Roșia Montană: galeriile romane, industria minieră, clădirile de patrimoniu, lacurile și munții din zonă prin traseele de drumeție sau bicicletă propuse pe site.",
-      "imgUrl": "img/reviews/displayOnShare.jpg"
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/reviews/carouselAdvertise/1.jpg"
-      },
-      {
-        "img": "img/reviews/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/reviews/carouselAdvertise/3.jpg"
-      }
-    ]
+    "fullWidthImg": "img/reviews/advertise/fullWidthImg.jpg",
+    "smallBoxImg": "img/reviews/advertise/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "review",
+    "textOnMouseOver": "Vezi mai multe imagini și review-uri de la cei care ne-au vizitat",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Casa Petri Rosia Montana",
+    "description": "Vezi experiențele și impresiile celor care ne-au vizitat. Descoperă și tu Roșia Montană: galeriile romane, industria minieră, clădirile de patrimoniu, lacurile și munții din zonă prin traseele de drumeție sau bicicletă propuse pe site.",
+    "displayOnShareImg": "img/reviews/advertise/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
   },
   "sections": [
     {
@@ -129,22 +121,18 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]

@@ -4,7 +4,7 @@
         <div class="carousel-inner">
             {{each(i, slide) carouselImages}}
                 <div class="item ${(i==0)?"active":""}" title="${title}">
-                    <img src="${slide.carouselImgUrl}" alt="${title}">
+                    <img src="${slide.carouseldisplayOnShareImg}" alt="${title}">
                 </div>
             {{/each}}
         </div>

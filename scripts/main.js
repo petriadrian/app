@@ -1,8 +1,8 @@
 /**
  * Constants
  */
-const RO_LOCALE = 'ro';
-const EN_LOCALE = 'en';
+var  RO_LOCALE = 'ro';
+var  EN_LOCALE = 'en';
 
 /**
  * Main AngularJS Web Application
@@ -13,6 +13,8 @@ var app = angular.module('appFunctionality', ['ngRoute', 'ngAnimate', 'ui.bootst
  * Initialization
  */
 app.run(function ($rootScope, $window, $anchorScroll, $location, $http, localizationService) {
+    // lazy loading for pageContent - needed for metadata which are needed before the controllers are called
+    $rootScope.pageContent = {};
     //set a function for opening any url in new or same tab
     $rootScope.openUrl = function (url) {
         debugger;
@@ -109,8 +111,7 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
     }
     var pageContentPath = 'content/' + localizationService.language + pageSuffix + '.json';
     $http.get(pageContentPath).success(function (pageContentResult) {
-        $scope.pageContent = pageContentResult;
-        $rootScope.pagePresentation = $scope.pageContent.presentation;
+        $rootScope.pageContent = pageContentResult;
     });
     if ($location.hash()) {
         $timeout(function () {
@@ -132,8 +133,7 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
         }
         var translatedContentPath = 'content/' + newLanguage + pageSuffix + '.json';
         $http.get(translatedContentPath).success(function (translatedContent) {
-            $scope.pageContent = translatedContent;
-            $rootScope.metaData = $scope.pageContent.presentation.metaData;
+            $rootScope.pageContent = translatedContent;
         });
         console.log('language changed: page');
     };
@@ -203,8 +203,8 @@ app.controller('FooterCtrl', function ($scope, $rootScope, $http, $timeout, loca
             $scope.footerContent = footerContentResult;
         });
         var reviewsPagePath = 'content/' + newLanguage + '/review.json';
-        $http.get(reviewsPagePath).success(function (reviewPageContent) {
-            $scope.reviewPresentation = reviewPageContent.presentation;
+        $http.get(reviewsPagePath).success(function (reviewPageContentResult) {
+            $scope.reviewPageContent = reviewPageContentResult;
         });
         var reviewsArticlesPath = 'content/' + newLanguage + '/common/articles/reviews.json';
         $http.get(reviewsArticlesPath).success(function (reviewArticles) {
@@ -214,19 +214,15 @@ app.controller('FooterCtrl', function ($scope, $rootScope, $http, $timeout, loca
     };
 });
 
-app.controller('GetPagePresentationCtrl', function ($scope, $rootScope, $http, localizationService) {
-    var pageToLoadPath = 'content/' + localizationService.language + $scope.pagePresentationPath + '.json';
+app.controller('GetOtherPageContentCtrl', function ($scope, $rootScope, $http, localizationService) {
+    var pageToLoadPath = 'content/' + localizationService.language + $scope.otherPagePath + '.json';
     $http.get(pageToLoadPath).success(function (pageResult) {
-        $scope.pagePresentation = pageResult.presentation;
+        $scope.otherPageContent = pageResult;
     });
 });
 
 app.controller('GetCategoryArticlesCtrl', function ($scope, $rootScope) {
     $scope.categoryArticles = $rootScope.getArticles($scope.categoryArticles.category, $scope.categoryArticles.ids);
-});
-
-app.controller('metaDataController', function ($scope, $rootScope) {
-    $rootScope.metaData = {}
 });
 
 /**
@@ -311,11 +307,10 @@ app.directive('sectionForm', function ($timeout) {
                            scope.messageType = 'error';
                        }
                        scope.formObj = {};
-                       console.log("successfully sent form to email");
                        scope.formLoading = false;
                        $timeout(function() {
                            scope.showResponse = false;
-                       }, 20000);
+                       }, 30000);
                    },
                    error: function(errorThrown) {
                        for (var field in scope.formObj) {
@@ -329,7 +324,7 @@ app.directive('sectionForm', function ($timeout) {
                        scope.formLoading = false;
                        $timeout(function() {
                            scope.showResponse = false;
-                       }, 20000);
+                       }, 30000);
                    }
                });
            }

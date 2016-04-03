@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Roman Galleries",
-    "headlineText": "Discover the Roman Galleries – Orlea mountain trail",
+    "headline": "Discover the Roman Galleries – Orlea mountain trail",
     "description": "Go deep underground into the Roman Galleries and then visit the local attractions. <i class='fa fa-male'> ~3h </i>",
-    "headlineImg": "img/activities/trails/romanGalleries/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/trails/romanGalleries/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/trails/romanGalleries",
       "textOnMouseOver": "See the Orlea trail...",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/trails/romanGalleries/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/romanGalleries/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/activities/trails/romanGalleries/carouselAdvertise/2.jpg"
@@ -97,7 +97,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/activities/trails/weatherStation"
       }
@@ -110,8 +110,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

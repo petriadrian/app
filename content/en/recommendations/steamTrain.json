@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Steam train",
-    "headlineText": "Discover 'Moților' Area by Steam Train",
+    "headline": "Discover 'Moților' Area by Steam Train",
     "description": "<b>| June-Sept |</b> Travel on the narrow railway through mountains and valleys at the board of the stream train <b>~10km</b>",
-    "headlineImg": "img/recommendations/steamTrain/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/recommendations/steamTrain/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "recommendations/steamTrain",
       "textOnMouseOver": "See more...",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/recommendations/steamTrain/carouselAdvertise/1.jpg"
+        "img": "img/recommendations/steamTrain/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/recommendations/steamTrain/carouselAdvertise/2.jpg"
@@ -93,8 +93,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"

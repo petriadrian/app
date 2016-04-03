@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Scouts",
-    "headlineText": "",
+    "headline": "",
     "description": "Missing childhood? Get involved and get to know the scouts from Roșia Montană",
-    "headlineImg": "",
-    "showPageHeadline": true,
+    "fullWidthImg": "",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "http://www.cercetasirosiamontana.ro",
       "textOnMouseOver" : "See more...",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/recommendations/scoutsOng/carouselAdvertise/1.jpg"
+        "img": "img/recommendations/scoutsOng/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/recommendations/scoutsOng/carouselAdvertise/2.jpg"

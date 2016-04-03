@@ -1,25 +1,28 @@
 {
-  "presentation": {
+  "advertise": {
     "title": "HomePage",
-    "headlineText": "Roșia Montană - the oldest locality from Transylvania",
+    "headline": "Roșia Montană - the oldest locality from Transylvania",
     "description": "Here you'll find accommodation and trails along the touristic attractions",
-    "headlineImg": "img/homePage/presentation.jpg",
-    "showPageHeadline": false,
-    "url": {
-      "link": "/",
-      "textOnMouseOver": "homepage",
-      "openInNewTab": false
-    },
-    "metaData": {
-      "title": "Casa Petri Rosia Montana",
-      "description": "Accommodation in an old miner's house from the historical center of Rosia Montana, up in the Transylvania's mountains. Discover the roman galleries, mining industry, mountains, lakes or the historical buildings from our area by the hiking or cycling trails from this website. Rent guides and bikes.",
-      "imgUrl": "img/homePage/displayOnShare.jpg"
-    }
+    "fullWidthImg": "img/homePage/advertise/fullWidthImg.jpg",
+    "smallBoxImg": "img/homePage/advertise/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "/",
+    "textOnMouseOver": "homepage",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Casa Petri Rosia Montana",
+    "description": "Accommodation in an old miner's house from the historical center of Rosia Montana, up in the Transylvania's mountains. Discover the roman galleries, mining industry, mountains, lakes or the historical buildings from our area by the hiking or cycling trails from this website. Rent guides and bikes.",
+    "displayOnShareImg": "img/homePage/advertise/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": false
   },
   "sections": [
     {
-      "type": "advertise",
-      "centralCarousel": {
+      "type": "advertiseToOtherPages",
+      "carousel": {
         "timeInterval": "7000",
         "slides": [
           {
@@ -53,20 +56,18 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         }
       ]
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/accommodation/booksAndCosy"
       }
@@ -78,20 +79,18 @@
       "sectionId": "activities"
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/activities/trails/topAttractions"
       }
@@ -103,38 +102,30 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/recommendations/festival"
         },
         {
-          "timeInterval": "10000",
           "page": "/recommendations/marathon"
         },
         {
-          "timeInterval": "10000",
           "page": "/recommendations/monumentsRestorations"
         },
         {
-          "timeInterval": "10000",
           "page": "/recommendations/steamTrain"
         },
         {
-          "timeInterval": "10000",
           "page": "/recommendations/daffodilMeadow"
         },
         {
-          "timeInterval": "10000",
           "page": "/recommendations/firstMai"
         },
         {
-          "timeInterval": "10000",
           "page": "/recommendations/scoutsOng"
         },
         {
-          "timeInterval": "10000",
           "page": "/recommendations/souvenirShop"
         }
       ]

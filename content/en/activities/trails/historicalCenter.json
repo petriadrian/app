@@ -1,10 +1,10 @@
 {
   "presentation": {
     "title": "Historical center",
-    "headlineText": "The heritage buildings - historical center trail",
+    "headline": "The heritage buildings - historical center trail",
     "description": "Discover the historical center of the oldest Romanian locality - churches, old buildings, village paths. <i class='fa fa-male'> ~2h </i>",
-    "headlineImg": "img/activities/trails/historicalCenter/presentation.jpg",
-    "showPageHeadline": true,
+    "fullWidthImg": "img/activities/trails/historicalCenter/advertise/fullWidthImg.jpg",
+      "config": {     "showPageHeadline": true   },,
     "url": {
       "link": "activities/trails/historicalCenter",
       "textOnMouseOver": "See the historical center trail...",
@@ -12,7 +12,7 @@
     },
     "carouselAdvertise": [
       {
-        "img": "img/activities/trails/historicalCenter/carouselAdvertise/1.jpg"
+        "img": "img/activities/trails/historicalCenter/advertise/smallBoxImg.jpg"
       },
       {
         "img": "img/activities/trails/historicalCenter/carouselAdvertise/2.jpg"
@@ -101,7 +101,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
+      "type": "advertiseToOtherPages",
       "banner": {
         "page": "/activities/trails/carnic"
       }
@@ -114,8 +114,8 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertise",
-      "carouselBoxes": [
+      "type": "advertiseToOtherPages",
+      "detailBoxes": [
         {
           "timeInterval": "10000",
           "page": "/accommodation/rooms"
