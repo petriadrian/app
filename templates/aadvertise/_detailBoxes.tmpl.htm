@@ -1,12 +1,13 @@
 <div class="row advertiseBox">
-    <div ng-repeat="advertiseBox in section.carouselBoxes"
+    <div ng-repeat="advertiseBox in section.detailBoxes"
          ng-init="otherPagePath=advertiseBox.page"
          class="col-xs-8 col-sm-6 col-md-4 col-lg-3 defaultClickStyle displayOnCenter">
         <span ng-controller='GetOtherPageContentCtrl'
               ng-click="openUrl(otherPageContent.url)">
             <img alt="{{otherPageContent.title}}"
                  ng-src="{{otherPageContent.advertise.smallBoxImg}}"
-                 title="{{otherPageContent.url.textOnMouseOver}}">
+                 title="{{otherPageContent.url.textOnMouseOver}}"
+                 class="detailBoxImg">
             <div class="caption" title="{{otherPageContent.url.textOnMouseOver}}">
                 <h3 ng-bind-html="otherPageContent.advertise.title | trustHtml"></h3>
                 <p ng-bind-html="otherPageContent.advertise.description | trustHtml"></p>

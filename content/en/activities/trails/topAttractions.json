@@ -1,32 +1,23 @@
 {
-  "presentation": {
+  "advertise": {
     "title": "Top 10 atracții",
     "headline": "<b>Top 10 attractions</b> to visit in Roșia Montană",
     "description": "The trail of the main attractions: historical center, lakes, the Roman galleries. <i class='fa fa-male'> ~6h </i>",
     "fullWidthImg": "img/activities/trails/topAttractions/advertise/fullWidthImg.jpg",
-      "config": {     "showPageHeadline": true   },,
-    "url": {
-      "link": "activities/trails/topAttractions",
-      "textOnMouseOver": "See more details...",
-      "openInNewTab": false
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/activities/trails/topAttractions/advertise/smallBoxImg.jpg"
-      },
-      {
-        "img": "img/activities/trails/topAttractions/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/activities/trails/topAttractions/carouselAdvertise/3.jpg"
-      }
-    ]
+    "smallBoxImg": "img/activities/trails/topAttractions/advertise/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "activities/trails/topAttractions",
+    "textOnMouseOver": "See more details...",
+    "openInNewTab": false
+  },
+  "config": {
+    "showPageHeadline": true
   },
   "sections": [
     {
       "type": "title",
       "text": "<i class='fa fa-map-signs'></i> Trail map",
-
       "sectionId": "details",
       "addLinkInPageHeadline": true
     },
@@ -61,7 +52,6 @@
     {
       "type": "title",
       "text": "<i class='fa fa-star'></i> Attractions",
-
       "sectionId": "attractions",
       "addLinkInPageHeadline": true
     },
@@ -108,7 +98,6 @@
     {
       "type": "title",
       "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
-
       "sectionId": "nextTrail",
       "addLinkInPageHeadline": false
     },
@@ -121,7 +110,6 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> See also",
-
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },
@@ -129,19 +117,15 @@
       "type": "advertiseToOtherPages",
       "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]
