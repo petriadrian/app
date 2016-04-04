@@ -1,10 +1,10 @@
 {
-  "advertise": {
+  "presentation": {
     "title": "Hiking trails",
     "headline": "Hiking trails - discover the attractions of our area",
     "description": "From light walks among heritage buildings and old churches to hiking trails along lakes, nature attractions and villages",
-    "fullWidthImg": "img/activities/hiking/advertise/fullWidthImg.jpg",
-    "smallBoxImg": "img/activities/hiking/advertise/smallBoxImg.jpg"
+    "fullWidthImg": "img/activities/hiking/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/hiking/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "activities/hiking",
@@ -39,7 +39,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
           "page": "/activities/trails/historicalCenter"
@@ -65,7 +65,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
           "page": "/activities/trails/detunata"
@@ -85,7 +85,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
           "page": "/activities/cycling"

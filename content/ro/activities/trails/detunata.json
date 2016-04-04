@@ -3,30 +3,26 @@
     "title": "Detunata",
     "headline": "Traseul spre coloanele de bazalt - Detunata",
     "description": "Pornim spre Tăul Mare, tecem prin câteva cătune de munte până ajungem pe vârful coloanelor de bazalt. <i class='fa fa-male'> ~7h </i> | <i class='fa fa-bicycle'> ~5h </i>",
-    "fullWidthImg": "img/activities/trails/detunata/advertise/fullWidthImg.jpg",
-      "config": {     "showPageHeadline": true   },,
-    "url": {
-      "link": "activities/trails/detunata",
-      "textOnMouseOver": "Vezi traseul spre Detunata",
-      "openInNewTab": false
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/activities/trails/detunata/advertise/smallBoxImg.jpg"
-      },
-      {
-        "img": "img/activities/trails/detunata/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/activities/trails/detunata/carouselAdvertise/3.jpg"
-      }
-    ]
+    "fullWidthImg": "img/activities/trails/detunata/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/trails/detunata/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "activities/trails/detunata",
+    "textOnMouseOver": "Vezi traseul spre Detunata",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Traseul Detunata - drumeție la coloanele de bazalt",
+    "description": "Pornim spre Tăul Mare, tecem prin câteva cătune de munte până ajungem pe vârful coloanelor de bazalt de la Detunata.",
+    "displayOnShareImg": "img/activities/trails/detunata/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
   },
   "sections": [
     {
       "type": "title",
       "text": "<i class='fa fa-map-signs'></i> Traseu",
-
       "sectionId": "details",
       "addLinkInPageHeadline": true
     },
@@ -73,7 +69,6 @@
     {
       "type": "title",
       "text": "<i class='fa fa-star'></i> Atracții",
-
       "sectionId": "attractions",
       "addLinkInPageHeadline": true
     },
@@ -99,12 +94,11 @@
     {
       "type": "title",
       "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
-
       "sectionId": "nextTrail",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "banner": {
         "page": "/activities/trails/geamana"
       }
@@ -112,27 +106,22 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> Vezi și",
-
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]

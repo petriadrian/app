@@ -1,10 +1,10 @@
 {
-  "advertise": {
+  "presentation": {
     "title": "Relax",
     "headline": "Cărți și locșoare de citit sau de relaxare de prin Casa Petri",
     "description": "După un traseu de munte, relaxați-vă citind o carte în hamac. Vedeți cărțile și zonele de relaxare.",
-    "fullWidthImg": "img/accommodation/booksAndCosy/advertise/fullWidthImg.jpg",
-    "smallBoxImg": "img/accommodation/booksAndCosy/advertise/smallBoxImg.jpg"
+    "fullWidthImg": "img/accommodation/booksAndCosy/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/accommodation/booksAndCosy/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "accommodation/booksAndCosy",
@@ -14,7 +14,7 @@
   "metaData": {
     "title": "Cărți și locșoare de relaxare de la Casa Petri",
     "description": "După un traseu de munte sau bicicletă, relaxați-vă citind o carte în hamac. Vedeți aici cărțile și zonele de relaxare de la Casa Petri Rosia Montana.",
-    "displayOnShareImg": "img/accommodation/booksAndCosy/advertise/displayOnShareImg.jpg"
+    "displayOnShareImg": "img/accommodation/booksAndCosy/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": true
@@ -115,7 +115,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
           "page": "/accommodation/rooms"

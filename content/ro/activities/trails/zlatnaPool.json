@@ -3,21 +3,21 @@
     "title": "Ștrandul Zlatna",
     "headline": "Traseul spre Ștrandul Zlatna",
     "description": "Nu e doar un traseu spre ștrand pentru că pe drum veți transpira urcând 'Dealul Mare'. Dar destinația e răcoritoare. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~7h </i>",
-    "fullWidthImg": "img/activities/trails/zlatnaPool/advertise/fullWidthImg.jpg",
-      "config": {     "showPageHeadline": true   },,
-    "url": {
-      "link": "activities/trails/zlatnaPool",
-      "textOnMouseOver": "Vezi traseul spre Ștrandul Zlatna",
-      "openInNewTab": false
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/activities/trails/zlatnaPool/advertise/smallBoxImg.jpg"
-      },
-      {
-        "img": "img/activities/trails/zlatnaPool/carouselAdvertise/2.jpg"
-      }
-    ]
+    "fullWidthImg": "img/activities/trails/zlatnaPool/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/trails/zlatnaPool/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "activities/trails/zlatnaPool",
+    "textOnMouseOver": "Vezi traseul spre Ștrandul Zlatna",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Traseul de bicicletă spre Ștrandul Zlatna.",
+    "description": "Nu e doar un simplu traseu de la Roșia Montană spre ștrandul Zlatna deoarece pe drum veți transpira urcând 'Dealul Mare'. Dar destinația e răcoritoare.",
+    "displayOnShareImg": "img/activities/trails/zlatnaPool/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
   },
   "sections": [
     {
@@ -64,7 +64,6 @@
     {
       "type": "title",
       "text": "<i class='fa fa-star'></i> Atracții",
-
       "sectionId": "attractions",
       "addLinkInPageHeadline": true
     },
@@ -114,12 +113,11 @@
     {
       "type": "title",
       "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
-
       "sectionId": "nextTrail",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "banner": {
         "page": "/recommendations/daffodilMeadow"
       }
@@ -131,22 +129,18 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]

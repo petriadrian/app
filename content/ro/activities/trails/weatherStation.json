@@ -3,24 +3,21 @@
     "title": "Stația Meteo",
     "headline": "Descoperă traseul drumului de țară spre Stația Meteo",
     "description": "Vizităm plaiurile Țarinei, lacuri de munte și priveliștea întregului ținut de pe Vârful Rotundu. <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
-    "fullWidthImg": "img/activities/trails/weatherStation/advertise/fullWidthImg.jpg",
-      "config": {     "showPageHeadline": true   },,
-    "url": {
-      "link": "activities/trails/weatherStation",
-      "textOnMouseOver": "Vezi traseul spre Stația Meteo",
-      "openInNewTab": false
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/activities/trails/weatherStation/advertise/smallBoxImg.jpg"
-      },
-      {
-        "img": "img/activities/trails/weatherStation/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/activities/trails/weatherStation/carouselAdvertise/3.jpg"
-      }
-    ]
+    "fullWidthImg": "img/activities/trails/weatherStation/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/trails/weatherStation/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "activities/trails/weatherStation",
+    "textOnMouseOver": "Vezi traseul spre Stația Meteo",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Descoperă traseul drumului de țară spre Stația Meteo",
+    "description": "Vizităm plaiurile Țarinei, lacuri de munte și priveliștea întregului ținut de pe Vârful Rotundu.",
+    "displayOnShareImg": "img/activities/trails/weatherStation/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
   },
   "sections": [
     {
@@ -72,7 +69,6 @@
     {
       "type": "title",
       "text": "<i class='fa fa-star'></i> Atracții",
-
       "sectionId": "attractions",
       "addLinkInPageHeadline": true
     },
@@ -110,12 +106,11 @@
     {
       "type": "title",
       "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
-
       "sectionId": "nextTrail",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "banner": {
         "page": "/activities/trails/detunata"
       }
@@ -123,27 +118,22 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> Vezi și",
-
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]

@@ -3,23 +3,12 @@
     "title": "Cercetașii",
     "headline": "",
     "description": "Dor de copilarie? Implica-te și cunoște-i pe cercetașii din Rosia Montană",
-    "fullWidthImg": "",
-      "config": {     "showPageHeadline": true   },,
-    "url": {
-      "link": "http://www.cercetasirosiamontana.ro",
-      "textOnMouseOver" : "Vezi pagina oficială a cercetașilor",
-      "openInNewTab": true
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/recommendations/scoutsOng/advertise/smallBoxImg.jpg"
-      },
-      {
-        "img": "img/recommendations/scoutsOng/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/recommendations/scoutsOng/carouselAdvertise/3.jpg"
-      }
-    ]
+    "fullWidthImg": "img/recommendations/scoutsOng/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/recommendations/scoutsOng/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "http://www.cercetasirosiamontana.ro",
+    "textOnMouseOver": "Vezi pagina oficială a cercetașilor",
+    "openInNewTab": true
   }
 }

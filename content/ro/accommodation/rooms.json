@@ -1,10 +1,10 @@
 {
-  "advertise": {
+  "presentation": {
     "title": "Camere",
     "headline": "O cafea într-o dimineață la Roșia Montană?",
     "description": "Vezi interiorul aceastei vechi case de mineri din centrul istoric Roșia Montană. Aici se pot face <b>rezervări camere</b>.",
-    "fullWidthImg": "img/accommodation/rooms/advertise/fullWidthImg.jpg",
-    "smallBoxImg": "img/accommodation/rooms/advertise/smallBoxImg.jpg"
+    "fullWidthImg": "img/accommodation/rooms/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/accommodation/rooms/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "accommodation/rooms",
@@ -14,7 +14,7 @@
   "metaData": {
     "title": "Cazare Rosia Montana - Casa Petri",
     "description": "Vezi camerele din această veche casă de mineri din centrul istoric. Descoperă Roșia Montană (galeriile romane, industria minieră, centrul vechi, munți, lacuri...) Aici găsești trasee de drumeție sau bicicletă, ghizi și biciclete de închiriat.",
-    "displayOnShareImg": "img/accommodation/rooms/advertise/displayOnShareImg.jpg"
+    "displayOnShareImg": "img/accommodation/rooms/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": true
@@ -364,7 +364,7 @@
       ]
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "banner": {
         "page": "/accommodation/booksAndCosy"
       }
@@ -376,7 +376,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
           "page": "/accommodation/camping"

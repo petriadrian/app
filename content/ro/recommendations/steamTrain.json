@@ -3,30 +3,26 @@
     "title": "Mocănița",
     "headline": "Străbate Țara Moților în Mocănița cu abur",
     "description": "<b>| Iun-Sept |</b> Strabate calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur <b>~10km</b>",
-    "fullWidthImg": "img/recommendations/steamTrain/advertise/fullWidthImg.jpg",
-      "config": {     "showPageHeadline": true   },,
-    "url": {
-      "link": "recommendations/steamTrain",
-      "textOnMouseOver": "Vezi mai multe detalii",
-      "openInNewTab": false
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/recommendations/steamTrain/advertise/smallBoxImg.jpg"
-      },
-      {
-        "img": "img/recommendations/steamTrain/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/recommendations/steamTrain/carouselAdvertise/3.jpg"
-      }
-    ]
+    "fullWidthImg": "img/recommendations/steamTrain/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/recommendations/steamTrain/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "recommendations/steamTrain",
+    "textOnMouseOver": "Vezi mai multe detalii",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Străbate Țara Moților în Mocănița cu abur",
+    "description": "Strabate calea ferata ingusta prin munti si vai la bordul Mocanitei cu abur.",
+    "displayOnShareImg": "img/recommendations/steamTrain/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
   },
   "sections": [
     {
       "type": "title",
       "text": "<i class='fa fa-info-circle'></i> Detalii",
-
       "sectionId": "details",
       "addLinkInPageHeadline": true
     },
@@ -42,14 +38,14 @@
             {
               "title": "Mocanita prin satul Cristea",
               "description": "",
-              "thumbnailUrl": "img/recommendations/steamTrain/thumbnail/1.jpg",
-              "fullSizeUrl": "img/recommendations/steamTrain/fullSize/1.jpg"
+              "thumbnailUrl": "img/recommendations/steamTrain/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/recommendations/steamTrain/article/fullSize/1.jpg"
             },
             {
               "title": "Mocanita",
               "description": "",
-              "thumbnailUrl": "img/recommendations/steamTrain/thumbnail/2.jpg",
-              "fullSizeUrl": "img/recommendations/steamTrain/fullSize/2.jpg"
+              "thumbnailUrl": "img/recommendations/steamTrain/article/thumbnail/2.jpg",
+              "fullSizeUrl": "img/recommendations/steamTrain/article/fullSize/2.jpg"
             }
           ]
         }
@@ -58,7 +54,6 @@
     {
       "type": "title",
       "text": "<i class='fa fa-map-signs'></i> Cum ajung la gară?",
-
       "sectionId": "map",
       "addLinkInPageHeadline": true
     },
@@ -88,27 +83,22 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> Vezi și",
-
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]

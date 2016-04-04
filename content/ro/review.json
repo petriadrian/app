@@ -1,10 +1,10 @@
 {
-  "advertise": {
+  "presentation": {
     "title": "Reviews",
     "headline": "Crestem impreuna cu cei ce ne trec pragul",
     "description": "Vezi experiențele și impresiile celor care ne-au vizitat. O parte dintre ei pot fi contactați",
-    "fullWidthImg": "img/reviews/advertise/fullWidthImg.jpg",
-    "smallBoxImg": "img/reviews/advertise/smallBoxImg.jpg"
+    "fullWidthImg": "img/reviews/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/reviews/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "review",
@@ -14,7 +14,7 @@
   "metaData": {
     "title": "Casa Petri Rosia Montana",
     "description": "Vezi experiențele și impresiile celor care ne-au vizitat. Descoperă și tu Roșia Montană: galeriile romane, industria minieră, clădirile de patrimoniu, lacurile și munții din zonă prin traseele de drumeție sau bicicletă propuse pe site.",
-    "displayOnShareImg": "img/reviews/advertise/displayOnShareImg.jpg"
+    "displayOnShareImg": "img/reviews/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": true
@@ -121,7 +121,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
           "page": "/accommodation/rooms"

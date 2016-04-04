@@ -3,30 +3,26 @@
     "title": "4 lacuri",
     "headline": "Descoperă traseul celor 4 lacuri",
     "description": "Turul localității pe un drum de țară printre lacuri, dealuri și mici sate de munte. <i class='fa fa-male'> ~6h </i> | <i class='fa fa-bicycle'> ~4h </i>",
-    "fullWidthImg": "img/activities/trails/fourLakes/advertise/fullWidthImg.jpg",
-      "config": {     "showPageHeadline": true   },,
-    "url": {
-      "link": "activities/trails/fourLakes",
-      "textOnMouseOver": "Vezi traseul celor 4 lacuri",
-      "openInNewTab": false
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/activities/trails/fourLakes/advertise/smallBoxImg.jpg"
-      },
-      {
-        "img": "img/activities/trails/fourLakes/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/activities/trails/fourLakes/carouselAdvertise/3.jpg"
-      }
-    ]
+    "fullWidthImg": "img/activities/trails/fourLakes/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/trails/fourLakes/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "activities/trails/fourLakes",
+    "textOnMouseOver": "Vezi traseul celor 4 lacuri",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Descoperă traseul celor 4 lacuri",
+    "description": "Turul localității pe un drum de țară printre lacuri, dealuri și mici sate de munte.",
+    "displayOnShareImg": "img/activities/trails/fourLakes/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
   },
   "sections": [
     {
       "type": "title",
       "text": "<i class='fa fa-map-signs'></i> Traseu",
-
       "sectionId": "map",
       "addLinkInPageHeadline": true
     },
@@ -68,7 +64,6 @@
     {
       "type": "title",
       "text": "<i class='fa fa-star'></i> Atracții",
-
       "sectionId": "attractions",
       "addLinkInPageHeadline": true
     },
@@ -103,12 +98,11 @@
     {
       "type": "title",
       "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
-
       "sectionId": "nextTrail",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "banner": {
         "page": "/activities/trails/rollerCoaster"
       }
@@ -116,27 +110,22 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> Vezi și",
-
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]

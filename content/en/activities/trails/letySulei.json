@@ -1,32 +1,28 @@
 {
   "presentation": {
     "title": "Lety and Sulei peak",
-    "headline": "Hiking trail to Lety and Șulei ",
+    "headline": "The hiking trail to the Lety and Sulei peaks",
     "description": "Climb on 2 peaks, visit 2 lakes, a hidden village and an gallery with marks of gold diggings. <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
-    "fullWidthImg": "img/activities/trails/letySulei/advertise/fullWidthImg.jpg",
-      "config": {     "showPageHeadline": true   },,
-    "url": {
-      "link": "activities/trails/letySulei",
-      "textOnMouseOver": "See the Lety and Șulei trail...",
-      "openInNewTab": false
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/activities/trails/letySulei/advertise/smallBoxImg.jpg"
-      },
-      {
-        "img": "img/activities/trails/letySulei/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/activities/trails/letySulei/carouselAdvertise/3.jpg"
-      }
-    ]
+    "fullWidthImg": "img/activities/trails/letySulei/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/trails/letySulei/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "activities/trails/letySulei",
+    "textOnMouseOver": "See the Lety and Șulei trail...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "The hiking trail to the Lety and Sulei peaks",
+    "description": "Climb on 2 peaks, visit 2 lakes, a hidden village and an gallery with marks of gold diggings.",
+    "displayOnShareImg": "img/activities/trails/letySulei/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
   },
   "sections": [
     {
       "type": "title",
       "text": "<i class='fa fa-map-signs'></i> Trail map",
-
       "sectionId": "details",
       "addLinkInPageHeadline": true
     },
@@ -73,7 +69,6 @@
     {
       "type": "title",
       "text": "<i class='fa fa-star'></i> Attractions",
-
       "sectionId": "attractions",
       "addLinkInPageHeadline": true
     },
@@ -111,12 +106,11 @@
     {
       "type": "title",
       "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
-
       "sectionId": "nextTrail",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "banner": {
         "page": "/activities/trails/historicalCenter"
       }
@@ -124,27 +118,22 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> See also",
-
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]

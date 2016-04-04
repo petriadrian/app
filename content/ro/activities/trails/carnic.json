@@ -2,25 +2,22 @@
   "presentation": {
     "title": "Vârful Cârnic",
     "headline": "Drumeție pe muntele de aur - traseul Cârnic",
-    "description": " De pe ulițele satului ajungem la Tăul Brazi și apoi urcăm pe masivul Cârnic la Piatra Corbului și la Sfinx. <i class='fa fa-male'> ~3h </i>",
-    "fullWidthImg": "img/activities/trails/carnic/advertise/fullWidthImg.jpg",
-      "config": {     "showPageHeadline": true   },,
-    "url": {
-      "link": "activities/trails/carnic",
-      "textOnMouseOver": "Vezi traseul Muntelui Cârnic",
-      "openInNewTab": false
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/activities/trails/carnic/advertise/smallBoxImg.jpg"
-      },
-      {
-        "img": "img/activities/trails/carnic/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/activities/trails/carnic/carouselAdvertise/3.jpg"
-      }
-    ]
+    "description": "De pe ulițele satului ajungem la Tăul Brazi și apoi urcăm pe masivul Cârnic la Piatra Corbului și la Sfinx. <i class='fa fa-male'> ~3h </i>",
+    "fullWidthImg": "img/activities/trails/carnic/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/trails/carnic/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "activities/trails/carnic",
+    "textOnMouseOver": "Vezi traseul Muntelui Cârnic",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Traseul Cârnic - drumeție pe muntele de aur",
+    "description": "De pe ulițele satului ajungem la Tăul Brazi și apoi urcăm pe masivul Cârnic la Piatra Corbului și la Sfinx.",
+    "displayOnShareImg": "img/activities/trails/carnic/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
   },
   "sections": [
     {
@@ -67,7 +64,6 @@
     {
       "type": "title",
       "text": "<i class='fa fa-star'></i> Atracții",
-
       "sectionId": "attractions",
       "addLinkInPageHeadline": true
     },
@@ -99,12 +95,11 @@
     {
       "type": "title",
       "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
-
       "sectionId": "nextTrail",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "banner": {
         "page": "/activities/trails/romanGalleries"
       }
@@ -116,22 +111,18 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]

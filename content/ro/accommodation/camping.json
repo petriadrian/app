@@ -1,10 +1,10 @@
 {
-  "advertise": {
+  "presentation": {
     "title": "Campare",
     "headline": "Am adormit sub stele, era munte, liniște, răcoare...",
     "description": "Campare în siguranță cu priveliște spre munte și accees la baie/bucătărie. <b>Rezervă un loc de campare</b> în curtea casei.",
-    "fullWidthImg": "img/accommodation/camping/advertise/fullWidthImg.jpg",
-    "smallBoxImg": "img/accommodation/camping/advertise/smallBoxImg.jpg"
+    "fullWidthImg": "img/accommodation/camping/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/accommodation/camping/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "accommodation/camping",
@@ -14,7 +14,7 @@
   "metaData": {
     "title": "Campare Rosia Montana - Casa Petri",
     "description": "Locuri de campare în siguranță cu priveliște spre munte și acces la baie sau bucătărie. Descoperă Roșia Montană (galeriile romane, industria minieră, centrul vechi, munți, lacuri...) Aici găsești trasee de drumeție sau bicicletă, ghizi și biciclete de închiriat.",
-    "displayOnShareImg": "img/accommodation/camping/advertise/displayOnShareImg.jpg"
+    "displayOnShareImg": "img/accommodation/camping/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": true
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "banner": {
         "page": "/accommodation/booksAndCosy"
       }
@@ -177,7 +177,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
           "page": "/review"

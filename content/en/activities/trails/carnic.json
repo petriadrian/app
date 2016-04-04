@@ -3,24 +3,21 @@
     "title": "Cârnic peak",
     "headline": "Hike on the golden mountain - Cârnic trail",
     "description": "From village we go to the Firs Lake and then we climb on the top of Cârnic, to the Raven Stone and Sfinx. <i class='fa fa-male'> ~3h </i>",
-    "fullWidthImg": "img/activities/trails/carnic/advertise/fullWidthImg.jpg",
-      "config": {     "showPageHeadline": true   },,
-    "url": {
-      "link": "activities/trails/carnic",
-      "textOnMouseOver": "See the Cârnic mountain trail...",
-      "openInNewTab": false
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/activities/trails/carnic/advertise/smallBoxImg.jpg"
-      },
-      {
-        "img": "img/activities/trails/carnic/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/activities/trails/carnic/carouselAdvertise/3.jpg"
-      }
-    ]
+    "fullWidthImg": "img/activities/trails/carnic/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/trails/carnic/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "activities/trails/carnic",
+    "textOnMouseOver": "See the Cârnic mountain trail...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Cârnic trail - hike on the golden mountain",
+    "description": "From the historical center we head to the Firs Lake and then we climb on the top of Cârnic, to the Raven Stone and the Sfinx.",
+    "displayOnShareImg": "img/activities/trails/carnic/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
   },
   "sections": [
     {
@@ -98,12 +95,11 @@
     {
       "type": "title",
       "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
-
       "sectionId": "nextTrail",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "banner": {
         "page": "/activities/trails/romanGalleries"
       }
@@ -115,22 +111,18 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]

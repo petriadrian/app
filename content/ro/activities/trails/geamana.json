@@ -3,30 +3,26 @@
     "title": "Geamăna",
     "headline": "Traseul spre satul scufundat - Geamăna",
     "description": "Care este prețul metalelor din telefon sau bijuterii? Vezi cariera de suprafață și satul îngropat în steril. <i class='fa fa-male'> ~9h </i> | <i class='fa fa-bicycle'> ~6h </i>",
-    "fullWidthImg": "img/activities/trails/geamana/advertise/fullWidthImg.jpg",
-      "config": {     "showPageHeadline": true   },,
-    "url": {
-      "link": "activities/trails/geamana",
-      "textOnMouseOver": "Vezi traseul spre Geamana",
-      "openInNewTab": false
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/activities/trails/geamana/advertise/smallBoxImg.jpg"
-      },
-      {
-        "img": "img/activities/trails/geamana/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/activities/trails/geamana/carouselAdvertise/3.jpg"
-      }
-    ]
+    "fullWidthImg": "img/activities/trails/geamana/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/trails/geamana/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "activities/trails/geamana",
+    "textOnMouseOver": "Vezi traseul spre Geamana",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Traseul Geamăna - drumeție spre satul scufundat",
+    "description": "Care este prețul metalelor din telefon sau bijuterii? Vezi cariera de suprafață și satul îngropat în steril.",
+    "displayOnShareImg": "img/activities/trails/geamana/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
   },
   "sections": [
     {
       "type": "title",
       "text": "<i class='fa fa-map-signs'></i> Traseu",
-
       "sectionId": "details",
       "addLinkInPageHeadline": true
     },
@@ -73,7 +69,6 @@
     {
       "type": "title",
       "text": "<i class='fa fa-star'></i> Atracții",
-
       "sectionId": "attractions",
       "addLinkInPageHeadline": true
     },
@@ -102,12 +97,11 @@
     {
       "type": "title",
       "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
-
       "sectionId": "nextTrail",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "banner": {
         "page": "/activities/trails/weatherStation"
       }
@@ -115,27 +109,22 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> See also",
-
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]

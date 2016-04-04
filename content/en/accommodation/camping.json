@@ -1,10 +1,10 @@
 {
-  "advertise": {
+  "presentation": {
     "title": "Camping",
     "headline": "My tent beside the mountains... is my home",
     "description": "Safe camping with mountain view and bathroom or kitchen access. <b>Book a camping place</b> in our yard.",
-    "fullWidthImg": "img/accommodation/camping/advertise/fullWidthImg.jpg",
-    "smallBoxImg": "img/accommodation/camping/advertise/smallBoxImg.jpg"
+    "fullWidthImg": "img/accommodation/camping/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/accommodation/camping/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "accommodation/camping",
@@ -14,7 +14,7 @@
   "metaData": {
     "title": "Camping Rosia Montana - Casa Petri",
     "description": "Safe camping with mountain view and bathroom or kitchen access. Grab your backpack and discover Rosia Montana (roman galleries, mining industry, mountains, lakes, historical buildings). You will find here hiking or cycling trails in the area, guides and bikes to rent",
-    "displayOnShareImg": "img/accommodation/camping/advertise/displayOnShareImg.jpg"
+    "displayOnShareImg": "img/accommodation/camping/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": true
@@ -51,14 +51,14 @@
             {
               "title": "Camping area",
               "description": "yard",
-              "thumbnailUrl": "img/accommodation/camping/articles/thumbnail/1.jpg",
-              "fullSizeUrl": "img/accommodation/camping/articles/fullSize/1.jpg"
+              "thumbnailUrl": "img/accommodation/camping/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/accommodation/camping/article/fullSize/1.jpg"
             },
             {
               "title": "Camping area - bathroom",
               "description": " Heating with wood boiler",
-              "thumbnailUrl": "img/accommodation/camping/articles/thumbnail/3.jpg",
-              "fullSizeUrl": "img/accommodation/camping/articles/fullSize/3.jpg"
+              "thumbnailUrl": "img/accommodation/camping/article/thumbnail/3.jpg",
+              "fullSizeUrl": "img/accommodation/camping/article/fullSize/3.jpg"
             }
           ]
         }
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "banner": {
         "page": "/accommodation/booksAndCosy"
       }
@@ -177,7 +177,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
           "page": "/review"

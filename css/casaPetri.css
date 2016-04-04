@@ -112,21 +112,21 @@ body {
     margin: auto;
 }
 
-.advertiseBox {
+.presentationBox {
     /*border-bottom: 1px solid #B9B9B9;*/
 }
 
-.advertiseBox .caption {
+.presentationBox .caption {
     height: 11em;
     overflow: hidden;
 }
 
-.advertiseBox .carousel-indicators,
-.advertiseBox .carousel-control {
+.presentationBox .carousel-indicators,
+.presentationBox .carousel-control {
     display: none;
 }
 
-.advertiseBox .carousel-inner img {
+.presentationBox .carousel-inner img {
     width: 90%;
     margin: auto;
 }

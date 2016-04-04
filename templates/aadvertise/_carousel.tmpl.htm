@@ -6,12 +6,12 @@
                           ng-click="openUrl(otherPageContent.url)"
                           title="{{otherPageContent.url.textOnMouseOver}}"
                           class="defaultClickStyle">
-                        <img alt="{{otherPageContent.advertise.title}}"
-                             ng-src="{{otherPageContent.advertise.fullWidthImg}}">
+                        <img alt="{{otherPageContent.presentation.title}}"
+                             ng-src="{{otherPageContent.presentation.fullWidthImg}}">
                         <div class="carousel-caption">
-                            <h3 ng-bind-html="otherPageContent.advertise.headline  | trustHtml"></h3>
+                            <h3 ng-bind-html="otherPageContent.presentation.headline  | trustHtml"></h3>
                             <p class="hidden-xs hidden-sm"
-                               ng-bind-html="otherPageContent.advertise.description | trustHtml">
+                               ng-bind-html="otherPageContent.presentation.description | trustHtml">
                             </p>
                         </div>
                     </span>

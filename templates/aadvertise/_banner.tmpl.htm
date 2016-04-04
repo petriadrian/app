@@ -3,12 +3,12 @@
      ng-controller="GetOtherPageContentCtrl"
      title="{{otherPageContent.url.textOnMouseOver}}"
      ng-click="openUrl(otherPageContent.url)">
-    <h1 ng-bind-html="otherPageContent.advertise.headline | trustHtml"></h1>
+    <h1 ng-bind-html="otherPageContent.presentation.headline | trustHtml"></h1>
     <p class="hidden-xs lead"
-       ng-bind-html="otherPageContent.advertise.description | trustHtml"></p>
+       ng-bind-html="otherPageContent.presentation.description | trustHtml"></p>
     <div class="gradientFromWhiteToTransparent">
-        <img alt="{{otherPageContent.advertise.title}}"
-             ng-src="{{otherPageContent.advertise.fullWidthImg}}">
+        <img alt="{{otherPageContent.presentation.title}}"
+             ng-src="{{otherPageContent.presentation.fullWidthImg}}">
     </div>
 
 </div>

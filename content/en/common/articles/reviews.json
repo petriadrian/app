@@ -9,8 +9,8 @@
       {
         "title": "Nastasia - Barcelona(SP)",
         "description": " at Casa Petri",
-        "thumbnailUrl": "img/reviews/reviewer/thumbnail/1.jpg",
-        "fullSizeUrl": "img/reviews/reviewer/fullSize/1.jpg"
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/1.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/1.jpg"
       }
     ]
   },
@@ -25,8 +25,8 @@
       {
         "title": "Andreea - Oradea(RO)",
         "description": " at Casa Petri",
-        "thumbnailUrl": "img/reviews/reviewer/thumbnail/2.jpg",
-        "fullSizeUrl": "img/reviews/reviewer/fullSize/2.jpg"
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/2.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/2.jpg"
       }
     ]
   },
@@ -38,8 +38,8 @@
       {
         "title": "Felicia - Satu Mare(RO)",
         "description": " at Casa Petri",
-        "thumbnailUrl": "img/reviews/reviewer/thumbnail/3.jpg",
-        "fullSizeUrl": "img/reviews/reviewer/fullSize/3.jpg"
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/3.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/3.jpg"
       }
     ]
   },
@@ -51,8 +51,8 @@
       {
         "title": "Felicia - Satu Mare(RO)",
         "description": " at Casa Petri",
-        "thumbnailUrl": "img/reviews/reviewer/thumbnail/3.jpg",
-        "fullSizeUrl": "img/reviews/reviewer/fullSize/3.jpg"
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/3.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/3.jpg"
       }
     ]
   },
@@ -64,8 +64,8 @@
       {
         "title": "Ana von Aether - Paris(FR)",
         "description": " with her friends at Fân Fest",
-        "thumbnailUrl": "img/reviews/reviewer/thumbnail/4.jpg",
-        "fullSizeUrl": "img/reviews/reviewer/fullSize/4.jpg"
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/4.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/4.jpg"
       }
     ]
   },
@@ -79,8 +79,8 @@
       {
         "title": "Alex Bartiș - Cluj-Napoca(RO)",
         "description": " with Sebi on Cârnic Peak",
-        "thumbnailUrl": "img/reviews/reviewer/thumbnail/5.jpg",
-        "fullSizeUrl": "img/reviews/reviewer/fullSize/5.jpg"
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/5.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/5.jpg"
       }
     ]
   },
@@ -92,8 +92,8 @@
       {
         "title": "Josefen - Denmark",
         "description": " from our notebook with reviews",
-        "thumbnailUrl": "img/reviews/reviewer/thumbnail/6.jpg",
-        "fullSizeUrl": "img/reviews/reviewer/fullSize/6.jpg"
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/6.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/6.jpg"
       }
     ]
   },
@@ -107,8 +107,8 @@
       {
         "title": "Alexandra Postelnicu - Bucharest(RO)",
         "description": " with her friends on 'Rotundu' Peak - Weather Station",
-        "thumbnailUrl": "img/reviews/reviewer/thumbnail/7.jpg",
-        "fullSizeUrl": "img/reviews/reviewer/fullSize/7.jpg"
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/7.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/7.jpg"
       }
     ]
   },
@@ -122,8 +122,8 @@
       {
         "title": "Ramona Dominicioiu - Cluj Napoca(RO)",
         "description": " with her team at Fan Fest where they sell organic seeds.",
-        "thumbnailUrl": "img/reviews/reviewer/thumbnail/8.jpg",
-        "fullSizeUrl": "img/reviews/reviewer/fullSize/8.jpg"
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/8.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/8.jpg"
       }
     ]
   },
@@ -135,8 +135,8 @@
       {
         "title": "Sophie & Alma - Leipzig(DE)",
         "description": " from our notebook with reviews.",
-        "thumbnailUrl": "img/reviews/reviewer/thumbnail/9.jpg",
-        "fullSizeUrl": "img/reviews/reviewer/fullSize/9.jpg"
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/9.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/9.jpg"
       }
     ]
   },
@@ -148,8 +148,8 @@
       {
         "title": "Livia - Cluj Napoca(RO)",
         "description": "din caietul nostru cu impresii.",
-        "thumbnailUrl": "img/reviews/reviewer/thumbnail/10.jpg",
-        "fullSizeUrl": "img/reviews/reviewer/fullSize/10.jpg"
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/10.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/10.jpg"
       }
     ]
   }

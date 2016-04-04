@@ -1,10 +1,10 @@
 {
-  "advertise": {
+  "presentation": {
     "title": "HomePage",
     "headline": "Roșia Montană - the oldest locality from Transylvania",
     "description": "Here you'll find accommodation and trails along the touristic attractions",
-    "fullWidthImg": "img/homePage/advertise/fullWidthImg.jpg",
-    "smallBoxImg": "img/homePage/advertise/smallBoxImg.jpg"
+    "fullWidthImg": "img/homePage/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/homePage/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "/",
@@ -14,14 +14,14 @@
   "metaData": {
     "title": "Casa Petri Rosia Montana",
     "description": "Accommodation in an old miner's house from the historical center of Rosia Montana, up in the Transylvania's mountains. Discover the roman galleries, mining industry, mountains, lakes or the historical buildings from our area by the hiking or cycling trails from this website. Rent guides and bikes.",
-    "displayOnShareImg": "img/homePage/advertise/displayOnShareImg.jpg"
+    "displayOnShareImg": "img/homePage/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": false
   },
   "sections": [
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "carousel": {
         "timeInterval": "7000",
         "slides": [
@@ -56,7 +56,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
           "page": "/accommodation/rooms"
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "banner": {
         "page": "/accommodation/booksAndCosy"
       }
@@ -79,7 +79,7 @@
       "sectionId": "activities"
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
           "page": "/activities/hiking"
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "banner": {
         "page": "/activities/trails/topAttractions"
       }
@@ -102,7 +102,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
           "page": "/recommendations/festival"

@@ -3,23 +3,12 @@
     "title": "Suvenir",
     "headline": "",
     "description": "Cumpară produse tradiționale lucrate manual de localnicii din Rosia Montană",
-    "fullWidthImg": "",
-      "config": {     "showPageHeadline": true   },,
-    "url": {
-      "link": "http://www.madeinrosiamontana.ro",
-      "textOnMouseOver" : "Vezi pagina oficială made in Roșia Montană",
-      "openInNewTab": true
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/recommendations/souvenirShop/advertise/smallBoxImg.jpg"
-      },
-      {
-        "img": "img/recommendations/souvenirShop/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/recommendations/souvenirShop/carouselAdvertise/3.jpg"
-      }
-    ]
+    "fullWidthImg": "img/recommendations/souvenirShop/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/recommendations/souvenirShop/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "http://www.madeinrosiamontana.ro",
+    "textOnMouseOver": "Vezi pagina oficială made in Roșia Montană",
+    "openInNewTab": true
   }
 }

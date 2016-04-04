@@ -177,15 +177,17 @@ app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, $loca
 });
 
 app.controller('FooterCtrl', function ($scope, $rootScope, $http, $timeout, localizationService) {
-
+    // get reviews page content for presentation
     var reviewsPagePath = 'content/' + localizationService.language + '/review.json';
-    $http.get(reviewsPagePath).success(function (reviewPageContent) {
-        $scope.reviewPresentation = reviewPageContent.presentation;
+    $http.get(reviewsPagePath).success(function (reviewPageContentResult) {
+        $scope.reviewPageContent = reviewPageContentResult;
     });
+    // get reviews articles
     var reviewsArticlesPath = 'content/' + localizationService.language + '/common/articles/reviews.json';
     $http.get(reviewsArticlesPath).success(function (reviewArticles) {
         $scope.reviews = reviewArticles;
     });
+    // get footer content
     var footerContentPath = 'content/' + localizationService.language + '/common/footer.json';
     $http.get(footerContentPath).success(function (footerContentResult) {
         $scope.footerContent = footerContentResult;

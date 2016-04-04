@@ -3,24 +3,26 @@
     "title": "Vulcan mountain",
     "headline": "Trail to Vulcan peak",
     "description": "The winding road along a pine forest and Apuseni villages, up to the Vulcan mountain. <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~5h </i>",
-    "fullWidthImg": "img/activities/trails/vulcan/advertise/fullWidthImg.jpg",
-      "config": {     "showPageHeadline": true   },,
-    "url": {
-      "link": "activities/trails/vulcan",
-      "textOnMouseOver": "See the Vulcan trail...",
-      "openInNewTab": false
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/activities/trails/vulcan/advertise/smallBoxImg.jpg"
-      }
-    ]
+    "fullWidthImg": "img/activities/trails/vulcan/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/trails/vulcan/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "activities/trails/vulcan",
+    "textOnMouseOver": "See the Vulcan trail...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Trail to Vulcan peak. For bikes",
+    "description": "The winding road along a pine forest and Apuseni villages, from Rosia Montana to the Vulcan mountain.",
+    "displayOnShareImg": "img/activities/trails/vulcan/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
   },
   "sections": [
     {
       "type": "title",
       "text": "<i class='fa fa-map-signs'></i> Trail map",
-
       "sectionId": "details",
       "addLinkInPageHeadline": true
     },
@@ -62,7 +64,6 @@
     {
       "type": "title",
       "text": "<i class='fa fa-star'></i> Attractions",
-
       "sectionId": "attractions",
       "addLinkInPageHeadline": true
     },
@@ -94,12 +95,11 @@
     {
       "type": "title",
       "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
-
       "sectionId": "nextTrail",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "banner": {
         "page": "/activities/trails/scarisoara"
       }
@@ -107,27 +107,22 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> See also",
-
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]

@@ -1,10 +1,10 @@
 {
-  "advertise": {
+  "presentation": {
     "title": "Pagina Principală",
     "headline": "Încă te mai întrebi: 'De ce să vizitez Roșia Montană?'",
     "description": "pe acest site găsești cazare și trasee spre atracțiile turistice din zonă",
-    "fullWidthImg": "img/homePage/advertise/fullWidthImg.jpg",
-    "smallBoxImg": "img/homePage/advertise/smallBoxImg.jpg"
+    "fullWidthImg": "img/homePage/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/homePage/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "",
@@ -14,14 +14,14 @@
   "metaData": {
     "title": "Casa Petri Rosia Montana",
     "description": "Spațiu de cazare într-o fostă locuință de mineri din centrul istoric Rosia Montană. Descoperă galeriile romane, industria minieră, clădirile de patrimoniu, lacurile și munții din zonă prin traseele de drumeție sau ciclism de pe site. Închiriază ghizi sau biciclete.",
-    "displayOnShareImg": "img/homePage/advertise/displayOnShareImg.jpg"
+    "displayOnShareImg": "img/homePage/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": false
   },
   "sections": [
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "carousel": {
         "timeInterval": "7000",
         "slides": [
@@ -56,7 +56,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
           "page": "/accommodation/rooms"
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "banner": {
         "page": "/accommodation/booksAndCosy"
       }
@@ -79,7 +79,7 @@
       "sectionId": "activities"
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
           "page": "/activities/hiking"
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "banner": {
         "page": "/activities/trails/topAttractions"
       }
@@ -102,7 +102,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
           "page": "/recommendations/festival"

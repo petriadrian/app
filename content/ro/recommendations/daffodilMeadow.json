@@ -2,31 +2,27 @@
   "presentation": {
     "title": "Poiana cu narcise",
     "headline": "O poiană ca în povești. Narcisele de la Negrileasa",
-    "description": "<b>| Mai |</b> O patura alba si un miros imbatator pun stapanire pe Poiana Negrileasa. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~7h </i>",
-    "fullWidthImg": "img/recommendations/daffodilMeadow/advertise/fullWidthImg.jpg",
-      "config": {     "showPageHeadline": true   },,
-    "url": {
-      "link": "recommendations/daffodilMeadow",
-      "textOnMouseOver": "Vezi mai multe detalii",
-      "openInNewTab": false
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/recommendations/daffodilMeadow/advertise/smallBoxImg.jpg"
-      },
-      {
-        "img": "img/recommendations/daffodilMeadow/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/recommendations/daffodilMeadow/carouselAdvertise/3.jpg"
-      }
-    ]
+    "description": "<b>| Mai |</b> O pătura albă de narcise și un miros plăcut pun stapanire pe Poiana Negrileasa. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~7h </i>",
+    "fullWidthImg": "img/recommendations/daffodilMeadow/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/recommendations/daffodilMeadow/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "recommendations/daffodilMeadow",
+    "textOnMouseOver": "Vezi mai multe detalii",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Traseul de bicicletă spre poiana cu narcise Negrileasa",
+    "description": "În Mai, o pătura albă de narcise și un miros plăcut pun stapanire pe Poiana Negrileasa aflată în apropierea Roșiei Montane.",
+    "displayOnShareImg": "img/recommendations/daffodilMeadow/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
   },
   "sections": [
     {
       "type": "title",
       "text": "<i class='fa fa-info-circle'></i> Detalii",
-
       "sectionId": "details",
       "addLinkInPageHeadline": true
     },
@@ -42,14 +38,14 @@
             {
               "title": "Poiana cu Narcise",
               "description": "Vă rugăm să nu culegeți multe narcise. Odată rupte se ofilesc destul de rapid și își pierd mirosul ... magia lor are efect doar aici, în mediul lor natural. În schimb faceți multe poze cu ele :)",
-              "thumbnailUrl": "img/recommendations/daffodilMeadow/thumbnail/1.jpg",
-              "fullSizeUrl": "img/recommendations/daffodilMeadow/fullSize/1.jpg"
+              "thumbnailUrl": "img/recommendations/daffodilMeadow/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/recommendations/daffodilMeadow/article/fullSize/1.jpg"
             },
             {
               "title": "Poiana cu Narcise",
               "description": "Zona este înconjurată de culmi montane și păduri de conifere. De ai timp poți să te mai aventurezi prin împrejurări",
-              "thumbnailUrl": "img/recommendations/daffodilMeadow/thumbnail/2.jpg",
-              "fullSizeUrl": "img/recommendations/daffodilMeadow/fullSize/2.jpg"
+              "thumbnailUrl": "img/recommendations/daffodilMeadow/article/thumbnail/2.jpg",
+              "fullSizeUrl": "img/recommendations/daffodilMeadow/article/fullSize/2.jpg"
             }
           ]
         }
@@ -58,7 +54,6 @@
     {
       "type": "title",
       "text": "<i class='fa fa-map-signs'></i> Cum ajung la poiană?",
-
       "sectionId": "map",
       "addLinkInPageHeadline": true
     },
@@ -93,27 +88,22 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> Vezi și",
-
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]

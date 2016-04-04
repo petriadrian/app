@@ -1,32 +1,28 @@
 {
   "presentation": {
     "title": "Vârfurile Lety și Șulei",
-    "headline": "Traseul spre masivele Lety și Șulei ",
+    "headline": "Drumeție spre masivele Lety și Șulei",
     "description": "Urcăm pe 2 culmi cu forme ciudate, întâlnim 2 tăuri minunate un sat ascuns și o galerie cu urme de filoane de aur. <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
-    "fullWidthImg": "img/activities/trails/letySulei/advertise/fullWidthImg.jpg",
-      "config": {     "showPageHeadline": true   },,
-    "url": {
-      "link": "activities/trails/letySulei",
-      "textOnMouseOver": "Vezi traseul spre vârfurile Lety și Șulei",
-      "openInNewTab": false
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/activities/trails/letySulei/advertise/smallBoxImg.jpg"
-      },
-      {
-        "img": "img/activities/trails/letySulei/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/activities/trails/letySulei/carouselAdvertise/3.jpg"
-      }
-    ]
+    "fullWidthImg": "img/activities/trails/letySulei/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/trails/letySulei/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "activities/trails/letySulei",
+    "textOnMouseOver": "Vezi traseul spre vârfurile Lety și Șulei",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Drumeție spre masivele Lety și Șulei - Traseu",
+    "description": "Urcăm pe 2 culmi cu forme ciudate, întâlnim 2 tăuri minunate un sat ascuns și o galerie cu urme de filoane de aur.",
+    "displayOnShareImg": "img/activities/trails/letySulei/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
   },
   "sections": [
     {
       "type": "title",
       "text": "<i class='fa fa-map-signs'></i> Traseu",
-
       "sectionId": "details",
       "addLinkInPageHeadline": true
     },
@@ -73,7 +69,6 @@
     {
       "type": "title",
       "text": "<i class='fa fa-star'></i> Atracții",
-
       "sectionId": "attractions",
       "addLinkInPageHeadline": true
     },
@@ -111,12 +106,11 @@
     {
       "type": "title",
       "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
-
       "sectionId": "nextTrail",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "banner": {
         "page": "/activities/trails/historicalCenter"
       }
@@ -124,27 +118,22 @@
     {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> Vezi și",
-
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/cycling"
         }
       ]

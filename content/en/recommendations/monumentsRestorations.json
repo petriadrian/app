@@ -3,23 +3,12 @@
     "title": "Restoration",
     "headline": "",
     "description": "<b>| July - Sept |</b> Old buildings come alive. Discover traditional craftsmanship in the ARA camps.",
-    "fullWidthImg": "",
-      "config": {     "showPageHeadline": true   },,
-    "url": {
-      "link": "http://www.adoptaocasa.ro/cum-ma-implic",
-      "textOnMouseOver" : "See more...",
-      "openInNewTab": true
-    },
-    "carouselAdvertise": [
-      {
-        "img": "img/recommendations/monumentsRestorations/advertise/smallBoxImg.jpg"
-      },
-      {
-        "img": "img/recommendations/monumentsRestorations/carouselAdvertise/2.jpg"
-      },
-      {
-        "img": "img/recommendations/monumentsRestorations/carouselAdvertise/3.jpg"
-      }
-    ]
+    "fullWidthImg": "img/recommendations/monumentsRestorations/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/recommendations/monumentsRestorations/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "http://www.adoptaocasa.ro/cum-ma-implic",
+    "textOnMouseOver": "See more...",
+    "openInNewTab": true
   }
 }

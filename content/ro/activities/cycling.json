@@ -1,10 +1,10 @@
 {
-  "advertise": {
+  "presentation": {
     "title": "Trasee ciclism",
     "headline": "Testează frânele, umflă rotile și hai cu bița la Roșia!",
     "description": "De la trasee de <b>MTB</b> pe drumuri de țară printre culmi montane și lacuri până la trasee pe asfalt (<b>cursieră/auto/moto</b>) spre obiectivele turistice",
-    "fullWidthImg": "img/activities/cycling/advertise/fullWidthImg.jpg",
-    "smallBoxImg": "img/activities/cycling/advertise/smallBoxImg.jpg"
+    "fullWidthImg": "img/activities/cycling/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/cycling/presentation/smallBoxImg.jpg"
   },
   "url": {
     "textOnMouseOver": "Vezi traseele de bicicletă",
@@ -14,7 +14,7 @@
   "metaData": {
     "title": "Descoperă Roșia Montană pe bicicletă - trasee mtb/asfalt",
     "description": "De la trasee de MTB pe drumuri de țară printre culmi montane și lacuri până la trasee pe asfalt (cursieră/auto/moto) spre obiectivele turistice",
-    "displayOnShareImg": "img/activities/cycling/advertise/displayOnShareImg.jpg"
+    "displayOnShareImg": "img/activities/cycling/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": true
@@ -44,26 +44,21 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/activities/trails/weatherStation"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/trails/fourLakes"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/trails/detunata"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/trails/rollerCoaster"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/trails/geamana"
         }
       ]
@@ -75,22 +70,18 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/activities/trails/vulcan"
         },
         {
-          "timeInterval": "10000",
           "page": "/recommendations/daffodilMeadow"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/trails/zlatnaPool"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/trails/scarisoara"
         }
       ]
@@ -102,22 +93,18 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/booksAndCosy"
         }
       ]

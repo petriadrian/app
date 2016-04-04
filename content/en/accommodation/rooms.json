@@ -1,10 +1,10 @@
 {
-  "advertise": {
+  "presentation": {
     "title": "Rooms",
     "headline": "Morning coffee in Roșia Montană?",
     "description": "The house is a heritage building, a mining house, opened now for touristic accommodation. Here you can see or <b>book the rooms</b>.",
-    "fullWidthImg": "img/accommodation/rooms/advertise/fullWidthImg.jpg",
-    "smallBoxImg": "img/accommodation/rooms/advertise/smallBoxImg.jpg"
+    "fullWidthImg": "img/accommodation/rooms/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/accommodation/rooms/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "accommodation/rooms",
@@ -14,7 +14,7 @@
   "metaData": {
     "title": "Accommodation Rosia Montana - Casa Petri",
     "description": "See the rooms from this old mining house situated in the historical center. Discover Rosia Montana (mining industry, roman galleries, mountains, lakes, historical buildings). You will find here hiking or cycling trails, guides and bikes for rent.",
-    "displayOnShareImg": "img/accommodation/rooms/advertise/displayOnShareImg.jpg"
+    "displayOnShareImg": "img/accommodation/rooms/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": true
@@ -368,7 +368,7 @@
       ]
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "banner": {
         "page": "/accommodation/booksAndCosy"
       }
@@ -380,7 +380,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
           "page": "/accommodation/camping"

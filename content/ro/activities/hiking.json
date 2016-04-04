@@ -1,10 +1,10 @@
 {
-  "advertise": {
+  "presentation": {
     "title": "Trasee drumetie",
     "headline": "Prietenii, aparatul foto, rucsacul... Pornim la drum!",
     "description": "Plimbări ușoare pe ulițele satului printre clădiri de patrimoniu până la trasee pe culmi montane, lacuri și sate",
-    "fullWidthImg": "img/activities/hiking/advertise/fullWidthImg.jpg",
-    "smallBoxImg": "img/activities/hiking/advertise/smallBoxImg.jpg"
+    "fullWidthImg": "img/activities/hiking/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/hiking/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "activities/hiking",
@@ -39,7 +39,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
           "page": "/activities/trails/historicalCenter"
@@ -65,7 +65,7 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
           "page": "/activities/trails/detunata"
@@ -85,7 +85,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
           "page": "/activities/cycling"

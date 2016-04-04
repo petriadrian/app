@@ -1,10 +1,10 @@
 {
-  "advertise": {
+  "presentation": {
     "title": "Cycling trails",
     "headline": "Cycling trails - discover our area by bike",
     "description": "From <b>MTB</b> trails on unpaved roads along mountain peaks and lakes, to paved trails for <b>touring bikes</b> towards touristic sights",
-    "fullWidthImg": "img/activities/cycling/advertise/fullWidthImg.jpg",
-    "smallBoxImg": "img/activities/cycling/advertise/smallBoxImg.jpg"
+    "fullWidthImg": "img/activities/cycling/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/cycling/presentation/smallBoxImg.jpg"
   },
   "url": {
     "textOnMouseOver": "See biking trails...",
@@ -14,7 +14,7 @@
   "metaData": {
     "title": "Discover Rosia Montana by bike - mtb/asphalt trails",
     "description": "From MTB trails on unpaved roads along mountain peaks and lakes, to paved trails for touring bikes towards touristic sights",
-    "displayOnShareImg": "img/activities/cycling/advertise/displayOnShareImg.jpg"
+    "displayOnShareImg": "img/activities/cycling/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": true
@@ -44,26 +44,21 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/activities/trails/weatherStation"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/trails/fourLakes"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/trails/detunata"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/trails/rollerCoaster"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/trails/geamana"
         }
       ]
@@ -75,22 +70,18 @@
       "addLinkInPageHeadline": true
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/activities/trails/vulcan"
         },
         {
-          "timeInterval": "10000",
           "page": "/recommendations/daffodilMeadow"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/trails/zlatnaPool"
         },
         {
-          "timeInterval": "10000",
           "page": "/activities/trails/scarisoara"
         }
       ]
@@ -102,22 +93,18 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "advertiseToOtherPages",
+      "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "timeInterval": "10000",
           "page": "/activities/hiking"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/rooms"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/camping"
         },
         {
-          "timeInterval": "10000",
           "page": "/accommodation/booksAndCosy"
         }
       ]
