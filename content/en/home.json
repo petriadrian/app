@@ -27,6 +27,24 @@
         "slides": [
           {
             "page": "/home"
+          },
+          {
+            "page": "/activities/trails/weatherStation"
+          },
+          {
+            "page": "/activities/trails/romanGalleries"
+          },
+          {
+            "page": "/activities/trails/fourLakes"
+          },
+          {
+            "page": "/activities/trails/geamana"
+          },
+          {
+            "page": "/activities/trails/historicalCenter"
+          },
+          {
+            "page": "/activities/trails/carnic"
           }
         ]
       }
@@ -86,7 +104,30 @@
     {
       "type": "advertiseToOtherPages",
       "detailBoxes": [
-
+        {
+          "page": "/recommendations/festival"
+        },
+        {
+          "page": "/recommendations/marathon"
+        },
+        {
+          "page": "/recommendations/monumentsRestorations"
+        },
+        {
+          "page": "/recommendations/steamTrain"
+        },
+        {
+          "page": "/recommendations/daffodilMeadow"
+        },
+        {
+          "page": "/recommendations/firstMai"
+        },
+        {
+          "page": "/recommendations/scoutsOng"
+        },
+        {
+          "page": "/recommendations/souvenirShop"
+        }
       ]
     }
   ]
