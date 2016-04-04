@@ -7,17 +7,17 @@ var  EN_LOCALE = 'en';
 /**
  * Main AngularJS Web Application
  */
-var app = angular.module('appFunctionality', ['ngRoute', 'ngAnimate', 'ui.bootstrap']);
+var app = angular.module('appFunctionality', ['ui.router', 'ngAnimate', 'ui.bootstrap']);
 
 /**
  * Initialization
  */
 app.run(function ($rootScope, $window, $anchorScroll, $location, $http, localizationService) {
+    debugger;
     // lazy loading for pageContent - needed for metadata which are needed before the controllers are called
     $rootScope.pageContent = {};
     //set a function for opening any url in new or same tab
     $rootScope.openUrl = function (url) {
-        debugger;
         if (typeof(url.openInNewTab) !== 'undefined' && url.openInNewTab) {
             $window.open(url.link, '_blank');
         } else {
@@ -50,9 +50,6 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http, localiza
         return finalItems;
     };
 
-    // localization
-    $rootScope.localizationService = localizationService;
-
     //google analytics
     $window.ga('create', 'UA-72421107-1', 'auto');
     $rootScope.$on('$routeChangeSuccess', function(event, toState){
@@ -63,53 +60,72 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http, localiza
 /**
  * Configure the Routes
  */
-app.config(['$routeProvider', '$locationProvider', function ($routeProvider, $locationProvider) {
-    //$locationProvider.hashPrefix('!');
+
+app.config(['$urlRouterProvider', '$stateProvider', '$locationProvider', function ($urlRouterProvider, $stateProvider, $locationProvider) {
+    $urlRouterProvider.otherwise('/');
     $locationProvider.html5Mode(true);
-    $routeProvider
-        // Home
-        .when("/", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-        //// Pages
-        .when("/review", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-
-        .when("/accommodation/booksAndCosy", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-        .when("/accommodation/camping", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-        .when("/accommodation/rooms", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-
-        .when("/activities/hiking", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/historicalCenter", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/carnic", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/romanGalleries", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/weatherStation", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/letySulei", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/topAttractions", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/detunata", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/geamana", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-
-        .when("/activities/cycling", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/fourLakes", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/rollerCoaster", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/vulcan", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/zlatnaPool", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-        .when("/activities/trails/scarisoara", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-
-        .when("/recommendations/steamTrain", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-        .when("/recommendations/daffodilMeadow", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-        //// else 404
-        .otherwise("/404", {templateUrl: "partials/404.html", controller: "PageCtrl"});
+    $stateProvider
+        .state('initHome' ,{
+            url: '/',
+            templateUrl: 'partials/defaultTemplate.html',
+            controller: function($window, localizationService) {
+                //detect language And Redirect
+                $window.location.href = localizationService.language + '/home';
+            }
+        })
+        .state('home',{
+            url: '/:langCode/home',
+            templateUrl: 'partials/defaultTemplate.html',
+            controller: "DefaultPageCtrl"
+        })
+        .state('review',{
+            url: '/:langCode/review',
+            templateUrl: 'partials/defaultTemplate.html',
+            controller: "DefaultPageCtrl"
+        })
 }]);
+
+//app.config(['$routeProvider', '$locationProvider', function ($routeProvider, $locationProvider) {
+//    $locationProvider.html5Mode(true);
+//    $routeProvider
+//        // Home
+//        .when("/", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//        //// Pages
+//        .when("/review", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//
+//        .when("/accommodation/booksAndCosy", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//        .when("/accommodation/camping", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//        .when("/accommodation/rooms", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//
+//        .when("/activities/hiking", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//        .when("/activities/trails/historicalCenter", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//        .when("/activities/trails/carnic", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//        .when("/activities/trails/romanGalleries", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//        .when("/activities/trails/weatherStation", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//        .when("/activities/trails/letySulei", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//        .when("/activities/trails/topAttractions", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//        .when("/activities/trails/detunata", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//        .when("/activities/trails/geamana", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//
+//        .when("/activities/cycling", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//        .when("/activities/trails/fourLakes", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//        .when("/activities/trails/rollerCoaster", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//        .when("/activities/trails/vulcan", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//        .when("/activities/trails/zlatnaPool", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//        .when("/activities/trails/scarisoara", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//
+//        .when("/recommendations/steamTrain", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//        .when("/recommendations/daffodilMeadow", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
+//        //// else 404
+//        .otherwise("/404", {templateUrl: "partials/404.html", controller: "PageCtrl"});
+//}]);
 
 /**
  * Controllers
  */
-app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $routeParams, $http, $timeout, $anchorScroll, localizationService) {
-    var pageSuffix;
-    if ($location.$$path == '/') {
-        pageSuffix = '/home';
-    } else {
-        pageSuffix = $location.$$path;
-    }
-    var pageContentPath = 'content/' + localizationService.language + pageSuffix + '.json';
+app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $http, $timeout, $anchorScroll, localizationService, $stateParams) {
+    debugger;
+    var pageContentPath = 'content/' + $location.$$path + '.json';
     $http.get(pageContentPath).success(function (pageContentResult) {
         $rootScope.pageContent = pageContentResult;
     });
@@ -146,7 +162,7 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $rout
 });
 
 app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, $location, localizationService) {
-
+    debugger;
     var translatedContentPath = 'content/' + localizationService.language + '/common/header.json';
     $http.get(translatedContentPath).success(function (translatedContentResult) {
         $scope.headerContent = translatedContentResult;
@@ -165,6 +181,9 @@ app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, $loca
         });
         console.log('language changed: header');
     };
+
+    //// localization
+    $rootScope.localizationService = localizationService;
 
     //redirect or just scroll from header buttons
     $scope.redirectOrScroll = function (url) {
@@ -254,17 +273,26 @@ function toggleForm(button) {
     $(button.parentNode).find(".hideElement").toggle(300);
 }
 
-app.factory('localizationService', function () {
+app.factory('localizationService', function ($window, $location) {
     var factory = {};
-    factory.language = navigator.language || navigator.userLanguage;
-    if (factory.language.indexOf(RO_LOCALE) > -1) {
+    debugger;
+    factory.language = "";
+    if ($location.$$path.indexOf("/" + RO_LOCALE + "/") > -1) {
         factory.language = RO_LOCALE;
-    } else {
+    } else if ($location.$$path.indexOf("/" + EN_LOCALE + "/") > -1) {
         factory.language = EN_LOCALE;
+    } else {
+        factory.language = navigator.language || navigator.userLanguage;
+        if (factory.language.indexOf(RO_LOCALE) > -1) {
+            factory.language = RO_LOCALE;
+        } else {
+            factory.language = EN_LOCALE;
+        }
     }
-    factory.changeLanguage = function (lang) {
-        console.log('changeLanguage', lang);
-        this.language = lang;
+    factory.changeLanguage = function (newLang) {
+        debugger;
+        var actulPathWithoutLang = $location.$$path.substring(3);
+        $window.location.href = '/' + newLang + actulPathWithoutLang;
     };
     return factory;
 });
