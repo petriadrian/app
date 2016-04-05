@@ -26,9 +26,6 @@
         "timeInterval": "7000",
         "slides": [
           {
-            "page": "en/home"
-          },
-          {
             "page": "en/activities/trails/weatherStation"
           },
           {
@@ -47,6 +44,44 @@
             "page": "en/activities/trails/carnic"
           }
         ]
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-comment-o'></i> Our story",
+      "addLinkInPageHeadline": false,
+      "sectionId": "ourStory"
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "We wish tourism in this mining locality, Rosia Montana, that's why we restored our inherited house for touristic accommodation. It's a heritage building from the historical center and it had an important role in the community life, being used as a bank, medical center and even as a cinema. Then it was bought by our grandparents, which worked in mining industry, and used as a home. On this site you can see the inside and the accommodation offer. <br>Rosia Montana is unique, with a valuable cultural heritage where you will have a lot of things to visit and learn about. Discover the mining industry for gold and silver which began from ancient times, by visiting the roman galleries, the stamp mills and artificial lakes. See their evolution to open pit exploitations, waste ponds and machines. Discover the historical center with the heritage houses built in different styles, schools for distinct languages, churches for different cults, built by the nations who come here over time to extract gold. The surroundings are also amazing, many pathways are binding the village to mountain peaks, lakes and other natural objectives. Discover all this through the hiking and cycling trails that you will found on this website."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-bicycle'></i> What to do there?",
+      "addLinkInPageHeadline": false,
+      "sectionId": "activities"
+    },
+    {
+      "type": "presentationOfOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/activities/hiking"
+        },
+        {
+          "page": "en/activities/cycling"
+        }
+      ]
+    },
+    {
+      "type": "presentationOfOtherPages",
+      "banner": {
+        "page": "en/activities/trails/topAttractions"
       }
     },
     {
@@ -70,29 +105,6 @@
       "type": "presentationOfOtherPages",
       "banner": {
         "page": "en/accommodation/booksAndCosy"
-      }
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-bicycle'></i> What to do there?",
-      "addLinkInPageHeadline": false,
-      "sectionId": "activities"
-    },
-    {
-      "type": "presentationOfOtherPages",
-      "detailBoxes": [
-        {
-          "page": "en/activities/hiking"
-        },
-        {
-          "page": "en/activities/cycling"
-        }
-      ]
-    },
-    {
-      "type": "presentationOfOtherPages",
-      "banner": {
-        "page": "en/activities/trails/topAttractions"
       }
     },
     {

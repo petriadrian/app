@@ -10,7 +10,7 @@
   },
   "leftButtons": [
     {
-      "text": "<i class='fa fa-lg fa-map-signs'></i> hike",
+      "text": "<i class='fa fa-lg fa-map-signs'></i> hikes",
       "url": {
         "link": "en/activities/hiking",
         "textOnMouseOver": "hiking trails",
@@ -18,7 +18,7 @@
       }
     },
     {
-      "text": "<i class='fa fa-lg fa-bicycle'></i> ride",
+      "text": "<i class='fa fa-lg fa-bicycle'></i> cycling",
       "url": {
         "link": "en/activities/cycling",
         "textOnMouseOver": "cycling trails",
@@ -26,7 +26,7 @@
       }
     },
     {
-      "text": "<i class='fa fa-lg fa-book'></i> read",
+      "text": "<i class='fa fa-lg fa-book'></i> relax",
       "url": {
         "link": "en/accommodation/booksAndCosy",
         "textOnMouseOver": "read & relax",

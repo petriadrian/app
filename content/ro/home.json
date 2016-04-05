@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Casa Petri Rosia Montana",
-    "description": "Spațiu de cazare într-o fostă locuință de mineri din centrul istoric Rosia Montană. Descoperă galeriile romane, industria minieră, clădirile de patrimoniu, lacurile și munții din zonă prin traseele de drumeție sau ciclism de pe site. Închiriază ghizi sau biciclete.",
+    "title": "Casa Petri Roșia Montană",
+    "description": "Spațiu de cazare într-o fostă locuință de mineri din centrul istoric Rosia Montană. Descoperă galeriile romane, industria minieră, clădirile de patrimoniu, lacurile și munții din zonă prin traseele de drumeție sau ciclism de pe site. Rezervă ghizi sau biciclete.",
     "displayOnShareImg": "img/homePage/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -25,9 +25,6 @@
       "carousel": {
         "timeInterval": "7000",
         "slides": [
-          {
-            "page": "ro/home"
-          },
           {
             "page": "ro/activities/trails/weatherStation"
           },
@@ -51,26 +48,18 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-bed'></i> Unde stau?",
-      "sectionId": "accommodation",
-      "addLinkInPageHeadline": false
+      "text": "<i class='fa fa-comment-o'></i> Povestea noastră",
+      "addLinkInPageHeadline": false,
+      "sectionId": "ourStory"
     },
     {
-      "type": "presentationOfOtherPages",
-      "detailBoxes": [
+      "type": "articles",
+      "specificArticles": [
         {
-          "page": "ro/accommodation/rooms"
-        },
-        {
-          "page": "ro/accommodation/camping"
+          "title": "",
+          "textContent": "Deoarece ne dorim turism la Roșia Montană, am renovat căsuța moștenită de la bunici și am deschis-o pentru cazare. Este o clădire de patrimoniu din centrul istoric, a avut un rol important în viața comunității ca sediu de bancă, centru medical sau chiar cinematograf. A fost cumpărată apoi de bunicii noștri care se ocupau cu mineritul, pentru a locui. Vedeți pe site interiorul și posibilitățile de cazare de care dispunem. <br>Roșia Montană este unică, cu o moștenire culturală valoroasă, aveți multe de vizitat și de aflat despre ea. Descoperiți industria minieră de aur și argint care a început în antichitate prin a vizita galeriile romane, șteampurile sau lacurile artificiale. Vedeți cum a evoluat prin carierele de suprafață, iazuri de decantare și utilaje. Descoperiți centrul istoric cu case de patrimoniu în diferite stiluri, școli pentru diverse limbi, biserici de diferite culte, ridicate de diverse nații venite aici de-a lungul timpului pentru a extrage aur. Împrejurimile sunt de asemenea superbe, drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri, obiective naturale. Descoperiți toate aceastea în traseele de drumeție sau de bicicletă pe care le găsiți pe site."
         }
       ]
-    },
-    {
-      "type": "presentationOfOtherPages",
-      "banner": {
-        "page": "ro/accommodation/booksAndCosy"
-      }
     },
     {
       "type": "title",
@@ -93,6 +82,29 @@
       "type": "presentationOfOtherPages",
       "banner": {
         "page": "ro/activities/trails/topAttractions"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-bed'></i> Unde stau?",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "presentationOfOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation/rooms"
+        },
+        {
+          "page": "ro/accommodation/camping"
+        }
+      ]
+    },
+    {
+      "type": "presentationOfOtherPages",
+      "banner": {
+        "page": "ro/accommodation/booksAndCosy"
       }
     },
     {
