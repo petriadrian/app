@@ -11,6 +11,11 @@
     "textOnMouseOver": "See the hiking trails...",
     "openInNewTab": false
   },
+  "metaData": {
+    "title": "Hiking trails - discover Rosia Montana",
+    "description": "From light walks on the village streets for visiting the historical center of Rosia Montana or the roman galleries to hiking trails along lakes, mountains, touristic sights and villages from our area.",
+    "displayOnShareImg": "img/activities/hiking/presentation/displayOnShareImg.jpg"
+  },
   "config": {
     "showPageHeadline": true
   },
@@ -26,9 +31,9 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Our village is surrounded by mountains, valleys, old churches, heritage buildings and ancient galleries. So, If you come to Roșia, don't visit just the museum and the local store, because the area has much more to offer. Check the trails below and find the ones you like, based on the touristic attractions you would like to see. <br>The maps of the trails are done in <b>google maps</b>, so you can zoom in, see them in satellite mode or access them from any device. Under each trail you'll find indications estimated by us (<b>round trip distance</b>, duration). The indications within the map are being estimated by google.",
-          "moreDetailsLink": "https://turismlarosiamontana.wordpress.com/about",
-          "moreDetailsText": "Occasionally, there are guided tours organised. More details here..."
+          "textContent": "Our village is surrounded by mountains, lakes, heritage buildings, ancient roman galleries and mining industry. So, if you come to Roșia Montana, don't visit just the museum and the local store, because the area has much more to offer. Check the trails below and find the ones you like, based on the touristic attractions you would like to see. <br>The maps of the trails are done in <b>google maps</b>, so you can zoom in, see them in satellite mode or access them from any device. Under each trail you'll find indications estimated by us (<b>round trip distance</b>, duration). The indications within the map are being estimated by google. <br><br><b>Guided Tours</b> - Find out more about the story and the attractions of Rosia Montana. <br>Book a guide for hiking or bike tours, <b>contact: Calin Capros (+4)0742 524 387</b>",
+          "moreDetailsLink": "",
+          "moreDetailsText": ""
         }
       ]
     },

@@ -13,16 +13,15 @@ var app = angular.module('appFunctionality', ['ui.router', 'ngAnimate', 'ui.boot
  * Initialization
  */
 app.run(function ($rootScope, $window, $anchorScroll, $location, $http, localizationService) {
-    debugger;
     // lazy loading for pageContent - needed for metadata which are needed before the controllers are called
     $rootScope.pageContent = {};
     //set a function for opening any url in new or same tab
     $rootScope.openUrl = function (url) {
+        debugger;
         if (typeof(url.openInNewTab) !== 'undefined' && url.openInNewTab) {
             $window.open(url.link, '_blank');
         } else {
-            $window.location.href = url.link;
-            //$window.open(url.link, '_self');
+            $window.open(url.link, '_self');
         }
     };
     $rootScope.scrollTo = function (id) {
@@ -82,8 +81,8 @@ app.config(['$urlRouterProvider', '$stateProvider', '$locationProvider', functio
  * Controllers
  */
 app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $http, $timeout, $anchorScroll) {
+    var pageContentPath = 'content' + $location.$$path + '.json';
     debugger;
-    var pageContentPath = 'content/' + $location.$$path + '.json';
     $http.get(pageContentPath).success(function (pageContentResult) {
         $rootScope.pageContent = pageContentResult;
     });
@@ -101,7 +100,6 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $http
 });
 
 app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, localizationService) {
-    debugger;
     var translatedContentPath = 'content/' + localizationService.language + '/common/header.json';
     $http.get(translatedContentPath).success(function (translatedContentResult) {
         $scope.headerContent = translatedContentResult;
@@ -167,7 +165,6 @@ function toggleForm(button) {
 
 app.factory('localizationService', function ($window, $location) {
     var factory = {};
-    debugger;
     factory.language = "";
     if ($location.$$path.indexOf("/" + RO_LOCALE + "/") > -1) {
         factory.language = RO_LOCALE;
@@ -182,7 +179,6 @@ app.factory('localizationService', function ($window, $location) {
         }
     }
     factory.changeLanguage = function (newLang) {
-        debugger;
         var actulPathWithoutLang = $location.$$path.substring(3);
         $window.location.href = '/' + newLang + actulPathWithoutLang;
     };
@@ -230,8 +226,10 @@ app.directive('sectionForm', function ($timeout) {
                        }
                        scope.formObj = {};
                        scope.formLoading = false;
+                       scope.$apply();
                        $timeout(function() {
                            scope.showResponse = false;
+                           scope.$apply();
                        }, 30000);
                    },
                    error: function(errorThrown) {
@@ -244,9 +242,7 @@ app.directive('sectionForm', function ($timeout) {
                        scope.messageType = 'error';
                        scope.showResponse = true;
                        scope.formLoading = false;
-                       $timeout(function() {
-                           scope.showResponse = false;
-                       }, 30000);
+                       scope.$apply();
                    }
                });
            }

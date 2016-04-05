@@ -12,7 +12,7 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Discover Rosia Montana by bike - mtb/asphalt trails",
+    "title": "Bike trails - discover Rosia Montana area",
     "description": "From MTB trails on unpaved roads along mountain peaks and lakes, to paved trails for touring bikes towards touristic sights",
     "displayOnShareImg": "img/activities/cycling/presentation/displayOnShareImg.jpg"
   },
@@ -31,9 +31,9 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Test your bike brakes, inflate the tires  and bring it to Roșia Montană. The MTB trails will take you on country roads, around the village and surrounding villages towards various attractions. The paved trails - for touring bikes, motorcycles or cars - are mapped on national roads, towards the attractions from our area. <br>The maps of the trails are made in <b>google maps</b>, so you can zoom in, see them in satellite mode or access them on any smartphone or tablet. Under each trail you'll find indications estimated by us (<b>round trip distance</b>, duration). The indications within the map are provided by google. When you don’t ride your bike, you can keep it safe in our garage.",
-          "moreDetailsLink": "https://www.facebook.com/calin.capros",
-          "moreDetailsText": "For more details about bike trails, you can contact Călin Caproș (he also owns a small bike workshop, if your bike needs a fix)."
+          "textContent": "Test your bike brakes, inflate the tires  and bring it to Roșia Montană. The MTB trails will take you on country roads, around the village and surrounding villages towards various attractions. The paved trails - for touring bikes, motorcycles or cars - are mapped on national roads, towards the attractions from our area. <br>The maps of the trails are made in <b>google maps</b>, so you can zoom in, see them in satellite mode or access them on any smartphone or tablet. Under each trail you'll find indications estimated by us (<b>round trip distance</b>, duration). The indications within the map are provided by google. When you don’t ride your bike, you can keep it safe in our garage.  <br><br><b>Guided Tours</b> - Find out more about the story and the attractions of Rosia Montana. <br>Book a guide for hiking or bike tours, <b>contact: Calin Capros (+4)0742 524 387</b>",
+          "moreDetailsLink": "",
+          "moreDetailsText": ""
         }
       ]
     },
