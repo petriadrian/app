@@ -7,7 +7,7 @@
     "smallBoxImg": "img/activities/trails/carnic/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "activities/trails/carnic",
+    "link": "en/activities/trails/carnic",
     "textOnMouseOver": "See the Cârnic mountain trail...",
     "openInNewTab": false
   },
@@ -101,7 +101,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/activities/trails/romanGalleries"
+        "page": "en/activities/trails/romanGalleries"
       }
     },
     {
@@ -114,16 +114,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "en/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "en/accommodation/camping"
         },
         {
-          "page": "/activities/hiking"
+          "page": "en/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "en/activities/cycling"
         }
       ]
     }

@@ -7,7 +7,7 @@
     "smallBoxImg": "img/accommodation/booksAndCosy/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "accommodation/booksAndCosy",
+    "link": "en/accommodation/booksAndCosy",
     "textOnMouseOver": "See more...",
     "openInNewTab": false
   },
@@ -118,16 +118,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "en/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "en/accommodation/camping"
         },
         {
-          "page": "/review"
+          "page": "en/review"
         },
         {
-          "page": "/activities/hiking"
+          "page": "en/activities/hiking"
         }
       ]
     }

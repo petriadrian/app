@@ -7,7 +7,7 @@
     "smallBoxImg": "img/activities/trails/detunata/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "activities/trails/detunata",
+    "link": "ro/activities/trails/detunata",
     "textOnMouseOver": "Vezi traseul spre Detunata",
     "openInNewTab": false
   },
@@ -100,7 +100,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/activities/trails/geamana"
+        "page": "ro/activities/trails/geamana"
       }
     },
     {
@@ -113,16 +113,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "ro/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "ro/accommodation/camping"
         },
         {
-          "page": "/activities/hiking"
+          "page": "ro/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "ro/activities/cycling"
         }
       ]
     }

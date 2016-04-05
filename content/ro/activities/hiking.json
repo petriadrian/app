@@ -7,7 +7,7 @@
     "smallBoxImg": "img/activities/hiking/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "activities/hiking",
+    "link": "ro/activities/hiking",
     "textOnMouseOver": "Vezi traseele de drumeție",
     "openInNewTab": false
   },
@@ -42,19 +42,19 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/activities/trails/historicalCenter"
+          "page": "ro/activities/trails/historicalCenter"
         },
         {
-          "page": "/activities/trails/romanGalleries"
+          "page": "ro/activities/trails/romanGalleries"
         },
         {
-          "page": "/activities/trails/carnic"
+          "page": "ro/activities/trails/carnic"
         },
         {
-          "page": "/activities/trails/weatherStation"
+          "page": "ro/activities/trails/weatherStation"
         },
         {
-          "page": "/activities/trails/letySulei"
+          "page": "ro/activities/trails/letySulei"
         }
       ]
     },
@@ -68,13 +68,13 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/activities/trails/detunata"
+          "page": "ro/activities/trails/detunata"
         },
         {
-          "page": "/activities/trails/geamana"
+          "page": "ro/activities/trails/geamana"
         },
         {
-          "page": "/activities/trails/topAttractions"
+          "page": "ro/activities/trails/topAttractions"
         }
       ]
     },
@@ -88,16 +88,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/activities/cycling"
+          "page": "ro/activities/cycling"
         },
         {
-          "page": "/accommodation/rooms"
+          "page": "ro/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "ro/accommodation/camping"
         },
         {
-          "page": "/accommodation/booksAndCosy"
+          "page": "ro/accommodation/booksAndCosy"
         }
       ]
     }

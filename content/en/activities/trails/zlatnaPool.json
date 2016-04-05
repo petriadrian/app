@@ -7,7 +7,7 @@
     "smallBoxImg": "img/activities/trails/zlatnaPool/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "activities/trails/zlatnaPool",
+    "link": "en/activities/trails/zlatnaPool",
     "textOnMouseOver": "See the trail...",
     "openInNewTab": false
   },
@@ -119,7 +119,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/recommendations/daffodilMeadow"
+        "page": "en/recommendations/daffodilMeadow"
       }
     },
     {
@@ -132,16 +132,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "en/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "en/accommodation/camping"
         },
         {
-          "page": "/activities/hiking"
+          "page": "en/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "en/activities/cycling"
         }
       ]
     }

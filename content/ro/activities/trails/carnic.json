@@ -7,7 +7,7 @@
     "smallBoxImg": "img/activities/trails/carnic/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "activities/trails/carnic",
+    "link": "ro/activities/trails/carnic",
     "textOnMouseOver": "Vezi traseul Muntelui Cârnic",
     "openInNewTab": false
   },
@@ -101,7 +101,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/activities/trails/romanGalleries"
+        "page": "ro/activities/trails/romanGalleries"
       }
     },
     {
@@ -114,16 +114,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "ro/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "ro/accommodation/camping"
         },
         {
-          "page": "/activities/hiking"
+          "page": "ro/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "ro/activities/cycling"
         }
       ]
     }

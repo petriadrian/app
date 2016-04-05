@@ -8,7 +8,7 @@
   },
   "url": {
     "textOnMouseOver": "Vezi traseele de bicicletă",
-    "link": "activities/cycling",
+    "link": "ro/activities/cycling",
     "openInNewTab": false
   },
   "metaData": {
@@ -47,19 +47,19 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/activities/trails/weatherStation"
+          "page": "ro/activities/trails/weatherStation"
         },
         {
-          "page": "/activities/trails/fourLakes"
+          "page": "ro/activities/trails/fourLakes"
         },
         {
-          "page": "/activities/trails/detunata"
+          "page": "ro/activities/trails/detunata"
         },
         {
-          "page": "/activities/trails/rollerCoaster"
+          "page": "ro/activities/trails/rollerCoaster"
         },
         {
-          "page": "/activities/trails/geamana"
+          "page": "ro/activities/trails/geamana"
         }
       ]
     },
@@ -73,16 +73,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/activities/trails/vulcan"
+          "page": "ro/activities/trails/vulcan"
         },
         {
-          "page": "/recommendations/daffodilMeadow"
+          "page": "ro/recommendations/daffodilMeadow"
         },
         {
-          "page": "/activities/trails/zlatnaPool"
+          "page": "ro/activities/trails/zlatnaPool"
         },
         {
-          "page": "/activities/trails/scarisoara"
+          "page": "ro/activities/trails/scarisoara"
         }
       ]
     },
@@ -96,16 +96,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/activities/hiking"
+          "page": "ro/activities/hiking"
         },
         {
-          "page": "/accommodation/rooms"
+          "page": "ro/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "ro/accommodation/camping"
         },
         {
-          "page": "/accommodation/booksAndCosy"
+          "page": "ro/accommodation/booksAndCosy"
         }
       ]
     }

@@ -7,7 +7,7 @@
     "smallBoxImg": "img/reviews/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "review",
+    "link": "ro/review",
     "textOnMouseOver": "Vezi mai multe imagini și review-uri de la cei care ne-au vizitat",
     "openInNewTab": false
   },
@@ -124,16 +124,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "ro/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "ro/accommodation/camping"
         },
         {
-          "page": "/activities/hiking"
+          "page": "ro/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "ro/activities/cycling"
         }
       ]
     }

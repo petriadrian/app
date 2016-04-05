@@ -7,7 +7,7 @@
     "smallBoxImg": "img/activities/trails/romanGalleries/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "activities/trails/romanGalleries",
+    "link": "en/activities/trails/romanGalleries",
     "textOnMouseOver": "See the Orlea trail...",
     "openInNewTab": false
   },
@@ -93,7 +93,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/activities/trails/weatherStation"
+        "page": "en/activities/trails/weatherStation"
       }
     },
     {
@@ -106,16 +106,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "en/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "en/accommodation/camping"
         },
         {
-          "page": "/activities/hiking"
+          "page": "en/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "en/activities/cycling"
         }
       ]
     }

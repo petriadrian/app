@@ -7,7 +7,7 @@
     "smallBoxImg": "img/activities/trails/geamana/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "activities/trails/geamana",
+    "link": "en/activities/trails/geamana",
     "textOnMouseOver": "See the Geamana trail",
     "openInNewTab": false
   },
@@ -103,7 +103,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/activities/trails/weatherStation"
+        "page": "en/activities/trails/weatherStation"
       }
     },
     {
@@ -116,16 +116,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "en/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "en/accommodation/camping"
         },
         {
-          "page": "/activities/hiking"
+          "page": "en/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "en/activities/cycling"
         }
       ]
     }

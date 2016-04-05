@@ -7,7 +7,7 @@
     "smallBoxImg": "img/accommodation/camping/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "accommodation/camping",
+    "link": "en/accommodation/camping",
     "textOnMouseOver": "See the camping spots...",
     "openInNewTab": false
   },
@@ -167,7 +167,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/accommodation/booksAndCosy"
+        "page": "en/accommodation/booksAndCosy"
       }
     },
     {
@@ -180,16 +180,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/review"
+          "page": "en/review"
         },
         {
-          "page": "/accommodation/rooms"
+          "page": "en/accommodation/rooms"
         },
         {
-          "page": "/activities/hiking"
+          "page": "en/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "en/activities/cycling"
         }
       ]
     }

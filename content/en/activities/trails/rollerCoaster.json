@@ -7,7 +7,7 @@
     "smallBoxImg": "img/activities/trails/rollerCoaster/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "activities/trails/rollerCoaster",
+    "link": "en/activities/trails/rollerCoaster",
     "textOnMouseOver": "See the Roller Coaster trail",
     "openInNewTab": false
   },
@@ -144,7 +144,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/activities/trails/geamana"
+        "page": "en/activities/trails/geamana"
       }
     },
     {
@@ -157,16 +157,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "en/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "en/accommodation/camping"
         },
         {
-          "page": "/activities/hiking"
+          "page": "en/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "en/activities/cycling"
         }
       ]
     }

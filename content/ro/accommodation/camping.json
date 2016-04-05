@@ -7,7 +7,7 @@
     "smallBoxImg": "img/accommodation/camping/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "accommodation/camping",
+    "link": "ro/accommodation/camping",
     "textOnMouseOver": "Vezi locurile de campare",
     "openInNewTab": false
   },
@@ -167,7 +167,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/accommodation/booksAndCosy"
+        "page": "ro/accommodation/booksAndCosy"
       }
     },
     {
@@ -180,16 +180,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/review"
+          "page": "ro/review"
         },
         {
-          "page": "/accommodation/rooms"
+          "page": "ro/accommodation/rooms"
         },
         {
-          "page": "/activities/hiking"
+          "page": "ro/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "ro/activities/cycling"
         }
       ]
     }

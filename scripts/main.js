@@ -60,7 +60,6 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http, localiza
 /**
  * Configure the Routes
  */
-
 app.config(['$urlRouterProvider', '$stateProvider', '$locationProvider', function ($urlRouterProvider, $stateProvider, $locationProvider) {
     $urlRouterProvider.otherwise('/');
     $locationProvider.html5Mode(true);
@@ -73,57 +72,16 @@ app.config(['$urlRouterProvider', '$stateProvider', '$locationProvider', functio
                 $window.location.href = localizationService.language + '/home';
             }
         })
-        .state('home',{
-            url: '/:langCode/home',
-            templateUrl: 'partials/defaultTemplate.html',
-            controller: "DefaultPageCtrl"
-        })
-        .state('review',{
-            url: '/:langCode/review',
-            templateUrl: 'partials/defaultTemplate.html',
-            controller: "DefaultPageCtrl"
+        .state('default',{
+            url: '*path',
+            templateUrl: 'partials/defaultTemplate.html', controller: "DefaultPageCtrl"
         })
 }]);
-
-//app.config(['$routeProvider', '$locationProvider', function ($routeProvider, $locationProvider) {
-//    $locationProvider.html5Mode(true);
-//    $routeProvider
-//        // Home
-//        .when("/", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//        //// Pages
-//        .when("/review", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//
-//        .when("/accommodation/booksAndCosy", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//        .when("/accommodation/camping", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//        .when("/accommodation/rooms", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//
-//        .when("/activities/hiking", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//        .when("/activities/trails/historicalCenter", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//        .when("/activities/trails/carnic", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//        .when("/activities/trails/romanGalleries", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//        .when("/activities/trails/weatherStation", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//        .when("/activities/trails/letySulei", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//        .when("/activities/trails/topAttractions", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//        .when("/activities/trails/detunata", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//        .when("/activities/trails/geamana", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//
-//        .when("/activities/cycling", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//        .when("/activities/trails/fourLakes", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//        .when("/activities/trails/rollerCoaster", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//        .when("/activities/trails/vulcan", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//        .when("/activities/trails/zlatnaPool", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//        .when("/activities/trails/scarisoara", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//
-//        .when("/recommendations/steamTrain", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//        .when("/recommendations/daffodilMeadow", {templateUrl: "partials/defaultTemplate.html", controller: "DefaultPageCtrl"})
-//        //// else 404
-//        .otherwise("/404", {templateUrl: "partials/404.html", controller: "PageCtrl"});
-//}]);
 
 /**
  * Controllers
  */
-app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $http, $timeout, $anchorScroll, localizationService, $stateParams) {
+app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $http, $timeout, $anchorScroll) {
     debugger;
     var pageContentPath = 'content/' + $location.$$path + '.json';
     $http.get(pageContentPath).success(function (pageContentResult) {
@@ -134,25 +92,6 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $http
             $anchorScroll($location.hash());
         }, 1200);
     }
-
-    // localization
-    $scope.$watch('localizationService.language', function (newVal, oldVal) {
-        if (!angular.isUndefined(oldVal) && oldVal != newVal) {
-            $scope.reloadContent(newVal);
-        }
-    });
-    $scope.reloadContent = function (newLanguage) {
-        if ($location.$$path == '/') {
-            pageSuffix = '/home';
-        } else {
-            pageSuffix = $location.$$path;
-        }
-        var translatedContentPath = 'content/' + newLanguage + pageSuffix + '.json';
-        $http.get(translatedContentPath).success(function (translatedContent) {
-            $rootScope.pageContent = translatedContent;
-        });
-        console.log('language changed: page');
-    };
     $scope.$on('$locationChangeStart',
         function (event, next, current) {
             if (next.indexOf('img/') > 0) {
@@ -161,38 +100,13 @@ app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $http
         });
 });
 
-app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, $location, localizationService) {
+app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, localizationService) {
     debugger;
     var translatedContentPath = 'content/' + localizationService.language + '/common/header.json';
     $http.get(translatedContentPath).success(function (translatedContentResult) {
         $scope.headerContent = translatedContentResult;
     });
-
-    // localization
-    $scope.$watch('localizationService.language', function (newVal, oldVal) {
-        if (!angular.isUndefined(oldVal) && oldVal != newVal) {
-            $scope.reloadContent(newVal);
-        }
-    });
-    $scope.reloadContent = function (newLanguage) {
-        var headerContentPath = 'content/' + newLanguage + '/common/header.json';
-        $http.get(headerContentPath).success(function (headerContentResult) {
-            $scope.headerContent = headerContentResult;
-        });
-        console.log('language changed: header');
-    };
-
-    //// localization
     $rootScope.localizationService = localizationService;
-
-    //redirect or just scroll from header buttons
-    $scope.redirectOrScroll = function (url) {
-        if ($location.$$path == '/') {
-            $rootScope.scrollTo((url.link).substring((url.link).lastIndexOf("#") + 1))
-        } else {
-            $rootScope.openUrl(url)
-        }
-    }
 });
 
 app.controller('FooterCtrl', function ($scope, $rootScope, $http, $timeout, localizationService) {
@@ -211,32 +125,10 @@ app.controller('FooterCtrl', function ($scope, $rootScope, $http, $timeout, loca
     $http.get(footerContentPath).success(function (footerContentResult) {
         $scope.footerContent = footerContentResult;
     });
-
-    // localization
-    $scope.$watch('localizationService.language', function (newVal, oldVal) {
-        if (!angular.isUndefined(oldVal) && oldVal != newVal) {
-            $scope.reloadContent(newVal);
-        }
-    });
-    $scope.reloadContent = function (newLanguage) {
-        var footerContentPath = 'content/' + newLanguage + '/common/footer.json';
-        $http.get(footerContentPath).success(function (footerContentResult) {
-            $scope.footerContent = footerContentResult;
-        });
-        var reviewsPagePath = 'content/' + newLanguage + '/review.json';
-        $http.get(reviewsPagePath).success(function (reviewPageContentResult) {
-            $scope.reviewPageContent = reviewPageContentResult;
-        });
-        var reviewsArticlesPath = 'content/' + newLanguage + '/common/articles/reviews.json';
-        $http.get(reviewsArticlesPath).success(function (reviewArticles) {
-            $scope.reviews = reviewArticles;
-        });
-        console.log('language changed: footer');
-    };
 });
 
-app.controller('GetOtherPageContentCtrl', function ($scope, $rootScope, $http, localizationService) {
-    var pageToLoadPath = 'content/' + localizationService.language + $scope.otherPagePath + '.json';
+app.controller('GetOtherPageContentCtrl', function ($scope, $rootScope, $http) {
+    var pageToLoadPath = 'content/' + $scope.otherPagePath + '.json';
     $http.get(pageToLoadPath).success(function (pageResult) {
         $scope.otherPageContent = pageResult;
     });

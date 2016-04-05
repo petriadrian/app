@@ -7,7 +7,7 @@
     "smallBoxImg": "img/activities/trails/scarisoara/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "activities/trails/scarisoara",
+    "link": "ro/activities/trails/scarisoara",
     "textOnMouseOver": "Vezi traseul spre Scărișoara",
     "openInNewTab": false
   },
@@ -124,7 +124,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/activities/trails/zlatnaPool"
+        "page": "ro/activities/trails/zlatnaPool"
       }
     },
     {
@@ -137,16 +137,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "ro/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "ro/accommodation/camping"
         },
         {
-          "page": "/activities/hiking"
+          "page": "ro/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "ro/activities/cycling"
         }
       ]
     }

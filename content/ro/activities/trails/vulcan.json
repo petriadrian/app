@@ -7,7 +7,7 @@
     "smallBoxImg": "img/activities/trails/vulcan/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "activities/trails/vulcan",
+    "link": "ro/activities/trails/vulcan",
     "textOnMouseOver": "Vezi traseul spre Vulcan",
     "openInNewTab": false
   },
@@ -101,7 +101,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/activities/trails/scarisoara"
+        "page": "ro/activities/trails/scarisoara"
       }
     },
     {
@@ -114,16 +114,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "ro/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "ro/accommodation/camping"
         },
         {
-          "page": "/activities/hiking"
+          "page": "ro/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "ro/activities/cycling"
         }
       ]
     }

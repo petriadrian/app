@@ -7,7 +7,7 @@
     "smallBoxImg": "img/activities/trails/weatherStation/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "activities/trails/weatherStation",
+    "link": "en/activities/trails/weatherStation",
     "textOnMouseOver": "See the trail...",
     "openInNewTab": false
   },
@@ -112,7 +112,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/activities/trails/detunata"
+        "page": "en/activities/trails/detunata"
       }
     },
     {
@@ -125,16 +125,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "en/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "en/accommodation/camping"
         },
         {
-          "page": "/activities/hiking"
+          "page": "en/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "en/activities/cycling"
         }
       ]
     }

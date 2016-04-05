@@ -7,7 +7,7 @@
     "smallBoxImg": "img/activities/trails/fourLakes/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "activities/trails/fourLakes",
+    "link": "ro/activities/trails/fourLakes",
     "textOnMouseOver": "Vezi traseul celor 4 lacuri",
     "openInNewTab": false
   },
@@ -104,7 +104,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/activities/trails/rollerCoaster"
+        "page": "ro/activities/trails/rollerCoaster"
       }
     },
     {
@@ -117,16 +117,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "ro/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "ro/accommodation/camping"
         },
         {
-          "page": "/activities/hiking"
+          "page": "ro/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "ro/activities/cycling"
         }
       ]
     }

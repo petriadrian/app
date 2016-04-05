@@ -7,7 +7,7 @@
     "smallBoxImg": "img/activities/trails/zlatnaPool/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "activities/trails/zlatnaPool",
+    "link": "ro/activities/trails/zlatnaPool",
     "textOnMouseOver": "Vezi traseul spre Ștrandul Zlatna",
     "openInNewTab": false
   },
@@ -119,7 +119,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/recommendations/daffodilMeadow"
+        "page": "ro/recommendations/daffodilMeadow"
       }
     },
     {
@@ -132,16 +132,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "ro/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "ro/accommodation/camping"
         },
         {
-          "page": "/activities/hiking"
+          "page": "ro/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "ro/activities/cycling"
         }
       ]
     }

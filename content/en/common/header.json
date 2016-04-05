@@ -3,7 +3,7 @@
     "text": "casa petri",
     "displayOnShareImg": "img/common/siteLogo.png",
     "url": {
-      "link": "/",
+      "link": "en/home",
       "textOnMouseOver": "întoarcete la pagina principală",
       "openInNewTab": false
     }
@@ -12,7 +12,7 @@
     {
       "text": "<i class='fa fa-lg fa-map-signs'></i> hike",
       "url": {
-        "link": "activities/hiking",
+        "link": "en/activities/hiking",
         "textOnMouseOver": "hiking trails",
         "openInNewTab": false
       }
@@ -20,7 +20,7 @@
     {
       "text": "<i class='fa fa-lg fa-bicycle'></i> ride",
       "url": {
-        "link": "activities/cycling",
+        "link": "en/activities/cycling",
         "textOnMouseOver": "cycling trails",
         "openInNewTab": false
       }
@@ -28,7 +28,7 @@
     {
       "text": "<i class='fa fa-lg fa-book'></i> read",
       "url": {
-        "link": "accommodation/booksAndCosy",
+        "link": "en/accommodation/booksAndCosy",
         "textOnMouseOver": "read & relax",
         "openInNewTab": false
       }
@@ -36,7 +36,7 @@
     {
       "text": "<i class='fa fa-lg fa-bed'></i> sleep",
       "url": {
-        "link": "accommodation/rooms",
+        "link": "en/accommodation/rooms",
         "textOnMouseOver": "accommodation - rooms",
         "openInNewTab": false
       }

@@ -7,7 +7,7 @@
     "smallBoxImg": "img/recommendations/daffodilMeadow/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "recommendations/daffodilMeadow",
+    "link": "ro/recommendations/daffodilMeadow",
     "textOnMouseOver": "Vezi mai multe detalii",
     "openInNewTab": false
   },
@@ -95,16 +95,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "ro/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "ro/accommodation/camping"
         },
         {
-          "page": "/activities/hiking"
+          "page": "ro/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "ro/activities/cycling"
         }
       ]
     }

@@ -7,7 +7,7 @@
     "smallBoxImg": "img/activities/trails/fourLakes/presentation/smallBoxImg.jpg"
   },
     "url": {
-      "link": "activities/trails/fourLakes",
+      "link": "en/activities/trails/fourLakes",
       "textOnMouseOver": "See the 4 lakes trail",
       "openInNewTab": false
     },
@@ -104,7 +104,7 @@
       {
         "type": "presentationOfOtherPages",
         "banner": {
-          "page": "/activities/trails/rollerCoaster"
+          "page": "en/activities/trails/rollerCoaster"
         }
       },
       {
@@ -117,16 +117,16 @@
         "type": "presentationOfOtherPages",
         "detailBoxes": [
           {
-            "page": "/accommodation/rooms"
+            "page": "en/accommodation/rooms"
           },
           {
-            "page": "/accommodation/camping"
+            "page": "en/accommodation/camping"
           },
           {
-            "page": "/activities/hiking"
+            "page": "en/activities/hiking"
           },
           {
-            "page": "/activities/cycling"
+            "page": "en/activities/cycling"
           }
         ]
       }

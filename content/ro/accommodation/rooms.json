@@ -7,7 +7,7 @@
     "smallBoxImg": "img/accommodation/rooms/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "accommodation/rooms",
+    "link": "ro/accommodation/rooms",
     "textOnMouseOver": "Vezi locurile de cazare",
     "openInNewTab": false
   },
@@ -366,7 +366,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/accommodation/booksAndCosy"
+        "page": "ro/accommodation/booksAndCosy"
       }
     },
     {
@@ -379,16 +379,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/camping"
+          "page": "ro/accommodation/camping"
         },
         {
-          "page": "/review"
+          "page": "ro/review"
         },
         {
-          "page": "/activities/hiking"
+          "page": "ro/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "ro/activities/cycling"
         }
       ]
     }

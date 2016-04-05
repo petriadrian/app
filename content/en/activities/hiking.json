@@ -7,7 +7,7 @@
     "smallBoxImg": "img/activities/hiking/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "activities/hiking",
+    "link": "en/activities/hiking",
     "textOnMouseOver": "See the hiking trails...",
     "openInNewTab": false
   },
@@ -42,19 +42,19 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/activities/trails/historicalCenter"
+          "page": "en/activities/trails/historicalCenter"
         },
         {
-          "page": "/activities/trails/romanGalleries"
+          "page": "en/activities/trails/romanGalleries"
         },
         {
-          "page": "/activities/trails/carnic"
+          "page": "en/activities/trails/carnic"
         },
         {
-          "page": "/activities/trails/weatherStation"
+          "page": "en/activities/trails/weatherStation"
         },
         {
-          "page": "/activities/trails/letySulei"
+          "page": "en/activities/trails/letySulei"
         }
       ]
     },
@@ -68,13 +68,13 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/activities/trails/detunata"
+          "page": "en/activities/trails/detunata"
         },
         {
-          "page": "/activities/trails/geamana"
+          "page": "en/activities/trails/geamana"
         },
         {
-          "page": "/activities/trails/topAttractions"
+          "page": "en/activities/trails/topAttractions"
         }
       ]
     },
@@ -88,16 +88,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/activities/cycling"
+          "page": "en/activities/cycling"
         },
         {
-          "page": "/accommodation/rooms"
+          "page": "en/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "en/accommodation/camping"
         },
         {
-          "page": "/accommodation/booksAndCosy"
+          "page": "en/accommodation/booksAndCosy"
         }
       ]
     }

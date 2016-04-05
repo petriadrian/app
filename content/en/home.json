@@ -7,7 +7,7 @@
     "smallBoxImg": "img/homePage/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "/",
+    "link": "en/home",
     "textOnMouseOver": "homepage",
     "openInNewTab": false
   },
@@ -26,25 +26,25 @@
         "timeInterval": "7000",
         "slides": [
           {
-            "page": "/home"
+            "page": "en/home"
           },
           {
-            "page": "/activities/trails/weatherStation"
+            "page": "en/activities/trails/weatherStation"
           },
           {
-            "page": "/activities/trails/romanGalleries"
+            "page": "en/activities/trails/romanGalleries"
           },
           {
-            "page": "/activities/trails/fourLakes"
+            "page": "en/activities/trails/fourLakes"
           },
           {
-            "page": "/activities/trails/geamana"
+            "page": "en/activities/trails/geamana"
           },
           {
-            "page": "/activities/trails/historicalCenter"
+            "page": "en/activities/trails/historicalCenter"
           },
           {
-            "page": "/activities/trails/carnic"
+            "page": "en/activities/trails/carnic"
           }
         ]
       }
@@ -59,17 +59,17 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "en/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "en/accommodation/camping"
         }
       ]
     },
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/accommodation/booksAndCosy"
+        "page": "en/accommodation/booksAndCosy"
       }
     },
     {
@@ -82,17 +82,17 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/activities/hiking"
+          "page": "en/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "en/activities/cycling"
         }
       ]
     },
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/activities/trails/topAttractions"
+        "page": "en/activities/trails/topAttractions"
       }
     },
     {
@@ -105,28 +105,28 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/recommendations/festival"
+          "page": "en/recommendations/festival"
         },
         {
-          "page": "/recommendations/marathon"
+          "page": "en/recommendations/marathon"
         },
         {
-          "page": "/recommendations/monumentsRestorations"
+          "page": "en/recommendations/monumentsRestorations"
         },
         {
-          "page": "/recommendations/steamTrain"
+          "page": "en/recommendations/steamTrain"
         },
         {
-          "page": "/recommendations/daffodilMeadow"
+          "page": "en/recommendations/daffodilMeadow"
         },
         {
-          "page": "/recommendations/firstMai"
+          "page": "en/recommendations/firstMai"
         },
         {
-          "page": "/recommendations/scoutsOng"
+          "page": "en/recommendations/scoutsOng"
         },
         {
-          "page": "/recommendations/souvenirShop"
+          "page": "en/recommendations/souvenirShop"
         }
       ]
     }

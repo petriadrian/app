@@ -3,7 +3,7 @@
     "text": "Casa Petri Roșia Montană",
     "displayOnShareImg": "img/common/siteLogo.png",
     "url": {
-      "link": "/",
+      "link": "ro/home",
       "textOnMouseOver": "Întoarcete la pagina principală",
       "openInNewTab": false
     }
@@ -12,7 +12,7 @@
     {
       "text": "<i class='fa fa-lg fa-map-signs'></i> drumeții",
       "url": {
-        "link": "activities/hiking",
+        "link": "ro/activities/hiking",
         "textOnMouseOver": "trasee drumeție",
         "openInNewTab": false
       }
@@ -20,7 +20,7 @@
     {
       "text": "<i class='fa fa-lg fa-bicycle'></i> ciclism",
       "url": {
-        "link": "activities/cycling",
+        "link": "ro/activities/cycling",
         "textOnMouseOver": "trasee ciclism",
         "openInNewTab": false
       }
@@ -28,7 +28,7 @@
     {
       "text": "<i class='fa fa-lg fa-book'></i> cărți",
       "url": {
-        "link": "accommodation/booksAndCosy",
+        "link": "ro/accommodation/booksAndCosy",
         "textOnMouseOver": "citește și relaxează-te",
         "openInNewTab": false
       }
@@ -36,7 +36,7 @@
     {
       "text": "<i class='fa fa-lg fa-bed'></i> cazare",
       "url": {
-        "link": "accommodation/rooms",
+        "link": "ro/accommodation/rooms",
         "textOnMouseOver": "camere",
         "openInNewTab": false
       }

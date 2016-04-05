@@ -7,7 +7,7 @@
     "smallBoxImg": "img/activities/trails/letySulei/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "activities/trails/letySulei",
+    "link": "en/activities/trails/letySulei",
     "textOnMouseOver": "See the Lety and Șulei trail...",
     "openInNewTab": false
   },
@@ -112,7 +112,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/activities/trails/historicalCenter"
+        "page": "en/activities/trails/historicalCenter"
       }
     },
     {
@@ -125,16 +125,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "en/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "en/accommodation/camping"
         },
         {
-          "page": "/activities/hiking"
+          "page": "en/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "en/activities/cycling"
         }
       ]
     }

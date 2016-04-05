@@ -7,7 +7,7 @@
     "smallBoxImg": "img/recommendations/steamTrain/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "recommendations/steamTrain",
+    "link": "en/recommendations/steamTrain",
     "textOnMouseOver": "See more...",
     "openInNewTab": false
   },
@@ -90,16 +90,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "en/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "en/accommodation/camping"
         },
         {
-          "page": "/activities/hiking"
+          "page": "en/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "en/activities/cycling"
         }
       ]
     }

@@ -7,7 +7,7 @@
     "smallBoxImg": "img/activities/trails/letySulei/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "activities/trails/letySulei",
+    "link": "ro/activities/trails/letySulei",
     "textOnMouseOver": "Vezi traseul spre vârfurile Lety și Șulei",
     "openInNewTab": false
   },
@@ -112,7 +112,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/activities/trails/historicalCenter"
+        "page": "ro/activities/trails/historicalCenter"
       }
     },
     {
@@ -125,16 +125,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "ro/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "ro/accommodation/camping"
         },
         {
-          "page": "/activities/hiking"
+          "page": "ro/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "ro/activities/cycling"
         }
       ]
     }

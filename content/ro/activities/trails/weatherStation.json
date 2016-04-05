@@ -7,7 +7,7 @@
     "smallBoxImg": "img/activities/trails/weatherStation/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "activities/trails/weatherStation",
+    "link": "ro/activities/trails/weatherStation",
     "textOnMouseOver": "Vezi traseul spre Stația Meteo",
     "openInNewTab": false
   },
@@ -112,7 +112,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "/activities/trails/detunata"
+        "page": "ro/activities/trails/detunata"
       }
     },
     {
@@ -125,16 +125,16 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "/accommodation/rooms"
+          "page": "ro/accommodation/rooms"
         },
         {
-          "page": "/accommodation/camping"
+          "page": "ro/accommodation/camping"
         },
         {
-          "page": "/activities/hiking"
+          "page": "ro/activities/hiking"
         },
         {
-          "page": "/activities/cycling"
+          "page": "ro/activities/cycling"
         }
       ]
     }
