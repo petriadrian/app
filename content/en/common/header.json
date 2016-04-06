@@ -34,7 +34,7 @@
       }
     },
     {
-      "text": "<i class='fa fa-lg fa-bed'></i> sleep",
+      "text": "<i class='fa fa-lg fa-bed'></i> accommodation",
       "url": {
         "link": "en/accommodation/rooms",
         "textOnMouseOver": "accommodation - rooms",

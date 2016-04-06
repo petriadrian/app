@@ -71,7 +71,7 @@
                 "iconFortAwesomeClass": "fa fa-car"
               },
               {
-                "textOnMouseOver": "lungime dus-întors",
+                "textOnMouseOver": "round trip length",
                 "text": "10km",
                 "iconFortAwesomeClass": "fa fa-refresh"
               }

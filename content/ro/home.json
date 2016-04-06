@@ -26,19 +26,19 @@
         "timeInterval": "7000",
         "slides": [
           {
-            "page": "ro/activities/trails/weatherStation"
+            "page": "ro/activities/trails/romanGalleries"
           },
           {
-            "page": "ro/activities/trails/romanGalleries"
+            "page": "ro/activities/trails/historicalCenter"
+          },
+          {
+            "page": "ro/activities/trails/weatherStation"
           },
           {
             "page": "ro/activities/trails/fourLakes"
           },
           {
             "page": "ro/activities/trails/geamana"
-          },
-          {
-            "page": "ro/activities/trails/historicalCenter"
           },
           {
             "page": "ro/activities/trails/carnic"
@@ -57,7 +57,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Deoarece ne dorim turism la Roșia Montană, am renovat căsuța moștenită de la bunici și am deschis-o pentru cazare. Este o clădire de patrimoniu din centrul istoric, a avut un rol important în viața comunității ca sediu de bancă, centru medical sau chiar cinematograf. A fost cumpărată apoi de bunicii noștri care se ocupau cu mineritul, pentru a locui. Vedeți pe site interiorul și posibilitățile de cazare de care dispunem. <br>Roșia Montană este unică, cu o moștenire culturală valoroasă, aveți multe de vizitat și de aflat despre ea. Descoperiți industria minieră de aur și argint care a început în antichitate prin a vizita galeriile romane, șteampurile sau lacurile artificiale. Vedeți cum a evoluat prin carierele de suprafață, iazuri de decantare și utilaje. Descoperiți centrul istoric cu case de patrimoniu în diferite stiluri, școli pentru diverse limbi, biserici de diferite culte, ridicate de diverse nații venite aici de-a lungul timpului pentru a extrage aur. Împrejurimile sunt de asemenea superbe, drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri, obiective naturale. Descoperiți toate aceastea în traseele de drumeție sau de bicicletă pe care le găsiți pe site."
+          "textContent": "Deoarece ne dorim turism la Roșia Montană, am renovat căsuța moștenită de la bunici și am deschis-o ca spațiu de cazare. Este o clădire de patrimoniu din centrul istoric ce a avut un rol important în viața comunității ca sediu de bancă, centru medical sau chiar cinematograf. Bunicii noștri, care lucrau în minerit, au cumparat-o apoi pentru a o folosi ca locuință. Vedeți pe acest website interiorul și posibilitățile de cazare de care dispunem. <br>Roșia Montană este unică, cu o moștenire culturală valoroasă, așa că aveți multe de vizitat și de aflat. Descoperiți industria minieră de aur și argint care a început în Antichitate prin a vizita galeriile romane, șteampurile sau lacurile artificiale. Vedeți cum a evoluat prin carierele de suprafață, iazuri de decantare și utilaje. Descoperiți centrul istoric cu case de patrimoniu în diferite stiluri, școli pentru diverse limbi, biserici de diferite culte, ridicate de diverse nații venite aici de-a lungul timpului pentru a extrage aur. Împrejurimile sunt de asemenea superbe, drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și alte obiective naturale. Descoperiți toate aceastea în traseele de drumeție sau de bicicletă pe care le găsiți pe site."
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "presentation": {
     "title": "Galeriile Romane",
-    "headline": "Descoperă galeriile romane - traseul masivului Orlea",
+    "headline": "Descoperă Galeriile Romane din Roșia Montană",
     "description": "Pătrundem în adâncul muntelui, în galeriile romane și apoi vizităm atracțiile din zonă. <i class='fa fa-male'> ~3h </i>",
     "fullWidthImg": "img/activities/trails/romanGalleries/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/romanGalleries/presentation/smallBoxImg.jpg"
@@ -15,7 +15,7 @@
     "showPageHeadline": true
   },
   "metaData": {
-    "title": "Descoperă galeriile romane - traseul masivului Orlea",
+    "title": "Descoperă Galeriile Romane din Roșia Montană",
     "description": "Pătrundem în adâncul muntelui, în galeriile romane și apoi vizităm atracțiile din zonă.",
     "displayOnShareImg": "img/activities/trails/romanGalleries/presentation/displayOnShareImg.jpg"
   },
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Traseul ne va purta spre celebrele galerii romane de la Muzeul Mineritului. Drumul de la Casa Petri până la Muzeu este asfaltat, iar partea a 2-a traseului, spre biserica Greco Catolică și sculpturi se face pe drum de țară.",
+          "textContent": "Traseul ne va purta spre celebrele galerii romane de la Muzeul Mineritului. Drumul de la Casa Petri până la Muzeu este asfaltat, iar partea a 2-a traseului, în care vizităm zona Orlea, spre biserica Greco Catolică și sculpturi se face pe drum de țară. Timpul estimat sub hartă include vizita la muzeu.",
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJmREpqBvNTkcR0-GMtovthj8|place_id:ChIJLRYf_xrNTkcRVs2TeQDpAj4|place_id:ChIJ-0OGVhDNTkcRThLcLvAEoLQ|place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw",
             "list": [

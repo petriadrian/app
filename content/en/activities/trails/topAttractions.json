@@ -27,21 +27,21 @@
         {
           "textContent": "Ați ajuns în Rosia Montana sau plănuiți o vizită și nu prea aveți mult timp? Vă propunem acest traseu care cuprinde <b>principalele</b> obiective turistice de aici. Sub hartă găsiți câteva imagini și sfaturi despre aceste obiective. Porniți de la Casa Petri care se află chiar în centrul istoric și vizitați pas cu pas fiecare obiectiv.",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=sfinxul%20carnic&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJmREpqBvNTkcR0-GMtovthj8|place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw|place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw|place_id:ChIJGUVwDuHMTkcRESfpNiecGZQ|place_id:ChIJK4tH5-DMTkcRtHCCOcaoDmY|Galeria Văidoaia, Rosia Montana, Alba County, Romania|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJ3xPsYeXMTkcR-i2Sq02cmlM",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJmREpqBvNTkcR0-GMtovthj8|place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw|place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw|place_id:ChIJGUVwDuHMTkcRESfpNiecGZQ|place_id:ChIJK4tH5-DMTkcRtHCCOcaoDmY|place_id:ChIJf7dBe97MTkcRUOKwgwP6qHs|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJ3xPsYeXMTkcR-i2Sq02cmlM|place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk",
             "list": [
               {
-                "textOnMouseOver": "lungime dus-întors",
+                "textOnMouseOver": "round trip length",
                 "text": "~15km",
                 "iconFortAwesomeClass": "fa fa-refresh"
               },
               {
-                "textOnMouseOver": "durată pe jos dus-întors",
+                "textOnMouseOver": "walking duration of the round trip",
                 "text": "~6h",
                 "iconFortAwesomeClass": "fa fa-male"
               },
               {
                 "textOnMouseOver": "difficulty",
-                "text": "ușor",
+                "text": "easy",
                 "iconFortAwesomeClass": "fa fa-line-chart"
               }
             ]

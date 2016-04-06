@@ -35,17 +35,17 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJX0JNIW_RSEcR1vLt5txsNTw&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJR3EQGOAsSUcR5LmrbHY10WY",
             "list": [
               {
-                "textOnMouseOver": "lungime dus-întors",
+                "textOnMouseOver": "round trip length",
                 "text": "~110km",
                 "iconFortAwesomeClass": "fa fa-refresh"
               },
               {
-                "textOnMouseOver": "durată cu bicicleta dus-întors",
+                "textOnMouseOver": "cycling duration of the round trip",
                 "text": "~9h",
                 "iconFortAwesomeClass": "fa fa-bicycle"
               },
               {
-                "textOnMouseOver": "durata cu mașina dus-întors",
+                "textOnMouseOver": "driving duration of the round trip",
                 "text": "~2h",
                 "iconFortAwesomeClass": "fa fa-car"
               },

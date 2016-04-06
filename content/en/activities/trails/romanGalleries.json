@@ -1,18 +1,18 @@
 {
   "presentation": {
     "title": "Roman Galleries",
-    "headline": "Discover the Roman Galleries - the Orlea trail",
+    "headline": "Discover the Roman Galleries of Rosia Montana",
     "description": "Visit the antic Roman Galleries with a guide and then visit the attractions of Orlea area. <i class='fa fa-male'> ~3h </i>",
     "fullWidthImg": "img/activities/trails/romanGalleries/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/romanGalleries/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "en/activities/trails/romanGalleries",
-    "textOnMouseOver": "See the Orlea trail...",
+    "textOnMouseOver": "See the trail...",
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Discover the Roman Galleries - the Orlea trail",
+    "title": "Discover the Roman Galleries of Rosia Montana",
     "description": "Visit the antic Roman Galleries of Rosia Montana with a guide and then visit the attractions of Orlea area.",
     "displayOnShareImg": "img/activities/trails/romanGalleries/presentation/displayOnShareImg.jpg"
   },
@@ -30,28 +30,28 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Traseul ne va purta spre celebrele galerii romane de la Muzeul Mineritului. Drumul de la Casa Petri până la Muzeu este asfaltat, iar partea a 2-a traseului, spre biserica Greco Catolică și sculpturi se face pe drum de țară.",
+          "textContent": "The trail to the roman galleries from Mining Museum. The road from Casa Petri to the Museum is asphalted, and the second part of the trail where we visit the Orlea area (the Greek-Catholic Church and the sculptures) is on a unpaved road. The time given under the map includes the visit at the museum.",
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJmREpqBvNTkcR0-GMtovthj8|place_id:ChIJLRYf_xrNTkcRVs2TeQDpAj4|place_id:ChIJ-0OGVhDNTkcRThLcLvAEoLQ|place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw",
             "list": [
               {
-                "textOnMouseOver": "lungime dus-întors",
+                "textOnMouseOver": "round trip length",
                 "text": "~5km",
                 "iconFortAwesomeClass": "fa fa-refresh"
               },
               {
-                "textOnMouseOver": "durată pe jos dus-întors",
+                "textOnMouseOver": "walking duration of the round trip",
                 "text": "~3h",
                 "iconFortAwesomeClass": "fa fa-male"
               },
               {
                 "textOnMouseOver": "difficulty",
-                "text": "ușor",
+                "text": "easy",
                 "iconFortAwesomeClass": "fa fa-line-chart"
               },
               {
-                "textOnMouseOver": "indicații",
-                "text": "bocanci de munte, pelerină, apă",
+                "textOnMouseOver": "should have",
+                "text": "hiking boots, raincoat, water",
                 "iconFortAwesomeClass": "fa fa-check-square-o"
               }
             ]

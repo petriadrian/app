@@ -37,17 +37,17 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJv_3GPwvLTkcRDy5ru-eVXWI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJ6e_SmJXMTkcRoxSvt__dGSs",
             "list": [
               {
-                "textOnMouseOver": "lungime dus-întors",
+                "textOnMouseOver": "round trip length",
                 "text": "~19km",
                 "iconFortAwesomeClass": "fa fa-refresh"
               },
               {
-                "textOnMouseOver": "durată pe jos dus-întors",
+                "textOnMouseOver": "walking duration of the round trip",
                 "text": "~7h",
                 "iconFortAwesomeClass": "fa fa-male"
               },
               {
-                "textOnMouseOver": "durată cu bicicleta dus-întors",
+                "textOnMouseOver": "cycling duration of the round trip",
                 "text": "~5h",
                 "iconFortAwesomeClass": "fa fa-bicycle"
               },
@@ -57,8 +57,8 @@
                 "iconFortAwesomeClass": "fa fa-line-chart"
               },
               {
-                "textOnMouseOver": "indicații",
-                "text": "bocanci de munte, pelerină, apă",
+                "textOnMouseOver": "should have",
+                "text": "hiking boots, raincoat, water",
                 "iconFortAwesomeClass": "fa fa-check-square-o"
               }
             ]
