@@ -1,7 +1,7 @@
 {
   "presentation": {
     "title": "Camping",
-    "headline": "My tent beside the mountains... is my home",
+    "headline": "Love to see the night sky from your tent?",
     "description": "Safe camping with mountain view and bathroom or kitchen access. <b>Book a camping place</b> in our yard.",
     "fullWidthImg": "img/accommodation/camping/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/camping/presentation/smallBoxImg.jpg"
@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Camping Rosia Montana - Casa Petri",
-    "description": "Safe camping with mountain view and bathroom or kitchen access. Grab your backpack and discover Rosia Montana (roman galleries, mining industry, mountains, lakes, historical buildings). You will find here hiking or cycling trails in the area, guides and bikes to rent",
+    "title": "Camping at Rosia Montana",
+    "description": "Safe camping with mountain view and bathroom or kitchen access. Grab your backpack and discover Rosia Montana (roman galleries, mining industry, mountains, lakes, historical buildings). See here the hiking or cycling trails in the area.",
     "displayOnShareImg": "img/accommodation/camping/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "We also love to go camping in the mountains when we find a good spot. That's why we prepared in our yard a small camping place, for maximum 4 tents, with <b>bathroom</b> and <b>kitchen</b> access. We offer <b>10% discount</b> for those who bring their bikes and do at least one cycling trail. It is not allowed to smoke inside, listen loud music and fire is allowed only in designated fireplaces. <b>The booking will be confirmed by email</b>. <br><br><i class='fa fa-lg fa-wifi'></i> wifi - <i class='fa fa-lg fa-puzzle-piece'></i> board games - <i class='fa fa-lg fa-car'></i> parking"
+          "textContent": "We also love to go camping in the mountains when we find a good spot. That's why we prepared in our yard a small camping place, for maximum 4 tents, with <b>bathroom</b> and <b>kitchen</b> access. We offer <b>10% discount</b> for those who bring their bikes and do at least one cycling trail. It is not allowed to smoke inside, listen loud music and fire is allowed only in designated fireplaces. <br><b>The booking will be confirmed by email</b>. <br><br><i class='fa fa-lg fa-wifi'></i> wifi - <i class='fa fa-lg fa-puzzle-piece'></i> board games - <i class='fa fa-lg fa-car'></i> parking"
         }
       ]
     },
