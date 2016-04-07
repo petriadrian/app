@@ -43,18 +43,18 @@
   },
   {
     "id": "panoramicBench",
-    "title": "Băncuța Panoramică(Berg)",
-    "textContent": "Cel mai romantic loc din Roșia Montană este cu siguranță 'Băncuța Panoramică'. Este cam la 10 minute de Casa Petri și vă recomandăm să vă întoarceți și noaptea pentru a vă bucura de cerul înstelat și liniștea satului. Drumul spre ea ne va plimba prin fostul cartier nemțesc 'Berg'.",
+    "title": "The Panoramic Bench(Berg)",
+    "textContent": "The Panoramic Bench is definitely the most romantic spot in Roșia Montană. It’s 10 minutes away from Casa Petri, and we recommend to visit it at night as well, to enjoy the sky full of stars and the quiet of the village. On your way to the bench you will pass through the old German neighborhood ‘Berg’.",
     "images": [
       {
-        "title": "Școala Germană și Casa Francisc",
-        "description": "clădiri de patrimoniu ale cartierului 'Berg'",
+        "title": "The German School & Francisc House",
+        "description": "heritage buildings in ‘Berg’ neighborhood",
         "thumbnailUrl": "img/activities/trails/attractions/panoramicBench/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/panoramicBench/fullSize/1.jpg"
       },
       {
-        "title": "Băncuța Panoramică",
-        "description": "belvedere spre masivul Cârnic care adăpostește peste 150km de galerii romane, antice, unice in lume.",
+        "title": "The Panoramic Bench",
+        "description": "view towards the Cârnic Mountains, that holds over 150 km of roman galleries, unique in the world ",
         "thumbnailUrl": "img/activities/trails/attractions/panoramicBench/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/panoramicBench/fullSize/2.jpg"
       }
@@ -62,18 +62,18 @@
   },
   {
     "id": "romanCatholicChurch",
-    "title": "Biserica Romano-Catolica",
-    "textContent": "Așezarea ei deasupra satului fac ca turnul cu ceas să fie vizibil din tot centrul istoric și sunetul clopotelor să fie auzit de la orice casă. De la bunici știm că locul de veci, din fața bisericii, esta a celui care a finanțat construcția ei cu condiția ca biserica și locul lui să nu fie mutate niciodată. Se spune că în timp ce acesta căuta aur pe galerii, s-a întâlnit cu vâlva băii și a făcut un pact cu ea referitor la biserică. Nu vă spunem mai multe ... veniți la Roșia și întrebați de acest pact.",
+    "title": "The Roman-Catholic Church",
+    "textContent": "Being built on higher ground makes the Clock tower visible from all over the historic center and the bells to be heard from any home. From our grandparents we’ve heard that the tomb in front of the church is the resting place of the man who financed the church’s construction, with one condition: that the church's place and his tomb not to be moved. It is said that while he searched for gold in the galleries, he met with “Vâlva” (a ghost from a local legend) and made a pact with her regarding the church. We’re not saying more about this :) ... come to Rosia and ask about this story.",
     "images": [
       {
-        "title": "Biserica Romano-Catolica",
-        "description": "Slujbele au loc în prima duminică din lună. La sfarșitul slujbei se cântă la orga din interiorul ei",
+        "title": "The Roman-Catholic Church",
+        "description": "Mass is held on the first Sunday of the month. At the end of the mass the pipe organ is played.",
         "thumbnailUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/fullSize/1.jpg"
       },
       {
-        "title": "Biserica Romano-Catolica",
-        "description": "De paști, sătenii aduc un coș cu mâncare pentru a fii sfințită. Mormantul mântuitorului este păzit întreaga zi de 7 gărzi care elibereaza intrarea în timpul slujbei de înviere.",
+        "title": "The Roman-Catholic Church",
+        "description": "At Easter, the villagers bring a basket with food to be holly. The tomb of the Saviour is guarded all day by 7 guards that free the entrance during the Resurrection.",
         "thumbnailUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/fullSize/2.jpg"
       }
@@ -81,20 +81,20 @@
   },
   {
     "id": "unitarianChurch",
-    "title": "Biserica Unitariană (1568)",
+    "title": "The Unitarian Church(1568)",
+    "textContent": "''Set on a small hilltop in the central area, the building dominates the central square and shines on all the spatial organization of the entire area, emerging as a valuable element of the urban structure.' The camps for restoration of the village’s heritage monuments are held annually.'",
     "moreDetailsLink": "http://www.adoptaocasa.ro/case/biserica-unitariana",
-    "moreDetailsText": "Mai multe detalii aici.",
-    "textContent": "'Amplasat pe culmea unui mic deal, în zona centrală, edificiul domină ansamblul pieței centrale și iradiază asupra organizării spațiale a întregii zone, afirmandu-se ca element de valoare al structurii urbane.' Aici se desfăsoară anual tabere de restaurare a monumentelor de patrimoniu din localitate.",
+    "moreDetailsText": "More details here.",
     "images": [
       {
-        "title": "Biserica Unitariană",
-        "description": "Slujbele din fiecare Duminică sunt foarte apreciate, astfel că se organizează chiar si excursii din Cluj la acestea.",
+        "title": "The Unitarian Church",
+        "description": " The Masses held each Sunday are very popular, so there are organized trips from Cluj to attend them.",
         "thumbnailUrl": "img/activities/trails/attractions/churches/unitarianChurch/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/unitarianChurch/fullSize/1.jpg"
       },
       {
-        "title": "Biserica Unitariană",
-        "description": "Preotul susține dezvoltarea turistică a zonei, de aceea permite să se țină diverse evenimente culturale aici. Interesați-vă dacă nu e un astfel de eveniment când ajungeți.",
+        "title": "The Unitarian Church",
+        "description": "The priest supports the touristic development of the area, that’s why he allows the organization of cultural events here. Make sure you check if there are any events held here during your visit.",
         "thumbnailUrl": "img/activities/trails/attractions/churches/unitarianChurch/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/unitarianChurch/fullSize/2.jpg"
       }
@@ -102,18 +102,18 @@
   },
   {
     "id": "vaidoaiaGalleries",
-    "title": "Galeria și Vârful Jig-Văidoaia",
-    "textContent": "Galeria este diferită față de cea de la Muzeul Mineritului și pare mai degrabă o peșteră. Dar urmele de săpături pe locul filoanelor de aur de pe pereții acesteia o să vă convingă că a fost creeată de stramoșii noștri în căutarea aurului. Urcați până pe vârful masivului și bucurați-vă de privelistea spre Tăul Brazi, Cârnic și întreaga vale a Roșiei Montane. Atenție: aveți de urcat pe pietre! ",
+    "title": "The Gallery and Jig-Văidoaia Peak",
+    "textContent": "This gallery is different from that of the Mining Museum and seems more like a cave. But traces of excavations on the site of gold veins on its walls will convince you that has been created by our ancestors in search of gold. Climb to the top of the mountain and enjoy the view towards Tăul Brazi, Cârnic and the whole valley of Roșia Montană. Warning: you have to climb on the rocks!",
     "images": [
       {
-        "title": "Galeria Vaidoaia",
-        "description": "Aici e 'inima' Rosiei Montane. După rocile din jur o sa vă dați seama de unde vine numele localitatii.",
+        "title": "Văidoaia Gallery",
+        "description": "This is the “heart” of Roșia Montană. Seeing the rocks surrounding the gallery, you will understand where the name of the village comes from.",
         "thumbnailUrl": "img/activities/trails/attractions/vaidoaiaGalleries/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/vaidoaiaGalleries/fullSize/1.jpg"
       },
       {
-        "title": "Vârful Jig-Văidoaia - vedere spre centrul istoric",
-        "description": " masivul din care face parte galeria Văidoaia.",
+        "title": "Jig-Văidoaia Peak",
+        "description": "view towards the historical center and Carnic mountain.",
         "thumbnailUrl": "img/activities/trails/attractions/vaidoaiaGalleries/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/vaidoaiaGalleries/fullSize/2.jpg"
       }
@@ -141,20 +141,20 @@
     ]  },
   {
     "id": "szekeyHouse",
-    "title": "Casa Szekey",
-    "textContent": "Casa Szekey Acoș, de la poalele masivului Jig-Văidoaia, este ca o mică cetate împrejmuită de un zid de piatră cu o poartă înaltă boltită. Probabil că aceste elemente de piatră l-au înspirat pe Dan Pița în 1972 să facă aici filmul 'Nunta de piatră'. La întoarcerea de pe traseu putem urmări filmul la Casa Petri întrucât va avea un mai mare impact odată ce cunoașteți zona. O parte din echipa de filmare au fost cazați atunci la noi, unde puteți găsi o imagine cu autograful lor.",
+    "title": "The Szekely house",
+    "textContent": "The Szekely Acoș house, at the foot of Jig-Văidoaia mountain, is like a small fortress surrounded by a stone wall with a high vaulted gate. Perhaps these stone elements inspired Dan Pița in 1972 to make here the movie 'Stone Wedding'. When returning from the trail you can watch the movie at Casa Petri as it will have a greater impact once you know the area. Some of the filming crew were accommodated here, where you can find a picture with their autograph.",
     "moreDetailsLink": "http://tiff.ro/en/tiff/stiri/40-years-stone-wedding",
-    "moreDetailsText": "Filmul a fost nominalizat la TiFF în top 10 filme romanesti ale tuturor timpurilor. Vezi aici... ",
+    "moreDetailsText": "The film was nominated for TIFF in the top 10 Romanian films of all time. See here... ",
     "images": [
       {
-        "title": "Casa Szekely",
-        "description": "Poarta casei și masivul Văidoaia.",
+        "title": "The Szekely house",
+        "description": "the gate and Vlădoaia mountain.",
         "thumbnailUrl": "img/activities/trails/attractions/szekeyHouse/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/szekeyHouse/fullSize/1.jpg"
       },
       {
-        "title": "Centrul istoric - imagine din filmul 'Nunta de Piatră'",
-        "description": "Aici erau buticuri cu diverse bunătăți, articole de îmbrăcăminte, ateliere de reparat păpuci, croitorii..",
+        "title": "Historical center - image from the ‘Stone Wedding' film",
+        "description": "There were boutiques with various goodies, clothing, slippers repair workshops, tailors ..",
         "thumbnailUrl": "img/activities/trails/attractions/szekeyHouse/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/szekeyHouse/fullSize/2.jpg"
       }
@@ -162,18 +162,18 @@
   },
   {
     "id": "braziLake",
-    "title": "Tăul Brazi",
-    "textContent": "Tăurile din Roșia sunt lacuri artificiale de acumulare folosite pentru a acționa morile șteampurilor. La Muzeul Mineritului sunt expuse șteampuri unde se poate vedea cum produceau aur. Tăul Brazi are și o <b>zonă de agrement</b> cu băncuțe, bărcuțe și spații amenajate pentru grătare.",
+    "title": "Brazi Lake",
+    "textContent": "The lakes in Roșia are man-made lakes used to operate the mills stamps. Stamps are displayed at the Mining Museum where you can see how gold was produced. Brazi Lake has a <b>recreation area</b>  with benches, boats and specialized spaces for barbecues.",
     "images": [
       {
-        "title": "Tăul Brazi",
-        "description": "Căsuța de la coada lacului este a unui pictor care s-a mutat aici pentru a folosi priveliștea drept sursă de inspirație pentru operele sale. ",
+        "title": "Brazi Lake",
+        "description": "The house from the end of the lake belongs to a painter who moved here to use the view as inspiration for his works.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/braziLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/braziLake/fullSize/1.jpg"
       },
       {
-        "title": "Tăul Brazi - dis de dimineață",
-        "description": "De aici puteți urca, și până la Tăul Anghel (sau tăul fară fund) care este cam la 10 minute distanță.",
+        "title": "Brazi Lake - early morning",
+        "description": "from here you can climb to Anghel Lake(the Lake without) which is about 10 minutes away..",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/braziLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/braziLake/fullSize/2.jpg"
       }
@@ -200,20 +200,20 @@
   },
   {
     "id": "carnicSfinx",
-    "title": "Sfinxul Carnic",
-    "textContent": "Drumul vă va purta printr-o pădure de brazi prin care puteți găsi ciuperci, zmeura, mure sau frăguțe. Odată ajunși pe culmea masivului, la Sfinx, vă aflati pe unul dintre cele mai inalte puncte din Rosia Montana. În față vedeți centrul istoric iar în spate Cariera Cetate. Se numește 'Cetate' pentru că aici era întradevar o cetate sculptată în munți de daci si romani. Dar pe vremea comunismului s-a decis ca e mai important să o distrugă și să facă aici o exploatare de suprafață.",
+    "title": "Cârnic Sphinx",
+    "textContent": "The road will take you through a fir forest where you can find mushrooms, raspberries, blackberries and wild strawberries. When you will reach the Sphinx, you're at one of the highest points in Roșia Montană. Ahead you can see the historic center and behind the Cetate open pit.. It's called 'Cetate’ (Fortress) because here was indeed a fortress carved into the mountains by Dacians and Romans. But in communist era it was decided it's more important to destroy it and to have here an open mining area.",
     "moreDetailsLink": "http://adevarul.ro/locale/alba-iulia/foto-distrugerea-curtilor-aur-cele-mai-frumoase-mai-reprezentative-lucrari-miniere-romania-vremea-dacilor-romanilor-1_5607ae00f5eaafab2c0c02e2/index.html",
-    "moreDetailsText": "Mai multe detalii aici.",
+    "moreDetailsText": "More details...",
     "images": [
       {
-        "title": "Sfinxul Carnic",
-        "description": "Crucea de pe Sfinx a fost pusă aici de baiesi(mineri) pentru a fi călauziți pe mină în căutarea aurului.",
+        "title": "Cârnic Sphinx",
+        "description": "The cross on the Sphinx was put here the miners to be guided in the mines in search of gold.",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicSfinx/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicSfinx/fullSize/1.jpg"
       },
       {
-        "title": "Vedere spre Cariera Cetate",
-        "description": "Asta rămâne după exploatările miniere de suprafață. Întoarceți-vă 360 de grade împrejur și imaginați-vă că dacă ar începe o exploatare aici, toată zona ar arăta asa.",
+        "title": "Overlooking - 'Cetate' open pit",
+        "description": "That what remains after an open pit mining. Take a 360 degrees spin around and imagine that if a new gold exploitation would be open here(as the one proposed in 2014), the whole area would look like that. ",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicSfinx/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicSfinx/fullSize/2.jpg"
       }
@@ -221,18 +221,18 @@
   },
   {
     "id": "ravenStone",
-    "title": "Piatra Corbului",
-    "textContent": "De la Sfinx o luăm pe culmea muntelui, pe unde am venit, pana la capătul potecii. Ne aflăm pe Piatra Corbului - rezervație naturală protejată. De aici se vede Tăul și satul Corna.",
+    "title": "Raven’s stone",
+    "textContent": "From the Sphinx turn towards the mountaintop, the way you came on, till the end of the trail. We are  on the Raven’s Stone -  a natural protected reservations. From here you can see Corna Lake and village.",
     "images": [
       {
-        "title": "Piatra Corbului",
-        "description": " numele vine de la forma ei de cap de corb",
+        "title": "Raven’s stone",
+        "description": "the name comes from its raven’s head shape",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/ravenStone/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/ravenStone/fullSize/1.jpg"
       },
       {
-        "title": "Vedere spre Valea Cornei",
-        "description": "pe suprafața întregii acestei depresiuni ar fi urmat să fie cel mai mare lac de cianură din Europa, dacă s-ar fi deschis aici o exploatare de aur.",
+        "title": "Overlooking the 'Corna' valley",
+        "description": "the entire surface of this depression would be transformed in the largest cyanide lake in Europe, if a new gold exploitation would be open here(as the one proposed in 2014)",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/ravenStone/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/ravenStone/fullSize/2.jpg"
       }
@@ -240,20 +240,20 @@
   },
   {
     "id": "limestoneSculptures",
-    "title": "Sculpturile de calcar",
-    "textContent": "'Asociaţia Internaţională pentru Simpozioanele de Sculptură a organizat aici primul Simpozion Internaţional de Sculptură Monumentală din România. Trei artişti români şi şase artişti invitaţi din Argentina, Canada, Egipt, Franţa, Olanda şi Japonia au constituit o echipă care a reprezentat toate continentele şi care a lucrat timp de o lună într-un spirit de prietenie şi de emulaţie artistică.' Sculpturile au fost donate patrimoniului Roşia Montană cu obligția de a nu fi mutate.",
+    "title": "Limestone sculptures",
+    "textContent": "'International Association for Sculpture organized here the first International Symposium of Monumental Sculpture in Romania. Three Romanian artists and six artists from Argentina, Canada, Egypt, France, the Netherlands and Japan have assembled a team that represented all continents and worked for a month in a spirit of friendship and artistic emulation.' The sculptures were donated to the heritage of Rosia Montana with the condition that they should not to be moved elsewhere'",
     "moreDetailsLink": "http://www.simpozionrosiamontana.org/Catalogue_Rosia_Montana.pdf",
-    "moreDetailsText": "Mai multe detalii aici.",
+    "moreDetailsText": "More details here.",
     "images": [
       {
-        "title": "Sculpturile de calcar",
-        "description": "Așezarea lor, în ograda unei ferme, nu e aleasă la întâmplare. Zona Orlea este bogată în resurse subterane și odată ce sculpturile au devenit monumente de patrimoniu, zona a devenit protejată iar deschiderea unei exploatări miniere aici... este teoretic imposibilă.",
+        "title": "Limestone sculptures",
+        "description": "Their settlement in a farm yard was not randomly chosen. Orlea area is rich in groundwater resources and once the sculptures have become heritage monuments, the area became protected, and opening a open pit here ... is theoretically impossible.",
         "thumbnailUrl": "img/activities/trails/attractions/sculpture/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/sculpture/fullSize/1.jpg"
       },
       {
-        "title": "Sculptura 'DOOR'",
-        "description": "Ehab ELLABAN | Egipt | Academia de Arte Zamalek, Cairo | Sculptura din calcar de Vistea",
+        "title": "'DOOR' Sculpture",
+        "description": "Ehab ELLABAN | Egipt | Zamalek Arts Academy, Cairo | Sculpture of Vistea limestone",
         "thumbnailUrl": "img/activities/trails/attractions/sculpture/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/sculpture/fullSize/2.jpg"
       }
