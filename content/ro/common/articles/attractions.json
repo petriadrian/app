@@ -274,7 +274,7 @@
       },
       {
         "title": "Plaiurile Țarinii",
-        "description": "Dealuri nesârșite presărate ici și colo cu căpițe de fân numai bune să te odihnești pe ele în traseul tău.",
+        "description": "Dealuri nesfârșite presărate ici și colo cu căpițe de fân numai bune să te odihnești pe ele în traseul tău.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/tariniLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/tariniLake/fullSize/2.jpg"
       }
@@ -293,7 +293,7 @@
       },
       {
         "title": "Varful Rotundu(1240m) vedere spre Apuseni",
-        "description": "Înaintați puțin de la Stația Meteo pe culmea masivului. Bucurați-vă de priveliște. În zare se pot vedea varful Vulcan, Găina și vârful Bihor.",
+        "description": "Înaintați puțin de la Stația Meteo pe culmea masivului. Bucurați-vă de priveliște. În zare se pot vedea vârful Vulcan, Găina și vârful Bihor(cel mai înalt vârf din Munții Apuseni(1849m)).",
         "thumbnailUrl": "img/activities/trails/attractions/weatherStation/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/weatherStation/fullSize/2.jpg"
       }
@@ -301,8 +301,8 @@
   },
   {
     "id": "copperPit",
-    "title": "Cariera Roșia Poieni",
-    "textContent": "Efectele exploatării de cupru asupra zonei sunt devastatoare: un munte ras, vegetație distrusă, iar sterilul rezultat de aici a fost deversat în aval peste satul Geamăna. Accesul se face pe la un <b>punct de verificare</b> cu barieră pe care o să îl întâlniți pe traseu! Nu au un program specific de vizitare și este posibil să nu puteți intra.",
+    "title": "Cariera de Cupru Roșia Poieni",
+    "textContent": "Aici o să vedeți efectele exploatării unei cariere deschise asupra mediului: un munte ras, vegetație distrusă, sol arid, iar sterilul rezultat de aici a fost deversat în aval peste satul Geamăna. Accesul se face pe la un <b>punct de verificare</b> cu barieră pe care o să îl întâlniți pe traseu! Aici trebuie să vi se verifice buletinul și să spuneți motivul vizitei. În unele zile intrarea poate fi restricționată.",
     "moreDetailsLink": "https://www.youtube.com/watch?v=J4bG7oil3gU",
     "moreDetailsText": "Maia Morgenstern a filmat aici un videoclip pentru a trage un semnal de alarmă asupra exploatărilor. Îl puteți vedea aici...",
     "images": [

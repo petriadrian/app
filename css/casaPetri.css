@@ -50,9 +50,13 @@ body {
     height: 350px;
 }
 
-.carousel .carousel-inner img,
-.detailBoxImg {
+.carousel .carousel-inner img {
     height: 100%;
+    width: 100%;
+    margin: auto;
+}
+
+.detailBoxImg {
     width: 100%;
     margin: auto;
 }

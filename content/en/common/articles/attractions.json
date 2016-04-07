@@ -22,20 +22,20 @@
   },
   {
     "id": "grecoCatholicChurch",
-    "title": "Biserica Greco-Catolica",
-    "textContent": "'Biserica greco-catolică este așezată pe o coastă domoală care coboară spre valea pârâului Roşia (numit şi Foieş), la poalele Masivului Orlea. Biserica poartă memoria celui care a fost considerat de urmaşii săi cel mai popular şi mai bine făcător dintre românii ardeleni ai veacului al XIX-lea, Simion Balint a cărui monument funerar se află lângă biserică.'",
+    "title": "The Greek-Catholic Church",
+    "textContent": "'The Greek-Catholic Church is built on a hill from the Orlea mountain. Next to the church you will find the monument of Simion Balint which had an important role in the Revolt from 1848. For his activity he received a medal from Franz Joseph, The Emperor of Austria",
     "moreDetailsLink": "http://www.adoptaocasa.ro/case/biserica-greco-catolica-adormirea-maicii-domnului-1741-rosia-montana-nr-135",
-    "moreDetailsText": "Mai multe detalii și cum te poți implica în procesul de restaurare al bisericii găsiți aici...",
+    "moreDetailsText": "More details here",
     "images": [
       {
-        "title": "Turnul biserici Greco-Catolică",
-        "description": "'Biserica se înfăţişează drept unul dintre cele mai importante monumente de cult din Munţii Apuseni, un edificiu de mare valoare arhitecturală şi istorică.'",
+        "title": "The tower of the Catholic Church",
+        "description": "'The church is one of the most important religious monuments in the Apuseni Mountains, for his architecture and history.'",
         "thumbnailUrl": "img/activities/trails/attractions/churches/grecoCatholicChurch/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/grecoCatholicChurch/fullSize/1.jpg"
       },
       {
-        "title": "Biserica Greco-Catolica",
-        "description": "'Cimitirul din jurul bisericii păstrează încă numeroase monumente funerare datând din secolele XVIII şi XIX, preţioase atât ca mărturii istorice cât şi ca realizări artistice.'",
+        "title": "The Greek-Catholic Church",
+        "description": "In the cemetery around the church you will find many tombstones dating from the eighteenth and nineteenth centuries, precious as historical evidences and as artistic achievements",
         "thumbnailUrl": "img/activities/trails/attractions/churches/grecoCatholicChurch/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/grecoCatholicChurch/fullSize/2.jpg"
       }
@@ -121,20 +121,20 @@
   },
   {
     "id": "sicilianStreet",
-    "title": "Strada 'Sicilină'",
-    "textContent": "'Strada Siciliană din Roșia Montană e o stradă istorică. Aproape un muzeu în sine. Foarte îngustă, pornește din piața cea mare, urcând în curbe stranse printre case batrane, uriașe, lipite intre ele, ca un tunel șerpuit. O stradă medievala, asemeni celor din vechile orașe italiene, zagazuită de case trainice, baroce, cu etaj și pereți groși. Clădiri superbe, în ciuda decrepitudinii lor, unde-au trăit odinioara marii aurari ai Roșiei, stăpânii comorilor din Munții Apuseni.'",
+    "title": "'Sicilian' Street",
+    "textContent": "The 'Sicilian' Street from Roșia Montană is a historical street. It's almost like an open museum. It is a narrow street which starts from the main market and continues with tight bends around the old huge houses, like a tunnel. A medieval street, like those in old Italian cities, Baroque houses, with thick walls and one floor. Beautiful buildings, despite their decrepitude, where once lived the great goldsmiths of Rosia, the real masters of the treasures from the Apuseni Mountains.'",
     "moreDetailsLink": "http://www.formula-as.ro/2006/731/societate-37/rosia-montana-un-dor-la-fel-ca-si-moartea-7261",
-    "moreDetailsText": "Mai multe aici...",
+    "moreDetailsText": "More details here...",
     "images": [
       {
-        "title": "Casa Parohială Unitariană și Școala Maghiară",
-        "description": "Casa Parohială este restaurată prin tabere ARA care țin anual aici diverse tabere de restaurare.",
+        "title": "The Unitarian Parish House and Hungarian School",
+        "description": "The Unitarian Parish House it is restored by ARA camps which takes place here each summer with students and teachers from the Architecture Faculty of Bucharest.",
         "thumbnailUrl": "img/activities/trails/attractions/sicilianStreet/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/sicilianStreet/fullSize/1.jpg"
       },
       {
-        "title": "Biserica Calvină și casele aurarilor",
-        "description": "stilul tradițional al caselor din zonă.",
+        "title": "Calvin Church and the goldsmiths houses",
+        "description": "this is the style of the heritage houses, white, simple, thick walls and small windows.",
         "thumbnailUrl": "img/activities/trails/attractions/sicilianStreet/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/sicilianStreet/fullSize/2.jpg"
       }
@@ -181,18 +181,18 @@
   },
   {
     "id": "carnicPlateau",
-    "title": "Platoul Carnic",
-    "textContent": "Aceasta este o mica terasă care ofera o priveliște deosebită spre centrul vechi, Masivul Jig-Vaidoaia și Țarină. De aici puteți prinde cel mai frumos apus asupra acestor meleaguri.",
+    "title": "Carnic Plateau",
+    "textContent": "This is a small terrace that offers a spectacular view of the Old Town, 'Jig-Vaidoaia' peak and 'Tarina' land. From here you can see the most beautiful sunset from these lands..",
     "images": [
       {
-        "title": "Platoul Carnic",
-        "description": "vedere spre Masivul Vaidoaia. În vârf puteți observa stația meteo.",
+        "title": "Carnic Plateau",
+        "description": "the view to the 'Vaidoaia' peak and 'Rotundu' peak where you can see the weather station.",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicPlateau/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicPlateau/fullSize/1.jpg"
       },
       {
-        "title": "Platoul Carnic",
-        "description": "vedere spre centrul istoric",
+        "title": "Carnic Plateau",
+        "description": "the view to the historical center",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicPlateau/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicPlateau/fullSize/2.jpg"
       }
@@ -261,20 +261,20 @@
   },
   {
     "id": "tariniLake",
-    "title": "Tăul Țarinii",
-    "textContent": "Aici este un mic colț de rai foarte aproape de Casa Petri. Un lac bine ascuns după niște sălcii înalte care își scalda ramurile în el. Țarina este locul unde roșienii au terenurile agricole, de aceea terenul este împărțit în mici parcele și pe ici, pe colo vedem câte o șură sau căpițe cu fân. Anual aceste locuri sunt însuflețite de festivalul FânFest care umple aceste locuri cu tineri ce vin să stea cu cortul.",
+    "title": "'Țarina' Pond",
+    "textContent": "Here is a small piece of heaven pretty close to the Casa Petri. A well hidden lake behind some tall willow which bathe their branches in the pond. 'Tarina' land is the place where the villagers have farms, so the land is divided into small portions and here and there you can see haystacks or barns. Each year in these places is hold the FânFest festival which fill these places with peoples who come to stay in a tent.",
     "moreDetailsLink": "http://www.fanfest.ro",
-    "moreDetailsText": "Mai multe detalii despre festival aici...",
+    "moreDetailsText": "More details about the festival here...",
     "images": [
       {
-        "title": "Tăul Țarinii",
-        "description": "Un mic lac de munte superb pe timp de toamnă. Ca locație de poză vă sugerăm podul care duce la Căsuța de pe lac.",
+        "title": "'Țarina' Pond",
+        "description": "A small mountain pond with great colors during autumn. Take some pictures on the bridge from the lake.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/tariniLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/tariniLake/fullSize/1.jpg"
       },
       {
-        "title": "Plaiurile Țarinii",
-        "description": "Dealuri nesârșite presărate ici și colo cu căpițe de fân numai bune să te odihnești pe ele în traseul tău.",
+        "title": "'Țarina' lands",
+        "description": "Endless hills with many haystacks which are handy when you want to rest s little from your trip.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/tariniLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/tariniLake/fullSize/2.jpg"
       }
@@ -282,18 +282,18 @@
   },
   {
     "id": "weatherStation",
-    "title": "Stația Meteo",
-    "textContent": "După un urcuș strajnic pe un drum de țară, traversăm o pădure de molizi și ajungem la stația meteo de munte Roșia Montană aflată pe Vârful Rotundu(1240m). Această stație este folosită de aviație și deține aparatură pentru detectarea schimbărilor meteorologice.",
+    "title": "The Weather Station",
+    "textContent": "To reach the Weather Station you have to climb a little through a pine forest. Once you get there you are on the 'Rotundu' Peak(1240m). The weather station is used by the airplanes to transmit the weather states.",
     "images": [
       {
-        "title": "Stația Meteo",
-        "description": "Angajatii stației meteo sunt oameni primitori si extrem de deschiși cu turiștii care ajung pe aici (de obicei oferă tururi ale stației meteo prin care explică cum functionează aparatura)",
+        "title": "The Weather Station",
+        "description": "If you want you can ring at the weather station door and ask to for a tour of the station ... the employees are pretty friendly.",
         "thumbnailUrl": "img/activities/trails/attractions/weatherStation/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/weatherStation/fullSize/1.jpg"
       },
       {
-        "title": "Varful Rotundu(1240m) vedere spre Apuseni",
-        "description": "Înaintați puțin de la Stația Meteo pe culmea masivului. Bucurați-vă de priveliște. În zare se pot vedea varful Vulcan, Găina și vârful Bihor.",
+        "title": "The 'Rotundu' Peak(1240m) - the view to 'Apuseni' mountains",
+        "description": "Enjoy the view. You can see from here, somewhere in the back, the 'Vulcan' Peak, the 'Găina' Peak and 'Bihor' Peak(the highest from Apuseni mountains(1849m))",
         "thumbnailUrl": "img/activities/trails/attractions/weatherStation/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/weatherStation/fullSize/2.jpg"
       }
@@ -301,20 +301,20 @@
   },
   {
     "id": "copperPit",
-    "title": "Cariera Roșia Poieni",
-    "textContent": "Efectele exploatării de cupru asupra zonei sunt devastatoare: un munte ras, vegetație distrusă, iar sterilul rezultat de aici a fost deversat în aval peste satul Geamăna. Accesul se face pe la un <b>punct de verificare</b> cu barieră pe care o să îl întâlniți pe traseu! Nu au un program specific de vizitare și este posibil să nu puteți intra.",
+    "title": "Cooper open pit - Roșia Poieni",
+    "textContent": "You will see here the damage of one of the biggest open pit from Europe upon the environment: a mountain was destroyed, dry soil, and the waste was thrown downstream over the 'Geamana' viliage. To visit it you have to go to the checkpoint from the entrance and show your id's and tell the reason of your visit. In some days the access is restricted.",
     "moreDetailsLink": "https://www.youtube.com/watch?v=J4bG7oil3gU",
-    "moreDetailsText": "Maia Morgenstern a filmat aici un videoclip pentru a trage un semnal de alarmă asupra exploatărilor. Îl puteți vedea aici...",
+    "moreDetailsText": "Maia Morgenstern has made a video here to make peoples aware of the open pit and their effects. You can see it here...",
     "images": [
       {
-        "title": "Cariera de Cupru",
-        "description": "Cariera are 68 de trepte, fiecare având 15m înălțime.",
+        "title": "Roșia Poieni Open Pit",
+        "description": "the open pit has 68 stairs, each of them has 15m high.",
         "thumbnailUrl": "img/activities/trails/attractions/copperPit/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/copperPit/fullSize/1.jpg"
       },
       {
-        "title": "Cariera de Cupru",
-        "description": "a fost una dintre mândriile regimului comunist român.",
+        "title": "Roșia Poieni Open Pit",
+        "description": "this was one of the prides of Romania during communism.",
         "thumbnailUrl": "img/activities/trails/attractions/copperPit/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/copperPit/fullSize/2.jpg"
       }
@@ -322,18 +322,18 @@
   },
   {
     "id": "bigLake",
-    "title": "Tăul Mare",
-    "textContent": "După cum îi spune și numele, acesta este cel mai mare lac din Roșia, fiind unul din cele mai liniștite și relaxante locuri de pe aici. Are și 2 mici pontoane, numai bune de stat și admirat priveliștea sau de selfie :) . Pe vremuri era folosit pentru antrenarea șteampurilor dar acum este folosit pentru penscuit și agreemet.",
+    "title": "The Big Lake",
+    "textContent": "You can see by his name that he is one of the biggest man made lakes from the area. This is one of the quiets and relaxing areas from here. It has 2 small decks, perfect to have a break and and contemplate or to make a selfie :) The lake was once used by the stamp mills, but now is used for fishing.",
     "images": [
       {
-        "title": "Tăul Mare",
-        "description": " Căsuță de pe tău era folosită pentru a elibera apa spre morile șteampurilor care măcinau minereul scos din Cârnic. Așa se obținea aurul.",
+        "title": "The Big Lake",
+        "description": "The little house from the lake was used to release the water towards the stamp mills, so they can break the golden ore.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/1.jpg"
       },
       {
-        "title": "Tăul Mare",
-        "description": "dacă urcați puțin pe versant o să vedeți că tăul parcă are forma unei inimi de aceea îi se mai spune și Tăul inimă.",
+        "title": "The Big Lake",
+        "description": "if you will climb a little on the hill you will see that the lake has a shape of a heart that's why he is also called 'The Heart Lake'.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/2.jpg"
       }
@@ -341,18 +341,18 @@
   },
   {
     "id": "letySulei",
-    "title": "Lety și Sulei",
-    "textContent": "Vârfurile Lety și Sulei sunt destul de apropiate unul de celalălt. Din depărtare au forma de șauă, unul este rotund și celălalt este înalt și ascuțit. Dacă ajungeți pe aici cu bicicleta va trebui să o lăsați la baza lui în caz că doriți să urcați pe vârf.",
+    "title": "Lety and Sulei peaks",
+    "textContent": "The Lety and Sulei peaks are quite close to each other. From the distance they have the shape of a saddle, one is round and the other is sharp.",
     "images": [
       {
-        "title": "Masivul Sulei",
-        "description": "creasta masivului Sulei este lungă și ascuțită și îți dă parcă impresia că mergi pe o franghie pe care încerci să îți ți echilibrul.",
+        "title": "Sulei peak",
+        "description": "the ridge is long and sharp and gives you the feeling that you are going on a rope and you have to keep balance.",
         "thumbnailUrl": "img/activities/trails/attractions/letySulei/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/letySulei/fullSize/1.jpg"
       },
       {
-        "title": "Vedere de pe masivul Șulei",
-        "description": "De aici se vede Masivul Cârnic , Tăul Anghel și valea Roșiei Montane.",
+        "title": "The view from the Șulei peak",
+        "description": "from here you can see the 'Cârnic' peak, the 'Anghel' lake and all the Roșia Montana valley.",
         "thumbnailUrl": "img/activities/trails/attractions/letySulei/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/letySulei/fullSize/2.jpg"
       }
@@ -360,17 +360,17 @@
   },
   {
     "id": "cornaLake",
-    "title": "Tăul Corna",
+    "title": "'Corna' pond",
     "textContent": "Un mic lac la umbra masivului Cârnic - Piatra Corbului. Chiar lăngă el se află satul Corna, o așezare liniștită și foarte pitorească.",
     "images": [
       {
-        "title": "Tăul Corna",
+        "title": "'Corna' pond",
         "description": "merită un popas și aici.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/cornaLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/cornaLake/fullSize/1.jpg"
       },
       {
-        "title": "Satul Corna",
+        "title": "'Corna' village",
         "description": "Dacă doriți să explorați zona puteți coborâ până în sat pentru a vizita cele 2 biserici aflate pe culmile satului.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/cornaLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/cornaLake/fullSize/2.jpg"
