@@ -10,7 +10,7 @@
   },
   "leftButtons": [
     {
-      "text": "<i class='fa fa-lg fa-map-signs'></i> hikes",
+      "text": "<i class='fa fa-lg fa-map-signs'></i> hike",
       "url": {
         "link": "en/activities/hiking",
         "textOnMouseOver": "hiking trails",
@@ -18,7 +18,7 @@
       }
     },
     {
-      "text": "<i class='fa fa-lg fa-bicycle'></i> cycling",
+      "text": "<i class='fa fa-lg fa-bicycle'></i> ride",
       "url": {
         "link": "en/activities/cycling",
         "textOnMouseOver": "cycling trails",
