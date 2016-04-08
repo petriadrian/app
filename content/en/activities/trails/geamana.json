@@ -1,6 +1,6 @@
 {
   "presentation": {
-    "title": "Geamăna",
+    "title": "Copper pit and Geamana",
     "headline": "The trail to the flooded village - Geamana",
     "description": "What's the real price of the metals? See the open pit and the flooded village. <i class='fa fa-male'> ~9h </i> | <i class='fa fa-bicycle'> ~6h </i>",
     "fullWidthImg": "img/activities/trails/geamana/presentation/fullWidthImg.jpg",
@@ -12,7 +12,7 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Geamana trail - hike to the flooded viliage",
+    "title": "Geamana and Copper Open Pit trail",
     "description": "What's the real price of the metals? See the Copper open pit and the flooded village.",
     "displayOnShareImg": "img/activities/trails/geamana/presentation/displayOnShareImg.jpg"
   },
@@ -30,11 +30,11 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Cum arată o exploatare minieră de mare anvergură și care sunt efectele ei? Să pornim la drum... Din centrul istoric o luăm spre Tăul Mare până la cariera de cupru. O zonă deșertică, un munte ras, defrișări și utilaje abandonate - aici e Cariera Roșia Poieni. Pornim apoi, pe un drum de țară, prin câteva sate de munte care ne mai descrețesc puțin frunțile. Asta va dura până o să dăm de iazul de decantare de la Geamăna.",
+          "textContent": "How does it looks like one of the biggest open pit from Europe and what are the consequences? Let's hit the road... From the historical center we head to the The Big Lake('Tăul Mare'). Once we get here you still have to climb a little until you meet an asphalted road. Follow this road up, to reach the Copper Open Pit - 'Rosia Poieni'. Here it looks like dessert: dry soil, no vegetables, a shaved mountain and rusty huge machines. Continue with the second part of the trail - the road to 'Geamăna'. So get back on the asphalted road until you meet an unpaved road at the left. Follow this road through 'Muntari', 'Poiana' and 'Vința' villages, until you reach the waste lake 'Geamana'. The 2nd part of the trail is quite long so we recommend to get back at Casa Petri and go to 'Geamana' by car.",
           "moreDetailsLink": "https://www.google.ro/maps/dir/Geam%C4%83na/Casa+Petri,+DC146,+Ro%C8%99ia+Montan%C4%83/@46.3427615,23.063825,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x4749335e58fe877f:0x883a3e3ec5d25d8a!2m2!1d23.2042788!2d46.3299984!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!3e0?hl=ro",
-          "moreDetailsText": "Puteți ajunge la Geamăna și cu mașina - vedeți aici traseul..",
+          "moreDetailsText": "Here is the trail to 'Geamăna' by car.",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJf4f-WF4zSUcRil3SxT4-Oog&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJdXFc7LPMTkcR4yeUhZDQAd0|place_id:ChIJ6e_SmJXMTkcRoxSvt__dGSs",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJf4f-WF4zSUcRil3SxT4-Oog&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJdXFc7LPMTkcR4yeUhZDQAd0|place_id:ChIJ6e_SmJXMTkcRoxSvt__dGSs|place_id:ChIJ2dfWrJnMTkcR1o8Ofr5fmo4|place_id:ChIJR1rZecs0SUcRvuDjY9oSEHo",
             "list": [
               {
                 "textOnMouseOver": "round trip length",
@@ -53,7 +53,7 @@
               },
               {
                 "textOnMouseOver": "difficulty",
-                "text": "medium",
+                "text": "heavy",
                 "iconFortAwesomeClass": "fa fa-line-chart"
               },
               {

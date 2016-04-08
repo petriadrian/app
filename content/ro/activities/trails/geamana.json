@@ -1,6 +1,6 @@
 {
   "presentation": {
-    "title": "Geamăna",
+    "title": "Cariera de Cupru și Geamăna",
     "headline": "Traseul spre satul scufundat - Geamăna",
     "description": "Care este prețul metalelor din telefon sau bijuterii? Vezi cariera de suprafață și satul îngropat în steril. <i class='fa fa-male'> ~9h </i> | <i class='fa fa-bicycle'> ~6h </i>",
     "fullWidthImg": "img/activities/trails/geamana/presentation/fullWidthImg.jpg",
@@ -12,7 +12,7 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Traseul Geamăna - drumeție spre satul scufundat",
+    "title": "Traseul Geamăna și Cariera de Cupru",
     "description": "Care este prețul metalelor din telefon sau bijuterii? Vezi cariera de suprafață și satul îngropat în steril.",
     "displayOnShareImg": "img/activities/trails/geamana/presentation/displayOnShareImg.jpg"
   },
@@ -30,11 +30,11 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Prin acest traseu o să vedeți ce înseamnă o exploatare minieră de mare anvergură și care sunt efectele ei. Pornim din centrul istoric spre Tăul Mare până la cariera de cupru - Roșia Poieni. De aici o luăm, pe un drum de țară, prin câteva sate de munte care ne mai descrețesc puțin frunțile. Asta va dura până o să dăm de iazul de decantare de la Geamăna. Recomandăm parcurgerea trseului cu biciclete, deoarece este destul de lung.",
+          "textContent": "Cum arată o exploatare minieră de mare anvergură și care sunt efectele ei? Să pornim la drum... Din centrul istoric o luăm spre Tăul Mare. Odata ajunsi aici mai este puțin de urcat până ajungi la drumul asfaltat. Urcăm pe acest drum până la cariera de cupru. O zonă deșertică, un munte ras, defrișări și utilaje abandonate - aici e Cariera Roșia Poieni. Urmează a 2-a parte a traseului, spre Geamăna. Ne întoarcem la vale pe drumul asfaltat până vedem pe partea stângă un drum de țară. O luăm pe acest drum prin câteva sate de munte(Muntari, Poiana și Vința) care ne mai descrețesc puțin frunțile. Asta va dura până o să dăm de iazul de decantare de la Geamăna. *Traseul de la Cariera de Cupru la Geamăna e destul de lung. Recomandăm să vă întoarceți la Casa Petri și să mergeți cu mașina.",
           "moreDetailsLink": "https://www.google.ro/maps/dir/Geam%C4%83na/Casa+Petri,+DC146,+Ro%C8%99ia+Montan%C4%83/@46.3427615,23.063825,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x4749335e58fe877f:0x883a3e3ec5d25d8a!2m2!1d23.2042788!2d46.3299984!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!3e0?hl=ro",
-          "moreDetailsText": "Puteți ajunge la Geamăna și cu mașina - vedeți aici traseul..",
+          "moreDetailsText": "Vedeți aici traseul de mașină spre 'Geamăna'",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJf4f-WF4zSUcRil3SxT4-Oog&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJdXFc7LPMTkcR4yeUhZDQAd0|place_id:ChIJ6e_SmJXMTkcRoxSvt__dGSs",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJf4f-WF4zSUcRil3SxT4-Oog&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJdXFc7LPMTkcR4yeUhZDQAd0|place_id:ChIJ6e_SmJXMTkcRoxSvt__dGSs|place_id:ChIJ2dfWrJnMTkcR1o8Ofr5fmo4|place_id:ChIJR1rZecs0SUcRvuDjY9oSEHo",
             "list": [
               {
                 "textOnMouseOver": "lungime dus-întors",
@@ -53,7 +53,7 @@
               },
               {
                 "textOnMouseOver": "dificultate",
-                "text": "mediu",
+                "text": "greu",
                 "iconFortAwesomeClass": "fa fa-line-chart"
               },
               {

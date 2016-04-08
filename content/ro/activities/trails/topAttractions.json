@@ -11,6 +11,11 @@
     "textOnMouseOver": "Vezi mai multe detalii",
     "openInNewTab": false
   },
+  "metaData": {
+    "title": "Top 10 atracții de vizitat în Roșia Montană",
+    "description": "Traseul principalelor atracții: centrul istoric, lacurile, galeriile romane.",
+    "displayOnShareImg": "img/activities/trails/topAttractions/presentation/displayOnShareImg.jpg"
+  },
   "config": {
     "showPageHeadline": true
   },

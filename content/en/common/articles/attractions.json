@@ -225,13 +225,13 @@
     "textContent": "From the Sphinx turn towards the mountaintop, the way you came on, till the end of the trail. We are  on the Raven’s Stone -  a natural protected reservations. From here you can see Corna Lake and village.",
     "images": [
       {
-        "title": "Raven’s stone",
+        "title": "The Raven stone",
         "description": "the name comes from its raven’s head shape",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/ravenStone/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/ravenStone/fullSize/1.jpg"
       },
       {
-        "title": "Overlooking the 'Corna' valley",
+        "title": "The landscape from the Raven stone - 'Corna' valley",
         "description": "the entire surface of this depression would be transformed in the largest cyanide lake in Europe, if a new gold exploitation would be open here(as the one proposed in 2014)",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/ravenStone/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/ravenStone/fullSize/2.jpg"
@@ -301,7 +301,7 @@
   },
   {
     "id": "copperPit",
-    "title": "Cooper open pit - Roșia Poieni",
+    "title": "Copper open pit - Roșia Poieni",
     "textContent": "You will see here the consequences of one of the biggest open pit from Europe upon the environment: a mountain was destroyed, dry soil, and the waste was thrown downstream over the 'Geamana' viliage. To visit it you have to go to the checkpoint from the entrance and show your id's and tell the reason of your visit. In some days the access is restricted.",
     "moreDetailsLink": "https://www.youtube.com/watch?v=J4bG7oil3gU",
     "moreDetailsText": "Maia Morgenstern has made a video here to make peoples aware of the open pit and their consequences. You can see it here...",
@@ -322,17 +322,17 @@
   },
   {
     "id": "bigLake",
-    "title": "The Big Lake",
+    "title": "The Big Lake ('Tăul Mare')",
     "textContent": "As you can see by his name this lake is one of the biggest man made lakes from the area and is one of the quiet and relaxing areas from here. The lake was once used by the stamp mills to break the golden ore using the force of the water. That's why each lake has a little house in the middle of them. From this houses the water from the lakes can be release towards the stamp mills.",
     "images": [
       {
-        "title": "The Big Lake",
+        "title": "The Big Lake ('Tăul Mare')",
         "description": "has 2 small decks because it is used now for fishing. These are perfect to have a break and contemplate or make a selfie :)",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/1.jpg"
       },
       {
-        "title": "The Big Lake",
+        "title": "The Big Lake ('Tăul Mare')",
         "description": "if you will climb a little on the hill you will see that the lake has a shape of a heart that's why he is also called 'The Heart Lake'.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/2.jpg"
@@ -370,7 +370,7 @@
         "fullSizeUrl": "img/activities/trails/attractions/lakes/cornaLake/fullSize/1.jpg"
       },
       {
-        "title": "'Corna' village",
+        "title": "The 'Corna' village",
         "description": "Dacă doriți să explorați zona puteți coborâ până în sat pentru a vizita cele 2 biserici aflate pe culmile satului.",
         "description": "If you want to explore the area you can go down in the village to see the life of peoples from here which is quite different than the cities. Visit the two churches from the the village",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/cornaLake/thumbnail/2.jpg",
@@ -401,7 +401,7 @@
   },
   {
     "id": "muntariPoiana",
-    "title": "The 'Muntari'",
+    "title": "The 'Muntari' village",
     "textContent": "The road will lead you through the 'Muntari' and 'Poiana' villages, 2 places where the time seems like it stopped.",
     "images": [
       {
