@@ -302,9 +302,9 @@
   {
     "id": "copperPit",
     "title": "Cooper open pit - Roșia Poieni",
-    "textContent": "You will see here the damage of one of the biggest open pit from Europe upon the environment: a mountain was destroyed, dry soil, and the waste was thrown downstream over the 'Geamana' viliage. To visit it you have to go to the checkpoint from the entrance and show your id's and tell the reason of your visit. In some days the access is restricted.",
+    "textContent": "You will see here the consequences of one of the biggest open pit from Europe upon the environment: a mountain was destroyed, dry soil, and the waste was thrown downstream over the 'Geamana' viliage. To visit it you have to go to the checkpoint from the entrance and show your id's and tell the reason of your visit. In some days the access is restricted.",
     "moreDetailsLink": "https://www.youtube.com/watch?v=J4bG7oil3gU",
-    "moreDetailsText": "Maia Morgenstern has made a video here to make peoples aware of the open pit and their effects. You can see it here...",
+    "moreDetailsText": "Maia Morgenstern has made a video here to make peoples aware of the open pit and their consequences. You can see it here...",
     "images": [
       {
         "title": "Roșia Poieni Open Pit",
@@ -323,11 +323,11 @@
   {
     "id": "bigLake",
     "title": "The Big Lake",
-    "textContent": "You can see by his name that he is one of the biggest man made lakes from the area. This is one of the quiets and relaxing areas from here. It has 2 small decks, perfect to have a break and and contemplate or to make a selfie :) The lake was once used by the stamp mills, but now is used for fishing.",
+    "textContent": "As you can see by his name this lake is one of the biggest man made lakes from the area and is one of the quiet and relaxing areas from here. The lake was once used by the stamp mills to break the golden ore using the force of the water. That's why each lake has a little house in the middle of them. From this houses the water from the lakes can be release towards the stamp mills.",
     "images": [
       {
         "title": "The Big Lake",
-        "description": "The little house from the lake was used to release the water towards the stamp mills, so they can break the golden ore.",
+        "description": "has 2 small decks because it is used now for fishing. These are perfect to have a break and contemplate or make a selfie :)",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/1.jpg"
       },
@@ -361,17 +361,18 @@
   {
     "id": "cornaLake",
     "title": "'Corna' pond",
-    "textContent": "Un mic lac la umbra masivului Cârnic - Piatra Corbului. Chiar lăngă el se află satul Corna, o așezare liniștită și foarte pitorească.",
+    "textContent": "A small lake in the shadow of the 'Carnic' mountain, under the Raven Stone. Right next to it is the 'Corna' village. ",
     "images": [
       {
         "title": "'Corna' pond",
-        "description": "merită un popas și aici.",
+        "description": "is an amazing view from here, perfect for a picnic (but leave the nature clean)",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/cornaLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/cornaLake/fullSize/1.jpg"
       },
       {
         "title": "'Corna' village",
         "description": "Dacă doriți să explorați zona puteți coborâ până în sat pentru a vizita cele 2 biserici aflate pe culmile satului.",
+        "description": "If you want to explore the area you can go down in the village to see the life of peoples from here which is quite different than the cities. Visit the two churches from the the village",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/cornaLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/cornaLake/fullSize/2.jpg"
       }
@@ -380,19 +381,19 @@
   {
     "id": "detunata",
     "title": "Detunata",
-    "textContent": "Acest masiv este o arie protejată de interes național și este format din coloane înalte arcuite de bazalt. La baza Detunatei puteți vedea o mare de blocuri de piatră care s-au desprins din acest masiv și s-au rostogolit până la baza pădurii de brazi. Acum e liniște întrucât o parte din ele sunt acoperite cu mușchi vegetal și formează un peisaj cu totul aparte. De aveți timp explorați puțin zona! Știți că pe aici a trait Fefeleaga? - personajul principal din opera lui Ion Agârbiceanu. Căutați casa memorială Fefeleaga, ascultați poveștile oamenilor și gustați din plăcinte cu brânză de acolo.",
+    "textContent": "'Detunata' is a protected area, and it looks like a huge wall made of rectangular columns of basalt. The wall is 100m high and at the base of it can be seen a mantle of detritus with huge rectangular rocks that are the remains of some columns that collapsed from the wall. The name 'Detunata' (blast) comes from the deafening sound that the collapsing rocks made, but now it's quiet and some of the rocks are covered with moss which makes an unique landscape. Explore the area! Here lived 'Fefeleaga'- The main character in the work of 'Ion Agârbiceanu'. Search the 'Fefeleaga' memorial house, listen to the people's stories and taste the cheese cakes from there.",
     "moreDetailsLink": "http://cartitaplimbareata.ro/index.php/6803/detunata-goala-detunatele-muntii-metaliferi-apuseni",
-    "moreDetailsText": "Mai multe detalii și poze despre zonă găsiți aici...",
+    "moreDetailsText": "More details and pictures here...",
     "images": [
       {
         "title": "Detunata",
-        "description": "La baza acestui masiv printre blocurile de bazalt, în inima pădurii de molid, se formează uneori un mic ghețar. Vă lasăm pe voi să îl descoperiți.",
+        "description": "Between the rocks which collapsed from the wall, in the pine forest, sometimes, during spring and early summer a small glacier appears.",
         "thumbnailUrl": "img/activities/trails/attractions/detunata/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/detunata/fullSize/1.jpg"
       },
       {
-        "title": "Priveliștea de pe Detunata",
-        "description": "Merită să urcați până sus dacă tot a-ți ajuns până aici. La picioare vi se va întinde tot ținutul țării moților. Nu vă uitați în jos... :) ",
+        "title": "The landscape from the top of Detunata",
+        "description": "Once you reach the peak you can see one of the most spectacular views of the entire 'Motilor' land - 'Apuseni' Mountains.",
         "thumbnailUrl": "img/activities/trails/attractions/detunata/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/detunata/fullSize/2.jpg"
       }
@@ -400,17 +401,17 @@
   },
   {
     "id": "muntariPoiana",
-    "title": "Muntari",
-    "textContent": "Descoperiți drumul de țară prin satele Muntari și Poiana, două sate din Munții Apuseni unde parcă timpul s-a oprit în loc.",
+    "title": "The 'Muntari'",
+    "textContent": "The road will lead you through the 'Muntari' and 'Poiana' villages, 2 places where the time seems like it stopped.",
     "images": [
       {
-        "title": "Drumul prin satele Muntari și Poiana",
+        "title": "The road from 'Muntari'",
         "description": "",
         "thumbnailUrl": "img/activities/trails/attractions/muntariPoiana/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/muntariPoiana/fullSize/1.jpg"
       },
       {
-        "title": "Drumul prin satele Muntari și Poiana",
+        "title": "The road from 'Poiana'",
         "description": "",
         "thumbnailUrl": "img/activities/trails/attractions/muntariPoiana/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/muntariPoiana/fullSize/2.jpg"
@@ -419,8 +420,8 @@
   },
   {
     "id": "geamana",
-    "title": "Geamăna",
-    "textContent": "Video-ul de mai jos este cel mai reprezentativ pentru Geamăna. Acesta a fost unul din motoarele care i-a făcut pe oameni să conștientizeze efectele exploatărilor și că trebuie să protesteze împotriva poluării, în perioada în care se dorea construirea unui lac imens de cianură la Roșia Montană. Deocamdată Roșia a scăpat dar pentru satul Geamană e prea târziu. Înafară de turla bisericii, satul e acoperit complet de deșeurile de la Cariera de Cupru, care nu conțin cianură.",
+    "title": "Geamana",
+    "textContent": "The next video shows a story with the 'Geamana' village. This made the peoples aware of the consequences of open pit mining. That was a reason why we had the streets protests against the new gold exploitation which should open in Rosia Montana in 2014. So the project was closed and Rosia Montana saved for now, but for 'Geamana' village is to late. During communism the villagers were moved away and the waste from the 'Rosia Poieni' exploitation was thrown all over the village. Now only the tower of the church can be seen here.",
     "moreDetailsLink": "http://www.amusingplanet.com/2014/06/geamana-romanian-village-flooded-by.html",
     "moreDetailsText": "More details here...",
     "iframe": {
