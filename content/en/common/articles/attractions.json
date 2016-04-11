@@ -1,5 +1,48 @@
 [
   {
+    "id": "attractionsIntro",
+    "title": "",
+    "textContent": "Mai jos găsești o listă cu atracțiile traseului. Află mai multe despre ele și industria aurului prin rezervarea unui ghid care să vă însoțească (pe jos sau pe bicicletă). Putem organiza și întâlniri în foișorul casei Petri cu localnici care au lucrat în minerit sau care sunt implicați în campania 'Salvați Roșia Montana'.",
+    "form": {
+      "title": "guidedTourReservation",
+      "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
+      "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
+      "sendButtonText": "Send",
+      "hideFormUnderButton": "Book a camping spot",
+      "fields": [
+        {
+          "type": "textRow",
+          "name": "name",
+          "iconFortAwesomeClass": "fa fa-user fa-fw",
+          "placeholder": "Name",
+          "maxChars": 30,
+          "required": true
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "placeholder": "Email",
+          "required": true
+        },
+        {
+          "type": "phone",
+          "name": "email",
+          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "placeholder": "Email",
+          "required": false
+        },
+        {
+          "type": "daterange",
+          "name": "period",
+          "iconFortAwesomeClass": "fa fa-calendar fa-fw",
+          "placeholder": "Select the period",
+          "required": true
+        }
+      ]
+    }
+  },
+  {
     "id": "romanGalleries",
     "title": "The roman galleries - Mining Museum",
     "textContent": "Underneath the Orlea mountain you will discover a part of the antic galleries built by romans to extract the gold. Under all over the viliage there are over 120km of such roman galleries, but their precise length is not known because the gallery network hasn't been fully researched until now. Wherever you are in Rosia Montana you are above of some such galleries, they are being disposed even on multiple floors. There are guided tours to access the galleries. Each tour last about an hour and they are <b>opened from Monday to Friday 8:00-14:00. They can be visit outside these working hours by making an early reservation (Contact Rus Valentin: (+4)0744346748)</b>",
@@ -138,7 +181,8 @@
         "thumbnailUrl": "img/activities/trails/attractions/sicilianStreet/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/sicilianStreet/fullSize/2.jpg"
       }
-    ]  },
+    ]
+  },
   {
     "id": "szekeyHouse",
     "title": "The Szekely house",
@@ -302,9 +346,9 @@
   {
     "id": "copperPit",
     "title": "Copper open pit - Roșia Poieni",
-    "textContent": "You will see here the consequences of one of the biggest open pit from Europe upon the environment: a mountain was destroyed, dry soil, and the waste was thrown downstream over the 'Geamana' viliage. To visit it you have to go to the checkpoint from the entrance and show your id's and tell the reason of your visit. In some days the access is restricted.",
+    "textContent": "You will see here the consequences of one of the biggest open pit from Europe upon the environment: a mountain was destroyed, dry soil, and the waste resulted from the mining process was stored downstream over the 'Geamana' village. At the entrance of the open pit is a checkpoint where you will have to show your id's and there might be some restrictions.",
     "moreDetailsLink": "https://www.youtube.com/watch?v=J4bG7oil3gU",
-    "moreDetailsText": "Maia Morgenstern has made a video here to make peoples aware of the open pit and their consequences. You can see it here...",
+    "moreDetailsText": "Maia Morgenstern made a video here to raise awareness for the open pit mining. You can see it here...",
     "images": [
       {
         "title": "Roșia Poieni Open Pit",
@@ -421,7 +465,7 @@
   {
     "id": "geamana",
     "title": "Geamana",
-    "textContent": "The next video shows a story with the 'Geamana' village. This made the peoples aware of the consequences of open pit mining. That was a reason why we had the streets protests against the new gold exploitation which should open in Rosia Montana in 2014. So the project was closed and Rosia Montana saved for now, but for 'Geamana' village is to late. During communism the villagers were moved away and the waste from the 'Rosia Poieni' exploitation was thrown all over the village. Now only the tower of the church can be seen here.",
+    "textContent": "The next video shows a story of 'Geamana' village that raise awareness for the consequences of open pit mining. That was a reason why we had the streets protests against the new gold exploitation which should open in Rosia Montana in 2014. So the project was closed and Rosia saved for now, but for 'Geamana' is to late. During communism the villagers were moved away and the waste from the 'Rosia Poieni' exploitation was thrown all over the village. Now only the tower of the village church can be seen here in the middle of 'hell'.",
     "moreDetailsLink": "http://www.amusingplanet.com/2014/06/geamana-romanian-village-flooded-by.html",
     "moreDetailsText": "More details here...",
     "iframe": {
