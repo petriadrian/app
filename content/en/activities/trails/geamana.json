@@ -76,11 +76,24 @@
       "type": "articles",
       "commonArticles": [
         {
-          "category": "attractions",
+          "category": "bookToursAndBikes",
           "ids": [
             {
-              "id": "attractionsIntro"
+              "id": "bookingsIntro"
             },
+            {
+              "id": "bookingsDetails"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
             {
               "id": "bigLake"
             },

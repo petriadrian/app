@@ -1,0 +1,26 @@
+[
+  {
+    "id": "bookingsIntro",
+    "textContent": "Află mai multe despre atracțiile turistice prin: rezervarea unui ghid turisitc și biciclete sau prin întâlniri cu localnici."
+  },
+  {
+    "id": "bookingsDetails",
+    "hideAreaUnderButton": "<i class='fa fa-blind'></i>&nbsp&nbsp Book tour guide or bikes &nbsp&nbsp<i class='fa fa-caret-down'></i>",
+    "moreDetailsLink": "http://www.alba.djc.ro/ObiectiveDetalii.aspx?ID=2184",
+    "moreDetailsText": "Go to the bookings page...",
+    "images": [
+      {
+        "title": "The roman galleries",
+        "description": "To reach them you have to go 157 stairs underground.",
+        "thumbnailUrl": "img/activities/trails/attractions/romanGalleries/thumbnail/1.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/romanGalleries/fullSize/1.jpg"
+      },
+      {
+        "title": "Stamp mills",
+        "description": "Visit also the others exhibitions from the museum like this installation used to process the gold or the funerary monuments.",
+        "thumbnailUrl": "img/activities/trails/attractions/romanGalleries/thumbnail/2.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/romanGalleries/fullSize/2.jpg"
+      }
+    ]
+  }
+]

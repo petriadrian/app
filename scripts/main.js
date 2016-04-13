@@ -158,9 +158,9 @@ app.filter('removeHtmlFromText', function() {
     }
 );
 
-function toggleForm(button) {
+function toggleSection(button) {
     $('input[name="dataRange"]').daterangepicker();
-    $(button.parentNode).find(".hideElement").toggle(300);
+    $(button.parentNode).find(".areaToBeHided").toggle(300);
 }
 
 app.factory('localizationService', function ($window, $location) {

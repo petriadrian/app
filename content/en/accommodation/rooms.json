@@ -77,7 +77,7 @@
       "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
       "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
       "sendButtonText": "Send",
-      "hideFormUnderButton": "Book this room",
+      "hideAreaUnderButton": "Book this room &nbsp&nbsp<i class='fa fa-caret-down'></i>",
       "fields": [
         {
           "type": "textRow",
@@ -189,7 +189,7 @@
       "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
       "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
       "sendButtonText": "Send",
-      "hideFormUnderButton": "Book the little house",
+      "hideAreaUnderButton": "Book the little house &nbsp&nbsp<i class='fa fa-caret-down'></i>",
       "fields": [
         {
           "type": "textRow",
@@ -296,7 +296,7 @@
       "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
       "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
       "sendButtonText": "Send",
-      "hideFormUnderButton": "Book the 'Upstairs' room",
+      "hideAreaUnderButton": "Book the 'Upstairs' room  &nbsp&nbsp<i class='fa fa-caret-down'></i>",
       "fields": [
         {
           "type": "textRow",

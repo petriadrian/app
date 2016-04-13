@@ -1,4 +1,9 @@
-<article class="defaultArticle anchorParent">
+<button ng-if="!!article.hideAreaUnderButton" class="btn btn-large btn-primary"
+        onclick="toggleSection(this)" ng-bind-html="article.hideAreaUnderButton | trustHtml">
+</button>
+<div style="clear:both"></div>
+
+<article ng-class="{'areaToBeHided': article.hideAreaUnderButton}" class="defaultArticle anchorParent">
     <span id="{{article.id}}" class="anchor"></span>
     <header ng-if="!!article.title" class="articleTitle">
         <h3><span ng-bind-html="article.title | trustHtml"></span></h3>

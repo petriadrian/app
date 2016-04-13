@@ -1,48 +1,5 @@
 [
   {
-    "id": "attractionsIntro",
-    "title": "",
-    "textContent": "Mai jos găsești o listă cu atracțiile traseului. Află mai multe despre ele și industria aurului prin rezervarea unui ghid care să vă însoțească (pe jos sau pe bicicletă). Putem organiza și întâlniri în foișorul casei Petri cu localnici care au lucrat în minerit sau care sunt implicați în campania 'Salvați Roșia Montana'.",
-    "form": {
-      "title": "guidedTourReservation",
-      "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
-      "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
-      "sendButtonText": "Send",
-      "hideFormUnderButton": "Book a camping spot",
-      "fields": [
-        {
-          "type": "textRow",
-          "name": "name",
-          "iconFortAwesomeClass": "fa fa-user fa-fw",
-          "placeholder": "Name",
-          "maxChars": 30,
-          "required": true
-        },
-        {
-          "type": "email",
-          "name": "email",
-          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
-          "placeholder": "Email",
-          "required": true
-        },
-        {
-          "type": "phone",
-          "name": "email",
-          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
-          "placeholder": "Email",
-          "required": false
-        },
-        {
-          "type": "daterange",
-          "name": "period",
-          "iconFortAwesomeClass": "fa fa-calendar fa-fw",
-          "placeholder": "Select the period",
-          "required": true
-        }
-      ]
-    }
-  },
-  {
     "id": "romanGalleries",
     "title": "The roman galleries - Mining Museum",
     "textContent": "Underneath the Orlea mountain you will discover a part of the antic galleries built by romans to extract the gold. Under all over the viliage there are over 120km of such roman galleries, but their precise length is not known because the gallery network hasn't been fully researched until now. Wherever you are in Rosia Montana you are above of some such galleries, they are being disposed even on multiple floors. There are guided tours to access the galleries. Each tour last about an hour and they are <b>opened from Monday to Friday 8:00-14:00. They can be visit outside these working hours by making an early reservation (Contact Rus Valentin: (+4)0744346748)</b>",

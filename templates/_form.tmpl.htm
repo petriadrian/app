@@ -1,10 +1,9 @@
-<button ng-if="!!section.hideFormUnderButton" class="btn btn-large btn-primary buttonWithMargins"
-        onclick="toggleForm(this)">
-    {{section.hideFormUnderButton}} &nbsp&nbsp<i class="showHideForm fa fa-caret-down"></i>
+<button ng-if="!!section.hideAreaUnderButton" class="btn btn-large btn-primary"
+        onclick="toggleSection(this)" ng-bind-html="section.hideAreaUnderButton | trustHtml">
 </button>
 <div style="clear:both"></div>
 
-<form role="form" ng-class="{'hideElement': section.hideFormUnderButton}" name="form"
+<form role="form" ng-class="{'areaToBeHided': section.hideAreaUnderButton}" name="form"
       ng-submit="form.$valid && sendEmailFromForm()">
     <div data-ng-repeat="field in section.fields" class="input-group">
         <span ng-if="!!field.iconFortAwesomeClass" class="input-group-addon"><i

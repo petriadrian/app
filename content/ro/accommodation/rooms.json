@@ -76,7 +76,7 @@
       "successMessage": "Vă mulțumim! O să revenim cu un răspuns de confirmare cât mai repede.",
       "errorMessage": "EROARE! Contactați-ne prin email sau telefon (le găsiți în footer)",
       "sendButtonText": "Trimite",
-      "hideFormUnderButton": "Rezervă camera cărților",
+      "hideAreaUnderButton": "Rezervă camera cărților &nbsp&nbsp<i class='fa fa-caret-down'></i>",
       "fields": [
         {
           "type": "textRow",
@@ -188,7 +188,7 @@
       "successMessage": "Vă mulțumim! O să revenim cu un răspuns de confirmare cât mai repede.",
       "errorMessage": "EROARE! Contactați-ne prin email sau telefon (le găsiți în footer)",
       "sendButtonText": "Trimite",
-      "hideFormUnderButton": "Rezervă căsuța",
+      "hideAreaUnderButton": "Rezervă căsuța &nbsp&nbsp<i class='fa fa-caret-down'></i>",
       "fields": [
         {
           "type": "textRow",
@@ -291,7 +291,7 @@
       "sendButtonText": "Trimite",
       "successMessage": "Vă mulțumim! O să revenim cu un răspuns de confirmare cât mai repede.",
       "errorMessage": "EROARE! Contactați-ne prin email sau telefon (le găsiți în footer)",
-      "hideFormUnderButton": "Rezervă camera din târnaț",
+      "hideAreaUnderButton": "Rezervă camera din târnaț &nbsp&nbsp<i class='fa fa-caret-down'></i>",
       "fields": [
         {
           "type": "textRow",

@@ -70,7 +70,7 @@
       "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
       "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
       "sendButtonText": "Send",
-      "hideFormUnderButton": "Book a camping spot",
+      "hideAreaUnderButton": "Book a camping spot &nbsp&nbsp<i class='fa fa-caret-down'></i>",
       "fields": [
         {
           "type": "textRow",

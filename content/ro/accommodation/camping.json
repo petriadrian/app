@@ -70,7 +70,7 @@
       "successMessage": "Vă mulțumim! O să revenim cu un răspuns de confirmare cât mai repede.",
       "errorMessage": "EROARE! Contactați-ne prin email sau telefon (le găsiți în footer)",
       "sendButtonText": "Trimite",
-      "hideFormUnderButton": "Rezervă spațiu de campare",
+      "hideAreaUnderButton": "Rezervă spațiu de campare &nbsp&nbsp<i class='fa fa-caret-down'></i>",
       "fields": [
         {
           "type": "textRow",
