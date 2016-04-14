@@ -227,6 +227,10 @@ footer .row section{
     border: 1px solid white;
 }
 
+.buttonWithMargins{
+    margin-bottom: 1%;
+}
+
 .footerFeedback input:HOVER,
 .footerFeedback input:FOCUS,
 .footerFeedback textarea:HOVER,

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "intro",
+    "textContent": "Află mai multe despre atracțiile turistice prin: rezervarea de biciclete și/sau rezervarea unui ghid turisitc sau prin întâlniri cu localnici."
+  },
+  {
+    "id": "details",
+    "hideAreaUnderButton": "<i class='fa fa-blind'></i>&nbsp&nbsp Book tour guide or bikes &nbsp&nbsp<i class='fa fa-caret-down'></i>",
+    "textContent": "Rezervările de ghizi sau biciclete se pot face în momentul rezervării unei camere sau campare.",
+    "moreDetailsLink": "http://www.casapetrirosiamontana.ro/ro/accommodation/rooms",
+    "moreDetailsText": "Click aici pentru a deschide pagina pentru cazare...",
+    "images": [
+      {
+        "title": "Tururi ghidate",
+        "description": "descoperă zona însoțiți de un ghid.",
+        "thumbnailUrl": "img/common/guidesAndBikes/article/thumbnail/1.jpg",
+        "fullSizeUrl": "img/common/guidesAndBikes/article/fullSize/1.jpg"
+      },
+      {
+        "title": "Rezervări biciclete sau trasee ghidate pe bicicletă",
+        "description": "mtb sau asfalt.",
+        "thumbnailUrl": "img/common/guidesAndBikes/article/thumbnail/2.jpg",
+        "fullSizeUrl": "img/common/guidesAndBikes/article/fullSize/2.jpg"
+      },
+      {
+        "title": "Povești cu localnici",
+        "description": "foști angajați în minerit sau oameni care au ramas în Roșia Montana.",
+        "thumbnailUrl": "img/common/guidesAndBikes/article/thumbnail/3.jpg",
+        "fullSizeUrl": "img/common/guidesAndBikes/article/fullSize/3.jpg"
+      }
+    ]
+  }
+]

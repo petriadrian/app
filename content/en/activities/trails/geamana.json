@@ -76,13 +76,13 @@
       "type": "articles",
       "commonArticles": [
         {
-          "category": "bookToursAndBikes",
+          "category": "guidesAndBikes",
           "ids": [
             {
-              "id": "bookingsIntro"
+              "id": "intro"
             },
             {
-              "id": "bookingsDetails"
+              "id": "details"
             }
           ]
         }
