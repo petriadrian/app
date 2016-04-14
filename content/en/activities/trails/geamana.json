@@ -67,26 +67,23 @@
       ]
     },
     {
-      "type": "title",
-      "text": "<i class='fa fa-star'></i> Attractions",
-      "sectionId": "attractions",
-      "addLinkInPageHeadline": true
-    },
-    {
       "type": "articles",
       "commonArticles": [
         {
           "category": "guidesAndBikes",
           "ids": [
             {
-              "id": "intro"
-            },
-            {
               "id": "details"
             }
           ]
         }
       ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Attractions",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
     },
     {
       "type": "articles",

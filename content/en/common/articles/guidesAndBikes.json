@@ -1,23 +1,19 @@
 [
   {
-    "id": "intro",
-    "textContent": "Află mai multe despre atracțiile turistice prin: rezervarea de biciclete și/sau rezervarea unui ghid turisitc sau prin întâlniri cu localnici."
-  },
-  {
     "id": "details",
-    "hideAreaUnderButton": "<i class='fa fa-blind'></i>&nbsp&nbsp Book tour guide or bikes &nbsp&nbsp<i class='fa fa-caret-down'></i>",
-    "textContent": "Rezervările de ghizi sau biciclete se pot face în momentul rezervării unei camere sau campare.",
+    "hideAreaUnderButton": "Rezervă ghizi sau biciclete &nbsp&nbsp<i class='fa fa-caret-down'></i>",
+    "textContent": "Rezervă bicilete sau ghizi care să vă însoțească pe trasee (pe bicicletă sau pe jos) pentru a afla mai multe despre zonă și industria minieră. Află povestea Roșiei Montane la un pahar de țuică cu localnicii în foișorul casei Petri.",
     "moreDetailsLink": "http://www.casapetrirosiamontana.ro/ro/accommodation/rooms",
-    "moreDetailsText": "Click aici pentru a deschide pagina pentru cazare...",
+    "moreDetailsText": "Rezervările se fac în momentul rezervării unei camere sau campare. Click aici",
     "images": [
       {
         "title": "Tururi ghidate",
-        "description": "descoperă zona însoțiți de un ghid.",
+        "description": "descoperă zona însoțiți de un ghid care să vă povestească despre atracțiile întâlnite pe traseu.",
         "thumbnailUrl": "img/common/guidesAndBikes/article/thumbnail/1.jpg",
         "fullSizeUrl": "img/common/guidesAndBikes/article/fullSize/1.jpg"
       },
       {
-        "title": "Rezervări biciclete sau trasee ghidate pe bicicletă",
+        "title": "Rezervă biciclete sau trasee ghidate pe bicicletă",
         "description": "mtb sau asfalt.",
         "thumbnailUrl": "img/common/guidesAndBikes/article/thumbnail/2.jpg",
         "fullSizeUrl": "img/common/guidesAndBikes/article/fullSize/2.jpg"
