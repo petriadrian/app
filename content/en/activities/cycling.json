@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Cycling trails",
     "headline": "Cycling trails - discover our area by bike",
-    "description": "From <b>MTB</b> trails on unpaved roads along mountain peaks and lakes, to paved trails for <b>touring bikes</b> towards touristic sights",
+    "description": "From <b>MTB</b> trails on unpaved roads along mountain peaks and lakes, to paved trails for touring bikes towards touristic sights. <b>Rent bikes or guided tours<b>",
     "fullWidthImg": "img/activities/cycling/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/cycling/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Bike trails - discover Rosia Montana area",
-    "description": "From MTB trails on unpaved roads along mountain peaks and lakes, to paved trails for touring bikes towards touristic sights",
+    "description": "From MTB trails on unpaved roads along mountain peaks and lakes, to paved trails for touring bikes towards touristic sights. Rent bikes or guided tours.",
     "displayOnShareImg": "img/activities/cycling/presentation/displayOnShareImg.jpg"
   },
   "config": {

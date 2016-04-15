@@ -22,8 +22,8 @@
   "sections": [
     {
       "type": "title",
-      "text": "<i class='fa fa-info-circle'></i> Details",
-      "sectionId": "details",
+      "text": "<i class='fa fa-chevron-circle-up'></i> Bookings",
+      "sectionId": "reservations",
       "addLinkInPageHeadline": true
     },
     {
@@ -31,15 +31,9 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "We also love to go camping in the mountains when we find a good spot. That's why we prepared in our yard a small camping place, for maximum 4 tents, with <b>bathroom</b> and <b>kitchen</b> access. We offer <b>10% discount</b> for those who bring their bikes and do at least one cycling trail. It is not allowed to smoke inside, listen loud music and fire is allowed only in designated fireplaces. <br><b>The booking will be confirmed by email</b>. <br><br><i class='fa fa-lg fa-wifi'></i> wifi - <i class='fa fa-lg fa-puzzle-piece'></i> board games - <i class='fa fa-lg fa-car'></i> parking"
+          "textContent": "We also love to go camping in the mountains when we find a good spot. That's why we prepared in our yard a small camping place, for maximum 4 tents, with <b>bathroom</b> and <b>kitchen</b> access. We offer <b>10% discount</b> for those who bring their bikes and do at least one cycling trail. It is not allowed to smoke inside, listen loud music and fire is allowed only in designated fireplaces. <b>The booking will be confirmed by email</b>."
         }
       ]
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-chevron-circle-up'></i> Bookings",
-      "sectionId": "reservations",
-      "addLinkInPageHeadline": true
     },
     {
       "type": "articles",
@@ -70,7 +64,6 @@
       "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
       "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
       "sendButtonText": "Send",
-      "hideAreaUnderButton": "Book a camping spot &nbsp&nbsp<i class='fa fa-caret-down'></i>",
       "fields": [
         {
           "type": "textRow",
@@ -169,6 +162,40 @@
       "banner": {
         "page": "en/accommodation/booksAndCosy"
       }
+    },
+    {
+      "type": "title",
+      "text": "Facilities",
+      "sectionId": "facilities",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "facilities",
+          "ids": [
+            {
+              "id": "freeWifi"
+            },
+            {
+              "id": "food"
+            },
+            {
+              "id": "groceryStores"
+            },
+            {
+              "id": "emergencies"
+            },
+            {
+              "id": "parking"
+            },
+            {
+              "id": "boardGames"
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "title",

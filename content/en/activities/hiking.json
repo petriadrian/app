@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Hiking trails",
     "headline": "Hiking trails - discover the attractions of our area",
-    "description": "From light walks among heritage buildings and old churches to hiking trails along lakes, nature attractions and villages",
+    "description": "From light walks among heritage buildings and old churches to hiking trails along lakes, nature attractions and mining industry. <b>Guided tours</b> info.",
     "fullWidthImg": "img/activities/hiking/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/hiking/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Hiking trails - discover Rosia Montana",
-    "description": "From light walks on the village streets for visiting the historical center of Rosia Montana or the roman galleries to hiking trails along lakes, mountains, touristic sights and villages from our area.",
+    "description": "From light walks on the village streets for visiting the historical center or the roman galleries, to hiking trails along the lakes, mountains, mining industry and others touristic sights. See also guided tours info.",
     "displayOnShareImg": "img/activities/hiking/presentation/displayOnShareImg.jpg"
   },
   "config": {

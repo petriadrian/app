@@ -22,8 +22,8 @@
   "sections": [
     {
       "type": "title",
-      "text": "<i class='fa fa-info-circle'></i> Details",
-      "sectionId": "details",
+      "text": "<i class='fa fa-bed'></i> Bookings",
+      "sectionId": "reservations",
       "addLinkInPageHeadline": true
     },
     {
@@ -31,16 +31,10 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Casa Petri is situated in the historical center of Rosia Montana and is a heritage building where we preserved the traditional style like the wooden floor, the windows or the heating with terracotta stoves, but were we added modern facilities like the bathrooms. We have cosy spots around the house and a green yard with a nice view to the Cânic peak. We offer <b>5% discount</b> to guests that bring their bikes and do at least one cycling track. It is not allowed to smoke inside or to listen loud music. <br><b>The booking will be confirmed by email.</b> <br><br><i class='fa fa-lg fa-wifi'></i> wifi - <i class='fa fa-lg fa-cutlery'></i> kitchen - <i class='fa fa-lg fa-puzzle-piece'></i> board games - <i class='fa fa-lg fa-car'></i> parking"
+          "textContent": "Casa Petri is situated in the historical center of Rosia Montana and is a heritage building where we preserved the traditional style like the wooden floor, the windows or the heating with terracotta stoves, but were we added modern facilities like the bathrooms. We have cosy spots around the house and a green yard with a nice view to the Cânic peak. We offer <b>5% discount</b> to guests that bring their bikes and do at least one cycling track. It is not allowed to smoke inside or to listen loud music. <b>The booking will be confirmed by email.</b>"
 
         }
       ]
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-bed'></i> Bookings",
-      "sectionId": "reservations",
-      "addLinkInPageHeadline": true
     },
     {
       "type": "articles",
@@ -373,6 +367,40 @@
       "banner": {
         "page": "en/accommodation/booksAndCosy"
       }
+    },
+    {
+      "type": "title",
+      "text": "Facilities",
+      "sectionId": "facilities",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "facilities",
+          "ids": [
+            {
+              "id": "freeWifi"
+            },
+            {
+              "id": "food"
+            },
+            {
+              "id": "groceryStores"
+            },
+            {
+              "id": "emergencies"
+            },
+            {
+              "id": "parking"
+            },
+            {
+              "id": "boardGames"
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "title",
