@@ -32,8 +32,12 @@
         {
           "title": "",
           "textContent": "A trip to the nature reserve 'Negrileasa' while the daffodils are in bloom is something that you will never forget. The first thing that you will try to remember from 'Negrileasa' is the the smell of the daffodils. You will realise it’s impossible to remember it, therefore you have to try this experience again, to see the white hill, feel the smell, enjoy this meadow in 'Apuseni' mountains. The daffodils start blooming in May and will be in bloom all spring. Annually, on the Sunday closest to the 20th May there is the Daffodils holiday, when the locals sell their homemade goods, and in the evening parties are held. The road to get there is paved, except for the last 4 km, which we recommend to walk, as the landscapes are spectacular. To make your trip even more exciting, ride your bike from Petri House. It’s worth taking the effort!",
-          "moreDetailsLink": "http://www.muntii-apuseni.eu/news.php?readmore=7",
           "moreDetailsText": "More details here...",
+          "moreDetailsUrl": {
+            "textOnMouseOver": "Click here...",
+            "link": "http://www.muntii-apuseni.eu/news.php?readmore=7",
+            "openInNewTab": true
+          },
           "images": [
             {
               "title": "Daffodil Meadow",

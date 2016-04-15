@@ -32,7 +32,11 @@
         {
           "textContent": "Aceasta este varianta mai lungă a traseului 'Stația Meteo'. Pornim de la Casa Petri și o luăm prin țarină spre Tăul Țarinii care e numai bun să te răcorești puțin cu apă rece de munte. De aici o luăm spre Stația Meteo - Vârful Rotundu - cel mai înalt punct de pe traseu. În stânga observăm 'Tăul Mare', care reprezintă următoarea destinație. O luăm spre el și apoi urcăm până pe masivul Lety și Sulei. Facem un popas ne bucurăm de priveliște și pornim spre Tăul Corna. Ne întoarcem apoi pe sub Piatra Corbului la Tăul Brazi, ultimul popas înainte de a ajunge acasă.",
           "moreDetailsText": "Aici gasiți același traseu și pe bikemap.net...",
-          "moreDetailsLink": "http://www.bikemap.net/en/route/2757824-circuit-tauri-rosia-montana/#/z14/46.30656,23.14124/terrain",
+          "moreDetailsUrl": {
+            "textOnMouseOver": "Click aici...",
+            "link": "http://www.bikemap.net/en/route/2757824-circuit-tauri-rosia-montana/#/z14/46.30656,23.14124/terrain",
+            "openInNewTab": true
+          },
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo|place_id:ChIJi1rDktfMTkcRD_0U6qTLpqg|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs|place_id:ChIJnTJOLfDMTkcR6Bj-a0LHYdg|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q| Jig-Vaidoaia, Rosia Montana, Alba County, Romania",
             "list": [
@@ -58,6 +62,19 @@
               }
             ]
           }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
         }
       ]
     },

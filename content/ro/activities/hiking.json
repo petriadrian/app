@@ -31,9 +31,20 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Roșia Montană e înconjurată de munți, văi, lacuri, biserici, clădiri de patrimoniu și galerii antice. Abia așteptăm să o descoperi și tu! Așa că de vii la Roșia Montană, nu vizita doar muzeul și magazinul din centru, pentru că zona are mult mai mult de oferit. Uită-te peste traseele de mai jos și găsește-le pe cele pe care vrei să le parcurgi, în funcție de condiția ta fizică și de atracțiile turistice pe care vrei să le vezi. <br>Harțile traseelor sunt realizate pe <b>google maps</b> astfel că poți face zoom, poți să le vezi în modul satelit sau hartă sau poți să le accesezi de pe orice telefon sau tabletă în timpul drumeției. Sub fiecare traseu găsiți indicațiile (<b>lungime dus-întors</b>, durată) estimate de noi, iar cele din interiorul hărții sunt estimate de google. <br><br><b>Trasee ghidate</b> - află mai multe despre povestea și atracțiile din Roșia Montană. <br>Rezervă un ghid pentru drumeția ta pe jos sau pe bicicletă, <b>contact: Calin Capros (+4)0742 524 387</b>",
-          "moreDetailsLink": "",
-          "moreDetailsText": ""
+          "textContent": "Roșia Montană e înconjurată de munți, văi, lacuri, biserici, clădiri de patrimoniu și galerii antice. Abia așteptăm să o descoperi și tu! Așa că de vii la Roșia Montană, nu vizita doar muzeul și magazinul din centru, pentru că zona are mult mai mult de oferit. Uită-te peste traseele de mai jos și găsește-le pe cele pe care vrei să le parcurgi, în funcție de condiția ta fizică și de atracțiile turistice pe care vrei să le vezi. <br>Harțile traseelor sunt realizate pe <b>google maps</b> astfel că poți face zoom, poți să le vezi în modul satelit sau hartă sau poți să le accesezi de pe orice telefon sau tabletă în timpul drumeției. Sub fiecare traseu găsiți indicațiile (<b>lungime dus-întors</b>, durată) estimate de noi, iar cele din interiorul hărții sunt estimate de google."
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
         }
       ]
     },

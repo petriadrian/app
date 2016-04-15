@@ -3,8 +3,12 @@
     "id": "1",
     "title": "Nastasia - Barcelona(SP)",
     "textContent": "<span style='font-family: Merienda, cursive'>Un loc de poveste, cu oameni frumoși în ganduri și simțiri, casa la care mă reintorc cu drag și dor de fiecare data! Casa Petri Roșia Montană!</span>",
-    "moreDetailsLink": "https://www.facebook.com/nechiti.nastasia",
     "moreDetailsText": "Nastasia a acceptat să fie contactată pe facebook cu întrebări despre experiența ei. Clik aici...",
+    "moreDetailsUrl": {
+      "textOnMouseOver": "Click aici...",
+      "link": "https://www.facebook.com/nechiti.nastasia",
+      "openInNewTab": true
+    },
     "images": [
       {
         "title": "Nastasia - Barcelona(SP)",
@@ -18,8 +22,12 @@
     "id": "2",
     "title": "Andreea - Oradea(RO)",
     "textContent": "<span style='font-family: Merienda, cursive'>Oamenii frumosi la gazde frumoase trag! Multam de hamace with a view, vibe creativ si activist, clatite cu zambet larg si respiro cu WiFiiiiiii :))) ca sa afle lumea ca suntem la Casa Petri si ce facem pe acolo. Raportam de pe baricade ca stocul de dor s-a refacut rapid si numaram weekendurile pana va trecem iar pragul!</span>",
-    "moreDetailsLink": "https://www.facebook.com/andreea.firastraeru",
     "moreDetailsText": "Andreea a acceptat să fie contactată pe facebook cu întrebări despre experiența ei. Clik aici...",
+    "moreDetailsUrl": {
+      "textOnMouseOver": "Click aici...",
+      "link": "https://www.facebook.com/andreea.firastraeru",
+      "openInNewTab": true
+    },
     "images": [
       {
         "title": "Andreea - Oradea(RO)",
@@ -59,8 +67,12 @@
     "id": "5",
     "title": "Alex Bartiș - Cluj-Napoca(RO)",
     "textContent": "<span style='font-family: Merienda, cursive'>E foarte misto! E cea mai frumoasa cladire din Rosia Montana, si e super aproape de centru!</span>",
-    "moreDetailsLink": "https://photos.google.com/share/AF1QipPIX2LP4qX1vBZ9k1aHL3n2_DwqE1JGlV9UfULwlkQe3lBo_XPm-SJfo5Nn29ZtsQ/story/AF1QipNvtEn_xmGQ0Rssl_iGlIlPaUYQJT_1OjBeTeC4qi9-i_hECYF8YvVmCd2HMCan1A?key=dG9NQ012enB5M2VNeHkwcmJyZXVOUkZweHBZeGJ3",
     "moreDetailsText": "Alex a făcut și o prezentare cu poze făcute pe traseul masivului Cârnic și spre Stația Meteo. Îl poți vedea aici...",
+    "moreDetailsUrl": {
+      "textOnMouseOver": "Click aici...",
+      "link": "https://photos.google.com/share/AF1QipPIX2LP4qX1vBZ9k1aHL3n2_DwqE1JGlV9UfULwlkQe3lBo_XPm-SJfo5Nn29ZtsQ/story/AF1QipNvtEn_xmGQ0Rssl_iGlIlPaUYQJT_1OjBeTeC4qi9-i_hECYF8YvVmCd2HMCan1A?key=dG9NQ012enB5M2VNeHkwcmJyZXVOUkZweHBZeGJ3",
+      "openInNewTab": true
+    },
     "images": [
       {
         "title": "Alex Bartiș - Cluj-Napoca(RO)",
@@ -87,8 +99,12 @@
     "id": "7",
     "title": "Alexandra Postelnicu - București(RO)",
     "textContent": "<span style='font-family: Merienda, cursive'> Mulțumim pentru acest loc de rai, unde ne-am simțit minunat. Una dintre cele mai mari realizări a fost că am dormit nemișcată, pe când în București am nevoie de pastile de somn.</span>",
-    "moreDetailsLink": "http://www.rosiamontanamarathon.ro/",
     "moreDetailsText": "Alexandra s-a îndrăgostit de Roșia Montană și organizează anual aici un maraton. Mai multe detalii aici...",
+    "moreDetailsUrl": {
+      "textOnMouseOver": "Click aici...",
+      "link": "http://www.rosiamontanamarathon.ro/",
+      "openInNewTab": true
+    },
     "images": [
       {
         "title": "Alexandra Postelnicu - București(RO)",
@@ -102,8 +118,12 @@
     "id": "8",
     "title": "Ramona Dominicioiu - Cluj Napoca(RO)",
     "textContent": "<span style='font-family: Merienda, cursive'> Adi și tatăl lui sunt cele mai faine gazde! Iubesc să beau cafeaua pe băncuță și să mă uit la muntele Cârnic. </span>",
-    "moreDetailsLink": "http://www.ecoruralis.ro/web/ro/",
     "moreDetailsText": "Ramona vine în fiecare an la festivalul Fân Fest cu echipa ei pentru a vinde semințe ecologice și să țină prezentări despre importanța folosirii acestora în agricultură. Mai multe detalii aici...",
+    "moreDetailsUrl": {
+      "textOnMouseOver": "Click aici...",
+      "link": "http://www.ecoruralis.ro/web/ro/",
+      "openInNewTab": true
+    },
     "images": [
       {
         "title": "Ramona Dominicioiu - Cluj Napoca(RO)",

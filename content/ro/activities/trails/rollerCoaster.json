@@ -31,8 +31,6 @@
       "specificArticles": [
         {
           "textContent": "Acesta este traseul copilăriei noastre. <i>Ne luam bicicletele și urcam pe la Tăul Mare până ce dadeam de drumul carierei de Cupru. De aici ne plăcea să ne dăm drumul la vale cu cea mai mare viteză spre satul Corna și orașul Abrud de unde ne cumpăram înghețată și mai pierdeam vremea prin centrul istoric. Apoi ne luam inima în dinți pentru că urma partea grea a traseului: Urcușul pe un drum de țară spre casă, prin satul Seliște. Pe drum e și Tăul Tapului în apele căruia ne aruncam să ne răcorim puțin. De aici mai e un mic urcuș până acasă.</i> <br>Vă provocăm și pe voi să parcurgeți traseul și să gustați din plăcerile copilăriei noastre. În zona Gura Cornei puteți să luați masa (recomandăm restaurantul Laguna sau Detunata). Va trebui să treceți prin localitatea Abrud unde e puțin trafic dar în ~10min îl traversați.",
-          "moreDetailsText": "",
-          "moreDetailsLink": "",
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJc1wCQWDMTkcR4k7C7fXZvWE|place_id:ChIJKYpFTlfMTkcRe8HEyvHBE70|place_id:ChIJB5Fu9y3MTkcRnQ6Q90AjcSI|place_id:ChIJkSGcmcLNTkcRffVcUbhpnfY|place_id:ChIJd5zxAenNTkcRaPviE9EZQ9o|place_id:ChIJMcYyfAfNTkcRMZeC6fyMAIo",
             "list": [
@@ -53,6 +51,19 @@
               }
             ]
           }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
         }
       ]
     },
@@ -104,8 +115,12 @@
         {
           "title": "Abrud",
           "textContent": "Prin Abrud o veți lua în treacăt pentru a ajunge la drumul de țară care vă va urca prin Seliște înapoi spre Roșia. De aveți timp puteți vizita rapid și centrul istoric Abrud în zona Bisericii Catolice.",
-          "moreDetailsLink": "http://www.primaria-abrud.ro/index.php/ro/orasul/item/98-pagini-de-istorie",
           "moreDetailsText": "Deși orașul nu și-a pus în valoare istoria, aflați că și aici s-a scris o bună bucată din istoria României. Mai multe aici.",
+          "moreDetailsUrl": {
+            "textOnMouseOver": "Click aici...",
+            "link": "http://www.primaria-abrud.ro/index.php/ro/orasul/item/98-pagini-de-istorie",
+            "openInNewTab": true
+          },
           "images": [
             {
               "title": "Abrud",

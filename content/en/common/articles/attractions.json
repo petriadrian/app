@@ -3,8 +3,12 @@
     "id": "romanGalleries",
     "title": "The roman galleries - Mining Museum",
     "textContent": "Underneath the Orlea mountain you will discover a part of the antic galleries built by romans to extract the gold. Under all over the viliage there are over 120km of such roman galleries, but their precise length is not known because the gallery network hasn't been fully researched until now. Wherever you are in Rosia Montana you are above of some such galleries, they are being disposed even on multiple floors. There are guided tours to access the galleries. Each tour last about an hour and they are <b>opened from Monday to Friday 8:00-14:00. They can be visit outside these working hours by making an early reservation (Contact Rus Valentin: (+4)0744346748)</b>",
-    "moreDetailsLink": "http://www.alba.djc.ro/ObiectiveDetalii.aspx?ID=2184",
     "moreDetailsText": "More details here(RO)...",
+    "moreDetailsUrl": {
+      "textOnMouseOver": "Click here...",
+      "link": "http://www.alba.djc.ro/ObiectiveDetalii.aspx?ID=2184",
+      "openInNewTab": true
+    },
     "images": [
       {
         "title": "The roman galleries",
@@ -24,8 +28,12 @@
     "id": "grecoCatholicChurch",
     "title": "The Greek-Catholic Church",
     "textContent": "'The Greek-Catholic Church is built on a hill from the Orlea mountain. Next to the church you will find the monument of Simion Balint which had an important role in the Revolt from 1848. For his activity he received a medal from Franz Joseph, The Emperor of Austria",
-    "moreDetailsLink": "http://www.adoptaocasa.ro/case/biserica-greco-catolica-adormirea-maicii-domnului-1741-rosia-montana-nr-135",
     "moreDetailsText": "More details here",
+    "moreDetailsUrl": {
+      "textOnMouseOver": "Click here...",
+      "link": "http://www.adoptaocasa.ro/case/biserica-greco-catolica-adormirea-maicii-domnului-1741-rosia-montana-nr-135",
+      "openInNewTab": true
+    },
     "images": [
       {
         "title": "The tower of the Catholic Church",
@@ -83,8 +91,12 @@
     "id": "unitarianChurch",
     "title": "The Unitarian Church(1568)",
     "textContent": "''Set on a small hilltop in the central area, the building dominates the central square and shines on all the spatial organization of the entire area, emerging as a valuable element of the urban structure.' The camps for restoration of the village’s heritage monuments are held annually.'",
-    "moreDetailsLink": "http://www.adoptaocasa.ro/case/biserica-unitariana",
     "moreDetailsText": "More details here.",
+    "moreDetailsUrl": {
+      "textOnMouseOver": "Click here...",
+      "link": "http://www.adoptaocasa.ro/case/biserica-unitariana",
+      "openInNewTab": true
+    },
     "images": [
       {
         "title": "The Unitarian Church",
@@ -123,8 +135,12 @@
     "id": "sicilianStreet",
     "title": "'Sicilian' Street",
     "textContent": "The 'Sicilian' Street from Roșia Montană is a historical street. It's almost like an open museum. It is a narrow street which starts from the main market and continues with tight bends around the old huge houses, like a tunnel. A medieval street, like those in old Italian cities, Baroque houses, with thick walls and one floor. Beautiful buildings, despite their decrepitude, where once lived the great goldsmiths of Rosia, the real masters of the treasures from the Apuseni Mountains.'",
-    "moreDetailsLink": "http://www.formula-as.ro/2006/731/societate-37/rosia-montana-un-dor-la-fel-ca-si-moartea-7261",
     "moreDetailsText": "More details here...",
+    "moreDetailsUrl": {
+      "textOnMouseOver": "Click here...",
+      "link": "http://www.formula-as.ro/2006/731/societate-37/rosia-montana-un-dor-la-fel-ca-si-moartea-7261",
+      "openInNewTab": true
+    },
     "images": [
       {
         "title": "The Unitarian Parish House and Hungarian School",
@@ -144,8 +160,12 @@
     "id": "szekeyHouse",
     "title": "The Szekely house",
     "textContent": "The Szekely Acoș house, at the foot of Jig-Văidoaia mountain, is like a small fortress surrounded by a stone wall with a high vaulted gate. Perhaps these stone elements inspired Dan Pița in 1972 to make here the movie 'Stone Wedding'. When returning from the trail you can watch the movie at Casa Petri as it will have a greater impact once you know the area. Some of the filming crew were accommodated here, where you can find a picture with their autograph.",
-    "moreDetailsLink": "http://tiff.ro/en/tiff/stiri/40-years-stone-wedding",
     "moreDetailsText": "The film was nominated for TIFF in the top 10 Romanian films of all time. See here... ",
+    "moreDetailsUrl": {
+      "textOnMouseOver": "Click here...",
+      "link": "http://tiff.ro/en/tiff/stiri/40-years-stone-wedding",
+      "openInNewTab": true
+    },
     "images": [
       {
         "title": "The Szekely house",
@@ -203,8 +223,12 @@
     "id": "carnicSfinx",
     "title": "Cârnic Sphinx",
     "textContent": "The road will take you through a fir forest where you can find mushrooms, raspberries, blackberries and wild strawberries. When you will reach the Sphinx, you're at one of the highest points in Roșia Montană. Ahead you can see the historic center and behind the Cetate open pit.. It's called 'Cetate’ (Fortress) because here was indeed a fortress carved into the mountains by Dacians and Romans. But in communist era it was decided it's more important to destroy it and to have here an open mining area.",
-    "moreDetailsLink": "http://adevarul.ro/locale/alba-iulia/foto-distrugerea-curtilor-aur-cele-mai-frumoase-mai-reprezentative-lucrari-miniere-romania-vremea-dacilor-romanilor-1_5607ae00f5eaafab2c0c02e2/index.html",
     "moreDetailsText": "More details...",
+    "moreDetailsUrl": {
+      "textOnMouseOver": "Click here...",
+      "link": "http://adevarul.ro/locale/alba-iulia/foto-distrugerea-curtilor-aur-cele-mai-frumoase-mai-reprezentative-lucrari-miniere-romania-vremea-dacilor-romanilor-1_5607ae00f5eaafab2c0c02e2/index.html",
+      "openInNewTab": true
+    },
     "images": [
       {
         "title": "Cârnic Sphinx",
@@ -243,8 +267,12 @@
     "id": "limestoneSculptures",
     "title": "Limestone sculptures",
     "textContent": "'International Association for Sculpture organized here the first International Symposium of Monumental Sculpture in Romania. Three Romanian artists and six artists from Argentina, Canada, Egypt, France, the Netherlands and Japan have assembled a team that represented all continents and worked for a month in a spirit of friendship and artistic emulation.' The sculptures were donated to the heritage of Rosia Montana with the condition that they should not to be moved elsewhere'",
-    "moreDetailsLink": "http://www.simpozionrosiamontana.org/Catalogue_Rosia_Montana.pdf",
     "moreDetailsText": "More details here.",
+    "moreDetailsUrl": {
+      "textOnMouseOver": "Click here...",
+      "link": "http://www.simpozionrosiamontana.org/Catalogue_Rosia_Montana.pdf",
+      "openInNewTab": true
+    },
     "images": [
       {
         "title": "Limestone sculptures",
@@ -264,8 +292,12 @@
     "id": "tariniLake",
     "title": "'Țarina' Pond",
     "textContent": "Here is a small piece of heaven pretty close to the Casa Petri. A well hidden lake behind some tall willow which bathe their branches in the pond. 'Tarina' land is the place where the villagers have farms, so the land is divided into small portions and here and there you can see haystacks or barns. Each year in these places is hold the FânFest festival which fill these places with peoples who come to stay in a tent.",
-    "moreDetailsLink": "http://www.fanfest.ro",
     "moreDetailsText": "More details about the festival here...",
+    "moreDetailsUrl": {
+      "textOnMouseOver": "Click here...",
+      "link": "http://www.fanfest.ro",
+      "openInNewTab": true
+    },
     "images": [
       {
         "title": "'Țarina' Pond",
@@ -304,8 +336,12 @@
     "id": "copperPit",
     "title": "Copper open pit - Roșia Poieni",
     "textContent": "You will see here the consequences of one of the biggest open pit from Europe upon the environment: a mountain was destroyed, dry soil, and the waste resulted from the mining process was stored downstream over the 'Geamana' village. At the entrance of the open pit is a checkpoint where you will have to show your id's and there might be some restrictions.",
-    "moreDetailsLink": "https://www.youtube.com/watch?v=J4bG7oil3gU",
     "moreDetailsText": "Maia Morgenstern made a video here to raise awareness for the open pit mining. You can see it here...",
+    "moreDetailsUrl": {
+      "textOnMouseOver": "Click here...",
+      "link": "https://www.youtube.com/watch?v=J4bG7oil3gU",
+      "openInNewTab": true
+    },
     "images": [
       {
         "title": "Roșia Poieni Open Pit",
@@ -383,8 +419,12 @@
     "id": "detunata",
     "title": "Detunata",
     "textContent": "'Detunata' is a protected area, and it looks like a huge wall made of rectangular columns of basalt. The wall is 100m high and at the base of it can be seen a mantle of detritus with huge rectangular rocks that are the remains of some columns that collapsed from the wall. The name 'Detunata' (blast) comes from the deafening sound that the collapsing rocks made, but now it's quiet and some of the rocks are covered with moss which makes an unique landscape. Explore the area! Here lived 'Fefeleaga'- The main character in the work of 'Ion Agârbiceanu'. Search the 'Fefeleaga' memorial house, listen to the people's stories and taste the cheese cakes from there.",
-    "moreDetailsLink": "http://cartitaplimbareata.ro/index.php/6803/detunata-goala-detunatele-muntii-metaliferi-apuseni",
     "moreDetailsText": "More details and pictures here...",
+    "moreDetailsUrl": {
+      "textOnMouseOver": "Click here...",
+      "link": "http://cartitaplimbareata.ro/index.php/6803/detunata-goala-detunatele-muntii-metaliferi-apuseni",
+      "openInNewTab": true
+    },
     "images": [
       {
         "title": "Detunata",
@@ -423,8 +463,12 @@
     "id": "geamana",
     "title": "Geamana",
     "textContent": "The next video shows a story of 'Geamana' village that raise awareness for the consequences of open pit mining. That was a reason why we had the streets protests against the new gold exploitation which should open in Rosia Montana in 2014. So the project was closed and Rosia saved for now, but for 'Geamana' is to late. During communism the villagers were moved away and the waste from the 'Rosia Poieni' exploitation was thrown all over the village. Now only the tower of the village church can be seen here in the middle of 'hell'.",
-    "moreDetailsLink": "http://www.amusingplanet.com/2014/06/geamana-romanian-village-flooded-by.html",
     "moreDetailsText": "More details here...",
+    "moreDetailsUrl": {
+      "textOnMouseOver": "Click here...",
+      "link": "http://www.amusingplanet.com/2014/06/geamana-romanian-village-flooded-by.html",
+      "openInNewTab": true
+    },
     "iframe": {
       "src": "https://www.youtube.com/embed/zMvnZnlMzbg"
     }

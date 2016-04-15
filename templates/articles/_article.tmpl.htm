@@ -10,7 +10,7 @@
     </header>
     <section ng-if="!!article.textContent" class="defaultArticleText">
         <span ng-bind-html="article.textContent | trustHtml"></span>
-        <a ng-if="!!article.moreDetailsLink" ng-href="{{article.moreDetailsLink}}" class="btn-link" target="_blank">{{article.moreDetailsText}}</i></a>
+        <a ng-if="!!article.moreDetailsUrl" ng-click="openUrl(article.moreDetailsUrl)" title="{{article.moreDetailsUrl.textOnMouseOver}}" class="lookLikeLink">{{article.moreDetailsText}}</a>
     </section>
     <section ng-if="!!article.images">
         <a rel="fancybox" ng-repeat="image in article.images" title="{{image.title}} - {{image.description}}"

@@ -6,129 +6,133 @@
     "fullWidthImg": "img/activities/trails/fourLakes/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/fourLakes/presentation/smallBoxImg.jpg"
   },
-    "url": {
-      "link": "en/activities/trails/fourLakes",
-      "textOnMouseOver": "See the 4 lakes trail",
-      "openInNewTab": false
+  "url": {
+    "link": "en/activities/trails/fourLakes",
+    "textOnMouseOver": "See the 4 lakes trail",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Discover the trail along the 4 lakes",
+    "description": "The tour of the village among the Tarina, Taul Mare, Corna and Brazi lakes",
+    "displayOnShareImg": "img/activities/trails/fourLakes/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trail map",
+      "sectionId": "map",
+      "addLinkInPageHeadline": true
     },
-    "metaData": {
-      "title": "Discover the trail along the 4 lakes",
-      "description": "The tour of the village among the Tarina, Taul Mare, Corna and Brazi lakes",
-      "displayOnShareImg": "img/activities/trails/fourLakes/presentation/displayOnShareImg.jpg"
-    },
-    "config": {
-      "showPageHeadline": true
-    },
-    "sections": [
-      {
-        "type": "title",
-        "text": "<i class='fa fa-map-signs'></i> Trail map",
-        "sectionId": "map",
-        "addLinkInPageHeadline": true
-      },
-      {
-        "type": "articles",
-        "specificArticles": [
-          {
-            "textContent": "Aceasta este varianta mai lungă a traseului 'Stația Meteo'. Pornim de la Casa Petri și o luăm prin țarină spre Tăul Țarinii care e numai bun să te răcorești puțin cu apă rece de munte. De aici o luăm spre Stația Meteo - Vârful Rotundu - cel mai înalt punct de pe traseu. În stânga observăm 'Tăul Mare', care reprezintă următoarea destinație. O luăm spre el și apoi urcăm până pe masivul Lety și Sulei. Facem un popas ne bucurăm de priveliște și pornim spre Tăul Corna. Ne întoarcem apoi pe sub Piatra Corbului la Tăul Brazi, ultimul popas înainte de a ajunge acasă.",
-            "moreDetailsText": "Aici gasiți același traseu și pe bikemap.net...",
-            "moreDetailsLink": "http://www.bikemap.net/en/route/2757824-circuit-tauri-rosia-montana/#/z14/46.30656,23.14124/terrain",
-            "iframe": {
-              "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo|place_id:ChIJi1rDktfMTkcRD_0U6qTLpqg|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs|place_id:ChIJnTJOLfDMTkcR6Bj-a0LHYdg|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q| Jig-Vaidoaia, Rosia Montana, Alba County, Romania",
-              "list": [
-                {
-                  "textOnMouseOver": "round trip length",
-                  "text": "~16km",
-                  "iconFortAwesomeClass": "fa fa-refresh"
-                },
-                {
-                  "textOnMouseOver": "walking duration of the round trip",
-                  "text": "~6h",
-                  "iconFortAwesomeClass": "fa fa-male"
-                },
-                {
-                  "textOnMouseOver": "cycling duration of the round trip",
-                  "text": "~4h",
-                  "iconFortAwesomeClass": "fa fa-bicycle"
-                },
-                {
-                  "textOnMouseOver": "difficulty",
-                  "text": "easy",
-                  "iconFortAwesomeClass": "fa fa-line-chart"
-                }
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "type": "title",
-        "text": "<i class='fa fa-star'></i> Attractions",
-        "sectionId": "attractions",
-        "addLinkInPageHeadline": true
-      },
-      {
-        "type": "articles",
-        "commonArticles": [
-          {
-            "category": "attractions",
-            "ids": [
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Aceasta este varianta mai lungă a traseului 'Stația Meteo'. Pornim de la Casa Petri și o luăm prin țarină spre Tăul Țarinii care e numai bun să te răcorești puțin cu apă rece de munte. De aici o luăm spre Stația Meteo - Vârful Rotundu - cel mai înalt punct de pe traseu. În stânga observăm 'Tăul Mare', care reprezintă următoarea destinație. O luăm spre el și apoi urcăm până pe masivul Lety și Sulei. Facem un popas ne bucurăm de priveliște și pornim spre Tăul Corna. Ne întoarcem apoi pe sub Piatra Corbului la Tăul Brazi, ultimul popas înainte de a ajunge acasă.",
+          "moreDetailsText": "Aici gasiți același traseu și pe bikemap.net...",
+          "moreDetailsUrl": {
+            "textOnMouseOver": "Click here...",
+            "link": "http://www.bikemap.net/en/route/2757824-circuit-tauri-rosia-montana/#/z14/46.30656,23.14124/terrain",
+            "openInNewTab": true
+          },
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo|place_id:ChIJi1rDktfMTkcRD_0U6qTLpqg|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs|place_id:ChIJnTJOLfDMTkcR6Bj-a0LHYdg|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q| Jig-Vaidoaia, Rosia Montana, Alba County, Romania",
+            "list": [
               {
-                "id": "tariniLake"
+                "textOnMouseOver": "round trip length",
+                "text": "~16km",
+                "iconFortAwesomeClass": "fa fa-refresh"
               },
               {
-                "id": "weatherStation"
+                "textOnMouseOver": "walking duration of the round trip",
+                "text": "~6h",
+                "iconFortAwesomeClass": "fa fa-male"
               },
               {
-                "id": "bigLake"
+                "textOnMouseOver": "cycling duration of the round trip",
+                "text": "~4h",
+                "iconFortAwesomeClass": "fa fa-bicycle"
               },
               {
-                "id": "letySulei"
-              },
-              {
-                "id": "cornaLake"
-              },
-              {
-                "id": "braziLake"
+                "textOnMouseOver": "difficulty",
+                "text": "easy",
+                "iconFortAwesomeClass": "fa fa-line-chart"
               }
             ]
           }
-        ]
-      },
-      {
-        "type": "title",
-        "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
-        "sectionId": "nextTrail",
-        "addLinkInPageHeadline": false
-      },
-      {
-        "type": "presentationOfOtherPages",
-        "banner": {
-          "page": "en/activities/trails/rollerCoaster"
         }
-      },
-      {
-        "type": "title",
-        "text": "<i class='fa fa-coffee'></i> See also",
-        "sectionId": "accommodation",
-        "addLinkInPageHeadline": false
-      },
-      {
-        "type": "presentationOfOtherPages",
-        "detailBoxes": [
-          {
-            "page": "en/accommodation/rooms"
-          },
-          {
-            "page": "en/accommodation/camping"
-          },
-          {
-            "page": "en/activities/hiking"
-          },
-          {
-            "page": "en/activities/cycling"
-          }
-        ]
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Attractions",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "tariniLake"
+            },
+            {
+              "id": "weatherStation"
+            },
+            {
+              "id": "bigLake"
+            },
+            {
+              "id": "letySulei"
+            },
+            {
+              "id": "cornaLake"
+            },
+            {
+              "id": "braziLake"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "presentationOfOtherPages",
+      "banner": {
+        "page": "en/activities/trails/rollerCoaster"
       }
-    ]
-  }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "presentationOfOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/accommodation/rooms"
+        },
+        {
+          "page": "en/accommodation/camping"
+        },
+        {
+          "page": "en/activities/hiking"
+        },
+        {
+          "page": "en/activities/cycling"
+        }
+      ]
+    }
+  ]
+}

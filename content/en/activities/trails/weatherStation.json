@@ -32,7 +32,11 @@
         {
           "textContent": "Acesta este unul dintre cele mai pitorești trasee care te vor plimba prin locul nostru preferat - Țarina. Aici sunt terenurile de pământ pe care roșienii le dețin aproape de centrul comunei, unde își cresc animalele sau culturile de legume. Traseul vă va duce pe la Tăul Țarinii și apoi până la Stația Meteo de unde vă promitem o priveliște nemaiîntâlnită. A doua parte a traseului vă va coborâ pe la Tăul Mare și chiar înainte de a intra în centrul istoric mai facem un popoas la Galeria Văidoaia și o casă veche cu totul specială.",
           "moreDetailsText": "Datele GPS și traseul îl puteți găsi și pe gpsies.com. Detalii aici...",
-          "moreDetailsLink": "http://www.gpsies.com/map.do?fileId=angfatdqfdrtdpsu",
+          "moreDetailsUrl": {
+            "textOnMouseOver": "Click here...",
+            "link": "http://www.gpsies.com/map.do?fileId=angfatdqfdrtdpsu",
+            "openInNewTab": true
+          },
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw|place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo|place_id:ChIJi1rDktfMTkcRD_0U6qTLpqg|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJf7dBe97MTkcRUOKwgwP6qHs",
             "list": [
@@ -63,6 +67,19 @@
               }
             ]
           }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
         }
       ]
     },

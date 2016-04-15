@@ -391,6 +391,10 @@ footer .row section{
     text-decoration: none;
 }
 
+.lookLikeLink {
+    color: #3071a9
+}
+
 .btn-primary:ACTIVE,
 .btn-primary:FOCUS,
 .defaultClickStyle:ACTIVE {
