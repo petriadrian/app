@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Rooms",
     "headline": "Morning coffee in Roșia Montană?",
-    "description": "The house is a heritage building, a mining house, opened now for touristic accommodation. Here you can see or <b>book the rooms</b>.",
+    "description": "The house is a heritage building, a mining house, opened now for accommodation. Here you can see or <b>book the rooms</b>.",
     "fullWidthImg": "img/accommodation/rooms/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/rooms/presentation/smallBoxImg.jpg"
   },
@@ -31,8 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Casa Petri is situated in the historical center of Rosia Montana and is a heritage building where we preserved the traditional style like the wooden floor, the windows or the heating with terracotta stoves, but were we added modern facilities like the bathrooms. We have cosy spots around the house and a green yard with a nice view to the Cânic peak. We offer <b>5% discount</b> to guests that bring their bikes and do at least one cycling track. It is not allowed to smoke inside or to listen loud music. <b>The booking will be confirmed by email.</b>"
-
+          "textContent": "Casa Petri is situated in the historical center of Rosia Montana and is a heritage building where we preserved the traditional style like the wooden floor, the windows or the heating with terracotta stoves, but were we added modern facilities like the bathrooms. We have cosy spots around the house and a green yard with a nice view to the Cânic peak. It is not allowed to smoke inside or to listen loud music. <b>The booking will be confirmed by email.</b>"
         }
       ]
     },
@@ -120,20 +119,34 @@
           ]
         },
         {
+          "type": "selectBox",
+          "name": "bikes",
+          "required": false,
+          "iconFortAwesomeClass": "fa fa-bicycle fa-fw",
+          "placeholder": "Book bikes",
+          "selectOptions": [
+            {
+              "text": "1 bike - 14€/day"
+            },
+            {
+              "text": "2 bikes - 24€/day"
+            },
+            {
+              "text": "3 bikes - 32€/day"
+            }
+          ]
+        },
+        {
           "type": "checkBoxes",
-          "title": "I wish:",
+          "title": "<b>I wish:</b>",
           "checkBoxes": [
             {
-              "name": "parkingSpot",
-              "text": "parking"
+              "name": "guidedTours",
+              "text": "<b>guided tours</b> (15€/group/4h) - you will meet our guide and discuss about the trails you want to make"
             },
             {
-              "name": "kitchenAccess",
-              "text": "kitchen and living room access"
-            },
-            {
-              "name": "bikeGarage",
-              "text": "bike garage"
+              "name": "chatWithLocals",
+              "text": "have a chat with the locals about the past and the present of Rosia Montana"
             }
           ]
         },
@@ -145,6 +158,10 @@
           "rows": 3,
           "maxChars": 350,
           "required": false
+        },
+        {
+          "type": "infoText",
+          "text": "For larger groups or longer periods we can offer a <b>discount</b> for accommodation or for bikes or for guided routes. Specify in the above section('Other') if you want a discount and leave a phone number."
         }
       ]
     },
@@ -223,24 +240,38 @@
           ]
         },
         {
+          "type": "selectBox",
+          "name": "bikes",
+          "required": false,
+          "iconFortAwesomeClass": "fa fa-bicycle fa-fw",
+          "placeholder": "Book bikes",
+          "selectOptions": [
+            {
+              "text": "1 bike - 14€/day"
+            },
+            {
+              "text": "2 bikes - 24€/day"
+            },
+            {
+              "text": "3 bikes - 32€/day"
+            }
+          ]
+        },
+        {
           "type": "checkBoxes",
-          "title": "I wish:",
+          "title": "<b>I wish:</b>",
           "checkBoxes": [
             {
               "name": "doubleBed",
-              "text": "double bed"
+              "text": "double bed in the room"
             },
             {
-              "name": "parkingSpot",
-              "text": "parking"
+              "name": "guidedTours",
+              "text": "<b>guided tours</b> (15€/group/4h) - you will meet our guide and discuss about the trails you want to make"
             },
             {
-              "name": "kitchenAccess",
-              "text": "kitchen and living room access"
-            },
-            {
-              "name": "bikeGarage",
-              "text": "bike garage"
+              "name": "chatWithLocals",
+              "text": "have a chat with the locals about the past and the present of Rosia Montana"
             }
           ]
         },
@@ -252,6 +283,10 @@
           "rows": 3,
           "maxChars": 350,
           "required": false
+        },
+        {
+          "type": "infoText",
+          "text": "For larger groups or longer periods we can offer a <b>discount</b> for accommodation or for bikes or for guided routes. Specify in the above section('Other') if you want a discount and leave a phone number."
         }
       ]
     },
@@ -330,24 +365,38 @@
           ]
         },
         {
+          "type": "selectBox",
+          "name": "bikes",
+          "required": false,
+          "iconFortAwesomeClass": "fa fa-bicycle fa-fw",
+          "placeholder": "Book bikes",
+          "selectOptions": [
+            {
+              "text": "1 bike - 14€/day"
+            },
+            {
+              "text": "2 bikes - 24€/day"
+            },
+            {
+              "text": "3 bikes - 32€/day"
+            }
+          ]
+        },
+        {
           "type": "checkBoxes",
-          "title": "I wish:",
+          "title": "<b>I wish:</b>",
           "checkBoxes": [
             {
               "name": "twinBeds",
-              "text": "twin beds"
+              "text": "twin beds in the room"
             },
             {
-              "name": "parkingSpot",
-              "text": "parking"
+              "name": "guidedTours",
+              "text": "<b>guided tours</b> (15€/group/4h) - you will meet our guide and discuss about the trails you want to make"
             },
             {
-              "name": "kitchenAccess",
-              "text": "kitchen and living room access"
-            },
-            {
-              "name": "bikeGarage",
-              "text": "bike garage"
+              "name": "chatWithLocals",
+              "text": "have a chat with the locals about the past and the present of Rosia Montana"
             }
           ]
         },
@@ -359,6 +408,10 @@
           "rows": 3,
           "maxChars": 350,
           "required": false
+        },
+        {
+          "type": "infoText",
+          "text": "For larger groups or longer periods we can offer a <b>discount</b> for accommodation or for bikes or for guided routes. Specify in the above section('Other') if you want a discount and leave a phone number."
         }
       ]
     },

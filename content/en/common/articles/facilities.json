@@ -1,38 +1,38 @@
 [
   {
     "id": "food",
-    "title": "<i class='fa fa-cutlery'></i> Locuri de luat masa",
-    "textContent": "Vă punem la dispoziție o mică bucătărie cu veselă, frigider, cuptor cu microunde, aragaz sau sandwich maker. Aici puteți găti dar să lăsați curat după :) <br> Avem și o vecină care poate să vină aici să gătească pentru voi sau puteți lua masa la țărani din sat care gătesc cu produse făcute de ei. Dacă doriți acest lucru spuneți-ne în momentul rezervării sau când sosiți în Roșia, iar noi îi contactăm și vă trimitem la ei la fermă."
+    "title": "<i class='fa fa-cutlery'></i> Places to eat",
+    "textContent": "You will find here a small kitchen with dishes, refrigerator, microwave and a stove. You can cook but after please leave the kitchen clean :) <br> We can also book a neighbor who can come here to cook for you or we can organize to eat homemade meals in the village at the locals. Please tell us if you want that when you make a booking or when you arrive in Rosia."
   },
   {
     "id": "groceryStores",
-    "title": "<i class='fa fa-shopping-basket'></i> Magazine alimentare",
-    "textContent": "În apropirea casei (~5min) găsești 3 magazine alimetare care sunt destul de bine dotate (mai ales magazinul 'Bereczky').",
-    "moreDetailsText": "Vezi aici unde sunt situate și cum ajungi la ele...",
-    "moreDetailsUrl": {
-      "textOnMouseOver": "Click aici...",
+    "title": "<i class='fa fa-shopping-basket'></i> Grocery stores",
+    "textContent": "There are 3 grocery stores around the house (~5min).",
+    "seeAlso": {
+      "text": "You can see here how to reach them from Casa Petri...",
+      "textOnMouseOver": "Click here",
       "link": "https://www.google.ro/maps/dir/Emiliana+Shop,+DC146,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Historical+center,+nr.+331A,+Casa+Petri,+Ro%C8%99ia+Montan%C4%83+517615/Bereczky+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Mixt+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/@46.3066051,23.129791,18z/data=!4m26!4m25!1m5!1m1!1s0x474ecce0f07e87bf:0xc1e5f1730ebc127c!2m2!1d23.1317125!2d46.3060228!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!1m5!1m1!1s0x474ecce0563eefe1:0x44635688d438a223!2m2!1d23.1308247!2d46.30597!1m5!1m1!1s0x474ecce04e3e997b:0x14730c483b204593!2m2!1d23.1300147!2d46.3061442!3e2?hl=ro",
       "openInNewTab": true
     }
   },
   {
     "id": "freeWifi",
-    "title": "<i class='fa fa-wifi'></i> Wifi gratuit",
-    "textContent": "În toate camerele, chiar și în grădină în hamac o să aveți acces gratuit la internet wireless(parola o găsiți pe noptierele din camere). Nu uitați de check in :P"
+    "title": "<i class='fa fa-wifi'></i> Free Wifi",
+    "textContent": "We have free wifi in all the rooms and also in the garden in the hammock so don't forget to 'check in on facebook' :P"
   },
   {
     "id": "emergencies",
-    "title": "<i class='fa fa-fire-extinguisher'></i> Situații de urgență",
-    "textContent": "În bucătăria casei o să găsiți o trusă medicală iar în dreptul fiecărei uși de la camere o să găsiți un extinctor. Numărul de urgență din România este 112."
+    "title": "<i class='fa fa-fire-extinguisher'></i> Emergencies",
+    "textContent": "In the kitchen you will find a medical kit and in each room you will find a fire extinguisher. The emergency number in Romania is 112"
   },
   {
     "id": "parking",
-    "title": "<i class='fa fa-car'></i> Parcare",
-    "textContent": "O să găsiți locuri de parcare lângă strada asfaltată din dreptul casei. Dacă doriți avem spațiu și în curte."
+    "title": "<i class='fa fa-car'></i> Parking",
+    "textContent": "There are parking spots beside the asphalted road by the house. If you wish we also have space in the yard."
   },
   {
     "id": "boardGames",
     "title": "<i class='fa fa-puzzle-piece'></i> Board Games",
-    "textContent": "O să găsiți prin casa și câteva board games ca Activity, Risk, Saboteour, Șah și altele..."
+    "textContent": "We have board games: Activity, Risk, Saboteour, Chess and others..."
   }
 ]

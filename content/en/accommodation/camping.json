@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "We also love to go camping in the mountains when we find a good spot. That's why we prepared in our yard a small camping place, for maximum 4 tents, with <b>bathroom</b> and <b>kitchen</b> access. We offer <b>10% discount</b> for those who bring their bikes and do at least one cycling trail. It is not allowed to smoke inside, listen loud music and fire is allowed only in designated fireplaces. <b>The booking will be confirmed by email</b>."
+          "textContent": "We also love to go camping in the mountains when we find a good spot. That's why we prepared in our yard a small camping place, for maximum 4 tents, with <b>bathroom</b> and <b>kitchen</b> access. It is not allowed to smoke inside, listen loud music and fire is allowed only in designated fireplaces. <b>The booking will be confirmed by email</b>."
         }
       ]
     },
@@ -95,28 +95,28 @@
           "placeholder": "Seats and price",
           "selectOptions": [
             {
-              "text": "1 seat - 8€ /night"
+              "text": "1 seat - 9€ /night"
             },
             {
-              "text": "2 seats - 13€ /night"
+              "text": "2 seats - 15€ /night"
             },
             {
-              "text": "3 seats - 17€ /night"
+              "text": "3 seats - 20€ /night"
             },
             {
-              "text": "4 seats - 21€ /night"
+              "text": "4 seats - 27€ /night"
             },
             {
-              "text": "5 seats - 26€ /night"
+              "text": "5 seats - 32€ /night"
             },
             {
-              "text": "6 seats - 30€ /night"
+              "text": "6 seats - 40€ /night"
             },
             {
-              "text": "7 seats - 35€ /night"
+              "text": "7 seats - 45€ /night"
             },
             {
-              "text": "8 seats - 39€ /night"
+              "text": "8 seats - 50€ /night"
             }
           ]
         },
@@ -129,20 +129,34 @@
           "required": true
         },
         {
+          "type": "selectBox",
+          "name": "bikes",
+          "required": false,
+          "iconFortAwesomeClass": "fa fa-bicycle fa-fw",
+          "placeholder": "Book bikes",
+          "selectOptions": [
+            {
+              "text": "1 bike - 14€/day"
+            },
+            {
+              "text": "2 bikes - 24€/day"
+            },
+            {
+              "text": "3 bikes - 32€/day"
+            }
+          ]
+        },
+        {
           "type": "checkBoxes",
-          "title": "I wish:",
+          "title": "<b>I wish:</b>",
           "checkBoxes": [
             {
-              "name": "parkingSpot",
-              "text": "parking"
+              "name": "guidedTours",
+              "text": "<b>guided tours</b> (15€/group/4h) - you will meet our guide and discuss about the trails you want to make"
             },
             {
-              "name": "kitchenAccess",
-              "text": "kitchen and living room access"
-            },
-            {
-              "name": "bikeGarage",
-              "text": "bike garage"
+              "name": "chatWithLocals",
+              "text": "have a chat with the locals about the past and the present of Rosia Montana"
             }
           ]
         },
@@ -154,6 +168,10 @@
           "rows": 3,
           "maxChars": 350,
           "required": false
+        },
+        {
+          "type": "infoText",
+          "text": "For larger groups or longer periods we can offer a <b>discount</b> for accommodation or for bikes or for guided routes. Specify in the above section('Other') if you want a discount and leave a phone number."
         }
       ]
     },

@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Casa Petri este o clădire de patrimoniu din centrul istoric din Roșia Montană în care am păstrat stilul tradițional ca podelele de lemn, geamurile sau încălzirea prin teracote pe lemne, dar unde am integrat și facilități moderne ca de exemplu băile. Dispune de diverse zone de relaxare, de o curte cu iarbă verde și foișor cu priveliște spre muntele Cârnic. Oferim <b>5% discount</b> celor care vin cu bicicleta și fac cel puțin un traseu. Este interzis fumatul în interior sau ascultatul muzicii la volum ridicat. <b>Rezervarea va fi confirmată prin email.</b>"
+          "textContent": "Casa Petri este o clădire de patrimoniu din centrul istoric din Roșia Montană în care am păstrat stilul tradițional ca podelele de lemn, geamurile sau încălzirea prin teracote pe lemne, dar unde am integrat și facilități moderne ca de exemplu băile. Dispune de diverse zone de relaxare, de o curte cu iarbă verde și foișor cu priveliște spre muntele Cârnic. Este interzis fumatul în interior sau ascultatul muzicii la volum ridicat. <b>Rezervarea va fi confirmată prin email.</b>"
         }
       ]
     },
@@ -38,23 +38,23 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "Camera cărților",
+          "title": "Camera cu cărți",
           "textContent": "Camera de la parter are pereți de piatră de un metru grosime și un dulap plin cu cărți. Dispune de baie proprie, două paturi etajate și o canapea extensibilă. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i>",
           "images": [
             {
-              "title": "Camera cărților",
+              "title": "Camera cu cărți",
               "description": "aici găsiți 'Dulapul cu cărți' - un fost bufet de bucătărie transformat în bibliotecă unde găsiți cărți vechi și diverse jocuri.",
               "thumbnailUrl": "img/accommodation/rooms/article/room1/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/rooms/article/room1/fullSize/1.jpg"
             },
             {
-              "title": "Camera cărților",
+              "title": "Camera cu cărți",
               "description": "interior. În vitrină sunt poze vechi din Roșia, flori de mină și obiecte folosite în trecut prin gospodărie.",
               "thumbnailUrl": "img/accommodation/rooms/article/room1/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/rooms/article/room1/fullSize/2.jpg"
             },
             {
-              "title": "Camera cărților - baie",
+              "title": "Camera cu cărți - baie",
               "description": "Încălzire prin boiler electric",
               "thumbnailUrl": "img/accommodation/rooms/article/room1/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/rooms/article/room1/fullSize/3.jpg"
@@ -69,7 +69,7 @@
       "successMessage": "Vă mulțumim! O să revenim cu un răspuns de confirmare cât mai repede.",
       "errorMessage": "EROARE! Contactați-ne prin email sau telefon (le găsiți în footer)",
       "sendButtonText": "Trimite",
-      "hideAreaUnderButton": "Rezervă camera cărților &nbsp&nbsp<i class='fa fa-caret-down'></i>",
+      "hideAreaUnderButton": "Rezervă Camera cu cărți &nbsp&nbsp<i class='fa fa-caret-down'></i>",
       "fields": [
         {
           "type": "textRow",
@@ -104,13 +104,13 @@
               "text": "2 locuri - 145lei/noapte"
             },
             {
-              "text": "3 locuri - 190lei/noapte"
+              "text": "3 locuri - 195lei/noapte"
             },
             {
               "text": "4 locuri - 245lei/noapte"
             },
             {
-              "text": "5 locuri - 290lei/noapte"
+              "text": "5 locuri - 295lei/noapte"
             },
             {
               "text": "6 locuri - 330lei/noapte"
@@ -118,20 +118,34 @@
           ]
         },
         {
+          "type": "selectBox",
+          "name": "bikes",
+          "required": false,
+          "iconFortAwesomeClass": "fa fa-bicycle fa-fw",
+          "placeholder": "Rezervă biciclete",
+          "selectOptions": [
+            {
+              "text": "1 bicicletă - 55lei/zi"
+            },
+            {
+              "text": "2 biciclete - 100lei/zi"
+            },
+            {
+              "text": "3 biciclete - 140lei/zi"
+            }
+          ]
+        },
+        {
           "type": "checkBoxes",
-          "title": "Doresc:",
+          "title": "<b>Doresc:</b>",
           "checkBoxes": [
             {
-              "name": "parkingSpot",
-              "text": "parcare"
+              "name": "guidedTours",
+              "text": "<b>trasee ghidate</b> (50lei/grup/4h) - când sosiți o să discutați cu ghidul nostru pentru a vă configura traseele dorite"
             },
             {
-              "name": "kitchenAccess",
-              "text": "acces bucătărie și camera de zi"
-            },
-            {
-              "name": "bikeGarage",
-              "text": "garaj biciclete"
+              "name": "chatWithLocals",
+              "text": "o întâlnire cu localnici pentru a povesti despre trecutul și prezentul Roșiei Montane"
             }
           ]
         },
@@ -143,6 +157,10 @@
           "rows": 3,
           "maxChars": 350,
           "required": false
+        },
+        {
+          "type": "infoText",
+          "text": "Pentru grupuri mai mari sau perioade mai lungi oferim <b>discount</b> la cazare, la biciclete sau la trasee ghidate. Specificați în secțiunea de mai sus('Altele') dacă doriți discount și lăsați un număr de telefon."
         }
       ]
     },
@@ -221,20 +239,38 @@
           ]
         },
         {
+          "type": "selectBox",
+          "name": "bikes",
+          "required": false,
+          "iconFortAwesomeClass": "fa fa-bicycle fa-fw",
+          "placeholder": "Rezervă biciclete",
+          "selectOptions": [
+            {
+              "text": "1 bicicletă - 55lei/zi"
+            },
+            {
+              "text": "2 biciclete - 100lei/zi"
+            },
+            {
+              "text": "3 biciclete - 140lei/zi"
+            }
+          ]
+        },
+        {
           "type": "checkBoxes",
-          "title": "Doresc:",
+          "title": "<b>Doresc:</b>",
           "checkBoxes": [
             {
               "name": "doubleBed",
               "text": "pat dublu în cameră"
             },
             {
-              "name": "parkingSpot",
-              "text": "parcare"
+              "name": "guidedTours",
+              "text": "<b>trasee ghidate</b> (50lei/grup/4h) - când sosiți o să discutați cu ghidul nostru pentru a vă configura traseele dorite"
             },
             {
-              "name": "bikeGarage",
-              "text": "garaj biciclete"
+              "name": "chatWithLocals",
+              "text": "o întâlnire cu localnici pentru a povesti despre trecutul și prezentul Roșiei Montane"
             }
           ]
         },
@@ -246,6 +282,10 @@
           "rows": 3,
           "maxChars": 350,
           "required": false
+        },
+        {
+          "type": "infoText",
+          "text": "Pentru grupuri mai mari sau perioade mai lungi oferim <b>discount</b> la cazare, la biciclete sau la trasee ghidate. Specificați în secțiunea de mai sus('Altele') dacă doriți discount și lăsați un număr de telefon."
         }
       ]
     },
@@ -324,24 +364,38 @@
           ]
         },
         {
+          "type": "selectBox",
+          "name": "bikes",
+          "required": false,
+          "iconFortAwesomeClass": "fa fa-bicycle fa-fw",
+          "placeholder": "Rezervă biciclete",
+          "selectOptions": [
+            {
+              "text": "1 bicicletă - 55lei/zi"
+            },
+            {
+              "text": "2 biciclete - 100lei/zi"
+            },
+            {
+              "text": "3 biciclete - 140lei/zi"
+            }
+          ]
+        },
+        {
           "type": "checkBoxes",
-          "title": "Doresc:",
+          "title": "<b>Doresc:</b>",
           "checkBoxes": [
             {
               "name": "twinBeds",
               "text": "paturi separate în cameră"
             },
             {
-              "name": "parkingSpot",
-              "text": "parcare"
+              "name": "guidedTours",
+              "text": "<b>trasee ghidate</b> (50lei/grup/4h) - când sosiți o să discutați cu ghidul nostru pentru a vă configura traseele dorite"
             },
             {
-              "name": "kitchenAccess",
-              "text": "acces bucătărie și camera de zi"
-            },
-            {
-              "name": "bikeGarage",
-              "text": "garaj biciclete"
+              "name": "chatWithLocals",
+              "text": "o întâlnire cu localnici pentru a povesti despre trecutul și prezentul Roșiei Montane"
             }
           ]
         },
@@ -353,6 +407,10 @@
           "rows": 3,
           "maxChars": 350,
           "required": false
+        },
+        {
+          "type": "infoText",
+          "text": "Pentru grupuri mai mari sau perioade mai lungi oferim <b>discount</b> la cazare, la biciclete sau la trasee ghidate. Specificați în secțiunea de mai sus('Altele') dacă doriți discount și lăsați un număr de telefon."
         }
       ]
     },

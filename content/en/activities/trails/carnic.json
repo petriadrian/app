@@ -30,9 +30,9 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Odată ajunși în curtea Casei Petri o să observați priveliștea spre masivul Cârnic. E un munte de aur deoarece adapostește peste 200 de tone de aur dar si peste 150km de galerii romane unice în lume. Pe vârful lui, o să observați o stâncă în formă de cal cu o cruce în vârf. Acesta este Sfinxul sau 'Căluțul', care reprezintă obiectivul acestui traseu. Pornim spre Tăul Brazi și Platoul Cârnic și apoi urcăm prin pădurea de conifere până pe vârful masivului.",
-          "moreDetailsText": "Datele GPS și traseul le găsiți și aici...",
-          "moreDetailsUrl": {
+          "textContent": "From the Casa Petri yard you will notice the view to the 'Cârnic' mountain. It’s a mountain of gold, from all points of view, because it hides over 200 tons of gold but over 150km of unique Roman galleries. On top of the mountain you will notice a horse-shaped rock, with a cross on top of it. This is the Sphinx or 'Căluțul', our main objective for this trail. Head towards 'Brazi' Lake and 'Platoul Cârnic' (Cârnic Plateau) and then climb through the pine forest to the top of the mountain.",
+          "seeAlso": {
+            "text": "You can find here the GPS data of the trail...",
             "textOnMouseOver": "Click here...",
             "link": "http://www.gpsies.com/map.do?fileId=esbtvmiyuytvzprs",
             "openInNewTab": true

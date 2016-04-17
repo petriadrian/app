@@ -30,9 +30,9 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Acesta este unul dintre cele mai pitorești trasee care te vor plimba prin locul nostru preferat - Țarina. Aici sunt terenurile de pământ pe care roșienii le dețin aproape de centrul comunei, unde își cresc animalele sau culturile de legume. Traseul vă va duce pe la Tăul Țarinii și apoi până la Stația Meteo de unde vă promitem o priveliște nemaiîntâlnită. A doua parte a traseului vă va coborâ pe la Tăul Mare și chiar înainte de a intra în centrul istoric mai facem un popoas la Galeria Văidoaia și o casă veche cu totul specială.",
-          "moreDetailsText": "Datele GPS și traseul îl puteți găsi și pe gpsies.com. Detalii aici...",
-          "moreDetailsUrl": {
+          "textContent": "A trail along our favorite area, 'Tarina' land, where you will see some of the most spectacular landscapes. 'Tarina' land is pretty close to the historical center and here are the farmlands of the locals where they keep their animals or vegetable crops. The trail will take you to 'Țarina' lake and then to the Weather Station (on the top of Rosia Montana) where you will have a spectacular view. On the second part of the trail will descend along the 'Tăul Mare' lake and just before arriving in the historical center, you will make a stop at 'Văidoaia' Gallery and a very special old house 'Casa Szekely'.",
+          "seeAlso": {
+            "text": "You can find here the GPS data of the trail...",
             "textOnMouseOver": "Click here...",
             "link": "http://www.gpsies.com/map.do?fileId=angfatdqfdrtdpsu",
             "openInNewTab": true

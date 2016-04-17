@@ -84,8 +84,8 @@
         {
           "title": "Drumul spre Scărișoara",
           "textContent": "Drumul vă va purta pe malul râului Arieș prin Țara Moților cu satele specifice din Munții Apuseni. Faceți cât mai multe popasuri și bucurați-vă de zonă, de mirosul de brazi și apa rece de munte.",
-          "moreDetailsText": "Un video cu traseul găsiți aici...",
-          "moreDetailsUrl": {
+          "seeAlso": {
+            "text": "Un video cu traseul găsiți aici...",
             "textOnMouseOver": "Click aici...",
             "link": "https://www.youtube.com/watch?v=2FEThHycyWo",
             "openInNewTab": true
@@ -113,8 +113,8 @@
         {
           "title": "Ghețarul Scărișoara",
           "textContent": "'Aceasta este prima pestera din Romania declarata monument al naturii, in 1938. Pestera se afla la o altitudine de 1165 m, si are o lungime de peste 700 m. Ceea ce este foarte important de retinut este ca pestera gazduieste cel mai mare bloc de gheata (ghetar) subteran din lume.'",
-          "moreDetailsText": "Sursa și mai multe detalii găsiți aici...",
-          "moreDetailsUrl": {
+          "seeAlso": {
+            "text": "Sursa și mai multe detalii găsiți aici...",
             "textOnMouseOver": "Click aici...",
             "link": "http://www.ghiduri-turistice.info/ghid-turistic-turist-in-romania--pestera-ghetarul-de-la-scarisoara--galerie-foto",
             "openInNewTab": true

@@ -31,8 +31,8 @@
       "specificArticles": [
         {
           "textContent": "Odată ajunși în curtea Casei Petri o să observați priveliștea spre masivul Cârnic. E un munte de aur deoarece adapostește peste 200 de tone de aur dar si peste 150km de galerii romane unice în lume. Pe vârful lui, o să observați o stâncă în formă de cal cu o cruce în vârf. Acesta este Sfinxul sau 'Căluțul', care reprezintă obiectivul acestui traseu. Pornim spre Tăul Brazi și Platoul Cârnic și apoi urcăm prin pădurea de conifere până pe vârful masivului.",
-          "moreDetailsText": "Datele GPS și traseul le găsiți și aici...",
-          "moreDetailsUrl": {
+          "seeAlso": {
+            "text": "Datele GPS ale traseului le găsiți aici...",
             "textOnMouseOver": "Click aici...",
             "link": "http://www.gpsies.com/map.do?fileId=esbtvmiyuytvzprs",
             "openInNewTab": true

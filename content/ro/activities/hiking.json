@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Trasee drumeție",
     "headline": "Prietenii, aparatul foto, rucsacul... Pornim la drum!",
-    "description": "De la plimbări ușoare pe ulițele satului din centrul istoric până la trasee spre culmi montane, lacuri și alte obiective din zonă. Vezi și informații <b>trasee ghidate</b>",
+    "description": "De la plimbări ușoare pe ulițele satului din centrul istoric până la trasee spre culmi montane, lacuri și alte obiective din zonă. Vezi și <b>trasee ghidate</b>",
     "fullWidthImg": "img/activities/hiking/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/hiking/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Trasee drumetie - descoperă Roșia Montană",
-    "description": "De la plimbări ușoare pe ulițele satului pentru a vizita centrul istoric Roșia Montană sau galeriile romane până la trasee printre culmi montane, lacuri și satele din zonă. Vezi și informații trasee ghidate",
+    "description": "De la plimbări ușoare pe ulițele satului pentru a vizita centrul istoric sau galeriile romane până la trasee printre culmi montane, sate și exploatări miniere. Vezi și trasee ghidate.",
     "displayOnShareImg": "img/activities/hiking/presentation/displayOnShareImg.jpg"
   },
   "config": {

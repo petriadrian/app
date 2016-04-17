@@ -32,8 +32,8 @@
         {
           "title": "",
           "textContent": "O excursie la rezervatia naturală Negrileasa în perioada înfloriri narciselor...  e ceva ce nu ve-ți uita niciodată. Când închizi ochii și încerci să îți amintești de Negrileasa, prima dată o să încerci sa îți amintești mirosul narciselor de acolo. O sa îți dai seama că e imposibil. Trebuie sa te reîntorci la Negrileasa pentru a trăi din nou această experiență, să vezi acel deal alb, să simți acel miros, să te bucuri de acestă poiană din Apuseni. <br> Narcisele înfloresc în luna mai și țin toată primăvara. Anual, în Duminica cea mai apropiată de 20 Mai aici are loc sărbătoare narciselor în care localnicii vând bunătăți făcute la ei în gospodărie iar seara se lasă cu petreceri. Drumul până acolo e asfaltat mai puțin ultimii 4km pe care vi recomandăm să îi faceți pe jos întrucât peisajele sunt de poveste. Ca excursia ta să fie si mai tare ia-ți inima în dinți și mergi de la Casa Petri până acolo pe bicicletă. Merită!",
-          "moreDetailsText": "Mai multe detalii aici...",
-          "moreDetailsUrl": {
+          "seeAlso": {
+            "text": "Mai multe detalii aici...",
             "textOnMouseOver": "Click aici...",
             "link": "http://www.muntii-apuseni.eu/news.php?readmore=7",
             "openInNewTab": true

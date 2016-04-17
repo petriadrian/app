@@ -31,8 +31,8 @@
       "specificArticles": [
         {
           "textContent": "Here is one of the biggest open pit from Europe. How does it looks like and what are the consequences? Let's hit the road... From the historical center we head to the The Big Lake('Tăul Mare'). Once we get here you still have to climb a little until you will reach the Copper Open Pit - 'Rosia Poieni'. The open pit looks like dessert: dry soil, no vegetables, a shaved mountain and rusty huge machines. Continue with the 2nd part of the trail - the road to 'Geamăna' following an unpaved road which will lead you through some traditional villages with an authentic charm: 'Muntari', 'Poiana' and 'Vința'. Once you will see a big lake with powerful colors of red and blue, you reached the waste lake 'Geamana'. The 2nd part of the trail is quite long so we recommend to get back at Casa Petri and go to 'Geamana' by car.",
-          "moreDetailsText": "See here the trail to 'Geamăna' by car.",
-          "moreDetailsUrl": {
+          "seeAlso": {
+            "text": "See here the trail to 'Geamăna' by car...",
             "textOnMouseOver": "Click here...",
             "link": "https://www.google.ro/maps/dir/Casa+Petri,+DC146,+Ro%C8%99ia+Montan%C4%83/M%C4%83n%C4%83stirea+Lup%C8%99a,+M%C4%83n%C4%83stire,+Jude%C8%9Bul+Alba/Geam%C4%83na/@46.3434513,23.066633,12.11z/data=!4m20!4m19!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!1m5!1m1!1s0x47493248b8024575:0x28aa0ec6176c4a5a!2m2!1d23.1732673!2d46.3752202!1m5!1m1!1s0x4749335e58fe877f:0x883a3e3ec5d25d8a!2m2!1d23.2042788!2d46.3299984!3e0?hl=ro",
             "openInNewTab": true

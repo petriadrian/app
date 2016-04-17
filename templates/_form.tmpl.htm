@@ -60,13 +60,16 @@
             <option ng-repeat="option in field.selectOptions" value="{{option.text}}">{{option.text}}</option>
         </select>
 
-        <div ng-if="field.type == 'checkBoxes'">
-            <span><b>{{field.title}}</b></span>
-            <label ng-repeat="checkBox in field.checkBoxes" class="checkbox-inline">
-                <input type="checkbox" name="{{checkBox.name}}" ng-model="formObj[checkBox.name]" value="true"/>
-                {{checkBox.text}}
-            </label>
+        <div ng-if="field.type == 'checkBoxes'" class="textAlignLeft">
+            <p ng-bind-html="field.title | trustHtml"></p>
+            <div ng-repeat="checkBox in field.checkBoxes" class="checkbox">
+                <label>
+                    <input type="checkbox" name="{{checkBox.name}}" ng-model="formObj[checkBox.name]" value="true"/>
+                    <span ng-bind-html="checkBox.text | trustHtml"></span>
+                </label>
+            </div>
         </div>
+        <p ng-if="field.type == 'infoText'" ng-bind-html="field.text | trustHtml"></p>
     </div>
 
     <button type="submit" class="btn btn-primary">

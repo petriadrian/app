@@ -21,6 +21,10 @@ body {
     text-align: center;
 }
 
+.textAlignLeft {
+    text-align: left;
+}
+
 .navbar-default {
     background-color: #151F1D;
     width: 100%;

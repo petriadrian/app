@@ -31,8 +31,8 @@
       "specificArticles": [
         {
           "textContent": "Aceasta este varianta mai lungă a traseului 'Stația Meteo'. Pornim de la Casa Petri și o luăm prin țarină spre Tăul Țarinii care e numai bun să te răcorești puțin cu apă rece de munte. De aici o luăm spre Stația Meteo - Vârful Rotundu - cel mai înalt punct de pe traseu. În stânga observăm 'Tăul Mare', care reprezintă următoarea destinație. O luăm spre el și apoi urcăm până pe masivul Lety și Sulei. Facem un popas ne bucurăm de priveliște și pornim spre Tăul Corna. Ne întoarcem apoi pe sub Piatra Corbului la Tăul Brazi, ultimul popas înainte de a ajunge acasă.",
-          "moreDetailsText": "Aici gasiți același traseu și pe bikemap.net...",
-          "moreDetailsUrl": {
+          "seeAlso": {
+            "text": "Datele GPS ale traseului le găsiți aici...",
             "textOnMouseOver": "Click aici...",
             "link": "http://www.bikemap.net/en/route/2757824-circuit-tauri-rosia-montana/#/z14/46.30656,23.14124/terrain",
             "openInNewTab": true
@@ -57,7 +57,7 @@
               },
               {
                 "textOnMouseOver": "dificultate",
-                "text": "ușor",
+                "text": "mediu",
                 "iconFortAwesomeClass": "fa fa-line-chart"
               }
             ]

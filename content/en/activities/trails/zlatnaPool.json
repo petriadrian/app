@@ -30,9 +30,9 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Ce e cel mai minuant la acest traseu e că o luăm spre un vechi oraș minier 'Zlatna' în care se încercă dezvoltarea turismului. Ce e bine e că au și reușit să facă ceva. Dovezile sunt acest ștrand 'de lux' dotat cu absolut tot ce e necesar și aleea pietonală de lângă el. Dar stați că nu e așa simplu... până acolo trebuie să pedalăm drumul cu serpentine de pe 'Dealul Mare' printre păduri de fagi și conifere. Cu cât mai epuizat ajungi, cu atât va fi baia mai bună :)",
-          "moreDetailsText": "Mai multe detalii despre bazin și ce mai puteți vizita în Zltana găsiți aici",
-          "moreDetailsUrl": {
+          "textContent": "The trail to 'Zlatna', and old mining town where they are trying to encourage tourism. The good thing is that they succeed to do something. The proof is this luxurious public pool and the pedestrian alley next to it. But to reach the 'revitalizing' pool, you will have to pedal up on the 'Dealul Mare' hill, through beech and coniferous forests. The more exhausted you are when you reach Zlatna, the better the bath will be :)",
+          "seeAlso": {
+            "text": " More details about the swimming pool and others touristic objectives in Zlatna can be found here...",
             "textOnMouseOver": "Click here...",
             "link": "http://viziteazazlatna.ro/blog/locatii-agrement/zlatna-sport-center-2/#!prettyPhoto",
             "openInNewTab": true
@@ -89,40 +89,41 @@
       "specificArticles": [
         {
           "title": "Dealul Mare",
-          "textContent": "Drumul de pe 'Dealul Mare' este unul deosebit de spectaculos. E adevăvărat că o să ai de urcat pe sepentine dar chiar de e vară va fi destul de răcoare pentru că drumul trece prin păduri de fagi și cam la tot pasul ai să întâlnești câte un izvor cu apă rece sau câte un popas cu băncuțe.",
+          "textContent": "The road along 'Dealul Mare' is wonderful, and it worth climbing it up. It's nice to pedal through the cold shadow of the beech forest, where you will find many resting points.",
           "images": [
             {
-              "title": "Drumul prin pădure",
+              "title": "The road along the forest",
               "description": "",
               "thumbnailUrl": "img/activities/trails/attractions/bigHillRoad/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/bigHillRoad/fullSize/1.jpg"
             },
             {
-              "title": "Castelul din Izvorul Ampoiului",
-              "description": "odată ce întâlnești acest castel vei fi destul de aproape de destinație.",
+              "title": "The 'Izvorul Ampoiului' Castle",
+              "description": "once you will meet this Castle you're almost there...",
               "thumbnailUrl": "img/activities/trails/attractions/bigHillRoad/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/bigHillRoad/fullSize/2.jpg"
             }
           ]
         },
         {
-          "title": "Ștrandul Zlatna",
+          "title": "The 'Zlatna' pool",
           "textContent": "'Zlatna Sport Center este un complex sportiv cu dotări la nivel internațional. Aici găsiți bazine înot (ștrand adulți și copii) în aer liber cu apă încalzita , Centrul SPA, teren tenis zgură și teren fotbal.' Prețurile de intrare sunt mai mult decât acceptabile.",
-          "moreDetailsText": "Mai multe detalii despre bazin și ce mai puteți vizita în Zltana găsiți aici",
-          "moreDetailsUrl": {
+          "textContent": "'Zlatna Sport Center has top facilities. It has outdoor swimming pools for adults and children, with heated water, a SPA resort, tennis court and football fields. The entrance fees is cheap (~5 euros).",
+          "seeAlso": {
+            "text": "More details about the swimming pool and others touristic attractions from Zlatna can be found here.",
             "textOnMouseOver": "Click here...",
             "link": "http://viziteazazlatna.ro/blog/locatii-agrement/zlatna-sport-center-2/#!prettyPhoto",
             "openInNewTab": true
           },
           "images": [
             {
-              "title": "Bazinul de înot Zlatna",
+              "title": "The swimming pool",
               "description": "",
               "thumbnailUrl": "img/activities/trails/attractions/zlatnaPool/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/zlatnaPool/fullSize/1.jpg"
             },
             {
-              "title": "Bazinul de înot Zlatna",
+              "title": "The swimming pool",
               "description": "din câte știm credem că e deschis și noaptea dar aveți grijă pe traseul de întoarcere",
               "thumbnailUrl": "img/activities/trails/attractions/zlatnaPool/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/zlatnaPool/fullSize/2.jpg"

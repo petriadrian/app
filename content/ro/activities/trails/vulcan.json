@@ -84,8 +84,8 @@
         {
           "title": "Vulcan",
           "textContent": "'Vulcanul este un masiv ce domină net împrejurimile, cu deschidere vastă asupra tuturor munților învecinați ce constă dintr-un platou carstic împadurit, înconjurat aproape în întregime de pereți ce depașesc pe alocuri 150m înălțime. Este declarat rezervație naturală. Din punct de vedere al escaladei și alpinismului, pereții sunt un adevarat paradis, cu rocă aderentă, iar traseele au in general asigurări solide.'",
-          "moreDetailsText": "Sursa și mai multe despre traseele de escaladă găsiți aici...",
-          "moreDetailsUrl": {
+          "seeAlso": {
+            "text": "Sursa și mai multe despre traseele de escaladă găsiți aici...",
             "textOnMouseOver": "Click aici...",
             "link": "http://www.amunteanu.go.ro/buces_vulcan.htm",
             "openInNewTab": true

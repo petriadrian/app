@@ -30,9 +30,9 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Aceasta este varianta mai lungă a traseului 'Stația Meteo'. Pornim de la Casa Petri și o luăm prin țarină spre Tăul Țarinii care e numai bun să te răcorești puțin cu apă rece de munte. De aici o luăm spre Stația Meteo - Vârful Rotundu - cel mai înalt punct de pe traseu. În stânga observăm 'Tăul Mare', care reprezintă următoarea destinație. O luăm spre el și apoi urcăm până pe masivul Lety și Sulei. Facem un popas ne bucurăm de priveliște și pornim spre Tăul Corna. Ne întoarcem apoi pe sub Piatra Corbului la Tăul Brazi, ultimul popas înainte de a ajunge acasă.",
-          "moreDetailsText": "Aici gasiți același traseu și pe bikemap.net...",
-          "moreDetailsUrl": {
+          "textContent": "This is the longer version of the 'Weather Station' trail. Start from Casa Petri and head through the 'Țarina' land, along the 'Țarini' lake (a good place to hydrated with some cold mountain water). From here turn to the Weather Station and 'Rotundu' Peak (the highest point from this trail). From here, on the left, you can see 'Tăul Mare' lake, which is our next destination. Head towards it and then climb up to the Lety and Șulei peaks. Take a break, enjoy the view and then continue to the 'Corna' Lake. From here, return to the village by the 'Piatra Corbului' (Raven’s Stone) and 'Brazi' Lake - the last stop before reaching home.",
+          "seeAlso": {
+            "text": "You can find here the GPS data of the trail...",
             "textOnMouseOver": "Click here...",
             "link": "http://www.bikemap.net/en/route/2757824-circuit-tauri-rosia-montana/#/z14/46.30656,23.14124/terrain",
             "openInNewTab": true
@@ -57,11 +57,24 @@
               },
               {
                 "textOnMouseOver": "difficulty",
-                "text": "easy",
+                "text": "medium",
                 "iconFortAwesomeClass": "fa fa-line-chart"
               }
             ]
           }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
         }
       ]
     },

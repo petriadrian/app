@@ -2,9 +2,9 @@
   {
     "id": "details",
     "hideAreaUnderButton": "Book guides or bikes &nbsp&nbsp<i class='fa fa-caret-down'></i>",
-    "textContent": "Book bikes or tour guides for the trails (by bike or by hiking) to find out more about the area and the mining industry. Hear the story of Rosia Montana by having a chat at a glass of 'Palinca' with the locals in the gazebo from Casa Petri yard.",
-    "moreDetailsText": "The bookings for bikes and tours are made from the accommodation page when you book a room. See here...",
-    "moreDetailsUrl": {
+    "textContent": "Discover more about the area, the habits, the history or the mining industry of Rosia Montana. You can rent bikes, guided tours by bike or walk or just have a chat with the locals. The bookings can be made from the accommodation page when you book rooms or camping. When you will arrive will meet our guide and discuss about the trails you will like to do.",
+    "seeAlso": {
+      "text": "Open the accommodation page...",
       "textOnMouseOver": "Click here...",
       "link": "en/accommodation/rooms",
       "openInNewTab": false
@@ -24,7 +24,7 @@
       },
       {
         "title": "Chat with the locals at Casa Petri",
-        "description": "locals who worked in the mining industry or who chose to stay and fight for their healthy life here in Rosia Montana without an open pit project which was proposed in 2014.",
+        "description": "locals who worked in the mining industry or who chose to stay here and fight against the gold project in 2014.",
         "thumbnailUrl": "img/common/guidesAndBikes/article/thumbnail/3.jpg",
         "fullSizeUrl": "img/common/guidesAndBikes/article/fullSize/3.jpg"
       }
