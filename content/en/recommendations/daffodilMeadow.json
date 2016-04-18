@@ -12,7 +12,7 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "The bike trail to the daffodils meadow 'Negrileasa'",
+    "title": "The Daffodils meadow 'Negrileasa'. Bike trail",
     "description": "In May, a white blanket of daffodils and their lovely smell offer you an unforgettable experience in the Negrileasa meadow.",
     "displayOnShareImg": "img/recommendations/daffodilMeadow/presentation/displayOnShareImg.jpg"
   },
@@ -22,42 +22,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "<i class='fa fa-info-circle'></i> Details",
-      "sectionId": "details",
-      "addLinkInPageHeadline": true
-    },
-    {
-      "type": "articles",
-      "specificArticles": [
-        {
-          "title": "",
-          "textContent": "A trip to the nature reserve 'Negrileasa' while the daffodils are in bloom is something that you will never forget. The first thing that you will try to remember from 'Negrileasa' is the the smell of the daffodils. You will realise it’s impossible to remember it, therefore you have to try this experience again, to see the white hill, feel the smell, enjoy this meadow in 'Apuseni' mountains. The daffodils start blooming in May and will be in bloom all spring. Annually, on the Sunday closest to the 20th May there is the Daffodils holiday, when the locals sell their homemade goods, and in the evening parties are held. The road to get there is paved, except for the last 4 km, which we recommend to walk, as the landscapes are spectacular. To make your trip even more exciting, ride your bike from Petri House. It’s worth taking the effort!",
-          "seeAlso": {
-            "text": "More details here...",
-            "textOnMouseOver": "Click here...",
-            "link": "http://www.muntii-apuseni.eu/news.php?readmore=7",
-            "openInNewTab": true
-          },
-          "images": [
-            {
-              "title": "Daffodil Meadow",
-              "description": "Please don't reap many daffodils. Once reaped they will wither quickly and lose their smell... their magic is only here in the wild. Instead take a lot of pictures :)",
-              "thumbnailUrl": "img/recommendations/daffodilMeadow/article/thumbnail/1.jpg",
-              "fullSizeUrl": "img/recommendations/daffodilMeadow/article/fullSize/1.jpg"
-            },
-            {
-              "title": "Daffodil Meadow",
-              "description": "The area is surrounded by mountains and pine forests. If you have time visit the area and discover those places.",
-              "thumbnailUrl": "img/recommendations/daffodilMeadow/article/thumbnail/2.jpg",
-              "fullSizeUrl": "img/recommendations/daffodilMeadow/article/fullSize/2.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> How to get there?",
+      "text": "<i class='fa fa-map-signs'></i> Trail map",
       "sectionId": "map",
       "addLinkInPageHeadline": true
     },
@@ -65,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "",
+          "textContent": "The daffodils starts blooming in May and they lives until the beginning of June. Annually, on the Sunday closest to the 20th May there is the Daffodils holiday, when the locals sell their homemade goods, and make parties in the evening . The road to get there is asphalted, except for the last 4km, which we recommend to walk, because the landscapes are spectacular. To make your trip even more exciting, go by bike. It’s worth taking the effort!",
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJvT6u7RzKTkcR1hUfXNYaqcI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs",
             "list": [
@@ -86,6 +51,54 @@
               }
             ]
           }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-certificate'></i> The Meadow",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "A trip to the nature reserve 'Negrileasa' while the daffodils are in bloom is something that you will never forget. The first thing that you will try to remember from 'Negrileasa' is the the smell of the daffodils. You will realise it’s impossible to remember it, therefore you have to try this experience again, to see the white hill, feel the smell, enjoy this meadow in 'Apuseni' mountains.",
+          "seeAlso": {
+            "text": "More details here...",
+            "textOnMouseOver": "Click here...",
+            "link": "http://www.muntii-apuseni.eu/news.php?readmore=7",
+            "openInNewTab": true
+          },
+          "images": [
+            {
+              "title": "Daffodil Meadow",
+              "description": "Please don't reap the flowers. Once reaped will wither quickly and lose their smell... Their magic is only here in the wild. Instead take a lot of pictures :)",
+              "thumbnailUrl": "img/recommendations/daffodilMeadow/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/recommendations/daffodilMeadow/article/fullSize/1.jpg"
+            },
+            {
+              "title": "Daffodil Meadow",
+              "description": "The area is surrounded by mountains and pine forests. If you have time visit the area and discover those places.",
+              "thumbnailUrl": "img/recommendations/daffodilMeadow/article/thumbnail/2.jpg",
+              "fullSizeUrl": "img/recommendations/daffodilMeadow/article/fullSize/2.jpg"
+            }
+          ]
         }
       ]
     },

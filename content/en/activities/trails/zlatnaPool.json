@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "The trail to 'Zlatna', and old mining town where they are trying to encourage tourism. The good thing is that they succeed to do something. The proof is this luxurious public pool and the pedestrian alley next to it. But to reach the 'revitalizing' pool, you will have to pedal up on the 'Dealul Mare' hill, through beech and coniferous forests. The more exhausted you are when you reach Zlatna, the better the bath will be :)",
+          "textContent": "The trail to 'Zlatna' - an old mining town where they are trying to encourage tourism. The good thing is that they succeed to do something. The proof is this luxurious public pool and the pedestrian alley next to it. But, to reach the 'revitalizing' pool, you'll have to pedal up on the 'Dealul Mare' hill, through beech and coniferous forests. The more exhausted you are when you reach Zlatna, the better the bath will be :) . You can visit also here what was left from the mining industrial plant.",
           "seeAlso": {
             "text": " More details about the swimming pool and others touristic objectives in Zlatna can be found here...",
             "textOnMouseOver": "Click here...",
@@ -107,8 +107,7 @@
         },
         {
           "title": "The 'Zlatna' pool",
-          "textContent": "'Zlatna Sport Center este un complex sportiv cu dotări la nivel internațional. Aici găsiți bazine înot (ștrand adulți și copii) în aer liber cu apă încalzita , Centrul SPA, teren tenis zgură și teren fotbal.' Prețurile de intrare sunt mai mult decât acceptabile.",
-          "textContent": "'Zlatna Sport Center has top facilities. It has outdoor swimming pools for adults and children, with heated water, a SPA resort, tennis court and football fields. The entrance fees is cheap (~5 euros).",
+          "textContent": "'Zlatna Sport Center has top facilities. It has outdoor swimming pools for adults and children, with heated water, a SPA resort, tennis court and football fields. The entrance fees is cheap (~6 euros).",
           "seeAlso": {
             "text": "More details about the swimming pool and others touristic attractions from Zlatna can be found here.",
             "textOnMouseOver": "Click here...",
@@ -124,7 +123,7 @@
             },
             {
               "title": "The swimming pool",
-              "description": "din câte știm credem că e deschis și noaptea dar aveți grijă pe traseul de întoarcere",
+              "description": "",
               "thumbnailUrl": "img/activities/trails/attractions/zlatnaPool/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/zlatnaPool/fullSize/2.jpg"
             }

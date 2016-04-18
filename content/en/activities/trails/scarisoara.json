@@ -1,7 +1,7 @@
 {
   "presentation": {
     "title": "Scarisoara Glacier",
-    "headline": "The trail to 'Scărișoara' glacier cave",
+    "headline": "The trail to the 'Scărișoara' glacier cave",
     "description": "A spectacular trail through the Apuseni Mountains, to one of the largest underground glacier in the world. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~9h </i>",
     "fullWidthImg": "img/activities/trails/scarisoara/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/scarisoara/presentation/smallBoxImg.jpg"
@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "The trail to 'Scărișoara' glacier cave. For bikes",
-    "description": "A spectacular trail through the Apuseni Mountains, from Rosia Montana to one of the largest underground glacier in the world.",
+    "title": "The 'Scărișoara' glacier cave. Bikes trail",
+    "description": "A spectacular trail through the 'Apuseni' Mountains, from Rosia Montana to one of the largest underground glacier in the world.",
     "displayOnShareImg": "img/activities/trails/scarisoara/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,13 +30,13 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Pornim de la Casa Petri și o luăm spre capitala Țării Moților - orașul Câmpeni. Ținem de aici drumul de pe malul râului Arieș unde ne mai putem opri pentru a ne revigora cu apă rece de munte sau să luăm masa pe la vreo pensiune. Trecem de Albac și ajungem în Gârda unde facem dreapta. De aici drumul asfaltat se îngustează și devine parcă și mai frumus întrucât urcăm pe munte până la Ghețar.",
+          "textContent": "Start from Casa Petri and head towards the 'Câmpeni' town - the capital of 'Moților' Land. From here continue the road beside the 'Arieș' river, so whenever you want you can have a break and refresh with cold water from the river or to eat at a guest houses. Go along the 'Albac' village and turn right in 'Gârda', on a narrow, asphalted road that will take you up in the mountain to the Glacier.",
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJX0JNIW_RSEcR1vLt5txsNTw&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJR3EQGOAsSUcR5LmrbHY10WY",
             "list": [
               {
                 "textOnMouseOver": "round trip length",
-                "text": "~110km",
+                "text": "~100km",
                 "iconFortAwesomeClass": "fa fa-refresh"
               },
               {
@@ -82,23 +82,23 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "Drumul spre Scărișoara",
-          "textContent": "Drumul vă va purta pe malul râului Arieș prin Țara Moților cu satele specifice din Munții Apuseni. Faceți cât mai multe popasuri și bucurați-vă de zonă, de mirosul de brazi și apa rece de munte.",
+          "title": "The road to Scărișoara",
+          "textContent": "The road takes you along some traditional villages of 'Apuseni' Mountains in 'Moților' Land. Make as many stops as you like and enjoy the area, enjoy the smell of pine trees and the cold mountain water.",
           "seeAlso": {
-            "text": "Un video cu traseul găsiți aici...",
+            "text": "See here a video with the trail..",
             "textOnMouseOver": "Click here...",
             "link": "https://www.youtube.com/watch?v=2FEThHycyWo",
             "openInNewTab": true
           },
           "images": [
             {
-              "title": "Drumul spre Ghețarul Scărișoara",
+              "title": "The road to Scărișoara",
               "description": "",
               "thumbnailUrl": "img/activities/trails/attractions/scarisoaraRoad/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/scarisoaraRoad/fullSize/1.jpg"
             },
             {
-              "title": "Drumul spre Ghețarul Scărișoara",
+              "title": "The road to Scărișoara",
               "description": "",
               "thumbnailUrl": "img/activities/trails/attractions/scarisoaraRoad/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/scarisoaraRoad/fullSize/2.jpg"
@@ -111,23 +111,23 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "Ghețarul Scărișoara",
-          "textContent": "'Aceasta este prima pestera din Romania declarata monument al naturii, in 1938. Pestera se afla la o altitudine de 1165 m, si are o lungime de peste 700 m. Ceea ce este foarte important de retinut este ca pestera gazduieste cel mai mare bloc de gheata (ghetar) subteran din lume.'",
+          "title": "The Scărișoara Glacier",
+          "textContent": "'This is the first cave in Romania who was declared a protected natural monument (in 1938). The cave has 700m length and the most important fact is that it hosts the largest underground block of ice (glacier) in the world.'",
           "seeAlso": {
-            "text": "Sursa și mai multe detalii găsiți aici...",
+            "text": "Text source and more details can be found here...",
             "textOnMouseOver": "Click here...",
             "link": "http://www.ghiduri-turistice.info/ghid-turistic-turist-in-romania--pestera-ghetarul-de-la-scarisoara--galerie-foto",
             "openInNewTab": true
           },
           "images": [
             {
-              "title": "Intrarea în ghețarul Scărișoara",
+              "title": "The entrance in the Scărișoara Glacier",
               "description": "",
               "thumbnailUrl": "img/activities/trails/attractions/scarisoara/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/scarisoara/fullSize/1.jpg"
             },
             {
-              "title": "Ghețarul Scărișoara",
+              "title": "The Scărișoara Glacier",
               "description": "blocul de gheață în formă de rechin",
               "thumbnailUrl": "img/activities/trails/attractions/scarisoara/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/scarisoara/fullSize/2.jpg"

@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "This is the route of our childhood. <i>We used to take our bikes and go towards the 'Taul Mare' Lake, until we meet the asphalted road which leads to the Copper open pit. From here we enjoy to let go downhill with the highest speed along the 'Corna' village until we reached 'Abrud'. From here we would buy ice cream and hanging in the historic center. Then the hard part of the trail starts: going uphill on a unpaved road to home, along the 'Selişte' village. On our way we stopped to the 'Țapulului' Lake to swim and refresh a little. From here there is a small uphill until home.</i> We challenge you also to follow this trail and taste the pleasures of our childhood. In 'Gura Corna' you can dine (we recommend 'Laguna' restaurant or 'Detunata').",
+          "textContent": "This is the route of our childhood. <i>We used to take our bikes and go towards the 'Taul Mare' Lake, until we meet the asphalted road which leads to the Copper open pit. From here we enjoy to let go downhill with the highest speed along the 'Corna' village until we reached 'Abrud'. We had a break here, buy an ice cream and rest a little in the historic center. Then the hard part of the trail starts: going uphill on a unpaved road to home, along the 'Selişte' village. On our way we stopped to the 'Țapulului' Lake to swim and refresh a little. From here, there is a small uphill until home.</i> We challenge you also to follow this trail and taste the pleasures of our childhood. In 'Gura Corna' you can dine (we recommend 'Laguna' restaurant or 'Detunata').",
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJc1wCQWDMTkcR4k7C7fXZvWE|place_id:ChIJKYpFTlfMTkcRe8HEyvHBE70|place_id:ChIJB5Fu9y3MTkcRnQ6Q90AjcSI|place_id:ChIJjwvQferNTkcRrWEa7dBF04k|place_id:ChIJd5zxAenNTkcRaPviE9EZQ9o|place_id:ChIJMcYyfAfNTkcRMZeC6fyMAIo",
             "list": [
@@ -114,9 +114,9 @@
       "specificArticles": [
         {
           "title": "Abrud",
-          "textContent": "From 'Abrud' you’re going to reach the unpaved road that will climb you to 'Selişte' and then Rosia Montana. If you have time you can quickly visit the historical center of Abrud (the Catholic Church area). A good piece, of the Transylvania history has been written here in 'Abrud'.",
+          "textContent": "From 'Abrud' you’re going to reach the unpaved road that will climb you to 'Selişte' and then Rosia Montana. If you have time you can quickly visit the historical center of Abrud (the Catholic Church area). A good piece, of the Transylvania history has been written here.",
           "seeAlso": {
-            "text": "More details here(RO)...",
+            "text": "Find out more(RO)...",
             "textOnMouseOver": "Click here...",
             "link": "http://www.primaria-abrud.ro/index.php/ro/orasul/item/98-pagini-de-istorie",
             "openInNewTab": true
@@ -132,7 +132,7 @@
         },
         {
           "title": "Seliște - 'Țapului' Lake",
-          "textContent": "From Abrud go uphill until you get above the town. From here you'll go along an unpaved road to the Seliste village and 'Țapului' lake. From here you go downhill a little bit, until you reach Rosia Montana.",
+          "textContent": "From Abrud go uphill until you get above the town on the 'Baisului' hill and the continue on the unpaved road along the 'Seliste' village and 'Țapului' lake. Have a break because Rosia Montana is pretty close from here.",
           "images": [
             {
               "title": "The road along 'Seliște' village",

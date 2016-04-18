@@ -12,7 +12,7 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Traseul de bicicletă spre poiana cu narcise Negrileasa",
+    "title": "Narcisele din Poiana Negrileasa. Traseu bicicletă",
     "description": "În Mai, o pătura albă de narcise și un miros plăcut pun stapanire pe Poiana Negrileasa aflată în apropierea Roșiei Montane.",
     "displayOnShareImg": "img/recommendations/daffodilMeadow/presentation/displayOnShareImg.jpg"
   },
@@ -22,7 +22,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "<i class='fa fa-info-circle'></i> Detalii",
+      "text": "<i class='fa fa-map-signs'></i> Traseu",
       "sectionId": "details",
       "addLinkInPageHeadline": true
     },
@@ -30,42 +30,13 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "",
-          "textContent": "O excursie la rezervatia naturală Negrileasa în perioada înfloriri narciselor...  e ceva ce nu ve-ți uita niciodată. Când închizi ochii și încerci să îți amintești de Negrileasa, prima dată o să încerci sa îți amintești mirosul narciselor de acolo. O sa îți dai seama că e imposibil. Trebuie sa te reîntorci la Negrileasa pentru a trăi din nou această experiență, să vezi acel deal alb, să simți acel miros, să te bucuri de acestă poiană din Apuseni. <br> Narcisele înfloresc în luna mai și țin toată primăvara. Anual, în Duminica cea mai apropiată de 20 Mai aici are loc sărbătoare narciselor în care localnicii vând bunătăți făcute la ei în gospodărie iar seara se lasă cu petreceri. Drumul până acolo e asfaltat mai puțin ultimii 4km pe care vi recomandăm să îi faceți pe jos întrucât peisajele sunt de poveste. Ca excursia ta să fie si mai tare ia-ți inima în dinți și mergi de la Casa Petri până acolo pe bicicletă. Merită!",
+          "textContent": "Narcisele înfloresc în luna mai și țin toată primăvara. Anual, în Duminica cea mai apropiată de 20 Mai aici are loc sărbătoare narciselor în care localnicii vând bunătăți făcute la ei în gospodărie iar seara se lasă cu petreceri. Drumul până acolo e asfaltat, mai puțin ultimii 4km pe care vi recomandăm să îi faceți pe jos întrucât peisajele sunt de poveste. Îți recomandăm să îți faci curaj și să mergi de la Casa Petri până acolo pe bicicletă. Merită!",
           "seeAlso": {
             "text": "Mai multe detalii aici...",
             "textOnMouseOver": "Click aici...",
             "link": "http://www.muntii-apuseni.eu/news.php?readmore=7",
             "openInNewTab": true
           },
-          "images": [
-            {
-              "title": "Poiana cu Narcise",
-              "description": "Vă rugăm să nu culegeți multe narcise. Odată rupte se ofilesc destul de rapid și își pierd mirosul ... magia lor are efect doar aici, în mediul lor natural. În schimb faceți multe poze cu ele :)",
-              "thumbnailUrl": "img/recommendations/daffodilMeadow/article/thumbnail/1.jpg",
-              "fullSizeUrl": "img/recommendations/daffodilMeadow/article/fullSize/1.jpg"
-            },
-            {
-              "title": "Poiana cu Narcise",
-              "description": "Zona este înconjurată de culmi montane și păduri de conifere. De ai timp poți să te mai aventurezi prin împrejurări",
-              "thumbnailUrl": "img/recommendations/daffodilMeadow/article/thumbnail/2.jpg",
-              "fullSizeUrl": "img/recommendations/daffodilMeadow/article/fullSize/2.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Cum ajung la poiană?",
-      "sectionId": "map",
-      "addLinkInPageHeadline": true
-    },
-    {
-      "type": "articles",
-      "specificArticles": [
-        {
-          "textContent": "",
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJvT6u7RzKTkcR1hUfXNYaqcI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs",
             "list": [
@@ -86,6 +57,54 @@
               }
             ]
           }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-certificate'></i> Poiana",
+      "sectionId": "map",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "O excursie la rezervatia naturală Negrileasa în perioada înfloriri narciselor...  e ceva ce nu ve-ți uita niciodată. Când închizi ochii și încerci să îți amintești de Negrileasa, prima dată o să încerci sa îți amintești mirosul narciselor de acolo. O sa îți dai seama că e imposibil. Trebuie sa te reîntorci la Negrileasa pentru a trăi din nou această experiență, să vezi acel deal alb, să simți acel miros, să te bucuri de acestă poiană din Apuseni.",
+          "seeAlso": {
+            "text": "Mai multe detalii aici...",
+            "textOnMouseOver": "Click aici...",
+            "link": "http://www.muntii-apuseni.eu/news.php?readmore=7",
+            "openInNewTab": true
+          },
+          "images": [
+            {
+              "title": "Poiana cu Narcise",
+              "description": "Nu culegeți multe narcise! Odată rupte se ofilesc destul de rapid și își pierd mirosul ... magia lor are efect doar aici, în mediul lor natural. În schimb faceți multe poze cu ele :)",
+              "thumbnailUrl": "img/recommendations/daffodilMeadow/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/recommendations/daffodilMeadow/article/fullSize/1.jpg"
+            },
+            {
+              "title": "Poiana cu Narcise",
+              "description": "Zona este înconjurată de culmi montane și păduri de conifere. De ai timp poți să te mai aventurezi prin împrejurări",
+              "thumbnailUrl": "img/recommendations/daffodilMeadow/article/thumbnail/2.jpg",
+              "fullSizeUrl": "img/recommendations/daffodilMeadow/article/fullSize/2.jpg"
+            }
+          ]
         }
       ]
     },

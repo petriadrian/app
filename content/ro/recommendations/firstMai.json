@@ -1,14 +1,13 @@
 {
   "presentation": {
     "title": "1 Mai",
-    "headline": "",
     "description": "<b>| Mai |</b> Sunetul chitarii, focul de tabara si traseele ghidate sunt deja o traditie in minivacanta de 1 mai",
     "fullWidthImg": "img/recommendations/firstMai/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/recommendations/firstMai/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "https://vizitatirosiamontana.wordpress.com/2015/02/06/vacanta-1-mai-2015-rosia-montana-pachetul-turistic-245-lei",
-    "textOnMouseOver": "Vezi mai multe detalii",
+    "link": "https://vizitatirosiamontana.wordpress.com",
+    "textOnMouseOver": "Vezi mai multe detalii...",
     "openInNewTab": true
   }
 }
