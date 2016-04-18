@@ -101,19 +101,19 @@
           "placeholder": "Număr de locuri și preț",
           "selectOptions": [
             {
-              "text": "2 locuri - 145lei/noapte"
+              "text": "2 locuri - 130lei/noapte"
             },
             {
-              "text": "3 locuri - 195lei/noapte"
+              "text": "3 locuri - 180lei/noapte"
             },
             {
-              "text": "4 locuri - 245lei/noapte"
+              "text": "4 locuri - 220lei/noapte"
             },
             {
-              "text": "5 locuri - 295lei/noapte"
+              "text": "5 locuri - 270lei/noapte"
             },
             {
-              "text": "6 locuri - 330lei/noapte"
+              "text": "6 locuri - 300lei/noapte"
             }
           ]
         },
@@ -128,10 +128,10 @@
               "text": "1 bicicletă - 55lei/zi"
             },
             {
-              "text": "2 biciclete - 100lei/zi"
+              "text": "2 biciclete - 95lei/zi"
             },
             {
-              "text": "3 biciclete - 140lei/zi"
+              "text": "3 biciclete - 130lei/zi"
             }
           ]
         },
@@ -231,10 +231,10 @@
           "placeholder": "Număr de locuri și preț",
           "selectOptions": [
             {
-              "text": "1 loc - 80lei/noapte"
+              "text": "1 loc - 70lei/noapte"
             },
             {
-              "text": "2 locuri - 130lei/noapte"
+              "text": "2 locuri - 120lei/noapte"
             }
           ]
         },
@@ -249,10 +249,10 @@
               "text": "1 bicicletă - 55lei/zi"
             },
             {
-              "text": "2 biciclete - 100lei/zi"
+              "text": "2 biciclete - 95lei/zi"
             },
             {
-              "text": "3 biciclete - 140lei/zi"
+              "text": "3 biciclete - 130lei/zi"
             }
           ]
         },
@@ -356,10 +356,10 @@
           "placeholder": "Număr de locuri și preț",
           "selectOptions": [
             {
-              "text": "2 locuri - 160lei/noapte"
+              "text": "2 locuri - 140lei/noapte"
             },
             {
-              "text": "3 locuri - 220lei/noapte"
+              "text": "3 locuri - 190lei/noapte"
             }
           ]
         },
@@ -374,10 +374,10 @@
               "text": "1 bicicletă - 55lei/zi"
             },
             {
-              "text": "2 biciclete - 100lei/zi"
+              "text": "2 biciclete - 95lei/zi"
             },
             {
-              "text": "3 biciclete - 140lei/zi"
+              "text": "3 biciclete - 130lei/zi"
             }
           ]
         },

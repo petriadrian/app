@@ -102,19 +102,19 @@
           "placeholder": "Seats and price",
           "selectOptions": [
             {
-              "text": "2 seats - 35€ /night"
+              "text": "2 seats - 30€ /night"
             },
             {
-              "text": "3 seats - 45€ /night"
+              "text": "3 seats - 42€ /night"
             },
             {
-              "text": "4 seats - 55€ /night"
+              "text": "4 seats - 52€ /night"
             },
             {
-              "text": "5 seats - 65€ /night"
+              "text": "5 seats - 62€ /night"
             },
             {
-              "text": "6 seats - 75€ /night"
+              "text": "6 seats - 69€ /night"
             }
           ]
         },
@@ -129,10 +129,10 @@
               "text": "1 bike - 14€/day"
             },
             {
-              "text": "2 bikes - 24€/day"
+              "text": "2 bikes - 22€/day"
             },
             {
-              "text": "3 bikes - 32€/day"
+              "text": "3 bikes - 30€/day"
             }
           ]
         },
@@ -232,10 +232,10 @@
           "placeholder": "Seats and price",
           "selectOptions": [
             {
-              "text": "1 seat - 19€ /night"
+              "text": "1 seat - 17€ /night"
             },
             {
-              "text": "2 seats - 29€ /night"
+              "text": "2 seats - 27€ /night"
             }
           ]
         },
@@ -250,10 +250,10 @@
               "text": "1 bike - 14€/day"
             },
             {
-              "text": "2 bikes - 24€/day"
+              "text": "2 bikes - 22€/day"
             },
             {
-              "text": "3 bikes - 32€/day"
+              "text": "3 bikes - 30€/day"
             }
           ]
         },
@@ -357,10 +357,10 @@
           "required": true,
           "selectOptions": [
             {
-              "text": "2 seats - 35€ /night"
+              "text": "2 seats - 32€ /night"
             },
             {
-              "text": "3 seats - 49€ /night"
+              "text": "3 seats - 44€ /night"
             }
           ]
         },
@@ -375,10 +375,10 @@
               "text": "1 bike - 14€/day"
             },
             {
-              "text": "2 bikes - 24€/day"
+              "text": "2 bikes - 22€/day"
             },
             {
-              "text": "3 bikes - 32€/day"
+              "text": "3 bikes - 30€/day"
             }
           ]
         },
