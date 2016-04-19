@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "We also love to go camping in the mountains when we find a good spot. That's why we prepared in our yard a small camping place, for maximum 4 tents, with <b>bathroom</b> and <b>kitchen</b> access. It is not allowed to smoke inside, listen loud music and fire is allowed only in designated fireplaces. <b>The booking will be confirmed by email</b>."
+          "textContent": "We also love to go camping in the mountains when we find a good spot. That's why we prepared in our yard a small camping place, for maximum 4 tents, with <b>bathroom, kitchen, gazebo and dinning area</b>, access. It is not allowed to smoke inside, listen loud music and fire is allowed only in designated fireplaces. <b>The booking will be confirmed by email</b>."
         }
       ]
     },
@@ -91,32 +91,32 @@
           "type": "selectBox",
           "name": "seats",
           "required": true,
-          "iconFortAwesomeClass": "fa fa-bed fa-fw",
-          "placeholder": "Seats and price",
+          "iconFortAwesomeClass": "fa fa-male fa-fw",
+          "placeholder": "Number of persons and price",
           "selectOptions": [
             {
-              "text": "1 seat - 9€ /night"
+              "text": "1 person - 8€ /night"
             },
             {
-              "text": "2 seats - 15€ /night"
+              "text": "2 persons - 19€ /night"
             },
             {
-              "text": "3 seats - 20€ /night"
+              "text": "3 persons - 20€ /night"
             },
             {
-              "text": "4 seats - 27€ /night"
+              "text": "4 persons - 27€ /night"
             },
             {
-              "text": "5 seats - 32€ /night"
+              "text": "5 persons - 32€ /night"
             },
             {
-              "text": "6 seats - 40€ /night"
+              "text": "6 persons - 40€ /night"
             },
             {
-              "text": "7 seats - 45€ /night"
+              "text": "7 persons - 45€ /night"
             },
             {
-              "text": "8 seats - 50€ /night"
+              "text": "8 persons - 50€ /night"
             }
           ]
         },

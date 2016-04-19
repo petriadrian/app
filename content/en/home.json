@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Discover Rosia Montana - Transylvania",
-    "description": "Stay in an old miner's house from the historical center. Discover the roman galleries, gold mining industry, the heritage buildings, mountains, lakes through the suggested hiking or cycling trails. Rent bikes or tour guides. End the day in the hammock by reading a book from our library.",
+    "description": "Stay in an old miner's house from the historical center. See the hiking/biking trails to discover the roman galleries, gold mining industry, heritage buildings, mountains, lakes. Rent bikes or tour guides. End the day in the hammock by reading a book from our library.",
     "displayOnShareImg": "img/homePage/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -129,7 +129,7 @@
           "page": "en/recommendations/steamTrain"
         },
         {
-          "page": "en/recommendations/daffodilMeadow"
+          "page": "en/activities/trails/daffodilMeadow"
         },
         {
           "page": "en/recommendations/firstMai"

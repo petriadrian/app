@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Descoperă Roșia Montană - Apuseni",
-    "description": "Locuiește într-o fostă casa de mineri din centrul istoric. Descoperă galeriile romane, industria minieră, clădirile de patrimoniu, lacurile și munții prin traseele de drumeție sau ciclism propuse. Rezervă biciclete și ghizi. Încheie ziua în hamac răsfoind o carte din biblioteca noastră.",
+    "description": "Locuiește într-o fostă casa de mineri din centrul istoric. Vezi traseele de drumeție/ciclism prin care descoperi galeriile romane, industria minieră, clădirile de patrimoniu, lacurile și munții. Rezervă biciclete și ghizi. Încheie ziua în hamac răsfoind o carte din biblioteca noastră.",
     "displayOnShareImg": "img/homePage/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -129,7 +129,7 @@
           "page": "ro/recommendations/steamTrain"
         },
         {
-          "page": "ro/recommendations/daffodilMeadow"
+          "page": "ro/activities/trails/daffodilMeadow"
         },
         {
           "page": "ro/recommendations/firstMai"

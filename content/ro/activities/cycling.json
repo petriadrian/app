@@ -1,8 +1,8 @@
 {
   "presentation": {
     "title": "Trasee ciclism",
-    "headline": "Trasee bicicletă - descoperă Roșia Montană",
-    "description": "De la trasee de <b>MTB</b> pe drumuri de țară printre culmi montane și lacuri până la trasee pe asfalt (de cursieră) spre obiectivele turistice. Vezi și <b>închirieri biciclete</b>",
+    "headline": "Trasee de biciletă în Roșia Montană",
+    "description": "De la trasee de <b>MTB</b> pe drumuri de țară printre culmi montane, lacuri și foste zone miniere până la trasee pe asfalt (de cursieră) spre obiective turistice. <b>Rezervări biciclete</b>",
     "fullWidthImg": "img/activities/cycling/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/cycling/presentation/smallBoxImg.jpg"
   },
@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Trasee biciletă - descoperă Roșia Montană",
-    "description": "De la trasee de MTB pe drumuri de țară printre culmi montane, sate și lacuri până la trasee pe asfalt (pentru cursieră) spre obiectivele turistice din zonă. Vezi și închirieri biciclete și trasee ghidate.",
+    "title": "Trasee de biciletă în Roșia Montană",
+    "description": "De la trasee de MTB pe drumuri de țară printre culmi montane, foste zone miniere, sate sau lacuri până la trasee pe asfalt (pentru cursieră) spre obiectivele turistice din zonă. Rezervă cazare, campare, ghizi sau biciclete.",
     "displayOnShareImg": "img/activities/cycling/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -87,7 +87,7 @@
           "page": "ro/activities/trails/vulcan"
         },
         {
-          "page": "ro/recommendations/daffodilMeadow"
+          "page": "en/activities/trails/daffodilMeadow"
         },
         {
           "page": "ro/activities/trails/zlatnaPool"

@@ -1,19 +1,19 @@
 {
   "presentation": {
     "title": "Cycling trails",
-    "headline": "Cycling trails - discover Rosia Montana by bike",
+    "headline": "Cycling trails in Rosia Montana",
     "description": "From <b>MTB</b> trails on unpaved roads along mountain peaks and lakes, to paved trails for touring bikes towards touristic sights. <b>Rent bikes or guided tours<b>",
     "fullWidthImg": "img/activities/cycling/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/cycling/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "textOnMouseOver": "See biking trails...",
+    "textOnMouseOver": "See more...",
     "link": "en/activities/cycling",
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Bike trails - discover Rosia Montana area",
-    "description": "From MTB trails on unpaved roads along mountain peaks and lakes, to paved trails for touring bikes towards touristic sights. Rent bikes or guided tours.",
+    "title": "Cycling trails in Rosia Montana",
+    "description": "From MTB trails on unpaved roads along mountain peaks, lakes, villages or unused mining areas to paved trails for touring bikes towards touristic sights. Rent bikes, guided tours, rooms or camping also.",
     "displayOnShareImg": "img/activities/cycling/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -76,7 +76,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Asphalt trails",
+      "text": "<i class='fa fa-map-signs'></i> Asphalted trails",
       "sectionId": "asphaltTrails",
       "addLinkInPageHeadline": true
     },
@@ -87,7 +87,7 @@
           "page": "en/activities/trails/vulcan"
         },
         {
-          "page": "en/recommendations/daffodilMeadow"
+          "page": "en/activities/trails/daffodilMeadow"
         },
         {
           "page": "en/activities/trails/zlatnaPool"
