@@ -1,7 +1,7 @@
 {
   "presentation": {
     "title": "Vulcan mountain",
-    "headline": "Trail to Vulcan peak",
+    "headline": "The trail to the 'Vulcan' Massive",
     "description": "The winding road along a pine forest and Apuseni villages, up to the Vulcan mountain. <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~5h </i>",
     "fullWidthImg": "img/activities/trails/vulcan/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/vulcan/presentation/smallBoxImg.jpg"
@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Trail to Vulcan peak. For bikes",
-    "description": "The winding road along a pine forest and Apuseni villages, from Rosia Montana to the Vulcan mountain.",
+    "title": "Vulcan Massive. Bike trails Rosia Montana",
+    "description": "Perhaps due to eruption of this volcano we have a rich mineral resources area. See the trail along the Transylvania Mountains and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours ,camping.",
     "displayOnShareImg": "img/activities/trails/vulcan/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "To reach the 'Vulcan' mountain, go from Casa Petri to Gura Rosiei -> Abrud Sat -> Ciuruleasa -> Vulcan mountain. The road is quite spacial because you will go by the 'Abrud' mountains and a pine forest whose smell I'm pretty sure you'll remember long time after. To get to the top of Vulcan, from the asphalted road, you’ll have to go uphill on a unpaved road.",
+          "textContent": "In the picture above you can see how the 'Vulcan' massive looks like from the 'Cârnic' peak (Rosia Montana). Perhaps due to eruption of this volcano we have now a rich mineral resources area. To reach it you will have to go from Casa Petri to Gura Rosiei -> Abrud -> Ciuruleasa -> Vulcan. The road is quite spacial because you will go by the 'Abrud' mountains and a pine forest whose smell I'm pretty sure you'll remember long time after. To get to the top of Vulcan, from the asphalted road, you’ll have to go uphill on a unpaved road.",
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJzU_RaFLQTkcRJzSmd-Hq-ek&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs",
             "list": [

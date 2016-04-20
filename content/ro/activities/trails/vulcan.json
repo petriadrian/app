@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Traseul de bicicletă spre muntele Vulcan",
-    "description": "Descoperiți drumul șerpuit prin Munții Apuseni, de la Roșia Montana până la masivul Vulcan.",
+    "title": "Muntele Vulcan. Trasee bicicletă Roșia Montană",
+    "description": "Probabil datorită erupției acestui vulcan avem o zonă atât de bogata în resurse minerale. Vezi traseul prin Munții Apuseni și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
     "displayOnShareImg": "img/activities/trails/vulcan/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Pentru a ajunge la destinație porniți de la Casa Petri spre Gura Roșiei - Abrud Sat - Ciuruleasa - Muntele Vulcan. Traseul este unul deosebit deoarece ve-ți parcurge Munții Abrudului și o pădure de conifere al cărei miros de brad sigur vă va rămâne ca amintire. Pentru a ajunge în vârf va trebui să urcați pe o poteca de munte, deoarece drumul asfaltat se va termina la poalele muntelui.  ",
+          "textContent": "În poza de mai sus este masivul 'Vulcan' văzut de pe varful 'Cârnic' (Rosia Montana). Probabil datorită erupției acestui vulcan avem acum o zonă atât de bogata în resurse minerale. Pentru a ajunge acolo porniți de la Casa Petri spre Gura Roșiei - Abrud Sat - Ciuruleasa - Vulcan. Traseul este unul deosebit deoarece ve-ți parcurge Munții Abrudului și o pădure de conifere al cărei miros de brad sigur vă va rămâne ca amintire. Pentru a ajunge în vârf va trebui să urcați pe o poteca de munte, deoarece drumul asfaltat se va termina la poalele muntelui.  ",
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJzU_RaFLQTkcRJzSmd-Hq-ek&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs",
             "list": [
