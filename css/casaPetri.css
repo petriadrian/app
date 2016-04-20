@@ -184,6 +184,7 @@ body {
 .banner {
     padding: 1%;
     margin: 20px 0px 0px 0px;
+    background-color: rgb(230, 230, 230);
 }
 
 .banner h1 {

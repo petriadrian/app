@@ -48,12 +48,6 @@ app.run(function ($rootScope, $window, $anchorScroll, $location, $http, localiza
         });
         return finalItems;
     };
-
-    //google analytics
-    $window.ga('create', 'UA-72421107-1', 'auto');
-    $rootScope.$on('$routeChangeSuccess', function(event, toState){
-        $window.ga('send', 'pageview', { page: $location.path() });
-    });
 });
 
 /**
@@ -249,16 +243,3 @@ app.directive('sectionForm', function ($timeout) {
        }
    }
 });
-
-// google analytics
-(function (i, s, o, g, r, a, m) {
-    i['GoogleAnalyticsObject'] = r;
-    i[r] = i[r] || function () {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-    a = s.createElement(o),
-        m = s.getElementsByTagName(o)[0];
-    a.async = 1;
-    a.src = g;
-    m.parentNode.insertBefore(a, m)
-})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
