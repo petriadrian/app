@@ -184,7 +184,7 @@ body {
 .banner {
     padding: 1%;
     margin: 20px 0px 0px 0px;
-    background-color: rgb(230, 230, 230);
+    background-color: #EEE;
 }
 
 .banner h1 {
@@ -232,7 +232,7 @@ footer .row section{
     border: 1px solid white;
 }
 
-.buttonWithMargins{
+.topBottomMargins{
     margin: 2% 0%;
 }
 

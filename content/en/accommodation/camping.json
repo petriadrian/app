@@ -1,8 +1,8 @@
 {
   "presentation": {
     "title": "Camping",
-    "headline": "Love to see the night sky from your tent?",
-    "description": "Safe camping with mountain view and bathroom or kitchen access. <b>Book a camping place</b> in our yard.",
+    "headline": "Sleep under the stars? Camping area",
+    "description": "Safe camping, in our yard with mountain view, hammocks, gazebo, bathroom, kitchen and dinning area access. <br><b>Book camping</b>",
     "fullWidthImg": "img/accommodation/camping/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/camping/presentation/smallBoxImg.jpg"
   },
@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Camping at Rosia Montana",
-    "description": "Safe camping with mountain view and bathroom or kitchen access. Grab your backpack and discover Rosia Montana (roman galleries, mining industry, mountains, lakes, historical buildings). See here the hiking or cycling trails in the area.",
+    "title": "Camping in Rosia Montana, Transylvania",
+    "description": "Safe camping, in our yard with mountain view, bathroom, kitchen, dinning area, gazebo and hammocks. See also the hiking or bike trails from the area. Rent bikes and guided tours to discover more about the roman galleries and mining industry from Rosia Montana, Transylvania - Romania.",
     "displayOnShareImg": "img/accommodation/camping/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "We also love to go camping in the mountains when we find a good spot. That's why we prepared in our yard a small camping place, for maximum 4 tents, with <b>bathroom, kitchen, gazebo and dinning area</b>, access. It is not allowed to smoke inside, listen loud music and fire is allowed only in designated fireplaces. <b>The booking will be confirmed by email</b>."
+          "textContent": "We also love to go camping in the mountains when we find a good spot. That's why we prepared in our yard a small camping place, for maximum 4 tents, with bathroom, kitchen, dinning area, gazebo and hammocks. It is not allowed to smoke inside, listen loud music and fire is allowed only in designated fireplaces. <b>The booking will be confirmed by email</b>."
         }
       ]
     },
@@ -60,7 +60,8 @@
     },
     {
       "type": "form",
-      "title": "campingReservation",
+      "title": "Reservation form",
+      "sendEmailTitle": "campingReservation",
       "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
       "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
       "sendButtonText": "Send",

@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Read & Relax",
     "headline": "Books and cozy spots to read and relax",
-    "description": "After hiking or biking, relax by reading a book in the hammock. See our books and cozy places.",
+    "description": "After hiking or biking, relax by reading a book in the hammock. See our libraries and cozy places around the house.",
     "fullWidthImg": "img/accommodation/booksAndCosy/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/booksAndCosy/presentation/smallBoxImg.jpg"
   },
@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Books and cosy spots at Casa Petri",
-    "description": "After hiking or biking, relax by reading a book in the hammock. See here our books and cozy places from Casa Petri Rosia Montana.",
+    "title": "Books and cosy spots - Casa Petri Rosia Montana",
+    "description": "After hiking or biking, relax in the hammock by reading a book from our library. See here our books and cozy places from the house or garden. You can also book rooms, camping, bikes or guided tours",
     "displayOnShareImg": "img/accommodation/booksAndCosy/presentation/displayOnShareImg.jpg"
   },
   "config": {

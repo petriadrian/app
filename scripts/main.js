@@ -193,7 +193,7 @@ app.directive('sectionForm', function ($timeout) {
            scope.messageType = 'success';
            scope.sendEmailFromForm = function () {
                scope.formLoading = true;
-               scope.formObj.title = scope.section.title;
+               scope.formObj.title = scope.section.sendEmailTitle;
                $.ajax({
                    type: 'POST',
                    url: '/scripts/send_mail.php',

@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Rooms",
     "headline": "Morning coffee in Roșia Montană?",
-    "description": "The house is a heritage building, a mining house, opened now for accommodation. Here you can see or <b>book the rooms</b>.",
+    "description": "Accommodation in a heritage house from the historical center of Roșia Montana, recently renovated with bathrooms and kitchen. <br><b>Book rooms</b>.",
     "fullWidthImg": "img/accommodation/rooms/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/rooms/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Accommodation in Rosia Montana",
-    "description": "Stay in an old mining house from the historical center. Book a room and come to discover Rosia Montana: roman galleries, gold mining industry, mountains, lakes, historical buildings, by the hiking or cycling trails from this website",
+    "description": "Accommodation in a heritage house from the historical center of Roșia Montana, recently renovated with bathrooms and kitchen. See also the hiking and bike trails to discover our area: roman galleries, gold mining industry, heritage buildings, mountains, lakes and many more.",
     "displayOnShareImg": "img/accommodation/rooms/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -66,7 +66,7 @@
     },
     {
       "type": "form",
-      "title": "booksRoomReservation",
+      "sendEmailTitle": "booksRoomReservation",
       "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
       "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
       "sendButtonText": "Send",
@@ -196,7 +196,7 @@
     },
     {
       "type": "form",
-      "title": "littleHouseReservation",
+      "sendEmailTitle": "littleHouseReservation",
       "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
       "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
       "sendButtonText": "Send",
@@ -321,7 +321,7 @@
     },
     {
       "type": "form",
-      "title": "upstairsRoomReservation",
+      "sendEmailTitle": "upstairsRoomReservation",
       "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
       "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
       "sendButtonText": "Send",

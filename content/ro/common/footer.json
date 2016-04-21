@@ -31,7 +31,7 @@
   "weatherLink": "https://www.meteoblue.com/en/weather/widget/daily/ro%c8%99ia-montan%c4%83_romania_668639?days=7&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&pictoicon=1&maxtemperature=1&layout=dark",
   "facebookLink": "https://www.facebook.com/casapetrirosiamontana",
   "form": {
-    "title": "newSuggestion",
+    "sendEmailTitle": "newSuggestion",
     "successMessage": "Vă mulțumim! O să revenim cu un răspuns cât mai repede.",
     "errorMessage": "EROARE! Contactați-ne prin email sau telefon (le găsiți în footer)",
     "sendButtonText": "Trimite",

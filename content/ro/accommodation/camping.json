@@ -1,8 +1,8 @@
 {
   "presentation": {
     "title": "Campare",
-    "headline": "Iubești să vezi cerul înstelat din cort?",
-    "description": "Campare în siguranță cu priveliște spre munte și accees la baie/bucătărie. <b>Rezervă un loc de campare</b> în curtea casei.",
+    "headline": "Cazare la mii de stele. Locuri de campare",
+    "description": "Campează în siguranță, în curtea casei cu priveliște la munte, baie, bucătărie, loc de luat masa, foișor și hamace. <br><b>Rezervă campare</b>",
     "fullWidthImg": "img/accommodation/camping/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/camping/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Cu cortul la Roșia Montană",
-    "description": "Campează în curtea casei Petri. Ai priveliște spre munte și acces la baie sau bucătărie. Fă-ți rucsacul și descoperă Roșia Montană (galeriile romane, industria minieră, centrul vechi, munți, lacuri și alte obiective turistice). Vezi traseele de drumeție sau bicicletă spre atracțiile din zonă.",
+    "description": "Campează în siguranță în curtea casei. Ai acces la baie, bucătărie, loc de luat masa, foișor, hamace și priveliște spre munte. Descoperă zona prin traseele de drumeție și bicicletă de pe site. Poți rezerva biciclete sau traasee ghidate pentru a afla mai multe despre industria minieră sau galeriile romane. Locuri de mers cu cortul în Rosia Montana, Apuseni, Transilvania, Romania.",
     "displayOnShareImg": "img/accommodation/camping/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Și noi, așa ca tine, atunci când mergem la munte căutăm un loc potrivit pentru cort. De aceea am pregătit aici la Roșia Montană, în curtea casei Petri un mic spațiu de campare, pentru maxim 4 corturi, cu acces la <b>baie, bucătărie, terasă, spațiu de luat masa</b>. Este interzis fumatul în interior, ascultatul de muzică la volum ridicat sau făcutul focului în spații neamenajate. <b>Rezervarea va fi confirmată prin email.</b>"
+          "textContent": "Și noi, așa ca tine, atunci când mergem la munte căutăm un loc potrivit pentru cort. De aceea am pregătit aici la Roșia Montană, în curtea casei un mic spațiu de campare, pentru maxim 4 corturi, cu acces la baie, bucătărie, loc de luat masa, foișor și hamace. Este interzis fumatul în interior, ascultatul de muzică la volum ridicat sau făcutul focului în spații neamenajate. <b>Rezervarea va fi confirmată prin email.</b>"
         }
       ]
     },
@@ -60,7 +60,8 @@
     },
     {
       "type": "form",
-      "title": "campingReservation",
+      "title": "Formular rezervări:",
+      "sendEmailTitle": "campingReservation",
       "successMessage": "Vă mulțumim! O să revenim cu un răspuns de confirmare cât mai repede.",
       "errorMessage": "EROARE! Contactați-ne prin email sau telefon (le găsiți în footer)",
       "sendButtonText": "Trimite",

@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Camere",
     "headline": "O cafea într-o dimineață la Roșia Montană?",
-    "description": "Vezi interiorul aceastei vechi case de mineri din centrul istoric Roșia Montană. Aici se pot face <b>rezervări camere</b>.",
+    "description": "Cazare într-o fostă locuință de mineri din centrul istoric Roșia Montană, recent renovată și introduse băi și bucătărie. <br><b>Rezervări camere</b>.",
     "fullWidthImg": "img/accommodation/rooms/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/rooms/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Cazare in Rosia Montana",
-    "description": "Vezi și rezervă camere din această casă de mineri din centrul istoric. Descoperă Roșia Montană, galeriile romane, industria minieră, centrul vechi, munții, lacurile, prin traseele de drumeție sau bicicletă de pe site.",
+    "description": "Cazare într-o fostă locuință de mineri din centrul istoric, recent renovată și introduse băi și bucătărie. Vezi și trasee de drumeție sau bicicletă în zonă pentru a descoperi galeriile romane, industria minieră, centrul vechi, munții, lacurile și multe altele",
     "displayOnShareImg": "img/accommodation/rooms/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -65,7 +65,7 @@
     },
     {
       "type": "form",
-      "title": "booksRoomReservation",
+      "sendEmailTitle": "booksRoomReservation",
       "successMessage": "Vă mulțumim! O să revenim cu un răspuns de confirmare cât mai repede.",
       "errorMessage": "EROARE! Contactați-ne prin email sau telefon (le găsiți în footer)",
       "sendButtonText": "Trimite",
@@ -195,7 +195,7 @@
     },
     {
       "type": "form",
-      "title": "littleHouseReservation",
+      "sendEmailTitle": "littleHouseReservation",
       "successMessage": "Vă mulțumim! O să revenim cu un răspuns de confirmare cât mai repede.",
       "errorMessage": "EROARE! Contactați-ne prin email sau telefon (le găsiți în footer)",
       "sendButtonText": "Trimite",
@@ -320,7 +320,7 @@
     },
     {
       "type": "form",
-      "title": "upstairsRoomReservation",
+      "sendEmailTitle": "upstairsRoomReservation",
       "sendButtonText": "Trimite",
       "successMessage": "Vă mulțumim! O să revenim cu un răspuns de confirmare cât mai repede.",
       "errorMessage": "EROARE! Contactați-ne prin email sau telefon (le găsiți în footer)",
