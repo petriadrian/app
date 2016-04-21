@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Daffodils Meadow. Bike trails Rosia Montana",
-    "description": "A white blanket and an unforgettable smell covers in May the Daffodils meadow (Negrileasa). See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours ,camping.",
+    "description": "A white blanket and an unforgettable smell covers in May the Daffodils meadow 'Negrileasa'. See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
     "displayOnShareImg": "img/activities/trails/daffodilMeadow/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -112,6 +112,18 @@
           ]
         }
       ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> I finished the trail! Start the next one:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "presentationOfOtherPages",
+      "banner": {
+        "page": "en/activities/trails/detunata"
+      }
     },
     {
       "type": "title",

@@ -184,7 +184,8 @@ body {
 .banner {
     padding: 1%;
     margin: 20px 0px 0px 0px;
-    background-color: #EEE;
+    background-color: #E6E6E6;
+    overflow: hidden;
 }
 
 .banner h1 {

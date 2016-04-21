@@ -2,18 +2,18 @@
   "presentation": {
     "title": "Top 10 atracții",
     "headline": "Top 10 atracții de vizitat în Roșia Montană",
-    "description": "Traseul principalelor atracții: centrul istoric, lacurile, galeriile romane. <i class='fa fa-male'> ~6h </i>",
+    "description": "Traseul principalelor atracții (centrul istoric, lacurile, galeriile romane, monumentele de patrimoniu) <i class='fa fa-male'> ~6h </i>",
     "fullWidthImg": "img/activities/trails/topAttractions/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/topAttractions/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "ro/activities/trails/topAttractions",
-    "textOnMouseOver": "Vezi mai multe detalii",
+    "textOnMouseOver": "Vezi mai mult...",
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Top 10 atracții de vizitat în Roșia Montană",
-    "description": "Traseul principalelor atracții: centrul istoric, lacurile, galeriile romane.",
+    "title": "Top 10 atracții. Trasee drumeție Roșia Montană",
+    "description": "Traseul principalelor atracții din Roșia Montană (centrul istoric, lacurile, galeriile romane, monumentele de patrimoniu). Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
     "displayOnShareImg": "img/activities/trails/topAttractions/presentation/displayOnShareImg.jpg"
   },
   "config": {

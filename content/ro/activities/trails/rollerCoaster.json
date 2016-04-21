@@ -1,19 +1,19 @@
 {
   "presentation": {
     "title": "Roller Coaster",
-    "headline": "Traseul roller coaster - Corna - Seliște",
-    "description": "Coborâș plin de adrenalină pe serpentinele vechiului drum al carierei și urcuș înapoi pe un drum de țară. <i class='fa fa-bicycle'> ~6h </i>",
+    "headline": "Traseul 'roller coaster'. Pentru biciclete",
+    "description": "Coborâș plin de adrenalină pe serpentinele vechiului drum al carierei de cupru, cu întoarcere pe un drum de țară. <i class='fa fa-bicycle'> ~6h </i>",
     "fullWidthImg": "img/activities/trails/rollerCoaster/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/rollerCoaster/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "ro/activities/trails/rollerCoaster",
-    "textOnMouseOver": "Vezi traseul roller coaster",
+    "textOnMouseOver": "Vezi traseul...",
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Traseul roller coaster. Pentru biciclete",
-    "description": "Coborâș plin de adrenalină pe serpentinele vechiului drum al carierei de Cupru prin satul Corna și urcuș înapoi pe un drum de țară prin satul Seliște.",
+    "title": "'Roller coaster'. Trasee de bicicletă Roșia Montană",
+    "description": "Coborâș plin de adrenalină pe serpentinele vechiului drum al carierei de cupru, cu întoarcere pe un drum de țară prin satul Seliște. Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
     "displayOnShareImg": "img/activities/trails/rollerCoaster/presentation/displayOnShareImg.jpg"
   },
   "config": {

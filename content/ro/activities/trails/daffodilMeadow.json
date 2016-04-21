@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Poiana cu Narcise. Trasee bicicletă Roșia Montană",
-    "description": "O pătura albă și un miros plăcut acoperă în Mai poiana cu narcise Negrileasa. Vezi traseul prin Munții Apuseni și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "title": "Poiana cu Narcise. Trasee de bicicletă Roșia Montană",
+    "description": "O pătura albă și un miros plăcut acoperă în Mai poiana cu narcise Negrileasa, Bucium. Vezi traseul prin Munții Apuseni și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
     "displayOnShareImg": "img/activities/trails/daffodilMeadow/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -112,6 +112,18 @@
           ]
         }
       ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "presentationOfOtherPages",
+      "banner": {
+        "page": "ro/activities/trails/detunata"
+      }
     },
     {
       "type": "title",

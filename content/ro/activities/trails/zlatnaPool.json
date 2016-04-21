@@ -1,19 +1,19 @@
 {
   "presentation": {
     "title": "Ștrandul Zlatna",
-    "headline": "Traseul spre Ștrandul Zlatna",
-    "description": "Nu e doar un traseu spre ștrand pentru că pe drum veți transpira urcând 'Dealul Mare'. Dar destinația e răcoritoare. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~7h </i>",
+    "headline": "Ștrandul Zlatna. Traseu bicicletă",
+    "description": "Un traseu pentru biciclete de asfalt pe culmea 'Dealul Mare', spre ștrandul Zlatna. O să transpiri la urcarea pe serpentine, dar destinația e răcoritoare. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~7h </i>",
     "fullWidthImg": "img/activities/trails/zlatnaPool/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/zlatnaPool/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "ro/activities/trails/zlatnaPool",
-    "textOnMouseOver": "Vezi traseul spre Ștrandul Zlatna",
+    "textOnMouseOver": "Vezi traseul...",
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Traseul de bicicletă spre Ștrandul Zlatna.",
-    "description": "Nu e doar un simplu traseu de la Roșia Montană spre ștrandul Zlatna deoarece pe drum veți transpira urcând 'Dealul Mare'. Dar destinația e răcoritoare.",
+    "title": "Ștrandul Zlatna. Trasee de bicicletă Roșia Montană",
+    "description": "Un traseu pentru biciclete de asfalt pe culmea 'Dealul Mare', spre ștrandul Zlatna. O să transpiri la urcarea pe serpentine, dar destinația e răcoritoare. Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
     "displayOnShareImg": "img/activities/trails/zlatnaPool/presentation/displayOnShareImg.jpg"
   },
   "config": {

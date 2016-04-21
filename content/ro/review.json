@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Reviews",
     "headline": "Crestem impreuna cu cei ce ne trec pragul",
-    "description": "Vezi experiențele și impresiile celor care ne-au vizitat. O parte dintre ei pot fi contactați",
+    "description": "Oameni faini ne-au trecut pragul. Vezi aici experiențele și impresiile lor. O parte dintre ei pot fi contactați",
     "fullWidthImg": "img/reviews/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/reviews/presentation/smallBoxImg.jpg"
   },
@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Casa Petri Rosia Montana",
-    "description": "Vezi experiențele și impresiile celor care ne-au vizitat. Descoperă și tu Roșia Montană: galeriile romane, industria minieră, clădirile de patrimoniu, lacurile și munții din zonă prin traseele de drumeție sau bicicletă propuse pe site.",
+    "title": "Review-uri Casa Petri Rosia Montana",
+    "description": "Oameni faini, de la care am avut multe de învățat, ne-au trecut pragul. Vezi aici experiențele și impresiile lor. Unii pot fi chiar contactați. Descoperă și tu Roșia Montană prin traseele de drumeție sau bicicletă de pe site. Rezervă camere, biciclete, trasee ghidate, campare.",
     "displayOnShareImg": "img/reviews/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": " Mulți oameni faini ne-au trecut pragul de la care am avut multe de învățat. Impresiile sunt luate din caietul pentru review-uri al Casei Petri pe care îl găsiți prin camere. Vă așteptăm să îl răsfoiți și să ne lăsați și voi o impresie."
+          "textContent": "Oameni faini, de la care am avut multe de învățat, ne-au trecut pragul. Impresiile sunt luate din caietul pentru review-uri al Casei Petri pe care îl găsiți prin camere. Vă așteptăm să îl răsfoiți și să ne lăsați și voi o impresie."
         }
       ]
     },

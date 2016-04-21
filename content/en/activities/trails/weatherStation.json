@@ -1,8 +1,8 @@
 {
   "presentation": {
     "title": "Weather Station",
-    "headline": "Discover the country side trail to the Weather Station",
-    "description": "Visit the Țarina land, the mountain lakes and enjoy the whole landscape from Rotundu Peak. <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
+    "headline": "Discover the trail to the Weather Station",
+    "description": "Visit the 'Țarina' land, the mountain lakes and enjoy the landscape, above the village, from the 'Rotundu' Peak (at the Weather Station). <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
     "fullWidthImg": "img/activities/trails/weatherStation/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/weatherStation/presentation/smallBoxImg.jpg"
   },
@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Discover the country side trail to the Weather Station",
-    "description": "Visit the Țarina land, the mountain lakes and enjoy the whole landscape from Rotundu Peak.",
+    "title": "Weather Station. Hiking trails Rosia Montana",
+    "description": "Visit the 'Țarina' land, the mountain lakes and enjoy the landscape, above the village, from the 'Rotundu' Peak (at the Weather Station). See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
     "displayOnShareImg": "img/activities/trails/weatherStation/presentation/displayOnShareImg.jpg"
   },
   "config": {

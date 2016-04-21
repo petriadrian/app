@@ -1,19 +1,19 @@
 {
   "presentation": {
-    "title": "4 lakes",
-    "headline": "Discover the trail along the 4 lakes",
-    "description": "The tour of the village among lakes, hills and mountain villages. <i class='fa fa-male'> ~6h </i> | <i class='fa fa-bicycle'> ~4h </i>",
+    "title": "Four lakes",
+    "headline": "Discover the trail along the four lakes",
+    "description": "A trail around the village, on an unpaved road along 4 lakes: Țarina, Tăul Mare, Corna, Brazi. <i class='fa fa-male'> ~6h </i> | <i class='fa fa-bicycle'> ~4h </i>",
     "fullWidthImg": "img/activities/trails/fourLakes/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/fourLakes/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "en/activities/trails/fourLakes",
-    "textOnMouseOver": "See the 4 lakes trail",
+    "textOnMouseOver": "See the trail...",
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Discover the trail along the 4 lakes",
-    "description": "The tour of the village among the Tarina, Taul Mare, Corna and Brazi lakes",
+    "title": "Four Lakes. Bike trails Rosia Montana",
+    "description": "A trail around the village, on an unpaved road along 4 lakes (Țarina, Tăul Mare, Corna, Brazi) and 2 peaks (Rotundu și Șulei). See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
     "displayOnShareImg": "img/activities/trails/fourLakes/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "This is the longer version of the 'Weather Station' trail. Start from Casa Petri and head through the 'Țarina' land, along the 'Țarini' lake until you reach the the Weather Station and 'Rotundu' Peak (the highest point from this trail). From here, on the left, you can see 'Tăul Mare' lake, which is our next destination. Head towards it and then climb up on the Lety and Șulei peaks. Take a break, enjoy the view and then continue to the 'Corna' Lake. Then return to the village by the 'Piatra Corbului' (Raven’s Stone) and 'Brazi' Lake.",
+          "textContent": "This is the longer version of the 'Weather Station' trail. Start from Casa Petri and head through the 'Țarina' land, along the 'Țarini' lake until you reach the the Weather Station and 'Rotundu' Peak (the highest point from this trail). From here, on the left, you can see 'Tăul Mare' lake, which is our next destination. Head towards it and then climb on Șulei Peak. Have a break, enjoy the view and then continue to the 'Corna' Lake. Return in the village by the 'Piatra Corbului' (Raven Stone) and 'Brazi' Lake.",
           "seeAlso": {
             "text": "You can find here the GPS data of the trail...",
             "textOnMouseOver": "Click here...",

@@ -1,19 +1,19 @@
 {
   "presentation": {
-    "title": "Scarisoara Glacier",
+    "title": "Scărișoara Glacier",
     "headline": "The trail to the 'Scărișoara' glacier cave",
-    "description": "A spectacular trail through the Apuseni Mountains, to one of the largest underground glacier in the world. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~9h </i>",
+    "description": "A trail beside the Arieș river along the 'Moților' Land, Apuseni Mountains, to one of the largest underground glacier in the world, Scărișoara. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~9h </i>",
     "fullWidthImg": "img/activities/trails/scarisoara/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/scarisoara/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "en/activities/trails/scarisoara",
-    "textOnMouseOver": "See the Scărișoara trail...",
+    "textOnMouseOver": "See the trail...",
     "openInNewTab": false
   },
   "metaData": {
-    "title": "The 'Scărișoara' glacier cave. Bikes trail",
-    "description": "A spectacular trail through the 'Apuseni' Mountains, from Rosia Montana to one of the largest underground glacier in the world.",
+    "title": "'Scărișoara' Glacier",
+    "description": "A trail beside the Arieș river along the Transylvania Mountains, to one of the largest underground glacier in the world, Scărișoara. See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
     "displayOnShareImg": "img/activities/trails/scarisoara/presentation/displayOnShareImg.jpg"
   },
   "config": {

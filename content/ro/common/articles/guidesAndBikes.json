@@ -1,8 +1,8 @@
 [
   {
     "id": "details",
-    "hideAreaUnderButton": "Rezervă ghizi sau biciclete &nbsp&nbsp<i class='fa fa-caret-down'></i>",
-    "textContent": "Află mai multe despre zonă, obiceiuri, istorie sau industria minieră din Roșia Montana. Poți să închiriezi biciclete, tururi ghidate cu bicicleta ori pe jos sau poți avea o întâlnire cu localnici în curtea casei. Rezervările pot fi făcute de pe pagina de cazare la rezervarea unei camere sau campare. Când o să sosești o să îl întâlnești pe ghidul nostru împreună cu care o să stabiliți traseele.",
+    "hideAreaUnderButton": "Rezervă biciclete sau ghizi &nbsp&nbsp<i class='fa fa-caret-down'></i>",
+    "textContent": "Află mai multe despre zonă, obiceiuri, istorie sau industria minieră din Roșia Montană. Închiriază biciclete, tururi ghidate cu bicicleta ori pe jos sau poți avea o întâlnire cu localnici în curtea casei. Rezervările se fac în momentul rezervări unei camere de pe pagina de cazare. Apoi, la sosire, o să îl întâlniți pe ghidul nostru împreună cu care stabiliți traseele.",
     "seeAlso": {
       "text": "Deschide pagina de cazare...",
       "textOnMouseOver": "Click aici...",

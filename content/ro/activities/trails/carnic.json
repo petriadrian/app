@@ -2,18 +2,18 @@
   "presentation": {
     "title": "Vârful Cârnic",
     "headline": "Drumeție pe muntele de aur - traseul Cârnic",
-    "description": "De pe ulițele satului ajungem la Tăul Brazi și apoi urcăm pe masivul Cârnic la Piatra Corbului și la Sfinx. <i class='fa fa-male'> ~3h </i>",
+    "description": "Din centrul istoric urcăm la Tăul Brazi și apoi pe masivul Cârnic la Sfinx și Piatra Corbului (rezervație naturală). <i class='fa fa-male'> ~3h </i>",
     "fullWidthImg": "img/activities/trails/carnic/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/carnic/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "ro/activities/trails/carnic",
-    "textOnMouseOver": "Vezi traseul Muntelui Cârnic",
+    "textOnMouseOver": "Vezi traseul...",
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Traseul Cârnic - drumeție pe muntele de aur",
-    "description": "De pe ulițele satului ajungem la Tăul Brazi și apoi urcăm pe masivul Cârnic la Piatra Corbului și la Sfinx.",
+    "title": "Masivul Cârnic. Trasee drumeție Roșia Montană",
+    "description": "Pornim din centrul istoric spre Tăul Brazi și Anghel, apoi urcăm pe masivul Cârnic la Sfinx și la Piatra Corbului (rezervație naturală). Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
     "displayOnShareImg": "img/activities/trails/carnic/presentation/displayOnShareImg.jpg"
   },
   "config": {

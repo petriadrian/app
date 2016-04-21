@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Casa Petri Rosia Montana",
-    "description": "See the experiences and reviews from people who visited us. Discover Rosia Montana (mining industry, roman galleries, mountains, lakes or the historical buildings through the hiking or cycling trails from our website.",
+    "title": "Reviews Casa Petri Rosia Montana",
+    "description": "See the experiences and reviews from people who visited us. Some of them can be even contacted. You should also discover Rosia Montana through the hiking and bike trails which can be found on our website. Book rooms, bikes, guided tours or camping",
     "displayOnShareImg": "img/reviews/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Many interesting and beautiful peoples had visited us. We had, and still have, a lot to learn from you and from them and how to adapt to yours/theirs needs. You can find the reviews in our reviews book at Casa Petri. We are waiting for you to look through it and to write also your review."
+          "textContent": "Interesting and beautiful peoples had visited us. We had, and still have, a lot to learn from you and from them and how to adapt to yours/theirs needs. You can find the reviews in our reviews book at Casa Petri. We are waiting for you to look through it and to write also your review."
         }
       ]
     },

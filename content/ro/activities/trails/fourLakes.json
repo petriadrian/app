@@ -1,19 +1,19 @@
 {
   "presentation": {
-    "title": "4 lacuri",
-    "headline": "Descoperă traseul celor 4 lacuri",
-    "description": "Turul localității pe un drum de țară printre lacuri, dealuri și mici sate de munte. <i class='fa fa-male'> ~6h </i> | <i class='fa fa-bicycle'> ~4h </i>",
+    "title": "Patru lacuri",
+    "headline": "Descoperă traseul celor patru lacuri",
+    "description": "Traseu pe un drum de țară, în jurul satului care leagă 4 lacuri: Țarina, Tăul Mare, Corna, Brazi <i class='fa fa-male'> ~6h </i> | <i class='fa fa-bicycle'> ~4h </i>",
     "fullWidthImg": "img/activities/trails/fourLakes/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/fourLakes/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "ro/activities/trails/fourLakes",
-    "textOnMouseOver": "Vezi traseul celor 4 lacuri",
+    "textOnMouseOver": "Vezi traseul...",
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Descoperă traseul celor 4 lacuri",
-    "description": "Turul localității pe un drum de țară printre lacuri, dealuri și mici sate de munte.",
+    "title": "Patru lacuri. Trasee de bicicletă Roșia Montană",
+    "description": "Traseu pe un drum de țară, în jurul satului care leagă 4 lacuri (Țarina, Tăul Mare, Corna, Brazi) și 2 culmi montane (Rotundu și Șulei). Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
     "displayOnShareImg": "img/activities/trails/fourLakes/presentation/displayOnShareImg.jpg"
   },
   "config": {
