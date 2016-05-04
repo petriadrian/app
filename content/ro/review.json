@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Oameni faini, de la care am avut multe de învățat, ne-au trecut pragul. Impresiile sunt luate din caietul pentru review-uri al Casei Petri pe care îl găsiți prin camere. Vă așteptăm să îl răsfoiți și să ne lăsați și voi o impresie."
+          "textContent": "Oameni faini, de la care am avut multe de învățat, ne-au trecut pragul. Impresiile sunt luate din caietul pentru review-uri al Casei Petri pe care îl găsiți prin camere. Vă așteptă să îl răsfoiți și să îl completați și voi."
         }
       ]
     },
@@ -48,6 +48,15 @@
             },
             {
               "id": "6"
+            },
+            {
+              "id": "11"
+            },
+            {
+              "id": "12"
+            },
+            {
+              "id": "13"
             },
             {
               "id": "3"

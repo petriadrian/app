@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Narcisele înfloresc în luna mai și țin toată primăvara. Anual, în Duminica cea mai apropiată de 20 Mai aici are loc sărbătoare narciselor în care localnicii vând bunătăți făcute la ei în gospodărie iar seara se lasă cu petreceri. Chiar dacă nu e luna Mai, drumul până aici e superb și merită făcut indiferent de perioadă. Traseul arătat pe harta de mai jos este pentru biciclete de asfalt sau mașini/moto deoarece e asfaltat (mai puțin ultimii 3km pe care recomandăm să îi faceți pe jos întrucât peisajele sunt de poveste). ",
+          "textContent": "Narcisele înfloresc în luna mai și țin toată primăvara. Anual, în Duminica cea mai apropiată de 20 Mai aici are loc sărbătoare narciselor în care localnicii vând bunătăți făcute la ei în gospodărie iar seara se lasă cu petreceri. Chiar dacă nu e luna Mai, drumul până aici e superb și merită făcut indiferent de perioadă. Traseul arătat pe harta de mai jos este pentru biciclete de asfalt sau mașini/moto deoarece e asfaltat (mai puțin ultimii 3km pe care recomandăm să îi faceți pe jos întrucât peisajele sunt de poveste). <b>Indicațiile de mai jos reprezintă durata și timpul dus-întors.</b>",
           "seeAlso": {
             "text": "Vezi aici și <b>traseul de MTB sau drumeție</b> (e mai scurt și pe drum de țară)...",
             "textOnMouseOver": "Click aici...",
@@ -38,7 +38,7 @@
             "openInNewTab": true
           },
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJvT6u7RzKTkcR1hUfXNYaqcI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJvT6u7RzKTkcR1hUfXNYaqcI",
             "list": [
               {
                 "textOnMouseOver": "lungime dus-întors",

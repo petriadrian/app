@@ -1,8 +1,8 @@
 {
   "presentation": {
-    "title": "Cârnic peak",
+    "title": "Cârnic Mountain",
     "headline": "Hike on the golden mountain - Cârnic trail",
-    "description": "From village climb to the Brazi and Anghel Lakes and then on the top of Cârnic, to the Raven Stone and Sfinx. <i class='fa fa-male'> ~3h </i>",
+    "description": "From village climb to the Brazi and Anghel Lakes and then on the top of Cârnic, to the Raven Stone and Sfinx. <i class='fa fa-male'> ~3h </i> | <i class='fa fa-bicycle'> ~2h </i>",
     "fullWidthImg": "img/activities/trails/carnic/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/carnic/presentation/smallBoxImg.jpg"
   },
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "From the Casa Petri yard you will notice the view to the 'Cârnic' mountain. It’s a mountain of gold, from all points of views, because it hides over 200 tons of gold, but also over 120km of unique Roman galleries (some Antiques). On top of the mountain you will notice a horse-shaped rock, with a cross on top of it. This is the Sphinx or 'Căluțul', our main objective for this trail. Head towards 'Brazi' Lake and 'Platoul Cârnic' (Cârnic Plateau) and then climb through the pine forest to the top of the mountain.",
+          "textContent": "From the Casa Petri yard you will notice the view to the 'Cârnic' mountain. It’s a mountain of gold, from all points of views, because it hides over 200 tons of gold, but also over 120km of unique Roman galleries (some Antiques). On top of the mountain you will notice a horse-shaped rock, with a cross on top of it. This is the Sphinx or 'Căluțul', our main objective for this trail. Head towards 'Brazi' Lake and 'Platoul Cârnic' (Cârnic Plateau) and then climb through the pine forest to the top of the mountain at the Raven Stone and Sphinx. Return back by the Piatra Despicată and Cetate open pit. You can't climb by bike on the Raven Stone or Sphinx.",
           "seeAlso": {
             "text": "You can find here the GPS data of the trail...",
             "textOnMouseOver": "Click here...",
@@ -38,7 +38,7 @@
             "openInNewTab": true
           },
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJYfZ-m-DMTkcRiccAioKsyvo|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q|place_id:ChIJvc6yG-TMTkcRwUw0D4ybV38|place_id:ChIJ3xPsYeXMTkcR-i2Sq02cmlM",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJYfZ-m-DMTkcRiccAioKsyvo|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q|place_id:ChIJvc6yG-TMTkcRwUw0D4ybV38|place_id:ChIJ3xPsYeXMTkcR-i2Sq02cmlM|place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk|place_id:ChIJQ-Yfu_zMTkcRytPpBV-ZsFM|place_id:ChIJIZFsev3MTkcRgPGXF8Plk4Y",
             "list": [
               {
                 "textOnMouseOver": "round trip length",
@@ -49,6 +49,11 @@
                 "textOnMouseOver": "walking duration of the round trip",
                 "text": "~3h",
                 "iconFortAwesomeClass": "fa fa-male"
+              },
+              {
+                "textOnMouseOver": "cycling duration of the round trip",
+                "text": "~2h",
+                "iconFortAwesomeClass": "fa fa-bicycle"
               },
               {
                 "textOnMouseOver": "difficulty",

@@ -1,8 +1,8 @@
 {
   "presentation": {
     "title": "Stația Meteo",
-    "headline": "Descoperă traseul drumului de țară spre Stația Meteo",
-    "description": "Vizităm plaiurile Țarinei, lacuri de munte și priveliștea întregului ținut de pe Vârful Rotundu (la Stația Meteo). <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
+    "headline": "Traseul spre Stația Meteo",
+    "description": "Vizităm plaiurile Țarinei, lacurile de munte și priveliștea întregului ținut de pe Vârful Rotundu (la Stația Meteo). <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
     "fullWidthImg": "img/activities/trails/weatherStation/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/weatherStation/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Stația Meteo. Trasee drumeție Roșia Montană",
-    "description": "Vizităm plaiurile Țarinei, lacuri de munte și priveliștea întregului ținut de pe Vârful Rotundu (la Stația Meteo). Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "description": "Vizităm plaiurile Țarinei, lacurile de munte și priveliștea întregului ținut de pe Vârful Rotundu (la Stația Meteo). Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
     "displayOnShareImg": "img/activities/trails/weatherStation/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Acesta este unul dintre cele mai pitorești trasee care te vor plimba prin locul nostru preferat - Țarina. Aici sunt terenurile de pământ pe care roșienii le dețin aproape de centrul comunei, unde își cresc animalele sau culturile de legume. Traseul vă va duce pe la Tăul Țarinii și apoi până la Stația Meteo de unde vă promitem o priveliște nemaiîntâlnită. A doua parte a traseului vă va coborâ pe la Tăul Mare și chiar înainte de a intra în centrul istoric mai facem un popas la Galeria Văidoaia și o casă veche cu totul specială.",
+          "textContent": "Acesta este unul dintre cele mai pitorești trasee care te vor plimba prin locul nostru preferat - Țarina. Aici sunt proprietățile pe care roșienii le dețin aproape de centrul comunei, unde își cresc animalele sau culturile de legume. Traseul vă va duce pe la Tăul Țarinii și apoi până la Stația Meteo de unde vă promitem o priveliște nemaiîntâlnită. În a doua parte a traseului veți coborî pe la Tăul Mare, iar înainte de a intra în centru istoric mai puteți face un popas la Galeria Văidoaia și la o casă veche cu totul specială.",
           "seeAlso": {
             "text": "Datele GPS ale traseului le găsiți aici...",
             "textOnMouseOver": "Click aici...",

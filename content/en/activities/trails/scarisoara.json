@@ -30,9 +30,9 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Start from Casa Petri and head towards the 'Câmpeni' town - the capital of 'Moților' Land. From here continue the road beside the 'Arieș' river, so whenever you want you can have a break and refresh with cold water from the river or to eat at a guest houses. Go along the 'Albac' village and turn right in 'Gârda', on a narrow, asphalted road that will take you up in the mountain to the Glacier.",
+          "textContent": "Start from Casa Petri and head towards the 'Câmpeni' town - the capital of 'Moților' Land. From here continue the road beside the 'Arieș' river, so whenever you want you can have a break and refresh with cold water from the river or to eat at a guest houses. Go along the 'Albac' village and turn right in 'Gârda', on a narrow, asphalted road that will take you up in the mountain to the Glacier. <b>The below indications represents the round trip length and time.</b>",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJX0JNIW_RSEcR1vLt5txsNTw&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJR3EQGOAsSUcR5LmrbHY10WY",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJR3EQGOAsSUcR5LmrbHY10WY|place_id:ChIJX0JNIW_RSEcR1vLt5txsNTw",
             "list": [
               {
                 "textOnMouseOver": "round trip length",

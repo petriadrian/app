@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Hiking trails",
     "headline": "Hiking trails - the attractions of Rosia Montana",
-    "description": "The historical center, roman galleries, mining areas, heritage buildings, lakes and mountains can be seen through these hiking trails. <b>Book guided tours</b> also",
+    "description": "Includes the historical center, roman galleries, mining areas, heritage buildings, lakes and mountains from our area. <b>Book guided tours</b> also.",
     "fullWidthImg": "img/activities/hiking/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/hiking/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Hiking trails - discover Rosia Montana",
-    "description": "The historical center, roman galleries, mining areas, churches, heritage buildings, lakes and the mountains from the area can be seen through these hiking trails. You can also book guided tours, rooms, bikes, camping. Rosia Montana, Apuseni Mountains, Transylvania, Romania.",
+    "description": "Includes the historical center, roman galleries, mining areas, heritage buildings, lakes and mountains from our area. You can also book guided tours, rooms, bikes, camping. Rosia Montana, Apuseni Mountains, Transylvania, Romania.",
     "displayOnShareImg": "img/activities/hiking/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Our village is surrounded by mountains, lakes, heritage buildings, ancient roman galleries and mining industry. So, if you come to Roșia Montana, don't visit just the museum and the local store, because the area has much more to offer. Check the trails below and find the ones you like, based on the touristic attractions you would like to see. The maps of the trails are made with <b>google maps</b>, so you can zoom in, see them in satellite mode or access them from any device. Under each trail you'll find indications estimated by us (<b>round trip distance</b>, duration). The indications within the map are being estimated by google."
+          "textContent": "Our village is surrounded by mountains, lakes, heritage buildings, ancient roman galleries and mining industry. So, if you come to Roșia Montana, don't visit just the museum and the local store, because the area has much more to offer. Check the trails below and find the ones you like, based on the touristic attractions you would like to see. The maps of the trails are made with <b>google maps</b>, so you can zoom in, see them in satellite mode or access them from any device. For each trail you'll find indications estimated by us (<b>round trip distance and time</b>). The indications within the map are provided by google. For most of the trails we added also links from where you can download de GPS data."
         }
       ]
     },

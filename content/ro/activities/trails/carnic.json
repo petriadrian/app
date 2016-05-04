@@ -1,8 +1,8 @@
 {
   "presentation": {
-    "title": "Vârful Cârnic",
+    "title": "Muntele Cârnic",
     "headline": "Drumeție pe muntele de aur - traseul Cârnic",
-    "description": "Din centrul istoric urcăm la Tăul Brazi și apoi pe masivul Cârnic la Sfinx și Piatra Corbului (rezervație naturală). <i class='fa fa-male'> ~3h </i>",
+    "description": "Din centrul istoric urcăm la Tăul Brazi și apoi pe masivul Cârnic la Sfinx și Piatra Corbului (rezervație naturală). <i class='fa fa-male'> ~3h </i> | <i class='fa fa-bicycle'> ~2h </i>",
     "fullWidthImg": "img/activities/trails/carnic/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/carnic/presentation/smallBoxImg.jpg"
   },
@@ -12,7 +12,7 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Masivul Cârnic. Trasee drumeție Roșia Montană",
+    "title": "Muntele Cârnic. Trasee drumeție Roșia Montană",
     "description": "Pornim din centrul istoric spre Tăul Brazi și Anghel, apoi urcăm pe masivul Cârnic la Sfinx și la Piatra Corbului (rezervație naturală). Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
     "displayOnShareImg": "img/activities/trails/carnic/presentation/displayOnShareImg.jpg"
   },
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Odată ajunși în curtea Casei Petri o să observați priveliștea spre masivul Cârnic. E un munte de aur deoarece adapostește peste 200 de tone de aur dar si peste 150km de galerii romane unice în lume. Pe vârful lui, o să observați o stâncă în formă de cal cu o cruce în vârf. Acesta este Sfinxul sau 'Căluțul', care reprezintă obiectivul acestui traseu. Pornim spre Tăul Brazi și Platoul Cârnic și apoi urcăm prin pădurea de conifere până pe vârful masivului.",
+          "textContent": "Odată ajunși în curtea Casei Petri o să observați priveliștea spre masivul Cârnic, un munte ce adapostește peste 200 de tone de aur dar si peste 150km de galerii romane unice în lume. Pe vârful lui o să observați o stâncă în formă de cal, cu o cruce desupra, numită Sfinxul sau 'Căluțul', care reprezintă obiectivul acestui traseu. Pornim spre Tăul Brazi și Platoul Cârnic, iar apoi urcăm prin pădurea de conifere până pe vârful masivului la Piatra Corbului și la Sfinx și coborâm pe la Piatra Despicată și prin Cariera Cetate. Pe Piatra Corbului și pe Sfinx nu se poate urca cu bicicleta.",
           "seeAlso": {
             "text": "Datele GPS ale traseului le găsiți aici...",
             "textOnMouseOver": "Click aici...",
@@ -38,7 +38,7 @@
             "openInNewTab": true
           },
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJYfZ-m-DMTkcRiccAioKsyvo|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q|place_id:ChIJvc6yG-TMTkcRwUw0D4ybV38|place_id:ChIJ3xPsYeXMTkcR-i2Sq02cmlM",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJYfZ-m-DMTkcRiccAioKsyvo|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q|place_id:ChIJvc6yG-TMTkcRwUw0D4ybV38|place_id:ChIJ3xPsYeXMTkcR-i2Sq02cmlM|place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk|place_id:ChIJQ-Yfu_zMTkcRytPpBV-ZsFM|place_id:ChIJIZFsev3MTkcRgPGXF8Plk4Y",
             "list": [
               {
                 "textOnMouseOver": "lungime dus-întors",
@@ -49,6 +49,11 @@
                 "textOnMouseOver": "durată pe jos dus-întors",
                 "text": "~3h",
                 "iconFortAwesomeClass": "fa fa-male"
+              },
+              {
+                "textOnMouseOver": "durată cu bicicleta dus-întors",
+                "text": "~2h",
+                "iconFortAwesomeClass": "fa fa-bicycle"
               },
               {
                 "textOnMouseOver": "dificultate",

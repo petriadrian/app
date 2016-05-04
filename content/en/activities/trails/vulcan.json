@@ -30,9 +30,9 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "In the picture above you can see how the 'Vulcan' massive looks like from the 'Cârnic' peak (Rosia Montana). Perhaps due to eruption of this volcano we have now a rich mineral resources area. To reach it you will have to go from Casa Petri to Gura Rosiei -> Abrud -> Ciuruleasa -> Vulcan. The road is quite spacial because you will go by the 'Abrud' mountains and a pine forest whose smell I'm pretty sure you'll remember long time after. To get to the top of Vulcan, from the asphalted road, you’ll have to go uphill on a unpaved road.",
+          "textContent": "In the picture above you can see how the Vulcan massive looks from the 'Cârnic' mountain (Rosia Montana). Perhaps due to eruption of this volcano we have now a rich mineral resources area. The road is quite spacial because you will go along the Abrud mountains through a pine forest on an asphalted road, until the Vulcan village. To get from here on the top of the Vulcan mountain you’ll have to climb on a unpaved road. <b>The below indications represents the round trip length and time.</b>",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJzU_RaFLQTkcRJzSmd-Hq-ek&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJzU_RaFLQTkcRJzSmd-Hq-ek",
             "list": [
               {
                 "textOnMouseOver": "round trip length",

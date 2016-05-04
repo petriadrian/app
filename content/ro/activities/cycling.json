@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Trasee ciclism",
     "headline": "Trasee de biciletă în Roșia Montană",
-    "description": "Trasee de MTB pe drumuri de țară printre culmi montane, lacuri și foste zone miniere. Trasee pe asfalt spre obiectivele turistice din zonă. <b>Rezervări biciclete și ghizi</b>",
+    "description": "Trasee de MTB pe drumuri de țară printre culmi montane, lacuri și foste zone miniere sau trasee pe asfalt spre obiectivele turistice din zonă. <b>Rezervări biciclete și ghizi</b>",
     "fullWidthImg": "img/activities/cycling/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/cycling/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Trasee de biciletă în Roșia Montană",
-    "description": "Trasee de MTB pe drumuri de țară printre culmi montane, lacuri și foste zone miniere. Trasee pe asfalt (de cursieră) spre obiectivele turistice din zonă. Rezervări biciclete și tururi ghidate pe bicicletă pentru a afla mai multe despre Roșia Montana, Munții Apuseni, Transilvania, Romania.",
+    "description": "Trasee de MTB pe drumuri de țară printre culmi montane, lacuri și foste zone miniere sau trasee pe asfalt (de cursieră) spre obiectivele turistice din zonă. Rezervări biciclete și tururi ghidate pe bicicletă pentru a afla mai multe despre Roșia Montana, Munții Apuseni, Transilvania, Romania.",
     "displayOnShareImg": "img/activities/cycling/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Îți propunem câteva trasee din zonă realizate în funcție de condiția ta fizică și tipul de bicicletă preferat. Cele de MTB te vor plimba pe drumuri de țară, în jurul localității și în satele alăturate spre diverse atracții turistice. Traseele de asfalt - cursieră/auto/moto, sunt realizate pe drumuri nationale, spre obiectivele din zonă. Hărțile traseelor sunt realizate pe <b>google maps</b> astfel că poți face zoom, poți să le vezi în modul satelit sau hartă sau poți să le accesezi de pe orice telefon sau tabletă în timpul drumeției. Sub fiecare traseu găsiți indicațiile (<b>lungime dus-întors</b>, durată) estimate de noi, iar cele afișate în interiorul hărții sunt estimate de google. Cât timp nu te dai cu bița o poți lăsa în siguranță, în garajul din curte."
+          "textContent": "Îți propunem câteva trasee din zonă realizate în funcție de condiția ta fizică și tipul de bicicletă preferat. Cele de MTB te vor plimba pe drumuri de țară, în jurul localității și în satele alăturate spre diverse atracții turistice. Traseele de asfalt - cursieră/auto/moto, sunt realizate pe drumuri nationale, spre obiectivele din zonă. Hărțile traseelor sunt realizate pe <b>google maps</b> astfel că poți face zoom, poți să le vezi în modul satelit sau hartă sau poți să le accesezi de pe orice telefon sau tabletă în timpul drumeției. La fiecare traseu găsiți indicații (<b>lungime și durată dus-întors</b>) estimate de noi, iar cele afișate în interiorul hărții sunt estimate de google. Cam toate traseele au și linkuri de unde poți downloada datele GPS ale respectivului traseu."
         }
       ]
     },
@@ -58,10 +58,10 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/activities/trails/weatherStation"
+          "page": "ro/activities/trails/carnic"
         },
         {
-          "page": "ro/activities/trails/fourLakes"
+          "page": "ro/activities/trails/weatherStation"
         },
         {
           "page": "ro/activities/trails/detunata"
@@ -87,7 +87,7 @@
           "page": "ro/activities/trails/vulcan"
         },
         {
-          "page": "en/activities/trails/daffodilMeadow"
+          "page": "ro/activities/trails/daffodilMeadow"
         },
         {
           "page": "ro/activities/trails/zlatnaPool"

@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Patru lacuri. Trasee de bicicletă Roșia Montană",
-    "description": "Traseu pe un drum de țară, în jurul satului care leagă 4 lacuri (Țarina, Tăul Mare, Corna, Brazi) și 2 culmi montane (Rotundu și Șulei). Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "description": "Traseu pe un drum de țară, în jurul satului care leagă patru lacuri (Țarina, Tăul Mare, Corna, Brazi) și două culmi montane (Rotundu și Șulei). Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
     "displayOnShareImg": "img/activities/trails/fourLakes/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Aceasta este varianta mai lungă a traseului 'Stația Meteo'. Pornim de la Casa Petri și o luăm prin țarină spre Tăul Țarinii care e numai bun să te răcorești puțin cu apă rece de munte. De aici o luăm spre Stația Meteo - Vârful Rotundu - cel mai înalt punct de pe traseu. În stânga observăm 'Tăul Mare', care reprezintă următoarea destinație. O luăm spre el și apoi urcăm până pe masivul Lety și Sulei. Facem un popas ne bucurăm de priveliște și pornim spre Tăul Corna. Ne întoarcem apoi pe sub Piatra Corbului la Tăul Brazi, ultimul popas înainte de a ajunge acasă.",
+          "textContent": "Aceasta este varianta mai lungă a traseului 'Stația Meteo'. Pornim de la Casa Petri spre Tăul Țarinii și Stația Meteo de pe Vârful Rotundu, cel mai înalt punct de pe traseu. În stânga observăm Tăul Mare, următoarea destinație spre care ne îndreptăm. De aici urcăm pe masivul Lety și Sulei unde facem un popas pentru a ne bucura de priveliște și ne întoarcem spre centrul istoric pe la Tăul Corna, Piatra Corbului și Tăul Brazi.",
           "seeAlso": {
             "text": "Datele GPS ale traseului le găsiți aici...",
             "textOnMouseOver": "Click aici...",

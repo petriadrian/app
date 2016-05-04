@@ -96,28 +96,25 @@
           "placeholder": "Number of persons and price",
           "selectOptions": [
             {
-              "text": "1 person - 8€ /night"
+              "text": "2 persons - 12€ /night"
             },
             {
-              "text": "2 persons - 19€ /night"
+              "text": "3 persons - 18€ /night"
             },
             {
-              "text": "3 persons - 20€ /night"
+              "text": "4 persons - 23€ /night"
             },
             {
-              "text": "4 persons - 27€ /night"
+              "text": "5 persons - 29€ /night"
             },
             {
-              "text": "5 persons - 32€ /night"
+              "text": "6 persons - 33€ /night"
             },
             {
-              "text": "6 persons - 40€ /night"
+              "text": "7 persons - 39€ /night"
             },
             {
-              "text": "7 persons - 45€ /night"
-            },
-            {
-              "text": "8 persons - 50€ /night"
+              "text": "8 persons - 43€ /night"
             }
           ]
         },
@@ -137,10 +134,10 @@
           "placeholder": "Book bikes",
           "selectOptions": [
             {
-              "text": "1 bike - 14€/day"
+              "text": "1 bike - 12€/day"
             },
             {
-              "text": "2 bikes - 22€/day"
+              "text": "2 bikes - 20€/day"
             },
             {
               "text": "3 bikes - 30€/day"
@@ -204,13 +201,13 @@
               "id": "groceryStores"
             },
             {
+              "id": "boardGames"
+            },
+            {
               "id": "emergencies"
             },
             {
               "id": "parking"
-            },
-            {
-              "id": "boardGames"
             }
           ]
         }

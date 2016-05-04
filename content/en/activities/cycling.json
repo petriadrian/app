@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Test your bike brakes, inflate the tires and bring it to Roșia Montană, or you can rent one from us. The MTB trails will take you on country roads, around the village and surrounding villages towards various attractions. The paved trails - for touring bikes, motorcycles or cars - are mapped on national roads, towards the attractions from our area. The maps of the trails are made in <b>google maps</b>, so you can zoom in, see them in satellite mode or access them on any smartphone or tablet. Under each trail you'll find indications estimated by us (<b>round trip distance</b>, duration). The indications within the map are provided by google. When you don’t ride your bike, you can keep it safe in our garage."
+          "textContent": "Test your bike brakes, inflate the tires and bring it to Roșia Montană, or you can rent one from us. The MTB trails will take you on unpaved roads, around the village and surroundings towards various attractions. The paved trails - for touring bikes, motorcycles or cars - are mapped on national roads, towards the attractions from our area. The maps of the trails are made in <b>google maps</b>, so you can zoom in, see them in satellite mode or access them on any smarthphone or tablet. For each trail you'll find indications estimated by us (<b>round trip distance and time</b>). The indications within the map are provided by google. For most of the trails we added also links from where you can download de GPS data."
         }
       ]
     },
@@ -58,10 +58,10 @@
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "en/activities/trails/weatherStation"
+          "page": "en/activities/trails/carnic"
         },
         {
-          "page": "en/activities/trails/fourLakes"
+          "page": "en/activities/trails/weatherStation"
         },
         {
           "page": "en/activities/trails/detunata"

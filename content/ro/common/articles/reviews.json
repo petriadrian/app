@@ -4,7 +4,7 @@
     "title": "Nastasia - Barcelona(SP)",
     "textContent": "<span style='font-family: Merienda, cursive'>Un loc de poveste, cu oameni frumoși în ganduri și simțiri, casa la care mă reintorc cu drag și dor de fiecare data! Casa Petri Roșia Montană!</span>",
     "seeAlso": {
-      "text": "Nastasia a acceptat să fie contactată pe facebook cu întrebări despre experiența ei. Clik aici...",
+      "text": "Nastasia a acceptat să fie contactată pe facebook cu întrebări despre experiența ei la Casa Petri. Clik aici...",
       "textOnMouseOver": "Click aici...",
       "link": "https://www.facebook.com/nechiti.nastasia",
       "openInNewTab": true
@@ -20,17 +20,17 @@
   },
   {
     "id": "2",
-    "title": "Andreea - Oradea(RO)",
+    "title": "Andreea - Brașov(RO)",
     "textContent": "<span style='font-family: Merienda, cursive'>Oamenii frumosi la gazde frumoase trag! Multam de hamace with a view, vibe creativ si activist, clatite cu zambet larg si respiro cu WiFiiiiiii :))) ca sa afle lumea ca suntem la Casa Petri si ce facem pe acolo. Raportam de pe baricade ca stocul de dor s-a refacut rapid si numaram weekendurile pana va trecem iar pragul!</span>",
     "seeAlso": {
-      "text": "Andreea a acceptat să fie contactată pe facebook cu întrebări despre experiența ei. Clik aici...",
+      "text": "Andreea a acceptat să fie contactată pe facebook cu întrebări despre experiența ei la Casa Petri. Clik aici...",
       "textOnMouseOver": "Click aici...",
       "link": "https://www.facebook.com/andreea.firastraeru",
       "openInNewTab": true
     },
     "images": [
       {
-        "title": "Andreea - Oradea(RO)",
+        "title": "Andreea - Brașov(RO)",
         "description": " la Casa Petri",
         "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/2.jpg",
         "fullSizeUrl": "img/reviews/article/reviewer/fullSize/2.jpg"
@@ -65,7 +65,7 @@
   },
   {
     "id": "5",
-    "title": "Alex Bartiș - Cluj-Napoca(RO)",
+    "title": "Alex - Cluj(RO)",
     "textContent": "<span style='font-family: Merienda, cursive'>E foarte misto! E cea mai frumoasa cladire din Rosia Montana, si e super aproape de centru!</span>",
     "seeAlso": {
       "text": "Alex a făcut și o prezentare cu poze făcute pe traseul masivului Cârnic și spre Stația Meteo. Îl poți vedea aici...",
@@ -75,7 +75,7 @@
     },
     "images": [
       {
-        "title": "Alex Bartiș - Cluj-Napoca(RO)",
+        "title": "Alex - Cluj(RO)",
         "description": " cu Sebi pe vârful Cârnic",
         "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/5.jpg",
         "fullSizeUrl": "img/reviews/article/reviewer/fullSize/5.jpg"
@@ -84,11 +84,11 @@
   },
   {
     "id": "6",
-    "title": "Josefen - Denmark(DK)",
+    "title": "Josefen - Copenhaga(DK)",
     "textContent": "<span style='font-family: Merienda, cursive'>România totuși rămâne să fie descoperită ca un loc unic de a-ți petrece concediul. Peisajul fantastic și oamenii primitori fac ca România să fie o experiență de neuitat. Roșia Montană, în mod particular, este interesantă pentru istorie, geologie, folclor, locație și nu o să găsești un loc mai bun de cazare decât micuța, primitoarea și noua restaurată Căsuța Petri. Mulțumesc pentru cazare. </span>",
     "images": [
       {
-        "title": "Josefen - Denmark",
+        "title": "Josefen - Copenhaga(DK)",
         "description": "din caietul nostru cu impresii.",
         "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/6.jpg",
         "fullSizeUrl": "img/reviews/article/reviewer/fullSize/6.jpg"
@@ -97,7 +97,7 @@
   },
   {
     "id": "7",
-    "title": "Alexandra Postelnicu - București(RO)",
+    "title": "Alexandra - București(RO)",
     "textContent": "<span style='font-family: Merienda, cursive'> Mulțumim pentru acest loc de rai, unde ne-am simțit minunat. Una dintre cele mai mari realizări a fost că am dormit nemișcată, pe când în București am nevoie de pastile de somn.</span>",
     "seeAlso": {
       "text": "Alexandra s-a îndrăgostit de Roșia Montană și organizează anual aici un maraton. Mai multe detalii aici...",
@@ -107,7 +107,7 @@
     },
     "images": [
       {
-        "title": "Alexandra Postelnicu - București(RO)",
+        "title": "Alexandra - București(RO)",
         "description": " cu prietenii pe Vârful Rotundu - Stația Meteo",
         "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/7.jpg",
         "fullSizeUrl": "img/reviews/article/reviewer/fullSize/7.jpg"
@@ -116,7 +116,7 @@
   },
   {
     "id": "8",
-    "title": "Ramona Dominicioiu - Cluj Napoca(RO)",
+    "title": "Ramona - Cluj(RO)",
     "textContent": "<span style='font-family: Merienda, cursive'> Adi și tatăl lui sunt cele mai faine gazde! Iubesc să beau cafeaua pe băncuță și să mă uit la muntele Cârnic. </span>",
     "seeAlso": {
       "text": "Ramona vine în fiecare an la festivalul Fân Fest cu echipa ei pentru a vinde semințe ecologice și să țină prezentări despre importanța folosirii acestora în agricultură. Mai multe detalii aici...",
@@ -126,7 +126,7 @@
     },
     "images": [
       {
-        "title": "Ramona Dominicioiu - Cluj Napoca(RO)",
+        "title": "Ramona - Cluj(RO)",
         "description": " cu echipa ei la Fân Fest unde comercializează semințe țărănești",
         "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/8.jpg",
         "fullSizeUrl": "img/reviews/article/reviewer/fullSize/8.jpg"
@@ -148,14 +148,72 @@
   },
   {
     "id": "10",
-    "title": "Livia - Cluj Napoca(RO)",
+    "title": "Livia - Cluj(RO)",
     "textContent": "<span style='font-family: Merienda, cursive'> Pentru mine e prima dată când vin la Roșia Montană și mă bucur că am avut ocazia să fiu cazată aici. 'Camera cu cărți' e minunată și locul e superb. Îmi voi aminti cu drag de acest loc și de oamenii pe care i-am întâlnit aici.</span>",
     "images": [
       {
-        "title": "Livia - Cluj Napoca(RO)",
+        "title": "Livia - Cluj(RO)",
         "description": "din caietul nostru cu impresii.",
         "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/10.jpg",
         "fullSizeUrl": "img/reviews/article/reviewer/fullSize/10.jpg"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Shreya - Mumbai(India)",
+    "textContent": "<span style='font-family: Merienda, cursive'> Dragă Adi, Casa Petri este un loc nemaipomenit. Suntem foarte triste că trebuie să părăsim acestă frumoasă casa și sat. Dar putem spune ca avem o casă la Roșia Montană. Ești o gazdă și un om minunat. Sperăm să ne întoarcem la Casa Petri în curând. Ne va fi foarte dor de oamenii din Roșia Montană.</span>",
+    "seeAlso": {
+      "text": "Shreya a acceptat să fie contactată pe facebook cu întrebări despre experiența ei la Casa Petri. Clik aici...",
+      "textOnMouseOver": "Click aici...",
+      "link": "https://www.facebook.com/shreya.save.7",
+      "openInNewTab": true
+    },
+    "images": [
+      {
+        "title": "Shreya, Hoowen and Bran",
+        "description": "at a galass of Palinca with the locals",
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/11.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/11.jpg"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Valentina - Cluj(RO)",
+    "textContent": "<span style='font-family: Merienda, cursive'> Două zile au fost îndeajuns pentru a găsi farmecul și frumusețea Roșiei Montane, însă mult prea puțin pentru cât ne-am fi dorit să ne conectăm la loc. Mulțumim pentru găzduire, tur, lumină și căldură! Am împrumutat o parte din energia de aici și ducem acasă o versiune mai bună a noastră: cu istoria locului, poveștile oamenilor, frumusețea care îți taie respirația a munților, caselor, anilor. O experiență ce te schimbă și apropie.</span>",
+    "images": [
+      {
+        "title": "Valentina - Cluj(RO)",
+        "description": "din caietul nostru cu impresii.",
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/12.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/12.jpg"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Haowen - Taipei(Taiwan)",
+    "textContent": "<span style='font-family: Merienda, cursive'>Suntem foarte triste că părăsim Casa Petri. O numim acasa de acum. Ne-a plăcut șederea noastră aici și cel ami mult ne-au plăcut oamenii din acest frumos sat. Faceți o treabă minunată la Roșia Montana. Pentru Călin, ghidul nostru: Am învățat multe  despre Roșia Montana datorită frumoaselor tururi și al poveștilor pe care ni le-ai spus. A fost minunat.</span>",
+    "images": [
+      {
+        "title": "Haowen - Taipei(Taiwan)",
+        "description": "mesaje.",
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/13.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/13.jpg"
+      }
+    ]
+  },
+  {
+    "id": "xx",
+    "title": "XXXX - Cluj(RO)",
+    "textContent": "<span style='font-family: Merienda, cursive'>text</span>",
+    "images": [
+      {
+        "title": "XXXX - Cluj(RO)",
+        "description": "from our notebook with reviews.",
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/XXXXX.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/XXXXX.jpg"
       }
     ]
   }

@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "The daffodils starts blooming in May and lives until the beginning of June. Annually, on the Sunday closest to the 20th May there is the Daffodils holiday, when the locals sell their homemade goods, and make parties in the evening. Even if you are not visiting us in May we recommend to make this trail because the trail is great in any period of the year. The road shown on the below map is for touring bikes or cars/motorcycles because is asphalted (except for the last 3km, which we recommend to walk, because the landscapes are spectacular).",
+          "textContent": "The daffodils starts blooming in May and lives until the beginning of June. Annually, on the Sunday closest to the 20th May there is the Daffodils holiday, when the locals sell their homemade goods, and make parties in the evening. Even if you are not visiting us in May we recommend to make this trail because the trail is great in any period of the year. The road shown on the below map is for touring bikes or cars/motorcycles because is asphalted (except for the last 3km, which we recommend to walk, because the landscapes are spectacular). <b>The below indications represents the round trip length and time.</b>",
           "seeAlso": {
             "text": "See here also the <b>MTB or hiking trail</b> (is shorter and on unpaved road)...",
             "textOnMouseOver": "Click here...",
@@ -38,7 +38,7 @@
             "openInNewTab": true
           },
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJvT6u7RzKTkcR1hUfXNYaqcI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJvT6u7RzKTkcR1hUfXNYaqcI",
             "list": [
               {
                 "textOnMouseOver": "round trip length",

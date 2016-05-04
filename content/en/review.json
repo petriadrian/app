@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Interesting and beautiful peoples had visited us. We had, and still have, a lot to learn from you and from them and how to adapt to yours/theirs needs. You can find the reviews in our reviews book at Casa Petri. We are waiting for you to look through it and to write also your review."
+          "textContent": "Interesting and nice peoples had visited us. We improved but still have a lot to learn about how to adapt to your needs. The reviews can be found in our reviews book from Casa Petri. We are waiting for you to look through it and to write also your review."
         }
       ]
     },
@@ -42,6 +42,21 @@
           "ids": [
             {
               "id": "1"
+            },
+            {
+              "id": "2"
+            },
+            {
+              "id": "6"
+            },
+            {
+              "id": "11"
+            },
+            {
+              "id": "12"
+            },
+            {
+              "id": "13"
             },
             {
               "id": "2"

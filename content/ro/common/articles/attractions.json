@@ -18,7 +18,7 @@
       },
       {
         "title": "Șteampurile",
-        "description": "Vizitați și restul exponatelor de la muzeu ca aceste instalații folosite pentru a prelucra minereul de aur sau expoziția cu monumentele funerare.",
+        "description": "instalații folosite pentru a prelucra minereul de aur.",
         "thumbnailUrl": "img/activities/trails/attractions/romanGalleries/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/romanGalleries/fullSize/2.jpg"
       }
@@ -50,9 +50,34 @@
     ]
   },
   {
+    "id": "orthodoxChurch",
+    "title": "Biserica Ortodoxă",
+    "textContent": "Biserica are în spate una dintre cele mai interesante povești cu aurari, vâlve și grămezi de aur din Roșia Montană. Este una din cele 7 biserici construite de aurarul italian 'Gritta' ca urmare a promisiunii făcute vâlvei ('şapte biserici oi ridica în Apuseni, să aibă românii unde să se închine la Dumnezeu, şi-apăi încă pe-atâtea şcoli, să scape bieţii noştri copii de căratul pietroaielor în spate, să aibă un viitor!') iar în schimb Vâlva i-a arătat locul din galerie unde trebuie să sape pentru a găsi aur.",
+    "seeAlso": {
+      "text": "Mai multe detalii despre povestea celui care a găsit două tone de aur în Roșia Montană găsiți aici...",
+      "textOnMouseOver": "Click aici...",
+      "link": "http://www.formula-as.ro/2016/1212/societate-37/povestea-familiei-gritta-20615",
+      "openInNewTab": true
+    },
+    "images": [
+      {
+        "title": "Biserica Ortodoxă",
+        "description": "'Adormirea Maicii Domnului', ridicată de aurarul 'Mihăilă Gritta'",
+        "thumbnailUrl": "img/activities/trails/attractions/churches/orthodoxChurch/thumbnail/1.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/churches/orthodoxChurch/fullSize/1.jpg"
+      },
+      {
+        "title": "Monumentele funerare",
+        "description": "ale familiei 'Grita', din spatele biserici. Numele e scris în slavonă.",
+        "thumbnailUrl": "img/activities/trails/attractions/churches/orthodoxChurch/thumbnail/2.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/churches/orthodoxChurch/fullSize/2.jpg"
+      }
+    ]
+  },
+  {
     "id": "panoramicBench",
     "title": "Băncuța Panoramică(Berg)",
-    "textContent": "Cel mai romantic loc din Roșia Montană este cu siguranță 'Băncuța Panoramică'. Este cam la 10 minute de Casa Petri și vă recomandăm să vă întoarceți și noaptea pentru a vă bucura de cerul înstelat și liniștea satului. Drumul spre ea ne va plimba prin fostul cartier nemțesc 'Berg'.",
+    "textContent": "Cel mai romantic loc din Roșia Montană este cu siguranță 'Băncuța Panoramică'. Este la 10 minute distanță de Casa Petri, iar drumul până aici vă va purta prin fostul cartier nemțesc 'Berg'. Vă recomandăm să vă reîntoarceţi şi noaptea pentru a vă bucura de cerul înstelat şi de liniştea satului.",
     "images": [
       {
         "title": "Școala Germană și Casa Francisc",
@@ -71,17 +96,17 @@
   {
     "id": "romanCatholicChurch",
     "title": "Biserica Romano-Catolica",
-    "textContent": "Așezarea ei deasupra satului fac ca turnul cu ceas să fie vizibil din tot centrul istoric și sunetul clopotelor să fie auzit de la orice casă. De la bunici știm că locul de veci, din fața bisericii, esta a celui care a finanțat construcția ei cu condiția ca biserica și locul lui să nu fie mutate niciodată. Se spune că în timp ce acesta căuta aur pe galerii, s-a întâlnit cu vâlva băii și a făcut un pact cu ea referitor la biserică. Nu vă spunem mai multe ... veniți la Roșia și întrebați de acest pact.",
+    "textContent": "Așezarea Bisericii Romano-Catolice 'Sfântul Ladislău' deasupra satului face ca turnul cu ceas să fie vizibil din tot centrul istoric, iar sunetul clopotelor să fie auzit de la orice casă. În interior se află icoana Maicii Domnului cu Pruncul (sec. XVIII) dăruită de împaratesa Maria Tereza din Austria. Biserica este înconjurată de un cimitir cu pietre funerare (sec. XIX) ce aparțin unor oameni importanți, de confesiuni si etnii diferite, reflectând trecutul multicultural al zonei.",
     "images": [
       {
         "title": "Biserica Romano-Catolica",
-        "description": "Slujbele au loc duminică de la ora 10. La sfarșitul slujbei se cântă la orga din interiorul ei",
+        "description": "Slujbele se țin în fiecare duminică de la ora 10 în limba română și maghiară, iar la sfârșit se cântă la orga din interiorul ei.",
         "thumbnailUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/fullSize/1.jpg"
       },
       {
         "title": "Biserica Romano-Catolica",
-        "description": "De paști, sătenii aduc un coș cu mâncare pentru a fii sfințită. Mormantul mântuitorului este păzit întreaga zi de 7 gărzi care elibereaza intrarea în timpul slujbei de înviere.",
+        "description": "în sâmbăta Paștilor mormantul Mântuitorului din biserică este păzit de 7 gărzi care elibereaza intrarea în timpul slujbei de Înviere. Localnicii care iau parte la slujbă obișnuiesc să aducă un coș cu mâncare pentru a fi sfințită.",
         "thumbnailUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/fullSize/2.jpg"
       }
@@ -96,17 +121,17 @@
       "link": "http://www.adoptaocasa.ro/case/biserica-unitariana",
       "openInNewTab": true
     },
-    "textContent": "'Amplasat pe culmea unui mic deal, în zona centrală, edificiul domină ansamblul pieței centrale și iradiază asupra organizării spațiale a întregii zone, afirmandu-se ca element de valoare al structurii urbane.' Aici se desfăsoară anual tabere de restaurare a monumentelor de patrimoniu din localitate.",
+    "textContent": "'Amplasat pe culmea unui mic deal, în zona centrală, edificiul domină ansamblul pieței centrale și iradiază asupra organizării spațiale a întregii zone, afirmandu-se ca element de valoare al structurii urbane.' Aici se desfăsoară anual taberele de restaurare a monumentelor de patrimoniu 'Adoptă o casa'.",
     "images": [
       {
         "title": "Biserica Unitariană",
-        "description": "Slujbele au loc Duminica de la ora 11. Rămâneți după slujbă și discutați cu preotul care este încântat când vin turiști și le poate arăta biserica sau cum funcționează orga.",
+        "description": "Slujbele au loc duminica de la ora 11 în limba maghiară și română, iar la sfârșit puteți rămâne să discutați cu preotul care bucuros vă va povesti mai multe despre biserică și zonă.",
         "thumbnailUrl": "img/activities/trails/attractions/churches/unitarianChurch/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/unitarianChurch/fullSize/1.jpg"
       },
       {
         "title": "Biserica Unitariană",
-        "description": "Preotul susține dezvoltarea turistică a zonei, de aceea permite să se țină diverse evenimente culturale aici. Interesați-vă dacă nu e un astfel de eveniment când ajungeți.",
+        "description": "Preotul susține dezvoltarea turistică a zonei, de aceea permite organizarea diverselor evenimente culturale aici. Interesați-vă dacă nu e un astfel de eveniment când ajungeți.",
         "thumbnailUrl": "img/activities/trails/attractions/churches/unitarianChurch/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/unitarianChurch/fullSize/2.jpg"
       }
@@ -115,7 +140,7 @@
   {
     "id": "vaidoaiaGalleries",
     "title": "Galeria și Vârful Jig-Văidoaia",
-    "textContent": "Galeria este diferită față de cea de la Muzeul Mineritului și pare mai degrabă o peșteră. Dar urmele de săpături pe locul filoanelor de aur de pe pereții acesteia o să vă convingă că a fost creeată de stramoșii noștri în căutarea aurului. Urcați până pe vârful masivului și bucurați-vă de privelistea spre Tăul Brazi, Cârnic și întreaga vale a Roșiei Montane. Atenție: aveți de urcat pe pietre! ",
+    "textContent": "Galeria este diferită față de cea de la Muzeul Mineritului și pare mai degrabă o peșteră, dar urmele de săpături pe locul filoanelor de aur de pe pereții acesteia o să vă convingă că a fost creată de stramoșii noștri în căutarea aurului. Urcați până pe vârful masivului și bucurați-vă de privelistea spre Tăul Brazi, Cârnic și întreaga vale a Roșiei Montane. Atenție: aveți de urcat pe pietre! ",
     "images": [
       {
         "title": "Galeria Vaidoaia",
@@ -133,7 +158,7 @@
   },
   {
     "id": "sicilianStreet",
-    "title": "Strada 'Sicilină'",
+    "title": "Strada 'Siciliană'",
     "textContent": "'Strada Siciliană din Roșia Montană e o stradă istorică. Aproape un muzeu în sine. Foarte îngustă, pornește din piața cea mare, urcând în curbe stranse printre case batrane, uriașe, lipite intre ele, ca un tunel șerpuit. O stradă medievala, asemeni celor din vechile orașe italiene, zagazuită de case trainice, baroce, cu etaj și pereți groși. Clădiri superbe, în ciuda decrepitudinii lor, unde-au trăit odinioara marii aurari ai Roșiei, stăpânii comorilor din Munții Apuseni.'",
     "seeAlso": {
       "text": "Mai multe detalii aici...",
@@ -144,7 +169,7 @@
     "images": [
       {
         "title": "Casa Parohială Unitariană și Școala Maghiară",
-        "description": "Casa Parohială este restaurată prin tabere ARA care țin anual aici diverse tabere de restaurare.",
+        "description": "Casa Parohială este restaurată de organizația ARA prin programul 'Adoptă o casă'.",
         "thumbnailUrl": "img/activities/trails/attractions/sicilianStreet/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/sicilianStreet/fullSize/1.jpg"
       },
@@ -159,7 +184,7 @@
   {
     "id": "szekeyHouse",
     "title": "Casa Szekey",
-    "textContent": "Casa Szekey Acoș, de la poalele masivului Jig-Văidoaia, este ca o mică cetate împrejmuită de un zid de piatră cu o poartă înaltă boltită. Probabil că aceste elemente de piatră l-au înspirat pe Dan Pița în 1972 să facă aici filmul 'Nunta de piatră'. La întoarcerea de pe traseu putem urmări filmul la Casa Petri întrucât va avea un mai mare impact odată ce cunoașteți zona. O parte din echipa de filmare au fost cazați atunci la noi, unde puteți găsi o imagine cu autograful lor.",
+    "textContent": "Casa Szekey Acoș de la poalele masivului Jig-Văidoaia este ca o mică cetate împrejmuită de un zid de piatră cu o poartă înaltă boltită. În acest loc s-a filmat în 1972 'Nunta de piatră' regizat de Dan Pița. La întoarcerea de pe traseu, putem urmări filmul la Casa Petri, deoarece va avea mai mare impact odată ce cunoașteți zona. O parte din echipa de filmare a fost cazată atunci la noi şi că încă păstrăm o poză cu autograful lor.",
     "seeAlso": {
       "text": "Filmul a fost nominalizat la TiFF în top 10 filme romanesti ale tuturor timpurilor. Vezi aici...",
       "textOnMouseOver": "Click aici...",
@@ -184,7 +209,7 @@
   {
     "id": "braziLake",
     "title": "Tăul Brazi",
-    "textContent": "Tăurile din Roșia sunt lacuri artificiale de acumulare folosite pentru a acționa morile șteampurilor. La Muzeul Mineritului sunt expuse șteampuri unde se poate vedea cum produceau aur. Tăul Brazi are și o <b>zonă de agrement</b> cu băncuțe, bărcuțe și spații amenajate pentru grătare.",
+    "textContent": "Tăurile din Roșia sunt lacuri artificiale de acumulare folosite pentru a acționa morile șteampurilor. La Muzeul Mineritului sunt expuse astfel de șteampuri unde se poate vedea cum funcționau pentru a produce aur. Tăul Brazi are și o <b>zonă de agrement</b> cu spații amenajate pentru grătare și bărcuțe pe timp de vară, iar deasupra lui, la 10 minute distanță este Tăul Anghel (sau tăul fară fund).",
     "images": [
       {
         "title": "Tăul Brazi",
@@ -193,8 +218,8 @@
         "fullSizeUrl": "img/activities/trails/attractions/lakes/braziLake/fullSize/1.jpg"
       },
       {
-        "title": "Tăul Brazi - dis de dimineață",
-        "description": "De aici puteți urca, și până la Tăul Anghel (sau tăul fară fund) care este cam la 10 minute distanță.",
+        "title": "Tăul Brazi",
+        "description": "dacă priviți cu atenție veți vedea în apele tăului o mulțime de pești colorați aduși recent aici.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/braziLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/braziLake/fullSize/2.jpg"
       }
@@ -222,7 +247,7 @@
   {
     "id": "carnicSfinx",
     "title": "Sfinxul Carnic",
-    "textContent": "Drumul vă va purta printr-o pădure de brazi prin care puteți găsi ciuperci, zmeura, mure sau frăguțe. Odată ajunși pe culmea masivului, la Sfinx, vă aflati pe unul dintre cele mai inalte puncte din Rosia Montana. În față vedeți centrul istoric iar în spate Cariera Cetate. Se numește 'Cetate' pentru că aici era întradevar o cetate sculptată în munți de daci si romani. Dar pe vremea comunismului s-a decis ca e mai important să o distrugă și să facă aici o exploatare de suprafață.",
+    "textContent": "Drumul vă va purta printr-o pădure de brazi prin care puteți găsi ciuperci, zmeura, mure sau frăguțe. Odată ajunși pe culmea masivului, la Sfinx, vă aflati pe unul dintre cele mai inalte puncte din Roșia Montană. În față aveți centrul istoric, iar în spate Cariera Cetate care poartă acest nume pentru că aici era într-adevăr o cetate sculptată în munți de către daci si romani. Pe vremea comunismului s-a decis ca este mai utilă o exploatare de suprafață decât conservarea acesteia.",
     "seeAlso": {
       "text": "Mai multe detalii aici...",
       "textOnMouseOver": "Click aici...",
@@ -232,7 +257,7 @@
     "images": [
       {
         "title": "Sfinxul Carnic",
-        "description": "Crucea de pe Sfinx a fost pusă aici de baieși (mineri) pentru a fi călauziți pe mină în căutarea aurului.",
+        "description": "Crucea de pe Sfinx a fost pusă aici de baieși (mineri) pentru a fi călauziți în mină când căutau aur.",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicSfinx/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicSfinx/fullSize/1.jpg"
       },
@@ -276,7 +301,7 @@
     "images": [
       {
         "title": "Sculpturile de calcar",
-        "description": "Așezarea lor, în ograda unei ferme, nu e aleasă la întâmplare. Zona Orlea este bogată în resurse subterane și odată ce sculpturile au devenit monumente de patrimoniu, zona a devenit protejată iar deschiderea unei exploatări miniere aici... este teoretic imposibilă.",
+        "description": "Așezarea lor în ograda unei ferme nu e aleasă la întâmplare deoarece zona Orlea este bogată în resurse subterane. Odată ce sculpturile au devenit monumente de patrimoniu, zona este protejată iar deschiderea unei exploatări miniere aici... este teoretic imposibil.",
         "thumbnailUrl": "img/activities/trails/attractions/sculpture/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/sculpture/fullSize/1.jpg"
       },
@@ -291,7 +316,7 @@
   {
     "id": "tariniLake",
     "title": "Tăul Țarinii",
-    "textContent": "Aici este un mic colț de rai foarte aproape de Casa Petri. Un lac bine ascuns după niște sălcii înalte care își scalda ramurile în el. Țarina este locul unde roșienii au terenurile agricole, de aceea terenul este împărțit în mici parcele și pe ici, pe colo vedem câte o șură sau căpițe cu fân. Anual aceste locuri sunt însuflețite de festivalul FânFest care umple aceste locuri cu tineri ce vin să stea cu cortul.",
+    "textContent": "Aici este un mic colț de rai foarte aproape de Casa Petri, un lac bine ascuns după niște sălcii înalte care își scalda ramurile în el. Țarina este locul unde se desfășoară anual festivalul FânFest care umple aceste meleaguri cu tineri ce vin să stea cu cortul.",
     "seeAlso": {
       "text": "Mai multe detalii despre festival aici...",
       "textOnMouseOver": "Click aici...",
@@ -301,13 +326,13 @@
     "images": [
       {
         "title": "Tăul Țarinii",
-        "description": "Un mic lac de munte superb pe timp de toamnă. Ca locație de poză vă sugerăm podul care duce la Căsuța de pe lac.",
+        "description": "Un mic lac de munte superb pe timp de toamnă. Podul care duce la Căsuța de pe lac este locul ideal de făcut poze.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/tariniLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/tariniLake/fullSize/1.jpg"
       },
       {
         "title": "Plaiurile Țarinii",
-        "description": "Dealuri nesfârșite presărate ici și colo cu căpițe de fân numai bune să te odihnești pe ele în traseul tău.",
+        "description": "Dealuri nesfârșite presărate ici și colo cu căpițe de fân numai bune să te odihnești în ele pe traseul tău.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/tariniLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/tariniLake/fullSize/2.jpg"
       }
@@ -316,17 +341,17 @@
   {
     "id": "weatherStation",
     "title": "Stația Meteo",
-    "textContent": "După un urcuș strajnic pe un drum de țară, traversăm o pădure de molizi și ajungem la stația meteo de munte Roșia Montană aflată pe Vârful Rotundu(1240m). Această stație este folosită de aviație și deține aparatură pentru detectarea schimbărilor meteorologice.",
+    "textContent": "După un urcuș strașnic pe un drum de țară, traversăm o pădure de molizi și ajungem la stația meteo de munte Roșia Montană aflată pe Vârful Rotundu(1240m). Această stație este folosită de aviație și deține aparatură pentru detectarea schimbărilor meteorologice.",
     "images": [
       {
         "title": "Stația Meteo",
-        "description": "Angajatii stației meteo sunt oameni primitori si extrem de deschiși cu turiștii care ajung pe aici (de obicei oferă tururi ale stației meteo prin care explică cum functionează aparatura)",
+        "description": "Angajatii sunt primitori și de obicei oferă tururi ale stației prin care le explică turiștilor cum functionează aceasta.",
         "thumbnailUrl": "img/activities/trails/attractions/weatherStation/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/weatherStation/fullSize/1.jpg"
       },
       {
         "title": "Varful Rotundu(1240m) vedere spre Apuseni",
-        "description": "Înaintați puțin de la Stația Meteo pe culmea masivului. Bucurați-vă de priveliște. În zare se pot vedea vârful Vulcan, Găina și vârful Bihor(cel mai înalt vârf din Munții Apuseni(1849m)).",
+        "description": "Înaintați puțin de la Stația Meteo pe culmea masivului și bucurați-vă de priveliște. În zare se pot vedea vârful Vulcan, Găina și vârful Bihor(cel mai înalt vârf din Munții Apuseni(1849m)).",
         "thumbnailUrl": "img/activities/trails/attractions/weatherStation/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/weatherStation/fullSize/2.jpg"
       }
@@ -335,7 +360,7 @@
   {
     "id": "copperPit",
     "title": "Cariera de Cupru Roșia Poieni",
-    "textContent": "Aici o să vedeți efectele exploatării unei cariere deschise asupra mediului: un munte ras, vegetație distrusă, sol arid, iar sterilul rezultat de aici a fost deversat în aval peste satul Geamăna. Accesul se face pe la un <b>punct de verificare</b> cu barieră pe care o să îl întâlniți pe traseu! Aici trebuie să vi se verifice buletinul și să spuneți motivul vizitei. În unele zile intrarea poate fi restricționată.",
+    "textContent": "Aici o să vedeți efectele exploatării unei cariere deschise asupra mediului: un munte ras, vegetație distrusă, sol arid, iar sterilul rezultat de aici a fost deversat în aval peste satul Geamăna. Accesul se face pe la un <b>punct de verificare</b> cu barieră pe care o să îl întâlniți pe traseu, unde probabil vi se va verifica buletinul. În unele zile intrarea poate fi restricționată.",
     "seeAlso": {
       "text": "Maia Morgenstern a filmat aici un videoclip pentru a trage un semnal de alarmă asupra exploatărilor. Îl puteți vedea aici...",
       "textOnMouseOver": "Click aici...",
@@ -360,7 +385,7 @@
   {
     "id": "bigLake",
     "title": "Tăul Mare",
-    "textContent": "După cum îi spune și numele, acesta este cel mai mare lac din Roșia, fiind unul din cele mai liniștite și relaxante locuri de pe aici. Are și 2 mici pontoane, numai bune de stat și admirat priveliștea sau de selfie :) . Pe vremuri era folosit pentru antrenarea șteampurilor dar acum este folosit pentru penscuit și agreemet.",
+    "textContent": "După cum îi spune și numele, acesta este cel mai mare lac din Roșia fiind unul din cele mai liniștite și relaxante locuri de pe aici. Are și două mici pontoane, numai bune de stat și admirat priveliștea sau de selfie :). Pe vremuri tăul era folosit pentru antrenarea șteampurilor, iar acum, pentru pescuit și agrement.",
     "images": [
       {
         "title": "Tăul Mare",
@@ -370,7 +395,7 @@
       },
       {
         "title": "Tăul Mare",
-        "description": "dacă urcați puțin pe versant o să vedeți că tăul parcă are forma unei inimi de aceea îi se mai spune și Tăul inimă.",
+        "description": "dacă urcați puțin pe versant o să vedeți că tăul are forma unei inimi de aceea îi se mai spune și Tăul inimă.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/2.jpg"
       }
@@ -383,13 +408,13 @@
     "images": [
       {
         "title": "Masivul Sulei",
-        "description": "creasta masivului Sulei este lungă și ascuțită și îți dă parcă impresia că mergi pe o franghie pe care încerci să îți ți echilibrul.",
+        "description": "creasta masivului Sulei este îngustă dându-ți impresia că mergi pe o frânghie pe care trebuie să îți menții echilibrul.",
         "thumbnailUrl": "img/activities/trails/attractions/letySulei/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/letySulei/fullSize/1.jpg"
       },
       {
         "title": "Vedere de pe masivul Șulei",
-        "description": "De aici se vede Masivul Cârnic , Tăul Anghel și valea Roșiei Montane.",
+        "description": "De aici se vede Masivul Cârnic, Tăul Anghel și valea Roșiei Montane.",
         "thumbnailUrl": "img/activities/trails/attractions/letySulei/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/letySulei/fullSize/2.jpg"
       }
@@ -408,7 +433,7 @@
       },
       {
         "title": "Satul Corna",
-        "description": "Dacă doriți să explorați zona puteți coborâ până în sat pentru a vizita cele 2 biserici aflate pe culmile satului.",
+        "description": "Dacă doriți să explorați zona puteți coborî până în sat pentru a vizita cele două biserici aflate pe culmile satului.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/cornaLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/cornaLake/fullSize/2.jpg"
       }
@@ -417,7 +442,7 @@
   {
     "id": "detunata",
     "title": "Detunata",
-    "textContent": "Acest masiv este o arie protejată de interes național și este format din coloane înalte arcuite de bazalt. La baza Detunatei puteți vedea o mare de blocuri de piatră care s-au desprins din acest masiv și s-au rostogolit până la baza pădurii de brazi. Acum e liniște întrucât o parte din ele sunt acoperite cu mușchi vegetal și formează un peisaj cu totul aparte. De aveți timp explorați puțin zona! Știți că pe aici a trait Fefeleaga? - personajul principal din opera lui Ion Agârbiceanu. Căutați casa memorială Fefeleaga, ascultați poveștile oamenilor și gustați din plăcinte cu brânză de acolo.",
+    "textContent": "Acest masiv este o arie protejată de interes național și este format din coloane înalte arcuite de bazalt. La baza Detunatei puteți vedea o mare de blocuri de piatră care s-au desprins din acest masiv și s-au rostogolit până la baza pădurii de brazi, o parte fiind acoperite cu mușchi vegetal ce formează un peisaj cu totul aparte. De aveți timp explorați puțin zona! Știți că pe aici a trait Fefeleaga? - personajul principal din opera lui Ion Agârbiceanu. Căutați casa memorială Fefeleaga, ascultați poveștile oamenilor și gustați din plăcintele cu brânză de acolo.",
     "seeAlso": {
       "text": "Mai multe detalii și imagini găsiți aici...",
       "textOnMouseOver": "Click aici...",
@@ -433,7 +458,7 @@
       },
       {
         "title": "Priveliștea de pe Detunata",
-        "description": "Merită să urcați până sus dacă tot a-ți ajuns până aici. La picioare vi se va întinde tot ținutul țării moților. Nu vă uitați în jos... :) ",
+        "description": "Merită să urcați până sus dacă tot ați ajuns până aici. La picioare vi se va întinde tot ținutul Țării Moților.",
         "thumbnailUrl": "img/activities/trails/attractions/detunata/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/detunata/fullSize/2.jpg"
       }
@@ -461,7 +486,7 @@
   {
     "id": "geamana",
     "title": "Geamăna",
-    "textContent": "Video-ul de mai jos este cel mai reprezentativ pentru Geamăna. Acesta a fost unul din motoarele care i-a făcut pe oameni să conștientizeze efectele exploatărilor și că trebuie să protesteze împotriva poluării, în perioada în care se dorea construirea unui lac imens de cianură la Roșia Montană. Deocamdată Roșia a scăpat dar pentru satul Geamană e prea târziu. Înafară de turla bisericii, satul e acoperit complet de deșeurile de la Cariera de Cupru, care nu conțin cianură.",
+    "textContent": "Video-ul de mai jos este cel mai reprezentativ pentru iazul 'Geamăna', care i-a făcut pe oameni să conștientizeze efectele exploatărilor și să protesteze împotriva poluării, în perioada în care se dorea construirea unui lac imens de cianură la Roșia Montană. Aici a fost satul Geamăna din care se mai vede doar turla bisericii iar în rest este complet acoperit cu deșeurile de la Cariera de Cupru.",
     "seeAlso": {
       "text": "Mai multe detalii aici...",
       "textOnMouseOver": "Click aici...",

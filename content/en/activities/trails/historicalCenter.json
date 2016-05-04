@@ -30,9 +30,9 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "An easy trail through the historical center of the oldest documented settlement from Romania - Rosia Montana(131 AD). Visit the old heritage buildings. Some of them were abandoned but they had various roles in the community life. Start the trail from Casa Petri, which is also a heritage house and take it slow on the village streets to reach each objective.",
+          "textContent": "An easy trail through the historical center of the oldest documented settlement from Romania - Rosia Montana(131 AD). Some of the heritage buildings were abandoned but they had various roles in the community life. The old big houses will make you fell like traveling back in time. Start the trail from Casa Petri, which is also a heritage house and take it slow on the village streets to reach each objective.",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=taul%20brazi&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJOd6ybODMTkcRp27SJIXkarw|place_id:ChIJr6tpbuDMTkcR27lOgSAucgs|place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw|place_id:ChIJGUVwDuHMTkcRESfpNiecGZQ|place_id:ChIJK4tH5-DMTkcRtHCCOcaoDmY|place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJe_e0kuDMTkcR-fKFm93NuXI|place_id:ChIJOfC97ODMTkcRecLGM1rVOA0|place_id:ChIJYfZ-m-DMTkcRiccAioKsyvo|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJGUVwDuHMTkcRESfpNiecGZQ|place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJe_e0kuDMTkcR-fKFm93NuXI|place_id:ChIJOfC97ODMTkcRecLGM1rVOA0|place_id:ChIJK4tH5-DMTkcRtHCCOcaoDmY|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJYfZ-m-DMTkcRiccAioKsyvo|place_id:ChIJr6tpbuDMTkcR27lOgSAucgs|place_id:ChIJOd6ybODMTkcRp27SJIXkarw|place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw",
             "list": [
               {
                 "textOnMouseOver": "round trip length",
@@ -80,22 +80,22 @@
           "category": "attractions",
           "ids": [
             {
-              "id": "panoramicBench"
-            },
-            {
               "id": "romanCatholicChurch"
-            },
-            {
-              "id": "unitarianChurch"
             },
             {
               "id": "sicilianStreet"
             },
             {
-              "id": "szekeyHouse"
+              "id": "unitarianChurch"
             },
             {
               "id": "braziLake"
+            },
+            {
+              "id": "szekeyHouse"
+            },
+            {
+              "id": "panoramicBench"
             }
           ]
         }

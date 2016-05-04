@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Roman Galleries",
     "headline": "Discover the Roman Galleries of Rosia Montana",
-    "description": "Go inside the Roman Galleries, Orlea Massive and see the gold diggings. Then visit 2 churches and the Limestone Sculptures. <i class='fa fa-male'> ~3h </i>",
+    "description": "Visit the Roman Galleries from Orlea Massive where gold diggings can be seen and then visit two churches and the Limestone Sculptures. <i class='fa fa-male'> ~3h </i>",
     "fullWidthImg": "img/activities/trails/romanGalleries/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/romanGalleries/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Roman Galleries. Hiking trails Rosia Montana",
-    "description": "Go inside the Roman Galleries, Orlea Massive and see the gold diggings. Then visit 2 churches and the Limestone Sculptures. See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
+    "description": "Visit the Roman Galleries from Orlea Massive where gold diggings can be seen and then visit two churches and the Limestone Sculptures. See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
     "displayOnShareImg": "img/activities/trails/romanGalleries/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -86,6 +86,9 @@
           "ids": [
             {
               "id": "romanGalleries"
+            },
+            {
+              "id": "orthodoxChurch"
             },
             {
               "id": "grecoCatholicChurch"

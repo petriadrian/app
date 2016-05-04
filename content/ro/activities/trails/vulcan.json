@@ -30,9 +30,9 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "În poza de mai sus este masivul 'Vulcan' văzut de pe varful 'Cârnic' (Rosia Montana). Probabil datorită erupției acestui vulcan avem acum o zonă atât de bogata în resurse minerale. Pentru a ajunge acolo porniți de la Casa Petri spre Gura Roșiei - Abrud Sat - Ciuruleasa - Vulcan. Traseul este unul deosebit deoarece ve-ți parcurge Munții Abrudului și o pădure de conifere al cărei miros de brad sigur vă va rămâne ca amintire. Pentru a ajunge în vârf va trebui să urcați pe o poteca de munte, deoarece drumul asfaltat se va termina la poalele muntelui.  ",
+          "textContent": "În poza de mai sus este masivul Vulcan văzut de pe muntele Cârnic din Roșia Montană. Probabil datorită erupției acestuia avem acum o zonă atât de bogata în resurse minerale. Traseul este unul deosebit deoarece veți parcurge Munții Abrudului, trecând printr-o pădure de conifere pe un drum asfaltat până în satul Vulcan la poalele muntelui. Pentru a ajunge de aici în vârf va trebui să urcați pe o poteca de munte. <b>Indicațiile de mai jos reprezintă durata și timpul dus-întors.</b>",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJzU_RaFLQTkcRJzSmd-Hq-ek&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJzU_RaFLQTkcRJzSmd-Hq-ek",
             "list": [
               {
                 "textOnMouseOver": "lungime dus-întors",

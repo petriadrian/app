@@ -102,19 +102,19 @@
           "placeholder": "Seats and price",
           "selectOptions": [
             {
-              "text": "2 seats - 30€ /night"
+              "text": "2 seats - 25€ /night"
             },
             {
-              "text": "3 seats - 42€ /night"
+              "text": "3 seats - 35€ /night"
             },
             {
-              "text": "4 seats - 52€ /night"
+              "text": "4 seats - 45€ /night"
             },
             {
-              "text": "5 seats - 62€ /night"
+              "text": "5 seats - 55€ /night"
             },
             {
-              "text": "6 seats - 69€ /night"
+              "text": "6 seats - 63€ /night"
             }
           ]
         },
@@ -126,10 +126,10 @@
           "placeholder": "Book bikes",
           "selectOptions": [
             {
-              "text": "1 bike - 14€/day"
+              "text": "1 bike - 12€/day"
             },
             {
-              "text": "2 bikes - 22€/day"
+              "text": "2 bikes - 20€/day"
             },
             {
               "text": "3 bikes - 30€/day"
@@ -232,10 +232,10 @@
           "placeholder": "Seats and price",
           "selectOptions": [
             {
-              "text": "1 seat - 17€ /night"
+              "text": "1 seat - 15€ /night"
             },
             {
-              "text": "2 seats - 27€ /night"
+              "text": "2 seats - 25€ /night"
             }
           ]
         },
@@ -247,10 +247,10 @@
           "placeholder": "Book bikes",
           "selectOptions": [
             {
-              "text": "1 bike - 14€/day"
+              "text": "1 bike - 12€/day"
             },
             {
-              "text": "2 bikes - 22€/day"
+              "text": "2 bikes - 20€/day"
             },
             {
               "text": "3 bikes - 30€/day"
@@ -357,10 +357,10 @@
           "required": true,
           "selectOptions": [
             {
-              "text": "2 seats - 32€ /night"
+              "text": "2 seats - 27€ /night"
             },
             {
-              "text": "3 seats - 44€ /night"
+              "text": "3 seats - 37€ /night"
             }
           ]
         },
@@ -372,10 +372,10 @@
           "placeholder": "Book bikes",
           "selectOptions": [
             {
-              "text": "1 bike - 14€/day"
+              "text": "1 bike - 12€/day"
             },
             {
-              "text": "2 bikes - 22€/day"
+              "text": "2 bikes - 20€/day"
             },
             {
               "text": "3 bikes - 30€/day"
@@ -443,13 +443,13 @@
               "id": "groceryStores"
             },
             {
+              "id": "boardGames"
+            },
+            {
               "id": "emergencies"
             },
             {
               "id": "parking"
-            },
-            {
-              "id": "boardGames"
             }
           ]
         }

@@ -18,7 +18,7 @@
       },
       {
         "title": "Stamp mills",
-        "description": "Visit also the others exhibitions from the museum like this installation used to process the gold or the funerary monuments.",
+        "description": "the machines used to process the gold.",
         "thumbnailUrl": "img/activities/trails/attractions/romanGalleries/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/romanGalleries/fullSize/2.jpg"
       }
@@ -50,9 +50,34 @@
     ]
   },
   {
+    "id": "orthodoxChurch",
+    "title": "The Orthodox Church",
+    "textContent": "This church has one of the most interesting stories, with Vâlva(mines spirit), goldsmiths and bunches of gold from Rosia Montana. It is one of the 7 churches built by the italian goldsmith 'Gritta', because of the pact he made with Vâlva. ('I will build seven churches in Apuseni where the locals could pray and 7 schools where our children could learn! ') and Vâlva show him the place from the gallery where he can dig to find gold.",
+    "seeAlso": {
+      "text": "More details about the one who found 2 tons of gold in Rosia Montana can be found here (RO)...",
+      "textOnMouseOver": "Click here...",
+      "link": "http://www.formula-as.ro/2016/1212/societate-37/povestea-familiei-gritta-20615",
+      "openInNewTab": true
+    },
+    "images": [
+      {
+        "title": "The Orthodox Church",
+        "description": "'Adormirea Maicii Domnului', built by the goldsmith 'Mihăilă Gritta'",
+        "thumbnailUrl": "img/activities/trails/attractions/churches/orthodoxChurch/thumbnail/1.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/churches/orthodoxChurch/fullSize/1.jpg"
+      },
+      {
+        "title": "Funeral monuments",
+        "description": "of the 'Gritta' family can be found here.",
+        "thumbnailUrl": "img/activities/trails/attractions/churches/orthodoxChurch/thumbnail/2.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/churches/orthodoxChurch/fullSize/2.jpg"
+      }
+    ]
+  },
+  {
     "id": "panoramicBench",
     "title": "The Panoramic Bench(Berg)",
-    "textContent": "The Panoramic Bench is definitely the most romantic spot in Roșia Montană. It’s 10 minutes away from Casa Petri, and we recommend to visit it at night as well, to enjoy the sky full of stars and the quiet of the village. On your way to the bench you will pass through the old German neighborhood ‘Berg’.",
+    "textContent": "The Panoramic Bench is definitely the most romantic spot in Roșia Montană. It’s 10 minutes away from Casa Petri so we recommend to visit it at night as well, to enjoy the sky full of stars and the quiet of the village. On your way to the bench you will pass through the old German neighborhood ‘Berg’.",
     "images": [
       {
         "title": "The German School & Francisc House",
@@ -71,17 +96,17 @@
   {
     "id": "romanCatholicChurch",
     "title": "The Roman-Catholic Church",
-    "textContent": "Being built on higher ground makes the Clock tower visible from all over the historic center and the bells to be heard from any home. From our grandparents we’ve heard that the tomb in front of the church is the resting place of the man who financed the church’s construction, with one condition: that the church's place and his tomb not to be moved. It is said that while he searched for gold in the galleries, he met with “Vâlva” (a ghost from a local legend) and made a pact with her regarding the church. We’re not saying more about this :) ... come to Rosia and ask about this story.",
+    "textContent": "The Roman-Catholic Church 'Sfântul Ladislău', was built on higher ground, that makes the clock tower visible from all over the historic center and the bells to be heard from any home. Here you can see the Saint Mary icon (XVIII century) which was donated by Maria Theresa of Austria. The church is surrounded by an old cemetery with funerary monuments (XIX century) that belonged to peoples of different faiths and nations, reflecting the area's multicultural past.",
     "images": [
       {
         "title": "The Roman-Catholic Church",
-        "description": "The Mass is held on Sunday at 10:00. At the end of the mass the pipe organ is played.",
+        "description": "The Mass is held on Sunday at 10:00 in romanian and hungarian language. At the end of the mass the pipe organ is played.",
         "thumbnailUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/fullSize/1.jpg"
       },
       {
         "title": "The Roman-Catholic Church",
-        "description": "At Easter, the villagers bring a basket with food to be holly. The tomb of the Saviour is guarded all day by 7 guards that free the entrance during the Resurrection.",
+        "description": "During Easter the tomb of the Saviour is guarded all day by 7 guards that free the entrance during the Mass. Also, the villagers use to bring a basket with food to be holly. ",
         "thumbnailUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/fullSize/2.jpg"
       }
@@ -90,7 +115,7 @@
   {
     "id": "unitarianChurch",
     "title": "The Unitarian Church(1568)",
-    "textContent": "''Set on a small hilltop in the central area, the building dominates the central square and shines on all the spatial organization of the entire area, emerging as a valuable element of the urban structure.' The camps for restoration of the village’s heritage monuments are held annually.'",
+    "textContent": "''Set on a small hill in the central area, the building dominates the central square and shines on all the spatial organization of the entire area, emerging as a valuable element of the urban structure.' Here is also the place where the restoration camps 'Adopt a house' are hold.'",
     "seeAlso": {
       "text": "More details here...",
       "textOnMouseOver": "Click here...",
@@ -100,7 +125,7 @@
     "images": [
       {
         "title": "The Unitarian Church",
-        "description": " The Mass is held on Sunday at 11:00. Stay after the Mass and talk with the priest who is happy to make a tour of the church or to show how the pipe organ works",
+        "description": " The Mass is held on Sunday at 11:00. Stay after the Mass and talk with the priest who is happy to tell you more about the church and the habits from the area.",
         "thumbnailUrl": "img/activities/trails/attractions/churches/unitarianChurch/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/unitarianChurch/fullSize/1.jpg"
       },
@@ -119,7 +144,7 @@
     "images": [
       {
         "title": "Văidoaia Gallery",
-        "description": "This is the “heart” of Roșia Montană. Seeing the rocks surrounding the gallery, you will understand where the name of the village comes from.",
+        "description": "Here is the “heart” of Roșia Montană. Seeing the rocks surrounding the gallery, you will understand where the name of the village comes from.",
         "thumbnailUrl": "img/activities/trails/attractions/vaidoaiaGalleries/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/vaidoaiaGalleries/fullSize/1.jpg"
       },
@@ -144,7 +169,7 @@
     "images": [
       {
         "title": "The Unitarian Parish House and Hungarian School",
-        "description": "The Unitarian Parish House it is restored by ARA camps which takes place here each summer with students and teachers from the Architecture Faculty of Bucharest.",
+        "description": "The Unitarian Parish House it is restored by ARA camps ('Adopt a house') which takes place each summer with students and teachers from the Architecture Faculty of Bucharest.",
         "thumbnailUrl": "img/activities/trails/attractions/sicilianStreet/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/sicilianStreet/fullSize/1.jpg"
       },
@@ -159,7 +184,7 @@
   {
     "id": "szekeyHouse",
     "title": "The Szekely house",
-    "textContent": "The Szekely Acoș house, at the foot of Jig-Văidoaia mountain, is like a small fortress surrounded by a stone wall with a high vaulted gate. Perhaps these stone elements inspired Dan Pița in 1972 to make here the movie 'Stone Wedding'. When returning from the trail you can watch the movie at Casa Petri as it will have a greater impact once you know the area. Some of the filming crew were accommodated here, where you can find a picture with their autograph.",
+    "textContent": "The Szekely Acoș house which is beside the Jig-Văidoaia mountain is like a small fortress surrounded by a stone wall with a high vaulted gate. Perhaps these stone elements inspired Dan Pița in 1972 to make here the movie 'Stone Wedding'. When returning from the trail you can watch the movie at Casa Petri as it will have a greater impact once you know the area. Some of the filming crew were accommodated here, where you can find a picture with their autograph.",
     "seeAlso": {
       "text": "The film was nominated for TIFF in the top 10 Romanian films of all time. See here...",
       "textOnMouseOver": "Click here...",
@@ -184,17 +209,17 @@
   {
     "id": "braziLake",
     "title": "Brazi Lake",
-    "textContent": "The lakes in Roșia are man-made lakes used to operate the mills stamps. Stamps are displayed at the Mining Museum where you can see how gold was produced. Brazi Lake has a <b>recreation area</b>  with benches, boats and specialized spaces for barbecues.",
+    "textContent": "This is a man-made lake used to operate the mills stamps (you can see them and how they worked at the Mining Museum). Brazi Lake has a <b>recreation area</b> with benches, boats and places for barbecue. From here you can climb a little to reach the Anghel Lake (~10 minutes away)",
     "images": [
       {
         "title": "Brazi Lake",
-        "description": "The house from the end of the lake belongs to a painter who moved here to use the view as inspiration for his works.",
+        "description": "The house from the end of the lake belongs to a painter who comes here to use the view as inspiration for his works.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/braziLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/braziLake/fullSize/1.jpg"
       },
       {
-        "title": "Brazi Lake - early morning",
-        "description": "from here you can climb to Anghel Lake(the Lake without) which is about 10 minutes away..",
+        "title": "Brazi Lake",
+        "description": "if you look carefully, you can see in the lake some colorful fishes which were bought recently here.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/braziLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/braziLake/fullSize/2.jpg"
       }
@@ -222,9 +247,9 @@
   {
     "id": "carnicSfinx",
     "title": "Cârnic Sphinx",
-    "textContent": "The road will take you through a fir forest where you can find mushrooms, raspberries, blackberries and wild strawberries. When you will reach the Sphinx, you're at one of the highest points in Roșia Montană. Ahead you can see the historic center and behind the Cetate open pit.. It's called 'Cetate’ (Fortress) because here was indeed a fortress carved into the mountains by Dacians and Romans. But in communist era it was decided it's more important to destroy it and to have here an open mining area.",
+    "textContent": "The road will take you through a fir forest where you can find mushrooms, raspberries, blackberries and wild strawberries. When you will reach the Sphinx, you're at one of the highest points in Roșia Montană. Ahead you can see the historic center and behind the Cetate open pit. It's called 'Cetate’ (Fortress) because here was indeed a fortress carved into the mountains by Romans, but during communism period it was decided that it should be destroyed and open an mining area here.",
     "seeAlso": {
-      "text": "More details...",
+      "text": "More details and pictures with the old fortress here (RO)...",
       "textOnMouseOver": "Click here...",
       "link": "http://adevarul.ro/locale/alba-iulia/foto-distrugerea-curtilor-aur-cele-mai-frumoase-mai-reprezentative-lucrari-miniere-romania-vremea-dacilor-romanilor-1_5607ae00f5eaafab2c0c02e2/index.html",
       "openInNewTab": true
@@ -276,7 +301,7 @@
     "images": [
       {
         "title": "Limestone sculptures",
-        "description": "Their settlement in a farm yard was not randomly chosen. Orlea area is rich in groundwater resources and once the sculptures have become heritage monuments, the area became protected, and opening a open pit here ... is theoretically impossible.",
+        "description": "Their settlement in a farm yard was not randomly chosen, because the Orlea area is rich in gold resources and once the sculptures become heritage monuments, the area was protected, and opening a mining exploitation here ... is theoretically impossible.",
         "thumbnailUrl": "img/activities/trails/attractions/sculpture/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/sculpture/fullSize/1.jpg"
       },
@@ -291,7 +316,7 @@
   {
     "id": "tariniLake",
     "title": "'Țarina' Pond",
-    "textContent": "Here is a small piece of heaven pretty close to the Casa Petri. A well hidden lake behind some tall willow which bathe their branches in the pond. 'Tarina' land is the place where the villagers have farms, so the land is divided into small portions and here and there you can see haystacks or barns. Each year in these places is hold the FânFest festival which fill these places with peoples who come to stay in a tent.",
+    "textContent": "Here is a small piece of heaven pretty close to the Casa Petri, a well hidden lake behind some tall willow which bathe their branches in the pond. 'Tarina' land is the place where the FânFest festival is hold annually, when these places are fill with peoples who come here to stay in a tent.",
     "seeAlso": {
       "text": "More details about the festival here...",
       "textOnMouseOver": "Click here...",
@@ -301,12 +326,12 @@
     "images": [
       {
         "title": "'Țarina' Pond",
-        "description": "A small mountain pond with great colors during autumn. Take some pictures on the bridge from the lake.",
+        "description": "A small mountain pond with great colors during autumn.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/tariniLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/tariniLake/fullSize/1.jpg"
       },
       {
-        "title": "'Țarina' lands",
+        "title": "'Țarina' land",
         "description": "Endless hills with many haystacks which are handy when you want to rest s little from your trip.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/tariniLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/tariniLake/fullSize/2.jpg"
@@ -320,13 +345,13 @@
     "images": [
       {
         "title": "The Weather Station",
-        "description": "If you want you can ring at the weather station door and ask to for a tour of the station ... the employees are pretty friendly.",
+        "description": "If you want you can ring at the weather station door and ask for a tour of the building ... the employees are pretty friendly.",
         "thumbnailUrl": "img/activities/trails/attractions/weatherStation/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/weatherStation/fullSize/1.jpg"
       },
       {
         "title": "The 'Rotundu' Peak(1240m) - the view to 'Apuseni' mountains",
-        "description": "Enjoy the view. You can see from here, somewhere in the back, the 'Vulcan' Peak, the 'Găina' Peak and 'Bihor' Peak(the highest from Apuseni mountains(1849m))",
+        "description": "Enjoy the view. You can see from here, somewhere in the back, the 'Vulcan', 'Găina' and 'Bihor' Peaks. (Bihor is the highest from Apuseni mountains(1849m))",
         "thumbnailUrl": "img/activities/trails/attractions/weatherStation/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/weatherStation/fullSize/2.jpg"
       }
@@ -383,13 +408,13 @@
     "images": [
       {
         "title": "Sulei peak",
-        "description": "the ridge is long and sharp and gives you the feeling that you are going on a rope and you have to keep balance.",
+        "description": "the ridge is narrow and sharp, so it gives you the feeling like going on a rope where you have to keep balance.",
         "thumbnailUrl": "img/activities/trails/attractions/letySulei/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/letySulei/fullSize/1.jpg"
       },
       {
         "title": "The view from the Șulei peak",
-        "description": "from here you can see the 'Cârnic' peak, the 'Anghel' lake and all the Roșia Montana valley.",
+        "description": "You can see the 'Cârnic' peak, the 'Anghel' lake and the Roșia Montana valley.",
         "thumbnailUrl": "img/activities/trails/attractions/letySulei/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/letySulei/fullSize/2.jpg"
       }
@@ -408,7 +433,7 @@
       },
       {
         "title": "The 'Corna' village",
-        "description": "Dacă doriți să explorați zona puteți coborâ până în sat pentru a vizita cele 2 biserici aflate pe culmile satului.",
+        "description": "Dacă doriți să explorați zona puteți coborâ până în sat pentru a vizita cele două biserici aflate pe culmile satului.",
         "description": "If you want to explore the area you can go down in the village to see the life of peoples from here which is quite different than the cities. Visit the two churches from the the village",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/cornaLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/cornaLake/fullSize/2.jpg"
@@ -434,7 +459,7 @@
       },
       {
         "title": "The landscape from the top of Detunata",
-        "description": "Once you reach the peak you can see one of the most spectacular views of the entire 'Motilor' land - 'Apuseni' Mountains.",
+        "description": "Once you reach the peak you can see one of the most spectacular views of the 'Motilor' region - Apuseni Mountains.",
         "thumbnailUrl": "img/activities/trails/attractions/detunata/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/detunata/fullSize/2.jpg"
       }
@@ -442,17 +467,17 @@
   },
   {
     "id": "muntariPoiana",
-    "title": "The 'Muntari' village",
-    "textContent": "The road will lead you through the 'Muntari' and 'Poiana' villages, 2 places where the time seems like it stopped.",
+    "title": "The Muntari village",
+    "textContent": "The road will lead you through the Muntari and Poian' villages, 2 places where the time seems like it stopped.",
     "images": [
       {
-        "title": "The road from 'Muntari'",
+        "title": "The road along the Muntari village",
         "description": "",
         "thumbnailUrl": "img/activities/trails/attractions/muntariPoiana/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/muntariPoiana/fullSize/1.jpg"
       },
       {
-        "title": "The road from 'Poiana'",
+        "title": "The road along the Poiana village",
         "description": "",
         "thumbnailUrl": "img/activities/trails/attractions/muntariPoiana/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/muntariPoiana/fullSize/2.jpg"
@@ -462,7 +487,7 @@
   {
     "id": "geamana",
     "title": "Geamana",
-    "textContent": "The next video shows a story of 'Geamana' village that raise awareness for the consequences of open pit mining. That was a reason why we had the streets protests against the new gold exploitation which should open in Rosia Montana in 2014. So the project was closed and Rosia saved for now, but for 'Geamana' is to late. During communism the villagers were moved away and the waste from the 'Rosia Poieni' exploitation was thrown all over the village. Now only the tower of the village church can be seen here in the middle of 'hell'.",
+    "textContent": "The next video shows a story of 'Geamana' village that raised awareness for the consequences of open pit mining. So that's why we had the streets protests against the new gold exploitation which should open in Rosia Montana in 2014. So the project was stopped and Rosia saved for now, but for 'Geamana' is to late. During communism the villagers were moved away and the waste from the 'Rosia Poieni' exploitation was thrown all over the village. Now only the tower of the village church can be seen here.",
     "seeAlso": {
       "text": "More details here...",
       "textOnMouseOver": "Click here...",

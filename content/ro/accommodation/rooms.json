@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Camere",
     "headline": "O cafea într-o dimineață la Roșia Montană?",
-    "description": "Cazare într-o fostă locuință de mineri din centrul istoric Roșia Montană. Camere au fost renovate, au băi și acces bucătărie. <br><b>Rezervări camere</b>.",
+    "description": "Cazare într-o fostă locuință de mineri din centrul istoric Roșia Montană. Camerele au fost renovate, au băi și acces la bucătărie. <br><b>Rezervări camere</b>.",
     "fullWidthImg": "img/accommodation/rooms/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/rooms/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Cazare in Rosia Montana",
-    "description": "Cazare într-o fostă locuință de mineri din centrul istoric. Camere au fost renovate, au băi și acces bucătărie. Vezi și trasee de drumeție sau bicicletă în zonă pentru a descoperi galeriile romane, industria minieră, centrul vechi, munții, lacurile și multe altele",
+    "description": "Cazare într-o fostă locuință de mineri din centrul istoric. Camerele au fost renovate, au băi și acces la bucătărie. Vezi și trasee de drumeție sau bicicletă în zonă pentru a descoperi galeriile romane, industria minieră, centrul vechi, munții, lacurile și multe altele",
     "displayOnShareImg": "img/accommodation/rooms/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Casa Petri este o clădire de patrimoniu din centrul istoric din Roșia Montană în care am păstrat stilul tradițional ca podelele de lemn, geamurile sau încălzirea prin teracote pe lemne, dar unde am integrat și facilități moderne ca de exemplu băile. Dispune de diverse zone de relaxare, de o curte cu iarbă verde și foișor cu priveliște spre muntele Cârnic. Este interzis fumatul în interior sau ascultatul muzicii la volum ridicat. <b>Rezervarea va fi confirmată prin email.</b>"
+          "textContent": "Casa Petri este o clădire de patrimoniu din centrul istoric Roșia Montană unde s-a păstrat stilul tradițional ca podelele de lemn, geamurile sau încălzirea prin teracote pe lemne, dar unde am integrat și facilități moderne ca băile sau bucătăria. Dispune de diverse zone de relaxare, de o curte cu iarbă verde și foișor cu priveliște spre muntele Cârnic. Este interzis fumatul în interior sau ascultatul muzicii la volum ridicat. <b>Rezervarea va fi confirmată prin email.</b>"
         }
       ]
     },
@@ -101,19 +101,19 @@
           "placeholder": "Număr de locuri și preț",
           "selectOptions": [
             {
-              "text": "2 locuri - 130lei/noapte"
+              "text": "2 locuri - 109lei/noapte"
             },
             {
-              "text": "3 locuri - 180lei/noapte"
+              "text": "3 locuri - 149lei/noapte"
             },
             {
-              "text": "4 locuri - 220lei/noapte"
+              "text": "4 locuri - 199lei/noapte"
             },
             {
-              "text": "5 locuri - 270lei/noapte"
+              "text": "5 locuri - 239lei/noapte"
             },
             {
-              "text": "6 locuri - 300lei/noapte"
+              "text": "6 locuri - 269lei/noapte"
             }
           ]
         },
@@ -125,13 +125,13 @@
           "placeholder": "Rezervă biciclete",
           "selectOptions": [
             {
-              "text": "1 bicicletă - 55lei/zi"
+              "text": "1 bicicletă - 49lei/zi"
             },
             {
-              "text": "2 biciclete - 95lei/zi"
+              "text": "2 biciclete - 89lei/zi"
             },
             {
-              "text": "3 biciclete - 130lei/zi"
+              "text": "3 biciclete - 129lei/zi"
             }
           ]
         },
@@ -141,7 +141,7 @@
           "checkBoxes": [
             {
               "name": "guidedTours",
-              "text": "<b>trasee ghidate</b> (50lei/grup/4h) - când sosiți o să discutați cu ghidul nostru pentru a vă configura traseele dorite"
+              "text": "<b>trasee ghidate</b> (49lei/grup/4h) - când sosiți o să discutați cu ghidul nostru pentru a vă configura traseele dorite"
             },
             {
               "name": "chatWithLocals",
@@ -231,10 +231,10 @@
           "placeholder": "Număr de locuri și preț",
           "selectOptions": [
             {
-              "text": "1 loc - 70lei/noapte"
+              "text": "1 loc - 69lei/noapte"
             },
             {
-              "text": "2 locuri - 120lei/noapte"
+              "text": "2 locuri - 99lei/noapte"
             }
           ]
         },
@@ -246,13 +246,13 @@
           "placeholder": "Rezervă biciclete",
           "selectOptions": [
             {
-              "text": "1 bicicletă - 55lei/zi"
+              "text": "1 bicicletă - 49lei/zi"
             },
             {
-              "text": "2 biciclete - 95lei/zi"
+              "text": "2 biciclete - 89lei/zi"
             },
             {
-              "text": "3 biciclete - 130lei/zi"
+              "text": "3 biciclete - 129lei/zi"
             }
           ]
         },
@@ -266,7 +266,7 @@
             },
             {
               "name": "guidedTours",
-              "text": "<b>trasee ghidate</b> (50lei/grup/4h) - când sosiți o să discutați cu ghidul nostru pentru a vă configura traseele dorite"
+              "text": "<b>trasee ghidate</b> (49lei/grup/4h) - când sosiți o să discutați cu ghidul nostru pentru a vă configura traseele dorite"
             },
             {
               "name": "chatWithLocals",
@@ -356,10 +356,10 @@
           "placeholder": "Număr de locuri și preț",
           "selectOptions": [
             {
-              "text": "2 locuri - 140lei/noapte"
+              "text": "2 locuri - 119lei/noapte"
             },
             {
-              "text": "3 locuri - 190lei/noapte"
+              "text": "3 locuri - 159lei/noapte"
             }
           ]
         },
@@ -371,13 +371,13 @@
           "placeholder": "Rezervă biciclete",
           "selectOptions": [
             {
-              "text": "1 bicicletă - 55lei/zi"
+              "text": "1 bicicletă - 49lei/zi"
             },
             {
-              "text": "2 biciclete - 95lei/zi"
+              "text": "2 biciclete - 89lei/zi"
             },
             {
-              "text": "3 biciclete - 130lei/zi"
+              "text": "3 biciclete - 129lei/zi"
             }
           ]
         },
@@ -391,7 +391,7 @@
             },
             {
               "name": "guidedTours",
-              "text": "<b>trasee ghidate</b> (50lei/grup/4h) - când sosiți o să discutați cu ghidul nostru pentru a vă configura traseele dorite"
+              "text": "<b>trasee ghidate</b> (49lei/grup/4h) - când sosiți o să discutați cu ghidul nostru pentru a vă configura traseele dorite"
             },
             {
               "name": "chatWithLocals",
@@ -442,13 +442,13 @@
               "id": "groceryStores"
             },
             {
+              "id": "boardGames"
+            },
+            {
               "id": "emergencies"
             },
             {
               "id": "parking"
-            },
-            {
-              "id": "boardGames"
             }
           ]
         }
