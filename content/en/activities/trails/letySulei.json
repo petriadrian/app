@@ -1,7 +1,7 @@
 {
   "presentation": {
     "title": "Lety and Sulei peak",
-    "headline": "The hiking trail to the Lety and Sulei peaks",
+    "headline": "The trail to the Lety and Sulei peaks",
     "description": "Climb to the Vaidoaia Gallery, Tăul Mare Lake and Lety and Sulei Peaks, then return along the Corna and Brazi lakes. <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
     "fullWidthImg": "img/activities/trails/letySulei/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/letySulei/presentation/smallBoxImg.jpg"
@@ -35,29 +35,24 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJf7dBe97MTkcRUOKwgwP6qHs|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJx0kJ88LMTkcRlbYRRD21As0|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs|place_id:ChIJnTJOLfDMTkcR6Bj-a0LHYdg|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q",
             "list": [
               {
-                "textOnMouseOver": "round trip length",
-                "text": "~10km",
-                "iconFortAwesomeClass": "fa fa-refresh"
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~10km"
               },
               {
-                "textOnMouseOver": "walking duration of the round trip",
-                "text": "~4h",
-                "iconFortAwesomeClass": "fa fa-male"
+                "textOnMouseOver": "walking duration",
+                "text": "<i class='fa fa-male'></i> ~4h"
               },
               {
-                "textOnMouseOver": "cycling duration of the round trip",
-                "text": "~3h",
-                "iconFortAwesomeClass": "fa fa-bicycle"
+                "textOnMouseOver": "duration by bike",
+                "text": "<i class='fa fa-bicycle'></i> ~3h"
               },
               {
                 "textOnMouseOver": "difficulty",
-                "text": "medium",
-                "iconFortAwesomeClass": "fa fa-line-chart"
+                "text": "<i class='fa fa-line-chart'></i> medium"
               },
               {
                 "textOnMouseOver": "should have",
-                "text": "hiking boots, raincoat, water",
-                "iconFortAwesomeClass": "fa fa-check-square-o"
+                "text": "<i class='fa fa-check-square-o'></i> hiking boots, raincoat, water"
               }
             ]
           }

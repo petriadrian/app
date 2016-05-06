@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Cariera de Cupru și Geamăna",
     "headline": "Cariera de Cupru și satul scufundat Geamăna",
-    "description": "Care este prețul metalelor? Vezi cariera de suprafață Rosia Poinei și satul scufundat în steril. <i class='fa fa-male'> ~9h </i> | <i class='fa fa-bicycle'> ~6h </i> | <i class='fa fa-car'> ~2h </i>",
+    "description": "Care este prețul metalelor? Vezi cariera de suprafață Rosia Poinei și satul scufundat în steril Geamăna. <i class='fa fa-male'> ~6h </i> | <i class='fa fa-bicycle'> ~4h </i> | <i class='fa fa-car'> ~1h </i>",
     "fullWidthImg": "img/activities/trails/geamana/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/geamana/presentation/smallBoxImg.jpg"
   },
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Cum arată o exploatare minieră de mare anvergură și care sunt efectele ei? Să pornim la drum... Din centrul istoric plecăm spre Tăul Mare, de unde mai urcăm puțin până ajungem la drumul asfaltat care ne va duce la cariera de cupru. O zonă deșertică, un munte ras, defrișări și utilaje abandonate - aici e Cariera 'Roșia Poieni'. Ne întoarcem apoi pe drumul asfaltat până vedem pe partea stângă un drum de țară care ne va duce prin satele Muntari, Poiana și Vința până la iazul de decantare 'Geamăna'. <b>Indicațiile de mai jos reprezintă durata și timpul dus-întors.</b> Traseul de la Cariera de Cupru la Geamăna e destul de lung. Recomandăm să vă întoarceți la Casa Petri și să mergeți cu mașina.",
+          "textContent": "Cum arată o exploatare minieră de mare anvergură și care sunt efectele ei? Să pornim la drum... Din centrul istoric plecăm spre Tăul Mare, de unde mai urcăm puțin până ajungem la drumul asfaltat care ne va duce la cariera de cupru. O zonă deșertică, un munte ras, defrișări și utilaje abandonate - aici e Cariera 'Roșia Poieni'. Ne întoarcem apoi pe drumul asfaltat până vedem pe partea stângă un drum de țară care ne va duce prin satele Muntari, Poiana și Vința până la iazul de decantare 'Geamăna'. <b>Indicațiile de mai jos reprezintă durata și timpul pentru un singur drum (dus).</b> Traseul de la Cariera de Cupru la Geamăna e destul de lung. Recomandăm să vă întoarceți la Casa Petri și să mergeți cu mașina.",
           "seeAlso": {
             "text": "Vedeți aici traseul de mașină spre 'Geamăna'",
             "textOnMouseOver": "Click aici...",
@@ -41,29 +41,24 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJf4f-WF4zSUcRil3SxT4-Oog&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJdXFc7LPMTkcR4yeUhZDQAd0|place_id:ChIJ6e_SmJXMTkcRoxSvt__dGSs|place_id:ChIJ2dfWrJnMTkcR1o8Ofr5fmo4|place_id:ChIJR1rZecs0SUcRvuDjY9oSEHo",
             "list": [
               {
-                "textOnMouseOver": "lungime dus-întors",
-                "text": "~39km",
-                "iconFortAwesomeClass": "fa fa-refresh"
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~24km"
               },
               {
-                "textOnMouseOver": "durată pe jos dus-întors",
-                "text": "~9h",
-                "iconFortAwesomeClass": "fa fa-male"
+                "textOnMouseOver": "durata pe jos",
+                "text": "<i class='fa fa-male'></i> ~6h"
               },
               {
-                "textOnMouseOver": "durată cu bicicleta dus-întors",
-                "text": "~6h",
-                "iconFortAwesomeClass": "fa fa-bicycle"
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~4h"
               },
               {
                 "textOnMouseOver": "dificultate",
-                "text": "greu",
-                "iconFortAwesomeClass": "fa fa-line-chart"
+                "text": "<i class='fa fa-line-chart'></i> greu"
               },
               {
-                "textOnMouseOver": "indicații",
-                "text": "bocanci de munte, pelerină, apă",
-                "iconFortAwesomeClass": "fa fa-check-square-o"
+                "textOnMouseOver": "ar fi bine să ai",
+                "text": "<i class='fa fa-check-square-o'></i> bocanci de munte, pelerină, apă"
               }
             ]
           }

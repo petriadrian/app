@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Poiana cu narcise",
     "headline": "Traseul spre Poiana cu Narcise",
-    "description": "<b>| Mai |</b> O pătura albă de narcise și un miros plăcut pun stapanire pe Poiana Negrileasa. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~7h </i>",
+    "description": "<b>| Mai |</b> O pătura albă de narcise și un miros plăcut pun stapanire pe Poiana Negrileasa. <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~4h </i>",
     "fullWidthImg": "img/activities/trails/daffodilMeadow/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/daffodilMeadow/presentation/smallBoxImg.jpg"
   },
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Narcisele înfloresc în luna mai și țin toată primăvara. Anual, în Duminica cea mai apropiată de 20 Mai aici are loc sărbătoare narciselor în care localnicii vând bunătăți făcute la ei în gospodărie iar seara se lasă cu petreceri. Chiar dacă nu e luna Mai, drumul până aici e superb și merită făcut indiferent de perioadă. Traseul arătat pe harta de mai jos este pentru biciclete de asfalt sau mașini/moto deoarece e asfaltat (mai puțin ultimii 3km pe care recomandăm să îi faceți pe jos întrucât peisajele sunt de poveste). <b>Indicațiile de mai jos reprezintă durata și timpul dus-întors.</b>",
+          "textContent": "Narcisele înfloresc în luna mai și țin toată primăvara. Anual, în Duminica cea mai apropiată de 20 Mai aici are loc sărbătoare narciselor în care localnicii vând bunătăți făcute la ei în gospodărie iar seara se lasă cu petreceri. Chiar dacă nu e luna Mai, drumul până aici e superb și merită făcut indiferent de perioadă. Traseul arătat pe harta de mai jos este pentru biciclete de asfalt sau mașini/moto deoarece e asfaltat (mai puțin ultimii 3km pe care recomandăm să îi faceți pe jos întrucât peisajele sunt de poveste). <b>Indicațiile de mai jos reprezintă durata și timpul pentru un singur drum (dus).</b>",
           "seeAlso": {
             "text": "Vezi aici și <b>traseul de MTB sau drumeție</b> (e mai scurt și pe drum de țară)...",
             "textOnMouseOver": "Click aici...",
@@ -38,27 +38,23 @@
             "openInNewTab": true
           },
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJvT6u7RzKTkcR1hUfXNYaqcI",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJvT6u7RzKTkcR1hUfXNYaqcI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs",
             "list": [
               {
-                "textOnMouseOver": "lungime dus-întors",
-                "text": "77km",
-                "iconFortAwesomeClass": "fa fa-refresh"
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~39km"
               },
               {
-                "textOnMouseOver": "durată cu bicicleta dus-întors",
-                "text": "8h",
-                "iconFortAwesomeClass": "fa fa-bicycle"
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~4h"
               },
               {
                 "textOnMouseOver": "durată cu mașina",
-                "text": "2h",
-                "iconFortAwesomeClass": "fa fa-car"
+                "text": "<i class='fa fa-car'></i> ~1h"
               },
               {
-                "textOnMouseOver": "difficulty",
-                "text": "greu",
-                "iconFortAwesomeClass": "fa fa-line-chart"
+                "textOnMouseOver": "dificultate",
+                "text": "<i class='fa fa-line-chart'></i> greu"
               }
             ]
           }

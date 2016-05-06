@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Cârnic Mountain",
     "headline": "Trail on the golden mountain - Cârnic",
-    "description": "From village climb to the Brazi and Anghel Lakes and then on the top of Cârnic, to the Raven Stone and Sfinx. <i class='fa fa-male'> ~3h </i> | <i class='fa fa-bicycle'> ~2h </i>",
+    "description": "From the historical center to the Brazi and Anghel lakes and then on the top of the Cârnic at Piatra Corbului, Sfinx and Cetate Open Pit <i class='fa fa-male'> ~3h </i> | <i class='fa fa-bicycle'> ~2h </i>",
     "fullWidthImg": "img/activities/trails/carnic/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/carnic/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Cârnic Mountain. Hiking trails Rosia Montana",
-    "description": "From the historical center climb to the Brazi and Anghel Lake and then on the top of Cârnic to the Raven Stone and Sfinx. See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
+    "description": "From the historical center to the Brazi and Anghel lakes and then on the top of Cârnic at Piatra Corbului, Sfinx and Cetate Open Pit. See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
     "displayOnShareImg": "img/activities/trails/carnic/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -41,29 +41,24 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJYfZ-m-DMTkcRiccAioKsyvo|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q|place_id:ChIJvc6yG-TMTkcRwUw0D4ybV38|place_id:ChIJ3xPsYeXMTkcR-i2Sq02cmlM|place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk|place_id:ChIJQ-Yfu_zMTkcRytPpBV-ZsFM|place_id:ChIJIZFsev3MTkcRgPGXF8Plk4Y",
             "list": [
               {
-                "textOnMouseOver": "round trip length",
-                "text": "~8km",
-                "iconFortAwesomeClass": "fa fa-refresh"
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~8km"
               },
               {
-                "textOnMouseOver": "walking duration of the round trip",
-                "text": "~3h",
-                "iconFortAwesomeClass": "fa fa-male"
+                "textOnMouseOver": "walking duration",
+                "text": "<i class='fa fa-male'></i> ~3h"
               },
               {
-                "textOnMouseOver": "cycling duration of the round trip",
-                "text": "~2h",
-                "iconFortAwesomeClass": "fa fa-bicycle"
+                "textOnMouseOver": "duration by bike",
+                "text": "<i class='fa fa-bicycle'></i> ~2h"
               },
               {
                 "textOnMouseOver": "difficulty",
-                "text": "medium",
-                "iconFortAwesomeClass": "fa fa-line-chart"
+                "text": "<i class='fa fa-line-chart'></i> medium"
               },
               {
                 "textOnMouseOver": "should have",
-                "text": "hiking boots, raincoat, water",
-                "iconFortAwesomeClass": "fa fa-check-square-o"
+                "text": "<i class='fa fa-check-square-o'></i> hiking boots, raincoat, water"
               }
             ]
           }

@@ -35,19 +35,16 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJmREpqBvNTkcR0-GMtovthj8|place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw|place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw|place_id:ChIJGUVwDuHMTkcRESfpNiecGZQ|place_id:ChIJK4tH5-DMTkcRtHCCOcaoDmY|place_id:ChIJf7dBe97MTkcRUOKwgwP6qHs|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJ3xPsYeXMTkcR-i2Sq02cmlM|place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk",
             "list": [
               {
-                "textOnMouseOver": "round trip length",
-                "text": "~15km",
-                "iconFortAwesomeClass": "fa fa-refresh"
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~15km"
               },
               {
-                "textOnMouseOver": "walking duration of the round trip",
-                "text": "~6h",
-                "iconFortAwesomeClass": "fa fa-male"
+                "textOnMouseOver": "walking duration",
+                "text": "<i class='fa fa-male'></i> ~6h"
               },
               {
                 "textOnMouseOver": "difficulty",
-                "text": "easy",
-                "iconFortAwesomeClass": "fa fa-line-chart"
+                "text": "<i class='fa fa-line-chart'></i> easy"
               }
             ]
           }

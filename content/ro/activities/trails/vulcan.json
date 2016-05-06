@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Muntele Vulcan",
     "headline": "Traseul spre muntele Vulcan",
-    "description": "Descoperiți drumul șerpuit prin Munții Apuseni spre masivul Vulcan. <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~5h </i>",
+    "description": "Descoperiți drumul șerpuit prin Munții Apuseni spre masivul Vulcan. <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~2h </i>",
     "fullWidthImg": "img/activities/trails/vulcan/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/vulcan/presentation/smallBoxImg.jpg"
   },
@@ -30,29 +30,25 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "În poza de mai sus este masivul Vulcan văzut de pe muntele Cârnic din Roșia Montană. Probabil datorită erupției acestuia avem acum o zonă atât de bogata în resurse minerale. Traseul este unul deosebit deoarece veți parcurge Munții Abrudului, trecând printr-o pădure de conifere pe un drum asfaltat până în satul Vulcan la poalele muntelui. Pentru a ajunge de aici în vârf va trebui să urcați pe o poteca de munte. <b>Indicațiile de mai jos reprezintă durata și timpul dus-întors.</b>",
+          "textContent": "În poza de mai sus este masivul Vulcan văzut de pe muntele Cârnic din Roșia Montană. Probabil datorită erupției acestuia avem acum o zonă atât de bogata în resurse minerale. Traseul este unul deosebit deoarece veți parcurge Munții Abrudului, trecând printr-o pădure de conifere pe un drum asfaltat până în satul Vulcan la poalele muntelui. Pentru a ajunge de aici în vârf va trebui să urcați pe o poteca de munte. <b>Indicațiile de mai jos reprezintă durata și timpul pentru un singur drum (dus).</b>",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJzU_RaFLQTkcRJzSmd-Hq-ek",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJzU_RaFLQTkcRJzSmd-Hq-ek&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs",
             "list": [
               {
-                "textOnMouseOver": "lungime dus-întors",
-                "text": "~42km",
-                "iconFortAwesomeClass": "fa fa-refresh"
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~21km"
               },
               {
-                "textOnMouseOver": "durată cu bicicleta dus-întors",
-                "text": "~5h",
-                "iconFortAwesomeClass": "fa fa-bicycle"
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~2h"
               },
               {
-                "textOnMouseOver": "durata cu mașina dus-întors",
-                "text": "~1h",
-                "iconFortAwesomeClass": "fa fa-car"
+                "textOnMouseOver": "durata cu mașina",
+                "text": "<i class='fa fa-car'></i> ~1h"
               },
               {
                 "textOnMouseOver": "dificultate",
-                "text": "mediu",
-                "iconFortAwesomeClass": "fa fa-line-chart"
+                "text": "<i class='fa fa-line-chart'></i> mediu"
               }
             ]
           }

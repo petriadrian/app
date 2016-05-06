@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Ghețarul Scărișoara",
     "headline": "Traseul spre Ghețarul Scărișoara",
-    "description": "Un drum pe malul râului Arieș, prin Țara Moților, Munții Apuseni, spre unul din cele mai mari ghețare subterane din lume, Scărișoara. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~9h </i>",
+    "description": "Un drum pe malul râului Arieș, prin Țara Moților, Munții Apuseni, spre unul din cele mai mari ghețare subterane din lume, Scărișoara. <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~4h </i>",
     "fullWidthImg": "img/activities/trails/scarisoara/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/scarisoara/presentation/smallBoxImg.jpg"
   },
@@ -30,29 +30,25 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Pornim de la Casa Petri și o luăm spre capitala Țării Moților - orașul Câmpeni. Ținem de aici drumul de pe malul râului Arieș unde ne mai putem opri pentru a ne revigora cu apă rece de munte sau să luăm masa pe la vreo pensiune. Trecem de Albac și ajungem în Gârda unde facem dreapta. De aici drumul asfaltat se îngustează și devine parcă și mai frumus întrucât urcăm pe munte până la Ghețar. <b>Indicațiile de mai jos reprezintă durata și timpul dus-întors.</b>",
+          "textContent": "Pornim de la Casa Petri și o luăm spre capitala Țării Moților - orașul Câmpeni. Ținem de aici drumul de pe malul râului Arieș unde ne mai putem opri pentru a ne revigora cu apă rece de munte sau să luăm masa pe la vreo pensiune. Trecem de Albac și ajungem în Gârda unde facem dreapta. De aici drumul asfaltat se îngustează și devine parcă și mai frumus întrucât urcăm pe munte până la Ghețar. <b>Indicațiile de mai jos reprezintă durata și timpul pentru un singur drum (dus).</b>",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJR3EQGOAsSUcR5LmrbHY10WY|place_id:ChIJX0JNIW_RSEcR1vLt5txsNTw",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJX0JNIW_RSEcR1vLt5txsNTw&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJR3EQGOAsSUcR5LmrbHY10WY",
             "list": [
               {
-                "textOnMouseOver": "lungime dus-întors",
-                "text": "~100km",
-                "iconFortAwesomeClass": "fa fa-refresh"
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~51km"
               },
               {
-                "textOnMouseOver": "durată cu bicicleta dus-întors",
-                "text": "9h",
-                "iconFortAwesomeClass": "fa fa-bicycle"
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "4h"
               },
               {
-                "textOnMouseOver": "durata cu mașina dus-întors",
-                "text": "~2h",
-                "iconFortAwesomeClass": "fa fa-car"
+                "textOnMouseOver": "durata cu mașina",
+                "text": "<i class='fa fa-car'></i> ~1h"
               },
               {
                 "textOnMouseOver": "dificultate",
-                "text": "greu",
-                "iconFortAwesomeClass": "fa fa-line-chart"
+                "text": "<i class='fa fa-line-chart'></i> greu"
               }
             ]
           }

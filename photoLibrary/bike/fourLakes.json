@@ -41,24 +41,16 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo|place_id:ChIJi1rDktfMTkcRD_0U6qTLpqg|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs|place_id:ChIJnTJOLfDMTkcR6Bj-a0LHYdg|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q| Jig-Vaidoaia, Rosia Montana, Alba County, Romania",
             "list": [
               {
-                "textOnMouseOver": "round trip length",
-                "text": "~16km",
-                "iconFortAwesomeClass": "fa fa-refresh"
+                                "textOnMouseOver": "length",                 "text": "<i class='fa fa-arrows-h'></i> ~16km"
               },
               {
-                "textOnMouseOver": "walking duration of the round trip",
-                "text": "~6h",
-                "iconFortAwesomeClass": "fa fa-male"
+                "textOnMouseOver": "walking duration",                 "text": "<i class='fa fa-male'></i> ~6h"
               },
               {
-                "textOnMouseOver": "cycling duration of the round trip",
-                "text": "~4h",
-                "iconFortAwesomeClass": "fa fa-bicycle"
+                "textOnMouseOver": "duration by bike",                 "text": "<i class='fa fa-bicycle'></i> ~4h"
               },
               {
-                "textOnMouseOver": "difficulty",
-                "text": "medium",
-                "iconFortAwesomeClass": "fa fa-line-chart"
+                "textOnMouseOver": "difficulty",                 "text": "<i class='fa fa-line-chart'></i> medium"
               }
             ]
           }

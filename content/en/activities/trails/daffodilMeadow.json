@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Daffodil Meadow",
     "headline": "The trail to the Daffodils Meadow",
-    "description": "<b>| May |</b> A white blanket of daffodils and their lovely smell offer you an unforgettable experience. <i class='fa fa-car'> ~2h </i> | <i class='fa fa-bicycle'> ~7h </i>",
+    "description": "<b>| May |</b> A white blanket of daffodils and their lovely smell offer you an unforgettable experience. <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~4h </i>",
     "fullWidthImg": "img/activities/trails/daffodilMeadow/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/daffodilMeadow/presentation/smallBoxImg.jpg"
   },
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "The daffodils starts blooming in May and lives until the beginning of June. Annually, on the Sunday closest to the 20th May there is the Daffodils holiday, when the locals sell their homemade goods, and make parties in the evening. Even if you are not visiting us in May we recommend to make this trail because the trail is great in any period of the year. The road shown on the below map is for touring bikes or cars/motorcycles because is asphalted (except for the last 3km, which we recommend to walk, because the landscapes are spectacular). <b>The below indications represents the round trip length and time.</b>",
+          "textContent": "The daffodils starts blooming in May and lives until the beginning of June. Annually, on the Sunday closest to the 20th May there is the Daffodils holiday, when the locals sell their homemade goods, and make parties in the evening. Even if you are not visiting us in May we recommend to make this trail because the trail is great in any period of the year. The road shown on the below map is for touring bikes or cars/motorcycles because is asphalted (except for the last 3km, which we recommend to walk, because the landscapes are spectacular). <b>The below indications represents one way length and time.</b>",
           "seeAlso": {
             "text": "See here also the <b>MTB or hiking trail</b> (is shorter and on unpaved road)...",
             "textOnMouseOver": "Click here...",
@@ -38,27 +38,23 @@
             "openInNewTab": true
           },
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJvT6u7RzKTkcR1hUfXNYaqcI",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJvT6u7RzKTkcR1hUfXNYaqcI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs",
             "list": [
               {
-                "textOnMouseOver": "round trip length",
-                "text": "77km",
-                "iconFortAwesomeClass": "fa fa-refresh"
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~39km"
               },
               {
-                "textOnMouseOver": "cycling duration of the round trip",
-                "text": "8h",
-                "iconFortAwesomeClass": "fa fa-bicycle"
+                "textOnMouseOver": "duration by bike",
+                "text": "<i class='fa fa-bicycle'></i> ~4h"
               },
               {
-                "textOnMouseOver": "durată cu mașina",
-                "text": "2h",
-                "iconFortAwesomeClass": "fa fa-car"
+                "textOnMouseOver": "duration by car",
+                "text": "<i class='fa fa-car'></i> ~1h"
               },
               {
                 "textOnMouseOver": "difficulty",
-                "text": "heavy",
-                "iconFortAwesomeClass": "fa fa-line-chart"
+                "text": "<i class='fa fa-line-chart'></i> heavy"
               }
             ]
           }

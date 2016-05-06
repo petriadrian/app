@@ -71,13 +71,11 @@
             "list": [
               {
                 "textOnMouseOver": "durată",
-                "text": "15min",
-                "iconFortAwesomeClass": "fa fa-car"
+                "text": "15min"
               },
               {
-                "textOnMouseOver": "round trip length",
-                "text": "10km",
-                "iconFortAwesomeClass": "fa fa-refresh"
+                "textOnMouseOver": "length",
+                "text": "10km"
               }
             ]
           }

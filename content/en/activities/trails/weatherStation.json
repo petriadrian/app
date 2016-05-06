@@ -41,29 +41,24 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw|place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo|place_id:ChIJi1rDktfMTkcRD_0U6qTLpqg|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJf7dBe97MTkcRUOKwgwP6qHs",
             "list": [
               {
-                "textOnMouseOver": "round trip length",
-                "text": "~10km",
-                "iconFortAwesomeClass": "fa fa-refresh"
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~10km"
               },
               {
-                "textOnMouseOver": "walking duration of the round trip",
-                "text": "~4h",
-                "iconFortAwesomeClass": "fa fa-male"
+                "textOnMouseOver": "walking duration",
+                "text": "<i class='fa fa-male'></i> ~4h"
               },
               {
-                "textOnMouseOver": "cycling duration of the round trip",
-                "text": "~3h",
-                "iconFortAwesomeClass": "fa fa-bicycle"
+                "textOnMouseOver": "duration by bike",
+                "text": "<i class='fa fa-bicycle'></i> ~3h"
               },
               {
                 "textOnMouseOver": "difficulty",
-                "text": "medium",
-                "iconFortAwesomeClass": "fa fa-line-chart"
+                "text": "<i class='fa fa-line-chart'></i> medium"
               },
               {
                 "textOnMouseOver": "should have",
-                "text": "hiking boots, raincoat, water",
-                "iconFortAwesomeClass": "fa fa-check-square-o"
+                "text": "<i class='fa fa-check-square-o'></i> hiking boots, raincoat, water"
               }
             ]
           }

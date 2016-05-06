@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Muntele Cârnic",
     "headline": "Traseu pe muntele de aur - Cârnic",
-    "description": "Din centrul istoric urcăm la Tăul Brazi și apoi pe masivul Cârnic la Sfinx și Piatra Corbului (rezervație naturală). <i class='fa fa-male'> ~3h </i> | <i class='fa fa-bicycle'> ~2h </i>",
+    "description": "Din centrul istoric pornim spre Tăul Brazi și Anghel, iar apoi pe masivul Cârnic la Sfinx, Piatra Corbului și Cariera Cetate. <i class='fa fa-male'> ~3h </i> | <i class='fa fa-bicycle'> ~2h </i>",
     "fullWidthImg": "img/activities/trails/carnic/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/carnic/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Muntele Cârnic. Trasee drumeție Roșia Montană",
-    "description": "Pornim din centrul istoric spre Tăul Brazi și Anghel, apoi urcăm pe masivul Cârnic la Sfinx și la Piatra Corbului (rezervație naturală). Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "description": "Din centrul istoric pornim spre Tăul Brazi și Anghel, iar apoi pe masivul Cârnic la Sfinx, Piatra Corbului și Cariera Cetate. Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
     "displayOnShareImg": "img/activities/trails/carnic/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -41,29 +41,24 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJYfZ-m-DMTkcRiccAioKsyvo|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q|place_id:ChIJvc6yG-TMTkcRwUw0D4ybV38|place_id:ChIJ3xPsYeXMTkcR-i2Sq02cmlM|place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk|place_id:ChIJQ-Yfu_zMTkcRytPpBV-ZsFM|place_id:ChIJIZFsev3MTkcRgPGXF8Plk4Y",
             "list": [
               {
-                "textOnMouseOver": "lungime dus-întors",
-                "text": "~8km",
-                "iconFortAwesomeClass": "fa fa-refresh"
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~8km"
               },
               {
-                "textOnMouseOver": "durată pe jos dus-întors",
-                "text": "~3h",
-                "iconFortAwesomeClass": "fa fa-male"
+                "textOnMouseOver": "durata pe jos",
+                "text": "<i class='fa fa-male'></i> ~3h"
               },
               {
-                "textOnMouseOver": "durată cu bicicleta dus-întors",
-                "text": "~2h",
-                "iconFortAwesomeClass": "fa fa-bicycle"
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~2h"
               },
               {
                 "textOnMouseOver": "dificultate",
-                "text": "mediu",
-                "iconFortAwesomeClass": "fa fa-line-chart"
+                "text": "<i class='fa fa-line-chart'></i> mediu"
               },
               {
-                "textOnMouseOver": "indicații",
-                "text": "bocanci de munte, pelerină, apă",
-                "iconFortAwesomeClass": "fa fa-check-square-o"
+                "textOnMouseOver": "ar fi bine să ai",
+                "text": "<i class='fa fa-check-square-o'></i> bocanci de munte, pelerină, apă"
               }
             ]
           }

@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Roșia Montană | cazare | trasee | biciclete | drumeții",
-    "description": "Cazare într-o casă renovată, de patrimoniu din centrul istoric. Trasee de drumeție sau bicicletă spre galerii romane, zone miniere, clădiri de patrimoniu, lacuri și munți. Rezervă biciclete sau trasee ghidate. Încheie ziua în hamac răsfoind o carte din biblioteca noastră. Roșia Montana, jud. Alba, Munții Apuseni, Transilvania, Romania",
+    "description": "Cazare într-o casă renovată, de patrimoniu din centrul istoric. Trasee de drumeție sau bicicletă spre galerii romane, zone miniere, clădiri de patrimoniu, lacuri și munții din zonă. Rezervă biciclete sau trasee ghidate. Încheie ziua în hamac răsfoind o carte din biblioteca noastră. Roșia Montana, jud. Alba, Munții Apuseni, Transilvania, Romania",
     "displayOnShareImg": "img/homePage/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -39,6 +39,9 @@
           },
           {
             "page": "ro/activities/trails/carnic"
+          },
+          {
+            "page": "ro/activities/trails/letySulei"
           }
         ]
       }
@@ -95,6 +98,9 @@
         },
         {
           "page": "ro/accommodation/camping"
+        },
+        {
+          "page": "ro/review"
         }
       ]
     },

@@ -41,29 +41,24 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw|place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo|place_id:ChIJi1rDktfMTkcRD_0U6qTLpqg|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJf7dBe97MTkcRUOKwgwP6qHs",
             "list": [
               {
-                "textOnMouseOver": "lungime dus-întors",
-                "text": "~10km",
-                "iconFortAwesomeClass": "fa fa-refresh"
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~10km"
               },
               {
-                "textOnMouseOver": "durată pe jos dus-întors",
-                "text": "~4h",
-                "iconFortAwesomeClass": "fa fa-male"
+                "textOnMouseOver": "durata pe jos",
+                "text": "<i class='fa fa-male'></i> ~4h"
               },
               {
-                "textOnMouseOver": "durată cu bicicleta dus-întors",
-                "text": "~3h",
-                "iconFortAwesomeClass": "fa fa-bicycle"
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~3h"
               },
               {
                 "textOnMouseOver": "dificultate",
-                "text": "mediu",
-                "iconFortAwesomeClass": "fa fa-line-chart"
+                "text": "<i class='fa fa-line-chart'></i> mediu"
               },
               {
-                "textOnMouseOver": "indicații",
-                "text": "bocanci de munte, pelerină, apă",
-                "iconFortAwesomeClass": "fa fa-check-square-o"
+                "textOnMouseOver": "ar fi bine să ai",
+                "text": "<i class='fa fa-check-square-o'></i> bocanci de munte, pelerină, apă"
               }
             ]
           }

@@ -39,6 +39,9 @@
           },
           {
             "page": "en/activities/trails/carnic"
+          },
+          {
+            "page": "en/activities/trails/letySulei"
           }
         ]
       }
@@ -95,6 +98,9 @@
         },
         {
           "page": "en/accommodation/camping"
+        },
+        {
+          "page": "en/review"
         }
       ]
     },

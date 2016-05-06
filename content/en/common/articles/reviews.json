@@ -217,18 +217,5 @@
         "fullSizeUrl": "img/reviews/article/reviewer/fullSize/13.jpg"
       }
     ]
-  },
-  {
-    "id": "xx",
-    "title": "XXXX - Cluj(RO)",
-    "textContent": "<span style='font-family: Merienda, cursive'>text</span>",
-    "images": [
-      {
-        "title": "XXXX - Cluj(RO)",
-        "description": "from our notebook with reviews.",
-        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/XXXXX.jpg",
-        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/XXXXX.jpg"
-      }
-    ]
   }
 ]

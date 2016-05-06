@@ -35,24 +35,20 @@
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJmREpqBvNTkcR0-GMtovthj8|place_id:ChIJLRYf_xrNTkcRVs2TeQDpAj4|place_id:ChIJ-0OGVhDNTkcRThLcLvAEoLQ|place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw",
             "list": [
               {
-                "textOnMouseOver": "lungime dus-întors",
-                "text": "~5km",
-                "iconFortAwesomeClass": "fa fa-refresh"
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~5km"
               },
               {
-                "textOnMouseOver": "durată pe jos dus-întors",
-                "text": "~3h",
-                "iconFortAwesomeClass": "fa fa-male"
+                "textOnMouseOver": "durata pe jos",
+                "text": "<i class='fa fa-male'></i> ~3h"
               },
               {
                 "textOnMouseOver": "dificultate",
-                "text": "ușor",
-                "iconFortAwesomeClass": "fa fa-line-chart"
+                "text": "<i class='fa fa-line-chart'></i> ușor"
               },
               {
-                "textOnMouseOver": "indicații",
-                "text": "bocanci de munte, pelerină, apă",
-                "iconFortAwesomeClass": "fa fa-check-square-o"
+                "textOnMouseOver": "ar fi bine să ai",
+                "text": "<i class='fa fa-check-square-o'></i> bocanci de munte, pelerină, apă"
               }
             ]
           }
