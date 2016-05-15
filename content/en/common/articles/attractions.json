@@ -2,7 +2,7 @@
   {
     "id": "romanGalleries",
     "title": "The roman galleries - Mining Museum",
-    "textContent": "Underneath the Orlea mountain you will discover a part of the antic galleries built by romans to extract the gold. Under all over the viliage there are over 120km of such roman galleries, but their precise length is not known because the gallery network hasn't been fully researched until now. Wherever you are in Rosia Montana you are above of some such galleries, they are being disposed even on multiple floors. There are guided tours to access the galleries. Each tour last about an hour and they are <b>opened from Monday to Friday 8:00-14:00. They can be visit outside these working hours by making an early reservation (Contact Rus Valentin: (+4)0744346748)</b>",
+    "textContent": "Underneath the Orlea mountain you will discover a part of the antic galleries built by romans to extract the gold. Under all over the village there are over 120km of such roman galleries, but their precise length is not known because the gallery network hasn't been fully researched until now. Wherever you are in Rosia Montana you are above of some such galleries, they are being disposed even on multiple floors. The galleries opened to public are at the Mining Museum 'ROSIAMIN' and there are guided tours to visit them, that last about an hour, and are <b>opened from Monday to Friday 8:00-14:00. They can be visit outside these working hours by making an early reservation (Contact Rus Valentin: (+4)0744346748)</b>",
     "seeAlso": {
       "text": "More details here(RO)",
       "textOnMouseOver": "Click here...",
@@ -96,7 +96,7 @@
   {
     "id": "romanCatholicChurch",
     "title": "The Roman-Catholic Church",
-    "textContent": "The Roman-Catholic Church 'Sfântul Ladislău', was built on higher ground, that makes the clock tower visible from all over the historic center and the bells to be heard from any home. Here you can see the Saint Mary icon (XVIII century) which was donated by Maria Theresa of Austria. The church is surrounded by an old cemetery with funerary monuments (XIX century) that belonged to peoples of different faiths and nations, reflecting the area's multicultural past.",
+    "textContent": "The Roman-Catholic Church 'Sfântul Ladislău', was built on higher ground, that makes the clock tower visible from all over the Historic Center and the bells to be heard from any home. Here you can see the Saint Mary icon (XVIII century) which was donated by Maria Theresa of Austria. The church is surrounded by an old cemetery with funerary monuments (XIX century) that belonged to peoples of different faiths and nations, reflecting the area's multicultural past.",
     "images": [
       {
         "title": "The Roman-Catholic Church",
@@ -150,7 +150,7 @@
       },
       {
         "title": "Jig-Văidoaia Peak",
-        "description": "view towards the historical center and Carnic mountain.",
+        "description": "view towards the Historic Center and Carnic mountain.",
         "thumbnailUrl": "img/activities/trails/attractions/vaidoaiaGalleries/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/vaidoaiaGalleries/fullSize/2.jpg"
       }
@@ -199,7 +199,7 @@
         "fullSizeUrl": "img/activities/trails/attractions/szekeyHouse/fullSize/1.jpg"
       },
       {
-        "title": "Historical center - image from the ‘Stone Wedding' film",
+        "title": "Historic Center - image from the ‘Stone Wedding' film",
         "description": "There were boutiques with various goodies, clothing, slippers repair workshops, tailors ..",
         "thumbnailUrl": "img/activities/trails/attractions/szekeyHouse/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/szekeyHouse/fullSize/2.jpg"
@@ -238,7 +238,7 @@
       },
       {
         "title": "Carnic Plateau",
-        "description": "the view to the historical center",
+        "description": "the view to the Historic Center",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicPlateau/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicPlateau/fullSize/2.jpg"
       }
@@ -247,7 +247,7 @@
   {
     "id": "carnicSfinx",
     "title": "Cârnic Sphinx",
-    "textContent": "The road will take you through a fir forest where you can find mushrooms, raspberries, blackberries and wild strawberries. When you will reach the Sphinx, you're at one of the highest points in Roșia Montană. Ahead you can see the historic center and behind the Cetate open pit. It's called 'Cetate’ (Fortress) because here was indeed a fortress carved into the mountains by Romans, but during communism period it was decided that it should be destroyed and open an mining area here.",
+    "textContent": "The road will take you through a fir forest where you can find mushrooms, raspberries, blackberries and wild strawberries. When you will reach the Sphinx, you're at one of the highest points in Roșia Montană. Ahead you can see the Historic Center and behind the Cetate open pit. It's called 'Cetate’ (Fortress) because here was indeed a fortress carved into the mountains by Romans, but during communism period it was decided that it should be destroyed and open an mining area here.",
     "seeAlso": {
       "text": "More details and pictures with the old fortress here (RO)...",
       "textOnMouseOver": "Click here...",
@@ -339,21 +339,21 @@
     ]
   },
   {
-    "id": "weatherStation",
-    "title": "The Weather Station",
-    "textContent": "To reach the Weather Station you have to climb a little through a pine forest. Once you get there you are on the 'Rotundu' Peak(1240m). The weather station is used by the airplanes to transmit the weather states.",
+    "id": "rotunduPeak",
+    "title": "The Rotundu Peak",
+    "textContent": "To reach the Rotundu Peak (1240m) you will have to climb a little through a pine forest. Once you get there you will see also the Weather Station which is used by the airplanes to receive the weather states.",
     "images": [
+      {
+        "title": "The Rotundu Peak - the view to Apuseni mountains",
+        "description": "Enjoy the view. You can see from here, somewhere in the back, the Vulcan, Găina and Bihor Peaks. (Bihor is the highest from Apuseni mountains(1849m))",
+        "thumbnailUrl": "img/activities/trails/attractions/rotunduPeak/thumbnail/1.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/rotunduPeak/fullSize/1.jpg"
+      },
       {
         "title": "The Weather Station",
         "description": "If you want you can ring at the weather station door and ask for a tour of the building ... the employees are pretty friendly.",
-        "thumbnailUrl": "img/activities/trails/attractions/weatherStation/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/weatherStation/fullSize/1.jpg"
-      },
-      {
-        "title": "The 'Rotundu' Peak(1240m) - the view to 'Apuseni' mountains",
-        "description": "Enjoy the view. You can see from here, somewhere in the back, the 'Vulcan', 'Găina' and 'Bihor' Peaks. (Bihor is the highest from Apuseni mountains(1849m))",
-        "thumbnailUrl": "img/activities/trails/attractions/weatherStation/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/weatherStation/fullSize/2.jpg"
+        "thumbnailUrl": "img/activities/trails/attractions/rotunduPeak/thumbnail/2.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/rotunduPeak/fullSize/2.jpg"
       }
     ]
   },
@@ -487,7 +487,7 @@
   {
     "id": "geamana",
     "title": "Geamana",
-    "textContent": "The next video shows a story of 'Geamana' village that raised awareness for the consequences of open pit mining. So that's why we had the streets protests against the new gold exploitation which should open in Rosia Montana in 2014. So the project was stopped and Rosia saved for now, but for 'Geamana' is to late. During communism the villagers were moved away and the waste from the 'Rosia Poieni' exploitation was thrown all over the village. Now only the tower of the village church can be seen here.",
+    "textContent": "The next video shows a story of 'Geamana' village that raised awareness for the consequences of open pit mining. So that's why we had the streets protests against the new gold exploitation which should open in Rosia Montana in 2014. So the project was stopped and Rosia saved for now, but for 'Geamana' is to late. During communism the villagers were moved away and the waste from the 'Rosia Poieni' exploitation was thrown all over the village. Now only the tower of the village church can be seen here. There is no cyanide and the air is not contaminated but the water is polluted.",
     "seeAlso": {
       "text": "More details here...",
       "textOnMouseOver": "Click here...",
@@ -497,24 +497,5 @@
     "iframe": {
       "src": "https://www.youtube.com/embed/zMvnZnlMzbg"
     }
-  },
-  {
-    "id": "xxx",
-    "title": "model",
-    "textContent": "",
-    "images": [
-      {
-        "title": "",
-        "description": "",
-        "thumbnailUrl": "img/activities/trails/attractions/xxx/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/xxx/fullSize/1.jpg"
-      },
-      {
-        "title": "",
-        "description": "",
-        "thumbnailUrl": "img/activities/trails/attractions/xxx/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/xxx/fullSize/2.jpg"
-      }
-    ]
   }
 ]

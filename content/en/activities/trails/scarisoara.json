@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Scărișoara Glacier",
     "headline": "The trail to the 'Scărișoara' glacier cave",
-    "description": "A trail beside the Arieș river along the 'Moților' Land, Apuseni Mountains, to one of the largest underground glacier in the world, Scărișoara. <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~4h </i>",
+    "description": "A trail along the Arieș river and Apuseni Mountains, to one of the largest underground glacier in the world, Scărișoara. <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~4h </i>",
     "fullWidthImg": "img/activities/trails/scarisoara/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/scarisoara/presentation/smallBoxImg.jpg"
   },
@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "'Scărișoara' Glacier",
-    "description": "A trail beside the Arieș river along the Transylvania Mountains, to one of the largest underground glacier in the world, Scărișoara. See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
+    "title": "Scărișoara Glacier. Bike trails Rosia Montana",
+    "description": "A trail along the Arieș river and Apuseni Mountains, to one of the largest underground glacier in the world, Scărișoara. See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
     "displayOnShareImg": "img/activities/trails/scarisoara/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Start from Casa Petri and head towards the 'Câmpeni' town - the capital of 'Moților' Land. From here continue the road beside the 'Arieș' river, so whenever you want you can have a break and refresh with cold water from the river or to eat at a guest houses. Go along the 'Albac' village and turn right in 'Gârda', on a narrow, asphalted road that will take you up in the mountain to the Glacier. <b>The below indications represents one way length and time.</b>",
+          "textContent": "Start from Casa Petri and head towards Câmpeni, the capital of Moților Land. From here continue the road along the Arieș river, so whenever you want you can have a break and refresh with cold water from the river or to eat at a guest houses from the area. Go along the Albac village and turn right in Gârda village, on a narrow, asphalted road that will take you up on the mountains to the Scărișoara Glacier. <b>The below indications represents one way length and time.</b>",
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJX0JNIW_RSEcR1vLt5txsNTw&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJR3EQGOAsSUcR5LmrbHY10WY",
             "list": [

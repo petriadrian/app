@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Camere",
     "headline": "O cafea într-o dimineață la Roșia Montană?",
-    "description": "Cazare într-o fostă locuință de mineri din centrul istoric Roșia Montană. Camerele au fost renovate, au băi și acces la bucătărie. <br><b>Rezervări camere</b>.",
+    "description": "Cazare într-o fostă locuință de mineri din Centrul Istoric Roșia Montană. Camerele au fost renovate, au băi și acces la bucătărie. <br><b>Rezervări camere</b>.",
     "fullWidthImg": "img/accommodation/rooms/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/rooms/presentation/smallBoxImg.jpg"
   },
@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Cazare in Rosia Montana",
-    "description": "Cazare într-o fostă locuință de mineri din centrul istoric. Camerele au fost renovate, au băi și acces la bucătărie. Vezi și trasee de drumeție sau bicicletă în zonă pentru a descoperi galeriile romane, industria minieră, centrul vechi, munții, lacurile și multe altele",
+    "title": "Cazare la Casa Petri Roșia Montană",
+    "description": "Cazare într-o fostă locuință de mineri din Centrul Istoric. Camerele au fost renovate, au băi și acces la bucătărie. Vezi și trasee de drumeție sau bicicletă în zonă pentru a descoperi galeriile romane, industria minieră, centrul vechi, munții, lacurile și multe altele. Rosia Montana, Alba, Munții Apuseni, Transilvania, Romania.",
     "displayOnShareImg": "img/accommodation/rooms/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Casa Petri este o clădire de patrimoniu din centrul istoric Roșia Montană unde s-a păstrat stilul tradițional ca podelele de lemn, geamurile sau încălzirea prin teracote pe lemne, dar unde am integrat și facilități moderne ca băile sau bucătăria. Dispune de diverse zone de relaxare, de o curte cu iarbă verde și foișor cu priveliște spre muntele Cârnic. Știm că nu vei veni în zonă doar pentru noi, ci pentru a vizita împrejurimile, de aceea <b>donăm 10%</b> din venit celor care au grijă de clădirile de patrimoniu din Roșia Montană sau unor inițiative locale. Cu fiecare grup ne rezervăm timp pentru a povesti despre trasee și ce puteți vizita în zonă. <b>Rezervarea va fi confirmată prin email.</b>"
+          "textContent": "Casa Petri este o clădire de patrimoniu din Centrul Istoric Roșia Montană unde s-a păstrat stilul tradițional ca podelele de lemn, geamurile sau încălzirea prin teracote pe lemne, dar unde am integrat și facilități moderne ca băile sau bucătăria. Dispune de diverse zone de relaxare, de o curte cu iarbă verde și foișor cu priveliște spre muntele Cârnic. Știm că nu vei veni în zonă doar pentru noi, ci pentru a vizita împrejurimile, de aceea donăm o parte din venit celor care au grijă de clădirile de patrimoniu din Roșia Montană sau unor inițiative locale. Cu fiecare grup vom discuta despre trasee și ce puteți vizita în zonă. <b>Rezervarea va fi confirmată prin email.</b>"
         }
       ]
     },
@@ -72,14 +72,6 @@
       "hideAreaUnderButton": "Rezervă Camera cu cărți &nbsp&nbsp<i class='fa fa-caret-down'></i>",
       "fields": [
         {
-          "type": "textRow",
-          "name": "name",
-          "iconFortAwesomeClass": "fa fa-user fa-fw",
-          "placeholder": "Nume",
-          "maxChars": 30,
-          "required": true
-        },
-        {
           "type": "email",
           "name": "email",
           "iconFortAwesomeClass": "fa fa-envelope fa-fw",
@@ -101,13 +93,13 @@
           "placeholder": "Număr de locuri și preț",
           "selectOptions": [
             {
-              "text": "2 locuri - 109lei/noapte"
+              "text": "2 locuri - 99lei/noapte"
             },
             {
               "text": "3 locuri - 149lei/noapte"
             },
             {
-              "text": "4 locuri - 199lei/noapte"
+              "text": "4 locuri - 190lei/noapte"
             },
             {
               "text": "5 locuri - 219lei/noapte"
@@ -128,7 +120,7 @@
               "text": "1 bicicletă - 49lei/zi"
             },
             {
-              "text": "2 biciclete - 89lei/zi"
+              "text": "2 biciclete - 95lei/zi"
             },
             {
               "text": "3 biciclete - 129lei/zi"
@@ -141,7 +133,7 @@
           "checkBoxes": [
             {
               "name": "guidedTours",
-              "text": "<b>trasee ghidate</b> (49lei/grup/4h) - când sosiți o să discutați cu ghidul nostru pentru a vă configura traseele dorite"
+              "text": "<b>trasee ghidate</b> (~19lei/grup/oră) - când sosiți o să îl întâlniți pe ghidul nostru și împreună veți stabili traseele dorite"
             },
             {
               "name": "chatWithLocals",
@@ -153,14 +145,14 @@
           "type": "textarea",
           "name": "others",
           "iconFortAwesomeClass": "fa fa-commenting fa-fw",
-          "placeholder": "Altele",
+          "placeholder": "Scrie-ne aici ce trasee ghidate ai vrea să faci sau dacă dorești să iei masa la fermă, sau alte detalii...",
           "rows": 3,
           "maxChars": 350,
           "required": false
         },
         {
           "type": "infoText",
-          "text": "Pentru grupuri mai mari sau perioade mai lungi oferim <b>discount</b> la cazare, la biciclete sau la trasee ghidate. Specificați în secțiunea de mai sus('Altele') dacă doriți discount și lăsați un număr de telefon."
+          "text": "Pentru grupuri mai mari sau perioade mai lungi oferim <b>discount</b> la cazare, la biciclete sau la trasee ghidate. Specificați în secțiunea de mai sus('alte detalii') dacă doriți discount și lăsați un număr de telefon."
         }
       ]
     },
@@ -202,14 +194,6 @@
       "hideAreaUnderButton": "Rezervă căsuța &nbsp&nbsp<i class='fa fa-caret-down'></i>",
       "fields": [
         {
-          "type": "textRow",
-          "name": "name",
-          "iconFortAwesomeClass": "fa fa-user fa-fw",
-          "placeholder": "Nume",
-          "maxChars": 30,
-          "required": true
-        },
-        {
           "type": "email",
           "name": "email",
           "iconFortAwesomeClass": "fa fa-envelope fa-fw",
@@ -231,10 +215,10 @@
           "placeholder": "Număr de locuri și preț",
           "selectOptions": [
             {
-              "text": "1 loc - 69lei/noapte"
+              "text": "1 loc - 59lei/noapte"
             },
             {
-              "text": "2 locuri - 99lei/noapte"
+              "text": "2 locuri - 95lei/noapte"
             }
           ]
         },
@@ -249,7 +233,7 @@
               "text": "1 bicicletă - 49lei/zi"
             },
             {
-              "text": "2 biciclete - 89lei/zi"
+              "text": "2 biciclete - 95lei/zi"
             },
             {
               "text": "3 biciclete - 129lei/zi"
@@ -266,7 +250,7 @@
             },
             {
               "name": "guidedTours",
-              "text": "<b>trasee ghidate</b> (49lei/grup/4h) - când sosiți o să discutați cu ghidul nostru pentru a vă configura traseele dorite"
+              "text": "<b>trasee ghidate</b> (~19lei/grup/oră) - când sosiți o să îl întâlniți pe ghidul nostru și împreună veți stabili traseele dorite"
             },
             {
               "name": "chatWithLocals",
@@ -278,14 +262,14 @@
           "type": "textarea",
           "name": "others",
           "iconFortAwesomeClass": "fa fa-commenting fa-fw",
-          "placeholder": "Altele",
+          "placeholder": "Scrie-ne aici ce trasee ghidate ai vrea să faci sau dacă dorești să iei masa la fermă, sau alte detalii...",
           "rows": 3,
           "maxChars": 350,
           "required": false
         },
         {
           "type": "infoText",
-          "text": "Pentru grupuri mai mari sau perioade mai lungi oferim <b>discount</b> la cazare, la biciclete sau la trasee ghidate. Specificați în secțiunea de mai sus('Altele') dacă doriți discount și lăsați un număr de telefon."
+          "text": "Pentru grupuri mai mari sau perioade mai lungi oferim <b>discount</b> la cazare, la biciclete sau la trasee ghidate. Specificați în secțiunea de mai sus('alte detalii') dacă doriți discount și lăsați un număr de telefon."
         }
       ]
     },
@@ -327,14 +311,6 @@
       "hideAreaUnderButton": "Rezervă camera din târnaț &nbsp&nbsp<i class='fa fa-caret-down'></i>",
       "fields": [
         {
-          "type": "textRow",
-          "name": "name",
-          "iconFortAwesomeClass": "fa fa-user fa-fw",
-          "placeholder": "Nume",
-          "maxChars": 30,
-          "required": true
-        },
-        {
           "type": "email",
           "name": "email",
           "iconFortAwesomeClass": "fa fa-envelope fa-fw",
@@ -374,7 +350,7 @@
               "text": "1 bicicletă - 49lei/zi"
             },
             {
-              "text": "2 biciclete - 89lei/zi"
+              "text": "2 biciclete - 95lei/zi"
             },
             {
               "text": "3 biciclete - 129lei/zi"
@@ -391,7 +367,7 @@
             },
             {
               "name": "guidedTours",
-              "text": "<b>trasee ghidate</b> (49lei/grup/4h) - când sosiți o să discutați cu ghidul nostru pentru a vă configura traseele dorite"
+              "text": "<b>trasee ghidate</b> (~19lei/grup/oră) - când sosiți o să îl întâlniți pe ghidul nostru și împreună veți stabili traseele dorite"
             },
             {
               "name": "chatWithLocals",
@@ -403,22 +379,16 @@
           "type": "textarea",
           "name": "others",
           "iconFortAwesomeClass": "fa fa-commenting fa-fw",
-          "placeholder": "Altele",
+          "placeholder": "Scrie-ne aici ce trasee ghidate ai vrea să faci sau dacă dorești să iei masa la fermă, sau alte detalii...",
           "rows": 3,
           "maxChars": 350,
           "required": false
         },
         {
           "type": "infoText",
-          "text": "Pentru grupuri mai mari sau perioade mai lungi oferim <b>discount</b> la cazare, la biciclete sau la trasee ghidate. Specificați în secțiunea de mai sus('Altele') dacă doriți discount și lăsați un număr de telefon."
+          "text": "Pentru grupuri mai mari sau perioade mai lungi oferim <b>discount</b> la cazare, la biciclete sau la trasee ghidate. Specificați în secțiunea de mai sus('alte detalii') dacă doriți discount și lăsați un număr de telefon."
         }
       ]
-    },
-    {
-      "type": "presentationOfOtherPages",
-      "banner": {
-        "page": "ro/accommodation/booksAndCosy"
-      }
     },
     {
       "type": "title",
@@ -439,9 +409,6 @@
               "id": "food"
             },
             {
-              "id": "groceryStores"
-            },
-            {
               "id": "boardGames"
             },
             {
@@ -453,6 +420,12 @@
           ]
         }
       ]
+    },
+    {
+      "type": "presentationOfOtherPages",
+      "banner": {
+        "page": "ro/accommodation/booksAndCosy"
+      }
     },
     {
       "type": "title",

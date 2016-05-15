@@ -1,7 +1,7 @@
 {
   "presentation": {
     "title": "Reviews",
-    "headline": "Crestem impreuna cu cei ce ne trec pragul",
+    "headline": "Crestem împreună cu cei ce ne trec pragul",
     "description": "Oameni faini ne-au trecut pragul. Vezi aici experiențele și impresiile lor. O parte dintre ei pot fi contactați",
     "fullWidthImg": "img/reviews/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/reviews/presentation/smallBoxImg.jpg"
@@ -78,6 +78,9 @@
             },
             {
               "id": "10"
+            },
+            {
+              "id": "14"
             }
           ]
         }

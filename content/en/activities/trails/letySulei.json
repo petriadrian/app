@@ -1,19 +1,19 @@
 {
   "presentation": {
-    "title": "Lety and Sulei peak",
+    "title": "Lety and Sulei",
     "headline": "The trail to the Lety and Sulei peaks",
-    "description": "Climb to the Vaidoaia Gallery, Tăul Mare Lake and Lety and Sulei Peaks, then return along the Corna and Brazi lakes. <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
+    "description": "Climb along the Vaidoaia Gallery and 'Tăul Mare' Lake to the Lety and Sulei peaks and return by the Corna and Brazi lakes. <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
     "fullWidthImg": "img/activities/trails/letySulei/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/letySulei/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "en/activities/trails/letySulei",
-    "textOnMouseOver": "See the Lety and Șulei trail...",
+    "textOnMouseOver": "See the trail...",
     "openInNewTab": false
   },
   "metaData": {
     "title": "Lety and Sulei. Hiking trails Rosia Montana",
-    "description": "Climb along the Vaidoaia Gallery and 'Tăul Mare' Lake to the Lety and Sulei peaks. Then go to Corna and Brazi lakes. See the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
+    "description": "Climb along the Vaidoaia Gallery and 'Tăul Mare' Lake to the Lety and Sulei peaks and return by the Corna and Brazi lakes. See the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
     "displayOnShareImg": "img/activities/trails/letySulei/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -118,7 +118,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "en/activities/trails/historicalCenter"
+        "page": "en/activities/trails/historicCenter"
       }
     },
     {

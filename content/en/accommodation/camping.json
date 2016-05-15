@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Camping in Rosia Montana, Transylvania",
-    "description": "Safe camping, in our yard with mountain view, bathroom, kitchen, dinning area, gazebo and hammocks. See also the hiking or bike trails from the area. Rent bikes and guided tours to discover more about the roman galleries and mining industry from Rosia Montana, Transylvania - Romania.",
+    "title": "Camping at Casa Petri Rosia Montana",
+    "description": "Safe camping, in our yard with mountain view, bathroom, kitchen, dinning area, gazebo and hammocks. See also the hiking or bike trails to the attractions of our area. Rent bikes and guided tours to discover more about the roman galleries and mining industry from Rosia Montana, Alba, Apuseni Mountains, Transylvania - Romania.",
     "displayOnShareImg": "img/accommodation/camping/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "We also love to go camping in the mountains when we find a good spot. That's why we prepared in our yard a small camping place, for maximum 4 tents, with bathroom, kitchen, dinning area, gazebo and hammocks. We know that you are not visiting our area just to meet us, but also to see the surroundings, that's why <b>we donate 10%</b> from our income to those who take care of the heritage buildings from Roșia Montană or to some local initiatives. With each group we will spend time to talk about the trails from our area. <b>The booking will be confirmed by email.</b>."
+          "textContent": "We also love to go camping in the mountains when we find a good spot. That's why we prepared in our yard a small camping place, for maximum 4 tents, with bathroom, kitchen, dinning area, gazebo and hammocks. We know that you are not visiting our area just to meet us, but also to see the surroundings, that's why a part from our income will be donated to those who take care of the heritage buildings from Roșia Montană or to some local initiatives. With each group we will spend time to talk about the trails from our area. <b>The booking will be confirmed by email.</b>."
         }
       ]
     },
@@ -67,14 +67,6 @@
       "sendButtonText": "Send",
       "fields": [
         {
-          "type": "textRow",
-          "name": "name",
-          "iconFortAwesomeClass": "fa fa-user fa-fw",
-          "placeholder": "Name",
-          "maxChars": 30,
-          "required": true
-        },
-        {
           "type": "email",
           "name": "email",
           "iconFortAwesomeClass": "fa fa-envelope fa-fw",
@@ -99,22 +91,22 @@
               "text": "2 persons - 12€ /night"
             },
             {
-              "text": "3 persons - 18€ /night"
+              "text": "3 persons - 15€ /night"
             },
             {
-              "text": "4 persons - 23€ /night"
+              "text": "4 persons - 19€ /night"
             },
             {
-              "text": "5 persons - 29€ /night"
+              "text": "5 persons - 25€ /night"
             },
             {
-              "text": "6 persons - 33€ /night"
+              "text": "6 persons - 29€ /night"
             },
             {
-              "text": "7 persons - 39€ /night"
+              "text": "7 persons - 35€ /night"
             },
             {
-              "text": "8 persons - 43€ /night"
+              "text": "8 persons - 39€ /night"
             }
           ]
         },
@@ -150,7 +142,7 @@
           "checkBoxes": [
             {
               "name": "guidedTours",
-              "text": "<b>guided tours</b> (15€/group/4h) - you will meet our guide and discuss about the trails you want to make"
+              "text": "<b>guided tours</b> (~9€/group/hour) - on arrival you will meet our guide and together will configure and make the trails"
             },
             {
               "name": "chatWithLocals",
@@ -162,14 +154,14 @@
           "type": "textarea",
           "name": "others",
           "iconFortAwesomeClass": "fa fa-commenting fa-fw",
-          "placeholder": "Others",
+          "placeholder": "Write here which guided tours you will like to make, or if you want to eat at the farm, or other details...",
           "rows": 3,
           "maxChars": 350,
           "required": false
         },
         {
           "type": "infoText",
-          "text": "For larger groups or longer periods we can offer a <b>discount</b> for accommodation or for bikes or for guided routes. Specify in the above section('Other') if you want a discount and leave a phone number."
+          "text": "For larger groups or longer periods we can offer a <b>discount</b> for accommodation or for bikes or for guided routes. Specify in the above section('other details') if you want a discount and leave a phone number."
         }
       ]
     },
@@ -196,9 +188,6 @@
             },
             {
               "id": "food"
-            },
-            {
-              "id": "groceryStores"
             },
             {
               "id": "boardGames"

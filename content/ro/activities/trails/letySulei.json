@@ -1,8 +1,8 @@
 {
   "presentation": {
-    "title": "Vârfurile Lety și Șulei",
+    "title": "Lety și Șulei",
     "headline": "Traseul spre masivele Lety și Șulei",
-    "description": "Urcăm spre Galeria Văidoaia, Tăul Mare până pe masivele Lety și Șulei apoi spre tăurile Corna și Brazi. <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
+    "description": "Urcăm spre Galeria Văidoaia și Tăul Mare până pe masivele Lety și Șulei, apoi coborâm pe la tăurile Corna și Brazi. <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
     "fullWidthImg": "img/activities/trails/letySulei/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/letySulei/presentation/smallBoxImg.jpg"
   },
@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Lety și Șulei. Trasee drumeție Roșia Montană",
-    "description": "Urcăm spre Galeria Văidoaia, Tăul Mare până pe masivele Lety și Șulei apoi spre tăurile Corna și Brazi. Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "title": "Lety și Șulei. Trasee drumeție, biciletă Roșia Montană",
+    "description": "Urcăm spre Galeria Văidoaia și Tăul Mare până pe masivele Lety și Șulei, apoi coborâm pe la tăurile Corna și Brazi. Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
     "displayOnShareImg": "img/activities/trails/letySulei/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -118,7 +118,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "ro/activities/trails/historicalCenter"
+        "page": "ro/activities/trails/historicCenter"
       }
     },
     {

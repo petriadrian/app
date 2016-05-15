@@ -80,9 +80,9 @@
   {
     "id": "5",
     "title": "Alex - Cluj(RO)",
-    "textContent": "<span style='font-family: Merienda, cursive'>It was really cool! It's the most beautiful building from Roșia Montană and is right in the historical center!</span>",
+    "textContent": "<span style='font-family: Merienda, cursive'>It was really cool! It's the most beautiful building from Roșia Montană and is right in the Historic Center!</span>",
     "seeAlso": {
-      "text": "Alex also made a clip with photos made on his hiking trip to Cârnic peak and to Weather Station. You can see it here...",
+      "text": "Alex also made a clip with photos from his hiking trips to Cârnic and Țarina trails. You can see it here...",
       "textOnMouseOver": "Click here...",
       "link": "https://photos.google.com/share/AF1QipPIX2LP4qX1vBZ9k1aHL3n2_DwqE1JGlV9UfULwlkQe3lBo_XPm-SJfo5Nn29ZtsQ/story/AF1QipNvtEn_xmGQ0Rssl_iGlIlPaUYQJT_1OjBeTeC4qi9-i_hECYF8YvVmCd2HMCan1A?key=dG9NQ012enB5M2VNeHkwcmJyZXVOUkZweHBZeGJ3",
       "openInNewTab": true
@@ -122,7 +122,7 @@
     "images": [
       {
         "title": "Alexandra - Bucharest(RO)",
-        "description": " with her friends on 'Rotundu' Peak - Weather Station",
+        "description": " with the marathon team on 'Rotundu' Peak - Țarina",
         "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/7.jpg",
         "fullSizeUrl": "img/reviews/article/reviewer/fullSize/7.jpg"
       }
@@ -217,5 +217,10 @@
         "fullSizeUrl": "img/reviews/article/reviewer/fullSize/13.jpg"
       }
     ]
+  },
+  {
+    "id": "14",
+    "title": "Horațiu - Alba Iulia(RO)",
+    "textContent": "<span style='font-family: Merienda, cursive'> Those from Casa Petri are great hosts, they always comes with something new and are open to any proposal of the guests. Once you visit them you will also visit all the beautiful and unique places of Rosia Montana... I really recommend this house to everyone!!!</span>"
   }
 ]

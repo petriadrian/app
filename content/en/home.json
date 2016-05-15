@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Rosia Montana | accommodation | hikes | bike | trails",
-    "description": "Accommodation in a restored heritage house from the historical center. Hiking or bike trails along the roman galleries, gold mining areas, heritage buildings, mountains, lakes. Rent bikes or guided tours. At the end of the day read a book from our library in the hammock. Rosia Montana, Alba, Apuseni Mountains, Transylvania, Romania.",
+    "description": "Accommodation in a restored heritage house from the Historic Center. Hiking or bike trails along the roman galleries, gold mining areas, heritage buildings, mountains, lakes. Rent bikes or guided tours. At the end of the day read a book from our library in the hammock. Rosia Montana, Alba, Apuseni Mountains, Transylvania, Romania.",
     "displayOnShareImg": "img/homePage/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -29,10 +29,10 @@
             "page": "en/activities/trails/romanGalleries"
           },
           {
-            "page": "en/activities/trails/historicalCenter"
+            "page": "en/activities/trails/historicCenter"
           },
           {
-            "page": "en/activities/trails/weatherStation"
+            "page": "en/activities/trails/tarina"
           },
           {
             "page": "en/activities/trails/geamana"
@@ -57,7 +57,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "We wish tourism in this mining locality, Rosia Montana, that's why we restored our inherited house for tourist accommodation. It's a heritage building from the historical center and it had an important role in the community life, being used as a bank, medical center and even as a cinema. Then it was bought by our grandparents, which worked in mining industry, and used for living. On this website you can see the inside and the accommodation offer. <br>Rosia Montana is unique, with a valuable cultural heritage where you will have a lot of things to visit and learn about. Discover the mining industry for gold and silver which began from ancient times, by visiting the roman galleries, the stamp mills and artificial lakes. See their evolution to open pit exploitations, waste ponds and machines. Discover the historical center with the heritage houses built in different styles, schools for distinct languages, churches for different cults, built by the nations who come here over time to extract gold. The surroundings are also amazing, many pathways are binding the village to mountain peaks, lakes and other natural objectives. Discover all this through the hiking and cycling trails that you will find on this website. You can rent bikes or guided tours."
+          "textContent": "We wish tourism in this mining locality, Rosia Montana, that's why we restored our inherited house for tourist accommodation. It's a heritage building from the Historic Center and it had an important role in the community life, being used as a bank, medical center and even as a cinema. Then it was bought by our grandparents, which worked in mining industry, and used for living. On this website you can see the inside and the accommodation offer. <br>Rosia Montana is unique, with a valuable cultural heritage where you will have a lot of things to visit and learn about. Discover the mining industry for gold and silver which began from ancient times, by visiting the roman galleries, the stamp mills and artificial lakes. See their evolution to open pit exploitations, waste ponds and machines. Discover the Historic Center with the heritage houses built in different styles, schools for distinct languages, churches for different cults, built by the nations who come here over time to extract gold. The surroundings are also amazing, many pathways are binding the village to mountain peaks, lakes and other natural objectives. Discover all this through the hiking and cycling trails that you will find on this website. You can rent bikes or guided tours."
         }
       ]
     },

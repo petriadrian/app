@@ -1,8 +1,8 @@
 {
   "presentation": {
-    "title": "Roman Galleries",
+    "title": "Roman Galleries - Orlea",
     "headline": "Discover the Roman Galleries of Rosia Montana",
-    "description": "Visit the Roman Galleries from Orlea Massive where gold diggings can be seen and then visit two churches and the Limestone Sculptures. <i class='fa fa-male'> ~3h </i>",
+    "description": "Visit the Roman Galleries from Mining Museum to see the gold diggings and others attractions of the Orlea area (churches and the Limestone Sculptures). <i class='fa fa-male'> ~3h </i>",
     "fullWidthImg": "img/activities/trails/romanGalleries/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/romanGalleries/presentation/smallBoxImg.jpg"
   },
@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Roman Galleries. Hiking trails Rosia Montana",
-    "description": "Visit the Roman Galleries from Orlea Massive where gold diggings can be seen and then visit two churches and the Limestone Sculptures. See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
+    "title": "The Orlea Area trail - Roman Galleries Rosia Montana",
+    "description": "Visit the Roman Galleries from Mining Museum to see the gold diggings and others attractions of the Orlea area (churches and the Limestone Sculptures). See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
     "displayOnShareImg": "img/activities/trails/romanGalleries/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -105,7 +105,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "en/activities/trails/weatherStation"
+        "page": "en/activities/trails/tarina"
       }
     },
     {

@@ -2,13 +2,13 @@
   "presentation": {
     "title": "Muntele Vulcan",
     "headline": "Traseul spre muntele Vulcan",
-    "description": "Descoperiți drumul șerpuit prin Munții Apuseni spre masivul Vulcan. <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~2h </i>",
+    "description": "Probabil datorită erupției acestui vulcan avem o zonă atât de bogata în resurse minerale. Vezi traseul <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~2h </i>",
     "fullWidthImg": "img/activities/trails/vulcan/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/vulcan/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "ro/activities/trails/vulcan",
-    "textOnMouseOver": "Vezi traseul spre Vulcan",
+    "textOnMouseOver": "Vezi traseul...",
     "openInNewTab": false
   },
   "metaData": {

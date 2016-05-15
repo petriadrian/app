@@ -1,13 +1,8 @@
 [
   {
     "id": "food",
-    "title": "<i class='fa fa-cutlery'></i> Places to eat",
-    "textContent": "You will find here a small kitchen with dishes, refrigerator, microwave and a stove. You can cook but after please leave the kitchen clean :) <br> We can also book a neighbor who can come here to cook for you or we can organize to eat homemade meals in the village at the locals. Please tell us if you want that when you make a booking or when you arrive in Rosia."
-  },
-  {
-    "id": "groceryStores",
-    "title": "<i class='fa fa-shopping-basket'></i> Grocery stores",
-    "textContent": "There are 3 grocery stores around the house (~5min).",
+    "title": "<i class='fa fa-cutlery'></i> Food",
+    "textContent": "We have a kitchen with dishes, refrigerator, stove and microwave where you can cook, or, if you wish, we can order food from a local restaurant. Our recommendation is to eat homemade meals at local farm (~10min away), but please inform us when you book a room, or as early as possible, to make the reservations. There are also three grocery stores around the house (~5min away).",
     "seeAlso": {
       "text": "You can see here how to reach them from Casa Petri...",
       "textOnMouseOver": "Click here",

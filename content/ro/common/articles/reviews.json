@@ -68,7 +68,7 @@
     "title": "Alex - Cluj(RO)",
     "textContent": "<span style='font-family: Merienda, cursive'>E foarte misto! E cea mai frumoasa cladire din Rosia Montana, si e super aproape de centru!</span>",
     "seeAlso": {
-      "text": "Alex a făcut și o prezentare cu poze făcute pe traseul masivului Cârnic și spre Stația Meteo. Îl poți vedea aici...",
+      "text": "Alex a făcut și o prezentare cu poze făcute pe traseele Cârnic și Țarina. Îl poți vedea aici...",
       "textOnMouseOver": "Click aici...",
       "link": "https://photos.google.com/share/AF1QipPIX2LP4qX1vBZ9k1aHL3n2_DwqE1JGlV9UfULwlkQe3lBo_XPm-SJfo5Nn29ZtsQ/story/AF1QipNvtEn_xmGQ0Rssl_iGlIlPaUYQJT_1OjBeTeC4qi9-i_hECYF8YvVmCd2HMCan1A?key=dG9NQ012enB5M2VNeHkwcmJyZXVOUkZweHBZeGJ3",
       "openInNewTab": true
@@ -108,7 +108,7 @@
     "images": [
       {
         "title": "Alexandra - București(RO)",
-        "description": " cu prietenii pe Vârful Rotundu - Stația Meteo",
+        "description": " cu echipa maratonului pe Vârful Rotundu - Țarina",
         "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/7.jpg",
         "fullSizeUrl": "img/reviews/article/reviewer/fullSize/7.jpg"
       }
@@ -203,5 +203,10 @@
         "fullSizeUrl": "img/reviews/article/reviewer/fullSize/13.jpg"
       }
     ]
+  },
+  {
+    "id": "14",
+    "title": "Horațiu - Alba Iulia(RO)",
+    "textContent": "<span style='font-family: Merienda, cursive'> Sunt gazde deosebite cei de la casa petri, mereu inventive cu mult entuziasm si deschise la orice propunere in avantajul oaspetelui. Odata ce ai trecut pe la ei nu se poate sa nu mai mergi in acele locuri frumoase care doar la Rosia Montana le poti admira .. Le recomand cu drag si altora !!!</span>"
   }
 ]

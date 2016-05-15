@@ -1,19 +1,19 @@
 {
   "presentation": {
-    "title": "Copper pit and Geamana",
+    "title": "Geamăna",
     "headline": "The Cooper Open Pit and flooded village Geamana",
-    "description": "What's the real price of the metals? See the Cooper open pit 'Rosia Poinei' and the flooded village 'Geamana'. <i class='fa fa-male'> ~6h </i> | <i class='fa fa-bicycle'> ~4h </i> | <i class='fa fa-car'> ~1h </i>",
+    "description": "What's the real price of the metals? See the Cooper open pit Rosia Poinei and the flooded village Geamana. <i class='fa fa-male'> ~6h </i> | <i class='fa fa-bicycle'> ~4h </i> | <i class='fa fa-car'> ~1h </i>",
     "fullWidthImg": "img/activities/trails/geamana/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/geamana/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "en/activities/trails/geamana",
-    "textOnMouseOver": "See the Geamana trail",
+    "textOnMouseOver": "See the trail...",
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Geamana and Copper Open Pit trail",
-    "description": "What's the real price of the metals? See the Cooper open pit 'Rosia Poinei' and the flooded village 'Geamana'. See here the trail and discover more hiking or bike trails in the Rosia Montana area. Book accommodation, bikes, guided tours, camping.",
+    "title": "Geamăna and Copper Open Pit trail",
+    "description": "What's the real price of the metals? See the Cooper open pit Rosia Poinei and the flooded village Geamăna. See here the trail and discover more hiking or bike trails in the Rosia Montana area. Book accommodation, bikes, guided tours, camping.",
     "displayOnShareImg": "img/activities/trails/geamana/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Here is one of the biggest open pit from Europe. How does it looks like and what are the consequences? Let's hit the road... From the historical center we head to the The Big Lake('Tăul Mare'). Once we get here you still have to climb a little until you will reach the Copper Open Pit - 'Rosia Poieni'. The open pit looks like dessert: dry soil, no vegetables, a shaved mountain and rusty huge machines. Get back on the asphalted road until you meet an unpaved road on the left which will lead you through some traditional villages with an authentic charm: 'Muntari', 'Poiana' and 'Vința'. Once you will see a big lake with powerful colors of red and blue, you reached the waste lake 'Geamana'. <b>The below indications represents one way length and time.</b> The part of the trail from Rosia Poieni Open Pit to Geamana is quite long so we recommend to get back at Casa Petri and go to 'Geamana' by car.",
+          "textContent": "Here is one of the biggest open pit from Europe. How does it looks like and what are the consequences? Let's hit the road... From the Historic Center we head to the The 'Tăul Mare' Lake. Once we get here you still have to climb a little until you will reach the Copper Open Pit - Rosia Poieni. The open pit looks like dessert: dry soil, no vegetables, a shaved mountain and rusty huge machines. Get back on the asphalted road until you meet an unpaved road on the left which will lead you through some traditional villages with an authentic charm: Muntari, Poiana and Vința. Once you will see a big lake with powerful colors of red and blue, you reached the waste lake Geamana. There is no cyanide and the air is not contaminated but the water is polluted. <b>The below indications represents one way length and time.</b> The part of the trail from Rosia Poieni Open Pit to Geamana is quite long so we recommend to get back at Casa Petri and go to 'Geamana' by car.",
           "seeAlso": {
             "text": "See here the trail to 'Geamăna' by car...",
             "textOnMouseOver": "Click here...",
@@ -115,7 +115,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "en/activities/trails/weatherStation"
+        "page": "en/activities/trails/tarina"
       }
     },
     {

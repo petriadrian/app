@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Roșia Montană | cazare | trasee | biciclete | drumeții",
-    "description": "Cazare într-o casă renovată, de patrimoniu din centrul istoric. Trasee de drumeție sau bicicletă spre galerii romane, zone miniere, clădiri de patrimoniu, lacuri și munții din zonă. Rezervă biciclete sau trasee ghidate. Încheie ziua în hamac răsfoind o carte din biblioteca noastră. Roșia Montana, jud. Alba, Munții Apuseni, Transilvania, Romania",
+    "description": "Cazare într-o casă renovată, de patrimoniu din Centrul Istoric. Trasee de drumeție sau bicicletă spre galerii romane, zone miniere, clădiri de patrimoniu, lacuri și munții din zonă. Rezervă biciclete sau trasee ghidate. Încheie ziua în hamac răsfoind o carte din biblioteca noastră. Roșia Montana, jud. Alba, Munții Apuseni, Transilvania, Romania",
     "displayOnShareImg": "img/homePage/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -29,10 +29,10 @@
             "page": "ro/activities/trails/romanGalleries"
           },
           {
-            "page": "ro/activities/trails/historicalCenter"
+            "page": "ro/activities/trails/historicCenter"
           },
           {
-            "page": "ro/activities/trails/weatherStation"
+            "page": "ro/activities/trails/tarina"
           },
           {
             "page": "ro/activities/trails/geamana"
@@ -57,13 +57,13 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Deoarece ne dorim turism la Roșia Montană, am renovat căsuța moștenită de la bunici și am deschis-o ca spațiu de cazare. Este o clădire de patrimoniu din centrul istoric ce a avut un rol important în viața comunității ca sediu de bancă, centru medical sau chiar cinematograf. Bunicii noștri, care lucrau în minerit, au cumparat-o apoi și au folosit-o ca locuință. Vedeți interiorul și posibilitățile de cazare de care dispunem. <br>Roșia Montană este unică, cu o moștenire culturală valoroasă pe care merită să o vizitați. Descoperiți industria minieră de aur și argint care a început în Antichitate prin a vizita galeriile romane, șteampurile sau lacurile artificiale. Vedeți cum a evoluat prin carierele de suprafață, iazuri de decantare și utilaje. Descoperiți centrul istoric cu case de patrimoniu în diferite stiluri, școli cu predare în diverse limbi, biserici de diferite culte ridicate de diverse nații venite aici de-a lungul timpului pentru a extrage aur. Împrejurimile sunt de asemenea superbe, drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și alte obiective din Munții Apuseni. Descoperiți toate aceastea prin traseele de drumeție sau de bicicletă pe care le găsiți pe site. Puteți rezerva trasee ghidate sau biciclete."
+          "textContent": "Deoarece ne dorim turism la Roșia Montană, am renovat căsuța moștenită de la bunici și am deschis-o ca spațiu de cazare. Este o clădire de patrimoniu din Centrul Istoric ce a avut un rol important în viața comunității ca sediu de bancă, centru medical sau chiar cinematograf. Bunicii noștri, care lucrau în minerit, au cumparat-o apoi și au folosit-o ca locuință. Vedeți interiorul și posibilitățile de cazare de care dispunem. <br>Roșia Montană este unică, cu o moștenire culturală valoroasă pe care merită să o vizitați. Descoperiți industria minieră de aur și argint care a început în Antichitate prin a vizita galeriile romane, șteampurile sau lacurile artificiale. Vedeți cum a evoluat prin carierele de suprafață, iazuri de decantare și utilaje. Descoperiți Centrul Istoric cu case de patrimoniu în diferite stiluri, școli cu predare în diverse limbi, biserici de diferite culte ridicate de diverse nații venite aici de-a lungul timpului pentru a extrage aur. Împrejurimile sunt de asemenea superbe, drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și alte obiective din Munții Apuseni. Descoperiți toate aceastea prin traseele de drumeție sau de bicicletă pe care le găsiți pe site. Puteți rezerva trasee ghidate sau biciclete."
         }
       ]
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-bicycle'></i> Ce fac acolo?",
+      "text": "<i class='fa fa-bicycle'></i> Ce facvdgdf acolo?",
       "addLinkInPageHeadline": false,
       "sectionId": "activities"
     },

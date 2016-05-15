@@ -1,19 +1,19 @@
 {
   "presentation": {
     "title": "Detunata",
-    "headline": "The trail to the basalt columns Detunata",
-    "description": "A huge massive, like a wall, made of rectangular basalt columns. Also visit 'Tăul Mare' Lake and some specific mountain villages. <i class='fa fa-male'> ~3h </i> | <i class='fa fa-bicycle'> ~2h </i>",
+    "headline": "The trail to the basalt columns - Detunata",
+    "description": "A huge massif, like a wall, made of rectangular basalt columns. Also visit 'Tăul Mare' Lake and some specific mountain villages. <i class='fa fa-male'> ~3h </i> | <i class='fa fa-bicycle'> ~2h </i>",
     "fullWidthImg": "img/activities/trails/detunata/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/detunata/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "en/activities/trails/detunata",
-    "textOnMouseOver": "See the Detunata trail...",
+    "textOnMouseOver": "See the trail...",
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Detunata Massive. Hiking trails Rosia Montana",
-    "description": "A huge massive, like a wall, made of rectangular basalt columns. Also visit 'Tăul Mare' Lake and some traditional villages. See the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping. Apuseni Mountains, Transylvania, Romania",
+    "title": "Detunata. Hiking or bike trails in Rosia Montana",
+    "description": "A huge massif, like a wall, made of rectangular basalt columns. Also visit 'Tăul Mare' Lake and some traditional villages. See the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping. Apuseni Mountains, Transylvania, Romania",
     "displayOnShareImg": "img/activities/trails/detunata/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "The trail starts from the historical center, from Casa Petri and heads to 'Tăul Mare' lake where you can freshen up a bit with the cold mountain water. From here continue towards the villages 'Muntari' and 'Poiana' through a typical landscape of 'Moților' Land, dotted with haystacks and pastures and where you can see herds of sheep or cows grazing. The walk continues until you come across a mountain ridge formed of some tall columns of basalt as in the picture above. Looks a bit scary ... isn’t it? A path will take you up on top of the ridge and the fear will disappear when you'll see the view from here. The trail is fully marked with the 'red cross' sign by Salvamont (Mountain Rescue) so it is very easy to follow. If you go by bicycle, please note that for the last 500 meters the climb is on a narrow path that is not accessible for bicycles. <b>The below indications represents one way length and time.</b>",
+          "textContent": "The trail starts from the Historic Center, from Casa Petri and heads to 'Tăul Mare' lake where you can freshen up a bit with the cold mountain water. From here continue towards the villages 'Muntari' and 'Poiana' through a typical landscape of 'Moților' Land, dotted with haystacks and pastures and where you can see herds of sheep or cows grazing. The walk continues until you come across a mountain ridge formed of some tall columns of basalt as in the picture above. Looks a bit scary ... isn’t it? A path will take you up on top of the ridge and the fear will disappear when you'll see the view from here. The trail is fully marked with the 'red cross' sign by Salvamont (Mountain Rescue) so it is very easy to follow. If you go by bicycle, please note that for the last 500 meters the climb is on a narrow path that is not accessible for bicycles. <b>The below indications represents one way length and time.</b>",
           "seeAlso": {
             "text": "You can find here the GPS data of the trail...",
             "textOnMouseOver": "Click here...",
@@ -112,7 +112,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "en/activities/trails/geamana"
+        "page": "en/activities/trails/copperMineRoad"
       }
     },
     {

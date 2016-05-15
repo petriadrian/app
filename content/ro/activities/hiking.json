@@ -1,19 +1,19 @@
 {
   "presentation": {
-    "title": "Trasee drumeție",
-    "headline": "Prietenii, aparatul foto, rucsacul... Pornim la drum!",
-    "description": "Cuprind centrul istoric, galerii romane, zone miniere, biserici, clădiri de patrimoniu, tăurile, satele și masivele din zonă. Oferim și <b>trasee ghidate</b>.",
+    "title": "Drumeții",
+    "headline": "Trasee de drumeție în Roșia Montană",
+    "description": "<b>Trasee pe zone</b> (de la galeriile romane și centrul istoric până pe vârful munților). <br><b>Trasee tematice</b> (evoluția minieră, protestele sau viața rurală). <br>Se pot <b>rezerva ghizi</b>.",
     "fullWidthImg": "img/activities/hiking/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/hiking/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "ro/activities/hiking",
-    "textOnMouseOver": "Vezi traseele de drumeție",
+    "textOnMouseOver": "Vezi traseele...",
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Trasee drumetie - descoperă Roșia Montană",
-    "description": "Cuprind centrul istoric, galerii romane, zone miniere, biserici, clădiri de patrimoniu, tăuri și masivele din zonă. Puteți rezerva și trasee ghidate, cazare, biciclete sau campare.",
+    "title": "Trasee de drumetie în Roșia Montană",
+    "description": "Trasee pe zone (de la galeriile romane și centrul istoric până pe vârful mmasivelor din zonă) și trasee tematice (evoluția minieră, protestele din Roșia Montană sau viața rurală). Puteți rezerva trasee ghidate, cazare, biciclete sau campare în Rosia Montana, Alba, Munții Apuseni, Transilvania, Romania.",
     "displayOnShareImg": "img/activities/hiking/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Roșia Montană e înconjurată de munți, văi, lacuri, biserici, clădiri de patrimoniu și galerii antice. Abia așteptăm să o descoperi și tu! Așa că de vii la Roșia Montană, nu vizita doar muzeul și magazinul din centru, pentru că zona are mult mai mult de oferit. Uită-te peste traseele de mai jos și găsește-le pe cele pe care vrei să le parcurgi, în funcție de condiția ta fizică și de atracțiile turistice pe care vrei să le vezi. Hărțile traseelor sunt realizate în <b>google maps</b> astfel că poți face zoom, poți să le vezi în modul satelit sau hartă sau poți să le accesezi de pe orice telefon sau tabletă în timpul drumeției. La fiecare traseu găsiți indicații estimate de noi, iar cele afișate în interiorul hărții sunt estimate de google. Cam toate traseele au și linkuri de unde poți downloada datele GPS ale respectivului traseu."
+          "textContent": "Roșia Montană e înconjurată de munți, lacuri, biserici, clădiri de patrimoniu, zone miniere și galerii antice, așa că de vii aici nu vizita doar muzeul și piața centrală, deoarece zona are mult mai mult de oferit. Uită-te peste traseele de mai jos și găsește-le pe cele pe care vrei să le parcurgi, în funcție de condiția ta fizică și de atracțiile turistice pe care vrei să le vezi. Fiecare traseu are hărți realizate în <b>google maps</b> astfel că poți face zoom, pot fi văzute în modul satelit sau hartă sau pot fi accesate de pe orice telefon sau tabletă în timpul drumeției. Majoritatea traseelor au și date GPS."
         }
       ]
     },
@@ -50,15 +50,24 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Trasee scurte",
-      "sectionId": "shortTrails",
+      "text": "<i class='fa fa-map-signs'></i> Trasee pe zone",
+      "sectionId": "trailsOnAreas",
       "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Aceste trasee sunt împărțite pe zonele Roșiei Montane, aflate în jurul casei. Dacă doriți ele se pot combina pentru a obține trasee mai lungi (de exemplu 'Centrul Istoric' cu 'Cârnic' sau 'Țarina' cu 'Lety și Sulei'), dar o să vă spunem mai multe despre asta când sosiți."
+        }
+      ]
     },
     {
       "type": "presentationOfOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/activities/trails/historicalCenter"
+          "page": "ro/activities/trails/historicCenter"
         },
         {
           "page": "ro/activities/trails/romanGalleries"
@@ -67,32 +76,51 @@
           "page": "ro/activities/trails/carnic"
         },
         {
-          "page": "ro/activities/trails/weatherStation"
+          "page": "ro/activities/trails/letySulei"
         },
         {
-          "page": "ro/activities/trails/letySulei"
-        }
-      ]
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Trasee lungi",
-      "sectionId": "longTrails",
-      "addLinkInPageHeadline": true
-    },
-    {
-      "type": "presentationOfOtherPages",
-      "detailBoxes": [
+          "page": "ro/activities/trails/tarina"
+        },
         {
           "page": "ro/activities/trails/detunata"
         },
         {
           "page": "ro/activities/trails/geamana"
-        },
-        {
-          "page": "ro/activities/trails/topAttractions"
         }
       ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trasee tematice",
+      "sectionId": "thematicTrails",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": " Organizăm următoarele trasee tematice ghidate, prin care descoperiți poveștile, trecutul și prezentul Roșiei Montane: <br><br> <b>Traseul evoluției miniere</b> - începem cu povestea veche a mineritului moștenit din tată în fiu, prin a vizita galeriile Antice realizate de agatârși cu apă și foc, iar apoi galeriile trapeizoidale realizate de daci și romani cu dalta și ciocanul, după care continuăm cu instalațiile pentru procesarea aurului ca șteampurile sau lacurile de acumulare. Terminăm prin a vizita uzinele, iazurile de decantare și carierele de suprafață realizate recent, în perioada comunistă, prin care s-au ras munți și dealuri, iar satul Geamăna a fost acoperit cu deșeuri miniere. <br><br><b>Traseul protestelor din Roșia Montană</b> - trecem prin zonele unde au avut loc proteste pentru sau împotriva proiectului de minerit propus de firma canadiană în 2007 și care dorea să transforme întreg satul într-o imensă carieră de aur. Vă povestim ce s-a întâmplat și care ar fi fost efectele implementării acestui proiect în zonă. La final vom urmări la Casa Petri câteva filmulețe cu protestele masive de stradă din 2014, organizate în țară și în străinătate, împotriva acestui proiect. <br><br>Rezervările pentru aceste trasee tematice se fac de pe pagina de cazare când rezervați o cameră, iar la sosire il veți întâlni pe ghidul nostru împreună cu care veți parcurge traseele.",
+          "seeAlso": {
+            "text": "Deschide pagina de cazare...",
+            "textOnMouseOver": "Click aici...",
+            "link": "ro/accommodation/rooms",
+            "openInNewTab": false
+          }
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "",
+      "sectionId": "justToDisplayALine",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "presentationOfOtherPages",
+      "banner": {
+        "page": "ro/activities/trails/topAttractions"
+      }
     },
     {
       "type": "title",

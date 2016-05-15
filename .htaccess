@@ -1,6 +1,6 @@
 RewriteEngine On
 
-  RequestHeader set X-Prerender-Token "pyv0ZZUgVqpdMFwthtVU"
+  RequestHeader set X-Prerender-Token "5JNRvTAcODpEI7MAdiiM"
 
   RewriteCond %{HTTP_USER_AGENT} googlebot|baiduspider|facebookexternalhit|twitterbot|rogerbot|linkedinbot|embedly|quora\ link\ preview|showyoubot|outbrain|pinterest|slackbot|vkShare|W3C_Validator [NC,OR]
   RewriteCond %{QUERY_STRING} _escaped_fragment_

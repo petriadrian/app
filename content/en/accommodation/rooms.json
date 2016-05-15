@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Rooms",
     "headline": "Morning coffee in Roșia Montană?",
-    "description": "Accommodation in a heritage house from the historical center of Roșia Montana, recently renovated with bathrooms and kitchen. <br><b>Book rooms</b>.",
+    "description": "Accommodation in a heritage house from the Historic Center of Roșia Montana, recently renovated with bathrooms and kitchen. <br><b>Book rooms</b>.",
     "fullWidthImg": "img/accommodation/rooms/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/rooms/presentation/smallBoxImg.jpg"
   },
@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Accommodation in Rosia Montana",
-    "description": "Accommodation in a heritage house from the historical center of Roșia Montana, recently renovated with bathrooms and kitchen. See also the hiking and bike trails to discover our area: roman galleries, gold mining industry, heritage buildings, mountains, lakes and many more.",
+    "title": "Accommodation at Casa Petri Rosia Montana",
+    "description": "Accommodation in a heritage house from the Historic Center of Roșia Montana, recently renovated with bathrooms and kitchen access. See also the hiking and bike trails to discover our area: roman galleries, gold mining industry, heritage buildings, mountains, lakes and many more. Rosia Montana, Alba, Apuseni Mountains, Transylvania - Romania.",
     "displayOnShareImg": "img/accommodation/rooms/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Casa Petri is situated in the historical center of Rosia Montana and is a heritage building where we preserved the traditional style like the wooden floor, the windows or the heating with terracotta stoves, but were we added modern facilities like the bathrooms. We have cosy spots around the house and a green yard with a nice view to the Cânic peak. We know that you are not visiting our area just to meet us, but also to see the surroundings, that's why <b>we donate 10%</b> from our income to those who take care of the heritage buildings from Roșia Montană or to some local initiatives. With each group we will spend time to talk about the trails from our area. <b>The booking will be confirmed by email.</b>"
+          "textContent": "Casa Petri is situated in the Historic Center of Rosia Montana and is a heritage building where we preserved the traditional style like the wooden floor, the windows or the heating with terracotta stoves, but were we added modern facilities like the bathrooms. We have cosy spots around the house and a green yard with a nice view to the Cânic peak. We know that you are not visiting our area just to meet us, but also to see the surroundings, that's why a part from our income will be donated to those who take care of the heritage buildings from Roșia Montană or to some local initiatives. With each group we will discuss about the places to visit and trails from our area. <b>The booking will be confirmed by email.</b>"
         }
       ]
     },
@@ -72,14 +72,6 @@
       "sendButtonText": "Send",
       "hideAreaUnderButton": "Book this room &nbsp&nbsp<i class='fa fa-caret-down'></i>",
       "fields": [
-        {
-          "type": "textRow",
-          "name": "name",
-          "iconFortAwesomeClass": "fa fa-user fa-fw",
-          "placeholder": "Name",
-          "maxChars": 30,
-          "required": true
-        },
         {
           "type": "email",
           "name": "email",
@@ -142,7 +134,7 @@
           "checkBoxes": [
             {
               "name": "guidedTours",
-              "text": "<b>guided tours</b> (15€/group/4h) - you will meet our guide and discuss about the trails you want to make"
+              "text": "<b>guided tours</b> (~9€/group/hour) - on arrival you will meet our guide and together will configure and make the trails"
             },
             {
               "name": "chatWithLocals",
@@ -154,14 +146,14 @@
           "type": "textarea",
           "name": "others",
           "iconFortAwesomeClass": "fa fa-commenting fa-fw",
-          "placeholder": "Others",
+          "placeholder": "Write here which guided tours you will like to make, or if you want to eat at the farm, or other details...",
           "rows": 3,
           "maxChars": 350,
           "required": false
         },
         {
           "type": "infoText",
-          "text": "For larger groups or longer periods we can offer a <b>discount</b> for accommodation or for bikes or for guided routes. Specify in the above section('Other') if you want a discount and leave a phone number."
+          "text": "For larger groups or longer periods we can offer a <b>discount</b> for accommodation or for bikes or for guided routes. Specify in the above section('other details') if you want a discount and leave a phone number."
         }
       ]
     },
@@ -202,14 +194,6 @@
       "sendButtonText": "Send",
       "hideAreaUnderButton": "Book the little house &nbsp&nbsp<i class='fa fa-caret-down'></i>",
       "fields": [
-        {
-          "type": "textRow",
-          "name": "name",
-          "iconFortAwesomeClass": "fa fa-user fa-fw",
-          "placeholder": "Name",
-          "maxChars": 30,
-          "required": true
-        },
         {
           "type": "email",
           "name": "email",
@@ -267,7 +251,7 @@
             },
             {
               "name": "guidedTours",
-              "text": "<b>guided tours</b> (15€/group/4h) - you will meet our guide and discuss about the trails you want to make"
+              "text": "<b>guided tours</b> (~9€/group/hour) - on arrival you will meet our guide and together will configure and make the trails"
             },
             {
               "name": "chatWithLocals",
@@ -279,14 +263,14 @@
           "type": "textarea",
           "name": "others",
           "iconFortAwesomeClass": "fa fa-commenting fa-fw",
-          "placeholder": "Others",
+          "placeholder": "Write here which guided tours you will like to make, or if you want to eat at the farm, or others details...",
           "rows": 3,
           "maxChars": 350,
           "required": false
         },
         {
           "type": "infoText",
-          "text": "For larger groups or longer periods we can offer a <b>discount</b> for accommodation or for bikes or for guided routes. Specify in the above section('Other') if you want a discount and leave a phone number."
+          "text": "For larger groups or longer periods we can offer a <b>discount</b> for accommodation or for bikes or for guided routes. Specify in the above section('other details') if you want a discount and leave a phone number."
         }
       ]
     },
@@ -327,14 +311,6 @@
       "sendButtonText": "Send",
       "hideAreaUnderButton": "Book the 'Upstairs' room  &nbsp&nbsp<i class='fa fa-caret-down'></i>",
       "fields": [
-        {
-          "type": "textRow",
-          "name": "name",
-          "iconFortAwesomeClass": "fa fa-user fa-fw",
-          "placeholder": "Name",
-          "maxChars": 30,
-          "required": true
-        },
         {
           "type": "email",
           "name": "email",
@@ -392,7 +368,7 @@
             },
             {
               "name": "guidedTours",
-              "text": "<b>guided tours</b> (15€/group/4h) - you will meet our guide and discuss about the trails you want to make"
+              "text": "<b>guided tours</b> (~9€/group/hour) - on arrival you will meet our guide and together will configure and make the trails"
             },
             {
               "name": "chatWithLocals",
@@ -404,22 +380,16 @@
           "type": "textarea",
           "name": "others",
           "iconFortAwesomeClass": "fa fa-commenting fa-fw",
-          "placeholder": "Others",
+          "placeholder": "Write here which guided tours you will like to make, or if you want to eat at the farm, or other details...",
           "rows": 3,
           "maxChars": 350,
           "required": false
         },
         {
           "type": "infoText",
-          "text": "For larger groups or longer periods we can offer a <b>discount</b> for accommodation or for bikes or for guided routes. Specify in the above section('Other') if you want a discount and leave a phone number."
+          "text": "For larger groups or longer periods we can offer a <b>discount</b> for accommodation or for bikes or for guided routes. Specify in the above section('other details') if you want a discount and leave a phone number."
         }
       ]
-    },
-    {
-      "type": "presentationOfOtherPages",
-      "banner": {
-        "page": "en/accommodation/booksAndCosy"
-      }
     },
     {
       "type": "title",
@@ -440,9 +410,6 @@
               "id": "food"
             },
             {
-              "id": "groceryStores"
-            },
-            {
               "id": "boardGames"
             },
             {
@@ -454,6 +421,12 @@
           ]
         }
       ]
+    },
+    {
+      "type": "presentationOfOtherPages",
+      "banner": {
+        "page": "en/accommodation/booksAndCosy"
+      }
     },
     {
       "type": "title",

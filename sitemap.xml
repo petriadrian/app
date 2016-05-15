@@ -45,7 +45,7 @@
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails/historicalCenter</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails/historicCenter</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
@@ -63,7 +63,7 @@
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails/weatherStation</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails/tarina</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
@@ -93,7 +93,7 @@
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails/rollerCoaster</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails/copperMineRoad</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
@@ -173,7 +173,7 @@
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/activities/trails/historicalCenter</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/activities/trails/historicCenter</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
@@ -191,7 +191,7 @@
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/activities/trails/weatherStation</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/activities/trails/tarina</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
@@ -221,7 +221,7 @@
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/activities/trails/rollerCoaster</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/activities/trails/copperMineRoad</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>

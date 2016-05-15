@@ -1,6 +1,6 @@
 {
   "presentation": {
-    "title": "Cariera de Cupru și Geamăna",
+    "title": "Geamăna",
     "headline": "Cariera de Cupru și satul scufundat Geamăna",
     "description": "Care este prețul metalelor? Vezi cariera de suprafață Rosia Poinei și satul scufundat în steril Geamăna. <i class='fa fa-male'> ~6h </i> | <i class='fa fa-bicycle'> ~4h </i> | <i class='fa fa-car'> ~1h </i>",
     "fullWidthImg": "img/activities/trails/geamana/presentation/fullWidthImg.jpg",
@@ -8,7 +8,7 @@
   },
   "url": {
     "link": "ro/activities/trails/geamana",
-    "textOnMouseOver": "Vezi traseul spre Geamana",
+    "textOnMouseOver": "Vezi traseul...",
     "openInNewTab": false
   },
   "metaData": {
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Cum arată o exploatare minieră de mare anvergură și care sunt efectele ei? Să pornim la drum... Din centrul istoric plecăm spre Tăul Mare, de unde mai urcăm puțin până ajungem la drumul asfaltat care ne va duce la cariera de cupru. O zonă deșertică, un munte ras, defrișări și utilaje abandonate - aici e Cariera 'Roșia Poieni'. Ne întoarcem apoi pe drumul asfaltat până vedem pe partea stângă un drum de țară care ne va duce prin satele Muntari, Poiana și Vința până la iazul de decantare 'Geamăna'. <b>Indicațiile de mai jos reprezintă durata și timpul pentru un singur drum (dus).</b> Traseul de la Cariera de Cupru la Geamăna e destul de lung. Recomandăm să vă întoarceți la Casa Petri și să mergeți cu mașina.",
+          "textContent": "Cum arată o exploatare minieră de mare anvergură și care sunt efectele ei? Să pornim la drum... Din Centrul Istoric plecăm spre Tăul Mare, de unde mai urcăm puțin până ajungem la drumul asfaltat care ne va duce la cariera de cupru. O zonă deșertică, un munte ras, defrișări și utilaje abandonate - aici e Cariera 'Roșia Poieni'. Ne întoarcem apoi pe drumul asfaltat până vedem pe partea stângă un drum de țară care ne va duce prin satele Muntari, Poiana și Vința până la iazul de decantare 'Geamăna'. Aici nu se află cianuri și aerul nu e contaminat dar apa este poluată. <b>Indicațiile de mai jos reprezintă durata și timpul pentru un singur drum (dus).</b> Traseul de la Cariera de Cupru la Geamăna e destul de lung. Recomandăm să vă întoarceți la Casa Petri și să mergeți cu mașina.",
           "seeAlso": {
             "text": "Vedeți aici traseul de mașină spre 'Geamăna'",
             "textOnMouseOver": "Click aici...",
@@ -115,7 +115,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "ro/activities/trails/weatherStation"
+        "page": "ro/activities/trails/tarina"
       }
     },
     {

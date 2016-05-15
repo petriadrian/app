@@ -1,8 +1,8 @@
 {
   "presentation": {
-    "title": "Bike trails",
+    "title": "Biking",
     "headline": "Bike trails in Rosia Montana",
-    "description": "MTB trails on unpaved roads along mountain peaks, lakes and mining area. Asphalted trails for touring bikes towards touristic sights. <b>Rent bikes or guided tours<b>",
+    "description": "<b>MTB trails</b> on unpaved roads along mountain peaks, lakes and mining area. <br><b>Asphalted trails</b> for touring bikes towards touristic sights. <br><b>Rent bikes or guided tours<b>",
     "fullWidthImg": "img/activities/cycling/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/cycling/presentation/smallBoxImg.jpg"
   },
@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Cycling trails in Rosia Montana",
-    "description": "MTB trails on unpaved roads along mountain peaks, lakes, villages or unused mining areas. Asphalted trails for touring bikes towards touristic sights. Rent bikes or guided tours on bikes to find out more about  Rosia Montana, Apuseni Mountains, Transylvania, Romania.",
+    "title": "Bike trails in Rosia Montana",
+    "description": "MTB trails on unpaved roads along mountain peaks, lakes, villages or unused mining areas. Asphalted trails for touring bikes, towards touristic sights. Rent bikes or guided tours on bikes to find out more about Rosia Montana, Apuseni Mountains, Transylvania, Romania.",
     "displayOnShareImg": "img/activities/cycling/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Test your bike brakes, inflate the tires and bring it to Roșia Montană, or you can rent one from us. The MTB trails will take you on unpaved roads, around the village and surroundings towards various attractions. The paved trails - for touring bikes, motorcycles or cars - are mapped on national roads, towards the attractions from our area. The maps of the trails are made in <b>google maps</b>, so you can zoom in, see them in satellite mode or access them on any smarthphone or tablet. For each trail you'll find indications estimated by us and the ones within the map are provided by google. For most of the trails we added also links from where you can download de GPS data."
+          "textContent": "Test your bike brakes, inflate the tires and bring it to Roșia Montană, or you can rent one from us. The MTB trails will take you on unpaved roads, around the village and surroundings towards various attractions. The paved trails - for touring bikes, motorcycles or cars - are mapped on national roads, towards the attractions from our area. The maps of the trails are made in <b>google maps</b>, so you can zoom in, see them in satellite mode or access them on any smarthphone or tablet. For each trail you'll find indications estimated by us and the ones within the map are provided by google. For most of the trails we added also the GPS data."
         }
       ]
     },
@@ -64,13 +64,13 @@
           "page": "en/activities/trails/letySulei"
         },
         {
-          "page": "en/activities/trails/weatherStation"
+          "page": "en/activities/trails/tarina"
         },
         {
           "page": "en/activities/trails/detunata"
         },
         {
-          "page": "en/activities/trails/rollerCoaster"
+          "page": "en/activities/trails/copperMineRoad"
         },
         {
           "page": "en/activities/trails/geamana"

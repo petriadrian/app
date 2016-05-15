@@ -1,8 +1,8 @@
 {
   "presentation": {
-    "title": "Galeriile Romane",
+    "title": "Galeriile Romane - Orlea",
     "headline": "Descoperă Galeriile Romane din Roșia Montană",
-    "description": "Intrăm în Galeriile Romane din adâncul masivului Orlea, de unde se extragea aur și apoi vizităm două biserici și sculpturile de calcar. <i class='fa fa-male'> ~3h </i>",
+    "description": "Vizităm Galeriile Romane de la Muzeul Mineritului prin care se extrăgea aurul și alte atracții din zona Orlea (biserici și sculpturile de calcar). <i class='fa fa-male'> ~3h </i>",
     "fullWidthImg": "img/activities/trails/romanGalleries/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/romanGalleries/presentation/smallBoxImg.jpg"
   },
@@ -15,8 +15,8 @@
     "showPageHeadline": true
   },
   "metaData": {
-    "title": "Galeriile Romane. Trasee drumeție Roșia Montană",
-    "description": "Intrăm în Galeriile Romane din adâncul masivului Orlea, de unde se extragea aur și apoi vizităm două biserici și sculpturile de calcar. Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "title": "Traseul zonei Orlea - Galeriile Romane Roșia Montană",
+    "description": "Vizităm Galeriile Romane de la Muzeul Mineritului prin care se extrăgea aurul și alte atracții din zona Orlea (biserici și sculpturile de calcar). Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
     "displayOnShareImg": "img/activities/trails/romanGalleries/presentation/displayOnShareImg.jpg"
   },
   "sections": [
@@ -105,7 +105,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "ro/activities/trails/weatherStation"
+        "page": "ro/activities/trails/tarina"
       }
     },
     {

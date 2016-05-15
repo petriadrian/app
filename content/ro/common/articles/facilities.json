@@ -1,15 +1,10 @@
 [
   {
     "id": "food",
-    "title": "<i class='fa fa-cutlery'></i> Locuri de luat masa",
-    "textContent": "Vă punem la dispoziție o mică bucătărie cu veselă, frigider, cuptor cu microunde, aragaz sau sandwich maker. Aici puteți găti dar să lăsați curat după :) <br> Avem o vecină care poate să vină aici să gătească pentru voi sau puteți lua masa la localnici care gătesc cu produse făcute de ei. Dacă doriți acest lucru spuneți-ne în momentul rezervării sau când sosiți în Roșia, iar noi îi contactăm și vă trimitem la ei la fermă."
-  },
-  {
-    "id": "groceryStores",
-    "title": "<i class='fa fa-shopping-basket'></i> Magazine alimentare",
-    "textContent": "În apropirea casei (~5min) găsești 3 magazine alimetare care sunt destul de bine dotate.",
+    "title": "<i class='fa fa-cutlery'></i> Mâncare",
+    "textContent": "Vă punem la dispoziție o bucătărie cu veselă, frigider, cuptor cu microunde și aragaz unde puteți găti. Dacă doriți se poate comanda mâncare și de la un restaurant local. Recomandarea noastră este să luați masa la o fermă din apropiere (~10min) unde se gătește cu produse proprii, dar vă rugăm să ne spuneți dacă doriți asta când rezervați o cameră sau cât mai din timp, pentru a face rezervări. În apropirea casei (~5min) veți găsi de asemenea și magazine alimetare care sunt destul de bine dotate.",
     "seeAlso": {
-      "text": "Vezi aici unde sunt situate și cum ajungi la ele...",
+      "text": "Vedeți aici unde sunt situate și cum ajungi la ele...",
       "textOnMouseOver": "Click aici...",
       "link": "https://www.google.ro/maps/dir/Emiliana+Shop,+DC146,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Historical+center,+nr.+331A,+Casa+Petri,+Ro%C8%99ia+Montan%C4%83+517615/Bereczky+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Mixt+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/@46.3066051,23.129791,18z/data=!4m26!4m25!1m5!1m1!1s0x474ecce0f07e87bf:0xc1e5f1730ebc127c!2m2!1d23.1317125!2d46.3060228!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!1m5!1m1!1s0x474ecce0563eefe1:0x44635688d438a223!2m2!1d23.1308247!2d46.30597!1m5!1m1!1s0x474ecce04e3e997b:0x14730c483b204593!2m2!1d23.1300147!2d46.3061442!3e2?hl=ro",
       "openInNewTab": true
@@ -18,7 +13,7 @@
   {
     "id": "freeWifi",
     "title": "<i class='fa fa-wifi'></i> Wifi gratuit",
-    "textContent": "În toate camerele, chiar și în grădină în hamac o să aveți acces gratuit la internet wireless așa că nu uitați să vă dați 'check in' :P"
+    "textContent": "În toate camerele, chiar și în hamacul din grădină o să aveți acces gratuit la internet wireless așa că nu uitați să vă dați 'check in' :P"
   },
   {
     "id": "emergencies",

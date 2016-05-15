@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Top 10 atracții",
     "headline": "Top 10 atracții de vizitat în Roșia Montană",
-    "description": "Traseul principalelor atracții (centrul istoric, lacurile, galeriile romane, monumentele de patrimoniu) <i class='fa fa-male'> ~6h </i>",
+    "description": "Traseul principalelor atracții (Centrul Istoric, lacurile, galeriile romane, monumentele de patrimoniu) <i class='fa fa-male'> ~6h </i>",
     "fullWidthImg": "img/activities/trails/topAttractions/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/topAttractions/presentation/smallBoxImg.jpg"
   },
@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Top 10 atracții. Trasee drumeție Roșia Montană",
-    "description": "Traseul principalelor atracții din Roșia Montană (centrul istoric, lacurile, galeriile romane, monumentele de patrimoniu). Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "title": "Top 10 atracții de vizitat în Roșia Montană",
+    "description": "Traseul principalelor atracții din Roșia Montană (Centrul Istoric, lacurile, galeriile romane, monumentele de patrimoniu). Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
     "displayOnShareImg": "img/activities/trails/topAttractions/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Ați ajuns în Rosia Montana sau plănuiți o vizită și nu prea aveți mult timp la dispoziție? Vă propunem acest traseu care cuprinde <b>principalele</b> obiective turistice de aici. Sub hartă găsiți câteva imagini și sfaturi despre aceste obiective. Porniți de la Casa Petri care se află chiar în centrul istoric și vizitați pas cu pas fiecare obiectiv.",
+          "textContent": "Ați ajuns în Rosia Montana sau plănuiți o vizită și nu prea aveți mult timp la dispoziție? Vă propunem acest traseu care cuprinde <b>principalele</b> obiective turistice de aici. Sub hartă găsiți câteva imagini și sfaturi despre aceste obiective. Porniți de la Casa Petri care se află chiar în Centrul Istoric și vizitați pas cu pas fiecare obiectiv.",
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJmREpqBvNTkcR0-GMtovthj8|place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw|place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw|place_id:ChIJGUVwDuHMTkcRESfpNiecGZQ|place_id:ChIJK4tH5-DMTkcRtHCCOcaoDmY|place_id:ChIJf7dBe97MTkcRUOKwgwP6qHs|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJ3xPsYeXMTkcR-i2Sq02cmlM|place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk",
             "list": [
@@ -119,7 +119,7 @@
     {
       "type": "presentationOfOtherPages",
       "banner": {
-        "page": "ro/activities/trails/weatherStation"
+        "page": "ro/activities/trails/tarina"
       }
     },
     {
