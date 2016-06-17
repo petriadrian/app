@@ -1,10 +1,12 @@
 <footer class="container-fluid" ng-controller="FooterCtrl">
 
     <!-- REVIEWS -->
-    <section class="reviewPreviewLayout defaultClickStyle row"
-             ng-click="openUrl(reviewPageContent.url)"
-             title="{{reviewPageContent.url.textOnMouseOver}}">
+    <a class="reviewPreviewLayout defaultClickStyle row"
+       href="{{reviewPageContent.url.link}}"
+       target="{{reviewPageContent.url.openInNewTab ? '_blank' : '_self'}}"
+       title="{{reviewPageContent.url.textOnMouseOver}}">
         <i class="col-xs-12 col-sm-12 col-md-12 col-lg-12 fa fa-quote-left"></i>
+
         <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 reviewPreviewArea">
             <div class="carousel slide" data-ride="carousel" data-interval="9000">
                 <div id="reviewCarouselLayout" class="carousel-inner">
@@ -20,17 +22,19 @@
             </div>
         </div>
         <i class="col-xs-12 col-sm-12 col-md-12 col-lg-12 fa fa-ellipsis-h"></i>
-    </section>
+    </a>
 
     <div class="row">
         <!--website contact data-->
-        <section class="col-xs-10 col-sm-5 col-md-4 col-lg-2 contactCard defaultClickStyle"
-                 ng-click="openUrl(footerContent.contactCard.url)"
-                 title="{{footerContent.contactCard.url.textOnMouseOver}}">
-            <p ng-repeat="contactData in footerContent.contactCard.content">
-                <i ng-class="contactData.iconFortAwesomeClass"></i>
-                <span ng-bind-html="contactData.text | trustHtml"></span>
-            </p>
+        <section class="col-xs-10 col-sm-5 col-md-4 col-lg-2 contactCard defaultClickStyle">
+            <a href="{{footerContent.contactCard.url.link}}"
+               target="{{footerContent.contactCard.url.openInNewTab ? '_blank' : '_self'}}"
+               title="{{footerContent.contactCard.url.textOnMouseOver}}">
+                <p ng-repeat="contactData in footerContent.contactCard.content">
+                    <i ng-class="contactData.iconFortAwesomeClass"></i>
+                    <span ng-bind-html="contactData.text | trustHtml"></span>
+                </p>
+            </a>
         </section>
 
         <!--facebook-->

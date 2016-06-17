@@ -8,9 +8,13 @@
     <header ng-if="!!article.title" class="articleTitle">
         <h3><span ng-bind-html="article.title | trustHtml"></span></h3>
     </header>
-    <section ng-if="!!article.textContent" class="defaultArticleText">
-        <span ng-bind-html="article.textContent | trustHtml"></span>
-        <a ng-if="!!article.seeAlso" ng-click="openUrl(article.seeAlso)" title="{{article.seeAlso.textOnMouseOver}}" class="lookLikeLink" ng-bind-html="article.seeAlso.text | trustHtml"></a>
+    <section class="defaultArticleText">
+        <span ng-if="!!article.textContent" ng-bind-html="article.textContent | trustHtml"></span>
+        <a ng-if="!!article.seeAlso"
+           href="{{article.seeAlso.link}}"
+           target="{{article.seeAlso.openInNewTab ? '_blank' : '_self'}}"
+           title="{{article.seeAlso.textOnMouseOver}}" class="lookLikeLink"
+           ng-bind-html="article.seeAlso.text | trustHtml"></a>
     </section>
     <section ng-if="!!article.images">
         <a rel="fancybox" ng-repeat="image in article.images" title="{{image.title}} - {{image.description}}"

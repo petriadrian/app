@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Roșia Montana is surrounded by mountains, lakes, heritage buildings, ancient galleries and mining areas, so if you come here, don't visit just the museum and the central market, because the area has much more to offer. Check the trails below and find the ones you like, based on the touristic attractions you would like to see. The maps of the trails are made with <b>google maps</b>, so you can zoom in, see them in satellite mode or access them from any device. Most of the trails have GPS data."
+          "textContent": "Roșia Montana is surrounded by mountains, lakes, heritage buildings, ancient galleries and mining areas, so if you come here, don't visit just the museum and the central market, because the area has much more to offer. Check the trails below and find the ones you like, based on the touristic attractions you would like to see. Each trail has <b>online maps</b>, some has <b>GPS</b> data, so you can zoom in, see them in satellite mode or access them from any device during your journey."
         }
       ]
     },
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
           "page": "en/activities/trails/historicCenter"
@@ -99,12 +99,17 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "",
-          "textContent": "We organize the following guided thematic trails, to discover more about the stories, the past and the present of Rosia Montana: <br><br> <b> The trail of the mining evolution</b> - will start with the old mining story of Rosia Montana by visiting the Antic galleries made by Agathyrsi with fire and water, then we will continue with the rectangular galleries made by romans with the chisel and hammers and will see the installations made for processing the golden ore like the stamps mills and the man made lakes. We finish by visiting the mining plants, wasting ponds and open pits made recently by the the communist, which shaved the mountains and covered the Geamana village with mining wastes.  <br><br><b>The trail of the protests from Rosia Montana </b> - we go along the areas where protests were held for or against the gold mining project proposed by the Canadian company in 2007, that wanted to transform the village in a big open pit. We will discuss about what happened there and what would have been the consequences of implementing such a project in the area. In the end we will watch at Casa Petri some movies with the streets protests from 2014, organized in the country and abroad, against this project. <br><br> The reservations for these trails can be made from the accommodation page when you book a room, and on arrival you will meet our guide and configure the trails you will like to make.",
+          "textContent": "We organize the following guided thematic trails, to discover more about the stories, the past and the present of Rosia Montana:"
+        },
+        {
+          "textContent" : "<b>The mining evolution trail</b> - will start with the old mining story of Rosia Montana by visiting the Antic galleries made by Agathyrsi with fire and water, then we will continue with the rectangular galleries made by romans with the chisel and hammers and will see the installations made for processing the golden ore like the stamps mills and the man made lakes. We finish by visiting the mining plants, wasting ponds and open pits made recently by the the communist, which shaved the mountains and covered the Geamana village with mining wastes."
+        },
+        {
+          "textContent": "<b>The mining protests trail</b> - we go along the areas where protests were held for or against the gold mining project proposed by the Canadian company in 2007, that wanted to transform the village in a big open pit. We will discuss about what happened there and what would have been the consequences of implementing such a project in the area. In the end we will watch at Casa Petri some movies with the streets protests from 2014, organized in the country and abroad, against this project.",
           "seeAlso": {
-            "text": "Open the accommodation page...",
+            "text": " <br><br> The bookings for this guided trails can be made from here...",
             "textOnMouseOver": "Click here...",
-            "link": "en/accommodation/rooms",
+            "link": "en/accommodation#reservations",
             "openInNewTab": false
           }
         }
@@ -117,7 +122,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
         "page": "en/activities/trails/topAttractions"
       }
@@ -129,19 +134,16 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
           "page": "en/activities/cycling"
         },
         {
-          "page": "en/accommodation/rooms"
+          "page": "en/accommodation"
         },
         {
-          "page": "en/accommodation/camping"
-        },
-        {
-          "page": "en/accommodation/booksAndCosy"
+          "page": "en/relaxing"
         }
       ]
     }

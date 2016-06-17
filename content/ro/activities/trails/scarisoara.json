@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Ghețarul Scărișoara",
     "headline": "Traseul spre Ghețarul Scărișoara",
-    "description": "Un drum pe malul râului Arieș, prin Țara Moților, Munții Apuseni, spre unul din cele mai mari ghețare subterane din lume, Scărișoara. <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~4h </i>",
+    "description": "Un drum pe malul râului Arieș, prin Țara Moților, Munții Apuseni, spre unul din cele mai mari ghețare subterane din lume, Scărișoara. <i class='fa fa-car'></i> <i class='fa fa-bicycle'></i> <b>~51km</b>",
     "fullWidthImg": "img/activities/trails/scarisoara/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/scarisoara/presentation/smallBoxImg.jpg"
   },
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Pornim de la Casa Petri și o luăm spre capitala Țării Moților - orașul Câmpeni. Ținem de aici drumul de pe malul râului Arieș unde ne mai putem opri pentru a ne revigora cu apă rece de munte sau să luăm masa pe la vreo pensiune. Trecem de Albac și ajungem în Gârda unde facem dreapta. De aici drumul asfaltat se îngustează și devine parcă și mai frumus întrucât urcăm pe munte până la Ghețarul Scărișoara. <b>Indicațiile de mai jos reprezintă durata și timpul pentru un singur drum (dus).</b>",
+          "textContent": "Pornim de la Casa Petri și o luăm spre capitala Țării Moților - orașul Câmpeni. Ținem de aici drumul de pe malul râului Arieș unde ne mai putem opri pentru a ne revigora cu apă rece de munte sau să luăm masa pe la vreo pensiune. Trecem de Albac și ajungem în Gârda unde facem dreapta. De aici drumul se îngustează și devine și mai frumus întrucât urcăm pe versantul muntelui până la Ghețarul Scărișoara. Traseul este pe drum asfaltat și se poate face cu mașina/motocicleta sau cu biciclete de asfalt. <b>Indicațiile de mai jos reprezintă durata și timpul pentru un singur drum (dus).</b>",
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJX0JNIW_RSEcR1vLt5txsNTw&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJR3EQGOAsSUcR5LmrbHY10WY",
             "list": [
@@ -139,7 +139,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
         "page": "ro/activities/trails/zlatnaPool"
       }
@@ -151,13 +151,10 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/accommodation/rooms"
-        },
-        {
-          "page": "ro/accommodation/camping"
+          "page": "ro/accommodation"
         },
         {
           "page": "ro/activities/hiking"

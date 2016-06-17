@@ -68,7 +68,7 @@
       },
       {
         "title": "Monumentele funerare",
-        "description": "ale familiei 'Grita', din spatele biserici. Numele e scris în slavonă.",
+        "description": "ale familiei 'Grita' scrise în slavonă.",
         "thumbnailUrl": "img/activities/trails/attractions/churches/orthodoxChurch/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/orthodoxChurch/fullSize/2.jpg"
       }
@@ -360,7 +360,7 @@
   {
     "id": "copperPit",
     "title": "Cariera de Cupru Roșia Poieni",
-    "textContent": "Aici o să vedeți efectele exploatării unei cariere deschise asupra mediului: un munte ras, vegetație distrusă, sol arid, iar sterilul rezultat de aici a fost deversat în aval peste satul Geamăna. Accesul se face pe la un <b>punct de verificare</b> cu barieră pe care o să îl întâlniți pe traseu, unde probabil vi se va verifica buletinul. În unele zile intrarea poate fi restricționată.",
+    "textContent": "Una din cele mai mari cariere de suprafață din Europa, mândria sistemului comunist, 5000 de tone de cupru producție anuală, utilaje imense și sute de locuri de muncă. S-a muncit aici și o parte încă mai funcționează dar toate acestea au avut consecințe asupra mediului: un munte ras, vegetație distrusă, sol arid, utilaje abandonate, iar sterilul rezultat a fost deversat în aval peste satul Geamăna. Accesul se face pe la un <b>punct de verificare</b> cu barieră, unde vi se verifică buletinul iar în unele zile intrarea poate fi restricționată.",
     "seeAlso": {
       "text": "Maia Morgenstern a filmat aici un videoclip pentru a trage un semnal de alarmă asupra exploatărilor. Îl puteți vedea aici...",
       "textOnMouseOver": "Click aici...",
@@ -370,13 +370,13 @@
     "images": [
       {
         "title": "Cariera de Cupru",
-        "description": "Cariera are 68 de trepte, fiecare având 15m înălțime.",
+        "description": "24 de trepte de exploatare, fiecare de 15m înălțime.",
         "thumbnailUrl": "img/activities/trails/attractions/copperPit/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/copperPit/fullSize/1.jpg"
       },
       {
         "title": "Cariera de Cupru",
-        "description": "a fost una dintre mândriile regimului comunist român.",
+        "description": "înfințată în anul 1938.",
         "thumbnailUrl": "img/activities/trails/attractions/copperPit/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/copperPit/fullSize/2.jpg"
       }
@@ -486,7 +486,7 @@
   {
     "id": "geamana",
     "title": "Geamăna",
-    "textContent": "Video-ul de mai jos este cel mai reprezentativ pentru iazul 'Geamăna', care i-a făcut pe oameni să conștientizeze efectele exploatărilor și să protesteze împotriva poluării, în perioada în care se dorea construirea unui lac imens de cianură la Roșia Montană. Aici a fost satul Geamăna din care se mai vede doar turla bisericii iar în rest este complet acoperit cu deșeurile de la Cariera de Cupru. Aici nu se află cianuri și aerul nu e contaminat dar apa este poluată.",
+    "textContent": "Video-ul de mai jos este cel mai reprezentativ pentru iazul 'Geamăna' și a fost răsțpândit pe internet în perioada în care se dorea construirea unui lac imens de cianură la Roșia Montană. Este unul dintre motivele care i-a făcut pe oameni să conștientizeze efectele exploatărilor de suprafață și să protesteze în acea perioadă împotriva acestora. Proiectul de la Roșia Montana a fost oprit dar pentru satul Geamăna este prea târziu. Se mai vede doar turla bisericii, o parte din cimitir și câteva gospodări iar în rest este acoperit de sterilul de la Cariera de Cupru. Aici nu se află cianuri și aerul nu e contaminat dar apa este poluată.",
     "seeAlso": {
       "text": "Mai multe detalii aici...",
       "textOnMouseOver": "Click aici...",

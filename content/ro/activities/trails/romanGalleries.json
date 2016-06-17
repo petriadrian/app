@@ -1,8 +1,8 @@
 {
   "presentation": {
     "title": "Galeriile Romane - Orlea",
-    "headline": "Descoperă Galeriile Romane din Roșia Montană",
-    "description": "Vizităm Galeriile Romane de la Muzeul Mineritului prin care se extrăgea aurul și alte atracții din zona Orlea (biserici și sculpturile de calcar). <i class='fa fa-male'> ~3h </i>",
+    "headline": "Descoperă Galeriile Romane - traseul Orlea",
+    "description": "Vizităm Galeriile Romane de la Muzeul Mineritului prin care se extrăgea aurul și alte atracții din zona Orlea (biserici și sculpturile de calcar). <i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~5km</b>",
     "fullWidthImg": "img/activities/trails/romanGalleries/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/romanGalleries/presentation/smallBoxImg.jpg"
   },
@@ -15,7 +15,7 @@
     "showPageHeadline": true
   },
   "metaData": {
-    "title": "Traseul zonei Orlea - Galeriile Romane Roșia Montană",
+    "title": "Galeriile Romane Roșia Montană - traseul Orlea",
     "description": "Vizităm Galeriile Romane de la Muzeul Mineritului prin care se extrăgea aurul și alte atracții din zona Orlea (biserici și sculpturile de calcar). Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
     "displayOnShareImg": "img/activities/trails/romanGalleries/presentation/displayOnShareImg.jpg"
   },
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Traseul ne va purta spre celebrele galerii romane de la Muzeul Mineritului 'ROSIAMIN'. Drumul de la Casa Petri până la Muzeu este asfaltat, iar partea a doua traseului, spre biserici și sculpturi se face pe un drum de țară. Timpul afișat mai jos include și vizita la muzeu.",
+          "textContent": "Traseul ne va purta spre celebrele galerii romane de la Muzeul Mineritului 'ROSIAMIN'. Drumul de la Casa Petri până la Muzeu este asfaltat, iar partea a doua traseului (de la Muzeu la biserici și sculpturi) este pe un drum de țară așa că se poate face pe jos sau pe bicicletă de munte. Timpul afișat mai jos include și vizita la muzeu.",
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJmREpqBvNTkcR0-GMtovthj8|place_id:ChIJLRYf_xrNTkcRVs2TeQDpAj4|place_id:ChIJ-0OGVhDNTkcRThLcLvAEoLQ|place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw",
             "list": [
@@ -40,7 +40,11 @@
               },
               {
                 "textOnMouseOver": "durata pe jos",
-                "text": "<i class='fa fa-male'></i> ~3h"
+                "text": "<i class='fa fa-blind'></i> ~3h"
+              },
+              {
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~2h"
               },
               {
                 "textOnMouseOver": "dificultate",
@@ -103,7 +107,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
         "page": "ro/activities/trails/tarina"
       }
@@ -115,13 +119,10 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/accommodation/rooms"
-        },
-        {
-          "page": "ro/accommodation/camping"
+          "page": "ro/accommodation"
         },
         {
           "page": "ro/activities/hiking"

@@ -57,11 +57,30 @@
                ng-model="formObj[field.name]"
                placeholder="{{field.placeholder}}"
                ng-required="field.required"/>
+
         <select ng-if="field.type == 'selectBox'" class="form-control" ng-required="field.required"
                 name="{{field.name}}" ng-model="formObj[field.name]">
-            <option disabled selected style='display:none;' ng-bind="field.placeholder"></option>
+            <option disabled selected style='display:none;' ng-bind-html="field.placeholder | trustHtml"></option>
             <option ng-repeat="option in field.selectOptions" value="{{option.text}}">{{option.text}}</option>
         </select>
+
+        <div ng-if="field.type == 'selectBoxAllowDuplicates'" class="textAlignLeft">
+            <select data-ng-repeat="input in field.inputs" class="form-control"
+                    ng-required="field.required"
+                    name="{{field.name}}"
+                    ng-model="formObj[field.name+$index]">
+                <option disabled selected style='display:none;' ng-bind-html="field.placeholder | trustHtml"></option>
+                <option ng-repeat="option in input.selectOptions" value="{{option.text}}">{{option.text}}</option>
+            </select>
+            <span ng-show="field.inputs.length < field.allowToDuplicateSettings.maxOccurs"
+               class="textAlignLeft btn btn-default"
+               ng-click="addNewField(field.inputs, field.inputs[0])"
+               ng-bind="field.allowToDuplicateSettings.addButtonText"></span>
+            <span ng-show="field.inputs.length > field.allowToDuplicateSettings.minOccurs"
+               class="textAlignLeft btn btn-warning"
+               ng-click="removeLastField(field.inputs)"
+               ng-bind="field.allowToDuplicateSettings.removeButtonText"></span>
+        </div>
 
         <div ng-if="field.type == 'checkBoxes'" class="textAlignLeft">
             <p ng-bind-html="field.title | trustHtml"></p>

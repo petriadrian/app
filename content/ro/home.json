@@ -21,7 +21,7 @@
   },
   "sections": [
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "carousel": {
         "timeInterval": "7000",
         "slides": [
@@ -56,19 +56,33 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "",
-          "textContent": "Deoarece ne dorim turism la Roșia Montană, am renovat căsuța moștenită de la bunici și am deschis-o ca spațiu de cazare. Este o clădire de patrimoniu din Centrul Istoric ce a avut un rol important în viața comunității ca sediu de bancă, centru medical sau chiar cinematograf. Bunicii noștri, care lucrau în minerit, au cumparat-o apoi și au folosit-o ca locuință. Vedeți interiorul și posibilitățile de cazare de care dispunem. <br>Roșia Montană este unică, cu o moștenire culturală valoroasă pe care merită să o vizitați. Descoperiți industria minieră de aur și argint care a început în Antichitate prin a vizita galeriile romane, șteampurile sau lacurile artificiale. Vedeți cum a evoluat prin carierele de suprafață, iazuri de decantare și utilaje. Descoperiți Centrul Istoric cu case de patrimoniu în diferite stiluri, școli cu predare în diverse limbi, biserici de diferite culte ridicate de diverse nații venite aici de-a lungul timpului pentru a extrage aur. Împrejurimile sunt de asemenea superbe, drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și alte obiective din Munții Apuseni. Descoperiți toate aceastea prin traseele de drumeție sau de bicicletă pe care le găsiți pe site. Puteți rezerva trasee ghidate sau biciclete."
+          "textContent": "Deoarece ne dorim ca Roșia Montană să se dezvolte pe plan turistic, am renovat căsuța moștenită de la bunici și am deschis-o ca spațiu de cazare. Este o clădire de patrimoniu din Centrul Istoric ce a avut un rol important în viața comunității ca sediu de bancă, centru medical sau chiar cinematograf. Bunicii noștri, care lucrau în minerit, au cumpărat-o apoi și au folosit-o ca locuință.",
+          "seeAlso": {
+            "text": "Vedeți aici interiorul și posibilitățile de cazare de care dispunem...",
+            "textOnMouseOver": "Click aici...",
+            "link": "ro/accommodation",
+            "openInNewTab": false
+          }
+        },
+        {
+          "textContent": "Roșia Montană este unică, cu o moștenire culturală valoroasă pe care merită să o vizitați. Descoperiți industria minieră de aur și argint care a început în Antichitate prin a vizita galeriile romane, șteampurile sau lacurile artificiale. Vedeți cum a evoluat prin carierele de suprafață, iazuri de decantare și utilaje. Descoperiți Centrul Istoric cu case de patrimoniu în diferite stiluri, școli cu predare în diverse limbi, biserici de diferite culte ridicate de diverse nații venite aici de-a lungul timpului pentru a extrage aur. Împrejurimile sunt de asemenea superbe, drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și alte obiective din Munții Apuseni.",
+          "seeAlso": {
+            "text": "Vedeți aici traseele de drumeție sau bicicletă pe care le-am pregătit pentru a descoperi toate aceste atracții...",
+            "textOnMouseOver": "Click aici...",
+            "link": "ro/activities/hiking",
+            "openInNewTab": false
+          }
         }
       ]
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-bicycle'></i> Ce facvdgdf acolo?",
+      "text": "<i class='fa fa-bicycle'></i> Ce fac acolo?",
       "addLinkInPageHeadline": false,
       "sectionId": "activities"
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
           "page": "ro/activities/hiking"
@@ -79,36 +93,30 @@
       ]
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
         "page": "ro/activities/trails/topAttractions"
       }
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-bed'></i> Unde stau?",
+      "text": "<i class='fa fa-home'></i> Cum e la noi?",
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/accommodation/rooms"
+          "page": "ro/accommodation"
         },
         {
-          "page": "ro/accommodation/camping"
+          "page": "ro/relaxing"
         },
         {
           "page": "ro/review"
         }
       ]
-    },
-    {
-      "type": "presentationOfOtherPages",
-      "banner": {
-        "page": "ro/accommodation/booksAndCosy"
-      }
     },
     {
       "type": "title",
@@ -117,7 +125,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
           "page": "ro/recommendations/festival"

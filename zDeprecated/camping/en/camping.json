@@ -22,8 +22,8 @@
   "sections": [
     {
       "type": "title",
-      "text": "<i class='fa fa-chevron-circle-up'></i> Bookings",
-      "sectionId": "reservations",
+      "text": "<i class='fa fa-chevron-circle-up'></i> Camping area",
+      "sectionId": "campingArea",
       "addLinkInPageHeadline": true
     },
     {
@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "We also love to go camping in the mountains when we find a good spot. That's why we prepared in our yard a small camping place, for maximum 4 tents, with bathroom, kitchen, dinning area, gazebo and hammocks. We know that you are not visiting our area just to meet us, but also to see the surroundings, that's why a part from our income will be donated to those who take care of the heritage buildings from Roșia Montană or to some local initiatives. With each group we will spend time to talk about the trails from our area. <b>The booking will be confirmed by email.</b>."
+          "textContent": "We also love to go camping in the mountains when we find a good spot. That's why we prepared in our yard a small camping place, for maximum 4 tents, with bathroom, kitchen, dinning area, wifi, gazebo and hammocks.</b>"
         }
       ]
     },
@@ -45,26 +45,39 @@
             {
               "title": "Camping area",
               "description": "yard",
-              "thumbnailUrl": "img/accommodation/camping/article/thumbnail/1.jpg",
-              "fullSizeUrl": "img/accommodation/camping/article/fullSize/1.jpg"
+              "thumbnailUrl": "img/accommodation/article/camping/thumbnail/1.jpg",
+              "fullSizeUrl": "img/accommodation/article/camping/fullSize/1.jpg"
             },
             {
               "title": "Camping area - bathroom",
               "description": " Heating with wood boiler",
-              "thumbnailUrl": "img/accommodation/camping/article/thumbnail/3.jpg",
-              "fullSizeUrl": "img/accommodation/camping/article/fullSize/3.jpg"
+              "thumbnailUrl": "img/accommodation/article/camping/thumbnail/3.jpg",
+              "fullSizeUrl": "img/accommodation/article/camping/fullSize/3.jpg"
             }
           ]
         }
       ]
     },
     {
+      "type": "title",
+      "text": "<i class='fa fa-calendar-check-o'></i> Bookings",
+      "sectionId": "reservations",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Book camping places, bikes or guided tours. In order to have everything set please make an early reservation. We know that you are not visiting our area just to meet us, but also to see the surroundings, that's why a part from our income will be donated to those who take care of the heritage buildings from Roșia Montană or to some local initiatives. For larger groups or longer periods we can offer discounts. <b>The booking will be confirmed by email.</b>"
+        }
+      ]
+    },
+    {
       "type": "form",
-      "title": "Reservation form",
       "sendEmailTitle": "campingReservation",
+      "sendButtonText": "Send the booking",
       "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
       "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
-      "sendButtonText": "Send",
       "fields": [
         {
           "type": "email",
@@ -77,46 +90,36 @@
           "type": "daterange",
           "name": "period",
           "iconFortAwesomeClass": "fa fa-calendar fa-fw",
-          "placeholder": "Select the period",
+          "placeholder": "Select period",
           "required": true
         },
         {
-          "type": "selectBox",
-          "name": "seats",
+          "type": "selectBoxAllowDuplicates",
+          "name": "tentType",
           "required": true,
-          "iconFortAwesomeClass": "fa fa-male fa-fw",
-          "placeholder": "Number of persons and price",
-          "selectOptions": [
+          "iconFortAwesomeClass": "fa fa-bed fa-fw",
+          "placeholder": "Select tent type and price",
+          "allowToDuplicateSettings": {
+            "addButtonText": "+ add tent",
+            "removeButtonText": "- remove tent",
+            "minOccurs": 1,
+            "maxOccurs": 4
+          },
+          "inputs": [
             {
-              "text": "2 persons - 12€ /night"
-            },
-            {
-              "text": "3 persons - 15€ /night"
-            },
-            {
-              "text": "4 persons - 19€ /night"
-            },
-            {
-              "text": "5 persons - 25€ /night"
-            },
-            {
-              "text": "6 persons - 29€ /night"
-            },
-            {
-              "text": "7 persons - 35€ /night"
-            },
-            {
-              "text": "8 persons - 39€ /night"
+              "selectOptions": [
+                {
+                  "text": "2 persons tent - 12€ /night"
+                },
+                {
+                  "text": "3 persons tent - 15€ /night"
+                },
+                {
+                  "text": "4 persons tent - 20€ /night"
+                }
+              ]
             }
           ]
-        },
-        {
-          "type": "number",
-          "name": "numberOfTents",
-          "iconFortAwesomeClass": "fa fa-chevron-up fa-fw",
-          "placeholder": "How many tents?",
-          "maxLimit": 4,
-          "required": true
         },
         {
           "type": "selectBox",
@@ -142,7 +145,7 @@
           "checkBoxes": [
             {
               "name": "guidedTours",
-              "text": "<b>guided tours</b> (~9€/group/hour) - on arrival you will meet our guide and together will configure and make the trails"
+              "text": "<b>guided tours</b> - on arrival you will configure the trails and the price with our guide."
             },
             {
               "name": "chatWithLocals",
@@ -158,17 +161,13 @@
           "rows": 3,
           "maxChars": 350,
           "required": false
-        },
-        {
-          "type": "infoText",
-          "text": "For larger groups or longer periods we can offer a <b>discount</b> for accommodation or for bikes or for guided routes. Specify in the above section('other details') if you want a discount and leave a phone number."
         }
       ]
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
-        "page": "en/accommodation/booksAndCosy"
+        "page": "en/relaxing"
       }
     },
     {
@@ -209,13 +208,13 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
           "page": "en/review"
         },
         {
-          "page": "en/accommodation/rooms"
+          "page": "en/accommodation"
         },
         {
           "page": "en/activities/hiking"

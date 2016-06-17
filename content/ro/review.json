@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Reviews",
     "headline": "Crestem împreună cu cei ce ne trec pragul",
-    "description": "Oameni faini ne-au trecut pragul. Vezi aici experiențele și impresiile lor. O parte dintre ei pot fi contactați",
+    "description": "Oameni faini ne-au trecut pragul. Vezi aici experiențele și impresiile lor despre casa și traseele pe care le-au făcut. Unii dintre ei pot fi chiar contactați.",
     "fullWidthImg": "img/reviews/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/reviews/presentation/smallBoxImg.jpg"
   },
@@ -133,13 +133,10 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/accommodation/rooms"
-        },
-        {
-          "page": "ro/accommodation/camping"
+          "page": "ro/accommodation"
         },
         {
           "page": "ro/activities/hiking"

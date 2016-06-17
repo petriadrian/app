@@ -370,7 +370,7 @@
     "images": [
       {
         "title": "Roșia Poieni Open Pit",
-        "description": "the open pit has 68 stairs, each of them has 15m high.",
+        "description": "the open pit has 24 stairs, each of them has 15m high.",
         "thumbnailUrl": "img/activities/trails/attractions/copperPit/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/copperPit/fullSize/1.jpg"
       },
@@ -487,7 +487,7 @@
   {
     "id": "geamana",
     "title": "Geamana",
-    "textContent": "The next video shows a story of 'Geamana' village that raised awareness for the consequences of open pit mining. So that's why we had the streets protests against the new gold exploitation which should open in Rosia Montana in 2014. So the project was stopped and Rosia saved for now, but for 'Geamana' is to late. During communism the villagers were moved away and the waste from the 'Rosia Poieni' exploitation was thrown all over the village. Now only the tower of the village church can be seen here. There is no cyanide and the air is not contaminated but the water is polluted.",
+    "textContent": "The next video shows a story of 'Geamana' village that raised awareness for the consequences of open pit mining. This was one of the reasons of the street protests against the new gold exploitation which should open in Rosia Montana in 2014. So the project was stopped and Rosia saved for now, but for 'Geamana' is to late. During communism the villagers were moved away and the waste from the 'Rosia Poieni' exploitation was thrown over the village. Now only the tower of the village church can be seen here. There is no cyanide and the air is not contaminated but the water is polluted.",
     "seeAlso": {
       "text": "More details here...",
       "textOnMouseOver": "Click here...",

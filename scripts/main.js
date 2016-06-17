@@ -15,15 +15,6 @@ var app = angular.module('appFunctionality', ['ui.router', 'ngAnimate', 'ui.boot
 app.run(function ($rootScope, $window, $anchorScroll, $location, $http, localizationService) {
     // lazy loading for pageContent - needed for metadata which are needed before the controllers are called
     $rootScope.pageContent = {};
-    //set a function for opening any url in new or same tab
-    $rootScope.openUrl = function (url) {
-        debugger;
-        if (typeof(url.openInNewTab) !== 'undefined' && url.openInNewTab) {
-            $window.open(url.link, '_blank');
-        } else {
-            $window.open(url.link, '_self');
-        }
-    };
     $rootScope.scrollTo = function (id) {
         var old = $location.hash();
         $location.hash(id);
@@ -76,21 +67,15 @@ app.config(['$urlRouterProvider', '$stateProvider', '$locationProvider', functio
  */
 app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $http, $timeout, $anchorScroll) {
     var pageContentPath = 'content' + $location.$$path + '.json';
-    debugger;
     $http.get(pageContentPath).success(function (pageContentResult) {
         $rootScope.pageContent = pageContentResult;
     });
+    // if the needed location has an anchor then scroll to it only after the page is loaded
     if ($location.hash()) {
         $timeout(function () {
             $anchorScroll($location.hash());
         }, 1200);
     }
-    $scope.$on('$locationChangeStart',
-        function (event, next, current) {
-            if (next.indexOf('img/') > 0) {
-                event.preventDefault();
-            }
-        });
 });
 
 app.controller('HeaderCtrl', function ($scope, $rootScope, $window, $http, localizationService) {
@@ -191,6 +176,13 @@ app.directive('sectionForm', function ($timeout) {
            scope.responseMessage = '';
            scope.showResponse = false;
            scope.messageType = 'success';
+           scope.addNewField = function(collectionWhereToAdd, fieldToBeAdded) {
+               collectionWhereToAdd.push(angular.copy(fieldToBeAdded));
+           };
+           scope.removeLastField = function(collectionToRemoveFrom) {
+               var lastItem = collectionToRemoveFrom.length-1;
+               collectionToRemoveFrom.splice(lastItem);
+           };
            scope.sendEmailFromForm = function () {
                scope.formLoading = true;
                scope.formObj.title = scope.section.sendEmailTitle;
@@ -200,7 +192,6 @@ app.directive('sectionForm', function ($timeout) {
                    data: scope.formObj,
                    dataType: 'json',
                    success: function (data){
-                       debugger;
                        for (var field in scope.formObj) {
                            scope.formObj[field] = '';
                        }
@@ -243,3 +234,16 @@ app.directive('sectionForm', function ($timeout) {
        }
    }
 });
+
+// make menu from headline stick to the top on scroll
+(function($) {
+    $(document).ready(function(){
+        $(window).scroll(function(){
+            if ($(this).scrollTop() > 300) {
+                $("#headlineMenu").addClass("headlineMenuShowOnScrollDown");
+            } else {
+                $("#headlineMenu").removeClass("headlineMenuShowOnScrollDown");
+            }
+        });
+    });
+})(jQuery);

@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Muntele Vulcan",
     "headline": "Traseul spre muntele Vulcan",
-    "description": "Probabil datorită erupției acestui vulcan avem o zonă atât de bogata în resurse minerale. Vezi traseul <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~2h </i>",
+    "description": "Probabil datorită erupției acestui vulcan avem o zonă atât de bogata în resurse minerale. Vezi traseul. <i class='fa fa-car'></i> <i class='fa fa-bicycle'></i> <b>~21km</b>",
     "fullWidthImg": "img/activities/trails/vulcan/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/vulcan/presentation/smallBoxImg.jpg"
   },
@@ -110,7 +110,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
         "page": "ro/activities/trails/scarisoara"
       }
@@ -122,13 +122,10 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/accommodation/rooms"
-        },
-        {
-          "page": "ro/accommodation/camping"
+          "page": "ro/accommodation"
         },
         {
           "page": "ro/activities/hiking"

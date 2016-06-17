@@ -9,19 +9,13 @@
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/accommodation/rooms</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/accommodation</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/accommodation/camping</loc>
-        <lastmod>2016-01-10T19:05:25+00:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.00</priority>
-    </url>
-    <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/accommodation/booksAndCosy</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/relaxing</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
@@ -137,19 +131,13 @@
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/accommodation/rooms</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/accommodation</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/accommodation/camping</loc>
-        <lastmod>2016-01-10T19:05:25+00:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.00</priority>
-    </url>
-    <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/accommodation/booksAndCosy</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/relaxing</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>

@@ -1,8 +1,9 @@
 <span ng-init="otherPagePath=section.banner.page"></span>
-<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 banner defaultClickStyle displayOnCenter"
+<a class="col-xs-12 col-sm-12 col-md-12 col-lg-12 banner defaultClickStyle displayOnCenter"
      ng-controller="GetOtherPageContentCtrl"
      title="{{otherPageContent.url.textOnMouseOver}}"
-     ng-click="openUrl(otherPageContent.url)">
+     href="{{otherPageContent.url.link}}"
+     target="{{otherPageContent.url.openInNewTab ? '_blank' : '_self'}}">
     <h1 ng-bind-html="otherPageContent.presentation.headline | trustHtml"></h1>
     <p class="hidden-xs lead"
        ng-bind-html="otherPageContent.presentation.description | trustHtml"></p>
@@ -11,5 +12,5 @@
              ng-src="{{otherPageContent.presentation.fullWidthImg}}">
     </div>
 
-</div>
+</a>
 <div style="clear:both"></div>

@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Historic Center",
     "headline": "The heritage buildings - Historic Center trail",
-    "description": "Churches, heritage buildings and village paths. Discover the Historic Center of the oldest locality from Romania - Rosia Montana. <i class='fa fa-male'> ~2h </i>",
+    "description": "Churches, heritage buildings and village paths. Discover the Historic Center of the oldest locality from Romania - Rosia Montana. <i class='fa fa-blind'></i> <b>~5km</b>",
     "fullWidthImg": "img/activities/trails/historicCenter/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/historicCenter/presentation/smallBoxImg.jpg"
   },
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "An easy trail through the Historic Center of the oldest documented settlement from Romania - Rosia Montana(131 AD). Some of the heritage buildings were abandoned but they had various roles in the community life. The old big houses will make you fell like traveling back in time. Start the trail from Casa Petri, which is also a heritage house and take it slow on the village streets to reach each objective.",
+          "textContent": "An easy trail through the Historic Center of the oldest documented settlement from Romania - Rosia Montana(131 AD). Some of the heritage buildings were abandoned but they had various roles in the community life. The old big houses will make you fell like traveling back in time. Start the trail from Casa Petri, which is also a heritage house and take it slow on the village streets to reach each objective. The trail is on paved roads and we recommend to make it by foot.",
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJZ_4sXeDMTkcR6OaT9rGnfOw|place_id:ChIJGUVwDuHMTkcRESfpNiecGZQ|place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJe_e0kuDMTkcR-fKFm93NuXI|place_id:ChIJOfC97ODMTkcRecLGM1rVOA0|place_id:ChIJK4tH5-DMTkcRtHCCOcaoDmY|place_id:ChIJvc6yG-TMTkcRwUw0D4ybV38|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJYfZ-m-DMTkcRiccAioKsyvo|place_id:ChIJr6tpbuDMTkcR27lOgSAucgs|place_id:ChIJOd6ybODMTkcRp27SJIXkarw|place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw",
             "list": [
@@ -40,7 +40,7 @@
               },
               {
                 "textOnMouseOver": "walking duration",
-                "text": "<i class='fa fa-male'></i> ~2h"
+                "text": "<i class='fa fa-blind'></i> ~2h"
               },
               {
                 "textOnMouseOver": "difficulty",
@@ -105,7 +105,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
         "page": "en/activities/trails/carnic"
       }
@@ -117,13 +117,10 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "en/accommodation/rooms"
-        },
-        {
-          "page": "en/accommodation/camping"
+          "page": "en/accommodation"
         },
         {
           "page": "en/activities/hiking"

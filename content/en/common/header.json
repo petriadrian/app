@@ -28,7 +28,7 @@
     {
       "text": "<i class='fa fa-lg fa-book'></i> relax",
       "url": {
-        "link": "en/accommodation/booksAndCosy",
+        "link": "en/relaxing",
         "textOnMouseOver": "read & relax",
         "openInNewTab": false
       }
@@ -36,7 +36,7 @@
     {
       "text": "<i class='fa fa-lg fa-bed'></i> sleep",
       "url": {
-        "link": "en/accommodation/rooms",
+        "link": "en/accommodation",
         "textOnMouseOver": "accommodation - rooms",
         "openInNewTab": false
       }

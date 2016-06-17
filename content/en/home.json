@@ -21,7 +21,7 @@
   },
   "sections": [
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "carousel": {
         "timeInterval": "7000",
         "slides": [
@@ -57,7 +57,22 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "We wish tourism in this mining locality, Rosia Montana, that's why we restored our inherited house for tourist accommodation. It's a heritage building from the Historic Center and it had an important role in the community life, being used as a bank, medical center and even as a cinema. Then it was bought by our grandparents, which worked in mining industry, and used for living. On this website you can see the inside and the accommodation offer. <br>Rosia Montana is unique, with a valuable cultural heritage where you will have a lot of things to visit and learn about. Discover the mining industry for gold and silver which began from ancient times, by visiting the roman galleries, the stamp mills and artificial lakes. See their evolution to open pit exploitations, waste ponds and machines. Discover the Historic Center with the heritage houses built in different styles, schools for distinct languages, churches for different cults, built by the nations who come here over time to extract gold. The surroundings are also amazing, many pathways are binding the village to mountain peaks, lakes and other natural objectives. Discover all this through the hiking and cycling trails that you will find on this website. You can rent bikes or guided tours."
+          "textContent": "We believe that Rosia Montana has high touristic potential, that's why we restored our inherited house for tourist accommodation. It's a heritage building from the Historic Center and it had an important role in the community life, being used as a bank, medical center and even as a cinema. Then it was bought by our grandparents, which worked in mining industry, and used for living.",
+          "seeAlso": {
+            "text": "Here you can see the inside and our accommodation offer...",
+            "textOnMouseOver": "Click here...",
+            "link": "en/accommodation",
+            "openInNewTab": false
+          }
+        },
+        {
+          "textContent": "Rosia Montana has an unique and valuable cultural heritage. Discover the mining industry for gold and silver which began from ancient times, by visiting the roman galleries, the stamp mills and artificial lakes. See their evolution to open pit exploitations, waste ponds and machines. Discover the Historic Center with the heritage houses built in different styles, schools for distinct languages, churches for different cults, built by the nations who come here over time to extract gold. The surroundings are also amazing, many pathways are binding the village to mountain peaks, lakes and other natural objectives.",
+          "seeAlso": {
+            "text": "To discover all this, we prepared hiking or cycling trails to the main attractions, that can be found here...",
+            "textOnMouseOver": "Click here...",
+            "link": "en/activities/hiking",
+            "openInNewTab": false
+          }
         }
       ]
     },
@@ -68,7 +83,7 @@
       "sectionId": "activities"
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
           "page": "en/activities/hiking"
@@ -79,36 +94,30 @@
       ]
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
         "page": "en/activities/trails/topAttractions"
       }
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-bed'></i> Where to stay?",
+      "text": "<i class='fa fa-home'></i> Life at Casa Petri",
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "en/accommodation/rooms"
+          "page": "en/accommodation"
         },
         {
-          "page": "en/accommodation/camping"
+          "page": "en/relaxing"
         },
         {
           "page": "en/review"
         }
       ]
-    },
-    {
-      "type": "presentationOfOtherPages",
-      "banner": {
-        "page": "en/accommodation/booksAndCosy"
-      }
     },
     {
       "type": "title",
@@ -117,7 +126,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
           "page": "en/recommendations/festival"

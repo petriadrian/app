@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Roșia Montană e înconjurată de munți, lacuri, biserici, clădiri de patrimoniu, zone miniere și galerii antice, așa că de vii aici nu vizita doar muzeul și piața centrală, deoarece zona are mult mai mult de oferit. Uită-te peste traseele de mai jos și găsește-le pe cele pe care vrei să le parcurgi, în funcție de condiția ta fizică și de atracțiile turistice pe care vrei să le vezi. Fiecare traseu are hărți realizate în <b>google maps</b> astfel că poți face zoom, pot fi văzute în modul satelit sau hartă sau pot fi accesate de pe orice telefon sau tabletă în timpul drumeției. Majoritatea traseelor au și date GPS."
+          "textContent": "Roșia Montană e înconjurată de munți, lacuri, biserici, clădiri de patrimoniu, zone miniere și galerii antice, așa că de vii aici nu vizita doar muzeul și piața centrală, deoarece zona are mult mai mult de oferit. Uită-te peste traseele de mai jos și găsește-le pe cele pe care vrei să le parcurgi, în funcție de condiția ta fizică și de atracțiile turistice pe care vrei să le vezi. Fiecare traseu are <b>hărți online</b>, unele au și date <b>GPS</b>, astfel că poți face zoom, pot fi văzute în modul satelit sau hartă sau pot fi accesate de pe orice telefon sau tabletă în timpul drumeției."
         }
       ]
     },
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
           "page": "ro/activities/trails/historicCenter"
@@ -99,12 +99,19 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "",
-          "textContent": " Organizăm următoarele trasee tematice ghidate, prin care descoperiți poveștile, trecutul și prezentul Roșiei Montane: <br><br> <b>Traseul evoluției miniere</b> - începem cu povestea veche a mineritului moștenit din tată în fiu, prin a vizita galeriile Antice realizate de agatârși cu apă și foc, iar apoi galeriile trapeizoidale realizate de daci și romani cu dalta și ciocanul, după care continuăm cu instalațiile pentru procesarea aurului ca șteampurile sau lacurile de acumulare. Terminăm prin a vizita uzinele, iazurile de decantare și carierele de suprafață realizate recent, în perioada comunistă, prin care s-au ras munți și dealuri, iar satul Geamăna a fost acoperit cu deșeuri miniere. <br><br><b>Traseul protestelor din Roșia Montană</b> - trecem prin zonele unde au avut loc proteste pentru sau împotriva proiectului de minerit propus de firma canadiană în 2007 și care dorea să transforme întreg satul într-o imensă carieră de aur. Vă povestim ce s-a întâmplat și care ar fi fost efectele implementării acestui proiect în zonă. La final vom urmări la Casa Petri câteva filmulețe cu protestele masive de stradă din 2014, organizate în țară și în străinătate, împotriva acestui proiect. <br><br>Rezervările pentru aceste trasee tematice se fac de pe pagina de cazare când rezervați o cameră, iar la sosire il veți întâlni pe ghidul nostru împreună cu care veți parcurge traseele.",
+          "textContent": "Organizăm următoarele trasee tematice ghidate, prin care descoperiți poveștile, trecutul și prezentul Roșiei Montane:"
+        },
+        {
+          "textContent": "<b>Traseul evoluției miniere</b> - începem cu povestea veche a mineritului moștenit din tată în fiu, prin a vizita galeriile Antice realizate de agatârși cu apă și foc, iar apoi galeriile trapeizoidale realizate de daci și romani cu dalta și ciocanul, după care continuăm cu instalațiile pentru procesarea aurului ca șteampurile sau lacurile de acumulare. Terminăm prin a vizita uzinele, iazurile de decantare și carierele de suprafață realizate recent, în perioada comunistă, prin care s-au ras munți și dealuri, iar satul Geamăna a fost acoperit cu deșeuri miniere."
+        },
+        {
+          "textContent": "<b>Traseul protestelor miniere</b> - trecem prin zonele unde au avut loc proteste pentru sau împotriva proiectului de minerit propus de firma canadiană în 2007 și care dorea să transforme întreg satul într-o imensă carieră de aur. Vă povestim ce s-a întâmplat și care ar fi fost efectele implementării acestui proiect în zonă. La final vom urmări la Casa Petri câteva filmulețe cu protestele masive de stradă din 2014, organizate în țară și în străinătate, împotriva acestui proiect."
+        },
+        {
           "seeAlso": {
-            "text": "Deschide pagina de cazare...",
+            "text": "Rezervările pentru aceste trasee ghidate se fac aici...",
             "textOnMouseOver": "Click aici...",
-            "link": "ro/accommodation/rooms",
+            "link": "ro/accommodation#reservations",
             "openInNewTab": false
           }
         }
@@ -117,7 +124,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
         "page": "ro/activities/trails/topAttractions"
       }
@@ -129,19 +136,16 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
           "page": "ro/activities/cycling"
         },
         {
-          "page": "ro/accommodation/rooms"
+          "page": "ro/accommodation"
         },
         {
-          "page": "ro/accommodation/camping"
-        },
-        {
-          "page": "ro/accommodation/booksAndCosy"
+          "page": "ro/relaxing"
         }
       ]
     }

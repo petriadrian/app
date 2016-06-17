@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Top 10 atracții",
     "headline": "Top 10 atracții de vizitat în Roșia Montană",
-    "description": "Traseul principalelor atracții (Centrul Istoric, lacurile, galeriile romane, monumentele de patrimoniu) <i class='fa fa-male'> ~6h </i>",
+    "description": "Traseul principalelor atracții (Centrul Istoric, lacurile, galeriile romane, monumentele de patrimoniu). <i class='fa fa-blind'></i> <b>~15km</b>",
     "fullWidthImg": "img/activities/trails/topAttractions/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/topAttractions/presentation/smallBoxImg.jpg"
   },
@@ -40,7 +40,7 @@
               },
               {
                 "textOnMouseOver": "durata pe jos",
-                "text": "<i class='fa fa-male'></i> ~6h"
+                "text": "<i class='fa fa-blind'></i> ~6h"
               },
               {
                 "textOnMouseOver": "dificultate",
@@ -117,7 +117,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
         "page": "ro/activities/trails/tarina"
       }
@@ -129,13 +129,10 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/accommodation/rooms"
-        },
-        {
-          "page": "ro/accommodation/camping"
+          "page": "ro/accommodation"
         },
         {
           "page": "ro/activities/hiking"

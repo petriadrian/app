@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Lety and Sulei",
     "headline": "The trail to the Lety and Sulei peaks",
-    "description": "Climb along the Vaidoaia Gallery and 'Tăul Mare' Lake to the Lety and Sulei peaks and return by the Corna and Brazi lakes. <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
+    "description": "Climb along the Vaidoaia Gallery and 'Tăul Mare' Lake to the Lety and Sulei peaks and return by the Corna and Brazi lakes. <i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~10km</b>",
     "fullWidthImg": "img/activities/trails/letySulei/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/letySulei/presentation/smallBoxImg.jpg"
   },
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "The trail will take you to 'Văldoaia' Gallery, 'Tăul Mare' lake and then up to the Lety and Șulei peaks, to enjoy the view from here. Then you will return on a road along the 'Corna' Lake and 'Brazi' Lake.",
+          "textContent": "The trail will take you to 'Văldoaia' Gallery, 'Tăul Mare' lake and then up to the Lety and Șulei peaks, to enjoy the view from here. To return back in the historic center you will have to go along the 'Corna' Lake and 'Brazi' Lake. The trail is on unpaved roads and is perfect for hiking or mountain bikes.",
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJf7dBe97MTkcRUOKwgwP6qHs|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJx0kJ88LMTkcRlbYRRD21As0|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs|place_id:ChIJnTJOLfDMTkcR6Bj-a0LHYdg|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q",
             "list": [
@@ -40,7 +40,7 @@
               },
               {
                 "textOnMouseOver": "walking duration",
-                "text": "<i class='fa fa-male'></i> ~4h"
+                "text": "<i class='fa fa-blind'></i> ~4h"
               },
               {
                 "textOnMouseOver": "duration by bike",
@@ -116,7 +116,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
         "page": "en/activities/trails/historicCenter"
       }
@@ -128,13 +128,10 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "en/accommodation/rooms"
-        },
-        {
-          "page": "en/accommodation/camping"
+          "page": "en/accommodation"
         },
         {
           "page": "en/activities/hiking"

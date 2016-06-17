@@ -1,0 +1,363 @@
+{
+  "presentation": {
+    "title": "Accommodation",
+    "headline": "Morning coffee in Roșia Montană?",
+    "description": "Our house is situated in the Historic Center of Rosia Montana and it has private <b>rooms</b> with bathrooms, kitchen and <b>camping</b> area. Here you can see the inside or make a <b>booking</b>.",
+    "fullWidthImg": "img/accommodation/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/accommodation/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/accommodation",
+    "textOnMouseOver": "See the rooms...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Accommodation at Casa Petri Rosia Montana",
+    "description": "Stay in a heritage house from the Historic Center of Roșia Montana, recently renovated with bathrooms and kitchen access. See also the hiking and bike trails to discover our area: roman galleries, gold mining industry, heritage buildings, mountains, lakes and many more. Rosia Montana, Alba, Apuseni Mountains, Transylvania - Romania.",
+    "displayOnShareImg": "img/accommodation/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-bed'></i> Rooms",
+      "sectionId": "rooms",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Casa Petri is situated in the Historic Center of Rosia Montana and is a heritage building where we preserved the traditional style like the wooden floor, the windows or the heating with terracotta stoves, but were we added modern facilities like the bathrooms and the kitchen. There are many cosy spots around the house, a green yard with a nice view to the Cânic peak, <i class='fa fa-wifi'></i> <b>free wifi</b>, board games and parking spots."
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "'Books' room",
+          "textContent": "The downstairs room has one meter wide walls built out of rocks and a closet filled with books. It has private bathroom, two bunk beds and an expandable couch. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i>",
+          "images": [
+            {
+              "title": "'Books' room",
+              "description": " here you can find ‘the cupboard with books’ - a cupboard transformed into a library where you can find old books and board games.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/1.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/1.jpg"
+            },
+            {
+              "title": "'Books' room - inside",
+              "description": " In the showcase are old photos from Roșia, crystal clusters rocks from the roman gallery and old objects used in the household.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/2.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/2.jpg"
+            },
+            {
+              "title": "'Books' room - bathroom",
+              "description": "Heating with electric boiler",
+              "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/3.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "The little house",
+          "textContent": "The old summer house of the household has one room with two beds, a bathroom and a kitchen. You will feel like home. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i>",
+          "images": [
+            {
+              "title": "The little house",
+              "description": " inside. If you want, the beds can be joined",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/1.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/1.jpg"
+            },
+            {
+              "title": "The little house",
+              "description": "from the outside.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/2.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/2.jpg"
+            },
+            {
+              "title": "The little house - bathroom",
+              "description": " Heating with wood boiler",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/3.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "'Upstairs' room",
+          "textContent": "The room has a hallway with many small windows called 'târnaț' (specific for the houses from our area). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i>",
+          "images": [
+            {
+              "title": "'Upstairs' room",
+              "description": "If you want, the beds can be separated. The painting was made in 1950 and is very well preserved",
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/1.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/1.jpg"
+            },
+            {
+              "title": "'Upstairs' room - sitting and relaxing area",
+              "description": "on the hallway you can find a chic coffee table and many places with old books.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/2.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/2.jpg"
+            },
+            {
+              "title": "'Upstairs' room - bathroom",
+              "description": "the access is made through the hallway.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/3.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-chevron-up'></i> Camping",
+      "sectionId": "camping",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Because we also love to go camping, we prepared a small camping place in our yard, for maximum 4 tents, with bathroom, kitchen, dinning area, gazebo, hammocks, <i class='fa fa-wifi'></i> <b>free wifi</b> and electricity.",
+          "images": [
+            {
+              "title": "Camping area",
+              "description": "",
+              "thumbnailUrl": "img/accommodation/article/camping/thumbnail/1.jpg",
+              "fullSizeUrl": "img/accommodation/article/camping/fullSize/1.jpg"
+            },
+            {
+              "title": "Camping area",
+              "description": "",
+              "thumbnailUrl": "img/accommodation/article/camping/thumbnail/2.jpg",
+              "fullSizeUrl": "img/accommodation/article/camping/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-cutlery'></i> Food",
+      "sectionId": "food",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "We have a kitchen with dishes, refrigerator, stove and microwave where you can cook, or, if you wish, we can order food from a local restaurant. Our recommendation is to eat homemade meals at local farm (~10min away by foot), but please inform us when you book a room, or as early as possible, to make the reservations. There are also 3 grocery stores around the house (~5min away).",
+          "seeAlso": {
+            "text": "See here how to reach them from Casa Petri...",
+            "textOnMouseOver": "Click here",
+            "link": "https://www.google.ro/maps/dir/Emiliana+Shop,+DC146,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Historical+center,+nr.+331A,+Casa+Petri,+Ro%C8%99ia+Montan%C4%83+517615/Bereczky+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Mixt+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/@46.3066051,23.129791,18z/data=!4m26!4m25!1m5!1m1!1s0x474ecce0f07e87bf:0xc1e5f1730ebc127c!2m2!1d23.1317125!2d46.3060228!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!1m5!1m1!1s0x474ecce0563eefe1:0x44635688d438a223!2m2!1d23.1308247!2d46.30597!1m5!1m1!1s0x474ecce04e3e997b:0x14730c483b204593!2m2!1d23.1300147!2d46.3061442!3e2?hl=ro",
+            "openInNewTab": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar-check-o'></i> Bookings",
+      "sectionId": "reservations",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "In order to have everything set for your arrival, please make an early reservation. Here you can book or see the cost of the rooms, camping or bicycles. If you want guided trails we will respond by email with the cost (it depends upon the selected trails and the size of the group). We know that you are not visiting our area just to meet us, but also to see the surroundings, that's why a part of our income will be donated to some local initiatives. For larger groups or longer periods we can offer discounts. <b>The booking will be confirmed by email.</b>"
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "sendEmailTitle": "reservation",
+      "sendButtonText": "Send the booking",
+      "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
+      "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
+      "fields": [
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "placeholder": "Email",
+          "required": true
+        },
+        {
+          "type": "daterange",
+          "name": "period",
+          "iconFortAwesomeClass": "fa fa-calendar fa-fw",
+          "placeholder": "Period",
+          "required": true
+        },
+        {
+          "type": "selectBoxAllowDuplicates",
+          "name": "room",
+          "required": false,
+          "iconFortAwesomeClass": "fa fa-bed fa-fw",
+          "placeholder": "Book rooms - see type and price",
+          "allowToDuplicateSettings": {
+            "addButtonText": "+ add room",
+            "removeButtonText": "- remove room",
+            "minOccurs": 1,
+            "maxOccurs": 4
+          },
+          "inputs": [
+            {
+              "selectOptions": [
+                {
+                  "text": "a 1 person room - 15€ /night"
+                },
+                {
+                  "text": "a 2 persons room - 25€ /night"
+                },
+                {
+                  "text": "a 3 persons room - 35€ /night"
+                },
+                {
+                  "text": "a 4 persons room - 40€ /night"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "selectBox",
+          "name": "camping",
+          "required": false,
+          "iconFortAwesomeClass": "fa fa-chevron-up fa-fw",
+          "placeholder": "Book camping - see type and price",
+          "selectOptions": [
+            {
+              "text": "2 persons camping - 12€ /night"
+            },
+            {
+              "text": "3 persons camping - 15€ /night"
+            },
+            {
+              "text": "4 persons camping - 20€ /night"
+            },
+            {
+              "text": "5 persons camping - 25€ /night"
+            },
+            {
+              "text": "6 persons camping - 30€ /night"
+            },
+            {
+              "text": "7 persons camping - 35€ /night"
+            },
+            {
+              "text": "8 persons camping - 40€ /night"
+            }
+          ]
+        },
+        {
+          "type": "selectBoxAllowDuplicates",
+          "name": "guidedTrail",
+          "required": false,
+          "iconFortAwesomeClass": "fa fa-users fa-fw",
+          "placeholder": "Book guided trails",
+          "allowToDuplicateSettings": {
+            "addButtonText": "+ add trail",
+            "removeButtonText": "- remove trail",
+            "minOccurs": 1,
+            "maxOccurs": 10
+          },
+          "inputs": [
+            {
+              "selectOptions": [
+                {
+                  "text": "Guided trail - Mining evolution"
+                },
+                {
+                  "text": "Guided trail - Mining protests"
+                },
+                {
+                  "text": "Guided trail - Historic center"
+                },
+                {
+                  "text": "Guided trail - Carnic"
+                },
+                {
+                  "text": "Guided trail - Geamana"
+                },
+                {
+                  "text": "Guided trail - Detunata"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "selectBox",
+          "name": "bikes",
+          "required": false,
+          "iconFortAwesomeClass": "fa fa-bicycle fa-fw",
+          "placeholder": "Book bikes",
+          "selectOptions": [
+            {
+              "text": "1 bike - 12€/day"
+            },
+            {
+              "text": "2 bikes - 20€/day"
+            },
+            {
+              "text": "3 bikes - 30€/day"
+            }
+          ]
+        },
+        {
+          "type": "textarea",
+          "name": "others",
+          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "placeholder": "Can we help you with something else? Write here...",
+          "rows": 2,
+          "maxChars": 500,
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/relaxing"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "seeAlso",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/review"
+        },
+        {
+          "page": "en/activities/hiking"
+        },
+        {
+          "page": "en/activities/cycling"
+        }
+      ]
+    }
+  ]
+}

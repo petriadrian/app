@@ -1,0 +1,145 @@
+{
+  "presentation": {
+    "title": "Tăurile",
+    "headline": "Traseul tăurilor din Roșia Montană",
+    "description": "Traseu în jurul satului, pe un drum de țară ce leagă patru lacuri: Țarina, Tăul Mare, Corna și Brazi. <i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~11km</b>",
+    "fullWidthImg": "img/activities/trails/fourLakes/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/trails/fourLakes/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/activities/trails/fourLakes",
+    "textOnMouseOver": "Vezi traseul...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Traseul tăurilor din Roșia Montană",
+    "description": "Traseu în jurul satului, pe un drum de țară ce leagă patru lacuri (Țarina, Tăul Mare, Corna și Brazi) și două culmi montane (Rotundu și Șulei). Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "displayOnShareImg": "img/activities/trails/fourLakes/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Traseu",
+      "sectionId": "map",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Pornim de la Casa Petri spre Tăul Țarinii și Stația Meteo de pe Vârful Rotundu, cel mai înalt punct de pe traseu. În stânga observăm Tăul Mare, următoarea destinație spre care ne îndreptăm. De aici urcăm pe masivul Lety și Sulei unde facem un popas pentru a ne bucura de priveliște și ne întoarcem spre Centrul Istoric pe la Tăul Corna, Piatra Corbului și Tăul Brazi. Traseul se face pe un drum de țară, neasfaltat și este indicat pentru drumeții sau biciclete de munte.",
+          "seeAlso": {
+            "text": "<br>Pentru datele <b>GPS (.gpx/.kml)</b> și informații de <b>altitudine </b> sau <b>diferență de nivel</b> ale acestui traseu click aici...",
+            "textOnMouseOver": "Click aici...",
+            "link": "https://www.bikemap.net/en/route/3045395-4-tauri/#/z14/46.30072,23.14141/terrain",
+            "openInNewTab": true
+          },
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo|place_id:ChIJi1rDktfMTkcRD_0U6qTLpqg|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs|place_id:ChIJnTJOLfDMTkcR6Bj-a0LHYdg|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA",
+            "src": "https://www.bikemap.net/en/route/3045395-4-tauri/widget/?width=640&amp;extended=1&amp;distance_markers=1&amp;height=480&amp;unit=metric' border='0' frameborder='0' marginheight='0' marginwidth='0' scrolling='no'",
+            "list": [
+              {
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~11km"
+              },
+              {
+                "textOnMouseOver": "durata pe jos",
+                "text": "<i class='fa fa-blind'></i> ~6h"
+              },
+              {
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~4h"
+              },
+              {
+                "textOnMouseOver": "dificultate",
+                "text": "<i class='fa fa-line-chart'></i> mediu"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Atracții",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "tariniLake"
+            },
+            {
+              "id": "rotunduPeak"
+            },
+            {
+              "id": "bigLake"
+            },
+            {
+              "id": "letySulei"
+            },
+            {
+              "id": "cornaLake"
+            },
+            {
+              "id": "braziLake"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "ro/activities/trails/copperMineRoad"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/activities/hiking"
+        },
+        {
+          "page": "ro/activities/cycling"
+        }
+      ]
+    }
+  ]
+}

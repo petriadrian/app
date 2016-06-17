@@ -26,9 +26,9 @@
       }
     },
     {
-      "text": "<i class='fa fa-lg fa-book'></i> cărți",
+      "text": "<i class='fa fa-lg fa-book'></i> relaxare",
       "url": {
-        "link": "ro/accommodation/booksAndCosy",
+        "link": "ro/relaxing",
         "textOnMouseOver": "citește și relaxează-te",
         "openInNewTab": false
       }
@@ -36,7 +36,7 @@
     {
       "text": "<i class='fa fa-lg fa-bed'></i> cazare",
       "url": {
-        "link": "ro/accommodation/rooms",
+        "link": "ro/accommodation",
         "textOnMouseOver": "camere",
         "openInNewTab": false
       }

@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Ștrandul Zlatna",
     "headline": "Ștrandul Zlatna. Traseu bicicletă",
-    "description": "Un traseu pentru biciclete de asfalt pe culmea 'Dealul Mare', spre ștrandul Zlatna. O să transpiri la urcarea pe serpentine, dar destinația e răcoritoare. <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~3h </i>",
+    "description": "Un traseu pentru biciclete de asfalt pe culmea 'Dealul Mare', spre ștrandul Zlatna. O să transpiri la urcarea pe serpentine, dar destinația e răcoritoare. <i class='fa fa-car'></i> <i class='fa fa-bicycle'></i> <b>~39km</b>",
     "fullWidthImg": "img/activities/trails/zlatnaPool/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/zlatnaPool/presentation/smallBoxImg.jpg"
   },
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Ce e cel mai minuant la acest traseu e că o luăm spre un vechi oraș minier 'Zlatna' în care se încercă dezvoltarea turismului. Ce e bine e că au și reușit să facă ceva. Dovezile sunt acest ștrand 'de lux' dotat cu absolut tot ce e necesar și aleea pietonală de lângă el. Dar stați că nu e așa simplu... până acolo trebuie să pedalăm drumul cu serpentine de pe 'Dealul Mare' printre păduri de fagi și conifere. Cu cât mai epuizat ajungi, cu atât va fi baia mai bună. <b>Indicațiile de mai jos reprezintă durata și timpul pentru un singur drum (dus).</b>",
+          "textContent": "Ce e cel mai minuant la acest traseu e că o luăm spre un vechi oraș minier 'Zlatna' în care se încercă dezvoltarea turismului. Ce e bine e că au și reușit să facă ceva. Dovezile sunt acest ștrand 'de lux' dotat cu absolut tot ce e necesar și aleea pietonală de lângă el. Dar stați că nu e așa simplu... până acolo trebuie să pedalăm drumul cu serpentine de pe 'Dealul Mare' printre păduri de fagi și conifere. Cu cât mai epuizat ajungi, cu atât va fi baia mai bună. Traseul este pe drum asfaltat și se poate face cu mașina/motocicleta sau cu biciclete de asfalt. <b>Indicațiile de mai jos reprezintă durata și timpul pentru un singur drum (dus).</b>",
           "seeAlso": {
             "text": "Mai multe detalii despre bazin și ce mai puteți vizita în Zltana găsiți aici...",
             "textOnMouseOver": "Click aici...",
@@ -134,7 +134,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
         "page": "ro/activities/trails/daffodilMeadow"
       }
@@ -146,13 +146,10 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/accommodation/rooms"
-        },
-        {
-          "page": "ro/accommodation/camping"
+          "page": "ro/accommodation"
         },
         {
           "page": "ro/activities/hiking"

@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Reviews",
     "headline": "We grow together with the ones who visit us",
-    "description": "See the experiences and reviews from people who visited us. Some of them can even be contacted. ",
+    "description": "See the experiences and reviews from peoples who visited us and made hiking or biking trails in the area. Some of them can even be contacted.",
     "fullWidthImg": "img/reviews/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/reviews/presentation/smallBoxImg.jpg"
   },
@@ -131,13 +131,10 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "en/accommodation/rooms"
-        },
-        {
-          "page": "en/accommodation/camping"
+          "page": "en/accommodation"
         },
         {
           "page": "en/activities/hiking"

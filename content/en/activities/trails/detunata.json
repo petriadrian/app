@@ -1,8 +1,8 @@
 {
   "presentation": {
     "title": "Detunata",
-    "headline": "The trail to the basalt columns - Detunata",
-    "description": "A huge massif, like a wall, made of rectangular basalt columns. Also visit 'Tăul Mare' Lake and some specific mountain villages. <i class='fa fa-male'> ~3h </i> | <i class='fa fa-bicycle'> ~2h </i>",
+    "headline": "The basalt columns - Detunata trail",
+    "description": "A huge massif, like a wall, made of rectangular basalt columns. Also visit 'Tăul Mare' Lake and some specific mountain villages. <i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~21km</b>",
     "fullWidthImg": "img/activities/trails/detunata/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/detunata/presentation/smallBoxImg.jpg"
   },
@@ -30,27 +30,27 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "The trail starts from the Historic Center, from Casa Petri and heads to 'Tăul Mare' lake where you can freshen up a bit with the cold mountain water. From here continue towards the villages 'Muntari' and 'Poiana' through a typical landscape of 'Moților' Land, dotted with haystacks and pastures and where you can see herds of sheep or cows grazing. The walk continues until you come across a mountain ridge formed of some tall columns of basalt as in the picture above. Looks a bit scary ... isn’t it? A path will take you up on top of the ridge and the fear will disappear when you'll see the view from here. The trail is fully marked with the 'red cross' sign by Salvamont (Mountain Rescue) so it is very easy to follow. If you go by bicycle, please note that for the last 500 meters the climb is on a narrow path that is not accessible for bicycles. <b>The below indications represents one way length and time.</b>",
+          "textContent": "The trail starts from the Historic Center, from Casa Petri and heads to 'Tăul Mare' lake where you can freshen up a bit with the cold mountain water. From here continue towards the villages 'Muntari' and 'Poiana' through a typical landscape of 'Moților' Land, dotted with haystacks and pastures and where you can see herds of sheep or cows grazing. The walk continues until you come across a mountain ridge formed of some tall columns of basalt as in the picture above. Looks a bit scary ... isn’t it? A path will take you up on top of the ridge and the fear will disappear when you'll see the view from here. On return, right before arriving in Rosia Montana have a break on the Șulei Peak, the perfect spot to watch the sunset over the village. The trail is fully marked by the Salvamont team, is on unpaved roads and is perfect for hiking or mountain bikes. The last 500 meters (the climbing on Detunata peak) is on a narrow path that is not accessible for bicycles. <b>The below indications represents the length and time for two way.</b>",
           "seeAlso": {
-            "text": "You can find here the GPS data of the trail...",
+            "text": "<br>For the <b>GPS (.gpx/.kml)</b> data and the <b>altitude </b> or <b>elevation profile</b> of this trail click here...",
             "textOnMouseOver": "Click here...",
             "link": "http://www.bikemap.net/en/route/3052348-rosia-montana-poiana-detunata-goala/#/z13/46.28539,23.16415/terrain",
             "openInNewTab": true
           },
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJv_3GPwvLTkcRDy5ru-eVXWI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJ6e_SmJXMTkcRoxSvt__dGSs|place_id:ChIJ2dfWrJnMTkcR1o8Ofr5fmo4",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJv_3GPwvLTkcRDy5ru-eVXWI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJ6e_SmJXMTkcRoxSvt__dGSs|place_id:ChIJ2dfWrJnMTkcR1o8Ofr5fmo4|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs",
             "list": [
               {
                 "textOnMouseOver": "length",
-                "text": "<i class='fa fa-arrows-h'></i> ~9km"
+                "text": "<i class='fa fa-arrows-h'></i> ~21km"
               },
               {
                 "textOnMouseOver": "walking duration",
-                "text": "<i class='fa fa-male'></i> ~3h"
+                "text": "<i class='fa fa-blind'></i> ~6h"
               },
               {
                 "textOnMouseOver": "duration by bike",
-                "text": "<i class='fa fa-bicycle'></i> ~2h"
+                "text": "<i class='fa fa-bicycle'></i> ~4h"
               },
               {
                 "textOnMouseOver": "difficulty",
@@ -98,6 +98,9 @@
             },
             {
               "id": "detunata"
+            },
+            {
+              "id": "letySulei"
             }
           ]
         }
@@ -110,7 +113,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
         "page": "en/activities/trails/copperMineRoad"
       }
@@ -122,13 +125,10 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "en/accommodation/rooms"
-        },
-        {
-          "page": "en/accommodation/camping"
+          "page": "en/accommodation"
         },
         {
           "page": "en/activities/hiking"

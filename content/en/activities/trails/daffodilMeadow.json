@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Daffodil Meadow",
     "headline": "The trail to the Daffodils Meadow",
-    "description": "<b>| May |</b> A white blanket of daffodils and their lovely smell offer you an unforgettable experience. <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~4h </i>",
+    "description": "<b>| May |</b> A white blanket of daffodils and their lovely smell offer you an unforgettable experience. <i class='fa fa-car'></i> <i class='fa fa-bicycle'></i> <b>~39km</b>",
     "fullWidthImg": "img/activities/trails/daffodilMeadow/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/daffodilMeadow/presentation/smallBoxImg.jpg"
   },
@@ -116,7 +116,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
         "page": "en/activities/trails/detunata"
       }
@@ -128,13 +128,10 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "en/accommodation/rooms"
-        },
-        {
-          "page": "en/accommodation/camping"
+          "page": "en/accommodation"
         },
         {
           "page": "en/activities/hiking"

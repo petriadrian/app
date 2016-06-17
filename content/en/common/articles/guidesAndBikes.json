@@ -1,12 +1,12 @@
 [
   {
     "id": "details",
-    "hideAreaUnderButton": "Rent bikes or guides &nbsp&nbsp<i class='fa fa-caret-down'></i>",
-    "textContent": "With each group we will spend time to discuss about the trails, but to discover more about the area, the habits, the history or the mining industry of Rosia Montana we recommend to make them with a guide. The bookings for bikes, guided tours by bike or walk, or for a meeting with the locals can be made from the accommodation page when you book a room, and on arrival you will meet our guide and configure the trails you will like to make.",
+    "hideAreaUnderButton": "Book guided tours + <i class='fa fa-bicycle'></i> + <i class='fa fa-bed'></i> &nbsp&nbsp<i class='fa fa-caret-down'></i>",
+    "textContent": "With each group we discuss about the trails, but to discover more about the area, the habits, the history or the mining industry of Rosia Montana we recommend to book a guide.",
     "seeAlso": {
-      "text": "Open the accommodation page...",
+      "text": "The bookings for accommodation, camping, bikes or guided tours (by bike or walk) can be made from here...",
       "textOnMouseOver": "Click here...",
-      "link": "en/accommodation/rooms",
+      "link": "en/accommodation#reservations",
       "openInNewTab": false
     },
     "images": [

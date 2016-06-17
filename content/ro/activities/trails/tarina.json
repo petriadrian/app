@@ -1,8 +1,8 @@
 {
   "presentation": {
     "title": "Țarina",
-    "headline": "Traseu pe meleagurile Țarinei",
-    "description": "Vizităm Țarina, tăuri, Galeria Văidoaia și Stația Meteo de pe Vârful Rotundu de unde se vede întreg ținutul. <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
+    "headline": "Viața rurală - traseul Țarina",
+    "description": "Vizităm Țarina, tăuri, Galeria Văidoaia și Stația Meteo de pe Vârful Rotundu de unde se vede întreg ținutul. <i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~10km</b>",
     "fullWidthImg": "img/activities/trails/tarina/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/tarina/presentation/smallBoxImg.jpg"
   },
@@ -12,7 +12,7 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Țarina. Trasee drumeție, biciletă Roșia Montană",
+    "title": "Traseul Țarina | drumeții | ciclism | Rosia Montana",
     "description": "Vizităm Țarina, tăuri, Galeria Văidoaia și Stația Meteo de pe Vârful Rotundu de unde se vede întreg ținutul. Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
     "displayOnShareImg": "img/activities/trails/tarina/presentation/displayOnShareImg.jpg"
   },
@@ -30,9 +30,9 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Acesta este unul dintre cele mai pitorești trasee care te vor plimba prin locul nostru preferat - Țarina. Aici sunt proprietățile pe care roșienii le dețin aproape de centrul comunei, unde își cresc animalele sau culturile de legume. Traseul vă va duce pe la Tăul Țarinii și apoi până la Stația Meteo de unde vă promitem o priveliște nemaiîntâlnită. Veți coborî pe la Tăul Mare, iar înainte de a intra în centru istoric mai puteți face un popas la Galeria Văidoaia și la o casă veche cu totul specială - 'Casa Szekely'.",
+          "textContent": "Acesta este unul dintre cele mai pitorești trasee care te vor plimba prin locul nostru preferat - Țarina. Aici sunt proprietățile pe care roșienii le dețin aproape de centrul comunei, unde își cresc animalele sau culturile de legume. Traseul vă va duce pe la Tăul Țarinii și apoi până la Stația Meteo de unde vă promitem o priveliște nemaiîntâlnită. Veți coborî pe la Tăul Mare, iar înainte de a intra în centru istoric mai puteți face un popas la Galeria Văidoaia și la o casă veche cu totul specială - 'Casa Szekely'. Traseul se face pe un drum de țară, neasfaltat și este indicat pentru drumeții sau biciclete de munte.",
           "seeAlso": {
-            "text": "Datele GPS ale traseului le găsiți aici...",
+            "text": "<br>Pentru datele <b>GPS (.gpx/.kml)</b> și informații de <b>altitudine </b> sau <b>diferență de nivel</b> ale acestui traseu click aici...",
             "textOnMouseOver": "Click aici...",
             "link": "http://www.gpsies.com/map.do?fileId=angfatdqfdrtdpsu",
             "openInNewTab": true
@@ -46,7 +46,7 @@
               },
               {
                 "textOnMouseOver": "durata pe jos",
-                "text": "<i class='fa fa-male'></i> ~4h"
+                "text": "<i class='fa fa-blind'></i> ~4h"
               },
               {
                 "textOnMouseOver": "durata cu bicicleta",
@@ -122,7 +122,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
         "page": "ro/activities/trails/detunata"
       }
@@ -134,13 +134,10 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/accommodation/rooms"
-        },
-        {
-          "page": "ro/accommodation/camping"
+          "page": "ro/accommodation"
         },
         {
           "page": "ro/activities/hiking"

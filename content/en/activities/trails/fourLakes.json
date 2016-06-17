@@ -1,8 +1,8 @@
 {
   "presentation": {
-    "title": "Four lakes",
-    "headline": "Discover the trail along the four lakes",
-    "description": "A trail around the village, on an unpaved road along four lakes: Țarina, Tăul Mare, Corna, Brazi. <i class='fa fa-male'> ~6h </i> | <i class='fa fa-bicycle'> ~4h </i>",
+    "title": "Tăurile",
+    "headline": "The lakes of Rosia Montana",
+    "description": "A trail around the village, on an unpaved road along four lakes: Țarina, Tăul Mare, Corna, Brazi. <i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~11km</b>",
     "fullWidthImg": "img/activities/trails/fourLakes/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/fourLakes/presentation/smallBoxImg.jpg"
   },
@@ -12,7 +12,7 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Four Lakes. Bike trails Rosia Montana",
+    "title": "The lakes of Rosia Montana. Bike trail",
     "description": "A trail around the village, on an unpaved road along four lakes (Țarina, Tăul Mare, Corna, Brazi) and 2 peaks (Rotundu și Șulei). See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
     "displayOnShareImg": "img/activities/trails/fourLakes/presentation/displayOnShareImg.jpg"
   },
@@ -30,27 +30,32 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "This is the longer version of the 'Weather Station' trail. Start from Casa Petri and head through the 'Țarina' land, along the 'Țarini' lake until you reach the the Weather Station and 'Rotundu' Peak (the highest point from this trail). From here, on the left, you can see 'Tăul Mare' lake, which is our next destination. Head towards it and then climb on Șulei Peak. Have a break, enjoy the view and then continue to the 'Corna' Lake. Return in the village by the 'Piatra Corbului' (Raven Stone) and 'Brazi' Lake.",
+          "textContent": "Start from Casa Petri and head through the 'Țarina' land, along the 'Țarini' lake until you reach the the Weather Station from the 'Rotundu' Peak (the highest point from this trail). From here, on the left, you can see 'Tăul Mare' lake, which is our next destination. Head towards it and then climb on Șulei Peak. Have a break, enjoy the view and then continue to the 'Corna' Lake. Return in the village by the 'Piatra Corbului' (Raven Stone) and 'Brazi' Lake. The trail is on unpaved roads and is perfect for hiking or mountain bikes.",
           "seeAlso": {
-            "text": "You can find here the GPS data of the trail...",
+            "text": "<br>For the <b>GPS (.gpx/.kml)</b> data and the <b>altitude </b> or <b>elevation profile</b> of this trail click here...",
             "textOnMouseOver": "Click here...",
-            "link": "http://www.bikemap.net/en/route/2757824-circuit-tauri-rosia-montana/#/z14/46.30656,23.14124/terrain",
+            "link": "https://www.bikemap.net/en/route/3045395-4-tauri/#/z14/46.30072,23.14141/terrain",
             "openInNewTab": true
           },
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo|place_id:ChIJi1rDktfMTkcRD_0U6qTLpqg|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs|place_id:ChIJnTJOLfDMTkcR6Bj-a0LHYdg|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q| Jig-Vaidoaia, Rosia Montana, Alba County, Romania",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo|place_id:ChIJi1rDktfMTkcRD_0U6qTLpqg|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs|place_id:ChIJnTJOLfDMTkcR6Bj-a0LHYdg|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA",
+            "src": "https://www.bikemap.net/en/route/3045395-4-tauri/widget/?width=640&amp;extended=1&amp;distance_markers=1&amp;height=480&amp;unit=metric' border='0' frameborder='0' marginheight='0' marginwidth='0' scrolling='no'",
             "list": [
               {
-                                "textOnMouseOver": "length",                 "text": "<i class='fa fa-arrows-h'></i> ~16km"
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~11km"
               },
               {
-                "textOnMouseOver": "walking duration",                 "text": "<i class='fa fa-male'></i> ~6h"
+                "textOnMouseOver": "walking duration",
+                "text": "<i class='fa fa-blind'></i> ~6h"
               },
               {
-                "textOnMouseOver": "duration by bike",                 "text": "<i class='fa fa-bicycle'></i> ~4h"
+                "textOnMouseOver": "duration by bike",
+                "text": "<i class='fa fa-bicycle'></i> ~4h"
               },
               {
-                "textOnMouseOver": "difficulty",                 "text": "<i class='fa fa-line-chart'></i> medium"
+                "textOnMouseOver": "difficulty",
+                "text": "<i class='fa fa-line-chart'></i> medium"
               }
             ]
           }
@@ -86,7 +91,7 @@
               "id": "tariniLake"
             },
             {
-              "id": "tarina"
+              "id": "rotunduPeak"
             },
             {
               "id": "bigLake"
@@ -111,7 +116,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
         "page": "en/activities/trails/copperMineRoad"
       }
@@ -123,13 +128,10 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "en/accommodation/rooms"
-        },
-        {
-          "page": "en/accommodation/camping"
+          "page": "en/accommodation"
         },
         {
           "page": "en/activities/hiking"

@@ -1,8 +1,8 @@
 {
   "presentation": {
     "title": "Țarina",
-    "headline": "The trail along the Țarina lands",
-    "description": "Visit Țarina, mountain lakes, Vaidoaia Gallery and enjoy the view upon the village from the Rotundu peak (at the Weather Station). <i class='fa fa-male'> ~4h </i> | <i class='fa fa-bicycle'> ~3h </i>",
+    "headline": "The rural life - Țarina trail",
+    "description": "Visit Țarina, mountain lakes, Vaidoaia Gallery and enjoy the view upon the village from the Rotundu peak (at the Weather Station). <i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~10km</b>",
     "fullWidthImg": "img/activities/trails/tarina/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/tarina/presentation/smallBoxImg.jpg"
   },
@@ -12,7 +12,7 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Țarina. Hiking or bike trails in Rosia Montana",
+    "title": "Țarina trail | Hiking | biking | Rosia Montana",
     "description": "Visit Țarina, mountain lakes, Vaidoaia Gallery and enjoy the view upon the village from the Rotundu peak (at the Weather Station). See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
     "displayOnShareImg": "img/activities/trails/tarina/presentation/displayOnShareImg.jpg"
   },
@@ -30,9 +30,9 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "A trail along our favorite area, Țarina lands, where you will see some of the most spectacular landscapes. Țarina is pretty close to the Historic Center and here are the farmlands of the locals where they keep their animals or vegetable crops. The trail will take you to Țarina Lake and then to the Țarina (on the top of Rosia Montana) where you will have a spectacular view. Will return to the Casa Petri along the 'Tăul Mare' lake, Văidoaia Gallery and a very special old house (Casa Szekely).",
+          "textContent": "A trail along our favorite area, Țarina lands, where you will see some of the most spectacular landscapes. Țarina is pretty close to the Historic Center and here are the farmlands of the locals where they keep their animals or vegetable crops. The trail will take you to Țarina Lake and then to the Țarina (on the top of Rosia Montana) where you will have a spectacular view. Will return to the Casa Petri along the 'Tăul Mare' lake, Văidoaia Gallery and a very special old house (Casa Szekely). The trail is on unpaved roads and is perfect for hiking or mountain bikes.",
           "seeAlso": {
-            "text": "You can find here the GPS data of the trail...",
+            "text": "<br>For the <b>GPS (.gpx/.kml)</b> data and the <b>altitude </b> or <b>elevation profile</b> of this trail click here...",
             "textOnMouseOver": "Click here...",
             "link": "http://www.gpsies.com/map.do?fileId=angfatdqfdrtdpsu",
             "openInNewTab": true
@@ -46,7 +46,7 @@
               },
               {
                 "textOnMouseOver": "walking duration",
-                "text": "<i class='fa fa-male'></i> ~4h"
+                "text": "<i class='fa fa-blind'></i> ~4h"
               },
               {
                 "textOnMouseOver": "duration by bike",
@@ -122,7 +122,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
         "page": "en/activities/trails/detunata"
       }
@@ -134,13 +134,10 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "en/accommodation/rooms"
-        },
-        {
-          "page": "en/accommodation/camping"
+          "page": "en/accommodation"
         },
         {
           "page": "en/activities/hiking"

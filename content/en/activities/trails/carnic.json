@@ -1,8 +1,8 @@
 {
   "presentation": {
     "title": "Cârnic",
-    "headline": "Trail on the golden mountain - Cârnic",
-    "description": "Climb by the Brazi and Anghel lakes to the top of the Cârnic Mountain at Piatra Corbului and Sfinx, then return by the Cetate Open Pit <i class='fa fa-male'> ~3h </i> | <i class='fa fa-bicycle'> ~2h </i>",
+    "headline": "The golden mountain - Cârnic trail",
+    "description": "Climb by the Brazi and Anghel lakes to the top of the Cârnic Mountain at Piatra Corbului and Sfinx, then return by the Cetate Open Pit. <i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~8km</b>",
     "fullWidthImg": "img/activities/trails/carnic/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/carnic/presentation/smallBoxImg.jpg"
   },
@@ -12,7 +12,7 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Cârnic Mountain. Hiking trail Rosia Montana ",
+    "title": "The golden mountain - Cârnic trail",
     "description": "Climb by the Brazi and Anghel lakes to the top of the Cârnic Mountain at Piatra Corbului and Sfinx, then return by the Cetate Open Pit. See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
     "displayOnShareImg": "img/activities/trails/carnic/presentation/displayOnShareImg.jpg"
   },
@@ -30,9 +30,9 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "From the Casa Petri yard you will notice the view to the 'Cârnic' mountain. It’s a mountain of gold, from all points of views, because it hides over 200 tons of gold, but also over 120km of unique Roman galleries (some Antiques). On top of the mountain you will notice a horse-shaped rock, with a cross on top of it. This is the Sphinx or 'Căluțul', our main objective for this trail. Head towards 'Brazi' Lake and 'Platoul Cârnic' (Cârnic Plateau) and then climb through the pine forest to the top of the mountain at the Raven Stone and Sphinx. Return back by the Piatra Despicată and Cetate open pit. You can't climb by bike on the Raven Stone or Sphinx.",
+          "textContent": "From the Casa Petri yard you will notice the view to the 'Cârnic' mountain. It’s a mountain of gold, from all points of views, because it hides over 100 tons of gold, but also over 100km of unique Roman galleries (some Antiques). On the top of the mountain you will notice a horse-shaped rock, with a cross on top of it. This is the Sphinx or 'Căluțul', our main objective for this trail. Head towards 'Brazi' Lake and 'Platoul Cârnic' (Cârnic Plateau) and then climb through the pine forest to the top of the mountain at the Raven Stone and Sphinx. Return back to the historic center by the Piatra Despicată and Cetate open pit. The Raven Stone and Sphinx can be visited only by foot. The trail is on unpaved roads and is perfect for hiking or mountain bikes.",
           "seeAlso": {
-            "text": "You can find here the GPS data of the trail...",
+            "text": "<br>For the <b>GPS (.gpx/.kml)</b> data and the <b>altitude </b> or <b>elevation profile</b> of this trail click here...",
             "textOnMouseOver": "Click here...",
             "link": "http://www.gpsies.com/map.do?fileId=esbtvmiyuytvzprs",
             "openInNewTab": true
@@ -46,7 +46,7 @@
               },
               {
                 "textOnMouseOver": "walking duration",
-                "text": "<i class='fa fa-male'></i> ~3h"
+                "text": "<i class='fa fa-blind'></i> ~3h"
               },
               {
                 "textOnMouseOver": "duration by bike",
@@ -116,7 +116,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
         "page": "en/activities/trails/romanGalleries"
       }
@@ -128,13 +128,10 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "en/accommodation/rooms"
-        },
-        {
-          "page": "en/accommodation/camping"
+          "page": "en/accommodation"
         },
         {
           "page": "en/activities/hiking"

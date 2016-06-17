@@ -2,19 +2,22 @@
               interval="section.carousel.timeInterval">
     <uib-slide ng-repeat="slide in section.carousel.slides"
                ng-init="otherPagePath=slide.page">
-                    <span ng-controller='GetOtherPageContentCtrl'
-                          ng-click="openUrl(otherPageContent.url)"
-                          title="{{otherPageContent.url.textOnMouseOver}}"
-                          class="defaultClickStyle">
-                        <img alt="{{otherPageContent.presentation.title}}"
-                             ng-src="{{otherPageContent.presentation.fullWidthImg}}">
-                        <div class="carousel-caption">
-                            <h3 ng-bind-html="otherPageContent.presentation.headline  | trustHtml"></h3>
-                            <p class="hidden-xs hidden-sm"
-                               ng-bind-html="otherPageContent.presentation.description | trustHtml">
-                            </p>
-                        </div>
-                    </span>
+        <a ng-controller='GetOtherPageContentCtrl'
+           href="{{otherPageContent.url.link}}"
+           target="{{otherPageContent.url.openInNewTab ? '_blank' : '_self'}}"
+           title="{{otherPageContent.url.textOnMouseOver}}"
+           class="defaultClickStyle">
+            <img alt="{{otherPageContent.presentation.title}}"
+                 ng-src="{{otherPageContent.presentation.fullWidthImg}}">
+
+            <div class="carousel-caption">
+                <h3 ng-bind-html="otherPageContent.presentation.headline  | trustHtml"></h3>
+
+                <p class="hidden-xs hidden-sm"
+                   ng-bind-html="otherPageContent.presentation.description | trustHtml">
+                </p>
+            </div>
+        </a>
     </uib-slide>
 </uib-carousel>
 <div style="clear:both"></div>

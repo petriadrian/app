@@ -1,12 +1,12 @@
 [
   {
     "id": "details",
-    "hideAreaUnderButton": "Rezervă biciclete sau ghizi &nbsp&nbsp<i class='fa fa-caret-down'></i>",
-    "textContent": "Cu fiecare grup ne rezervăm timp pentru a discuta despre trasee, dar pentru a afla mai multe despre zonă, obiceiuri, istorie sau industria minieră din Roșia Montană vă recomandăm să le parcurgeți insoțiți de un ghid. Rezervările de biciclete, tururi ghidate cu bicicleta ori pe jos sau întâlniri cu localnicii se fac de pe pagina de cazare când rezervați o cameră, iar la sosire il veți întâlni pe ghidul nostru împreună cu care veți parcurge traseele.",
+    "hideAreaUnderButton": "Rezervă trasee ghidate + <i class='fa fa-bicycle'></i> + <i class='fa fa-bed'></i> &nbsp&nbsp<i class='fa fa-caret-down'></i>",
+    "textContent": "Cu fiecare grup discutăm despre trasee, dar pentru a afla mai multe despre zonă, obiceiuri, istorie sau industria minieră din Roșia Montană vă recomandăm să le parcurgeți însoțiți de un ghid.",
     "seeAlso": {
-      "text": "Deschide pagina de cazare...",
+      "text": "Rezervările de biciclete, cazare, campare sau tururi ghidate cu bicicleta ori pe jos se pot face aici...",
       "textOnMouseOver": "Click aici...",
-      "link": "ro/accommodation/rooms",
+      "link": "ro/accommodation#reservations",
       "openInNewTab": false
     },
     "images": [

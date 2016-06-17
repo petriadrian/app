@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Vulcan Mountain",
     "headline": "The trail to the Vulcan Mountain",
-    "description": "Perhaps due to eruption of this volcano we have a rich mineral resources area. See the trail <i class='fa fa-car'> ~1h </i> | <i class='fa fa-bicycle'> ~2h </i>",
+    "description": "Perhaps due to eruption of this volcano we have a rich mineral resources area. See the trail. <i class='fa fa-car'></i> <i class='fa fa-bicycle'></i> <b>~21km</b>",
     "fullWidthImg": "img/activities/trails/vulcan/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/vulcan/presentation/smallBoxImg.jpg"
   },
@@ -110,7 +110,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
         "page": "en/activities/trails/scarisoara"
       }
@@ -122,13 +122,10 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "en/accommodation/rooms"
-        },
-        {
-          "page": "en/accommodation/camping"
+          "page": "en/accommodation"
         },
         {
           "page": "en/activities/hiking"

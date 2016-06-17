@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Cârnic",
     "headline": "Traseu pe muntele de aur - Cârnic",
-    "description": "Urcăm pe la tăurile Brazi și Anghel până pe muntele Cârnic la Sfinx și la Piatra Corbului iar apoi coborâm prin Cariera Cetate. <i class='fa fa-male'> ~3h </i> | <i class='fa fa-bicycle'> ~2h </i>",
+    "description": "Urcăm pe la tăurile Brazi și Anghel până pe muntele Cârnic la Sfinx și la Piatra Corbului iar apoi coborâm prin Cariera Cetate. <i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~8km</b>",
     "fullWidthImg": "img/activities/trails/carnic/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/carnic/presentation/smallBoxImg.jpg"
   },
@@ -12,7 +12,7 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Muntele Cârnic. Trasee drumeție Roșia Montană",
+    "title": "Traseu pe muntele de aur - Cârnic",
     "description": "Urcăm pe la Tăul Brazi și Anghel până pe muntele Cârnic la Sfinx și la Piatra Corbului iar apoi coborâm prin Cariera Cetate. Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
     "displayOnShareImg": "img/activities/trails/carnic/presentation/displayOnShareImg.jpg"
   },
@@ -30,9 +30,9 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Odată ajunși în curtea Casei Petri o să observați priveliștea spre masivul Cârnic, un munte ce adapostește peste 200 de tone de aur dar si peste 150km de galerii romane unice în lume. Pe vârful lui o să observați o stâncă în formă de cal, cu o cruce desupra, numită Sfinxul sau 'Căluțul', care reprezintă obiectivul acestui traseu. Pornim spre Tăul Brazi și Platoul Cârnic, iar apoi urcăm prin pădurea de conifere până pe vârful masivului la Piatra Corbului și la Sfinx și coborâm pe la Piatra Despicată și prin Cariera Cetate. Pe Piatra Corbului și pe Sfinx nu se poate urca cu bicicleta.",
+          "textContent": "Odată ajunși în curtea Casei Petri o să observați priveliștea spre masivul Cârnic, un munte ce adapostește peste 100 de tone de aur dar si peste 100km de galerii romane unice în lume. Pe vârful lui o să observați o stâncă în formă de cal, cu o cruce desupra, numită Sfinxul sau 'Căluțul', care reprezintă obiectivul acestui traseu. Pornim spre Tăul Brazi și Platoul Cârnic, iar apoi urcăm prin pădurea de conifere până pe vârful masivului la Piatra Corbului și la Sfinx și coborâm pe la Piatra Despicată și prin Cariera Cetate. Traseul se face pe un drum de țară, neasfaltat și este indicat pentru drumeții sau biciclete de munte.",
           "seeAlso": {
-            "text": "Datele GPS ale traseului le găsiți aici...",
+            "text": "<br>Pentru datele <b>GPS (.gpx/.kml)</b> și informații de <b>altitudine </b> sau <b>diferență de nivel</b> ale acestui traseu click aici...",
             "textOnMouseOver": "Click aici...",
             "link": "http://www.gpsies.com/map.do?fileId=esbtvmiyuytvzprs",
             "openInNewTab": true
@@ -46,7 +46,7 @@
               },
               {
                 "textOnMouseOver": "durata pe jos",
-                "text": "<i class='fa fa-male'></i> ~3h"
+                "text": "<i class='fa fa-blind'></i> ~3h"
               },
               {
                 "textOnMouseOver": "durata cu bicicleta",
@@ -116,7 +116,7 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "banner": {
         "page": "ro/activities/trails/romanGalleries"
       }
@@ -128,13 +128,10 @@
       "addLinkInPageHeadline": false
     },
     {
-      "type": "presentationOfOtherPages",
+      "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/accommodation/rooms"
-        },
-        {
-          "page": "ro/accommodation/camping"
+          "page": "ro/accommodation"
         },
         {
           "page": "ro/activities/hiking"
