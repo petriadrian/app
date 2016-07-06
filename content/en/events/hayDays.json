@@ -1,0 +1,82 @@
+{
+  "presentation": {
+    "title": "Hay Days",
+    "headline": "Hay Days in Rosia Montana",
+    "description": "Hay Days in Rosia Montana",
+    "fullWidthImg": "img/events/hayDays/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/events/hayDays/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/events/hayDays",
+    "textOnMouseOver": "See more...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Rosia Montana events",
+    "description": "Join the activities that are taking place in Rosia Montana, Alba, Apuseni Mountains, Transylvania, Romania.",
+    "displayOnShareImg": "img/events/hayDays/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-info-circle'></i> Details",
+      "sectionId": "details",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Join the activities that are taking place in Rosia Montana. Below you can see more details about them and book the dates."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar'></i> Events",
+      "sectionId": "events",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Join the activities that are taking place in Rosia Montana. Below you can see more details about them and book the dates."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/events/types/hayDays"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/cycling"
+        },
+        {
+          "page": "en/accommodation"
+        },
+        {
+          "page": "en/relaxing"
+        }
+      ]
+    }
+  ]
+}
