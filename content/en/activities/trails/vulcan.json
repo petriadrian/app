@@ -88,14 +88,12 @@
           },
           "images": [
             {
-              "title": "The road to Vulcan",
-              "description": "",
+              "text": "<b>The road to Vulcan</b>",
               "thumbnailUrl": "img/activities/trails/attractions/vulcan/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/vulcan/fullSize/1.jpg"
             },
             {
-              "title": "Vulcan mountain",
-              "description": "The Raven Wall",
+              "text": "<b>Vulcan mountain</b> - The Raven Wall",
               "thumbnailUrl": "img/activities/trails/attractions/vulcan/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/vulcan/fullSize/2.jpg"
             }

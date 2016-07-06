@@ -121,36 +121,33 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-calendar'></i> Do not miss",
-      "sectionId": "recommendations",
+      "text": "<i class='fa fa-calendar'></i> Events",
+      "sectionId": "events",
       "addLinkInPageHeadline": false
     },
     {
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "en/recommendations/festival"
+          "page": "en/events/hayDays"
         },
         {
-          "page": "en/recommendations/marathon"
+          "page": "en/events/marathon"
         },
         {
-          "page": "en/recommendations/monumentsRestorations"
+          "page": "en/events/monumentsRestorations"
         },
         {
-          "page": "en/recommendations/steamTrain"
+          "page": "en/events/steamTrain"
         },
         {
           "page": "en/activities/trails/daffodilMeadow"
         },
         {
-          "page": "en/recommendations/firstMai"
+          "page": "en/events/firstMai"
         },
         {
-          "page": "en/recommendations/scoutsOng"
-        },
-        {
-          "page": "en/recommendations/souvenirShop"
+          "page": "en/events/souvenirShop"
         }
       ]
     }

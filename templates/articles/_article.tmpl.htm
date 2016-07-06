@@ -23,7 +23,7 @@
            ng-href="{{image.fullSizeUrl}}">
             <figure class="photoAlbum defaultClickStyle">
                 <img ng-src="{{image.thumbnailUrl | trustUrl}}" alt="{{image.title}}">
-                <figcaption><b> {{image.title}} </b> - {{image.description}}</figcaption>
+                <figcaption ng-bind-html="image.text | trustHtml"></figcaption>
             </figure>
         </a>
     </section>

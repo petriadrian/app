@@ -88,21 +88,19 @@
           "textContent": "The road along 'Dealul Mare' is wonderful, and it worth climbing it up. It's nice to pedal through the cold shadow of the beech forest, where you will find many resting points.",
           "images": [
             {
-              "title": "The road along the forest",
-              "description": "",
+              "text": "<b>The road along the forest</b>",
               "thumbnailUrl": "img/activities/trails/attractions/bigHillRoad/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/bigHillRoad/fullSize/1.jpg"
             },
             {
-              "title": "The 'Izvorul Ampoiului' Castle",
-              "description": "once you will meet this Castle you're almost there...",
+              "text": "<b>The 'Izvorul Ampoiului' Castle</b> - once you will meet this Castle you're almost there...",
               "thumbnailUrl": "img/activities/trails/attractions/bigHillRoad/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/bigHillRoad/fullSize/2.jpg"
             }
           ]
         },
         {
-          "title": "The 'Zlatna' pool",
+          "text": "<b>The 'Zlatna' pool",
           "textContent": "'Zlatna Sport Center has top facilities. It has outdoor swimming pools for adults and children, with heated water, a SPA resort, tennis court and football fields. The entrance fees is cheap (~6 euros).",
           "seeAlso": {
             "text": "More details about the swimming pool and others touristic attractions from Zlatna can be found here.",
@@ -112,14 +110,12 @@
           },
           "images": [
             {
-              "title": "The swimming pool",
-              "description": "",
+              "text": "<b>The swimming pool</b>",
               "thumbnailUrl": "img/activities/trails/attractions/zlatnaPool/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/zlatnaPool/fullSize/1.jpg"
             },
             {
-              "title": "The swimming pool",
-              "description": "",
+              "text": "<b>The swimming pool</b>",
               "thumbnailUrl": "img/activities/trails/attractions/zlatnaPool/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/zlatnaPool/fullSize/2.jpg"
             }

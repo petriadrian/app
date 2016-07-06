@@ -43,20 +43,17 @@
           "textContent": "The downstairs room has one meter wide walls built out of rocks and a closet filled with books. It has private bathroom, two bunk beds and an expandable couch. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i>",
           "images": [
             {
-              "title": "'Books' room",
-              "description": " here you can find ‘the cupboard with books’ - a cupboard transformed into a library where you can find old books and board games.",
+              "text": "<b>'Books' room</b> - here you can find ‘the cupboard with books’ - a cupboard transformed into a library where you can find old books and board games.",
               "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/1.jpg"
             },
             {
-              "title": "'Books' room - inside",
-              "description": " In the showcase are old photos from Roșia, crystal clusters rocks from the roman gallery and old objects used in the household.",
+              "text": "<b>'Books' room - inside</b> -  In the showcase are old photos from Roșia, crystal clusters rocks from the roman gallery and old objects used in the household.",
               "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/2.jpg"
             },
             {
-              "title": "'Books' room - bathroom",
-              "description": "Heating with electric boiler",
+              "text": "<b>'Books' room - bathroom</b> - Heating with electric boiler",
               "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/3.jpg"
             }
@@ -72,20 +69,17 @@
           "textContent": "The old summer house of the household has one room with two beds, a bathroom and a kitchen. You will feel like home. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i>",
           "images": [
             {
-              "title": "The little house",
-              "description": " inside. If you want, the beds can be joined",
+              "text": "<b>The little house</b> -  inside. If you want, the beds can be joined",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/1.jpg"
             },
             {
-              "title": "The little house",
-              "description": "from the outside.",
+              "text": "<b>The little house</b> - from the outside.",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/2.jpg"
             },
             {
-              "title": "The little house - bathroom",
-              "description": " Heating with wood boiler",
+              "text": "<b>The little house - bathroom</b> -  Heating with wood boiler",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/3.jpg"
             }
@@ -101,20 +95,17 @@
           "textContent": "The room has a hallway with many small windows called 'târnaț' (specific for the houses from our area). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i>",
           "images": [
             {
-              "title": "'Upstairs' room",
-              "description": "If you want, the beds can be separated. The painting was made in 1950 and is very well preserved",
+              "text": "<b>'Upstairs' room</b> - If you want, the beds can be separated. The painting was made in 1950 and is very well preserved",
               "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/1.jpg"
             },
             {
-              "title": "'Upstairs' room - sitting and relaxing area",
-              "description": "on the hallway you can find a chic coffee table and many places with old books.",
+              "text": "<b>'Upstairs' room - sitting and relaxing area</b> - on the hallway you can find a chic coffee table and many places with old books.",
               "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/2.jpg"
             },
             {
-              "title": "'Upstairs' room - bathroom",
-              "description": "the access is made through the hallway.",
+              "text": "<b>'Upstairs' room - bathroom</b> - the access is made through the hallway.",
               "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/3.jpg"
             }
@@ -136,14 +127,12 @@
           "textContent": "Because we also love to go camping, we prepared a small camping place in our yard, for maximum 4 tents, with bathroom, kitchen, dinning area, gazebo, hammocks, <i class='fa fa-wifi'></i> <b>free wifi</b> and electricity.",
           "images": [
             {
-              "title": "Camping area",
-              "description": "",
+              "text": "<b>Camping area</b> - ",
               "thumbnailUrl": "img/accommodation/article/camping/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/camping/fullSize/1.jpg"
             },
             {
-              "title": "Camping area",
-              "description": "",
+              "text": "<b>Camping area</b> - ",
               "thumbnailUrl": "img/accommodation/article/camping/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/camping/fullSize/2.jpg"
             }

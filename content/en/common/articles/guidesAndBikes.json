@@ -11,20 +11,17 @@
     },
     "images": [
       {
-        "title": "Guided tours",
-        "description": "discover the area with a guide who can tell you more about the attractions you meet on the trail.",
+        "text": "<b>Guided tours</b> - discover the area with a guide who can tell you more about the attractions you meet on the trail.",
         "thumbnailUrl": "img/common/guidesAndBikes/article/thumbnail/1.jpg",
         "fullSizeUrl": "img/common/guidesAndBikes/article/fullSize/1.jpg"
       },
       {
-        "title": "Book a bike or bike tours",
-        "description": "mtb or asphalt.",
+        "text": "<b>Book a bike or bike tours</b> - mtb or asphalt.",
         "thumbnailUrl": "img/common/guidesAndBikes/article/thumbnail/2.jpg",
         "fullSizeUrl": "img/common/guidesAndBikes/article/fullSize/2.jpg"
       },
       {
-        "title": "Chat with the locals at Casa Petri",
-        "description": "locals who worked in the mining industry or who chose to stay here and fight against the gold project in 2014.",
+        "text": "<b>Chat with the locals at Casa Petri</b> - locals who worked in the mining industry or who chose to stay here and fight against the gold project in 2014.",
         "thumbnailUrl": "img/common/guidesAndBikes/article/thumbnail/3.jpg",
         "fullSizeUrl": "img/common/guidesAndBikes/article/fullSize/3.jpg"
       }

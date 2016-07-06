@@ -94,14 +94,12 @@
           },
           "images": [
             {
-              "title": "Poiana cu Narcise",
-              "description": "Nu culegeți multe narcise! Odată rupte se ofilesc destul de rapid și își pierd mirosul ... magia lor are efect doar aici, în mediul lor natural. În schimb faceți multe poze cu ele :)",
+              "text": "<b>Poiana cu Narcise</b> - Nu culegeți multe narcise! Odată rupte se ofilesc destul de rapid și își pierd mirosul ... magia lor are efect doar aici, în mediul lor natural. În schimb faceți multe poze cu ele :)",
               "thumbnailUrl": "img/activities/trails/daffodilMeadow/article/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/daffodilMeadow/article/fullSize/1.jpg"
             },
             {
-              "title": "Poiana cu Narcise",
-              "description": "Zona este înconjurată de culmi montane și păduri de conifere. De ai timp poți să te mai aventurezi prin împrejurări",
+              "text": "<b>Poiana cu Narcise</b> - Zona este înconjurată de culmi montane și păduri de conifere. De ai timp poți să te mai aventurezi prin împrejurări",
               "thumbnailUrl": "img/activities/trails/daffodilMeadow/article/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/daffodilMeadow/article/fullSize/2.jpg"
             }

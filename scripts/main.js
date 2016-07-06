@@ -1,8 +1,8 @@
 /**
  * Constants
  */
-var  RO_LOCALE = 'ro';
-var  EN_LOCALE = 'en';
+var RO_LOCALE = 'ro';
+var EN_LOCALE = 'en';
 
 /**
  * Main AngularJS Web Application
@@ -48,15 +48,15 @@ app.config(['$urlRouterProvider', '$stateProvider', '$locationProvider', functio
     $urlRouterProvider.otherwise('/');
     $locationProvider.html5Mode(true);
     $stateProvider
-        .state('initHome' ,{
+        .state('initHome', {
             url: '/',
             templateUrl: 'partials/defaultTemplate.html',
-            controller: function($window, localizationService) {
+            controller: function ($window, localizationService) {
                 //detect language And Redirect
                 $window.location.href = localizationService.language + '/home';
             }
         })
-        .state('default',{
+        .state('default', {
             url: '*path',
             templateUrl: 'partials/defaultTemplate.html', controller: "DefaultPageCtrl"
         })
@@ -130,9 +130,9 @@ app.filter('trustHtml', ['$sce', function ($sce) {
     };
 }]);
 
-app.filter('removeHtmlFromText', function() {
-        return function(text) {
-            return  text ? String(text).replace(/<[^>]+>/gm, '') : '';
+app.filter('removeHtmlFromText', function () {
+        return function (text) {
+            return text ? String(text).replace(/<[^>]+>/gm, '') : '';
         };
     }
 );
@@ -165,80 +165,80 @@ app.factory('localizationService', function ($window, $location) {
 });
 
 app.directive('sectionForm', function ($timeout) {
-   return {
-       restrict: 'E',
-       scope: {
-           section: '='
-       },
-       templateUrl: 'templates/_form.tmpl.htm',
-       link: function (scope, element, attrs) {
-           scope.formObj = {};
-           scope.responseMessage = '';
-           scope.showResponse = false;
-           scope.messageType = 'success';
-           scope.addNewField = function(collectionWhereToAdd, fieldToBeAdded) {
-               collectionWhereToAdd.push(angular.copy(fieldToBeAdded));
-           };
-           scope.removeLastField = function(collectionToRemoveFrom) {
-               var lastItem = collectionToRemoveFrom.length-1;
-               collectionToRemoveFrom.splice(lastItem);
-           };
-           scope.sendEmailFromForm = function () {
-               scope.formLoading = true;
-               scope.formObj.title = scope.section.sendEmailTitle;
-               $.ajax({
-                   type: 'POST',
-                   url: '/scripts/send_mail.php',
-                   data: scope.formObj,
-                   dataType: 'json',
-                   success: function (data){
-                       for (var field in scope.formObj) {
-                           scope.formObj[field] = '';
-                       }
-                       if(data.status == "success") {
-                           //success
-                           console.log("success", JSON.stringify(data));
-                           scope.showResponse = true;
-                           scope.responseMessage = scope.section.successMessage;
-                           scope.messageType = 'success';
-                       }
-                       else {
-                           // error
-                           console.log("error", JSON.stringify(data));
-                           scope.showResponse = true;
-                           scope.responseMessage = scope.section.errorMessage || "ERROR";
-                           scope.messageType = 'error';
-                       }
-                       scope.formObj = {};
-                       scope.formLoading = false;
-                       scope.$apply();
-                       $timeout(function() {
-                           scope.showResponse = false;
-                           scope.$apply();
-                       }, 30000);
-                   },
-                   error: function(errorThrown) {
-                       for (var field in scope.formObj) {
-                           scope.formObj[field] = '';
-                       }
-                       scope.formObj = {};
-                       console.log("error while sending form to email", errorThrown);
-                       scope.responseMessage = scope.section.errorMessage || "ERROR";
-                       scope.messageType = 'error';
-                       scope.showResponse = true;
-                       scope.formLoading = false;
-                       scope.$apply();
-                   }
-               });
-           }
-       }
-   }
+    return {
+        restrict: 'E',
+        scope: {
+            section: '='
+        },
+        templateUrl: 'templates/_form.tmpl.htm',
+        link: function (scope, element, attrs) {
+            scope.formObj = {};
+            scope.responseMessage = '';
+            scope.showResponse = false;
+            scope.messageType = 'success';
+            scope.addNewField = function (collectionWhereToAdd, fieldToBeAdded) {
+                collectionWhereToAdd.push(angular.copy(fieldToBeAdded));
+            };
+            scope.removeLastField = function (collectionToRemoveFrom) {
+                var lastItem = collectionToRemoveFrom.length - 1;
+                collectionToRemoveFrom.splice(lastItem);
+            };
+            scope.sendEmailFromForm = function () {
+                scope.formLoading = true;
+                scope.formObj.title = scope.section.sendEmailTitle;
+                $.ajax({
+                    type: 'POST',
+                    url: '/scripts/send_mail.php',
+                    data: scope.formObj,
+                    dataType: 'json',
+                    success: function (data) {
+                        for (var field in scope.formObj) {
+                            scope.formObj[field] = '';
+                        }
+                        if (data.status == "success") {
+                            //success
+                            console.log("success", JSON.stringify(data));
+                            scope.showResponse = true;
+                            scope.responseMessage = scope.section.successMessage;
+                            scope.messageType = 'success';
+                        }
+                        else {
+                            // error
+                            console.log("error", JSON.stringify(data));
+                            scope.showResponse = true;
+                            scope.responseMessage = scope.section.errorMessage || "ERROR";
+                            scope.messageType = 'error';
+                        }
+                        scope.formObj = {};
+                        scope.formLoading = false;
+                        scope.$apply();
+                        $timeout(function () {
+                            scope.showResponse = false;
+                            scope.$apply();
+                        }, 30000);
+                    },
+                    error: function (errorThrown) {
+                        for (var field in scope.formObj) {
+                            scope.formObj[field] = '';
+                        }
+                        scope.formObj = {};
+                        console.log("error while sending form to email", errorThrown);
+                        scope.responseMessage = scope.section.errorMessage || "ERROR";
+                        scope.messageType = 'error';
+                        scope.showResponse = true;
+                        scope.formLoading = false;
+                        scope.$apply();
+                    }
+                });
+            }
+        }
+    }
 });
 
 // make menu from headline stick to the top on scroll
-(function($) {
-    $(document).ready(function(){
-        $(window).scroll(function(){
+(function ($) {
+    $(document).ready(function () {
+        $(window).scroll(function () {
             if ($(this).scrollTop() > 300) {
                 $("#headlineMenu").addClass("headlineMenuShowOnScrollDown");
             } else {

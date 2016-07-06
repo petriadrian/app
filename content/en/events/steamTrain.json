@@ -3,18 +3,18 @@
     "title": "Steam train",
     "headline": "Discover our area by Steam Train",
     "description": "<b>| June-Sept |</b> Near Rosia Montana, on a narrow railway, runs the Steam Train. It was used by workers to come at the mining plant 'Gura Rosia' and now for tourism.",
-    "fullWidthImg": "img/recommendations/steamTrain/presentation/fullWidthImg.jpg",
-    "smallBoxImg": "img/recommendations/steamTrain/presentation/smallBoxImg.jpg"
+    "fullWidthImg": "img/events/steamTrain/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/events/steamTrain/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "en/recommendations/steamTrain",
+    "link": "en/events/steamTrain",
     "textOnMouseOver": "See more...",
     "openInNewTab": false
   },
   "metaData": {
     "title": "The Steam Train from Apuseni Mountains",
     "description": "Near Rosia Montana (8km away), on a narrow railway, runs the Steam Train (from Abrud to Câmpeni). It was used by workers to come at the mining plant 'Gura Rosia' and now for tourism. See more attractions in Rosia Montana. Book rooms, bikes, guided tours, camping.",
-    "displayOnShareImg": "img/recommendations/steamTrain/presentation/displayOnShareImg.jpg"
+    "displayOnShareImg": "img/events/steamTrain/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": true
@@ -40,16 +40,14 @@
           },
           "images": [
             {
-              "title": "The steam train",
-              "description": "in the summer",
-              "thumbnailUrl": "img/recommendations/steamTrain/article/thumbnail/1.jpg",
-              "fullSizeUrl": "img/recommendations/steamTrain/article/fullSize/1.jpg"
+              "text": "<b>The steam train</b> - in the summer",
+              "thumbnailUrl": "img/events/steamTrain/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/events/steamTrain/article/fullSize/1.jpg"
             },
             {
-              "title": "The steam train",
-              "description": "",
-              "thumbnailUrl": "img/recommendations/steamTrain/article/thumbnail/2.jpg",
-              "fullSizeUrl": "img/recommendations/steamTrain/article/fullSize/2.jpg"
+              "text": "<b>The steam train</b>",
+              "thumbnailUrl": "img/events/steamTrain/article/thumbnail/2.jpg",
+              "fullSizeUrl": "img/events/steamTrain/article/fullSize/2.jpg"
             }
           ]
         }

@@ -42,20 +42,17 @@
           "textContent": "Camera de la parter are pereți de piatră de un metru grosime și un dulap plin cu cărți. Dispune de baie proprie, două paturi etajate și o canapea extensibilă. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i>",
           "images": [
             {
-              "title": "Camera cu cărți",
-              "description": "aici găsiți 'Dulapul cu cărți' - un fost bufet de bucătărie transformat în bibliotecă unde găsiți cărți vechi și diverse jocuri.",
+              "text": "<b>Camera cu cărți</b> - aici găsiți 'Dulapul cu cărți' - un fost bufet de bucătărie transformat în bibliotecă unde găsiți cărți vechi și diverse jocuri.",
               "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/1.jpg"
             },
             {
-              "title": "Camera cu cărți",
-              "description": "interior. În vitrină sunt poze vechi din Roșia, flori de mină și obiecte folosite în trecut prin gospodărie.",
+              "text": "<b>Camera cu cărți</b> - interior. În vitrină sunt poze vechi din Roșia, flori de mină și obiecte folosite în trecut prin gospodărie.",
               "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/2.jpg"
             },
             {
-              "title": "Camera cu cărți - baie",
-              "description": "Încălzire prin boiler electric",
+              "text": "<b>Camera cu cărți - baie</b> - Încălzire prin boiler electric",
               "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/3.jpg"
             }
@@ -71,20 +68,17 @@
           "textContent": "Fosta căsuță de vară a gospodăriei este ca o mică garsonieră. Dispune de o cameră cu 2 paturi, baie și bucătărie. O să te simți ca acasă. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i>",
           "images": [
             {
-              "title": "Camera din căsuță",
-              "description": "la cerere se pot uni paturile pentru a deveni unul dublu",
+              "text": "<b>Camera din căsuță</b> - la cerere se pot uni paturile pentru a deveni unul dublu",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/1.jpg"
             },
             {
-              "title": "Căsuța",
-              "description": "exterior",
+              "text": "<b>Căsuța</b> - exterior",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/2.jpg"
             },
             {
-              "title": "Căsuța - baie",
-              "description": "Încălzire prin boiler pe lemne",
+              "text": "<b>Căsuța - baie</b> - Încălzire prin boiler pe lemne",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/3.jpg"
             }
@@ -100,20 +94,17 @@
           "textContent": "Camera se află la etajul casei iar pentru a ajunge la ea vei urca prin târnaț (un hol cu multe ferestre mici, specific caselor din zonă). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i>",
           "images": [
             {
-              "title": "Camera din târnaț",
-              "description": "la cerere paturile se pot despărți. Zugrăveala datează de prin anul 1950 și este foarte bine păstrată. Cam 2 săptămâni a durat atunci realizarea ei.",
+              "text": "<b>Camera din târnaț</b> - la cerere paturile se pot despărți. Zugrăveala datează de prin anul 1950 și este foarte bine păstrată. Cam 2 săptămâni a durat atunci realizarea ei.",
               "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/1.jpg"
             },
             {
-              "title": "Camera din târnaț - zona de relaxare din târnaț",
-              "description": "aici găsiți ocochetă măsuță de cafea și multe locuri cu cărți vechi.",
+              "text": "<b>Camera din târnaț - zona de relaxare din târnaț</b> - aici găsiți ocochetă măsuță de cafea și multe locuri cu cărți vechi.",
               "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/2.jpg"
             },
             {
-              "title": "Camera din târnaț - baie",
-              "description": "accesul se face prin târnaț.",
+              "text": "<b>Camera din târnaț - baie</b> - accesul se face prin târnaț.",
               "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/3.jpg"
             }
@@ -135,14 +126,12 @@
           "textContent": "Pentru că și nouă ne place să mergem la munte cu cortul am pregătit în curtea casei un mic spațiu de campare, pentru maxim 4 corturi, cu acces la baie, bucătărie, loc de luat masa, foișor, <i class='fa fa-wifi'></i> <b>free wifi</b> și acces la energie electrică.",
           "images": [
             {
-              "title": "Zona de campare",
-              "description": "",
+              "text": "<b>Zona de campare</b>",
               "thumbnailUrl": "img/accommodation/article/camping/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/camping/fullSize/1.jpg"
             },
             {
-              "title": "Zona de campare",
-              "description": "",
+              "text": "<b>Zona de campare</b>",
               "thumbnailUrl": "img/accommodation/article/camping/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/camping/fullSize/2.jpg"
             }

@@ -88,14 +88,12 @@
           },
           "images": [
             {
-              "title": "Drumul spre Ghețarul Scărișoara",
-              "description": "",
+              "text": "<b>Drumul spre Ghețarul Scărișoara</b> - ",
               "thumbnailUrl": "img/activities/trails/attractions/scarisoaraRoad/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/scarisoaraRoad/fullSize/1.jpg"
             },
             {
-              "title": "Drumul spre Ghețarul Scărișoara",
-              "description": "",
+              "text": "<b>Drumul spre Ghețarul Scărișoara</b> - ",
               "thumbnailUrl": "img/activities/trails/attractions/scarisoaraRoad/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/scarisoaraRoad/fullSize/2.jpg"
             }
@@ -117,14 +115,12 @@
           },
           "images": [
             {
-              "title": "Intrarea în ghețarul Scărișoara",
-              "description": "",
+              "text": "<b>Intrarea în ghețarul Scărișoara</b>",
               "thumbnailUrl": "img/activities/trails/attractions/scarisoara/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/scarisoara/fullSize/1.jpg"
             },
             {
-              "title": "Ghețarul Scărișoara",
-              "description": "blocul de gheață în formă de rechin",
+              "text": "<b>Ghețarul Scărișoara</b> - blocul de gheață în formă de rechin",
               "thumbnailUrl": "img/activities/trails/attractions/scarisoara/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/scarisoara/fullSize/2.jpg"
             }

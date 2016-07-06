@@ -120,36 +120,41 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-calendar'></i> De neratat",
-      "sectionId": "recommendations",
+      "text": "<i class='fa fa-calendar'></i> Activități",
+      "sectionId": "events",
       "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Ai nevoie de un motiv să vi la Roșia? Vezi activitățile care se anunță în perioada următoare. Intră pe evenimentul ales pentru a vedea datele exacte ale acestuia și cum poți participa la el."
+        }
+      ]
     },
     {
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/recommendations/festival"
+          "page": "ro/events/hayDays"
         },
         {
-          "page": "ro/recommendations/marathon"
+          "page": "ro/events/marathon"
         },
         {
-          "page": "ro/recommendations/monumentsRestorations"
+          "page": "ro/events/monumentsRestorations"
         },
         {
-          "page": "ro/recommendations/steamTrain"
+          "page": "ro/events/steamTrain"
         },
         {
           "page": "ro/activities/trails/daffodilMeadow"
         },
         {
-          "page": "ro/recommendations/firstMai"
+          "page": "ro/events/firstMai"
         },
         {
-          "page": "ro/recommendations/scoutsOng"
-        },
-        {
-          "page": "ro/recommendations/souvenirShop"
+          "page": "ro/events/souvenirShop"
         }
       ]
     }

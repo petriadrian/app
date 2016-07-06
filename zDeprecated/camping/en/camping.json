@@ -43,14 +43,12 @@
           "textContent": "",
           "images": [
             {
-              "title": "Camping area",
-              "description": "yard",
+              "text": "<b>Camping area</b> - yard",
               "thumbnailUrl": "img/accommodation/article/camping/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/camping/fullSize/1.jpg"
             },
             {
-              "title": "Camping area - bathroom",
-              "description": " Heating with wood boiler",
+              "text": "<b>Camping area - bathroom</b> -  Heating with wood boiler",
               "thumbnailUrl": "img/accommodation/article/camping/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/article/camping/fullSize/3.jpg"
             }

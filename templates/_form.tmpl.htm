@@ -73,17 +73,18 @@
                 <option ng-repeat="option in input.selectOptions" value="{{option.text}}">{{option.text}}</option>
             </select>
             <span ng-show="field.inputs.length < field.allowToDuplicateSettings.maxOccurs"
-               class="textAlignLeft btn btn-default"
-               ng-click="addNewField(field.inputs, field.inputs[0])"
-               ng-bind="field.allowToDuplicateSettings.addButtonText"></span>
+                  class="textAlignLeft btn btn-default"
+                  ng-click="addNewField(field.inputs, field.inputs[0])"
+                  ng-bind="field.allowToDuplicateSettings.addButtonText"></span>
             <span ng-show="field.inputs.length > field.allowToDuplicateSettings.minOccurs"
-               class="textAlignLeft btn btn-warning"
-               ng-click="removeLastField(field.inputs)"
-               ng-bind="field.allowToDuplicateSettings.removeButtonText"></span>
+                  class="textAlignLeft btn btn-warning"
+                  ng-click="removeLastField(field.inputs)"
+                  ng-bind="field.allowToDuplicateSettings.removeButtonText"></span>
         </div>
 
         <div ng-if="field.type == 'checkBoxes'" class="textAlignLeft">
             <p ng-bind-html="field.title | trustHtml"></p>
+
             <div ng-repeat="checkBox in field.checkBoxes" class="checkbox">
                 <label>
                     <input type="checkbox" name="{{checkBox.name}}" ng-model="formObj[checkBox.name]" value="true"/>

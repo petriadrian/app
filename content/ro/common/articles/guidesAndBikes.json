@@ -11,20 +11,17 @@
     },
     "images": [
       {
-        "title": "Tururi ghidate",
-        "description": "descoperă zona însoțiți de un ghid care să vă povestească despre atracțiile întâlnite pe traseu.",
+        "text": "<b>Tururi ghidate</b> - descoperă zona însoțiți de un ghid care să vă povestească despre atracțiile întâlnite pe traseu.",
         "thumbnailUrl": "img/common/guidesAndBikes/article/thumbnail/1.jpg",
         "fullSizeUrl": "img/common/guidesAndBikes/article/fullSize/1.jpg"
       },
       {
-        "title": "Rezervă biciclete sau trasee ghidate pe bicicletă",
-        "description": "mtb sau asfalt.",
+        "text": "<b>Rezervă biciclete sau trasee ghidate pe bicicletă</b> - mtb sau asfalt.",
         "thumbnailUrl": "img/common/guidesAndBikes/article/thumbnail/2.jpg",
         "fullSizeUrl": "img/common/guidesAndBikes/article/fullSize/2.jpg"
       },
       {
-        "title": "Povești cu localnici",
-        "description": "foști angajați în minerit sau oameni ce au ales să rămână aici și să lupte împotriva proiectului care amenița să transforme satul într-o uriașă exploatare minieră.",
+        "text": "<b>Povești cu localnici</b> - foști angajați în minerit sau oameni ce au ales să rămână aici și să lupte împotriva proiectului care amenița să transforme satul într-o uriașă exploatare minieră.",
         "thumbnailUrl": "img/common/guidesAndBikes/article/thumbnail/3.jpg",
         "fullSizeUrl": "img/common/guidesAndBikes/article/fullSize/3.jpg"
       }

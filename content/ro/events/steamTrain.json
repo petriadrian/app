@@ -3,18 +3,18 @@
     "title": "Mocănița",
     "headline": "Cu Mocănița prin Țara Moților - Apuseni",
     "description": "<b>| Iun-Sept |</b> La 8km de noi, pe o cale ferată îngustă, circulă Mocănița cu Aburi. Muncitorii veneau cu ea la stația minieră Gura Roșia. Acum e folosită pentru turiști.",
-    "fullWidthImg": "img/recommendations/steamTrain/presentation/fullWidthImg.jpg",
-    "smallBoxImg": "img/recommendations/steamTrain/presentation/smallBoxImg.jpg"
+    "fullWidthImg": "img/events/steamTrain/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/events/steamTrain/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "ro/recommendations/steamTrain",
+    "link": "ro/events/steamTrain",
     "textOnMouseOver": "Vezi mai mult...",
     "openInNewTab": false
   },
   "metaData": {
     "title": "Cu mocănița prin Munții Apuseni",
     "description": "La 8km de Roșia Montană, pe o cale ferată îngustă, circulă Mocănița cu Aburi. Muncitorii veneau cu ea la stația minieră Gura Roșia, iar acum e folosită pentru turiști. Vezi mai multe atracții din Roșia Montană. Rezervă camere, biciclete, cazare, campare.",
-    "displayOnShareImg": "img/recommendations/steamTrain/presentation/displayOnShareImg.jpg"
+    "displayOnShareImg": "img/events/steamTrain/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": true
@@ -40,16 +40,14 @@
           },
           "images": [
             {
-              "title": "Mocănița prin satul Cristea",
-              "description": "",
-              "thumbnailUrl": "img/recommendations/steamTrain/article/thumbnail/1.jpg",
-              "fullSizeUrl": "img/recommendations/steamTrain/article/fullSize/1.jpg"
+              "text": "<b>Mocănița prin satul Cristea</b>",
+              "thumbnailUrl": "img/events/steamTrain/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/events/steamTrain/article/fullSize/1.jpg"
             },
             {
-              "title": "Mocănița",
-              "description": "",
-              "thumbnailUrl": "img/recommendations/steamTrain/article/thumbnail/2.jpg",
-              "fullSizeUrl": "img/recommendations/steamTrain/article/fullSize/2.jpg"
+              "text": "<b>Mocănița</b>",
+              "thumbnailUrl": "img/events/steamTrain/article/thumbnail/2.jpg",
+              "fullSizeUrl": "img/events/steamTrain/article/fullSize/2.jpg"
             }
           ]
         }

@@ -91,14 +91,12 @@
           "textContent": "The road was asphalted in the past and used to reach the Cooper Open Pit. Now, there is almost no traffic, so it's perfect to go downhill by bike",
           "images": [
             {
-              "title": "The road to the Cooper mine",
-              "description": "will take you to 'Abrud' on the edge of the 'Piciorului' hill, with a spectacular overlooking to the 'Corna' valey.",
+              "text": "<b>The road to the Cooper mine</b> - will take you to 'Abrud' on the edge of the 'Piciorului' hill, with a spectacular overlooking to the 'Corna' valey.",
               "thumbnailUrl": "img/activities/trails/attractions/cornaRoad/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/cornaRoad/fullSize/1.jpg"
             },
             {
-              "title": "The road along 'Corna' village",
-              "description": "in the back you can see the Corna road. You can also have a break in the village to visit the 2 churches or the 'Cartusi' Lake",
+              "text": "<b>The road along 'Corna' village</b> - in the back you can see the Corna road. You can also have a break in the village to visit the 2 churches or the 'Cartusi' Lake",
               "thumbnailUrl": "img/activities/trails/attractions/cornaRoad/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/cornaRoad/fullSize/2.jpg"
             }
@@ -120,8 +118,7 @@
           },
           "images": [
             {
-              "title": "Abrud",
-              "description": "the Historic Center - the Catholic Church",
+              "text": "<b>Abrud</b> - the Historic Center - the Catholic Church",
               "thumbnailUrl": "img/activities/trails/attractions/abrud/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/abrud/fullSize/1.jpg"
             }
@@ -132,14 +129,12 @@
           "textContent": "From Abrud go uphill until you get above the town on the 'Baisului' hill and the continue on the unpaved road along the 'Seliste' village and 'Țapului' lake. Have a break because Rosia Montana is pretty close from here.",
           "images": [
             {
-              "title": "The road along 'Seliște' village",
-              "description": "",
+              "text": "<b>The road along 'Seliște' village</b> - ",
               "thumbnailUrl": "img/activities/trails/attractions/selisteRoad/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/selisteRoad/fullSize/1.jpg"
             },
             {
-              "title": "'Țapului' lake",
-              "description": "",
+              "text": "<b>'Țapului' lake</b> - ",
               "thumbnailUrl": "img/activities/trails/attractions/selisteRoad/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/selisteRoad/fullSize/2.jpg"
             }

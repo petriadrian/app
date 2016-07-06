@@ -88,14 +88,12 @@
           },
           "images": [
             {
-              "title": "The road to Scărișoara",
-              "description": "",
+              "text": "<b>The road to Scărișoara</b> - ",
               "thumbnailUrl": "img/activities/trails/attractions/scarisoaraRoad/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/scarisoaraRoad/fullSize/1.jpg"
             },
             {
-              "title": "The road to Scărișoara",
-              "description": "",
+              "text": "<b>The road to Scărișoara</b> - ",
               "thumbnailUrl": "img/activities/trails/attractions/scarisoaraRoad/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/scarisoaraRoad/fullSize/2.jpg"
             }
@@ -117,14 +115,12 @@
           },
           "images": [
             {
-              "title": "The entrance in the Scărișoara Glacier",
-              "description": "",
+              "text": "<b>The entrance in the Scărișoara Glacier</b> - ",
               "thumbnailUrl": "img/activities/trails/attractions/scarisoara/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/scarisoara/fullSize/1.jpg"
             },
             {
-              "title": "The Scărișoara Glacier",
-              "description": "blocul de gheață în formă de rechin",
+              "text": "<b>The Scărișoara Glacier</b> - blocul de gheață în formă de rechin",
               "thumbnailUrl": "img/activities/trails/attractions/scarisoara/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/scarisoara/fullSize/2.jpg"
             }

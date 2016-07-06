@@ -94,14 +94,12 @@
           },
           "images": [
             {
-              "title": "Daffodil Meadow",
-              "description": "Don't reap the flowers. Once reaped will wither quickly and lose their smell. Their magic is only here in the wild. Instead take a lot of pictures :)",
+              "text": "<b>Daffodil Meadow</b> - Don't reap the flowers. Once reaped will wither quickly and lose their smell. Their magic is only here in the wild. Instead take a lot of pictures :)",
               "thumbnailUrl": "img/activities/trails/daffodilMeadow/article/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/daffodilMeadow/article/fullSize/1.jpg"
             },
             {
-              "title": "Daffodil Meadow",
-              "description": "The area is surrounded by mountains and pine forests. If you have time visit the area and discover those places.",
+              "text": "<b>Daffodil Meadow</b> - The area is surrounded by mountains and pine forests. If you have time visit the area and discover those places.",
               "thumbnailUrl": "img/activities/trails/daffodilMeadow/article/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/daffodilMeadow/article/fullSize/2.jpg"
             }

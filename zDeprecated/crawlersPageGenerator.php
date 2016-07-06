@@ -19,8 +19,8 @@ makePage($jsonData, $SITE_ROOT);
 function getData($siteRoot)
 {
 //    echo $_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF'];
-    if ($_GET['pageUrl'] != ''){
-        $pageUrl =  $_GET['pageUrl'];
+    if ($_GET['pageUrl'] != '') {
+        $pageUrl = $_GET['pageUrl'];
     } else {
         $pageUrl = 'home';
     }
@@ -58,8 +58,8 @@ function makePage($data, $siteRoot)
 
     </head>
     <body>
-        <p><?php echo $data->presentation->metaData->description; ?></p>
-        <img src="<?php echo $imageUrl; ?>">
+    <p><?php echo $data->presentation->metaData->description; ?></p>
+    <img src="<?php echo $imageUrl; ?>">
     </body>
     </html>
     <?php

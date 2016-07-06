@@ -88,14 +88,12 @@
           },
           "images": [
             {
-              "title": "Drumul spre Muntele Vulcan",
-              "description": "",
+              "text": "<b>Drumul spre Muntele Vulcan</b>",
               "thumbnailUrl": "img/activities/trails/attractions/vulcan/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/vulcan/fullSize/1.jpg"
             },
             {
-              "title": "Muntele Vulcan",
-              "description": "Peretele Corbilor",
+              "text": "<b>Muntele Vulcan</b> - Peretele Corbilor",
               "thumbnailUrl": "img/activities/trails/attractions/vulcan/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/vulcan/fullSize/2.jpg"
             }

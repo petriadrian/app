@@ -91,14 +91,12 @@
           "textContent": "Drumul era asfaltat și folosit pentru a ajunge la Cariera de Cupru Rosia Poieni, dar acum s-a deteriorat și este puțin circulat, ceea ce il face numai bun pentru un traseu de MTB.",
           "images": [
             {
-              "title": "Drumul fostei cariere de cupru",
-              "description": "vă va coborî spre Abrud pe marginea versantului cu priveliște spre valea Cornii.",
+              "text": "<b>Drumul fostei cariere de cupru</b> - vă va coborî spre Abrud pe marginea versantului cu priveliște spre valea Cornii.",
               "thumbnailUrl": "img/activities/trails/attractions/cornaRoad/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/cornaRoad/fullSize/1.jpg"
             },
             {
-              "title": "Serpentinele de lângă satul Corna",
-              "description": "Vă puteți aventura și prin sat pentru a vizita cele două biserici sau Tăul Cartuș.",
+              "text": "<b>Serpentinele de lângă satul Corna</b> - Vă puteți aventura și prin sat pentru a vizita cele două biserici sau Tăul Cartuș.",
               "thumbnailUrl": "img/activities/trails/attractions/cornaRoad/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/cornaRoad/fullSize/2.jpg"
             }
@@ -120,8 +118,7 @@
           },
           "images": [
             {
-              "title": "Abrud",
-              "description": "Centrul Istoric - Biserica Romano Catolică",
+              "text": "<b>Abrud</b> - Centrul Istoric - Biserica Romano Catolică",
               "thumbnailUrl": "img/activities/trails/attractions/abrud/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/abrud/fullSize/1.jpg"
             }
@@ -132,14 +129,12 @@
           "textContent": "Pentru a vă întoarce în Roșia urmați drumul de țară prin satul Seliște și pe la Tăul Țapului. ",
           "images": [
             {
-              "title": "Drumul prin Seliște",
-              "description": "",
+              "text": "<b>Drumul prin Seliște</b> - ",
               "thumbnailUrl": "img/activities/trails/attractions/selisteRoad/thumbnail/1.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/selisteRoad/fullSize/1.jpg"
             },
             {
-              "title": "Drumul pe la Tăul Țapului",
-              "description": "",
+              "text": "<b>Drumul pe la Tăul Țapului</b> - ",
               "thumbnailUrl": "img/activities/trails/attractions/selisteRoad/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/selisteRoad/fullSize/2.jpg"
             }

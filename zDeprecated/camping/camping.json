@@ -43,14 +43,12 @@
           "textContent": "",
           "images": [
             {
-              "title": "Zona de campare",
-              "description": "curte",
+              "text": "<b>Zona de campare</b> - curte",
               "thumbnailUrl": "img/accommodation/article/camping/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/camping/fullSize/1.jpg"
             },
             {
-              "title": "Zona de campare - baie",
-              "description": "Încălzire prin boiler pe lemne",
+              "text": "<b>Zona de campare - baie</b> - Încălzire prin boiler pe lemne",
               "thumbnailUrl": "img/accommodation/article/camping/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/article/camping/fullSize/3.jpg"
             }

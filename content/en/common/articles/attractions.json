@@ -11,14 +11,12 @@
     },
     "images": [
       {
-        "title": "The roman galleries",
-        "description": "To reach them you have to go 157 stairs underground.",
+        "text": "<b>The roman galleries</b> - To reach them you have to go 157 stairs underground.",
         "thumbnailUrl": "img/activities/trails/attractions/romanGalleries/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/romanGalleries/fullSize/1.jpg"
       },
       {
-        "title": "Stamp mills",
-        "description": "the machines used to process the gold.",
+        "text": "<b>Stamp mills</b> - the machines used to process the gold.",
         "thumbnailUrl": "img/activities/trails/attractions/romanGalleries/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/romanGalleries/fullSize/2.jpg"
       }
@@ -36,14 +34,12 @@
     },
     "images": [
       {
-        "title": "The tower of the Catholic Church",
-        "description": "'The church is one of the most important religious monuments in the Apuseni Mountains, for his architecture and history.'",
+        "text": "<b>The tower of the Catholic Church</b> - 'The church is one of the most important religious monuments in the Apuseni Mountains, for his architecture and history.'",
         "thumbnailUrl": "img/activities/trails/attractions/churches/grecoCatholicChurch/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/grecoCatholicChurch/fullSize/1.jpg"
       },
       {
-        "title": "The Greek-Catholic Church",
-        "description": "In the cemetery around the church you will find many tombstones dating from the eighteenth and nineteenth centuries, precious as historical evidences and as artistic achievements",
+        "text": "<b>The Greek-Catholic Church</b> - In the cemetery around the church you will find many tombstones dating from the eighteenth and nineteenth centuries, precious as historical evidences and as artistic achievements",
         "thumbnailUrl": "img/activities/trails/attractions/churches/grecoCatholicChurch/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/grecoCatholicChurch/fullSize/2.jpg"
       }
@@ -61,14 +57,12 @@
     },
     "images": [
       {
-        "title": "The Orthodox Church",
-        "description": "'Adormirea Maicii Domnului', built by the goldsmith 'Mihăilă Gritta'",
+        "text": "<b>The Orthodox Church</b> - 'Adormirea Maicii Domnului', built by the goldsmith 'Mihăilă Gritta'",
         "thumbnailUrl": "img/activities/trails/attractions/churches/orthodoxChurch/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/orthodoxChurch/fullSize/1.jpg"
       },
       {
-        "title": "Funeral monuments",
-        "description": "of the 'Gritta' family can be found here.",
+        "text": "<b>Funeral monuments</b> - of the 'Gritta' family can be found here.",
         "thumbnailUrl": "img/activities/trails/attractions/churches/orthodoxChurch/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/orthodoxChurch/fullSize/2.jpg"
       }
@@ -80,14 +74,12 @@
     "textContent": "The Panoramic Bench is definitely the most romantic spot in Roșia Montană. It’s 10 minutes away from Casa Petri so we recommend to visit it at night as well, to enjoy the sky full of stars and the quiet of the village. On your way to the bench you will pass through the old German neighborhood ‘Berg’.",
     "images": [
       {
-        "title": "The German School & Francisc House",
-        "description": "heritage buildings in ‘Berg’ neighborhood",
+        "text": "<b>The German School & Francisc House</b> - heritage buildings in ‘Berg’ neighborhood",
         "thumbnailUrl": "img/activities/trails/attractions/panoramicBench/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/panoramicBench/fullSize/1.jpg"
       },
       {
-        "title": "The Panoramic Bench",
-        "description": "view towards the Cârnic Mountains, that holds over 150 km of roman galleries, unique in the world ",
+        "text": "<b>The Panoramic Bench</b> - view towards the Cârnic Mountains, that holds over 150 km of roman galleries, unique in the world ",
         "thumbnailUrl": "img/activities/trails/attractions/panoramicBench/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/panoramicBench/fullSize/2.jpg"
       }
@@ -99,14 +91,12 @@
     "textContent": "The Roman-Catholic Church 'Sfântul Ladislău', was built on higher ground, that makes the clock tower visible from all over the Historic Center and the bells to be heard from any home. Here you can see the Saint Mary icon (XVIII century) which was donated by Maria Theresa of Austria. The church is surrounded by an old cemetery with funerary monuments (XIX century) that belonged to peoples of different faiths and nations, reflecting the area's multicultural past.",
     "images": [
       {
-        "title": "The Roman-Catholic Church",
-        "description": "The Mass is held on Sunday at 10:00 in romanian and hungarian language. At the end of the mass the pipe organ is played.",
+        "text": "<b>The Roman-Catholic Church</b> - The Mass is held on Sunday at 10:00 in romanian and hungarian language. At the end of the mass the pipe organ is played.",
         "thumbnailUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/fullSize/1.jpg"
       },
       {
-        "title": "The Roman-Catholic Church",
-        "description": "During Easter the tomb of the Saviour is guarded all day by 7 guards that free the entrance during the Mass. Also, the villagers use to bring a basket with food to be holly. ",
+        "text": "<b>The Roman-Catholic Church</b> - During Easter the tomb of the Saviour is guarded all day by 7 guards that free the entrance during the Mass. Also, the villagers use to bring a basket with food to be holly. ",
         "thumbnailUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/fullSize/2.jpg"
       }
@@ -124,14 +114,12 @@
     },
     "images": [
       {
-        "title": "The Unitarian Church",
-        "description": " The Mass is held on Sunday at 11:00. Stay after the Mass and talk with the priest who is happy to tell you more about the church and the habits from the area.",
+        "text": "<b>The Unitarian Church</b> -  The Mass is held on Sunday at 11:00. Stay after the Mass and talk with the priest who is happy to tell you more about the church and the habits from the area.",
         "thumbnailUrl": "img/activities/trails/attractions/churches/unitarianChurch/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/unitarianChurch/fullSize/1.jpg"
       },
       {
-        "title": "The Unitarian Church",
-        "description": "The priest supports the touristic development of the area, that’s why he allows the organization of cultural events here. Make sure you check if there are any events held here during your visit.",
+        "text": "<b>The Unitarian Church</b> - The priest supports the touristic development of the area, that’s why he allows the organization of cultural events here. Make sure you check if there are any events held here during your visit.",
         "thumbnailUrl": "img/activities/trails/attractions/churches/unitarianChurch/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/churches/unitarianChurch/fullSize/2.jpg"
       }
@@ -143,14 +131,12 @@
     "textContent": "This gallery is different from that of the Mining Museum and seems more like a cave. But traces of excavations on the site of gold veins on its walls will convince you that has been created by our ancestors in search of gold. Climb to the top of the mountain and enjoy the view towards Tăul Brazi, Cârnic and the whole valley of Roșia Montană. Warning: you have to climb on the rocks!",
     "images": [
       {
-        "title": "Văidoaia Gallery",
-        "description": "Here is the “heart” of Roșia Montană. Seeing the rocks surrounding the gallery, you will understand where the name of the village comes from.",
+        "text": "<b>Văidoaia Gallery</b> - Here is the “heart” of Roșia Montană. Seeing the rocks surrounding the gallery, you will understand where the name of the village comes from.",
         "thumbnailUrl": "img/activities/trails/attractions/vaidoaiaGalleries/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/vaidoaiaGalleries/fullSize/1.jpg"
       },
       {
-        "title": "Jig-Văidoaia Peak",
-        "description": "view towards the Historic Center and Carnic mountain.",
+        "text": "<b>Jig-Văidoaia Peak</b> - view towards the Historic Center and Carnic mountain.",
         "thumbnailUrl": "img/activities/trails/attractions/vaidoaiaGalleries/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/vaidoaiaGalleries/fullSize/2.jpg"
       }
@@ -168,14 +154,12 @@
     },
     "images": [
       {
-        "title": "The Unitarian Parish House and Hungarian School",
-        "description": "The Unitarian Parish House it is restored by ARA camps ('Adopt a house') which takes place each summer with students and teachers from the Architecture Faculty of Bucharest.",
+        "text": "<b>The Unitarian Parish House and Hungarian School</b> - The Unitarian Parish House it is restored by ARA camps ('Adopt a house') which takes place each summer with students and teachers from the Architecture Faculty of Bucharest.",
         "thumbnailUrl": "img/activities/trails/attractions/sicilianStreet/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/sicilianStreet/fullSize/1.jpg"
       },
       {
-        "title": "Calvin Church and the goldsmiths houses",
-        "description": "this is the style of the heritage houses, white, simple, thick walls and small windows.",
+        "text": "<b>Calvin Church and the goldsmiths houses</b> - this is the style of the heritage houses, white, simple, thick walls and small windows.",
         "thumbnailUrl": "img/activities/trails/attractions/sicilianStreet/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/sicilianStreet/fullSize/2.jpg"
       }
@@ -193,14 +177,12 @@
     },
     "images": [
       {
-        "title": "The Szekely house",
-        "description": "the gate and Vlădoaia mountain.",
+        "text": "<b>The Szekely house</b> - the gate and Vlădoaia mountain.",
         "thumbnailUrl": "img/activities/trails/attractions/szekeyHouse/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/szekeyHouse/fullSize/1.jpg"
       },
       {
-        "title": "Historic Center - image from the ‘Stone Wedding' film",
-        "description": "There were boutiques with various goodies, clothing, slippers repair workshops, tailors ..",
+        "text": "<b>Historic Center - image from the ‘Stone Wedding' film</b> - There were boutiques with various goodies, clothing, slippers repair workshops, tailors ..",
         "thumbnailUrl": "img/activities/trails/attractions/szekeyHouse/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/szekeyHouse/fullSize/2.jpg"
       }
@@ -212,14 +194,12 @@
     "textContent": "This is a man-made lake used to operate the mills stamps (you can see them and how they worked at the Mining Museum). Brazi Lake has a <b>recreation area</b> with benches, boats and places for barbecue. From here you can climb a little to reach the Anghel Lake (~10 minutes away)",
     "images": [
       {
-        "title": "Brazi Lake",
-        "description": "The house from the end of the lake belongs to a painter who comes here to use the view as inspiration for his works.",
+        "text": "<b>Brazi Lake</b> - The house from the end of the lake belongs to a painter who comes here to use the view as inspiration for his works.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/braziLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/braziLake/fullSize/1.jpg"
       },
       {
-        "title": "Brazi Lake",
-        "description": "if you look carefully, you can see in the lake some colorful fishes which were bought recently here.",
+        "text": "<b>Brazi Lake</b> - if you look carefully, you can see in the lake some colorful fishes which were bought recently here.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/braziLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/braziLake/fullSize/2.jpg"
       }
@@ -231,14 +211,12 @@
     "textContent": "This is a small terrace that offers a spectacular view of the Old Town, 'Jig-Vaidoaia' peak and 'Tarina' land. From here you can see the most beautiful sunset from these lands..",
     "images": [
       {
-        "title": "Carnic Plateau",
-        "description": "the view to the 'Vaidoaia' peak and 'Rotundu' peak where you can see the weather station.",
+        "text": "<b>Carnic Plateau</b> - the view to the 'Vaidoaia' peak and 'Rotundu' peak where you can see the weather station.",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicPlateau/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicPlateau/fullSize/1.jpg"
       },
       {
-        "title": "Carnic Plateau",
-        "description": "the view to the Historic Center",
+        "text": "<b>Carnic Plateau</b> - the view to the Historic Center",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicPlateau/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicPlateau/fullSize/2.jpg"
       }
@@ -256,14 +234,12 @@
     },
     "images": [
       {
-        "title": "Cârnic Sphinx",
-        "description": "The cross on the Sphinx was put here the miners to be guided in the mines in search of gold.",
+        "text": "<b>Cârnic Sphinx</b> - The cross on the Sphinx was put here the miners to be guided in the mines in search of gold.",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicSfinx/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicSfinx/fullSize/1.jpg"
       },
       {
-        "title": "Overlooking - 'Cetate' open pit",
-        "description": "That what remains after an open pit mining. Take a 360 degrees spin around and imagine that if a new gold exploitation would be open here(as the one proposed in 2014), the whole area would look like that. ",
+        "text": "<b>Overlooking - 'Cetate' open pit</b> - That what remains after an open pit mining. Take a 360 degrees spin around and imagine that if a new gold exploitation would be open here(as the one proposed in 2014), the whole area would look like that. ",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicSfinx/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicSfinx/fullSize/2.jpg"
       }
@@ -275,14 +251,12 @@
     "textContent": "From the Sphinx return on the mountaintop (the way you came on), till the end of the trail, at Piatra Corbului (Raven Stone) -  a natural protected reservation. The Galleries which can be seen around here are one of the oldest from Rosia Montana (~5500 years) and they were made by using only the water and fire by the agathyrsi peoples (they made a huge fire under the rocks and then water was poured, so the rocks split on the gold vein).",
     "images": [
       {
-        "title": "The Raven stone",
-        "description": "the name comes from its raven’s head shape",
+        "text": "<b>The Raven stone</b> - the name comes from its raven’s head shape",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/ravenStone/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/ravenStone/fullSize/1.jpg"
       },
       {
-        "title": "The landscape from the Raven stone - 'Corna' valley",
-        "description": "the entire surface of this depression would be transformed in the largest cyanide lake in Europe, if a new gold exploitation would be open here(as the one proposed in 2014)",
+        "text": "<b>The landscape from the Raven stone - 'Corna' valley</b> - the entire surface of this depression would be transformed in the largest cyanide lake in Europe, if a new gold exploitation would be open here(as the one proposed in 2014)",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/ravenStone/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/ravenStone/fullSize/2.jpg"
       }
@@ -300,14 +274,12 @@
     },
     "images": [
       {
-        "title": "Limestone sculptures",
-        "description": "Their settlement in a farm yard was not randomly chosen, because the Orlea area is rich in gold resources and once the sculptures become heritage monuments, the area was protected, and opening a mining exploitation here ... is theoretically impossible.",
+        "text": "<b>Limestone sculptures</b> - Their settlement in a farm yard was not randomly chosen, because the Orlea area is rich in gold resources and once the sculptures become heritage monuments, the area was protected, and opening a mining exploitation here ... is theoretically impossible.",
         "thumbnailUrl": "img/activities/trails/attractions/sculpture/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/sculpture/fullSize/1.jpg"
       },
       {
-        "title": "'DOOR' Sculpture",
-        "description": "Ehab ELLABAN | Egipt | Zamalek Arts Academy, Cairo | Sculpture of Vistea limestone",
+        "text": "<b>'DOOR' Sculpture</b> - Ehab ELLABAN | Egipt | Zamalek Arts Academy, Cairo | Sculpture of Vistea limestone",
         "thumbnailUrl": "img/activities/trails/attractions/sculpture/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/sculpture/fullSize/2.jpg"
       }
@@ -325,14 +297,12 @@
     },
     "images": [
       {
-        "title": "'Țarina' Pond",
-        "description": "A small mountain pond with great colors during autumn.",
+        "text": "<b>'Țarina' Pond</b> - A small mountain pond with great colors during autumn.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/tariniLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/tariniLake/fullSize/1.jpg"
       },
       {
-        "title": "'Țarina' land",
-        "description": "Endless hills with many haystacks which are handy when you want to rest s little from your trip.",
+        "text": "<b>'Țarina' land</b> - Endless hills with many haystacks which are handy when you want to rest s little from your trip.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/tariniLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/tariniLake/fullSize/2.jpg"
       }
@@ -344,14 +314,12 @@
     "textContent": "To reach the Rotundu Peak (1240m) you will have to climb a little through a pine forest. Once you get there you will see also the Weather Station which is used by the airplanes to receive the weather states.",
     "images": [
       {
-        "title": "The Rotundu Peak - the view to Apuseni mountains",
-        "description": "Enjoy the view. You can see from here, somewhere in the back, the Vulcan, Găina and Bihor Peaks. (Bihor is the highest from Apuseni mountains(1849m))",
+        "text": "<b>The Rotundu Peak - the view to Apuseni mountains</b> - Enjoy the view. You can see from here, somewhere in the back, the Vulcan, Găina and Bihor Peaks. (Bihor is the highest from Apuseni mountains(1849m))",
         "thumbnailUrl": "img/activities/trails/attractions/rotunduPeak/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/rotunduPeak/fullSize/1.jpg"
       },
       {
-        "title": "The Weather Station",
-        "description": "If you want you can ring at the weather station door and ask for a tour of the building ... the employees are pretty friendly.",
+        "text": "<b>The Weather Station</b> - If you want you can ring at the weather station door and ask for a tour of the building ... the employees are pretty friendly.",
         "thumbnailUrl": "img/activities/trails/attractions/rotunduPeak/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/rotunduPeak/fullSize/2.jpg"
       }
@@ -369,14 +337,12 @@
     },
     "images": [
       {
-        "title": "Roșia Poieni Open Pit",
-        "description": "the open pit has 24 stairs, each of them has 15m high.",
+        "text": "<b>Roșia Poieni Open Pit</b> - the open pit has 24 stairs, each of them has 15m high.",
         "thumbnailUrl": "img/activities/trails/attractions/copperPit/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/copperPit/fullSize/1.jpg"
       },
       {
-        "title": "Roșia Poieni Open Pit",
-        "description": "this was one of the prides of Romania during communism.",
+        "text": "<b>Roșia Poieni Open Pit</b> - this was one of the prides of Romania during communism.",
         "thumbnailUrl": "img/activities/trails/attractions/copperPit/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/copperPit/fullSize/2.jpg"
       }
@@ -388,14 +354,12 @@
     "textContent": "As you can see by his name this lake is one of the biggest man made lakes from the area and is one of the quiet and relaxing areas from here. The lake was once used by the stamp mills to break the golden ore using the force of the water. That's why each lake has a little house in the middle of them. From this houses the water from the lakes can be release towards the stamp mills.",
     "images": [
       {
-        "title": "'Tăul Mare' Lake",
-        "description": "has 2 small decks because it is used now for fishing. These are perfect to have a break and contemplate or make a selfie :)",
+        "text": "<b>'Tăul Mare' Lake</b> - has 2 small decks because it is used now for fishing. These are perfect to have a break and contemplate or make a selfie :)",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/1.jpg"
       },
       {
-        "title": "'Tăul Mare' Lake",
-        "description": "if you will climb a little on the hill you will see that the lake has a shape of a heart that's why he is also called 'The Heart Lake'.",
+        "text": "<b>'Tăul Mare' Lake</b> - if you will climb a little on the hill you will see that the lake has a shape of a heart that's why he is also called 'The Heart Lake'.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/2.jpg"
       }
@@ -407,14 +371,12 @@
     "textContent": "The Lety and Sulei peaks are quite close to each other. From the distance they have the shape of a saddle, one is round and the other is sharp.",
     "images": [
       {
-        "title": "Sulei peak",
-        "description": "the ridge is narrow and sharp, so it gives you the feeling like going on a rope where you have to keep balance.",
+        "text": "<b>Sulei peak</b> - the ridge is narrow and sharp, so it gives you the feeling like going on a rope where you have to keep balance.",
         "thumbnailUrl": "img/activities/trails/attractions/letySulei/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/letySulei/fullSize/1.jpg"
       },
       {
-        "title": "The view from the Șulei peak",
-        "description": "You can see the 'Cârnic' peak, the 'Anghel' lake and the Roșia Montana valley.",
+        "text": "<b>The view from the Șulei peak</b> - You can see the 'Cârnic' peak, the 'Anghel' lake and the Roșia Montana valley.",
         "thumbnailUrl": "img/activities/trails/attractions/letySulei/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/letySulei/fullSize/2.jpg"
       }
@@ -426,15 +388,12 @@
     "textContent": "A small lake in the shadow of the 'Carnic' mountain, under the Raven Stone. Right next to it is the 'Corna' village. ",
     "images": [
       {
-        "title": "'Corna' Lake",
-        "description": "is an amazing view from here, perfect for a picnic (but leave the nature clean)",
+        "text": "<b>'Corna' Lake</b> - is an amazing view from here, perfect for a picnic (but leave the nature clean)",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/cornaLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/cornaLake/fullSize/1.jpg"
       },
       {
-        "title": "The 'Corna' village",
-        "description": "Dacă doriți să explorați zona puteți coborâ până în sat pentru a vizita cele două biserici aflate pe culmile satului.",
-        "description": "If you want to explore the area you can go down in the village to see the life of peoples from here which is quite different than the cities. Visit the two churches from the the village",
+        "text": "<b>The 'Corna' village</b> - Dacă doriți să explorați zona puteți coborâ până în sat pentru a vizita cele două biserici aflate pe culmile satului.</b> - If you want to explore the area you can go down in the village to see the life of peoples from here which is quite different than the cities. Visit the two churches from the the village",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/cornaLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/cornaLake/fullSize/2.jpg"
       }
@@ -452,14 +411,12 @@
     },
     "images": [
       {
-        "title": "Detunata",
-        "description": "Between the rocks which collapsed from the wall, in the pine forest, sometimes, during spring and early summer a small glacier appears.",
+        "text": "<b>Detunata</b> - Between the rocks which collapsed from the wall, in the pine forest, sometimes, during spring and early summer a small glacier appears.",
         "thumbnailUrl": "img/activities/trails/attractions/detunata/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/detunata/fullSize/1.jpg"
       },
       {
-        "title": "The landscape from the top of Detunata",
-        "description": "Once you reach the peak you can see one of the most spectacular views of the 'Motilor' region - Apuseni Mountains.",
+        "text": "<b>The landscape from the top of Detunata</b> - Once you reach the peak you can see one of the most spectacular views of the 'Motilor' region - Apuseni Mountains.",
         "thumbnailUrl": "img/activities/trails/attractions/detunata/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/detunata/fullSize/2.jpg"
       }
@@ -471,14 +428,12 @@
     "textContent": "The road will lead you through the Muntari and Poian' villages, 2 places where the time seems like it stopped.",
     "images": [
       {
-        "title": "The road along the Muntari village",
-        "description": "",
+        "text": "<b>The road along the Muntari village</b> - ",
         "thumbnailUrl": "img/activities/trails/attractions/muntariPoiana/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/muntariPoiana/fullSize/1.jpg"
       },
       {
-        "title": "The road along the Poiana village",
-        "description": "",
+        "text": "<b>The road along the Poiana village</b> - ",
         "thumbnailUrl": "img/activities/trails/attractions/muntariPoiana/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/muntariPoiana/fullSize/2.jpg"
       }
