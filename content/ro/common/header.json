@@ -44,14 +44,6 @@
   ],
   "rightButtons": [
     {
-      "text": "<i class='fa fa-lg fa-calendar'></i>",
-      "url": {
-        "link": "https://www.facebook.com/casapetrirosiamontana",
-        "textOnMouseOver": "evenimente",
-        "openInNewTab": true
-      }
-    },
-    {
       "text": "<i class='fa fa-lg fa-facebook'></i>",
       "url": {
         "link": "https://www.facebook.com/casapetrirosiamontana",

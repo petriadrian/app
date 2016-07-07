@@ -17,7 +17,7 @@
            ng-bind-html="article.seeAlso.text | trustHtml"></a>
     </section>
     <section ng-if="!!article.images">
-        <a rel="fancybox" ng-repeat="image in article.images" title="{{image.title}} - {{image.description}}"
+        <a rel="fancybox" ng-repeat="image in article.images" title="{{image.text}}"
            class="fancybox"
            target="_self"
            ng-href="{{image.fullSizeUrl}}">
