@@ -211,16 +211,16 @@
             {
               "selectOptions": [
                 {
-                  "text": "a 1 person room - 15€ /night"
+                  "text": "a 1 person room - 15€/night"
                 },
                 {
-                  "text": "a 2 persons room - 25€ /night"
+                  "text": "a 2 persons room - 22€/night"
                 },
                 {
-                  "text": "a 3 persons room - 35€ /night"
+                  "text": "a 3 persons room - 32€/night"
                 },
                 {
-                  "text": "a 4 persons room - 40€ /night"
+                  "text": "a 4 persons room - 38€/night"
                 }
               ]
             }
@@ -234,25 +234,25 @@
           "placeholder": "Book camping - see type and price",
           "selectOptions": [
             {
-              "text": "2 persons camping - 12€ /night"
+              "text": "2 persons camping - 12€/night"
             },
             {
-              "text": "3 persons camping - 15€ /night"
+              "text": "3 persons camping - 15€/night"
             },
             {
-              "text": "4 persons camping - 20€ /night"
+              "text": "4 persons camping - 20€/night"
             },
             {
-              "text": "5 persons camping - 25€ /night"
+              "text": "5 persons camping - 25€/night"
             },
             {
-              "text": "6 persons camping - 30€ /night"
+              "text": "6 persons camping - 30€/night"
             },
             {
-              "text": "7 persons camping - 35€ /night"
+              "text": "7 persons camping - 35€/night"
             },
             {
-              "text": "8 persons camping - 40€ /night"
+              "text": "8 persons camping - 40€/night"
             }
           ]
         },
