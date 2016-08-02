@@ -169,14 +169,15 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Pentru a ne asigura că totul e pregătit, vă rugăm să faceți o rezervare cât mai din timp. De aici puteți rezerva și vedea prețurile pentru camere, campare sau biciclete. Dacă doriți trasee ghidate o să vă răspundem pe mail cu o ofertă de preț (depinde de traseele alese și marimea grupului). Pentru o rezervare de cel puțin 2 camere oferim <b>gratuit traseul centrului istoric ghidat</b>. Știm că nu vi în zonă doar pentru noi, ci pentru a vizita împrejurimile, de aceea donăm o parte din venit unor inițiative locale. Pentru grupuri mai mari sau perioade mai lungi oferim reduceri. <b>Rezervarea va fi confirmată prin email!</b>"
+          "textContent": "Pentru a ne asigura că totul e pregătit, vă rugăm să faceți o rezervare cât mai din timp. De aici puteți rezerva și vedea prețurile pentru camere, campare sau biciclete. Dacă doriți trasee ghidate o să vă răspundem pe mail cu o ofertă de preț (depinde de traseele alese și marimea grupului). Pentru o rezervare de minim 190 lei, oferim <b>gratuit traseul centrului istoric ghidat</b>. Pentru grupuri mai mari sau perioade mai lungi oferim reduceri."
         }
       ]
     },
     {
       "type": "form",
       "sendEmailTitle": "reservation",
-      "sendButtonText": "Trimite rezervarea",
+      "beforeSubmitText": "Rezervarea va fi efectuată doar la primirea unui <b>email de confirmare!</b>",
+      "submitButtonText": "Trimite rezervarea",
       "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
       "errorMessage": "EROARE! Contactați-ne prin email sau telefon (vedeți partea de jos a paginii)",
       "fields": [
@@ -213,7 +214,7 @@
                   "text": "o cameră de o persoană - 59lei/noapte"
                 },
                 {
-                  "text": "o cameră de 2 persoane - 89lei/noapte"
+                  "text": "o cameră de 2 persoane - 95lei/noapte"
                 },
                 {
                   "text": "o cameră de 3 persoane - 139lei/noapte"

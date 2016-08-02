@@ -103,7 +103,7 @@
       "sendEmailTitle": "newReview",
       "successMessage": "Vă mulțumim! Părerea dumneavoastră îi va ajuta pe alți turiști în a alege Roșia ca destinație de vacanță.",
       "errorMessage": "EROARE! Contactați-ne prin email sau telefon (le găsiți în footer)",
-      "sendButtonText": "Trimite",
+      "submitButtonText": "Trimite",
       "fields": [
         {
           "type": "textarea",

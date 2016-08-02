@@ -34,7 +34,7 @@
     "sendEmailTitle": "newSuggestion",
     "successMessage": "Vă mulțumim! O să revenim cu un răspuns cât mai repede.",
     "errorMessage": "EROARE! Contactați-ne prin email sau telefon (le găsiți în footer)",
-    "sendButtonText": "Trimite",
+    "submitButtonText": "Trimite",
     "fields": [
       {
         "type": "textarea",

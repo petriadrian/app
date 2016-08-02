@@ -73,7 +73,7 @@
     {
       "type": "form",
       "sendEmailTitle": "campingReservation",
-      "sendButtonText": "Send the booking",
+      "submitButtonText": "Send the booking",
       "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
       "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
       "fields": [

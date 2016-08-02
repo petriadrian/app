@@ -69,11 +69,11 @@
             "list": [
               {
                 "textOnMouseOver": "durată",
-                "text": "15min"
+                "text": "<i class='fa fa-car'></i> ~10min"
               },
               {
                 "textOnMouseOver": "length",
-                "text": "10km"
+                "text": "<i class='fa fa-arrows-h'></i> ~10km"
               }
             ]
           }

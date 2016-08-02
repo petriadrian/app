@@ -170,14 +170,15 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "In order to have everything set for your arrival, please make an early reservation. Here you can book or see the cost of the rooms, camping or bicycles. If you want guided trails we will respond by email with the cost (it depends upon the selected trails and the size of the group). We know that you are not visiting our area just to meet us, but also to see the surroundings, that's why a part of our income will be donated to some local initiatives. For larger groups or longer periods we can offer discounts. <b>The booking will be confirmed by email.</b>"
+          "textContent": "In order to have everything set for your arrival, please make an early reservation. Here you can book or see the cost of the rooms, camping or bicycles. If you want guided trails we will respond by email with the cost (it depends upon the selected trails and the size of the group). For larger groups or longer periods we can offer discounts."
         }
       ]
     },
     {
       "type": "form",
       "sendEmailTitle": "reservation",
-      "sendButtonText": "Send the booking",
+      "beforeSubmitText": "The booking will be valid only when a <b>confirmation email</b> will be received!",
+      "submitButtonText": "Send the booking",
       "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
       "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
       "fields": [

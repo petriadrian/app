@@ -109,7 +109,7 @@
       "sendEmailTitle": "newReview",
       "successMessage": "Thank you! Your review will help others in choosing Roșia Montană for their next trip.",
       "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
-      "sendButtonText": "Send",
+      "submitButtonText": "Send",
       "fields": [
         {
           "type": "textarea",

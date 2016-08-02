@@ -73,7 +73,7 @@
     {
       "type": "form",
       "sendEmailTitle": "campingReservation",
-      "sendButtonText": "Trimite rezervarea",
+      "submitButtonText": "Trimite rezervarea",
       "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
       "errorMessage": "EROARE! Contactați-ne prin email sau telefon (vedeți partea de jos a paginii)",
       "fields": [

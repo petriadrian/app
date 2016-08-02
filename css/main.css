@@ -405,6 +405,11 @@ footer a:HOVER {
     display: inline-block;
 }
 
+form {
+    float: none !important;
+    margin: 0 auto;
+}
+
 .input-group {
     margin-bottom: 1%;
 }
