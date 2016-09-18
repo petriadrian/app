@@ -32,7 +32,7 @@
         {
           "textContent": "This is the route of our childhood. <i>We used to take our bikes and go towards the 'Taul Mare' Lake, until we meet the road which leads to the Copper Open Pit Rosia Poieni. From here we enjoy to let go downhill with the highest speed along the Corna village until we reached Abrud. We had a break here, buy an ice cream and rest a little in the Historic Center. Then the hard part of the trail starts: going uphill back home on a unpaved road along the Selişte village. On our way we stopped to the Țapului Lake to swim and refresh a little. From here we were almost home.</i> We challenge you also to follow this trail and taste the pleasures of our childhood. In 'Gura Corna' you can dine (we recommend 'Laguna' restaurant or 'Detunata'). This is a tail for mountain bikes.",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJc1wCQWDMTkcR4k7C7fXZvWE|place_id:ChIJKYpFTlfMTkcRe8HEyvHBE70|place_id:ChIJB5Fu9y3MTkcRnQ6Q90AjcSI|place_id:ChIJjwvQferNTkcRrWEa7dBF04k|place_id:ChIJd5zxAenNTkcRaPviE9EZQ9o|place_id:ChIJMcYyfAfNTkcRMZeC6fyMAIo",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJc1wCQWDMTkcR4k7C7fXZvWE|place_id:ChIJKYpFTlfMTkcRe8HEyvHBE70|place_id:ChIJB5Fu9y3MTkcRnQ6Q90AjcSI|place_id:ChIJjwvQferNTkcRrWEa7dBF04k|place_id:ChIJd5zxAenNTkcRaPviE9EZQ9o|place_id:ChIJK5Ftn7vNTkcRahMZfmk5Keg|place_id:ChIJZySRY5rNTkcRz9qr4SO--a4|place_id:ChIJMcYyfAfNTkcRMZeC6fyMAIo",
             "list": [
               {
                 "textOnMouseOver": "length",
@@ -137,6 +137,37 @@
               "text": "<b>'Țapului' lake</b> - ",
               "thumbnailUrl": "img/activities/trails/attractions/selisteRoad/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/selisteRoad/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Pictures",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "More pictures with the trail.,",
+          "images": [
+            {
+              "text": "Towards Tăul Mare.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/8.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/8.jpg"
+            },
+            {
+              "text": "At Tăul Mare.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/7.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/7.jpg"
+            },
+            {
+              "text": "Between Sulei Peak and Tăul Mare",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/3.jpg"
             }
           ]
         }

@@ -2,13 +2,7 @@
   {
     "id": "romanGalleries",
     "title": "The roman galleries - Mining Museum",
-    "textContent": "Underneath the Orlea mountain you will discover a part of the antic galleries built by romans to extract the gold. Under all over the village there are over 120km of such roman galleries, but their precise length is not known because the gallery network hasn't been fully researched until now. Wherever you are in Rosia Montana you are above of some such galleries, they are being disposed even on multiple floors. The galleries opened to public are at the Mining Museum 'ROSIAMIN' and there are guided tours to visit them, that last about an hour, and are <b>opened from Monday to Friday 8:00-14:00. They can be visit outside these working hours by making an early reservation (Contact Rus Valentin: (+4)0744346748)</b>",
-    "seeAlso": {
-      "text": "More details here(RO)",
-      "textOnMouseOver": "Click here...",
-      "link": "http://www.alba.djc.ro/ObiectiveDetalii.aspx?ID=2184",
-      "openInNewTab": true
-    },
+    "textContent": "Underneath the Orlea mountain you will discover a part of the antic galleries built by romans to extract the gold. Under all over the village there are over 120km of such roman galleries, but their precise length is not known because the gallery network hasn't been fully researched until now. Wherever you are in Rosia Montana you are above of some such galleries, they are being disposed even on multiple floors. The galleries opened to public are at the Mining Museum 'ROSIAMIN' and there are guided tours to visit them, that last ~2hours. <b>They are opened from Monday to Friday from 8:00 to 14:00. If you want to visit them outside these working hours or in weekend please inform us (usually if we call and make an early reservation they will come and open).",
     "images": [
       {
         "text": "<b>The roman galleries</b> - To reach them you have to go 157 stairs underground.",
@@ -24,8 +18,8 @@
   },
   {
     "id": "grecoCatholicChurch",
-    "title": "The Greek-Catholic Church",
-    "textContent": "'The Greek-Catholic Church is built on a hill from the Orlea mountain. Next to the church you will find the monument of Simion Balint which had an important role in the Revolt from 1848. For his activity he received a medal from Franz Joseph, The Emperor of Austria",
+    "title": "Biserica Greco-Catolică",
+    "textContent": "'Biserica Greco-Catolică (The Greek-Catholic Church) is built on a hill from the Orlea mountain. Next to the church you will find the monument of Simion Balint which had an important role in the Revolt from 1848. For his activity he received a medal from Franz Joseph, The Emperor of Austria",
     "seeAlso": {
       "text": "More details here...",
       "textOnMouseOver": "Click here...",
@@ -47,8 +41,8 @@
   },
   {
     "id": "orthodoxChurch",
-    "title": "The Orthodox Church",
-    "textContent": "This church has one of the most interesting stories, with Vâlva(mines spirit), goldsmiths and bunches of gold from Rosia Montana. It is one of the 7 churches built by the italian goldsmith 'Gritta', because of the pact he made with Vâlva. ('I will build seven churches in Apuseni where the locals could pray and 7 schools where our children could learn! ') and Vâlva show him the place from the gallery where he can dig to find gold.",
+    "title": "Biserica Adormirea Măicii Domnului",
+    "textContent": "This orthodox church has one of the most interesting stories, with Vâlva(mines spirit), goldsmiths and bunches of gold from Rosia Montana. It is one of the 7 churches built by the italian goldsmith 'Gritta', because of the pact he made with Vâlva. ('I will build seven churches in Apuseni where the locals could pray and 7 schools where our children could learn! ') and Vâlva show him the place from the gallery where he can dig to find gold.",
     "seeAlso": {
       "text": "More details about the one who found 2 tons of gold in Rosia Montana can be found here (RO)...",
       "textOnMouseOver": "Click here...",
@@ -87,7 +81,7 @@
   },
   {
     "id": "romanCatholicChurch",
-    "title": "The Roman-Catholic Church",
+    "title": "'Sfântul Ladislău' Church",
     "textContent": "The Roman-Catholic Church 'Sfântul Ladislău', was built on higher ground, that makes the clock tower visible from all over the Historic Center and the bells to be heard from any home. Here you can see the Saint Mary icon (XVIII century) which was donated by Maria Theresa of Austria. The church is surrounded by an old cemetery with funerary monuments (XIX century) that belonged to peoples of different faiths and nations, reflecting the area's multicultural past.",
     "images": [
       {
@@ -127,16 +121,16 @@
   },
   {
     "id": "vaidoaiaGalleries",
-    "title": "The Gallery and Jig-Văidoaia Peak",
-    "textContent": "This gallery is different from that of the Mining Museum and seems more like a cave. But traces of excavations on the site of gold veins on its walls will convince you that has been created by our ancestors in search of gold. Climb to the top of the mountain and enjoy the view towards Tăul Brazi, Cârnic and the whole valley of Roșia Montană. Warning: you have to climb on the rocks!",
+    "title": "Galeria Văidoaia",
+    "textContent": "Even if this looks like a gallery or a cave, this was also an old gold mine. The excavation traces from its walls will convince you that has been created by our ancestors when they searched for gold. Climb to the top of the massif and enjoy the view towards Tăul Brazi, Cârnic and the whole valley of Roșia Montană. Warning: you have to climb on the rocks!",
     "images": [
       {
-        "text": "<b>Văidoaia Gallery</b> - Here is the “heart” of Roșia Montană. Seeing the rocks surrounding the gallery, you will understand where the name of the village comes from.",
+        "text": "<b>Galeria Văidoaia</b> - Here is the “heart” of Roșia Montană. Seeing the rocks surrounding the gallery, you will understand where the name of the village comes from.",
         "thumbnailUrl": "img/activities/trails/attractions/vaidoaiaGalleries/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/vaidoaiaGalleries/fullSize/1.jpg"
       },
       {
-        "text": "<b>Jig-Văidoaia Peak</b> - view towards the Historic Center and Carnic mountain.",
+        "text": "<b>Văidoaia Peak</b> - view towards the Historic Center and Carnic mountain.",
         "thumbnailUrl": "img/activities/trails/attractions/vaidoaiaGalleries/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/vaidoaiaGalleries/fullSize/2.jpg"
       }
@@ -167,7 +161,7 @@
   },
   {
     "id": "szekeyHouse",
-    "title": "The Szekely house",
+    "title": "Casa Szekely",
     "textContent": "The Szekely Acoș house which is beside the Jig-Văidoaia mountain is like a small fortress surrounded by a stone wall with a high vaulted gate. Perhaps these stone elements inspired Dan Pița in 1972 to make here the movie 'Stone Wedding'. When returning from the trail you can watch the movie at Casa Petri as it will have a greater impact once you know the area. Some of the filming crew were accommodated here, where you can find a picture with their autograph.",
     "seeAlso": {
       "text": "The film was nominated for TIFF in the top 10 Romanian films of all time. See here...",
@@ -177,7 +171,7 @@
     },
     "images": [
       {
-        "text": "<b>The Szekely house</b> - the gate and Vlădoaia mountain.",
+        "text": "<b>Casa Szekely</b> - the gate and Vlădoaia mountain.",
         "thumbnailUrl": "img/activities/trails/attractions/szekeyHouse/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/szekeyHouse/fullSize/1.jpg"
       },
@@ -190,16 +184,16 @@
   },
   {
     "id": "braziLake",
-    "title": "Brazi Lake",
-    "textContent": "This is a man-made lake used to operate the mills stamps (you can see them and how they worked at the Mining Museum). Brazi Lake has a <b>recreation area</b> with benches, boats and places for barbecue. From here you can climb a little to reach the Anghel Lake (~10 minutes away)",
+    "title": "Tăul Brazi",
+    "textContent": "Tăul Brazi(The pine lake) is a man-made lake used to operate the mills stamps (you can see them and how they worked at the Mining Museum). Brazi Lake has a <b>recreation area</b> with benches, boats and places for barbecue. From here you can climb a little to reach the Anghel Lake (~10 minutes away)",
     "images": [
       {
-        "text": "<b>Brazi Lake</b> - The house from the end of the lake belongs to a painter who comes here to use the view as inspiration for his works.",
+        "text": "<b>Tăul Brazi</b> - The house from the end of the lake belongs to a painter who comes here to use the view as inspiration for his works.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/braziLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/braziLake/fullSize/1.jpg"
       },
       {
-        "text": "<b>Brazi Lake</b> - if you look carefully, you can see in the lake some colorful fishes which were bought recently here.",
+        "text": "<b>Tăul Brazi</b> - if you look carefully, you can see in the lake some colorful fishes which were bought recently here.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/braziLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/braziLake/fullSize/2.jpg"
       }
@@ -207,16 +201,16 @@
   },
   {
     "id": "carnicPlateau",
-    "title": "Carnic Plateau",
-    "textContent": "This is a small terrace that offers a spectacular view of the Old Town, 'Jig-Vaidoaia' peak and 'Tarina' land. From here you can see the most beautiful sunset from these lands..",
+    "title": "Platoul Cârnic",
+    "textContent": "This is a small plateau that offers a spectacular view over the Old Town, 'Vaidoaia' peak and 'Tarina' land. Come here in the evening and enjoy the most beautiful sunset.",
     "images": [
       {
-        "text": "<b>Carnic Plateau</b> - the view to the 'Vaidoaia' peak and 'Rotundu' peak where you can see the weather station.",
+        "text": "<b>Platoul Cârnic</b> - the view to the 'Vaidoaia' peak and 'Rotundu' peak where you can see the weather station.",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicPlateau/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicPlateau/fullSize/1.jpg"
       },
       {
-        "text": "<b>Carnic Plateau</b> - the view to the Historic Center",
+        "text": "<b>Platoul Cârnic</b> - the view to the Historic Center",
         "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicPlateau/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicPlateau/fullSize/2.jpg"
       }
@@ -224,7 +218,7 @@
   },
   {
     "id": "carnicSfinx",
-    "title": "Cârnic Sphinx",
+    "title": "Sfinxul Cârnic",
     "textContent": "The road will take you through a fir forest where you can find mushrooms, raspberries, blackberries and wild strawberries. When you will reach the Sphinx, you're at one of the highest points in Roșia Montană. Ahead you can see the Historic Center and behind the Cetate open pit. It's called 'Cetate’ (Fortress) because here was indeed a fortress carved into the mountains by Romans, but during communism period it was decided that it should be destroyed and open an mining area here.",
     "seeAlso": {
       "text": "More details and pictures with the old fortress here (RO)...",
@@ -234,14 +228,14 @@
     },
     "images": [
       {
-        "text": "<b>Cârnic Sphinx</b> - The cross on the Sphinx was put by the miners to be protected when they searched for gold in the Carnic galleries.",
-        "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicSfinx/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicSfinx/fullSize/1.jpg"
+        "text": "<b>Sfinxul Cârnic</b> - The cross on the Sphinx was put by the miners to be protected when they searched for gold in the Carnic galleries.",
+        "thumbnailUrl": "img/activities/trails/attractions/carnic/sphinx/thumbnail/1.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/carnic/sphinx/fullSize/1.jpg"
       },
       {
         "text": "<b>Overlooking - 'Cetate' open pit</b> - That what remains after an open pit mining. Take a 360 degrees spin around and imagine that if a new gold exploitation would be open here(as the one proposed in 2014), the whole area would look like that. ",
-        "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicSfinx/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicSfinx/fullSize/2.jpg"
+        "thumbnailUrl": "img/activities/trails/attractions/carnic/sphinx/thumbnail/2.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/carnic/sphinx/fullSize/2.jpg"
       }
     ]
   },
@@ -264,8 +258,8 @@
   },
   {
     "id": "limestoneSculptures",
-    "title": "Limestone sculptures",
-    "textContent": "'International Association for Sculpture organized here the first International Symposium of Monumental Sculpture in Romania. Three Romanian artists and six artists from Argentina, Canada, Egypt, France, the Netherlands and Japan have assembled a team that represented all continents and worked for a month in a spirit of friendship and artistic emulation.' The sculptures were donated to the heritage of Rosia Montana with the condition that they should not to be moved elsewhere'",
+    "title": "Sculpturi Calcar",
+    "textContent": "Sculpturi Calcar (The Limestone sculptures). 'International Association for Sculpture organized here the first International Symposium of Monumental Sculpture in Romania. Three Romanian artists and six artists from Argentina, Canada, Egypt, France, the Netherlands and Japan have assembled a team that represented all continents and worked for a month in a spirit of friendship and artistic emulation.' The sculptures were donated to the heritage of Rosia Montana with the condition that they should not to be moved elsewhere'",
     "seeAlso": {
       "text": "More details here...",
       "textOnMouseOver": "Click here...",
@@ -274,7 +268,7 @@
     },
     "images": [
       {
-        "text": "<b>Limestone sculptures</b> - Their settlement in a farm yard was not randomly chosen, because the Orlea area is rich in gold resources and once the sculptures become heritage monuments, the area was protected, and opening a mining exploitation here ... is theoretically impossible.",
+        "text": "<b>Sculpturi Calcar</b> - Their settlement in a farm yard was not randomly chosen, because the Orlea area is rich in gold resources and once the sculptures become heritage monuments, the area was protected, and opening a mining exploitation here ... is theoretically impossible.",
         "thumbnailUrl": "img/activities/trails/attractions/sculpture/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/sculpture/fullSize/1.jpg"
       },
@@ -287,7 +281,7 @@
   },
   {
     "id": "tariniLake",
-    "title": "'Țarina' Pond",
+    "title": "Tăul Țarinii",
     "textContent": "Here is a small piece of heaven pretty close to the Casa Petri, a well hidden lake behind some tall willow which bathe their branches in the pond. 'Tarina' land is the place where the FânFest festival is hold annually, when these places are fill with peoples who come here to stay in a tent.",
     "seeAlso": {
       "text": "More details about the festival here...",
@@ -297,7 +291,7 @@
     },
     "images": [
       {
-        "text": "<b>'Țarina' Pond</b> - A small mountain pond with great colors during autumn.",
+        "text": "<b>Tăul Țarinii</b> - A small mountain pond with great colors during autumn.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/tariniLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/tariniLake/fullSize/1.jpg"
       },
@@ -330,7 +324,7 @@
     "title": "Copper open pit - Roșia Poieni",
     "textContent": "You will see here the consequences of one of the biggest open pit from Europe upon the environment: a mountain was destroyed, dry soil, and the waste resulted from the mining process was stored downstream over the 'Geamana' village. At the entrance of the open pit is a checkpoint where you will have to show your id's and there might be some restrictions.",
     "seeAlso": {
-      "text": "Maia Morgenstern made a video here to raise awareness for the open pit mining. You can see it here...",
+      "text": "<br><i class='fa fa-video-camera'></i> See the video made here by Maia Morgenstern to raise awareness for the open pit mining.",
       "textOnMouseOver": "Click here...",
       "link": "https://www.youtube.com/watch?v=J4bG7oil3gU",
       "openInNewTab": true
@@ -350,16 +344,16 @@
   },
   {
     "id": "bigLake",
-    "title": "'Tăul Mare' Lake",
-    "textContent": "As you can see by his name this lake is one of the biggest man made lakes from the area and is one of the quiet and relaxing areas from here. The lake was once used by the stamp mills to break the golden ore using the force of the water. That's why each lake has a little house in the middle of them. From this houses the water from the lakes can be release towards the stamp mills.",
+    "title": "Tăul Mare",
+    "textContent": "The name of the lake translated in english is 'Big Lake', so yes, is one of the biggest man made lakes from the area and is one of the quiet and relaxing areas from here. The lake was once used by the stamp mills to break the golden ore using the force of the water. That's why each lake has a little house in the middle of them. From this houses the water from the lakes can be release towards the stamp mills.",
     "images": [
       {
-        "text": "<b>'Tăul Mare' Lake</b> - has 2 small decks because it is used now for fishing. These are perfect to have a break and contemplate or make a selfie :)",
+        "text": "<b>Tăul Mare</b> - has 2 small decks because it is used now for fishing. These are perfect to have a break and contemplate or make a selfie :)",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/1.jpg"
       },
       {
-        "text": "<b>'Tăul Mare' Lake</b> - if you will climb a little on the hill you will see that the lake has a shape of a heart that's why he is also called 'The Heart Lake'.",
+        "text": "<b>Tăul Mare</b> - if you will climb a little on the hill you will see that the lake has a shape of a heart that's why he is also called 'The Heart Lake'.",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/2.jpg"
       }
@@ -384,16 +378,16 @@
   },
   {
     "id": "cornaLake",
-    "title": "'Corna' Lake",
+    "title": "Tăul Corna",
     "textContent": "A small lake in the shadow of the 'Carnic' mountain, under the Raven Stone. Right next to it is the 'Corna' village. ",
     "images": [
       {
-        "text": "<b>'Corna' Lake</b> - is an amazing view from here, perfect for a picnic (but leave the nature clean)",
+        "text": "<b>Tăul Corna</b> - is an amazing view from here, perfect for a picnic (but leave the nature clean)",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/cornaLake/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/cornaLake/fullSize/1.jpg"
       },
       {
-        "text": "<b>The 'Corna' village</b> - Dacă doriți să explorați zona puteți coborâ până în sat pentru a vizita cele două biserici aflate pe culmile satului.</b> - If you want to explore the area you can go down in the village to see the life of peoples from here which is quite different than the cities. Visit the two churches from the the village",
+        "text": "<b>The 'Corna' village</b> - If you want to explore the area you can go down in the village to see the life of peoples from here which is quite different than the cities. Visit the two churches from the the village",
         "thumbnailUrl": "img/activities/trails/attractions/lakes/cornaLake/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/lakes/cornaLake/fullSize/2.jpg"
       }

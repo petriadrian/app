@@ -49,10 +49,6 @@
               {
                 "textOnMouseOver": "dificultate",
                 "text": "<i class='fa fa-line-chart'></i> ușor"
-              },
-              {
-                "textOnMouseOver": "ar fi bine să ai",
-                "text": "<i class='fa fa-check-square-o'></i> bocanci de munte, pelerină, apă"
               }
             ]
           }
@@ -95,6 +91,27 @@
             },
             {
               "id": "limestoneSculptures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Imagini",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai multe imagini de pe traseu.",
+          "images": [
+            {
+              "text": "Biserica Greco Catolică.",
+              "thumbnailUrl": "img/activities/trails/attractions/orlea/thumbnail/2.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/orlea/fullSize/2.jpg"
             }
           ]
         }

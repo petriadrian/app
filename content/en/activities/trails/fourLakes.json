@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Tăurile",
     "headline": "The lakes of Rosia Montana",
-    "description": "A trail around the village, on an unpaved road along four lakes: Țarina, Tăul Mare, Corna, Brazi. <i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~11km</b>",
+    "description": "A trail around the village, on an unpaved road along four lakes: Țarina, Tăul Mare, Corna, Brazi. <i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~15km</b>",
     "fullWidthImg": "img/activities/trails/fourLakes/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/fourLakes/presentation/smallBoxImg.jpg"
   },
@@ -32,7 +32,7 @@
         {
           "textContent": "Start from Casa Petri and head through the 'Țarina' land, along the 'Țarini' lake until you reach the the Weather Station from the 'Rotundu' Peak (the highest point from this trail). From here, on the left, you can see 'Tăul Mare' lake, which is our next destination. Head towards it and then climb on Șulei Peak. Have a break, enjoy the view and then continue to the 'Corna' Lake. Return in the village by the 'Piatra Corbului' (Raven Stone) and 'Brazi' Lake. The trail is on unpaved roads and is perfect for hiking or mountain bikes.",
           "seeAlso": {
-            "text": "<br>For the <b>GPS (.gpx/.kml)</b> data and the <b>altitude </b> or <b>elevation profile</b> of this trail click here...",
+            "text": "<br><i class='fa fa-download'></i> descarcă <b>datele GPS</b> <br><i class='fa fa-line-chart'></i> vezi <b>diferența de nivel</b>",
             "textOnMouseOver": "Click here...",
             "link": "https://www.bikemap.net/en/route/3045395-4-tauri/#/z14/46.30072,23.14141/terrain",
             "openInNewTab": true
@@ -43,7 +43,7 @@
             "list": [
               {
                 "textOnMouseOver": "length",
-                "text": "<i class='fa fa-arrows-h'></i> ~11km"
+                "text": "<i class='fa fa-arrows-h'></i> ~15km"
               },
               {
                 "textOnMouseOver": "walking duration",
@@ -52,10 +52,6 @@
               {
                 "textOnMouseOver": "duration by bike",
                 "text": "<i class='fa fa-bicycle'></i> ~4h"
-              },
-              {
-                "textOnMouseOver": "difficulty",
-                "text": "<i class='fa fa-line-chart'></i> medium"
               }
             ]
           }
@@ -104,6 +100,57 @@
             },
             {
               "id": "braziLake"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Pictures",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "More pictures with the trail.",
+          "images": [
+            {
+              "text": "Tăul Țarinii.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/tariniLake/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/tariniLake/fullSize/3.jpg"
+            },
+            {
+              "text": "At the the pine forest entrance - raspberry area.",
+              "thumbnailUrl": "img/activities/trails/attractions/rotunduPeak/thumbnail/4.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/rotunduPeak/fullSize/4.jpg"
+            },
+            {
+              "text": "Rotundu Peak",
+              "thumbnailUrl": "img/activities/trails/attractions/rotunduPeak/thumbnail/6.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/rotunduPeak/fullSize/6.jpg"
+            },
+            {
+              "text": "Between the Sulei Peak and Tăul Mare",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/3.jpg"
+            },
+            {
+              "text": "Monday morning view.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/6.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/6.jpg"
+            },
+            {
+              "text": "Tăul Mare.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/5.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/5.jpg"
+            },
+            {
+              "text": "Lety și Șulei.",
+              "thumbnailUrl": "img/activities/trails/attractions/letySulei/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/letySulei/fullSize/3.jpg"
             }
           ]
         }

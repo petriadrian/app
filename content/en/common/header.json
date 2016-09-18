@@ -18,7 +18,7 @@
       }
     },
     {
-      "text": "<i class='fa fa-lg fa-bicycle'></i> ride",
+      "text": "<i class='fa fa-lg fa-bicycle'></i> bike",
       "url": {
         "link": "en/activities/cycling",
         "textOnMouseOver": "cycling trails",
@@ -48,6 +48,14 @@
       "url": {
         "link": "https://www.facebook.com/casapetrirosiamontana",
         "textOnMouseOver": "follow us on facebook",
+        "openInNewTab": true
+      }
+    },
+    {
+      "text": "<i class='fa fa-lg fa-tripadvisor'></i>",
+      "url": {
+        "link": "https://www.tripadvisor.com/Hotel_Review-g9998203-d9871602-Reviews-Casa_Petri_Rosia_Montana-Rosia_Montana_Alba_County_Central_Romania_Transylvania.html#REVIEWS",
+        "textOnMouseOver": "tripAdvisor reviews",
         "openInNewTab": true
       }
     },

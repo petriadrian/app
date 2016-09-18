@@ -32,7 +32,7 @@
         {
           "textContent": "Acesta este traseul copilăriei noastre. <i>Ne luam bicicletele și urcam pe la Tăul Mare până ce ajungeam la drumul Carierei de Cupru Rosia Poieni. De aici ne plăcea să ne dăm drumul la vale cu cea mai mare viteză spre satul Corna și orașul Abrud de unde ne cumpăram înghețată și mai trândăveam prin Centrul Vechi. Apoi ne luam inima în dinți pentru că urma partea grea a traseului: urcușul pe un drum de țară spre casă, prin satul Seliște. Pe drum e și Tăul Tapului în apele căruia ne aruncam să ne răcorim puțin. De aici mai e puțin până acasă.</i> Vă provocăm și pe voi să parcurgeți traseul și să gustați din plăcerile copilăriei noastre. În zona Gura Cornei puteți să luați masa (recomandăm restaurantul Laguna sau Detunata). Acest traseu este pentru biciclete de munte.",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJc1wCQWDMTkcR4k7C7fXZvWE|place_id:ChIJKYpFTlfMTkcRe8HEyvHBE70|place_id:ChIJB5Fu9y3MTkcRnQ6Q90AjcSI|place_id:ChIJjwvQferNTkcRrWEa7dBF04k|place_id:ChIJd5zxAenNTkcRaPviE9EZQ9o|place_id:ChIJMcYyfAfNTkcRMZeC6fyMAIo",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJc1wCQWDMTkcR4k7C7fXZvWE|place_id:ChIJKYpFTlfMTkcRe8HEyvHBE70|place_id:ChIJB5Fu9y3MTkcRnQ6Q90AjcSI|place_id:ChIJjwvQferNTkcRrWEa7dBF04k|place_id:ChIJd5zxAenNTkcRaPviE9EZQ9o|place_id:ChIJK5Ftn7vNTkcRahMZfmk5Keg|place_id:ChIJZySRY5rNTkcRz9qr4SO--a4|place_id:ChIJMcYyfAfNTkcRMZeC6fyMAIo",
             "list": [
               {
                 "textOnMouseOver": "lungime",
@@ -137,6 +137,37 @@
               "text": "<b>Drumul pe la Tăul Țapului</b> - ",
               "thumbnailUrl": "img/activities/trails/attractions/selisteRoad/thumbnail/2.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/selisteRoad/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Imagini",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai multe imagini de pe traseu.",
+          "images": [
+            {
+              "text": "Spre Tăul Mare.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/8.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/8.jpg"
+            },
+            {
+              "text": "La Tăul Mare.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/7.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/7.jpg"
+            },
+            {
+              "text": "Între Vârful Sulei și Tăul Mare",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/3.jpg"
             }
           ]
         }

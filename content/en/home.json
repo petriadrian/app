@@ -78,12 +78,13 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-bicycle'></i> What to do there?",
+      "text": "<i class='fa fa-bicycle'></i> What to do here?",
       "addLinkInPageHeadline": false,
       "sectionId": "activities"
     },
     {
       "type": "linkToOtherPages",
+      "text": "Discover the attractions of our area through the following hiking or biking trails.",
       "detailBoxes": [
         {
           "page": "en/activities/hiking"

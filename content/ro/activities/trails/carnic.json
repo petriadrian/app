@@ -32,7 +32,7 @@
         {
           "textContent": "Odată ajunși în curtea Casei Petri o să observați priveliștea spre masivul Cârnic, un munte ce adapostește multe tone de aur dar si galerii romane unice în lume. Pe vârful lui o să observați o stâncă în formă de cal, cu o cruce desupra, numită Sfinxul sau 'Căluțul', care reprezintă obiectivul acestui traseu. Pornim spre Tăul Brazi și Platoul Cârnic, iar apoi urcăm prin pădurea de conifere până pe vârful masivului la Piatra Corbului și la Sfinx și coborâm pe la Piatra Despicată și prin Cariera Cetate. Traseul se face pe un drum de țară, neasfaltat și este indicat pentru drumeții sau biciclete de munte.",
           "seeAlso": {
-            "text": "<br>Pentru datele <b>GPS (.gpx/.kml)</b> și informații de <b>altitudine </b> sau <b>diferență de nivel</b> ale acestui traseu click aici...",
+            "text": "<br><i class='fa fa-download'></i> descarcă <b>datele GPS</b> <br><i class='fa fa-line-chart'></i> vezi <b>diferența de nivel</b>",
             "textOnMouseOver": "Click aici...",
             "link": "http://www.gpsies.com/map.do?fileId=esbtvmiyuytvzprs",
             "openInNewTab": true
@@ -51,14 +51,6 @@
               {
                 "textOnMouseOver": "durata cu bicicleta",
                 "text": "<i class='fa fa-bicycle'></i> ~2h"
-              },
-              {
-                "textOnMouseOver": "dificultate",
-                "text": "<i class='fa fa-line-chart'></i> mediu"
-              },
-              {
-                "textOnMouseOver": "ar fi bine să ai",
-                "text": "<i class='fa fa-check-square-o'></i> bocanci de munte, pelerină, apă"
               }
             ]
           }
@@ -104,6 +96,47 @@
             },
             {
               "id": "ravenStone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Imagini",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai multe imagini de pe traseu.",
+          "images": [
+            {
+              "text": "Prin cariera de aur - Cetate",
+              "thumbnailUrl": "img/activities/trails/attractions/carnic/cetatePit/thumbnail/1.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/carnic/cetatePit/fullSize/1.jpg"
+            },
+            {
+              "text": "Galeriile romane - Cârnic",
+              "thumbnailUrl": "img/activities/trails/attractions/carnic/galleries/thumbnail/1.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/carnic/galleries/fullSize/1.jpg"
+            },
+            {
+              "text": "Galeriile făcute cu apă și foc - Cârnic",
+              "thumbnailUrl": "img/activities/trails/attractions/carnic/galleries/thumbnail/2.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/carnic/galleries/fullSize/2.jpg"
+            },
+            {
+              "text": "Platoul Cârnic",
+              "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicPlateau/thumbnail/5.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicPlateau/fullSize/5.jpg"
+            },
+            {
+              "text": "Spre Sfinx.",
+              "thumbnailUrl": "img/activities/trails/attractions/carnic/sphinx/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/carnic/sphinx/fullSize/3.jpg"
             }
           ]
         }

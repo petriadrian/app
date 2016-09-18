@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Adunatul fânului",
     "headline": "Adunatul fânului cu fermierii din Apuseni",
-    "description": "<b>| Iul-Aug |</b> Conectează-te la natură și la viața moților din Apuseni luând parte la strânsul fânului pentru iernat. Descoperă tradiția străveche împreună cu fermierii de aici.",
+    "description": "<b>| Iul-Sept |</b> Conectează-te la natură și la viața moților din Apuseni luând parte la strânsul fânului pentru iernat. Descoperă tradiția străveche împreună cu fermierii de aici.",
     "fullWidthImg": "img/events/hayDays/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/events/hayDays/presentation/smallBoxImg.jpg"
   },
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Începând cu luna Iulie până la jumătatea lui August, moții se ocupă cu ridicarea căpițelor și strânsul fânului care va fi folosit pe parcursul iernii ca hrană pentru animale. De obicei la strânsul fânului sau la polog cum îi zicem noi de pe aici, se facea o clacă (se adunau vecinii, neamurile) își luau uneltele pregătite de cu seară (greble, furci) și porneau spre terenul cu pricina. Mulți dintre aceștia s-au mutat de aici odata ce firma canadiană de minerit a început să cumpere propietati sau datorită plecării tinerilor spre oraș. De aceea fermierilor rămași le-ar prinde bine o mână de ajutor, iar pentru tine va fi o experiență unică și relaxantă deoarece vei învăța un meșteșug tradițional, te vei conecta la natură și la acest obicei străvechi păstrat în Apuseni. Seara o să participăm la mulsul vacilor și ne vom ospăta din bucatele oferite de gazdă drept răsplată. Următoarea zi vom organiza un tur ghidat al localității pentru a afla mai multe despre zonă și obiceiuri.",
+          "textContent": "De pe la jumatatea verii până la începutul toamnei moții se ocupă cu ridicarea căpițelor și strânsul fânului care va fi folosit pe parcursul iernii ca hrană pentru animale. De obicei la strânsul fânului sau la polog cum îi zicem noi de pe aici, se facea o clacă (se adunau vecinii, neamurile) își luau uneltele pregătite de cu seară (greble, furci) și porneau spre terenul cu pricina. Mulți dintre aceștia s-au mutat de aici odata ce firma canadiană de minerit a început să cumpere propietati sau datorită plecării tinerilor spre oraș. De aceea fermierilor rămași le-ar prinde bine o mână de ajutor, iar pentru tine va fi o experiență unică și relaxantă deoarece vei învăța un meșteșug tradițional, te vei conecta la natură și la acest obicei străvechi păstrat în Apuseni. Seara o să participăm la mulsul vacilor și ne vom ospăta din bucatele oferite de gazdă drept răsplată. Într-una din zile vom organiza un tur ghidat al localității pentru a afla mai multe despre zonă și obiceiuri.",
           "images": [
             {
               "text": "Fânul uscat se greblează și se adună în mici brazde pentru a fi mai ușor de transportat.",
@@ -73,7 +73,7 @@
               "fullSizeUrl": "img/events/hayDays/article/fullSize/7.jpg"
             },
             {
-              "text": "Ziua următoare o să pornim într-un traseu ghidat al localității.",
+              "text": "Într-una din zile vom organiza un traseu ghidat localitatea cu obiceurile și istoria ei printr-un traseu ghidat.",
               "thumbnailUrl": "img/events/common/article/thumbnail/2.jpg",
               "fullSizeUrl": "img/events/common/article/fullSize/2.jpg"
             },
@@ -96,7 +96,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Vă așteptăm la strânsul fânului la Roșia Montană în perioada <b>28-31 Iulie</b>. Dacă doriți să participați într-o altă perioadă sau pe o perioadă mai lungă din Iulie-August specificați acest lucru în formularul de mai jos și o să vă contactăm telefonic."
+          "textContent": "Vă așteptăm la strânsul fânului la Roșia Montană."
         }
       ]
     },
@@ -104,7 +104,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>Joi</b> - sosirea, ne cunoaștem, vedem terenul, împărțim activitățile de la fân. <br><b>Vineri și Sâmbătă</b> - adunatul fânului pe câmp, mulsul vacilor iar seara ne ospătăm la fermă drept răsplată <br><b>Duminică</b> dimineața - traseu ghidat al centrului istoric."
+          "textContent": "<b>În prima zi</b> - sosirea, ne cunoaștem, vedem terenul, împărțim activitățile de la fân. <br><b>Următoarele zile</b> - adunatul fânului pe câmp, mulsul vacilor iar seara ne ospătăm la fermă drept răsplată <br><b>Ultima zi</b> - traseu ghidat al localității."
         }
       ]
     },
@@ -150,6 +150,13 @@
           "name": "phone",
           "iconFortAwesomeClass": "fa fa-phone fa-fw",
           "placeholder": "Telefon",
+          "required": true
+        },
+        {
+          "type": "daterange",
+          "name": "period",
+          "iconFortAwesomeClass": "fa fa-calendar fa-fw",
+          "placeholder": "Perioda",
           "required": true
         },
         {

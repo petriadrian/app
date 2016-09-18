@@ -32,7 +32,7 @@
         {
           "textContent": "A trail along our favorite area, Țarina lands, where you will see some of the most spectacular landscapes. Țarina is pretty close to the Historic Center and here are the farmlands of the locals where they keep their animals or vegetable crops. The trail will take you to Țarina Lake and then to the Țarina (on the top of Rosia Montana) where you will have a spectacular view. Will return to the Casa Petri along the 'Tăul Mare' lake, Văidoaia Gallery and a very special old house (Casa Szekely). The trail is on unpaved roads and is perfect for hiking or mountain bikes.",
           "seeAlso": {
-            "text": "<br>For the <b>GPS (.gpx/.kml)</b> data and the <b>altitude </b> or <b>elevation profile</b> of this trail click here...",
+            "text": "<br><i class='fa fa-download'></i> download <b>GPS data</b> <br><i class='fa fa-line-chart'></i> open <b>altitude profile</b>",
             "textOnMouseOver": "Click here...",
             "link": "http://www.gpsies.com/map.do?fileId=angfatdqfdrtdpsu",
             "openInNewTab": true
@@ -51,14 +51,6 @@
               {
                 "textOnMouseOver": "duration by bike",
                 "text": "<i class='fa fa-bicycle'></i> ~3h"
-              },
-              {
-                "textOnMouseOver": "difficulty",
-                "text": "<i class='fa fa-line-chart'></i> medium"
-              },
-              {
-                "textOnMouseOver": "should have",
-                "text": "<i class='fa fa-check-square-o'></i> hiking boots, raincoat, water"
               }
             ]
           }
@@ -110,6 +102,52 @@
             },
             {
               "id": "sicilianStreet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Pictures",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "More pictures with the trail.",
+          "images": [
+            {
+              "text": "Tăul Țarinii.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/tariniLake/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/tariniLake/fullSize/3.jpg"
+            },
+            {
+              "text": "Tăul Mare view from Rotundu Peak.",
+              "thumbnailUrl": "img/activities/trails/attractions/rotunduPeak/thumbnail/7.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/rotunduPeak/fullSize/7.jpg"
+            },
+            {
+              "text": "Roșia Montana village view from Rotundu Peak.",
+              "thumbnailUrl": "img/activities/trails/attractions/rotunduPeak/thumbnail/8.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/rotunduPeak/fullSize/8.jpg"
+            },
+            {
+              "text": "On the trail....",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/4.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/4.jpg"
+            },
+            {
+              "text": "Tăul Mare.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/9.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/9.jpg"
+            },
+            {
+              "text": "Văidoaia Galleries.",
+              "thumbnailUrl": "img/activities/trails/attractions/vaidoaiaGalleries/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/vaidoaiaGalleries/fullSize/3.jpg"
             }
           ]
         }

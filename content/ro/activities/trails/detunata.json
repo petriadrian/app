@@ -32,7 +32,7 @@
         {
           "textContent": "Începem traseul din Centrul Istoric, de la Casa Petri și o luăm spre Tăul Mare unde ne înviorăm puțin cu apa rece de munte că lung traseu ne mai așteaptă... Pornim apoi spre satele Muntari și Poiana printr-un peisaj tipic din Țara Moților, presărat ici și colo cu căpițe și pașuni pe unde o să întâlniți turme de oi sau vaci. Continuăm drumul până ce dăm de o culme montană formată din coloane înalte de bazalt ca cele din imaginea de mai sus. Pare puțin înfricoșător ... nu e așa? O potecă vă va urca până pe vârful acestei culmi și orice temere va dispărea odată ce o să vedeți priveliștea de aici. La întoarcere, chiar înainte de a intra în Roșia Montana faceți o oprire și pe masivul Șulei, un loc ideal de admirt apusul asupra localității. Traseul este complet marcat de către Salvamont, se face pe un drum de țară, neasfaltat și este indicat pentru drumeții sau biciclete de munte. Ultimii 500 de metri (urcușul pe vârful Detunata) se face pe o potecă îngustă care nu e accesibilă pentru biciclete. <b>Indicațiile de mai jos reprezintă durata și timpul pentru drumul dus-intors.</b>",
           "seeAlso": {
-            "text": "<br>Pentru datele <b>GPS (.gpx/.kml)</b> și informații de <b>altitudine </b> sau <b>diferență de nivel</b> ale acestui traseu click aici...",
+            "text": "<br><i class='fa fa-download'></i> descarcă <b>datele GPS</b> <br><i class='fa fa-line-chart'></i> vezi <b>diferența de nivel</b>",
             "textOnMouseOver": "Click aici...",
             "link": "http://www.bikemap.net/en/route/3052348-rosia-montana-poiana-detunata-goala/#/z13/46.28539,23.16415/terrain",
             "openInNewTab": true
@@ -51,14 +51,6 @@
               {
                 "textOnMouseOver": "durata cu bicicleta",
                 "text": "<i class='fa fa-bicycle'></i> ~4h"
-              },
-              {
-                "textOnMouseOver": "dificultate",
-                "text": "<i class='fa fa-line-chart'></i> mediu"
-              },
-              {
-                "textOnMouseOver": "ar fi bine să ai",
-                "text": "<i class='fa fa-check-square-o'></i> bocanci de munte, pelerină, apă"
               }
             ]
           }
@@ -101,6 +93,37 @@
             },
             {
               "id": "letySulei"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Imagini",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai multe imagini de pe traseu.",
+          "images": [
+            {
+              "text": "Spre Tăul Mare.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/8.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/8.jpg"
+            },
+            {
+              "text": "Spre Tăul Mare.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/5.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/5.jpg"
+            },
+            {
+              "text": "Pe drum....",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/4.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/4.jpg"
             }
           ]
         }

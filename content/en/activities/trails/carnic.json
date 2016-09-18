@@ -32,7 +32,7 @@
         {
           "textContent": "From the Casa Petri yard you will notice the view to the 'Cârnic' mountain. It’s a mountain of gold, from all points of views, because it hides many tons of gold, but also unique Roman galleries (some Antiques). On the top of the mountain you will notice a horse-shaped rock, with a cross on top of it. This is the Sphinx or 'Căluțul', our main objective for this trail. Head towards 'Brazi' Lake and 'Platoul Cârnic' (Cârnic Plateau) and then climb through the pine forest to the top of the mountain at the Raven Stone and Sphinx. Return back to the historic center by the Piatra Despicată and Cetate open pit. The Raven Stone and Sphinx can be visited only by foot. The trail is on unpaved roads and is perfect for hiking or mountain bikes.",
           "seeAlso": {
-            "text": "<br>For the <b>GPS (.gpx/.kml)</b> data and the <b>altitude </b> or <b>elevation profile</b> of this trail click here...",
+            "text": "<br><i class='fa fa-download'></i> download <b>GPS data</b> <br><i class='fa fa-line-chart'></i> open <b>altitude profile</b>",
             "textOnMouseOver": "Click here...",
             "link": "http://www.gpsies.com/map.do?fileId=esbtvmiyuytvzprs",
             "openInNewTab": true
@@ -51,14 +51,6 @@
               {
                 "textOnMouseOver": "duration by bike",
                 "text": "<i class='fa fa-bicycle'></i> ~2h"
-              },
-              {
-                "textOnMouseOver": "difficulty",
-                "text": "<i class='fa fa-line-chart'></i> medium"
-              },
-              {
-                "textOnMouseOver": "should have",
-                "text": "<i class='fa fa-check-square-o'></i> hiking boots, raincoat, water"
               }
             ]
           }
@@ -104,6 +96,47 @@
             },
             {
               "id": "ravenStone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Pictures",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "More pictures with the trail.,",
+          "images": [
+            {
+              "text": "Along the Cetate Open Pit",
+              "thumbnailUrl": "img/activities/trails/attractions/carnic/cetatePit/thumbnail/1.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/carnic/cetatePit/fullSize/1.jpg"
+            },
+            {
+              "text": "The Roman Galleries from Cârnic",
+              "thumbnailUrl": "img/activities/trails/attractions/carnic/galleries/thumbnail/1.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/carnic/galleries/fullSize/1.jpg"
+            },
+            {
+              "text": "The galleries made with fire and water - Cârnic",
+              "thumbnailUrl": "img/activities/trails/attractions/carnic/galleries/thumbnail/2.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/carnic/galleries/fullSize/2.jpg"
+            },
+            {
+              "text": "Platoul Cârnic",
+              "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicPlateau/thumbnail/5.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicPlateau/fullSize/5.jpg"
+            },
+            {
+              "text": "Climbing at the Sphinx.",
+              "thumbnailUrl": "img/activities/trails/attractions/carnic/sphinx/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/carnic/sphinx/fullSize/3.jpg"
             }
           ]
         }

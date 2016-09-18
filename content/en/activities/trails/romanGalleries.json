@@ -49,10 +49,6 @@
               {
                 "textOnMouseOver": "difficulty",
                 "text": "<i class='fa fa-line-chart'></i> easy"
-              },
-              {
-                "textOnMouseOver": "should have",
-                "text": "<i class='fa fa-check-square-o'></i> hiking boots, raincoat, water"
               }
             ]
           }
@@ -95,6 +91,27 @@
             },
             {
               "id": "limestoneSculptures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Pictures",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "More pictures with the trail.",
+          "images": [
+            {
+              "text": "Greek Catholic Church.",
+              "thumbnailUrl": "img/activities/trails/attractions/orlea/thumbnail/2.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/orlea/fullSize/2.jpg"
             }
           ]
         }

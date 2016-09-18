@@ -32,7 +32,7 @@
         {
           "textContent": "Have you arrived in Rosia Montana or you plan for a short visit? You can make this trail with <b>the main</b> objectives from here. Start from Casa Petri which is situated in the old Historic Center and visit each touristic objective.",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJmREpqBvNTkcR0-GMtovthj8|place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw|place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw|place_id:ChIJGUVwDuHMTkcRESfpNiecGZQ|place_id:ChIJe_e0kuDMTkcR-fKFm93NuXI|place_id:ChIJf7dBe97MTkcRUOKwgwP6qHs|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJ3xPsYeXMTkcR-i2Sq02cmlM|place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJmREpqBvNTkcR0-GMtovthj8|place_id:ChIJGUVwDuHMTkcRESfpNiecGZQ|place_id:ChIJ1eFt5-DMTkcR1vnn7xvIb4Q|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJ3xPsYeXMTkcR-i2Sq02cmlM|place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJf7dBe97MTkcRUOKwgwP6qHs|place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw|place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw",
             "list": [
               {
                 "textOnMouseOver": "length",
@@ -80,19 +80,10 @@
               "id": "romanGalleries"
             },
             {
-              "id": "panoramicBench"
-            },
-            {
               "id": "romanCatholicChurch"
             },
             {
               "id": "unitarianChurch"
-            },
-            {
-              "id": "vaidoaiaGalleries"
-            },
-            {
-              "id": "szekeyHouse"
             },
             {
               "id": "braziLake"
@@ -104,7 +95,37 @@
               "id": "ravenStone"
             },
             {
+              "id": "szekeyHouse"
+            },
+            {
+              "id": "vaidoaiaGalleries"
+            },
+            {
+              "id": "panoramicBench"
+            },
+            {
               "id": "limestoneSculptures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Pictures",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "More pictures with the trail.",
+          "images": [
+            {
+              "text": "The tower of the Romano Catholic church.",
+              "thumbnailUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/fullSize/3.jpg"
             }
           ]
         }

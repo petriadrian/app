@@ -32,7 +32,7 @@
         {
           "textContent": "The trail starts from the Historic Center, from Casa Petri and heads to 'Tăul Mare' lake where you can freshen up a bit with the cold mountain water. From here continue towards the villages 'Muntari' and 'Poiana' through a typical landscape of 'Moților' Land, dotted with haystacks and pastures and where you can see herds of sheep or cows grazing. The walk continues until you come across a mountain ridge formed of some tall columns of basalt as in the picture above. Looks a bit scary ... isn’t it? A path will take you up on top of the ridge and the fear will disappear when you'll see the view from here. On return, right before arriving in Rosia Montana have a break on the Șulei Peak, the perfect spot to watch the sunset over the village. The trail is fully marked by the Salvamont team, is on unpaved roads and is perfect for hiking or mountain bikes. The last 500 meters (the climbing on Detunata peak) is on a narrow path that is not accessible for bicycles. <b>The below indications represents the length and time for two way.</b>",
           "seeAlso": {
-            "text": "<br>For the <b>GPS (.gpx/.kml)</b> data and the <b>altitude </b> or <b>elevation profile</b> of this trail click here...",
+            "text": "<br><i class='fa fa-download'></i> download <b>GPS data</b> <br><i class='fa fa-line-chart'></i> open <b>altitude profile</b>",
             "textOnMouseOver": "Click here...",
             "link": "http://www.bikemap.net/en/route/3052348-rosia-montana-poiana-detunata-goala/#/z13/46.28539,23.16415/terrain",
             "openInNewTab": true
@@ -51,14 +51,6 @@
               {
                 "textOnMouseOver": "duration by bike",
                 "text": "<i class='fa fa-bicycle'></i> ~4h"
-              },
-              {
-                "textOnMouseOver": "difficulty",
-                "text": "<i class='fa fa-line-chart'></i> medium"
-              },
-              {
-                "textOnMouseOver": "should have",
-                "text": "<i class='fa fa-check-square-o'></i> hiking boots, raincoat, water"
               }
             ]
           }
@@ -101,6 +93,37 @@
             },
             {
               "id": "letySulei"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Pictures",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "More pictures with the trail.",
+          "images": [
+            {
+              "text": "Towards Tăul Mare.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/8.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/8.jpg"
+            },
+            {
+              "text": "At Tăul Mare.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/5.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/5.jpg"
+            },
+            {
+              "text": "Between Sulei Peak and Tăul Mare",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/4.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/4.jpg"
             }
           ]
         }

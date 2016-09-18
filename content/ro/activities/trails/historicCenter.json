@@ -30,9 +30,9 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Un traseu ușor prin Centrul Istoric al celei mai vechi localități atestate documentar din Romania (anul 131). Vedem clădiri vechi, de patrimoniu ce aveau funcționalități diverse în trecut. Multe dintre ele sunt acum părăsite, dar farmecul lor sigur vă va duce cu gândul la vremurile prospere ale localității. Plecăm de la Casa Petri, care este și ea o casă de patrimoniu și pornim încet pe ulițele satului pentru a vedea fiecare obiectiv. Traseul se face pe drumuri pavate și recomandăm să îl faceți pe jos.",
+          "textContent": "Un traseu ușor prin Centrul Istoric al celei mai vechi localități atestate documentar din Romania (anul 131), printre clădiri vechi, de patrimoniu ce aveau funcționalități diverse (casele aurarilor, ateliere de tesut sau institutii). Multe dintre ele sunt părăsite acum, dar farmecul lor sigur vă va duce cu gândul la vremurile prospere ale localității. Plecăm de la Casa Petri, care este și ea o casă de patrimoniu și pornim încet pe ulițele satului pentru a vedea fiecare obiectiv. Traseul se face pe drumuri pavate și recomandăm să îl faceți pe jos.",
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJZ_4sXeDMTkcR6OaT9rGnfOw|place_id:ChIJGUVwDuHMTkcRESfpNiecGZQ|place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJ5Wyq5-DMTkcR4wI53SSw8is|place_id:ChIJOfC97ODMTkcRecLGM1rVOA0|place_id:ChIJe_e0kuDMTkcR-fKFm93NuXI|place_id:ChIJvc6yG-TMTkcRwUw0D4ybV38|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJYfZ-m-DMTkcRiccAioKsyvo|place_id:ChIJr6tpbuDMTkcR27lOgSAucgs|place_id:ChIJOd6ybODMTkcRp27SJIXkarw|place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJZ_4sXeDMTkcR6OaT9rGnfOw|place_id:ChIJGUVwDuHMTkcRESfpNiecGZQ|place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJe_e0kuDMTkcR-fKFm93NuXI|place_id:ChIJOfC97ODMTkcRecLGM1rVOA0|place_id:ChIJ1eFt5-DMTkcR1vnn7xvIb4Q|place_id:ChIJvc6yG-TMTkcRwUw0D4ybV38|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJYfZ-m-DMTkcRiccAioKsyvo|place_id:ChIJr6tpbuDMTkcR27lOgSAucgs|place_id:ChIJOd6ybODMTkcRp27SJIXkarw|place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw",
             "list": [
               {
                 "textOnMouseOver": "lungime",
@@ -93,6 +93,42 @@
             },
             {
               "id": "panoramicBench"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Imagini",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai multe imagini de pe traseu.",
+          "images": [
+            {
+              "text": "Turnul Bisericii Romano Catolice",
+              "thumbnailUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/fullSize/3.jpg"
+            },
+            {
+              "text": "Strada 'Siciliană'",
+              "thumbnailUrl": "img/activities/trails/attractions/sicilianStreet/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/sicilianStreet/fullSize/3.jpg"
+            },
+            {
+              "text": "Platoul Cârnic",
+              "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicPlateau/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicPlateau/fullSize/3.jpg"
+            },
+            {
+              "text": "Platoul Cârnic",
+              "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicPlateau/thumbnail/4.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicPlateau/fullSize/4.jpg"
             }
           ]
         }

@@ -276,6 +276,10 @@ footer .row section {
     color: black;
 }
 
+.footerFeedback form {
+    width: 100%;
+}
+
 .contactCard p {
     margin: 0px;
 }

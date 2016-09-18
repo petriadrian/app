@@ -31,6 +31,12 @@
       "specificArticles": [
         {
           "textContent": "Traseul ne va duce pe la galeria Văidoaia și Tăul Mare după care vom urca până pe masivul Lety și Șulei pentru a admira belvederea de aici. Coborâm apoi spre centrul istoric pe la Tăul Cornei și Tăul Brazi. Traseul se face pe un drum de țară, neasfaltat și este indicat pentru drumeții sau biciclete de munte.",
+          "seeAlso": {
+            "text": "<br><i class='fa fa-download'></i> download <b>GPS data</b> <br><i class='fa fa-line-chart'></i> open <b>altitude profile</b>",
+            "textOnMouseOver": "Click here...",
+            "link": "https://www.bikemap.net/en/route/3784079-lety-si-sulei/#/z14/46.30146,23.13712/terrain",
+            "openInNewTab": true
+          },
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJf7dBe97MTkcRUOKwgwP6qHs|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJx0kJ88LMTkcRlbYRRD21As0|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs|place_id:ChIJnTJOLfDMTkcR6Bj-a0LHYdg|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q",
             "list": [
@@ -45,14 +51,6 @@
               {
                 "textOnMouseOver": "durata cu bicicleta",
                 "text": "<i class='fa fa-bicycle'></i> ~3h"
-              },
-              {
-                "textOnMouseOver": "dificultate",
-                "text": "<i class='fa fa-line-chart'></i> mediu"
-              },
-              {
-                "textOnMouseOver": "ar fi bine să ai",
-                "text": "<i class='fa fa-check-square-o'></i> bocanci de munte, pelerină, apă"
               }
             ]
           }
@@ -104,6 +102,52 @@
             },
             {
               "id": "sicilianStreet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Imagini",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai multe imagini de pe traseu.",
+          "images": [
+            {
+              "text": "Spre Galeria Văidoaia. În stânga sunt zidurile casei Szekely (locația filmului Nunta de piatră).",
+              "thumbnailUrl": "img/activities/trails/attractions/vaidoaiaGalleries/thumbnail/4.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/vaidoaiaGalleries/fullSize/4.jpg"
+            },
+            {
+              "text": "Galeria Văidoaia.",
+              "thumbnailUrl": "img/activities/trails/attractions/vaidoaiaGalleries/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/vaidoaiaGalleries/fullSize/3.jpg"
+            },
+            {
+              "text": "Spre Tăul Mare.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/7.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/7.jpg"
+            },
+            {
+              "text": "Tăul Mare.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/9.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/9.jpg"
+            },
+            {
+              "text": "Spre Vârfurile Lety și Șulei.",
+              "thumbnailUrl": "img/activities/trails/attractions/letySulei/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/letySulei/fullSize/3.jpg"
+            },
+            {
+              "text": "Lety și Șulei.",
+              "thumbnailUrl": "img/activities/trails/attractions/letySulei/thumbnail/4.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/letySulei/fullSize/4.jpg"
             }
           ]
         }

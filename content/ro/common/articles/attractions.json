@@ -2,13 +2,7 @@
   {
     "id": "romanGalleries",
     "title": "Galeriile Romane - Muzeul Mineritului",
-    "textContent": "În adâncul masivului Orlea o să descoperiți o parte din galeriile antice realizate în perioada ocupației romane în Dacia pentru a extrage aurul. În subsolul localității există peste 120km de astfel de galerii, însă lungimea exactă nu este cunoscută pentru că rețeaua construită timp de aproape 2000 de ani nu a fost cercetată integral. Oriunde vă aflați în Roșia sunteți deasupra unor galerii, ele find dispuse chiar și pe mai multe etaje. Galeriile dechise pentru public se află la Muzeul Mineritului 'ROSIAMIN' iar accesul se face prin tururi ghidate care durează o oră. <b>Sunt deschise de Luni până Vineri între orele 8-14. Pentru a le vizita înafara acestui orar faceți o rezervare din timp (Rus Valentin: (+4)0744346748)</b>",
-    "seeAlso": {
-      "text": "Mai multe detalii aici...",
-      "textOnMouseOver": "Click aici...",
-      "link": "http://www.alba.djc.ro/ObiectiveDetalii.aspx?ID=2184",
-      "openInNewTab": true
-    },
+    "textContent": "În adâncul masivului Orlea o să descoperiți o parte din galeriile antice realizate în perioada ocupației romane în Dacia pentru a extrage aurul. În subsolul localității există peste 120km de astfel de galerii, însă lungimea exactă nu este cunoscută pentru că rețeaua construită timp de aproape 2000 de ani nu a fost cercetată integral. Oriunde vă aflați în Roșia sunteți deasupra unor galerii, ele find dispuse chiar și pe mai multe etaje. Galeriile dechise pentru public se află la Muzeul Mineritului 'ROSIAMIN' iar accesul se face prin tururi ghidate care durează cam 2 ore. <b>Sunt deschise de Luni până Vineri între orele 8-14. Pentru a le vizita înafara acestui orar sau în weekend vă rog să ne informați (de obicei dacă facem o rezervare din timp vor veni și le vor deschide).",
     "images": [
       {
         "text": "<b>Galeriile Romane</b> - Pentru a le vizita se coboara 157 de trepte in subteran.",
@@ -47,8 +41,8 @@
   },
   {
     "id": "orthodoxChurch",
-    "title": "Biserica Ortodoxă",
-    "textContent": "Biserica are în spate una dintre cele mai interesante povești cu aurari, vâlve și grămezi de aur din Roșia Montană. Este una din cele 7 biserici construite de aurarul italian 'Gritta' ca urmare a promisiunii făcute vâlvei ('şapte biserici oi ridica în Apuseni, să aibă românii unde să se închine la Dumnezeu, şi-apăi încă pe-atâtea şcoli, să scape bieţii noştri copii de căratul pietroaielor în spate, să aibă un viitor!') iar în schimb Vâlva i-a arătat locul din galerie unde trebuie să sape pentru a găsi aur.",
+    "title": "Biserica Adormirea Măicii Domnului",
+    "textContent": "Acestă biserică ortodoxă are în spate una dintre cele mai interesante povești cu aurari, vâlve și grămezi de aur din Roșia Montană. Este una din cele 7 biserici construite de aurarul italian 'Gritta' ca urmare a promisiunii făcute vâlvei ('şapte biserici oi ridica în Apuseni, să aibă românii unde să se închine la Dumnezeu, şi-apăi încă pe-atâtea şcoli, să scape bieţii noştri copii de căratul pietroaielor în spate, să aibă un viitor!') iar în schimb Vâlva i-a arătat locul din galerie unde trebuie să sape pentru a găsi aur.",
     "seeAlso": {
       "text": "Mai multe detalii despre povestea celui care a găsit două tone de aur în Roșia Montană găsiți aici...",
       "textOnMouseOver": "Click aici...",
@@ -87,7 +81,7 @@
   },
   {
     "id": "romanCatholicChurch",
-    "title": "Biserica Romano-Catolica",
+    "title": "Biserica Sfântul Ladislău",
     "textContent": "Așezarea Bisericii Romano-Catolice 'Sfântul Ladislău' deasupra satului face ca turnul cu ceas să fie vizibil din tot Centrul Istoric, iar sunetul clopotelor să fie auzit de la orice casă. În interior se află icoana Maicii Domnului cu Pruncul (sec. XVIII) dăruită de împaratesa Maria Tereza din Austria. Biserica este înconjurată de un cimitir cu pietre funerare (sec. XIX) ce aparțin unor oameni importanți, de confesiuni si etnii diferite, reflectând trecutul multicultural al zonei.",
     "images": [
       {
@@ -235,13 +229,13 @@
     "images": [
       {
         "text": "<b>Sfinxul Carnic</b> - Crucea de pe Sfinx a fost pusă aici de baieși (mineri) pentru a fi călauziți în mină când căutau aur.",
-        "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicSfinx/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicSfinx/fullSize/1.jpg"
+        "thumbnailUrl": "img/activities/trails/attractions/carnic/sphinx/thumbnail/1.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/carnic/sphinx/fullSize/1.jpg"
       },
       {
         "text": "<b>Vedere spre Cariera Cetate</b> - Asta rămâne după exploatările miniere de suprafață. Întoarceți-vă 360 de grade împrejur și imaginați-vă că dacă ar începe o exploatare aici, toată zona ar arăta asa.",
-        "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicSfinx/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicSfinx/fullSize/2.jpg"
+        "thumbnailUrl": "img/activities/trails/attractions/carnic/sphinx/thumbnail/2.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/carnic/sphinx/fullSize/2.jpg"
       }
     ]
   },
@@ -330,7 +324,7 @@
     "title": "Cariera de Cupru Roșia Poieni",
     "textContent": "Una din cele mai mari cariere de suprafață din Europa, mândria sistemului comunist, 5000 de tone de cupru producție anuală, utilaje imense și sute de locuri de muncă. S-a muncit aici și o parte încă mai funcționează dar toate acestea au avut consecințe asupra mediului: un munte ras, vegetație distrusă, sol arid, utilaje abandonate, iar sterilul rezultat a fost deversat în aval peste satul Geamăna. Accesul se face pe la un <b>punct de verificare</b> cu barieră, unde vi se verifică buletinul iar în unele zile intrarea poate fi restricționată.",
     "seeAlso": {
-      "text": "Maia Morgenstern a filmat aici un videoclip pentru a trage un semnal de alarmă asupra exploatărilor. Îl puteți vedea aici...",
+      "text": "<br><i class='fa fa-video-camera'></i> Vezi filmul facut aici de Maia Morgenstern pentru a trage un semnal de alarmă asupra exploatărilor miniere...",
       "textOnMouseOver": "Click aici...",
       "link": "https://www.youtube.com/watch?v=J4bG7oil3gU",
       "openInNewTab": true

@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Hay making",
     "headline": "Traditional hay making with farmers from Transylvania",
-    "description": "<b>| Jul-Aug |</b> Connect to nature and help to preserve the valuable mountain hay meadows, wildlife and traditions at the hay making with the local farmers.",
+    "description": "<b>| Jul-Sept |</b> Connect to nature and help to preserve the valuable mountain hay meadows, wildlife and traditions at the hay making with the local farmers.",
     "fullWidthImg": "img/events/hayDays/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/events/hayDays/presentation/smallBoxImg.jpg"
   },
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "In July and August, the farmers are gathering and making the hay stacks which will be used during the winter to feed their animals. Because the youths are moving to cities and some of the peoples were relocated by the Canadian mining company, the number of inhabitants and farmers has decreased. In order to take care of the hay meadows and to preserve the tradition of hay making, it would be really helpful for the farmers who are still living here to have somebody to help. This is a great opportunity for nature lovers and those interested in traditional culture and sustainable living  to learn about the connections between nature and farming and help to preserve valuable mountain hay meadows and their plant, wildlife and traditions. In the evening we will participate at the cow milking and have a rest at the farm were the host will make a dinner as a reward and next day we will organise a guided tour of the village with the locals to find out more about the local history and habits.",
+          "textContent": "At the end of the summer - begging of autumn, the farmers are gathering and making the hay stacks which will be used during the winter to feed their animals. Because the youths are moving to cities and some of the peoples were relocated by the Canadian mining company, the number of inhabitants and farmers has decreased. In order to take care of the hay meadows and to preserve the tradition of hay making, it would be really helpful for the farmers who are still living here to have somebody to help. This is a great opportunity for nature lovers and those interested in traditional culture and sustainable living  to learn about the connections between nature and farming and help to preserve valuable mountain hay meadows and their plant, wildlife and traditions. In the evening we will participate at the cow milking and have a rest at the farm were the host will make a dinner as a reward. In one of the days we will go in a guided tour of the village to tell you more about the history and the local habits.",
           "images": [
             {
               "text": "The hay is gathered into small hay stacks making it easy to transport.",
@@ -73,7 +73,7 @@
               "fullSizeUrl": "img/events/hayDays/article/fullSize/7.jpg"
             },
             {
-              "text": "Next day will go in a guided tour of the village.",
+              "text": "In one of the days we will go in a guided tour of the village to tell you more about the history and the local habits.",
               "thumbnailUrl": "img/events/common/article/thumbnail/2.jpg",
               "fullSizeUrl": "img/events/common/article/fullSize/2.jpg"
             },
@@ -96,7 +96,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Join the hay making in Rosia Montana on the <b>28-31 July</b>. If you wish to participate on a longer or another period form July-August, tell us when you fill the below form and we will contact you by phone or email."
+          "textContent": "Join the hay making with the farmers from Rosia Montană."
         }
       ]
     },
@@ -104,7 +104,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>Thursday</b> - check in, we get to know each other, seeing the field, sharing the hay making activities. <br><b>Friday and Saturday</b> - hay making on the field, cow milking and in the evening the farmer will prepare the dinner as a reward. <br><b>Sunday</b> morning - guided trail of the village."
+          "textContent": "<b>On the first day</b> - check in, we get to know each other, seeing the field, sharing the hay making activities. <br><b>Next days</b> - hay making on the field, cow milking and in the evening the farmer will prepare the dinner as a reward. <br><b>Last day</b> - guided trail of the village."
         }
       ]
     },
@@ -150,6 +150,13 @@
           "name": "phone",
           "iconFortAwesomeClass": "fa fa-phone fa-fw",
           "placeholder": "Phone",
+          "required": true
+        },
+        {
+          "type": "daterange",
+          "name": "period",
+          "iconFortAwesomeClass": "fa fa-calendar fa-fw",
+          "placeholder": "Period",
           "required": true
         },
         {

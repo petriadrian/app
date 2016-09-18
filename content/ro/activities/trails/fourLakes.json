@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Tăurile",
     "headline": "Traseul tăurilor din Roșia Montană",
-    "description": "Traseu în jurul satului, pe un drum de țară ce leagă patru lacuri: Țarina, Tăul Mare, Corna și Brazi. <i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~11km</b>",
+    "description": "Traseu în jurul satului, pe un drum de țară ce leagă patru lacuri: Țarina, Tăul Mare, Corna și Brazi. <i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~15km</b>",
     "fullWidthImg": "img/activities/trails/fourLakes/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/fourLakes/presentation/smallBoxImg.jpg"
   },
@@ -32,7 +32,7 @@
         {
           "textContent": "Pornim de la Casa Petri spre Tăul Țarinii și Stația Meteo de pe Vârful Rotundu, cel mai înalt punct de pe traseu. În stânga observăm Tăul Mare, următoarea destinație spre care ne îndreptăm. De aici urcăm pe masivul Lety și Sulei unde facem un popas pentru a ne bucura de priveliște și ne întoarcem spre Centrul Istoric pe la Tăul Corna, Piatra Corbului și Tăul Brazi. Traseul se face pe un drum de țară, neasfaltat și este indicat pentru drumeții sau biciclete de munte.",
           "seeAlso": {
-            "text": "<br>Pentru datele <b>GPS (.gpx/.kml)</b> și informații de <b>altitudine </b> sau <b>diferență de nivel</b> ale acestui traseu click aici...",
+            "text": "<br><i class='fa fa-download'></i> descarcă <b>datele GPS</b> <br><i class='fa fa-line-chart'></i> vezi <b>diferența de nivel</b>",
             "textOnMouseOver": "Click aici...",
             "link": "https://www.bikemap.net/en/route/3045395-4-tauri/#/z14/46.30072,23.14141/terrain",
             "openInNewTab": true
@@ -43,7 +43,7 @@
             "list": [
               {
                 "textOnMouseOver": "lungime",
-                "text": "<i class='fa fa-arrows-h'></i> ~11km"
+                "text": "<i class='fa fa-arrows-h'></i> ~15km"
               },
               {
                 "textOnMouseOver": "durata pe jos",
@@ -104,6 +104,57 @@
             },
             {
               "id": "braziLake"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Imagini",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai multe imagini de pe traseu.",
+          "images": [
+            {
+              "text": "Tăul Țarinii.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/tariniLake/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/tariniLake/fullSize/3.jpg"
+            },
+            {
+              "text": "La intrarea în pădurea de brazi - zona cu zmeuriș.",
+              "thumbnailUrl": "img/activities/trails/attractions/rotunduPeak/thumbnail/4.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/rotunduPeak/fullSize/4.jpg"
+            },
+            {
+              "text": "Vârful Rotundu.",
+              "thumbnailUrl": "img/activities/trails/attractions/rotunduPeak/thumbnail/6.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/rotunduPeak/fullSize/6.jpg"
+            },
+            {
+              "text": "Între Vârful Sulei și Tăul Mare",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/3.jpg"
+            },
+            {
+              "text": "Prieveliștea de Luni dimineața.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/6.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/6.jpg"
+            },
+            {
+              "text": "Tăul Mare.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/5.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/5.jpg"
+            },
+            {
+              "text": "Spre Vârfurile Lety și Șulei.",
+              "thumbnailUrl": "img/activities/trails/attractions/letySulei/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/letySulei/fullSize/3.jpg"
             }
           ]
         }
