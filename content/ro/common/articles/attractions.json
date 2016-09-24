@@ -442,12 +442,12 @@
     "textContent": "Descoperiți drumul de țară prin satele Muntari și Poiana, două sate din Munții Apuseni unde parcă timpul s-a oprit în loc.",
     "images": [
       {
-        "text": "<b>Drumul prin satele Muntari și Poiana",
+        "text": "Drumul prin satele Muntari și Poiana",
         "thumbnailUrl": "img/activities/trails/attractions/muntariPoiana/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/muntariPoiana/fullSize/1.jpg"
       },
       {
-        "text": "<b>Drumul prin satele Muntari și Poiana",
+        "text": "Drumul prin satele Muntari și Poiana",
         "thumbnailUrl": "img/activities/trails/attractions/muntariPoiana/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/muntariPoiana/fullSize/2.jpg"
       }
@@ -456,26 +456,74 @@
   {
     "id": "geamana",
     "title": "Geamăna",
-    "textContent": "Video-ul de mai jos este cel mai reprezentativ pentru iazul 'Geamăna' și a fost răsțpândit pe internet în perioada în care se dorea construirea unui lac imens de cianură la Roșia Montană. Este unul dintre motivele care i-a făcut pe oameni să conștientizeze efectele exploatărilor de suprafață și să protesteze în acea perioadă împotriva acestora. Proiectul de la Roșia Montana a fost oprit dar pentru satul Geamăna este prea târziu. Se mai vede doar turla bisericii, o parte din cimitir și câteva gospodări iar în rest este acoperit de sterilul de la Cariera de Cupru. Aici nu se află cianuri și aerul nu e contaminat dar apa este poluată.",
+    "textContent": "Lacul Geamăna este unul dintre cele mai mari lacuri de decantare deșeuri miniere din țară. Dacă proiectul de minerit de la Roșia Montană ar fi început am fi avut si aici un astfel de lac însă de dimensiuni mai mari și cu conținut de cianură. Pentru satul Geamăna este însă prea târziu, aici se mai vede doar turla bisericii, o parte din cimitir și câteva gospodări iar în rest este acoperit de sterilul de la Cariera de Cupru. Aici nu se află cianuri și aerul nu e contaminat dar apa este poluată.",
     "seeAlso": [
       {
         "text": "Mai multe detalii aici...",
         "textOnMouseOver": "Click aici...",
         "link": "http://www.historia.ro/exclusiv_web/actualitate/articol/geam-na-satul-apuseni-furat-sterilul-mina-cupru-ro-ia-poieni",
         "openInNewTab": true
+      },
+      {
+        "text": "<br><i class='fa fa-video-camera'></i> Vezi un scurt metraj realizat aici. Un motiv care a dus la protestele împotriva exploatării Roșia Montană...",
+        "textOnMouseOver": "Click aici...",
+        "link": "https://www.youtube.com/watch?v=zMvnZnlMzbg",
+        "openInNewTab": true
       }
     ],
-    "iframe": {
-      "src": "https://www.youtube.com/embed/zMvnZnlMzbg"
-    }
-  },
-  {
-    "id": "xxx",
-    "text": "<b>model",
-    "textContent": "",
     "images": [
       {
-        "text": "<b> </b> - ",
+        "text": "Turla bisericii din fostul sat Geamăna.",
+        "thumbnailUrl": "img/activities/trails/attractions/lakes/geamana/thumbnail/1.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/lakes/geamana/fullSize/1.jpg"
+      },
+      {
+        "text": "Foste gospoddării din Geamăna",
+        "thumbnailUrl": "img/activities/trails/attractions/lakes/geamana/thumbnail/2.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/lakes/geamana/fullSize/2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "lupsa",
+    "title": "Mănăstirea Lupșa (1421)",
+    "textContent": "Mănăstirea este una din cele mai vechi așezări monahale de pe Valea Ariesului - anul 1421. Fiind întemeiată de călugării ce sihastreau în țara moților a avut de la început un mare rol duhovnicesc pentru satele din apropiere. Călugării duceau viata isihasta in post și rugăciune și țineau strânsă legătura cu Manastirea Peri din Maramureș. Chiar lângă mănăstire se află <b>restaurantul 'Casa Apuseană'</b> unde puteți servi masa.",
+    "seeAlso": [
+      {
+        "text": "Mai multe detalii și sursa text aici...",
+        "textOnMouseOver": "Click aici...",
+        "link": "http://www.crestinortodox.ro/biserici-manastiri/mitropolia-clujului-albei-crisanei-maramuresului/manastirea-lupsa-68072.html",
+        "openInNewTab": true
+      }
+    ],
+    "images": [
+      {
+        "text": "Vechea mănăstire Lupșa - 1421",
+        "thumbnailUrl": "img/activities/trails/attractions/churches/lupsa/thumbnail/1.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/churches/lupsa/fullSize/1.jpg"
+      },
+      {
+        "text": "Noua mănăstire Lupșa și restaurantul Casa Apuseană.",
+        "thumbnailUrl": "img/activities/trails/attractions/churches/lupsa/thumbnail/2.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/churches/lupsa/fullSize/2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "template",
+    "title": "template",
+    "textContent": "template",
+    "seeAlso": [
+      {
+        "text": "Mai multe detalii...",
+        "textOnMouseOver": "Click aici...",
+        "link": "http",
+        "openInNewTab": true
+      }
+    ],
+    "images": [
+      {
+        "text": "template",
         "thumbnailUrl": "img/activities/trails/attractions/xxx/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/xxx/fullSize/1.jpg"
       }

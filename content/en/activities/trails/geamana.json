@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Geamăna",
     "headline": "The Cooper Pit and flooded village - Geamana trail",
-    "description": "What's the real price of the metals? See the Cooper open pit Rosia Poinei and the flooded village Geamana. <i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <i class='fa fa-car'></i> <b>~50km</b>",
+    "description": "What's the real price of the metals? See the Cooper open pit Rosia Poinei and the flooded village Geamana. <i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <i class='fa fa-car'></i> <b>~57km</b>",
     "fullWidthImg": "img/activities/trails/geamana/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/trails/geamana/presentation/smallBoxImg.jpg"
   },
@@ -30,12 +30,36 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Here is one of the biggest open pit from Europe. How does it looks like and what are the consequences? Let's hit the road... From the Historic Center we head to the the 'Tăul Mare' Lake. Once we get here you still have to climb a little until you will reach the Copper Open Pit - Rosia Poieni. The open pit looks like dessert: dry soil, no vegetables, a shaved mountain and rusty huge machines. Get back on the asphalted road until you meet an unpaved road on the left which will lead you through some traditional villages with an authentic charm: Muntari, Poiana and Vința. Once you will see a big lake with powerful colors of red and blue, you reached the waste lake Geamana. <b>The below indications represents the two way length and time.</b>  The trail is on unpaved roads and is perfect for hiking or mountain bikes. The road from Cooper Open Pit to Geamana is quite long, so if you want, you can get back at Casa Petri and go to 'Geamana' by car on asphalted road.",
+          "textContent": "Here is one of the biggest open pit from Europe. How does it looks like and what are the consequences? Let's hit the road... From the Historic Center we head to the the 'Tăul Mare' Lake and then to the Copper Open Pit - Rosia Poieni. Here is a dessert landscape: dry soil, no vegetables, a shaved mountain and rusty huge machines. Next you will pass by some traditional villages with an authentic charm: Muntari, Poiana and Vința. Once you will see a big lake with powerful colors of red and blue, you reached the waste lake Geamana. Next, an unpaved road will lead you by the Geamana dam to the Lupșa Monastery where you will also find a good <b>restaurant</b>. Return to Casa Petri, through Bistra and Carpenis villages on an asphalted road. The road from Cooper Open Pit to Geamana is quite long, so you can get back at Casa Petri and go to 'Geamana' by car on asphalted road.",
           "seeAlso": [
             {
-              "text": "<br><i class='fa fa-car'></i> Open the <b>trail by car</b> to 'Geamăna'(~1h)",
+              "text": "<br><i class='fa fa-blind'></i> if you go <b>by foot</b> return from Geamana on the same way as is shorter (~9h total). See here",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.google.com/maps/dir/Casa+Petri,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615,+Romania/T%C4%83ul+Mare/Cariera+Ro%C5%9Fia+Poieni,+Drum+exploatare,+Romania/Muntari,+Romania/Poiana,+Romania/Vin%C8%9Ba,+Romania/Geam%C4%83na,+Romania/Casa+Petri,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615,+Romania/@46.3146996,23.153369,12.12z/data=!4m50!4m49!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!1m5!1m1!1s0x474eccdb6ec7fe37:0xe4b1c3880d788b47!2m2!1d23.1445582!2d46.3111615!1m5!1m1!1s0x474eccb3ec5c7175:0xdd01d090859427e3!2m2!1d23.1743158!2d46.311439!1m5!1m1!1s0x474ecc9598d2efe9:0x2b19ddffb7af14a3!2m2!1d23.1583425!2d46.301267!1m5!1m1!1s0x474ecc99acd6d7d9:0x8e9a5fbe7e0e8fd6!2m2!1d23.1704314!2d46.2989994!1m5!1m1!1s0x474934cb79d95a47:0x7a1012da63e3e0be!2m2!1d23.2291875!2d46.308224!1m5!1m1!1s0x4749335e58fe877f:0x883a3e3ec5d25d8a!2m2!1d23.2042788!2d46.3299984!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!3e2?hl=en-US",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-car'></i> see the <b>trail by car</b> to 'Geamăna'(~1h)",
               "textOnMouseOver": "Click here...",
               "link": "https://www.google.ro/maps/dir/Casa+Petri,+DC146,+Ro%C8%99ia+Montan%C4%83/M%C4%83n%C4%83stirea+Lup%C8%99a,+M%C4%83n%C4%83stire,+Jude%C8%9Bul+Alba/Geam%C4%83na/@46.3434513,23.066633,12.11z/data=!4m20!4m19!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!1m5!1m1!1s0x47493248b8024575:0x28aa0ec6176c4a5a!2m2!1d23.1732673!2d46.3752202!1m5!1m1!1s0x4749335e58fe877f:0x883a3e3ec5d25d8a!2m2!1d23.2042788!2d46.3299984!3e0?hl=ro",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-compress'></i> see the version of this trail with <b>Detunata</b> (~67km total)",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.google.com/maps/dir/Casa+Petri/T%C4%83ul+Mare/Cariera+Ro%C5%9Fia+Poieni,+Drum+exploatare/Muntari,+Romania/Detunata+Goal%C4%83,+Rom%C3%A2nia/Vin%C8%9Ba,+Romania/Geam%C4%83na,+Romania/M%C4%83n%C4%83stirea+Lup%C8%99a,+DN75,+Romania/Bistra,+Romania/Casa+Petri/@46.3292853,23.0747018,12z/data=!3m1!4b1!4m62!4m61!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!1m5!1m1!1s0x474eccdb6ec7fe37:0xe4b1c3880d788b47!2m2!1d23.1445582!2d46.3111615!1m5!1m1!1s0x474eccb3ec5c7175:0xdd01d090859427e3!2m2!1d23.1743158!2d46.311439!1m5!1m1!1s0x474ecc9598d2efe9:0x2b19ddffb7af14a3!2m2!1d23.1583425!2d46.301267!1m5!1m1!1s0x474ecb0b3fc6fdbf:0x625d95e7bb6b2e0f!2m2!1d23.1967854!2d46.2772531!1m5!1m1!1s0x474934cb79d95a47:0x7a1012da63e3e0be!2m2!1d23.2291875!2d46.308224!1m5!1m1!1s0x4749335e58fe877f:0x883a3e3ec5d25d8a!2m2!1d23.2042788!2d46.3299984!1m5!1m1!1s0x47493248b8024575:0x28aa0ec6176c4a5a!2m2!1d23.1743418!2d46.3760986!1m5!1m1!1s0x47492d9b18e3ecd1:0x355b50d54b86ba19!2m2!1d23.1021078!2d46.3787007!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!3e2?hl=en-US",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-download'></i> download <b>GPS data</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.bikemap.net/en/route/3695477-rosia-montana-geamana/#/z12/46.31705,23.17531/terrain",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-line-chart'></i> open <b>altitude profile</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.bikemap.net/en/route/3695477-rosia-montana-geamana/#/z12/46.31705,23.17531/terrain",
               "openInNewTab": true
             }
           ],
@@ -44,19 +68,11 @@
             "list": [
               {
                 "textOnMouseOver": "length",
-                "text": "<i class='fa fa-arrows-h'></i> ~50km"
-              },
-              {
-                "textOnMouseOver": "walking duration",
-                "text": "<i class='fa fa-blind'></i> ~9h"
+                "text": "<i class='fa fa-arrows-h'></i> ~57km"
               },
               {
                 "textOnMouseOver": "duration by bike",
-                "text": "<i class='fa fa-bicycle'></i> ~6h"
-              },
-              {
-                "textOnMouseOver": "difficulty",
-                "text": "<i class='fa fa-line-chart'></i> heavy"
+                "text": "<i class='fa fa-bicycle'></i> ~8h"
               }
             ]
           }
@@ -99,6 +115,9 @@
             },
             {
               "id": "geamana"
+            },
+            {
+              "id": "lupsa"
             }
           ]
         }
@@ -125,6 +144,36 @@
               "text": "Cooper Open Pit - guided trail with a group from Taiwan and Mumbai.",
               "thumbnailUrl": "img/activities/trails/attractions/copperPit/thumbnail/4.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/copperPit/fullSize/5.jpg"
+            },
+            {
+              "text": "Geamăna seen right after you pass the Cooper Open Pit.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/geamana/thumbnail/6.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/geamana/fullSize/6.jpg"
+            },
+            {
+              "text": "On the road to Geamăna.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/geamana/thumbnail/5.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/geamana/fullSize/5.jpg"
+            },
+            {
+              "text": "Geamăna",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/geamana/thumbnail/4.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/geamana/fullSize/4.jpg"
+            },
+            {
+              "text": "Geamăna",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/geamana/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/geamana/fullSize/3.jpg"
+            },
+            {
+              "text": "The old Lupșa Monastery - 1421",
+              "thumbnailUrl": "img/activities/trails/attractions/churches/lupsa/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/churches/lupsa/fullSize/3.jpg"
+            },
+            {
+              "text": "The Lupșa Monastery fortification",
+              "thumbnailUrl": "img/activities/trails/attractions/churches/lupsa/thumbnail/4.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/churches/lupsa/fullSize/4.jpg"
             }
           ]
         }

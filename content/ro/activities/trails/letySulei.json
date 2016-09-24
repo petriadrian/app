@@ -33,13 +33,13 @@
           "textContent": "Traseul ne va duce pe la galeria Văidoaia și Tăul Mare după care vom urca până pe masivul Lety și Șulei pentru a admira belvederea de aici. Coborâm apoi spre centrul istoric pe la Tăul Cornei și Tăul Brazi. Traseul se face pe un drum de țară, neasfaltat și este indicat pentru drumeții sau biciclete de munte.",
           "seeAlso": [
             {
-              "text": "<br><i class='fa fa-download'></i> download <b>GPS data</b>",
+              "text": "<br><i class='fa fa-download'></i> descarcă <b>datele GPS</b>",
               "textOnMouseOver": "Click here...",
               "link": "https://www.bikemap.net/en/route/3784079-lety-si-sulei/#/z14/46.30146,23.13712/terrain",
               "openInNewTab": true
             },
             {
-              "text": "<br><i class='fa fa-line-chart'></i> open <b>altitude profile</b>",
+              "text": "<br><i class='fa fa-line-chart'></i> vezi <b>diferența de nivel</b>",
               "textOnMouseOver": "Click here...",
               "link": "https://www.bikemap.net/en/route/3784079-lety-si-sulei/#/z14/46.30146,23.13712/terrain",
               "openInNewTab": true

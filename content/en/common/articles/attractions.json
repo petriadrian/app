@@ -455,18 +455,78 @@
   },
   {
     "id": "geamana",
-    "title": "Geamana",
-    "textContent": "The next video shows a story of 'Geamana' village that raised awareness for the consequences of open pit mining. This was one of the reasons of the street protests against the new gold exploitation which should open in Rosia Montana in 2014. So the project was stopped and Rosia saved for now, but for 'Geamana' is to late. During communism the villagers were moved away and the waste from the 'Rosia Poieni' exploitation was thrown over the village. Now only the tower of the village church can be seen here. There is no cyanide and the air is not contaminated but the water is polluted.",
+    "title": "Geamăna",
+    "textContent": "The Geamana lake is one of the biggest waste dump lake from Romania. If the mining project from Roșia Montană has been started we would have such a lake also here but bigger and with cyanide. So the project was stopped and Rosia saved for now, but for 'Geamana' is to late. During communism the villagers were moved away and the wastes from the 'Rosia Poieni' exploitation was thrown over the village. Now only the tower of the village church can be seen. Geamana has no cyanide and the air is not contaminated but the water is polluted.",
     "seeAlso": [
       {
         "text": "More details here...",
         "textOnMouseOver": "Click here...",
         "link": "http://www.amusingplanet.com/2014/06/geamana-romanian-village-flooded-by.html",
         "openInNewTab": true
+      },
+      {
+        "text": "<br><i class='fa fa-video-camera'></i> See a video made here - one of the reasons that lead to the protests against making a new open pit at Roșia Montană...",
+        "textOnMouseOver": "Click aici...",
+        "link": "https://www.youtube.com/watch?v=zMvnZnlMzbg",
+        "openInNewTab": true
       }
     ],
-    "iframe": {
-      "src": "https://www.youtube.com/embed/zMvnZnlMzbg"
-    }
+    "images": [
+      {
+        "text": "The tower of the church of the flooded village Geamana.",
+        "thumbnailUrl": "img/activities/trails/attractions/lakes/geamana/thumbnail/1.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/lakes/geamana/fullSize/1.jpg"
+      },
+      {
+        "text": "Geamăna farms",
+        "thumbnailUrl": "img/activities/trails/attractions/lakes/geamana/thumbnail/2.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/lakes/geamana/fullSize/2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "lupsa",
+    "title": "Lupșa Monastery (1421)",
+    "textContent": "This one of the oldest religious settlement from the Apuseni Valley - 1421. Beside the monastery you will find the <b>'Casa Apuseană' restaurant</b> where you can eat.",
+    "seeAlso": [
+      {
+        "text": "More details here(RO)...",
+        "textOnMouseOver": "Click here...",
+        "link": "http://www.crestinortodox.ro/biserici-manastiri/mitropolia-clujului-albei-crisanei-maramuresului/manastirea-lupsa-68072.html",
+        "openInNewTab": true
+      }
+    ],
+    "images": [
+      {
+        "text": "The old Lupșa Monastery - 1421",
+        "thumbnailUrl": "img/activities/trails/attractions/churches/lupsa/thumbnail/1.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/churches/lupsa/fullSize/1.jpg"
+      },
+      {
+        "text": "The new Lupșa Monastery and the Casa Apuseană restaurant.",
+        "thumbnailUrl": "img/activities/trails/attractions/churches/lupsa/thumbnail/2.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/churches/lupsa/fullSize/2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "template",
+    "title": "template",
+    "textContent": "template",
+    "seeAlso": [
+      {
+        "text": "More details here...",
+        "textOnMouseOver": "Click here...",
+        "link": "http",
+        "openInNewTab": true
+      }
+    ],
+    "images": [
+      {
+        "text": "template",
+        "thumbnailUrl": "img/activities/trails/attractions/xxx/thumbnail/1.jpg",
+        "fullSizeUrl": "img/activities/trails/attractions/xxx/fullSize/1.jpg"
+      }
+    ]
   }
 ]
