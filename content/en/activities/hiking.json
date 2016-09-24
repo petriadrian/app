@@ -106,12 +106,14 @@
         },
         {
           "textContent": "<b>The mining protests trail</b> - we go along the areas where protests were held for or against the gold mining project proposed by the Canadian company in 2007, that wanted to transform the village in a big open pit. We will discuss about what happened there and what would have been the consequences of implementing such a project in the area. In the end we will watch at Casa Petri some movies with the streets protests from 2014, organized in the country and abroad, against this project.",
-          "seeAlso": {
-            "text": " <br><br> The bookings for this guided trails can be made from here...",
-            "textOnMouseOver": "Click here...",
-            "link": "en/accommodation#reservations",
-            "openInNewTab": false
-          }
+          "seeAlso": [
+            {
+              "text": " <br><br> The bookings for this guided trails can be made from here...",
+              "textOnMouseOver": "Click here...",
+              "link": "en/accommodation#reservations",
+              "openInNewTab": false
+            }
+          ]
         }
       ]
     },

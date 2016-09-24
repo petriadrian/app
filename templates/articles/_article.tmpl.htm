@@ -10,11 +10,13 @@
     </header>
     <section class="defaultArticleText">
         <span ng-if="!!article.textContent" ng-bind-html="article.textContent | trustHtml"></span>
-        <a ng-if="!!article.seeAlso"
-           href="{{article.seeAlso.link}}"
-           target="{{article.seeAlso.openInNewTab ? '_blank' : '_self'}}"
-           title="{{article.seeAlso.textOnMouseOver}}" class="lookLikeLink"
-           ng-bind-html="article.seeAlso.text | trustHtml"></a>
+        <span ng-if="!!article.seeAlso"
+              ng-repeat="seeAlsoItem in article.seeAlso">
+                    <a href="{{seeAlsoItem.link}}"
+                       target="{{seeAlsoItem.openInNewTab ? '_blank' : '_self'}}"
+                       title="{{seeAlsoItem.textOnMouseOver}}" class="lookLikeLink"
+                       ng-bind-html="seeAlsoItem.text | trustHtml"></a>
+        </span>
     </section>
     <section ng-if="!!article.images">
         <a rel="fancybox" ng-repeat="image in article.images" title="{{image.text}}"

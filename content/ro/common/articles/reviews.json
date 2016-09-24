@@ -3,12 +3,14 @@
     "id": "1",
     "title": "Nastasia - Barcelona(SP)",
     "textContent": "<span style='font-family: Merienda, cursive'>Un loc de poveste, cu oameni frumoși în ganduri și simțiri, casa la care mă reintorc cu drag și dor de fiecare data! Casa Petri Roșia Montană!</span>",
-    "seeAlso": {
-      "text": "Nastasia a acceptat să fie contactată pe facebook cu întrebări despre experiența ei la Casa Petri...",
-      "textOnMouseOver": "Click aici...",
-      "link": "https://www.facebook.com/nechiti.nastasia",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "Nastasia a acceptat să fie contactată pe facebook cu întrebări despre experiența ei la Casa Petri...",
+        "textOnMouseOver": "Click aici...",
+        "link": "https://www.facebook.com/nechiti.nastasia",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Nastasia - Barcelona(SP)</b> -  la Casa Petri",
@@ -21,12 +23,14 @@
     "id": "2",
     "title": "Andreea - Brașov(RO)",
     "textContent": "<span style='font-family: Merienda, cursive'>Oamenii frumosi la gazde frumoase trag! Multam de hamace with a view, vibe creativ si activist, clatite cu zambet larg si respiro cu WiFiiiiiii :))) ca sa afle lumea ca suntem la Casa Petri si ce facem pe acolo. Raportam de pe baricade ca stocul de dor s-a refacut rapid si numaram weekendurile pana va trecem iar pragul!</span>",
-    "seeAlso": {
-      "text": "Andreea a acceptat să fie contactată pe facebook cu întrebări despre experiența ei la Casa Petri...",
-      "textOnMouseOver": "Click aici...",
-      "link": "https://www.facebook.com/andreea.firastraeru",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "Andreea a acceptat să fie contactată pe facebook cu întrebări despre experiența ei la Casa Petri...",
+        "textOnMouseOver": "Click aici...",
+        "link": "https://www.facebook.com/andreea.firastraeru",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Andreea - Brașov(RO)</b> -  la Casa Petri",
@@ -63,12 +67,14 @@
     "id": "5",
     "title": "Alex - Cluj(RO)",
     "textContent": "<span style='font-family: Merienda, cursive'>E foarte misto! E cea mai frumoasa cladire din Rosia Montana, si e super aproape de centru!</span>",
-    "seeAlso": {
-      "text": "Alex a făcut și o prezentare cu poze făcute pe traseele Cârnic și Țarina. Îl poți vedea aici...",
-      "textOnMouseOver": "Click aici...",
-      "link": "https://photos.google.com/share/AF1QipPIX2LP4qX1vBZ9k1aHL3n2_DwqE1JGlV9UfULwlkQe3lBo_XPm-SJfo5Nn29ZtsQ/story/AF1QipNvtEn_xmGQ0Rssl_iGlIlPaUYQJT_1OjBeTeC4qi9-i_hECYF8YvVmCd2HMCan1A?key=dG9NQ012enB5M2VNeHkwcmJyZXVOUkZweHBZeGJ3",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "Alex a făcut și o prezentare cu poze făcute pe traseele Cârnic și Țarina. Îl poți vedea aici...",
+        "textOnMouseOver": "Click aici...",
+        "link": "https://photos.google.com/share/AF1QipPIX2LP4qX1vBZ9k1aHL3n2_DwqE1JGlV9UfULwlkQe3lBo_XPm-SJfo5Nn29ZtsQ/story/AF1QipNvtEn_xmGQ0Rssl_iGlIlPaUYQJT_1OjBeTeC4qi9-i_hECYF8YvVmCd2HMCan1A?key=dG9NQ012enB5M2VNeHkwcmJyZXVOUkZweHBZeGJ3",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Alex - Cluj(RO)</b> -  cu Sebi pe vârful Cârnic",
@@ -93,12 +99,14 @@
     "id": "7",
     "title": "Alexandra - București(RO)",
     "textContent": "<span style='font-family: Merienda, cursive'> Mulțumim pentru acest loc de rai, unde ne-am simțit minunat. Una dintre cele mai mari realizări a fost că am dormit nemișcată, pe când în București am nevoie de pastile de somn.</span>",
-    "seeAlso": {
-      "text": "Alexandra s-a îndrăgostit de Roșia Montană și organizează anual aici un maraton. Mai multe detalii aici...",
-      "textOnMouseOver": "Click aici...",
-      "link": "http://www.rosiamontanamarathon.ro/",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "Alexandra s-a îndrăgostit de Roșia Montană și organizează anual aici un maraton. Mai multe detalii aici...",
+        "textOnMouseOver": "Click aici...",
+        "link": "http://www.rosiamontanamarathon.ro/",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Alexandra - București(RO)</b> -  cu echipa maratonului pe Vârful Rotundu - Țarina",
@@ -111,12 +119,14 @@
     "id": "8",
     "title": "Ramona - Cluj(RO)",
     "textContent": "<span style='font-family: Merienda, cursive'> Adi și tatăl lui sunt cele mai faine gazde! Iubesc să beau cafeaua pe băncuță și să mă uit la muntele Cârnic. </span>",
-    "seeAlso": {
-      "text": "Ramona vine în fiecare an la festivalul Fân Fest cu echipa ei pentru a vinde semințe ecologice și să țină prezentări despre importanța folosirii acestora în agricultură. Mai multe detalii aici...",
-      "textOnMouseOver": "Click aici...",
-      "link": "http://www.ecoruralis.ro/web/ro/",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "Ramona vine în fiecare an la festivalul Fân Fest cu echipa ei pentru a vinde semințe ecologice și să țină prezentări despre importanța folosirii acestora în agricultură. Mai multe detalii aici...",
+        "textOnMouseOver": "Click aici...",
+        "link": "http://www.ecoruralis.ro/web/ro/",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Ramona - Cluj(RO)</b> -  cu echipa ei la Fân Fest unde comercializează semințe țărănești",
@@ -153,12 +163,14 @@
     "id": "11",
     "title": "Shreya - Mumbai(India)",
     "textContent": "<span style='font-family: Merienda, cursive'> Dragă Adi, Casa Petri este un loc nemaipomenit. Suntem foarte triste că trebuie să părăsim acestă frumoasă casa și sat. Dar putem spune ca avem o casă la Roșia Montană. Ești o gazdă și un om minunat. Sperăm să ne întoarcem la Casa Petri în curând. Ne va fi foarte dor de oamenii din Roșia Montană.</span>",
-    "seeAlso": {
-      "text": "Shreya a acceptat să fie contactată pe facebook cu întrebări despre experiența ei la Casa Petri...",
-      "textOnMouseOver": "Click aici...",
-      "link": "https://www.facebook.com/shreya.save.7",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "Shreya a acceptat să fie contactată pe facebook cu întrebări despre experiența ei la Casa Petri...",
+        "textOnMouseOver": "Click aici...",
+        "link": "https://www.facebook.com/shreya.save.7",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Shreya, Hoowen and Bran</b> - at a galass of Palinca with the locals",

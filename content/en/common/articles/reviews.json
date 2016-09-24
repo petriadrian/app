@@ -3,12 +3,14 @@
     "id": "1",
     "title": "Nastasia - Barcelona(SP)",
     "textContent": "<span style='font-family: Merienda, cursive'> A fairytale place, with wonderful people, both in thoughts and in senses, the house where I always come back gladly! Petri House Roșia Montană!</span>",
-    "seeAlso": {
-      "text": "You can ask Nastasia, on facebook, about her experience at Casa Petri...",
-      "textOnMouseOver": "Click here...",
-      "link": "https://www.facebook.com/nechiti.nastasia",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "You can ask Nastasia, on facebook, about her experience at Casa Petri...",
+        "textOnMouseOver": "Click here...",
+        "link": "https://www.facebook.com/nechiti.nastasia",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Nastasia - Barcelona(SP)</b> - at Casa Petri",
@@ -22,12 +24,14 @@
     "title": "Andreea - Brașov(RO)",
     "textContent": "<span style='font-family: Merienda, cursive'>Oamenii frumosi la gazde frumoase trag! Multam de hamace with a view, vibe creativ si activist, clatite cu zambet larg si respiro cu WiFiiiiiii :))) ca sa afle lumea ca suntem la Casa Petri si ce facem pe acolo. Raportam de pe baricade ca stocul de dor s-a refacut rapid si numaram weekendurile pana va trecem iar pragul!</span>",
     "textContent": "<span style='font-family: Merienda, cursive'>Nice peoples comes to nice hosts! Thanks for the hammocks with a view, for the good and activist vibe, for the pancakes and for the good WiFiiiiiii :))). We already miss you guys and we count the weeks until we will return at Casa Petri.</span>",
-    "seeAlso": {
-      "text": "You can ask Andreea, on facebook, about her experience at Casa Petri...",
-      "textOnMouseOver": "Click here...",
-      "link": "https://www.facebook.com/andreea.firastraeru",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "You can ask Andreea, on facebook, about her experience at Casa Petri...",
+        "textOnMouseOver": "Click here...",
+        "link": "https://www.facebook.com/andreea.firastraeru",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Andreea - Brașov(RO)</b> - at Casa Petri",
@@ -76,12 +80,14 @@
     "id": "5",
     "title": "Alex - Cluj(RO)",
     "textContent": "<span style='font-family: Merienda, cursive'>It was really cool! It's the most beautiful building from Roșia Montană and is right in the Historic Center!</span>",
-    "seeAlso": {
-      "text": "Alex also made a clip with photos from his hiking trips to Cârnic and Țarina trails. You can see it here...",
-      "textOnMouseOver": "Click here...",
-      "link": "https://photos.google.com/share/AF1QipPIX2LP4qX1vBZ9k1aHL3n2_DwqE1JGlV9UfULwlkQe3lBo_XPm-SJfo5Nn29ZtsQ/story/AF1QipNvtEn_xmGQ0Rssl_iGlIlPaUYQJT_1OjBeTeC4qi9-i_hECYF8YvVmCd2HMCan1A?key=dG9NQ012enB5M2VNeHkwcmJyZXVOUkZweHBZeGJ3",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "Alex also made a clip with photos from his hiking trips to Cârnic and Țarina trails. You can see it here...",
+        "textOnMouseOver": "Click here...",
+        "link": "https://photos.google.com/share/AF1QipPIX2LP4qX1vBZ9k1aHL3n2_DwqE1JGlV9UfULwlkQe3lBo_XPm-SJfo5Nn29ZtsQ/story/AF1QipNvtEn_xmGQ0Rssl_iGlIlPaUYQJT_1OjBeTeC4qi9-i_hECYF8YvVmCd2HMCan1A?key=dG9NQ012enB5M2VNeHkwcmJyZXVOUkZweHBZeGJ3",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Alex - Cluj(RO)</b> - with Sebi on Cârnic Peak",
@@ -106,12 +112,14 @@
     "id": "7",
     "title": "Alexandra - Bucharest(RO)",
     "textContent": "<span style='font-family: Merienda, cursive'> Thank you for this piece of heaven, where we felt wonderful. One of the biggest achievements is that I slept like a baby, while in Bucharest I have to take sleeping pills. </span>",
-    "seeAlso": {
-      "text": "Alexandra loves Rosia Montana and she organizes annually a marathon here. More details here...",
-      "textOnMouseOver": "Click here...",
-      "link": "http://www.rosiamontanamarathon.ro/",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "Alexandra loves Rosia Montana and she organizes annually a marathon here. More details here...",
+        "textOnMouseOver": "Click here...",
+        "link": "http://www.rosiamontanamarathon.ro/",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Alexandra - Bucharest(RO)</b> - with the marathon team on 'Rotundu' Peak - Țarina",
@@ -124,12 +132,14 @@
     "id": "8",
     "title": "Ramona - Cluj(RO)",
     "textContent": "<span style='font-family: Merienda, cursive'> Adi and his father are the best hosts. I love to drink my coffee in the morning in their yard with a nice view to Carnic mountain.</span>",
-    "seeAlso": {
-      "text": "Ramona with her team comes every year at the Fan Fest festival to sell organic seeds and she also holds workshop about the importance of the organic seeds in agriculture. More details here...",
-      "textOnMouseOver": "Click here...",
-      "link": "http://www.ecoruralis.ro/web/en/",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "Ramona with her team comes every year at the Fan Fest festival to sell organic seeds and she also holds workshop about the importance of the organic seeds in agriculture. More details here...",
+        "textOnMouseOver": "Click here...",
+        "link": "http://www.ecoruralis.ro/web/en/",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Ramona - Cluj(RO)</b> -  with her team at Fan Fest where they sell organic seeds.",
@@ -166,12 +176,14 @@
     "id": "11",
     "title": "Shreya - Mumbai(India)",
     "textContent": "<span style='font-family: Merienda, cursive'> Dear Adi, Casa Petri is an amazing place. We are very sad to have to leave this beautiful house and village. But we can now say we have a home in Rosia Montana. You are a wonderful host and an amazing person. Hope to see Casa Petri, again soon. We will miss the peoples of Rosia Montana very much.</span>",
-    "seeAlso": {
-      "text": "You can ask Shreya, on facebook, about her experience at Casa Petri...",
-      "textOnMouseOver": "Click here...",
-      "link": "https://www.facebook.com/shreya.save.7",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "You can ask Shreya, on facebook, about her experience at Casa Petri...",
+        "textOnMouseOver": "Click here...",
+        "link": "https://www.facebook.com/shreya.save.7",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Shreya, Hoowen and Bran</b> - at a galass of Palinca with the locals",

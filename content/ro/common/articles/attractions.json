@@ -20,12 +20,14 @@
     "id": "grecoCatholicChurch",
     "title": "Biserica Greco-Catolica",
     "textContent": "'Biserica greco-catolică este așezată pe o coastă domoală care coboară spre valea pârâului Roşia (numit şi Foieş), la poalele Masivului Orlea. Biserica poartă memoria celui care a fost considerat de urmaşii săi cel mai popular şi mai bine făcător dintre românii ardeleni ai veacului al XIX-lea, Simion Balint a cărui monument funerar se află lângă biserică.'",
-    "seeAlso": {
-      "text": "Mai multe detalii și cum te poți implica în procesul de restaurare al bisericii găsiți aici...",
-      "textOnMouseOver": "Click aici...",
-      "link": "http://www.adoptaocasa.ro/case/biserica-greco-catolica-adormirea-maicii-domnului-1741-rosia-montana-nr-135",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "Mai multe detalii și cum te poți implica în procesul de restaurare al bisericii găsiți aici...",
+        "textOnMouseOver": "Click aici...",
+        "link": "http://www.adoptaocasa.ro/case/biserica-greco-catolica-adormirea-maicii-domnului-1741-rosia-montana-nr-135",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Turnul biserici Greco-Catolică</b> - 'Biserica se înfăţişează drept unul dintre cele mai importante monumente de cult din Munţii Apuseni, un edificiu de mare valoare arhitecturală şi istorică.'",
@@ -43,12 +45,14 @@
     "id": "orthodoxChurch",
     "title": "Biserica Adormirea Măicii Domnului",
     "textContent": "Acestă biserică ortodoxă are în spate una dintre cele mai interesante povești cu aurari, vâlve și grămezi de aur din Roșia Montană. Este una din cele 7 biserici construite de aurarul italian 'Gritta' ca urmare a promisiunii făcute vâlvei ('şapte biserici oi ridica în Apuseni, să aibă românii unde să se închine la Dumnezeu, şi-apăi încă pe-atâtea şcoli, să scape bieţii noştri copii de căratul pietroaielor în spate, să aibă un viitor!') iar în schimb Vâlva i-a arătat locul din galerie unde trebuie să sape pentru a găsi aur.",
-    "seeAlso": {
-      "text": "Mai multe detalii despre povestea celui care a găsit două tone de aur în Roșia Montană găsiți aici...",
-      "textOnMouseOver": "Click aici...",
-      "link": "http://www.formula-as.ro/2016/1212/societate-37/povestea-familiei-gritta-20615",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "Mai multe detalii despre povestea celui care a găsit două tone de aur în Roșia Montană găsiți aici...",
+        "textOnMouseOver": "Click aici...",
+        "link": "http://www.formula-as.ro/2016/1212/societate-37/povestea-familiei-gritta-20615",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Biserica Ortodoxă</b> - 'Adormirea Maicii Domnului', ridicată de aurarul 'Mihăilă Gritta'",
@@ -99,12 +103,14 @@
   {
     "id": "unitarianChurch",
     "title": "Biserica Unitariană (1568)",
-    "seeAlso": {
-      "text": "Mai multe detalii aici...",
-      "textOnMouseOver": "Click aici...",
-      "link": "http://www.adoptaocasa.ro/case/biserica-unitariana",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "Mai multe detalii aici...",
+        "textOnMouseOver": "Click aici...",
+        "link": "http://www.adoptaocasa.ro/case/biserica-unitariana",
+        "openInNewTab": true
+      }
+    ],
     "textContent": "'Amplasat pe culmea unui mic deal, în zona centrală, edificiul domină ansamblul pieței centrale și iradiază asupra organizării spațiale a întregii zone, afirmandu-se ca element de valoare al structurii urbane.' Aici se desfăsoară anual taberele de restaurare a monumentelor de patrimoniu 'Adoptă o casa'.",
     "images": [
       {
@@ -140,12 +146,14 @@
     "id": "sicilianStreet",
     "title": "Strada 'Siciliană'",
     "textContent": "'Strada Siciliană din Roșia Montană e o stradă istorică. Aproape un muzeu în sine. Foarte îngustă, pornește din piața cea mare, urcând în curbe stranse printre case batrane, uriașe, lipite intre ele, ca un tunel șerpuit. O stradă medievala, asemeni celor din vechile orașe italiene, zagazuită de case trainice, baroce, cu etaj și pereți groși. Clădiri superbe, în ciuda decrepitudinii lor, unde-au trăit odinioara marii aurari ai Roșiei, stăpânii comorilor din Munții Apuseni.'",
-    "seeAlso": {
-      "text": "Mai multe detalii aici...",
-      "textOnMouseOver": "Click aici...",
-      "link": "http://www.formula-as.ro/2006/731/societate-37/rosia-montana-un-dor-la-fel-ca-si-moartea-7261",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "Mai multe detalii aici...",
+        "textOnMouseOver": "Click aici...",
+        "link": "http://www.formula-as.ro/2006/731/societate-37/rosia-montana-un-dor-la-fel-ca-si-moartea-7261",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Casa Parohială Unitariană și Școala Maghiară</b> - Casa Parohială este restaurată de organizația ARA prin programul 'Adoptă o casă'.",
@@ -163,12 +171,14 @@
     "id": "szekeyHouse",
     "title": "Casa Szekey",
     "textContent": "Casa Szekey Acoș de la poalele masivului Jig-Văidoaia este ca o mică cetate împrejmuită de un zid de piatră cu o poartă înaltă boltită. În acest loc s-a filmat în 1972 'Nunta de piatră' regizat de Dan Pița. La întoarcerea de pe traseu, putem urmări filmul la Casa Petri, deoarece va avea mai mare impact odată ce cunoașteți zona. O parte din echipa de filmare a fost cazată atunci la noi şi că încă păstrăm o poză cu autograful lor.",
-    "seeAlso": {
-      "text": "Filmul a fost nominalizat la TiFF în top 10 filme romanesti ale tuturor timpurilor. Vezi aici...",
-      "textOnMouseOver": "Click aici...",
-      "link": "http://procinema.ro/stiri/nunta-de-piatra-locul-6-in-clasamentul-celor-mai-bune-10-filme-romanesti-ale-tuturor-timpurilor-a-sarbatorit.html#ixzz3rft5sJu5",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "Filmul a fost nominalizat la TiFF în top 10 filme romanesti ale tuturor timpurilor. Vezi aici...",
+        "textOnMouseOver": "Click aici...",
+        "link": "http://procinema.ro/stiri/nunta-de-piatra-locul-6-in-clasamentul-celor-mai-bune-10-filme-romanesti-ale-tuturor-timpurilor-a-sarbatorit.html#ixzz3rft5sJu5",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Casa Szekely</b> - Poarta casei și masivul Văidoaia.",
@@ -220,12 +230,14 @@
     "id": "carnicSfinx",
     "title": "Sfinxul Carnic",
     "textContent": "Drumul vă va purta printr-o pădure de brazi prin care puteți găsi ciuperci, zmeura, mure sau frăguțe. Odată ajunși pe culmea masivului, la Sfinx, vă aflati pe unul dintre cele mai inalte puncte din Roșia Montană. În față aveți Centrul Istoric, iar în spate Cariera Cetate care poartă acest nume pentru că aici era într-adevăr o cetate sculptată în munți de către daci si romani. Pe vremea comunismului s-a decis ca este mai utilă o exploatare de suprafață decât conservarea acesteia.",
-    "seeAlso": {
-      "text": "Mai multe detalii aici...",
-      "textOnMouseOver": "Click aici...",
-      "link": "http://adevarul.ro/locale/alba-iulia/foto-distrugerea-curtilor-aur-cele-mai-frumoase-mai-reprezentative-lucrari-miniere-romania-vremea-dacilor-romanilor-1_5607ae00f5eaafab2c0c02e2/index.html",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "Mai multe detalii aici...",
+        "textOnMouseOver": "Click aici...",
+        "link": "http://adevarul.ro/locale/alba-iulia/foto-distrugerea-curtilor-aur-cele-mai-frumoase-mai-reprezentative-lucrari-miniere-romania-vremea-dacilor-romanilor-1_5607ae00f5eaafab2c0c02e2/index.html",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Sfinxul Carnic</b> - Crucea de pe Sfinx a fost pusă aici de baieși (mineri) pentru a fi călauziți în mină când căutau aur.",
@@ -260,12 +272,14 @@
     "id": "limestoneSculptures",
     "title": "Sculpturile de calcar",
     "textContent": "'Asociaţia Internaţională pentru Simpozioanele de Sculptură a organizat aici primul Simpozion Internaţional de Sculptură Monumentală din România. Trei artişti români şi şase artişti invitaţi din Argentina, Canada, Egipt, Franţa, Olanda şi Japonia au constituit o echipă care a reprezentat toate continentele şi care a lucrat timp de o lună într-un spirit de prietenie şi de emulaţie artistică.' Sculpturile au fost donate patrimoniului Roşia Montană cu obligția de a nu fi mutate.",
-    "seeAlso": {
-      "text": "Mai multe detalii aici...",
-      "textOnMouseOver": "Click aici...",
-      "link": "http://www.simpozionrosiamontana.org/Catalogue_Rosia_Montana.pdf",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "Mai multe detalii aici...",
+        "textOnMouseOver": "Click aici...",
+        "link": "http://www.simpozionrosiamontana.org/Catalogue_Rosia_Montana.pdf",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Sculpturile de calcar</b> - Așezarea lor în ograda unei ferme nu e aleasă la întâmplare deoarece zona Orlea este bogată în resurse subterane. Odată ce sculpturile au devenit monumente de patrimoniu, zona este protejată iar deschiderea unei exploatări miniere aici... este teoretic imposibil.",
@@ -283,12 +297,14 @@
     "id": "tariniLake",
     "title": "Tăul Țarinii",
     "textContent": "Aici este un mic colț de rai foarte aproape de Casa Petri, un lac bine ascuns după niște sălcii înalte care își scalda ramurile în el. Țarina este locul unde se desfășoară anual festivalul FânFest care umple aceste meleaguri cu tineri ce vin să stea cu cortul.",
-    "seeAlso": {
-      "text": "Mai multe detalii despre festival aici...",
-      "textOnMouseOver": "Click aici...",
-      "link": "http://www.fanfest.ro",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "Mai multe detalii despre festival aici...",
+        "textOnMouseOver": "Click aici...",
+        "link": "http://www.fanfest.ro",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Tăul Țarinii</b> - Un mic lac de munte superb pe timp de toamnă. Podul care duce la Căsuța de pe lac este locul ideal de făcut poze.",
@@ -323,12 +339,14 @@
     "id": "copperPit",
     "title": "Cariera de Cupru Roșia Poieni",
     "textContent": "Una din cele mai mari cariere de suprafață din Europa, mândria sistemului comunist, 5000 de tone de cupru producție anuală, utilaje imense și sute de locuri de muncă. S-a muncit aici și o parte încă mai funcționează dar toate acestea au avut consecințe asupra mediului: un munte ras, vegetație distrusă, sol arid, utilaje abandonate, iar sterilul rezultat a fost deversat în aval peste satul Geamăna. Accesul se face pe la un <b>punct de verificare</b> cu barieră, unde vi se verifică buletinul iar în unele zile intrarea poate fi restricționată.",
-    "seeAlso": {
-      "text": "<br><i class='fa fa-video-camera'></i> Vezi filmul facut aici de Maia Morgenstern pentru a trage un semnal de alarmă asupra exploatărilor miniere...",
-      "textOnMouseOver": "Click aici...",
-      "link": "https://www.youtube.com/watch?v=J4bG7oil3gU",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "<br><i class='fa fa-video-camera'></i> Vezi filmul facut aici de Maia Morgenstern pentru a trage un semnal de alarmă asupra exploatărilor miniere...",
+        "textOnMouseOver": "Click aici...",
+        "link": "https://www.youtube.com/watch?v=J4bG7oil3gU",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Cariera de Cupru</b> - 24 de trepte de exploatare, fiecare de 15m înălțime.",
@@ -397,12 +415,14 @@
     "id": "detunata",
     "title": "Detunata",
     "textContent": "Acest masiv este o arie protejată de interes național și este format din coloane înalte arcuite de bazalt. La baza Detunatei puteți vedea o mare de blocuri de piatră care s-au desprins din acest masiv și s-au rostogolit până la baza pădurii de brazi, o parte fiind acoperite cu mușchi vegetal ce formează un peisaj cu totul aparte. De aveți timp explorați puțin zona! Știți că pe aici a trait Fefeleaga? - personajul principal din opera lui Ion Agârbiceanu. Căutați casa memorială Fefeleaga, ascultați poveștile oamenilor și gustați din plăcintele cu brânză de acolo.",
-    "seeAlso": {
-      "text": "Mai multe detalii și imagini găsiți aici...",
-      "textOnMouseOver": "Click aici...",
-      "link": "http://cartitaplimbareata.ro/index.php/6803/detunata-goala-detunatele-muntii-metaliferi-apuseni",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "Mai multe detalii și imagini găsiți aici...",
+        "textOnMouseOver": "Click aici...",
+        "link": "http://cartitaplimbareata.ro/index.php/6803/detunata-goala-detunatele-muntii-metaliferi-apuseni",
+        "openInNewTab": true
+      }
+    ],
     "images": [
       {
         "text": "<b>Detunata</b> - La baza acestui masiv printre blocurile de bazalt, în inima pădurii de molid, se formează uneori un mic ghețar. Vă lasăm pe voi să îl descoperiți.",
@@ -437,12 +457,14 @@
     "id": "geamana",
     "title": "Geamăna",
     "textContent": "Video-ul de mai jos este cel mai reprezentativ pentru iazul 'Geamăna' și a fost răsțpândit pe internet în perioada în care se dorea construirea unui lac imens de cianură la Roșia Montană. Este unul dintre motivele care i-a făcut pe oameni să conștientizeze efectele exploatărilor de suprafață și să protesteze în acea perioadă împotriva acestora. Proiectul de la Roșia Montana a fost oprit dar pentru satul Geamăna este prea târziu. Se mai vede doar turla bisericii, o parte din cimitir și câteva gospodări iar în rest este acoperit de sterilul de la Cariera de Cupru. Aici nu se află cianuri și aerul nu e contaminat dar apa este poluată.",
-    "seeAlso": {
-      "text": "Mai multe detalii aici...",
-      "textOnMouseOver": "Click aici...",
-      "link": "http://www.historia.ro/exclusiv_web/actualitate/articol/geam-na-satul-apuseni-furat-sterilul-mina-cupru-ro-ia-poieni",
-      "openInNewTab": true
-    },
+    "seeAlso": [
+      {
+        "text": "Mai multe detalii aici...",
+        "textOnMouseOver": "Click aici...",
+        "link": "http://www.historia.ro/exclusiv_web/actualitate/articol/geam-na-satul-apuseni-furat-sterilul-mina-cupru-ro-ia-poieni",
+        "openInNewTab": true
+      }
+    ],
     "iframe": {
       "src": "https://www.youtube.com/embed/zMvnZnlMzbg"
     }

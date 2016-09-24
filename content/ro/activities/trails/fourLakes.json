@@ -31,12 +31,20 @@
       "specificArticles": [
         {
           "textContent": "Pornim de la Casa Petri spre Tăul Țarinii și Stația Meteo de pe Vârful Rotundu, cel mai înalt punct de pe traseu. În stânga observăm Tăul Mare, următoarea destinație spre care ne îndreptăm. De aici urcăm pe masivul Lety și Sulei unde facem un popas pentru a ne bucura de priveliște și ne întoarcem spre Centrul Istoric pe la Tăul Corna, Piatra Corbului și Tăul Brazi. Traseul se face pe un drum de țară, neasfaltat și este indicat pentru drumeții sau biciclete de munte.",
-          "seeAlso": {
-            "text": "<br><i class='fa fa-download'></i> descarcă <b>datele GPS</b> <br><i class='fa fa-line-chart'></i> vezi <b>diferența de nivel</b>",
-            "textOnMouseOver": "Click aici...",
-            "link": "https://www.bikemap.net/en/route/3045395-4-tauri/#/z14/46.30072,23.14141/terrain",
-            "openInNewTab": true
-          },
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-download'></i> descarcă <b>datele GPS</b>",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.bikemap.net/en/route/3045395-4-tauri/#/z14/46.30072,23.14141/terrain",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-line-chart'></i> vezi <b>diferența de nivel</b>",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.bikemap.net/en/route/3045395-4-tauri/#/z14/46.30072,23.14141/terrain",
+              "openInNewTab": true
+            }
+          ],
           "iframe": {
             "src": "https://www.bikemap.net/en/route/3045395-4-tauri/widget/?width=640&amp;extended=1&amp;distance_markers=1&amp;height=480&amp;unit=metric' border='0' frameborder='0' marginheight='0' marginwidth='0' scrolling='no'",
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo|place_id:ChIJi1rDktfMTkcRD_0U6qTLpqg|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs|place_id:ChIJnTJOLfDMTkcR6Bj-a0LHYdg|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA",

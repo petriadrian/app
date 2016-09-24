@@ -31,12 +31,14 @@
       "specificArticles": [
         {
           "textContent": "The daffodils starts blooming in May and lives until the beginning of June. Annually, on the Sunday closest to the 20th May there is the Daffodils holiday, when the locals sell their homemade goods, and make parties in the evening. Even if you are not visiting us in May we recommend to make this trail because the trail is great in any period of the year. The road shown on the below map is for touring bikes or cars/motorcycles because is asphalted (except for the last 3km, which we recommend to walk, because the landscapes are spectacular). <b>The below indications represents one way length and time.</b>",
-          "seeAlso": {
-            "text": "See here also the <b>MTB or hiking trail</b> (is shorter and on unpaved road)...",
-            "textOnMouseOver": "Click here...",
-            "link": "https://www.google.com/maps/dir/Casa+Petri,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615,+Romania/Poiana+cu+Narcise+de+la+Negrileasa,+Valea+Negrilesii,+Romania/@46.2676681,23.1488071,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!1m5!1m1!1s0x474eca1cedae3ebd:0xc2a91ad65c1f15d6!2m2!1d23.2129428!2d46.2248948!3e2?hl=en-US",
-            "openInNewTab": true
-          },
+          "seeAlso": [
+            {
+              "text": "See here also the <b>MTB or hiking trail</b> (is shorter and on unpaved road)...",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.google.com/maps/dir/Casa+Petri,+Historical+center,+nr.+331A,+Ro%C8%99ia+Montan%C4%83+517615,+Romania/Poiana+cu+Narcise+de+la+Negrileasa,+Valea+Negrilesii,+Romania/@46.2676681,23.1488071,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!1m5!1m1!1s0x474eca1cedae3ebd:0xc2a91ad65c1f15d6!2m2!1d23.2129428!2d46.2248948!3e2?hl=en-US",
+              "openInNewTab": true
+            }
+          ],
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJvT6u7RzKTkcR1hUfXNYaqcI&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=driving&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs",
             "list": [
@@ -86,12 +88,14 @@
         {
           "title": "",
           "textContent": "A trip to the protected area 'Negrileasa' while the daffodils are in bloom is something that you will never forget. The first thing that you will try to remember from 'Negrileasa' is the the smell of the daffodils. You will realise it’s impossible to remember it, therefore you have to try this experience again, to see that white hill, feel the smell and enjoy this meadow from the 'Apuseni' mountains.",
-          "seeAlso": {
-            "text": "More details here...",
-            "textOnMouseOver": "Click here...",
-            "link": "http://www.muntii-apuseni.eu/news.php?readmore=7",
-            "openInNewTab": true
-          },
+          "seeAlso": [
+            {
+              "text": "More details here...",
+              "textOnMouseOver": "Click here...",
+              "link": "http://www.muntii-apuseni.eu/news.php?readmore=7",
+              "openInNewTab": true
+            }
+          ],
           "images": [
             {
               "text": "<b>Daffodil Meadow</b> - Don't reap the flowers. Once reaped will wither quickly and lose their smell. Their magic is only here in the wild. Instead take a lot of pictures :)",

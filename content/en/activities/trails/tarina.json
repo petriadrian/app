@@ -31,12 +31,20 @@
       "specificArticles": [
         {
           "textContent": "A trail along our favorite area, Țarina lands, where you will see some of the most spectacular landscapes. Țarina is pretty close to the Historic Center and here are the farmlands of the locals where they keep their animals or vegetable crops. The trail will take you to Țarina Lake and then to the Țarina (on the top of Rosia Montana) where you will have a spectacular view. Will return to the Casa Petri along the 'Tăul Mare' lake, Văidoaia Gallery and a very special old house (Casa Szekely). The trail is on unpaved roads and is perfect for hiking or mountain bikes.",
-          "seeAlso": {
-            "text": "<br><i class='fa fa-download'></i> download <b>GPS data</b> <br><i class='fa fa-line-chart'></i> open <b>altitude profile</b>",
-            "textOnMouseOver": "Click here...",
-            "link": "http://www.gpsies.com/map.do?fileId=angfatdqfdrtdpsu",
-            "openInNewTab": true
-          },
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-download'></i> download <b>GPS data</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "http://www.gpsies.com/map.do?fileId=angfatdqfdrtdpsu",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-line-chart'></i> open <b>altitude profile</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "http://www.gpsies.com/map.do?fileId=angfatdqfdrtdpsu",
+              "openInNewTab": true
+            }
+          ],
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw|place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo|place_id:ChIJi1rDktfMTkcRD_0U6qTLpqg|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJf7dBe97MTkcRUOKwgwP6qHs",
             "list": [

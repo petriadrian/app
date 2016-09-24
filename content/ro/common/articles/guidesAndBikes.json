@@ -3,12 +3,14 @@
     "id": "details",
     "hideAreaUnderButton": "Rezervă trasee ghidate + <i class='fa fa-bicycle'></i> + <i class='fa fa-bed'></i> &nbsp&nbsp<i class='fa fa-caret-down'></i>",
     "textContent": "Cu fiecare grup discutăm despre trasee, dar pentru a afla mai multe despre zonă, obiceiuri, istorie sau industria minieră din Roșia Montană vă recomandăm să le parcurgeți însoțiți de un ghid.",
-    "seeAlso": {
-      "text": "Rezervările de biciclete, cazare, campare sau tururi ghidate cu bicicleta ori pe jos se pot face aici...",
-      "textOnMouseOver": "Click aici...",
-      "link": "ro/accommodation#reservations",
-      "openInNewTab": false
-    },
+    "seeAlso": [
+      {
+        "text": "Rezervările de biciclete, cazare, campare sau tururi ghidate cu bicicleta ori pe jos se pot face aici...",
+        "textOnMouseOver": "Click aici...",
+        "link": "ro/accommodation#reservations",
+        "openInNewTab": false
+      }
+    ],
     "images": [
       {
         "text": "<b>Tururi ghidate</b> - descoperă zona însoțiți de un ghid care să vă povestească despre atracțiile întâlnite pe traseu.",

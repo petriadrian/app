@@ -80,12 +80,14 @@
         {
           "title": "Vulcan",
           "textContent": "'Vulcan' is a massif that dominates the surroundings - above all the neighboring mountains, consisting of a forested limestone plateau. It is surrounded almost entirely by high walls (~150m tall) and is a protected area. The walls are a paradise for escalation or climbing, with sticky and solid rocks.'",
-          "seeAlso": {
-            "text": "Text source and more details can be found here...",
-            "textOnMouseOver": "Click here...",
-            "link": "http://www.amunteanu.go.ro/buces_vulcan.htm",
-            "openInNewTab": true
-          },
+          "seeAlso": [
+            {
+              "text": "Text source and more details can be found here...",
+              "textOnMouseOver": "Click here...",
+              "link": "http://www.amunteanu.go.ro/buces_vulcan.htm",
+              "openInNewTab": true
+            }
+          ],
           "images": [
             {
               "text": "<b>The road to Vulcan</b>",

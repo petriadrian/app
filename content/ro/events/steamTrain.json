@@ -32,12 +32,14 @@
         {
           "title": "",
           "textContent": "Dacă ajungeți în zonă merită să încercați Mocănița cu abur. Aceasta circulă între Abrud și Câmpeni iar durata unei călătorii este cam de 3 ore. Gara Mocăniței este în Abrud Sat (la ~15 minute de mers cu mașina de Casa Petri pe drum asfaltat - vedeți harta de mai jos). Calea ferată îngustă și Mocănița au fost restaurate recent și puse la dispoziția turistilor.",
-          "seeAlso": {
-            "text": "Mai multe detalii despre orar și traseu aici...",
-            "textOnMouseOver": "Click aici...",
-            "link": "http://www.cfi.ro/index.php?p=1_15",
-            "openInNewTab": true
-          },
+          "seeAlso": [
+            {
+              "text": "Mai multe detalii despre orar și traseu aici...",
+              "textOnMouseOver": "Click aici...",
+              "link": "http://www.cfi.ro/index.php?p=1_15",
+              "openInNewTab": true
+            }
+          ],
           "images": [
             {
               "text": "<b>Mocănița prin satul Cristea</b>",

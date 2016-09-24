@@ -31,12 +31,14 @@
       "specificArticles": [
         {
           "textContent": "Ce e cel mai minuant la acest traseu e că o luăm spre un vechi oraș minier 'Zlatna' în care se încercă dezvoltarea turismului. Ce e bine e că au și reușit să facă ceva. Dovezile sunt acest ștrand 'de lux' dotat cu absolut tot ce e necesar și aleea pietonală de lângă el. Dar stați că nu e așa simplu... până acolo trebuie să pedalăm drumul cu serpentine de pe 'Dealul Mare' printre păduri de fagi și conifere. Cu cât mai epuizat ajungi, cu atât va fi baia mai bună. Traseul este pe drum asfaltat și se poate face cu mașina/motocicleta sau cu biciclete de asfalt. <b>Indicațiile de mai jos reprezintă durata și timpul pentru un singur drum (dus).</b>",
-          "seeAlso": {
-            "text": "Mai multe detalii despre bazin și ce mai puteți vizita în Zltana găsiți aici...",
-            "textOnMouseOver": "Click aici...",
-            "link": "http://viziteazazlatna.ro/blog/locatii-agrement/zlatna-sport-center-2/#!prettyPhoto",
-            "openInNewTab": true
-          },
+          "seeAlso": [
+            {
+              "text": "Mai multe detalii despre bazin și ce mai puteți vizita în Zltana găsiți aici...",
+              "textOnMouseOver": "Click aici...",
+              "link": "http://viziteazazlatna.ro/blog/locatii-agrement/zlatna-sport-center-2/#!prettyPhoto",
+              "openInNewTab": true
+            }
+          ],
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJ_QzUS1O4TkcR3bMlNuiXfbU&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&waypoints=place_id:ChIJu1jmZITSTkcRLr84q0udBIs|place_id:ChIJjSih12DITkcRIS4ADNOMR1s",
             "list": [
@@ -102,12 +104,14 @@
         {
           "text": "<b>Ștrandul Zlatna",
           "textContent": "'Zlatna Sport Center este un complex sportiv cu dotări la nivel internațional. Aici găsiți bazine înot (ștrand adulți și copii) în aer liber cu apă încalzita , Centrul SPA, teren tenis zgură și teren fotbal.' Prețurile de intrare sunt mai mult decât acceptabile.",
-          "seeAlso": {
-            "text": "Mai multe detalii despre bazin și ce mai puteți vizita în Zltana găsiți aici...",
-            "textOnMouseOver": "Click aici...",
-            "link": "http://viziteazazlatna.ro/blog/locatii-agrement/zlatna-sport-center-2/#!prettyPhoto",
-            "openInNewTab": true
-          },
+          "seeAlso": [
+            {
+              "text": "Mai multe detalii despre bazin și ce mai puteți vizita în Zltana găsiți aici...",
+              "textOnMouseOver": "Click aici...",
+              "link": "http://viziteazazlatna.ro/blog/locatii-agrement/zlatna-sport-center-2/#!prettyPhoto",
+              "openInNewTab": true
+            }
+          ],
           "images": [
             {
               "text": "<b>Bazinul de înot Zlatna</b>",

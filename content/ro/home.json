@@ -57,21 +57,25 @@
       "specificArticles": [
         {
           "textContent": "Deoarece ne dorim ca Roșia Montană să se dezvolte pe plan turistic, am renovat căsuța moștenită de la bunici și am deschis-o ca spațiu de cazare. Este o clădire de patrimoniu din Centrul Istoric ce a avut un rol important în viața comunității ca sediu de bancă, centru medical sau chiar cinematograf. Bunicii noștri, care lucrau în minerit, au cumpărat-o apoi și au folosit-o ca locuință.",
-          "seeAlso": {
-            "text": "Vedeți aici interiorul și posibilitățile de cazare de care dispunem...",
-            "textOnMouseOver": "Click aici...",
-            "link": "ro/accommodation",
-            "openInNewTab": false
-          }
+          "seeAlso": [
+            {
+              "text": "Vedeți aici interiorul și posibilitățile de cazare de care dispunem...",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation",
+              "openInNewTab": false
+            }
+          ]
         },
         {
           "textContent": "Roșia Montană este unică, cu o moștenire culturală valoroasă pe care merită să o vizitați. Descoperiți industria minieră de aur și argint care a început în Antichitate prin a vizita galeriile romane, șteampurile sau lacurile artificiale. Vedeți cum a evoluat prin carierele de suprafață, iazuri de decantare și utilaje. Descoperiți Centrul Istoric cu case de patrimoniu în diferite stiluri, școli cu predare în diverse limbi, biserici de diferite culte ridicate de diverse nații venite aici de-a lungul timpului pentru a extrage aur. Împrejurimile sunt de asemenea superbe, drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și alte obiective din Munții Apuseni.",
-          "seeAlso": {
-            "text": "Vedeți aici traseele de drumeție sau bicicletă pe care le-am pregătit pentru a descoperi toate aceste atracții...",
-            "textOnMouseOver": "Click aici...",
-            "link": "ro/activities/hiking",
-            "openInNewTab": false
-          }
+          "seeAlso": [
+            {
+              "text": "Vedeți aici traseele de drumeție sau bicicletă pe care le-am pregătit pentru a descoperi toate aceste atracții...",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/activities/hiking",
+              "openInNewTab": false
+            }
+          ]
         }
       ]
     },

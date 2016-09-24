@@ -32,12 +32,14 @@
         {
           "title": "",
           "textContent": "If you arrive in the area is really worth trying the Steam Train. One trip takes ~3h and it goes from 'Abrud' to 'Câmpeni'. The Steam Train station is in 'Abrud Sat' (~15min away by car from Casa Petri on asphalted road - see the map below). The narrow railway and the Steam Train were recently open for tourists.",
-          "seeAlso": {
-            "text": "More about the trail and the schedule here...",
-            "textOnMouseOver": "Click here...",
-            "link": "http://www.cfi.ro/index.php?p=1_15",
-            "openInNewTab": true
-          },
+          "seeAlso": [
+            {
+              "text": "More about the trail and the schedule here...",
+              "textOnMouseOver": "Click here...",
+              "link": "http://www.cfi.ro/index.php?p=1_15",
+              "openInNewTab": true
+            }
+          ],
           "images": [
             {
               "text": "<b>The steam train</b> - in the summer",

@@ -110,12 +110,14 @@
         {
           "title": "Abrud",
           "textContent": "From 'Abrud' you’re going to reach the unpaved road that will climb you to 'Selişte' and then Rosia Montana. If you have time you can quickly visit the Historic Center of Abrud (the Catholic Church area). A good piece, of the Transylvania history has been written here.",
-          "seeAlso": {
-            "text": "Find out more(RO)...",
-            "textOnMouseOver": "Click here...",
-            "link": "http://www.primaria-abrud.ro/index.php/ro/orasul/item/98-pagini-de-istorie",
-            "openInNewTab": true
-          },
+          "seeAlso": [
+            {
+              "text": "Find out more(RO)...",
+              "textOnMouseOver": "Click here...",
+              "link": "http://www.primaria-abrud.ro/index.php/ro/orasul/item/98-pagini-de-istorie",
+              "openInNewTab": true
+            }
+          ],
           "images": [
             {
               "text": "<b>Abrud</b> - the Historic Center - the Catholic Church",

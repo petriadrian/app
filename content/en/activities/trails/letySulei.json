@@ -31,12 +31,20 @@
       "specificArticles": [
         {
           "textContent": "The trail will take you to 'Văldoaia' Gallery, 'Tăul Mare' lake and then up to the Lety and Șulei peaks, to enjoy the view from here. To return back in the historic center you will have to go along the 'Corna' Lake and 'Brazi' Lake. The trail is on unpaved roads and is perfect for hiking or mountain bikes.",
-          "seeAlso": {
-            "text": "<br><i class='fa fa-download'></i> download <b>GPS data</b> <br><i class='fa fa-line-chart'></i> open <b>altitude profile</b>",
-            "textOnMouseOver": "Click here...",
-            "link": "https://www.bikemap.net/en/route/3784079-lety-si-sulei/#/z14/46.30146,23.13712/terrain",
-            "openInNewTab": true
-          },
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-download'></i> download <b>GPS data</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.bikemap.net/en/route/3784079-lety-si-sulei/#/z14/46.30146,23.13712/terrain",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-line-chart'></i> open <b>altitude profile</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.bikemap.net/en/route/3784079-lety-si-sulei/#/z14/46.30146,23.13712/terrain",
+              "openInNewTab": true
+            }
+          ],
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJf7dBe97MTkcRUOKwgwP6qHs|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJx0kJ88LMTkcRlbYRRD21As0|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs|place_id:ChIJnTJOLfDMTkcR6Bj-a0LHYdg|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q",
             "list": [

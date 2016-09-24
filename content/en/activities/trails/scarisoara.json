@@ -80,12 +80,14 @@
         {
           "title": "The road to Scărișoara",
           "textContent": "The road takes you along some traditional villages of 'Apuseni' Mountains in 'Moților' Land. Make as many stops as you like and enjoy the area, enjoy the smell of pine trees and the cold mountain water.",
-          "seeAlso": {
-            "text": "See here a video with the trail..",
-            "textOnMouseOver": "Click here...",
-            "link": "https://www.youtube.com/watch?v=2FEThHycyWo",
-            "openInNewTab": true
-          },
+          "seeAlso": [
+            {
+              "text": "See here a video with the trail..",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.youtube.com/watch?v=2FEThHycyWo",
+              "openInNewTab": true
+            }
+          ],
           "images": [
             {
               "text": "<b>The road to Scărișoara</b> - ",
@@ -107,12 +109,14 @@
         {
           "title": "The Scărișoara Glacier",
           "textContent": "'This is the first cave in Romania who was declared a protected natural monument (in 1938). The cave has 700m length and the most important fact is that it hosts the largest underground block of ice (glacier) in the world.'",
-          "seeAlso": {
-            "text": "Text source and more details can be found here...",
-            "textOnMouseOver": "Click here...",
-            "link": "http://www.ghiduri-turistice.info/ghid-turistic-turist-in-romania--pestera-ghetarul-de-la-scarisoara--galerie-foto",
-            "openInNewTab": true
-          },
+          "seeAlso": [
+            {
+              "text": "Text source and more details can be found here...",
+              "textOnMouseOver": "Click here...",
+              "link": "http://www.ghiduri-turistice.info/ghid-turistic-turist-in-romania--pestera-ghetarul-de-la-scarisoara--galerie-foto",
+              "openInNewTab": true
+            }
+          ],
           "images": [
             {
               "text": "<b>The entrance in the Scărișoara Glacier</b> - ",

@@ -108,12 +108,14 @@
           "textContent": "<b>Traseul protestelor miniere</b> - trecem prin zonele unde au avut loc proteste pentru sau împotriva proiectului de minerit propus de firma canadiană în 2007 și care dorea să transforme întreg satul într-o imensă carieră de aur. Vă povestim ce s-a întâmplat și care ar fi fost efectele implementării acestui proiect în zonă. La final vom urmări la Casa Petri câteva filmulețe cu protestele masive de stradă din 2014, organizate în țară și în străinătate, împotriva acestui proiect."
         },
         {
-          "seeAlso": {
-            "text": "Rezervările pentru aceste trasee ghidate se fac aici...",
-            "textOnMouseOver": "Click aici...",
-            "link": "ro/accommodation#reservations",
-            "openInNewTab": false
-          }
+          "seeAlso": [
+            {
+              "text": "Rezervările pentru aceste trasee ghidate se fac aici...",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#reservations",
+              "openInNewTab": false
+            }
+          ]
         }
       ]
     },
