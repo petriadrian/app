@@ -146,9 +146,19 @@
               "fullSizeUrl": "img/activities/trails/attractions/copperPit/fullSize/5.jpg"
             },
             {
-              "text": "Geamăna seen right after you pass the Cooper Open Pit.",
+              "text": "Geamăna seen from the Muntari village.",
               "thumbnailUrl": "img/activities/trails/attractions/lakes/geamana/thumbnail/6.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/lakes/geamana/fullSize/6.jpg"
+            },
+            {
+              "text": "The road to Poiana village.",
+              "thumbnailUrl": "img/activities/trails/attractions/muntariPoiana/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/muntariPoiana/fullSize/3.jpg"
+            },
+            {
+              "text": "There might be portions with mud (if it rained before).",
+              "thumbnailUrl": "img/activities/trails/attractions/muntariPoiana/thumbnail/5.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/muntariPoiana/fullSize/5.jpg"
             },
             {
               "text": "On the road to Geamăna.",
@@ -161,7 +171,7 @@
               "fullSizeUrl": "img/activities/trails/attractions/lakes/geamana/fullSize/4.jpg"
             },
             {
-              "text": "Geamăna",
+              "text": "Geamăna - guided bike trail with a group from Cluj",
               "thumbnailUrl": "img/activities/trails/attractions/lakes/geamana/thumbnail/3.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/lakes/geamana/fullSize/3.jpg"
             },

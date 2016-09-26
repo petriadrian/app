@@ -442,12 +442,12 @@
     "textContent": "The road will lead you through the Muntari and Poian' villages, 2 places where the time seems like it stopped.",
     "images": [
       {
-        "text": "<b>The road along the Muntari village</b> - ",
+        "text": "The road along the Muntari village",
         "thumbnailUrl": "img/activities/trails/attractions/muntariPoiana/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/muntariPoiana/fullSize/1.jpg"
       },
       {
-        "text": "<b>The road along the Poiana village</b> - ",
+        "text": "The road along the Poiana village",
         "thumbnailUrl": "img/activities/trails/attractions/muntariPoiana/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/muntariPoiana/fullSize/2.jpg"
       }

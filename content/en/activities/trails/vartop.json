@@ -1,0 +1,165 @@
+{
+  "presentation": {
+    "title": "Vârtop",
+    "headline": "Traseul cu zmeuriș - Vârtop",
+    "description": "Descoperă traseul prin zona cu zmeuriș, satele dinspre apus (Bărbulești - Vârtop - Piatra Albă) și izlazul cu pășuni. <i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~20km</b>",
+    "fullWidthImg": "img/activities/trails/vartop/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/trails/vartop/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/activities/trails/vartop",
+    "textOnMouseOver": "Vezi traseul...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Traseul cu zmeuriș - Vârtop",
+    "description": "Descoperă traseul de biciletă prin zona cu zmeuriș, satele dinspre apus (Bărbulești - Vârtop - Piatra Alba), zona Orlea și izlazul cu pășuni. Vezi traseul și descoperă și alte trasee de drumeție sau bicicletă din Roșia Montană. Rezervă cazare, biciclete, ghizi, campare.",
+    "displayOnShareImg": "img/activities/trails/vartop/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Traseu",
+      "sectionId": "map",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Pornim de la Casa Petri spre Tăul Țarinii și Vârful Rotundu. După ce admirăm priveliștea asupra Roșiei Montane coborâm spre satul Gârda-Bărbulești și Vârtop. La sfârșitul verii, pe acestă porțiune, se găsesc zone bogate cu zmeură, fragi și mure așa că uitați-vă cu atenție pe marginea drumului. Din Vârtop coborâți spre Centrul regional din Carpeniș iar apoi urcați spre Casa Petri pe la Piatra Albă, izlazul cu Pășuni și mai faceți o oprire la Sculpturile de Calcar din zona Orlea. Traseul se face pe un drum de țară, neasfaltat și este indicat pentru drumeții sau biciclete de munte.",
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-info-circle'></i> vezi varianta mai scurtă a traseului (~11km)",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.google.com/maps/dir/Historical+center,+nr.+331A,+Casa+Petri,+Ro%C8%99ia+Montan%C4%83+517615,+Romania/T%C4%83ul+%C8%9Aarinii,+Romania/G%C3%A2rda-B%C4%83rbule%C8%99ti,+Alba+County,+Romania/B%C4%83lmo%C8%99e%C8%99ti,+Alba+County,+Romania/Limestone+Sculptures,+DC147,+Ro%C8%99ia+Montan%C4%83,+Romania/Casa+Petri,+Ro%C8%99ia+Montan%C4%83,+Romania/@46.3193283,23.0778837,13.52z/data=!4m38!4m37!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!1m5!1m1!1s0x474ecd247983fa01:0x2a7cbd6966533f77!2m2!1d23.1239666!2d46.3150817!1m5!1m1!1s0x474ecd363313fb29:0xa9afba825a545f5a!2m2!1d23.1175904!2d46.3254468!1m5!1m1!1s0x474ecd14e876a36f:0x84ad3de12f376330!2m2!1d23.104802!2d46.3104798!1m5!1m1!1s0x474ecd18f7143d2b:0x3c28cea5fbc21b20!2m2!1d23.1183431!2d46.3089531!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!3e2?hl=en-US",
+              "openInNewTab": true
+            }
+          ],
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJKfsTMzbNTkcRWl9UWoK6r6k|place_id:ChIJ2f1ZSV_NTkcRaZndbrN1yXE|place_id:ChIJ022Lg5DSTkcRlX7VPdssTgo|place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw",
+            "list": [
+              {
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~20km"
+              },
+              {
+                "textOnMouseOver": "durata pe jos",
+                "text": "<i class='fa fa-blind'></i> ~6h"
+              },
+              {
+                "textOnMouseOver": "durata cu bicicleta",
+                "text": "<i class='fa fa-bicycle'></i> ~4h"
+              },
+              {
+                "textOnMouseOver": "dificultate",
+                "text": "<i class='fa fa-line-chart'></i> mediu"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "guidesAndBikes",
+          "ids": [
+            {
+              "id": "details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-star'></i> Atracții",
+      "sectionId": "attractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "attractions",
+          "ids": [
+            {
+              "id": "tariniLake"
+            },
+            {
+              "id": "rotunduPeak"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-camera'></i> Imagini",
+      "sectionId": "pictures",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai multe imagini de pe traseu.",
+          "images": [
+            {
+              "text": "Tăul Țarinii.",
+              "thumbnailUrl": "img/activities/trails/attractions/lakes/tariniLake/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/lakes/tariniLake/fullSize/3.jpg"
+            },
+            {
+              "text": "La intrarea în pădurea de brazi - zona cu zmeuriș.",
+              "thumbnailUrl": "img/activities/trails/attractions/rotunduPeak/thumbnail/4.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/rotunduPeak/fullSize/4.jpg"
+            },
+            {
+              "text": "Vârful Rotundu.",
+              "thumbnailUrl": "img/activities/trails/attractions/rotunduPeak/thumbnail/6.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/rotunduPeak/fullSize/6.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-child'></i> Gata traseul? Îți recomandam și:",
+      "sectionId": "nextTrail",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "ro/activities/trails/copperMineRoad"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/activities/hiking"
+        },
+        {
+          "page": "ro/activities/cycling"
+        }
+      ]
+    }
+  ]
+}
