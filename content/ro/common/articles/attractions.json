@@ -67,9 +67,9 @@
     ]
   },
   {
-    "id": "panoramicBench",
-    "title": "Băncuța Panoramică(Berg)",
-    "textContent": "Cel mai romantic loc din Roșia Montană este cu siguranță 'Băncuța Panoramică'. Este la 10 minute distanță de Casa Petri, iar drumul până aici vă va purta prin fostul cartier nemțesc 'Berg'. Vă recomandăm să vă reîntoarceţi şi noaptea pentru a vă bucura de cerul înstelat şi de liniştea satului.",
+    "id": "berg",
+    "title": "Berg",
+    "textContent": "Cel mai romantic loc din Roșia Montană este 'Băncuța Panoramică' iar drumul până aici vă va purta prin fostul cartier nemțesc 'Berg'.",
     "images": [
       {
         "text": "<b>Școala Germană și Casa Francisc</b> - clădiri de patrimoniu ale cartierului 'Berg'",
@@ -77,7 +77,7 @@
         "fullSizeUrl": "img/activities/trails/attractions/panoramicBench/fullSize/1.jpg"
       },
       {
-        "text": "<b>Băncuța Panoramică</b> - belvedere spre masivul Cârnic care adăpostește peste 150km de galerii romane, antice, unice in lume.",
+        "text": "<b>Băncuța Panoramică</b> - vă recomandăm să vă reîntoarceţi şi noaptea aici pentru a vă bucura de cerul înstelat şi de liniştea satului (este la ~10 minute distanță de Casa Petri).",
         "thumbnailUrl": "img/activities/trails/attractions/panoramicBench/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/panoramicBench/fullSize/2.jpg"
       }

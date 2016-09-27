@@ -92,7 +92,7 @@
               "id": "szekeyHouse"
             },
             {
-              "id": "panoramicBench"
+              "id": "berg"
             }
           ]
         }
@@ -121,9 +121,34 @@
               "fullSizeUrl": "img/activities/trails/attractions/sicilianStreet/fullSize/3.jpg"
             },
             {
+              "text": "Unitarian Church",
+              "thumbnailUrl": "img/activities/trails/attractions/churches/unitarianChurch/thumbnail/3.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/churches/unitarianChurch/fullSize/3.jpg"
+            },
+            {
+              "text": "The goldsmith houses - heritage buildings.",
+              "thumbnailUrl": "img/activities/trails/attractions/sicilianStreet/thumbnail/5.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/sicilianStreet/fullSize/5.jpg"
+            },
+            {
+              "text": "The Old Casino building.",
+              "thumbnailUrl": "img/activities/trails/attractions/sicilianStreet/thumbnail/6.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/sicilianStreet/fullSize/6.jpg"
+            },
+            {
+              "text": "The mining sign - on the facade of some heritage buildings from the historical center.",
+              "thumbnailUrl": "img/activities/trails/attractions/sicilianStreet/thumbnail/8.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/sicilianStreet/fullSize/8.jpg"
+            },
+            {
               "text": "The historic center churches.",
               "thumbnailUrl": "img/activities/trails/attractions/sicilianStreet/thumbnail/4.jpg",
               "fullSizeUrl": "img/activities/trails/attractions/sicilianStreet/fullSize/4.jpg"
+            },
+            {
+              "text": "Rosia Montana.",
+              "thumbnailUrl": "img/activities/trails/attractions/sicilianStreet/thumbnail/7.jpg",
+              "fullSizeUrl": "img/activities/trails/attractions/sicilianStreet/fullSize/7.jpg"
             },
             {
               "text": "Platoul Cârnic",

@@ -67,17 +67,17 @@
     ]
   },
   {
-    "id": "panoramicBench",
-    "title": "The Panoramic Bench(Berg)",
-    "textContent": "The Panoramic Bench is definitely the most romantic spot in Roșia Montană. It’s 10 minutes away from Casa Petri so we recommend to visit it at night as well, to enjoy the sky full of stars and the quiet of the village. On your way to the bench you will pass through the old German neighborhood ‘Berg’.",
+    "id": "berg",
+    "title": "Berg",
+    "textContent": "The Panoramic Bench is definitely the most romantic spot from Roșia Montană and to reach it you will pass through the old german neighborhood 'Berg' that has some interesting heritage buildings.",
     "images": [
       {
-        "text": "<b>The German School & Francisc House</b> - heritage buildings in ‘Berg’ neighborhood",
+        "text": "<b>The German School & Francisc House</b> - heritage buildings from ‘Berg’ neighborhood",
         "thumbnailUrl": "img/activities/trails/attractions/panoramicBench/thumbnail/1.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/panoramicBench/fullSize/1.jpg"
       },
       {
-        "text": "<b>The Panoramic Bench</b> - view towards the Cârnic Mountains, that holds over 150 km of roman galleries, unique in the world ",
+        "text": "<b>The Panoramic Bench</b> -  It’s 10 minutes away from Casa Petri so we recommend to visit it at night as well, to enjoy the sky full of stars and the quiet of the village.",
         "thumbnailUrl": "img/activities/trails/attractions/panoramicBench/thumbnail/2.jpg",
         "fullSizeUrl": "img/activities/trails/attractions/panoramicBench/fullSize/2.jpg"
       }
