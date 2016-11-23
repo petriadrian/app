@@ -12,9 +12,11 @@
 
             <div class="carousel-caption">
                 <h3 ng-bind-html="otherPageContent.presentation.headline  | trustHtml"></h3>
-
                 <p class="hidden-xs hidden-sm"
                    ng-bind-html="otherPageContent.presentation.description | trustHtml">
+                </p>
+                <p ng-if="otherPageContent.presentation.descriptionTitle" class="hidden-xs hidden-sm">
+                    <span ng-bind-html="otherPageContent.presentation.descriptionTitle | trustHtml"></span>
                 </p>
             </div>
         </a>

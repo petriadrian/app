@@ -1,35 +1,43 @@
 {
   "logo": {
     "text": "casa petri",
-    "displayOnShareImg": "img/common/logo.png",
+    "imgUrlBigColor": "img/common/logo.png",
+    "imgUrlSmallWhite": "img/common/logo_white.png",
     "url": {
       "link": "en/home",
-      "textOnMouseOver": "deschide pagina principală",
+      "textOnMouseOver": "return to homepage..."
+    }
+  },
+  "topText": {
+    "text": " Discover the heritage and the nature of <b>Roșia Montană</b>",
+    "url": {
+      "link": "en/home",
+      "textOnMouseOver": "see more...",
       "openInNewTab": false
     }
   },
-  "leftButtons": [
+  "regularButtons": [
     {
       "text": "<i class='fa fa-lg fa-map-signs'></i> hike",
       "url": {
-        "link": "en/activities/hiking",
-        "textOnMouseOver": "hiking trails",
+        "link": "en/trails/summary",
+        "textOnMouseOver": "trails",
         "openInNewTab": false
       }
     },
     {
       "text": "<i class='fa fa-lg fa-bicycle'></i> bike",
       "url": {
-        "link": "en/activities/cycling",
-        "textOnMouseOver": "cycling trails",
+        "link": "en/trails/summary",
+        "textOnMouseOver": "trails",
         "openInNewTab": false
       }
     },
     {
-      "text": "<i class='fa fa-lg fa-book'></i> relax",
+      "text": "<i class='fa fa-lg fa-book'></i> read",
       "url": {
         "link": "en/relaxing",
-        "textOnMouseOver": "read & relax",
+        "textOnMouseOver": "see our library",
         "openInNewTab": false
       }
     },
@@ -37,12 +45,22 @@
       "text": "<i class='fa fa-lg fa-bed'></i> sleep",
       "url": {
         "link": "en/accommodation",
-        "textOnMouseOver": "accommodation - rooms",
+        "textOnMouseOver": "see the inside and the accommodation options",
         "openInNewTab": false
       }
     }
   ],
-  "rightButtons": [
+  "importantButtons": [
+    {
+      "text": "packages",
+      "url": {
+        "link": "",
+        "textOnMouseOver": "guided trails + accommodation + activities",
+        "openInNewTab": false
+      }
+    }
+  ],
+  "iconButtons": [
     {
       "text": "<i class='fa fa-lg fa-facebook'></i>",
       "url": {

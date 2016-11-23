@@ -240,9 +240,11 @@ app.directive('sectionForm', function ($timeout) {
     $(document).ready(function () {
         $(window).scroll(function () {
             if ($(this).scrollTop() > 300) {
-                $("#headlineMenu").addClass("headlineMenuShowOnScrollDown");
+                $("#stickHeaderBarOnTheTop").fadeIn(200);
+                $("#stickPageIntroMenuOnTheTop").addClass("showPageIntroBar").fadeIn();
             } else {
-                $("#headlineMenu").removeClass("headlineMenuShowOnScrollDown");
+                $("#stickHeaderBarOnTheTop").fadeOut();
+                $("#stickPageIntroMenuOnTheTop").removeClass("showPageIntroBar");
             }
         });
     });

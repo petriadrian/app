@@ -26,22 +26,22 @@
         "timeInterval": "7000",
         "slides": [
           {
-            "page": "en/activities/trails/romanGalleries"
+            "page": "en/trails/romanGalleries"
           },
           {
-            "page": "en/activities/trails/historicCenter"
+            "page": "en/trails/historicCenter"
           },
           {
-            "page": "en/activities/trails/tarina"
+            "page": "en/trails/tarina"
           },
           {
-            "page": "en/activities/trails/geamana"
+            "page": "en/trails/geamana"
           },
           {
-            "page": "en/activities/trails/carnic"
+            "page": "en/trails/carnic"
           },
           {
-            "page": "en/activities/trails/letySulei"
+            "page": "en/trails/letySulei"
           }
         ]
       }
@@ -73,12 +73,15 @@
             {
               "text": "To discover all this, we prepared hiking or cycling trails to the main attractions, that can be found here...",
               "textOnMouseOver": "Click here...",
-              "link": "en/activities/hiking",
+              "link": "en/trails/summary",
               "openInNewTab": false
             }
           ]
         }
       ]
+    },
+    {
+      "type": "socialButtons"
     },
     {
       "type": "title",
@@ -91,7 +94,7 @@
       "text": "Discover the attractions of our area through the following hiking or biking trails.",
       "detailBoxes": [
         {
-          "page": "en/activities/hiking"
+          "page": "en/trails/summary"
         },
         {
           "page": "en/activities/cycling"
@@ -101,7 +104,7 @@
     {
       "type": "linkToOtherPages",
       "banner": {
-        "page": "en/activities/trails/topAttractions"
+        "page": "en/trails/topAttractions"
       }
     },
     {
@@ -146,7 +149,7 @@
           "page": "en/events/steamTrain"
         },
         {
-          "page": "en/activities/trails/daffodilMeadow"
+          "page": "en/trails/daffodilMeadow"
         },
         {
           "page": "en/events/firstMai"

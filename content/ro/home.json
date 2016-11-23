@@ -26,22 +26,22 @@
         "timeInterval": "7000",
         "slides": [
           {
-            "page": "ro/activities/trails/romanGalleries"
+            "page": "ro/trails/romanGalleries"
           },
           {
-            "page": "ro/activities/trails/historicCenter"
+            "page": "ro/trails/historicCenter"
           },
           {
-            "page": "ro/activities/trails/tarina"
+            "page": "ro/trails/tarina"
           },
           {
-            "page": "ro/activities/trails/geamana"
+            "page": "ro/trails/geamana"
           },
           {
-            "page": "ro/activities/trails/carnic"
+            "page": "ro/trails/carnic"
           },
           {
-            "page": "ro/activities/trails/letySulei"
+            "page": "ro/trails/letySulei"
           }
         ]
       }
@@ -72,12 +72,15 @@
             {
               "text": "Vedeți aici traseele de drumeție sau bicicletă pe care le-am pregătit pentru a descoperi toate aceste atracții...",
               "textOnMouseOver": "Click aici...",
-              "link": "ro/activities/hiking",
+              "link": "ro/trails/summary",
               "openInNewTab": false
             }
           ]
         }
       ]
+    },
+    {
+      "type": "socialButtons"
     },
     {
       "type": "title",
@@ -90,7 +93,7 @@
       "text": "Descoperă atracțiile zonei noastre prin următoarele trasee de drumeție sau ciclism.",
       "detailBoxes": [
         {
-          "page": "ro/activities/hiking"
+          "page": "ro/trails/summary"
         },
         {
           "page": "ro/activities/cycling"
@@ -100,7 +103,7 @@
     {
       "type": "linkToOtherPages",
       "banner": {
-        "page": "ro/activities/trails/topAttractions"
+        "page": "ro/trails/topAttractions"
       }
     },
     {
@@ -156,7 +159,7 @@
           "page": "ro/events/steamTrain"
         },
         {
-          "page": "ro/activities/trails/daffodilMeadow"
+          "page": "ro/trails/daffodilMeadow"
         },
         {
           "page": "ro/events/firstMai"

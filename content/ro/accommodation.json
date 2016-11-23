@@ -213,16 +213,16 @@
             {
               "selectOptions": [
                 {
-                  "text": "o cameră de o persoană - 59lei/noapte"
+                  "text": "o cameră de o persoană - 69lei/noapte"
                 },
                 {
-                  "text": "o cameră de 2 persoane - 89lei/noapte"
+                  "text": "o cameră de 2 persoane - 99lei/noapte"
                 },
                 {
-                  "text": "o cameră de 3 persoane - 139lei/noapte"
+                  "text": "o cameră de 3 persoane - 149lei/noapte"
                 },
                 {
-                  "text": "o cameră de 4 persoane - 159lei/noapte"
+                  "text": "o cameră de 4 persoane - 179lei/noapte"
                 }
               ]
             }
@@ -325,6 +325,9 @@
       ]
     },
     {
+      "type": "socialButtons"
+    },
+    {
       "type": "linkToOtherPages",
       "banner": {
         "page": "ro/relaxing"
@@ -343,7 +346,7 @@
           "page": "ro/review"
         },
         {
-          "page": "ro/activities/hiking"
+          "page": "ro/trails/summary"
         },
         {
           "page": "ro/activities/cycling"

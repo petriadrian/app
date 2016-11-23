@@ -8,117 +8,12 @@
   },
   "url": {
     "textOnMouseOver": "Vezi mai mult...",
-    "link": "ro/activities/cycling",
+    "link": "ro/trails/summary",
     "openInNewTab": false
   },
   "metaData": {
     "title": "Trasee de bicicletă în Roșia Montană",
     "description": "Trasee de MTB pe drumuri de țară printre culmi montane, lacuri și foste zone miniere sau trasee pe asfalt, de cursieră, spre obiectivele turistice din zonă. Rezervări biciclete și tururi ghidate pe bicicletă pentru a afla mai multe despre Roșia Montana, Munții Apuseni, Transilvania, Romania.",
     "displayOnShareImg": "img/activities/cycling/presentation/displayOnShareImg.jpg"
-  },
-  "config": {
-    "showPageHeadline": true
-  },
-  "sections": [
-    {
-      "type": "title",
-      "text": "<i class='fa fa-info-circle'></i> Detalii",
-      "sectionId": "details",
-      "addLinkInPageHeadline": false
-    },
-    {
-      "type": "articles",
-      "specificArticles": [
-        {
-          "title": "",
-          "textContent": "Îți propunem câteva trasee din zonă realizate în funcție de condiția ta fizică și tipul de bicicletă preferat. Cele de MTB te vor plimba pe drumuri de țară, în jurul localității și în satele alăturate spre diverse atracții turistice. Traseele pe asfalt - cursieră/auto/moto, sunt realizate pe drumuri nationale, spre obiectivele din zonă.  Fiecare traseu are <b>hărți online</b>, unele au și date <b>GPS</b>, astfel că poți face zoom, pot fi văzute în modul satelit sau hartă sau pot fi accesate de pe orice telefon sau tabletă în timpul drumeției."
-        }
-      ]
-    },
-    {
-      "type": "articles",
-      "commonArticles": [
-        {
-          "category": "guidesAndBikes",
-          "ids": [
-            {
-              "id": "details"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Trasee MTB",
-      "sectionId": "mtbTrails",
-      "addLinkInPageHeadline": true
-    },
-    {
-      "type": "linkToOtherPages",
-      "detailBoxes": [
-        {
-          "page": "ro/activities/trails/carnic"
-        },
-        {
-          "page": "ro/activities/trails/fourLakes"
-        },
-        {
-          "page": "ro/activities/trails/vartop"
-        },
-        {
-          "page": "ro/activities/trails/detunata"
-        },
-        {
-          "page": "ro/activities/trails/copperMineRoad"
-        },
-        {
-          "page": "ro/activities/trails/geamana"
-        }
-      ]
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Trasee pe asfalt",
-      "sectionId": "asphaltTrails",
-      "addLinkInPageHeadline": true
-    },
-    {
-      "type": "linkToOtherPages",
-      "detailBoxes": [
-        {
-          "page": "ro/activities/trails/vulcan"
-        },
-        {
-          "page": "ro/activities/trails/daffodilMeadow"
-        },
-        {
-          "page": "ro/activities/trails/zlatnaPool"
-        },
-        {
-          "page": "ro/activities/trails/scarisoara"
-        }
-      ]
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-coffee'></i> Vezi și",
-      "sectionId": "accommodation",
-      "addLinkInPageHeadline": false
-    },
-    {
-      "type": "linkToOtherPages",
-      "detailBoxes": [
-        {
-          "page": "ro/activities/hiking"
-        },
-        {
-          "page": "ro/accommodation"
-        },
-        {
-          "page": "ro/relaxing"
-        }
-      ]
-    }
-  ]
+  }
 }

@@ -8,117 +8,12 @@
   },
   "url": {
     "textOnMouseOver": "See more...",
-    "link": "en/activities/cycling",
+    "link": "en/trails/summary",
     "openInNewTab": false
   },
   "metaData": {
     "title": "Bike trails in Rosia Montana",
     "description": "MTB trails on unpaved roads along mountain peaks, lakes, villages or unused mining areas. Asphalted trails for touring bikes, towards touristic sights. Rent bikes or guided tours on bikes to find out more about Rosia Montana, Apuseni Mountains, Transylvania, Romania.",
     "displayOnShareImg": "img/activities/cycling/presentation/displayOnShareImg.jpg"
-  },
-  "config": {
-    "showPageHeadline": true
-  },
-  "sections": [
-    {
-      "type": "title",
-      "text": "",
-      "sectionId": "details",
-      "addLinkInPageHeadline": false
-    },
-    {
-      "type": "articles",
-      "specificArticles": [
-        {
-          "title": "",
-          "textContent": "Test your bike brakes, inflate the tires and bring it to Rosia Montana, or you can rent one from here. The MTB trails will take you on unpaved roads, around the village and surroundings towards various attractions. The paved trails - for touring bikes, motorcycles or cars - are mapped on national roads, towards the attractions from our area. Each trail has <b>online maps</b>, some has <b>GPS</b> data, so you can zoom in, see them in satellite mode or access them from any device during your journey."
-        }
-      ]
-    },
-    {
-      "type": "articles",
-      "commonArticles": [
-        {
-          "category": "guidesAndBikes",
-          "ids": [
-            {
-              "id": "details"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> MTB Trails",
-      "sectionId": "mtbTrails",
-      "addLinkInPageHeadline": true
-    },
-    {
-      "type": "linkToOtherPages",
-      "detailBoxes": [
-        {
-          "page": "en/activities/trails/carnic"
-        },
-        {
-          "page": "en/activities/trails/fourLakes"
-        },
-        {
-          "page": "en/activities/trails/vartop"
-        },
-        {
-          "page": "en/activities/trails/detunata"
-        },
-        {
-          "page": "en/activities/trails/copperMineRoad"
-        },
-        {
-          "page": "en/activities/trails/geamana"
-        }
-      ]
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Asphalted trails",
-      "sectionId": "asphaltTrails",
-      "addLinkInPageHeadline": true
-    },
-    {
-      "type": "linkToOtherPages",
-      "detailBoxes": [
-        {
-          "page": "en/activities/trails/vulcan"
-        },
-        {
-          "page": "en/activities/trails/daffodilMeadow"
-        },
-        {
-          "page": "en/activities/trails/zlatnaPool"
-        },
-        {
-          "page": "en/activities/trails/scarisoara"
-        }
-      ]
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-coffee'></i> See also",
-      "sectionId": "accommodation",
-      "addLinkInPageHeadline": false
-    },
-    {
-      "type": "linkToOtherPages",
-      "detailBoxes": [
-        {
-          "page": "en/activities/hiking"
-        },
-        {
-          "page": "en/accommodation"
-        },
-        {
-          "page": "en/relaxing"
-        }
-      ]
-    }
-  ]
+  }
 }

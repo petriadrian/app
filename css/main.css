@@ -6,6 +6,10 @@ a, u {
     cursor: pointer;
 }
 
+p {
+    margin: 0px;
+}
+
 h1 {
     font-size: inherit;
 }
@@ -15,7 +19,6 @@ textarea {
 }
 
 body {
-    padding-top: 60px;
     color: #142522;
     font-size: 14px;
     text-align: center;
@@ -25,41 +28,66 @@ body {
     text-align: left;
 }
 
+.headerTopBar,
+.headerTopBar a {
+    color: #157f15;
+}
+
 .navbar-default {
-    background-color: #142522;
+    background-color: #157f15;
     width: 100%;
 }
 
+.navbar-collapse {
+    overflow: hidden;
+}
+
 .navbar-header img {
-    width: 140px;
-    height: 60px;
+    height: 50px;
 }
 
 .nav > li.hideElement {
     display: none;
 }
 
-.navbar-fixed-top {
-    min-height: 60px;
-}
-
 .navbar-nav > li > a {
     padding-top: 0px;
     padding-bottom: 0px;
+    line-height: 50px;
+}
+
+.headerTopBar .navbar-nav li  a {
     line-height: 60px;
 }
 
-.headlineMenuShowOnScrollDown {
-    position: fixed;
-    top: 60px;
-    left: 0px;
-    width: 100%;
-    background-color: rgba(255, 255, 255, 0.9);
-    z-index: 999;
+.headerTopBar .navbar-nav li  a:HOVER,
+.headerTopBar .btn-primary:HOVER {
+    color: #157f15;
+    background-color: rgba(19, 162, 19, 0.13);
 }
 
 .navbar-collapse {
     z-index: 9999;
+    padding: 0px;
+}
+
+.navbar-right {
+    margin: 0px;
+}
+
+.showPageIntroBar {
+    position: fixed;
+    left: 0px;
+    top: 50px;
+    width: 100%;
+    z-index: 998;
+    background-color: rgba(255, 255, 255, 0.85);
+}
+
+#stickHeaderBarOnTheTop {
+    position: fixed;
+    top: 0px;
+    z-index: 999;
 }
 
 @media (max-width: 767px) {
@@ -212,6 +240,22 @@ body {
     margin: 10px 0px;
 }
 
+.socialButtons {
+    margin: 20px 0px 0px 0px;
+    padding: 20px 0px 0px 0px;
+    border-top: 1px solid #B9B9B9;
+}
+
+.socialButtons .buttonItem {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0px 5px;
+}
+
+.socialButtons .g-plusone {
+    width: 50px;
+}
+
 .banner {
     padding: 1%;
     margin: 20px 0px 0px 0px;
@@ -228,6 +272,7 @@ body {
 }
 
 .banner img {
+    margin-top: 10px;
     width: 100%;
 }
 
@@ -255,13 +300,19 @@ footer .row section {
     width: 100%;
     background-color: transparent;
     color: white;
+    border-radius: 3px;
     padding: 3px 12px;
 }
 
 .footerFeedback button,
 .footerFeedback button:HOVER,
 .footerFeedback button:FOCUS {
-    border: 1px solid white;
+    border: 1px solid #cccccc;
+}
+
+.footerFeedback button:HOVER,
+.footerFeedback button:FOCUS {
+    background-color: #157f15;
 }
 
 .topBottomMargins {
@@ -278,10 +329,6 @@ footer .row section {
 
 .footerFeedback form {
     width: 100%;
-}
-
-.contactCard p {
-    margin: 0px;
 }
 
 footer a {
@@ -351,8 +398,11 @@ footer a:HOVER {
 
 .pageIntro .btn-primary {
     font-size: 0.4em;
-    text-shadow: none;
-    color: white;
+}
+
+.showPageIntroBar .btn-primary {
+    margin-top: -10px;
+    font-size: 0.36em;
 }
 
 .areaToBeHided {
@@ -398,7 +448,7 @@ footer a:HOVER {
     font-size: 1.1em;
 }
 
-.trailMap {
+.iframe {
     width: 100%;
     height: 500px;
 }
@@ -426,17 +476,39 @@ form {
     font-size: 1.4em;
 }
 
+.lookLikeLink {
+    color: #3071a9
+}
+
 .input-group-addon {
     background-color: transparent;
     color: inherit;
 }
 
-.btn-primary,
-.navbar-default .navbar-nav > li > a {
-    font-size: 1.1em;
-    background-color: #142522;
-    border: 0px;
+.btn-primary {
+    text-shadow: none;
     color: white;
+    border: 0px;
+    background-color: #157f15;
+    border-radius: 0px;
+}
+
+.btn-primary:HOVER,
+.nav > li > a:HOVER,
+.navbar-default .navbar-nav > li > a:HOVER {
+    cursor: pointer;
+    background-color: #142522;
+    color: white;
+}
+
+header .btn-primary {
+    background-color: transparent;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    border: 0px;
+    background-color: transparent;
 }
 
 .defaultClickStyle:HOVER,
@@ -447,35 +519,14 @@ form {
     text-decoration: none;
 }
 
-.lookLikeLink {
-    color: #3071a9
-}
-
-.btn-primary:ACTIVE,
+.navbar-default .navbar-nav > li > a:FOCUS,
+.navbar-default .navbar-nav > li > a:ACTIVE,
 .btn-primary:FOCUS,
-.defaultClickStyle:ACTIVE {
-    background-color: #157f15;
-}
-
+.btn-primary:ACTIVE,
+.defaultClickStyle:ACTIVE,
 .defaultClickStyle:FOCUS {
-    outline: none;
-}
-
-.navbar-default .navbar-nav > li > a:focus,
-.navbar-default .navbar-nav > li > a:active,
-.btn-primary:FOCUS {
-    color: white;
-    background-color: #142522;
     outline: 0px;
     text-decoration: none;
-}
-
-.btn-primary:HOVER,
-.navbar-default .navbar-nav > li > a:hover {
-    color: white;
-    cursor: pointer;
-    background-color: #157f15;
-    border-color: white;
 }
 
 .alert {
@@ -492,6 +543,11 @@ form {
     .pageIntro {
         font-size: 2.2em;
         min-height: 230px;
+    }
+
+    .showPageIntroBar .btn-primary {
+        margin-top: -4px;
+        font-size: 0.42em;
     }
 
     .pageIntro .introContent {
@@ -515,6 +571,11 @@ form {
     .pageIntro {
         font-size: 2.5em;
         min-height: 250px;
+    }
+
+    .showPageIntroBar .btn-primary {
+        margin-top: -6px;
+        font-size: 0.4em;
     }
 
     .banner img,

@@ -191,6 +191,9 @@
       ]
     },
     {
+      "type": "socialButtons"
+    },
+    {
       "type": "title",
       "text": "Why are hay meadows important?",
       "sectionId": "whyImportant",

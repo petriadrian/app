@@ -6,13 +6,14 @@
    target="{{otherPageContent.url.openInNewTab ? '_blank' : '_self'}}">
     <h1 ng-bind-html="otherPageContent.presentation.headline | trustHtml"></h1>
 
-    <p class="hidden-xs lead"
+    <p class="hidden-xs"
        ng-bind-html="otherPageContent.presentation.description | trustHtml"></p>
 
-    <div class="">
-        <img alt="{{otherPageContent.presentation.title}}"
-             ng-src="{{otherPageContent.presentation.fullWidthImg}}">
-    </div>
+    <p ng-if="otherPageContent.presentation.descriptionTitle" class="hidden-xs"
+       ng-bind-html="otherPageContent.presentation.descriptionTitle | trustHtml"></p>
+
+    <img alt="{{otherPageContent.presentation.title}}"
+         ng-src="{{otherPageContent.presentation.fullWidthImg}}">
 
 </a>
 <div style="clear:both"></div>

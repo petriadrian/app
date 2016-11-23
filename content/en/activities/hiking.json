@@ -118,6 +118,9 @@
       ]
     },
     {
+      "type": "socialButtons"
+    },
+    {
       "type": "title",
       "text": "",
       "sectionId": "justToDisplayALine",

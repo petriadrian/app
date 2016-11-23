@@ -83,6 +83,9 @@
       ]
     },
     {
+      "type": "socialButtons"
+    },
+    {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> See also",
       "sectionId": "accommodation",
@@ -95,7 +98,7 @@
           "page": "en/accommodation"
         },
         {
-          "page": "en/activities/hiking"
+          "page": "en/trails/summary"
         },
         {
           "page": "en/activities/cycling"

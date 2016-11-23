@@ -39,13 +39,13 @@
             },
             {
               "text": "Vizităm unul dintre tăurile artificiale ale Roșiei Montane și aflăm care era rolul lor.",
-              "thumbnailUrl": "img/activities/trails/attractions/lakes/braziLake/thumbnail/2.jpg",
-              "fullSizeUrl": "img/activities/trails/attractions/lakes/braziLake/fullSize/2.jpg"
+              "thumbnailUrl": "img/trails/attractions/lakes/braziLake/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/braziLake/fullSize/2.jpg"
             },
             {
               "text": "Popas la punctele de belvedere.",
-              "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicPlateau/thumbnail/3.jpg",
-              "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicPlateau/fullSize/3.jpg"
+              "thumbnailUrl": "img/trails/attractions/carnic/carnicPlateau/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/carnicPlateau/fullSize/3.jpg"
             },
             {
               "text": "Plimbare cu mocănița cu abur Abrud - Câmpeni.",
@@ -54,8 +54,8 @@
             },
             {
               "text": "Vizită la Muzeul Mineritului unde are loc un tur ghidat al galeriilor romane din adâncul masivului Orlea.",
-              "thumbnailUrl": "img/activities/trails/attractions/romanGalleries/thumbnail/1.jpg",
-              "fullSizeUrl": "img/activities/trails/attractions/romanGalleries/fullSize/1.jpg"
+              "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/1.jpg"
             },
             {
               "text": "Cules de frăguțe.",
@@ -189,6 +189,9 @@
           "required": false
         }
       ]
+    },
+    {
+      "type": "socialButtons"
     },
     {
       "type": "title",

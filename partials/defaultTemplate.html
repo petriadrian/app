@@ -17,5 +17,8 @@
         <div ng-if="section.type == 'form'">
             <section-form data-section="section"></section-form>
         </div>
+        <!--SOCIAL-->
+        <div ng-if="section.type == 'socialButtons'"
+             ng-include="'templates/_social.tmpl.htm'"></div>
     </section>
 </div>

@@ -1,7 +1,7 @@
 {
   "presentation": {
-    "title": "Drumeții",
-    "headline": "Trasee de drumeție în Roșia Montană",
+    "title": "Atracții și trasee",
+    "headline": "Descoperă Roșia Montană",
     "description": "<b>Trasee pe zone</b> (de la galeriile romane și centrul istoric până pe vârful munților). <br><b>Trasee tematice</b> (evoluția minieră, protestele sau viața rurală). <br>Se pot <b>rezerva ghizi</b>.",
     "fullWidthImg": "img/activities/hiking/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/activities/hiking/presentation/smallBoxImg.jpg"
@@ -12,7 +12,7 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Trasee de drumetie în Roșia Montană",
+    "title": "Descoperă Roșia Montană. Atracții și trasee",
     "description": "Trasee pe zone (de la galeriile romane și centrul istoric până pe vârful mmasivelor din zonă) și trasee tematice (evoluția minieră, protestele din Roșia Montană sau viața rurală). Puteți rezerva trasee ghidate, cazare, biciclete sau campare în Rosia Montana, Alba, Munții Apuseni, Transilvania, Romania.",
     "displayOnShareImg": "img/activities/hiking/presentation/displayOnShareImg.jpg"
   },
@@ -22,7 +22,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "<i class='fa fa-info-circle'></i> Detalii",
+      "text": "",
       "sectionId": "details",
       "addLinkInPageHeadline": false
     },
@@ -31,26 +31,13 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Roșia Montană e înconjurată de munți, lacuri, biserici, clădiri de patrimoniu, zone miniere și galerii antice, așa că de vii aici nu vizita doar muzeul și piața centrală, deoarece zona are mult mai mult de oferit. Uită-te peste traseele de mai jos și găsește-le pe cele pe care vrei să le parcurgi, în funcție de condiția ta fizică și de atracțiile turistice pe care vrei să le vezi. Fiecare traseu are <b>hărți online</b>, unele au și date <b>GPS</b>, astfel că poți face zoom, pot fi văzute în modul satelit sau hartă sau pot fi accesate de pe orice telefon sau tabletă în timpul drumeției."
-        }
-      ]
-    },
-    {
-      "type": "articles",
-      "commonArticles": [
-        {
-          "category": "guidesAndBikes",
-          "ids": [
-            {
-              "id": "details"
-            }
-          ]
+          "textContent": "Aici găsești <b>traseele și atracțiile</b> din Roșia Montană, zonă cu peisaje impresionante datorită munților, văilor și lacurilor ce o înconjoară dar și cu o bogata încărcătură istorică datorată clădirilor de patrimoniu și zonelor miniere construite de civilizațiile care au venit aici pentru a extrage aur. Traseele de mai jos conțin imagini, descriere, atracții turistice și <b>hărți online</b> cu date <b>GPS</b> astfel că pot fi accesate de pe orice smartphone în timpul drumeției. <br> Pictogramele din dreptul fiecărui traseu semnifică: <i class='fa fa-lg fa-blind'></i> - traseu de <b>drumeție</b> | <i class='fa fa-lg fa-bicycle'></i> - traseu de <b>bicicletă</b> | <i class='fa fa-lg fa-car'></i> - traseul de <b>mașină</b>"
         }
       ]
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Trasee pe zone",
+      "text": "<i class='fa fa-map-signs'></i> Trasee locale",
       "sectionId": "trailsOnAreas",
       "addLinkInPageHeadline": true
     },
@@ -59,7 +46,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Aceste trasee sunt împărțite pe zonele Roșiei Montane, aflate în jurul casei. Dacă doriți ele se pot combina pentru a obține trasee mai lungi (de exemplu 'Centrul Istoric' cu 'Cârnic' sau 'Țarina' cu 'Lety și Sulei'), dar o să vă spunem mai multe despre asta când sosiți."
+          "textContent": "Aceste trasee conțin atracțiile din comuna Roșia Montană."
         }
       ]
     },
@@ -82,16 +69,57 @@
           "page": "ro/activities/trails/tarina"
         },
         {
-          "page": "ro/activities/trails/detunata"
+          "page": "ro/activities/trails/fourLakes"
         },
         {
-          "page": "ro/activities/trails/geamana"
+          "page": "ro/activities/trails/vartop"
         }
       ]
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Trasee tematice",
+      "text": "<i class='fa fa-map-signs'></i> Împrejurimi",
+      "sectionId": "surroundings",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Aceste trasee conțin atracțiile din apropierea Roșiei Montane."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/activities/trails/detunata"
+        },
+        {
+          "page": "ro/activities/trails/geamana"
+        },
+        {
+          "page": "ro/activities/trails/copperMineRoad"
+        },
+        {
+          "page": "ro/activities/trails/vulcan"
+        },
+        {
+          "page": "ro/activities/trails/daffodilMeadow"
+        },
+        {
+          "page": "ro/activities/trails/scarisoara"
+        },
+        {
+          "page": "ro/activities/trails/zlatnaPool"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trasee ghidate",
       "sectionId": "thematicTrails",
       "addLinkInPageHeadline": true
     },
@@ -118,6 +146,9 @@
           ]
         }
       ]
+    },
+    {
+      "type": "socialButtons"
     },
     {
       "type": "title",

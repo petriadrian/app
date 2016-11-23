@@ -6,13 +6,13 @@
     "images": [
       {
         "text": "<b>Galeriile Romane</b> - Pentru a le vizita se coboara 157 de trepte in subteran.",
-        "thumbnailUrl": "img/activities/trails/attractions/romanGalleries/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/romanGalleries/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/1.jpg"
       },
       {
         "text": "<b>Șteampurile</b> - instalații folosite pentru a prelucra minereul de aur.",
-        "thumbnailUrl": "img/activities/trails/attractions/romanGalleries/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/romanGalleries/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/2.jpg"
       }
     ]
   },
@@ -31,13 +31,13 @@
     "images": [
       {
         "text": "<b>Turnul biserici Greco-Catolică</b> - 'Biserica se înfăţişează drept unul dintre cele mai importante monumente de cult din Munţii Apuseni, un edificiu de mare valoare arhitecturală şi istorică.'",
-        "thumbnailUrl": "img/activities/trails/attractions/churches/grecoCatholicChurch/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/churches/grecoCatholicChurch/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/churches/grecoCatholicChurch/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/churches/grecoCatholicChurch/fullSize/1.jpg"
       },
       {
         "text": "<b>Biserica Greco-Catolica</b> - 'Cimitirul din jurul bisericii păstrează încă numeroase monumente funerare datând din secolele XVIII şi XIX, preţioase atât ca mărturii istorice cât şi ca realizări artistice.'",
-        "thumbnailUrl": "img/activities/trails/attractions/churches/grecoCatholicChurch/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/churches/grecoCatholicChurch/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/churches/grecoCatholicChurch/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/churches/grecoCatholicChurch/fullSize/2.jpg"
       }
     ]
   },
@@ -56,13 +56,13 @@
     "images": [
       {
         "text": "<b>Biserica Ortodoxă</b> - 'Adormirea Maicii Domnului', ridicată de aurarul 'Mihăilă Gritta'",
-        "thumbnailUrl": "img/activities/trails/attractions/churches/orthodoxChurch/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/churches/orthodoxChurch/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/churches/orthodoxChurch/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/churches/orthodoxChurch/fullSize/1.jpg"
       },
       {
         "text": "<b>Monumentele funerare</b> - ale familiei 'Grita' scrise în slavonă.",
-        "thumbnailUrl": "img/activities/trails/attractions/churches/orthodoxChurch/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/churches/orthodoxChurch/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/churches/orthodoxChurch/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/churches/orthodoxChurch/fullSize/2.jpg"
       }
     ]
   },
@@ -73,13 +73,13 @@
     "images": [
       {
         "text": "<b>Școala Germană și Casa Francisc</b> - clădiri de patrimoniu ale cartierului 'Berg'",
-        "thumbnailUrl": "img/activities/trails/attractions/panoramicBench/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/panoramicBench/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/panoramicBench/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/panoramicBench/fullSize/1.jpg"
       },
       {
         "text": "<b>Băncuța Panoramică</b> - vă recomandăm să vă reîntoarceţi şi noaptea aici pentru a vă bucura de cerul înstelat şi de liniştea satului (este la ~10 minute distanță de Casa Petri).",
-        "thumbnailUrl": "img/activities/trails/attractions/panoramicBench/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/panoramicBench/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/panoramicBench/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/panoramicBench/fullSize/2.jpg"
       }
     ]
   },
@@ -90,13 +90,13 @@
     "images": [
       {
         "text": "<b>Biserica Romano-Catolica</b> - Slujbele se țin în fiecare duminică de la ora 10 în limba română și maghiară, iar la sfârșit se cântă la orga din interiorul ei.",
-        "thumbnailUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/churches/romanCatholicChurch/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/churches/romanCatholicChurch/fullSize/1.jpg"
       },
       {
         "text": "<b>Biserica Romano-Catolica</b> - în sâmbăta Paștilor mormantul Mântuitorului din biserică este păzit de 7 gărzi care elibereaza intrarea în timpul slujbei de Înviere. Localnicii care iau parte la slujbă obișnuiesc să aducă un coș cu mâncare pentru a fi sfințită.",
-        "thumbnailUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/churches/romanCatholicChurch/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/churches/romanCatholicChurch/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/churches/romanCatholicChurch/fullSize/2.jpg"
       }
     ]
   },
@@ -115,13 +115,13 @@
     "images": [
       {
         "text": "<b>Biserica Unitariană</b> - Slujbele au loc duminica de la ora 11 în limba maghiară și română, iar la sfârșit puteți rămâne să discutați cu preotul care bucuros vă va povesti mai multe despre biserică și zonă.",
-        "thumbnailUrl": "img/activities/trails/attractions/churches/unitarianChurch/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/churches/unitarianChurch/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/churches/unitarianChurch/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/churches/unitarianChurch/fullSize/1.jpg"
       },
       {
         "text": "<b>Biserica Unitariană</b> - Preotul susține dezvoltarea turistică a zonei, de aceea permite organizarea diverselor evenimente culturale aici. Interesați-vă dacă nu e un astfel de eveniment când ajungeți.",
-        "thumbnailUrl": "img/activities/trails/attractions/churches/unitarianChurch/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/churches/unitarianChurch/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/churches/unitarianChurch/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/churches/unitarianChurch/fullSize/2.jpg"
       }
     ]
   },
@@ -132,13 +132,13 @@
     "images": [
       {
         "text": "<b>Galeria Vaidoaia</b> - Aici e 'inima' Rosiei Montane. După rocile din jur o sa vă dați seama de unde vine numele localitatii.",
-        "thumbnailUrl": "img/activities/trails/attractions/vaidoaiaGalleries/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/vaidoaiaGalleries/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/vaidoaiaGalleries/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/vaidoaiaGalleries/fullSize/1.jpg"
       },
       {
         "text": "<b>Vârful Jig-Văidoaia - vedere spre Centrul Istoric</b> -  masivul din care face parte galeria Văidoaia.",
-        "thumbnailUrl": "img/activities/trails/attractions/vaidoaiaGalleries/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/vaidoaiaGalleries/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/vaidoaiaGalleries/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/vaidoaiaGalleries/fullSize/2.jpg"
       }
     ]
   },
@@ -157,13 +157,13 @@
     "images": [
       {
         "text": "<b>Casa Parohială Unitariană și Școala Maghiară</b> - Casa Parohială este restaurată de organizația ARA prin programul 'Adoptă o casă'.",
-        "thumbnailUrl": "img/activities/trails/attractions/sicilianStreet/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/sicilianStreet/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/1.jpg"
       },
       {
         "text": "<b>Biserica Calvină și casele aurarilor</b> - stilul tradițional al caselor din zonă.",
-        "thumbnailUrl": "img/activities/trails/attractions/sicilianStreet/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/sicilianStreet/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/2.jpg"
       }
     ]
   },
@@ -182,13 +182,13 @@
     "images": [
       {
         "text": "<b>Casa Szekely</b> - Poarta casei și masivul Văidoaia.",
-        "thumbnailUrl": "img/activities/trails/attractions/szekeyHouse/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/szekeyHouse/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/szekeyHouse/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/szekeyHouse/fullSize/1.jpg"
       },
       {
         "text": "<b>Centrul Istoric - imagine din filmul 'Nunta de Piatră'</b> - Aici erau buticuri cu diverse bunătăți, articole de îmbrăcăminte, ateliere de reparat păpuci, croitorii..",
-        "thumbnailUrl": "img/activities/trails/attractions/szekeyHouse/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/szekeyHouse/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/szekeyHouse/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/szekeyHouse/fullSize/2.jpg"
       }
     ]
   },
@@ -199,13 +199,13 @@
     "images": [
       {
         "text": "<b>Tăul Brazi</b> - Căsuța de la coada lacului este a unui pictor care vine aici pentru a folosi priveliștea ca sursă de inspirație pentru operele sale. ",
-        "thumbnailUrl": "img/activities/trails/attractions/lakes/braziLake/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/lakes/braziLake/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/lakes/braziLake/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/lakes/braziLake/fullSize/1.jpg"
       },
       {
         "text": "<b>Tăul Brazi</b> - dacă priviți cu atenție veți vedea în apele tăului o mulțime de pești colorați aduși recent aici.",
-        "thumbnailUrl": "img/activities/trails/attractions/lakes/braziLake/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/lakes/braziLake/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/lakes/braziLake/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/lakes/braziLake/fullSize/2.jpg"
       }
     ]
   },
@@ -216,13 +216,13 @@
     "images": [
       {
         "text": "<b>Platoul Carnic</b> - vedere spre Masivul Vaidoaia. În vârf puteți observa stația meteo.",
-        "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicPlateau/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicPlateau/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/carnic/carnicPlateau/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/carnic/carnicPlateau/fullSize/1.jpg"
       },
       {
         "text": "<b>Platoul Carnic</b> - vedere spre Centrul Istoric",
-        "thumbnailUrl": "img/activities/trails/attractions/carnic/carnicPlateau/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/carnic/carnicPlateau/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/carnic/carnicPlateau/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/carnic/carnicPlateau/fullSize/2.jpg"
       }
     ]
   },
@@ -241,13 +241,13 @@
     "images": [
       {
         "text": "<b>Sfinxul Carnic</b> - Crucea de pe Sfinx a fost pusă aici de baieși (mineri) pentru a fi călauziți în mină când căutau aur.",
-        "thumbnailUrl": "img/activities/trails/attractions/carnic/sphinx/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/carnic/sphinx/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/carnic/sphinx/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/carnic/sphinx/fullSize/1.jpg"
       },
       {
         "text": "<b>Vedere spre Cariera Cetate</b> - Asta rămâne după exploatările miniere de suprafață. Întoarceți-vă 360 de grade împrejur și imaginați-vă că dacă ar începe o exploatare aici, toată zona ar arăta asa.",
-        "thumbnailUrl": "img/activities/trails/attractions/carnic/sphinx/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/carnic/sphinx/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/carnic/sphinx/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/carnic/sphinx/fullSize/2.jpg"
       }
     ]
   },
@@ -258,13 +258,13 @@
     "images": [
       {
         "text": "<b>Piatra Corbului</b> -  numele vine de la forma ei de cap de corb",
-        "thumbnailUrl": "img/activities/trails/attractions/carnic/ravenStone/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/carnic/ravenStone/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/carnic/ravenStone/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/1.jpg"
       },
       {
         "text": "<b>Vedere spre Valea Cornei</b> - pe suprafața întregii acestei depresiuni ar fi urmat să fie cel mai mare lac de cianură din Europa, dacă s-ar fi deschis aici o exploatare de aur.",
-        "thumbnailUrl": "img/activities/trails/attractions/carnic/ravenStone/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/carnic/ravenStone/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/carnic/ravenStone/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/2.jpg"
       }
     ]
   },
@@ -283,13 +283,13 @@
     "images": [
       {
         "text": "<b>Sculpturile de calcar</b> - Așezarea lor în ograda unei ferme nu e aleasă la întâmplare deoarece zona Orlea este bogată în resurse subterane. Odată ce sculpturile au devenit monumente de patrimoniu, zona este protejată iar deschiderea unei exploatări miniere aici... este teoretic imposibil.",
-        "thumbnailUrl": "img/activities/trails/attractions/sculpture/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/sculpture/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/sculpture/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/sculpture/fullSize/1.jpg"
       },
       {
         "text": "<b>Sculptura 'DOOR'</b> - Ehab ELLABAN | Egipt | Academia de Arte Zamalek, Cairo | Sculptura din calcar de Vistea",
-        "thumbnailUrl": "img/activities/trails/attractions/sculpture/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/sculpture/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/sculpture/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/sculpture/fullSize/2.jpg"
       }
     ]
   },
@@ -308,13 +308,13 @@
     "images": [
       {
         "text": "<b>Tăul Țarinii</b> - Un mic lac de munte superb pe timp de toamnă. Podul care duce la Căsuța de pe lac este locul ideal de făcut poze.",
-        "thumbnailUrl": "img/activities/trails/attractions/lakes/tariniLake/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/lakes/tariniLake/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/lakes/tariniLake/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/lakes/tariniLake/fullSize/1.jpg"
       },
       {
         "text": "<b>Plaiurile Țarinii</b> - Dealuri nesfârșite presărate ici și colo cu căpițe de fân numai bune să te odihnești în ele pe traseul tău.",
-        "thumbnailUrl": "img/activities/trails/attractions/lakes/tariniLake/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/lakes/tariniLake/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/lakes/tariniLake/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/lakes/tariniLake/fullSize/2.jpg"
       }
     ]
   },
@@ -325,13 +325,13 @@
     "images": [
       {
         "text": "<b>Vârful Rotundu - vedere spre Apuseni</b> - Bucurați-vă de priveliște. În zare se pot vedea vârfurile Vulcan, Găina și Bihor (cel mai înalt vârf din Munții Apuseni(1849m)).",
-        "thumbnailUrl": "img/activities/trails/attractions/rotunduPeak/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/rotunduPeak/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/1.jpg"
       },
       {
         "text": "<b>Stația Meteo</b> - Angajatii sunt primitori și de obicei oferă tururi ale stației prin care le explică turiștilor cum functionează aceasta.",
-        "thumbnailUrl": "img/activities/trails/attractions/rotunduPeak/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/rotunduPeak/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/2.jpg"
       }
     ]
   },
@@ -350,13 +350,13 @@
     "images": [
       {
         "text": "<b>Cariera de Cupru</b> - 24 de trepte de exploatare, fiecare de 15m înălțime.",
-        "thumbnailUrl": "img/activities/trails/attractions/copperPit/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/copperPit/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/copperPit/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/copperPit/fullSize/1.jpg"
       },
       {
         "text": "<b>Cariera de Cupru</b> - înfințată în anul 1938.",
-        "thumbnailUrl": "img/activities/trails/attractions/copperPit/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/copperPit/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/copperPit/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/copperPit/fullSize/2.jpg"
       }
     ]
   },
@@ -367,13 +367,13 @@
     "images": [
       {
         "text": "<b>Tăul Mare</b> -  Căsuță de pe tău era folosită pentru a elibera apa spre morile șteampurilor care măcinau minereul scos din Cârnic. Așa se obținea aurul.",
-        "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/1.jpg"
       },
       {
         "text": "<b>Tăul Mare</b> - dacă urcați puțin pe versant o să vedeți că tăul are forma unei inimi de aceea îi se mai spune și Tăul inimă.",
-        "thumbnailUrl": "img/activities/trails/attractions/lakes/bigLake/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/lakes/bigLake/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/2.jpg"
       }
     ]
   },
@@ -384,13 +384,13 @@
     "images": [
       {
         "text": "<b>Masivul Sulei</b> - creasta masivului Sulei este îngustă dându-ți impresia că mergi pe o frânghie pe care trebuie să îți menții echilibrul.",
-        "thumbnailUrl": "img/activities/trails/attractions/letySulei/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/letySulei/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/letySulei/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/letySulei/fullSize/1.jpg"
       },
       {
         "text": "<b>Vedere de pe masivul Șulei</b> - De aici se vede Masivul Cârnic, Tăul Anghel și valea Roșiei Montane.",
-        "thumbnailUrl": "img/activities/trails/attractions/letySulei/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/letySulei/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/letySulei/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/letySulei/fullSize/2.jpg"
       }
     ]
   },
@@ -401,13 +401,13 @@
     "images": [
       {
         "text": "<b>Tăul Corna</b> - merită un popas și aici.",
-        "thumbnailUrl": "img/activities/trails/attractions/lakes/cornaLake/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/lakes/cornaLake/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/lakes/cornaLake/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/lakes/cornaLake/fullSize/1.jpg"
       },
       {
         "text": "<b>Satul Corna</b> - Dacă doriți să explorați zona puteți coborî până în sat pentru a vizita cele două biserici aflate pe culmile satului.",
-        "thumbnailUrl": "img/activities/trails/attractions/lakes/cornaLake/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/lakes/cornaLake/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/lakes/cornaLake/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/lakes/cornaLake/fullSize/2.jpg"
       }
     ]
   },
@@ -426,13 +426,13 @@
     "images": [
       {
         "text": "<b>Detunata</b> - La baza acestui masiv printre blocurile de bazalt, în inima pădurii de molid, se formează uneori un mic ghețar. Vă lasăm pe voi să îl descoperiți.",
-        "thumbnailUrl": "img/activities/trails/attractions/detunata/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/detunata/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/detunata/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/detunata/fullSize/1.jpg"
       },
       {
         "text": "<b>Priveliștea de pe Detunata</b> - Merită să urcați până sus dacă tot ați ajuns până aici. La picioare vi se va întinde tot ținutul Țării Moților.",
-        "thumbnailUrl": "img/activities/trails/attractions/detunata/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/detunata/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/detunata/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/detunata/fullSize/2.jpg"
       }
     ]
   },
@@ -443,13 +443,13 @@
     "images": [
       {
         "text": "Drumul prin satele Muntari și Poiana",
-        "thumbnailUrl": "img/activities/trails/attractions/muntariPoiana/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/muntariPoiana/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/muntariPoiana/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/muntariPoiana/fullSize/1.jpg"
       },
       {
         "text": "Drumul prin satele Muntari și Poiana",
-        "thumbnailUrl": "img/activities/trails/attractions/muntariPoiana/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/muntariPoiana/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/muntariPoiana/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/muntariPoiana/fullSize/2.jpg"
       }
     ]
   },
@@ -474,13 +474,13 @@
     "images": [
       {
         "text": "Turla bisericii din fostul sat Geamăna.",
-        "thumbnailUrl": "img/activities/trails/attractions/lakes/geamana/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/lakes/geamana/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/lakes/geamana/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/lakes/geamana/fullSize/1.jpg"
       },
       {
         "text": "Foste gospoddării din Geamăna",
-        "thumbnailUrl": "img/activities/trails/attractions/lakes/geamana/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/lakes/geamana/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/lakes/geamana/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/lakes/geamana/fullSize/2.jpg"
       }
     ]
   },
@@ -499,13 +499,13 @@
     "images": [
       {
         "text": "Vechea mănăstire Lupșa - 1421",
-        "thumbnailUrl": "img/activities/trails/attractions/churches/lupsa/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/churches/lupsa/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/churches/lupsa/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/churches/lupsa/fullSize/1.jpg"
       },
       {
         "text": "Noua mănăstire Lupșa și restaurantul Casa Apuseană.",
-        "thumbnailUrl": "img/activities/trails/attractions/churches/lupsa/thumbnail/2.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/churches/lupsa/fullSize/2.jpg"
+        "thumbnailUrl": "img/trails/attractions/churches/lupsa/thumbnail/2.jpg",
+        "fullSizeUrl": "img/trails/attractions/churches/lupsa/fullSize/2.jpg"
       }
     ]
   },
@@ -524,8 +524,8 @@
     "images": [
       {
         "text": "template",
-        "thumbnailUrl": "img/activities/trails/attractions/xxx/thumbnail/1.jpg",
-        "fullSizeUrl": "img/activities/trails/attractions/xxx/fullSize/1.jpg"
+        "thumbnailUrl": "img/trails/attractions/xxx/thumbnail/1.jpg",
+        "fullSizeUrl": "img/trails/attractions/xxx/fullSize/1.jpg"
       }
     ]
   }

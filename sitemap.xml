@@ -27,7 +27,7 @@
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/activities/hiking</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
@@ -39,79 +39,79 @@
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails/historicCenter</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/trails/historicCenter</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails/romanGalleries</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/trails/romanGalleries</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails/carnic</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/trails/carnic</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails/tarina</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/trails/tarina</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails/letySulei</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/trails/letySulei</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails/detunata</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/trails/detunata</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails/geamana</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/trails/geamana</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails/topAttractions</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/trails/topAttractions</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails/copperMineRoad</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/trails/copperMineRoad</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails/vulcan</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/trails/vulcan</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails/daffodilMeadow</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/trails/daffodilMeadow</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails/zlatnaPool</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/trails/zlatnaPool</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails/scarisoara</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/trails/scarisoara</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
@@ -149,7 +149,7 @@
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/activities/hiking</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/trails/summary</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
@@ -161,79 +161,79 @@
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/activities/trails/historicCenter</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/trails/historicCenter</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/activities/trails/romanGalleries</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/trails/romanGalleries</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/activities/trails/carnic</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/trails/carnic</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/activities/trails/tarina</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/trails/tarina</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/activities/trails/letySulei</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/trails/letySulei</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/activities/trails/detunata</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/trails/detunata</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/activities/trails/geamana</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/trails/geamana</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/activities/trails/topAttractions</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/trails/topAttractions</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/activities/trails/copperMineRoad</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/trails/copperMineRoad</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/activities/trails/vulcan</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/trails/vulcan</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/activities/trails/daffodilMeadow</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/trails/daffodilMeadow</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/activities/trails/zlatnaPool</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/trails/zlatnaPool</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/activities/trails/scarisoara</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/trails/scarisoara</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>

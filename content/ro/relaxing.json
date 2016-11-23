@@ -100,6 +100,9 @@
       ]
     },
     {
+      "type": "socialButtons"
+    },
+    {
       "type": "title",
       "text": "<i class='fa fa-coffee'></i> Vezi și",
       "sectionId": "accommodation",
@@ -115,7 +118,7 @@
           "page": "ro/review"
         },
         {
-          "page": "ro/activities/hiking"
+          "page": "ro/trails/summary"
         }
       ]
     }

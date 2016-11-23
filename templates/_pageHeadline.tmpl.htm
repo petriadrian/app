@@ -5,7 +5,7 @@
     <div class="introContent">
         <h1 ng-bind-html="pageContent.presentation.headline | trustHtml"></h1>
 
-        <div id="headlineMenu">
+        <div id="stickPageIntroMenuOnTheTop">
         <span ng-repeat="section in pageContent.sections">
             <a ng-if="section.type == 'title' && section.addLinkInPageHeadline"
                ng-click="scrollTo(section.sectionId)"
