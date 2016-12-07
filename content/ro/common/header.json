@@ -52,9 +52,9 @@
   ],
   "importantButtons": [
     {
-      "text": "pachete",
+      "text": "voucher",
       "url": {
-        "link": "",
+        "link": "ro/voucher/summary",
         "textOnMouseOver": "trasee ghidate + cazare + activități",
         "openInNewTab": false
       }

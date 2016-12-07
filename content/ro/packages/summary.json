@@ -1,0 +1,132 @@
+{
+  "presentation": {
+    "title": "Pachete și vouchere",
+    "headline": "Pachete și vouchere",
+    "description": "Pachetele conține cazare și participarea la diverse activități din Roșia Montană. Prin achizitiionarea unui pachet vei primi un voucher care poate fi folosit în anumite perioade sau oferite cadou.",
+    "fullWidthImg": "img/packages/summary/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/packages/summary/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/packages/summary",
+    "textOnMouseOver": "Vezi mai mult...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Pachete și vouchere - Roșia Montană",
+    "description": "Rezervă un pachet turistic ce conține cazare și participarea la diverse activități din Roșia Montană. Oferim vouchere ce pot fi folosite in anumite perioade sau oferite cadou.",
+    "displayOnShareImg": "img/packages/summary/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "",
+      "sectionId": "details",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Mai jos găsești câteva pachete turistice ce conține cazare și participarea la diverse activități din Roșia Montană. Prin rezervarea unui pachet o să primești un voucher cu care te așteptăm la Roșia Montană în perioada specificată. Voucherele pot fi de asemenea oferite ca și cadou altor persoane."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-gift'></i> Pachete",
+      "sectionId": "trailsOnAreas",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/packages/historicCenter"
+        },
+        {
+          "page": "ro/packages/romanGalleries"
+        },
+        {
+          "page": "ro/packages/carnic"
+        },
+        {
+          "page": "ro/packages/letySulei"
+        },
+        {
+          "page": "ro/packages/tarina"
+        },
+        {
+          "page": "ro/packages/fourLakes"
+        },
+        {
+          "page": "ro/packages/vartop"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Verificare voucher",
+      "sectionId": "surroundings",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Aceste trasee conțin atracțiile din apropierea Roșiei Montane."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/packages/detunata"
+        },
+        {
+          "page": "ro/packages/geamana"
+        },
+        {
+          "page": "ro/packages/copperMineRoad"
+        },
+        {
+          "page": "ro/packages/vulcan"
+        },
+        {
+          "page": "ro/packages/daffodilMeadow"
+        },
+        {
+          "page": "ro/packages/scarisoara"
+        },
+        {
+          "page": "ro/packages/zlatnaPool"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/activities/cycling"
+        },
+        {
+          "page": "ro/accommodation"
+        },
+        {
+          "page": "ro/relaxing"
+        }
+      ]
+    }
+  ]
+}
