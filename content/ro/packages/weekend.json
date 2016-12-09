@@ -1,20 +1,20 @@
 {
   "presentation": {
-    "title": "16-17 Iulie",
-    "headline": "Weekend la Roșia Montană",
-    "description": "<b>| 16-17 Iulie |</b> Weekend la Roșia Montana. Sâmbătă pornim într-un tur ghidat al satului iar apoi luăm mocănița cu abur spre Câmpeni. Duminică intrăm pe galeriile romane iar apoi mergem după zmeură pe munte.",
-    "fullWidthImg": "img/events/weekend/presentation/fullWidthImg.jpg",
-    "smallBoxImg": "img/events/weekend/presentation/smallBoxImg.jpg"
+    "title": "Weekend break",
+    "headline": "Weekend break @ Roșia Montană",
+    "description": "Include rezervarea unei camere de <b>2 persoane pe 2 nopți</b> și un <b>traseu ghidat</b> de 6 ore spre principalele obiective culturale și naturale din Roșia Montană.",
+    "fullWidthImg": "img/packages/weekend/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/packages/weekend/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "ro/events/weekend",
+    "link": "ro/packages/weekend",
     "textOnMouseOver": "Vezi mai mult...",
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Tur ghidat | Mocăniță | Galerii romane | La zmeuriș",
-    "description": "Weekend la Roșia Montana (16-17 Iulie). Sâmbătă pornim într-un tur ghidat al satului iar apoi luăm mocănița cu abur spre Câmpeni. Duminică intrăm pe galeriile romane iar apoi mergem după zmeură pe munte. Vezi aici programul, rezervări și alte detalii.",
-    "displayOnShareImg": "img/events/weekend/presentation/displayOnShareImg.jpg"
+    "title": "[VOUCHER] Weekend break @ Roșia Montană",
+    "description": "Include rezervarea unei camere de 2 persoane pentru 2 nopți în centrul istoric din Rosia Montană și un traseu ghidat de 6 ore spre principalele obiective culturale și naturale de aici.",
+    "displayOnShareImg": "img/packages/weekend/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": true
@@ -34,8 +34,8 @@
           "images": [
             {
               "text": "Tur ghidat al centrului istoric.",
-              "thumbnailUrl": "img/events/common/article/thumbnail/2.jpg",
-              "fullSizeUrl": "img/events/common/article/fullSize/2.jpg"
+              "thumbnailUrl": "img/packages/common/article/thumbnail/2.jpg",
+              "fullSizeUrl": "img/packages/common/article/fullSize/2.jpg"
             },
             {
               "text": "Vizităm unul dintre tăurile artificiale ale Roșiei Montane și aflăm care era rolul lor.",
@@ -49,8 +49,8 @@
             },
             {
               "text": "Plimbare cu mocănița cu abur Abrud - Câmpeni.",
-              "thumbnailUrl": "img/events/steamTrain/article/thumbnail/1.jpg",
-              "fullSizeUrl": "img/events/steamTrain/article/fullSize/1.jpg"
+              "thumbnailUrl": "img/packages/steamTrain/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/packages/steamTrain/article/fullSize/1.jpg"
             },
             {
               "text": "Vizită la Muzeul Mineritului unde are loc un tur ghidat al galeriilor romane din adâncul masivului Orlea.",
@@ -59,18 +59,18 @@
             },
             {
               "text": "Cules de frăguțe.",
-              "thumbnailUrl": "img/events/weekend/article/thumbnail/1.jpg",
-              "fullSizeUrl": "img/events/weekend/article/fullSize/1.jpg"
+              "thumbnailUrl": "img/packages/weekend/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/packages/weekend/article/fullSize/1.jpg"
             },
             {
               "text": "La poiana cu zmeură.",
-              "thumbnailUrl": "img/events/weekend/article/thumbnail/2.jpg",
-              "fullSizeUrl": "img/events/weekend/article/fullSize/2.jpg"
+              "thumbnailUrl": "img/packages/weekend/article/thumbnail/2.jpg",
+              "fullSizeUrl": "img/packages/weekend/article/fullSize/2.jpg"
             },
             {
               "text": "Cazarea se face în camere private cu baie și acces bucătărie.",
-              "thumbnailUrl": "img/events/common/article/thumbnail/1.jpg",
-              "fullSizeUrl": "img/events/common/article/fullSize/1.jpg"
+              "thumbnailUrl": "img/packages/common/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/packages/common/article/fullSize/1.jpg"
             }
           ]
         }
@@ -203,10 +203,10 @@
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/events/hayDays"
+          "page": "ro/packages/hayDays"
         },
         {
-          "page": "ro/events/steamTrain"
+          "page": "ro/packages/steamTrain"
         },
         {
           "page": "ro/relaxing"

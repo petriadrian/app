@@ -1,6 +1,6 @@
 {
   "presentation": {
-    "title": "Pachete și vouchere",
+    "title": "Excursii la Roșia Montană - pachete și vouchere",
     "headline": "Pachete și vouchere",
     "description": "Pachetele conține cazare și participarea la diverse activități din Roșia Montană. Prin achizitiionarea unui pachet vei primi un voucher care poate fi folosit în anumite perioade sau oferite cadou.",
     "fullWidthImg": "img/packages/summary/presentation/fullWidthImg.jpg",
@@ -45,25 +45,7 @@
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/packages/historicCenter"
-        },
-        {
-          "page": "ro/packages/romanGalleries"
-        },
-        {
-          "page": "ro/packages/carnic"
-        },
-        {
-          "page": "ro/packages/letySulei"
-        },
-        {
-          "page": "ro/packages/tarina"
-        },
-        {
-          "page": "ro/packages/fourLakes"
-        },
-        {
-          "page": "ro/packages/vartop"
+          "page": "ro/packages/weekend"
         }
       ]
     },
@@ -78,33 +60,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Aceste trasee conțin atracțiile din apropierea Roșiei Montane."
-        }
-      ]
-    },
-    {
-      "type": "linkToOtherPages",
-      "detailBoxes": [
-        {
-          "page": "ro/packages/detunata"
-        },
-        {
-          "page": "ro/packages/geamana"
-        },
-        {
-          "page": "ro/packages/copperMineRoad"
-        },
-        {
-          "page": "ro/packages/vulcan"
-        },
-        {
-          "page": "ro/packages/daffodilMeadow"
-        },
-        {
-          "page": "ro/packages/scarisoara"
-        },
-        {
-          "page": "ro/packages/zlatnaPool"
+          "textContent": "Ai un voucher achiziționat? Introdu mai jos adresa ta de email și seria lui și o să îți trimitem pe email dacă voucherul a fost plătit și e valid."
         }
       ]
     },
