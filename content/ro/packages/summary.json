@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Excursii la Roșia Montană - pachete și vouchere",
     "headline": "Pachete și vouchere",
-    "description": "Cazare  participarea la diverse activități din Roșia Montană. Prin achizitiionarea unui pachet vei primi un voucher care poate fi folosit în anumite perioade sau oferite cadou.",
+    "description": "Cunoaștem zona noastră și știm ce poți face și vizita aici, de aceea am creeat pachete ce includ cazarea și diverse activități. Vezi mai mult...",
     "fullWidthImg": "img/packages/summary/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/packages/summary/presentation/smallBoxImg.jpg"
   },
@@ -12,8 +12,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Pachete și vouchere - Roșia Montană",
-    "description": "Rezervă un pachet ce conține cazare și participarea la diverse activități din Roșia Montană. Oferim vouchere ce pot fi folosite in anumite perioade sau oferite cadou.",
+    "title": "Descoperă Roșia Montană. Pachete  și vouchere",
+    "description": "Cunoaștem zona noastră și știm ce poți face și vizita aici, de aceea am creeat pachete ce includ cazarea și diverse activități. Prin rezervarea unui pachet vei primi un voucher care poate fi folosit în anumite perioade sau oferit cadou.",
     "displayOnShareImg": "img/packages/summary/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Mai jos găsești câteva pachete ce conține cazare și participarea la diverse activități din Roșia Montană. Prin rezervarea unui pachet o să primești un voucher cu care te așteptăm la Roșia Montană în perioada specificată. Voucherele pot fi de asemenea oferite ca și cadou altor persoane."
+          "textContent": "Cunoaștem zona noastră și știm ce poți face și vizita aici, de aceea am creeat pachetele de mai jos, care includ cazarea și participarea la diverse activități și evenimente. Prin rezervarea unui pachet o să primești un voucher cu care te așteptăm la Roșia Montană în perioada specificată. Voucherele pot fi de asemenea oferite ca și cadou altor persoane."
         }
       ]
     },
@@ -60,7 +60,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Ai un voucher achiziționat? Introdu mai jos adresa ta de email și seria lui și o să îți trimitem pe email dacă voucherul a fost plătit și e valid."
+          "textContent": "Ai un voucher achiziționat sau primit cadou? <br>Introdu mai jos adresa ta de email și seria voucherului și o să îți confirmăm pe email dacă voucherul a fost plătit și e valid sau nu."
         }
       ]
     },
@@ -73,9 +73,6 @@
     {
       "type": "linkToOtherPages",
       "detailBoxes": [
-        {
-          "page": "ro/activities/cycling"
-        },
         {
           "page": "ro/accommodation"
         },
