@@ -33,7 +33,7 @@
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/activities/cycling</loc>
+        <loc>http://www.casapetrirosiamontana.ro/ro/packages/summary</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
@@ -155,7 +155,7 @@
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/activities/cycling</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en/packages/summary</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>

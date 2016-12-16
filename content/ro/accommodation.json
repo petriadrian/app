@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Cazare",
     "headline": "O cafea într-o dimineață la Roșia Montană?",
-    "description": "Căsuța noastră este situată în Centrul Istoric din Roșia Montană și are <b>camere</b> cu băi, bucătărie și <b>zonă de campare</b>. Aici poți vedea interiorul sau se pot face <b>rezervări</b>.",
+    "description": "<b>Camere, campare, rezervări!</b><br>Ne găsești în Centrul Istoric Roșia Montană. Am renovat camerele, am introdus băi, bucătărie și am amenajat grădina. Vezi aici ...",
     "fullWidthImg": "img/accommodation/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/presentation/smallBoxImg.jpg"
   },
@@ -349,7 +349,7 @@
           "page": "ro/trails/summary"
         },
         {
-          "page": "ro/activities/cycling"
+          "page": "ro/packages/summary"
         }
       ]
     }

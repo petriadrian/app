@@ -1,8 +1,8 @@
 {
   "presentation": {
-    "title": "Excursii la Roșia Montană - pachete și vouchere",
+    "title": "Excursii la Roșia Montană",
     "headline": "Pachete și vouchere",
-    "description": "Cunoaștem zona noastră și știm ce poți face și vizita aici, de aceea am creeat pachete ce includ cazarea și diverse activități. Vezi mai mult...",
+    "description": "<b>Pachete și vouchere!</b><br>Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat pachete ce includ cazarea și diverse activități ...",
     "fullWidthImg": "img/packages/summary/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/packages/summary/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Descoperă Roșia Montană. Pachete  și vouchere",
-    "description": "Cunoaștem zona noastră și știm ce poți face și vizita aici, de aceea am creeat pachete ce includ cazarea și diverse activități. Prin rezervarea unui pachet vei primi un voucher care poate fi folosit în anumite perioade sau oferit cadou.",
+    "description": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat pachete ce includ cazarea și participarea la diverse activități sau trasee ghidate. Prin rezervarea unui pachet vei primi un voucher care poate fi folosit în anumite perioade sau oferit cadou.",
     "displayOnShareImg": "img/packages/summary/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Cunoaștem zona noastră și știm ce poți face și vizita aici, de aceea am creeat pachetele de mai jos, care includ cazarea și participarea la diverse activități și evenimente. Prin rezervarea unui pachet o să primești un voucher cu care te așteptăm la Roșia Montană în perioada specificată. Voucherele pot fi de asemenea oferite ca și cadou altor persoane."
+          "textContent": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat câteva pachete care includ cazarea și participarea la diverse activități sau trasee ghidate. Prin rezervarea unui pachet o să primești un voucher cu care te așteptăm la Roșia Montană în perioada specificată. Voucherele pot fi de asemenea oferite ca și cadou altor persoane."
         }
       ]
     },

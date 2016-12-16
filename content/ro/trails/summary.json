@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Atracții și trasee",
     "headline": "Atracții și trasee de drumeție sau ciclism",
-    "description": "<b>Trasee pe zone</b> (de la galeriile romane și centrul istoric până pe vârful munților). <br><b>Trasee tematice</b> (evoluția minieră, protestele sau viața rurală). <br>Se pot <b>rezerva ghizi</b>.",
+    "description": "<b>Drumeție sau ciclism?</b><br>Descoperă zona prin traseele propuse aici. Conțin hărți online de la casa noastră spre principalele obiective turistice ...",
     "fullWidthImg": "img/trails/summary/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/trails/summary/presentation/smallBoxImg.jpg"
   },
@@ -172,7 +172,7 @@
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/activities/cycling"
+          "page": "ro/packages/summary"
         },
         {
           "page": "ro/accommodation"
