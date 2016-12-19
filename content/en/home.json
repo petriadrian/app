@@ -91,13 +91,10 @@
     },
     {
       "type": "linkToOtherPages",
-      "text": "Discover the attractions of our area through the following hiking or biking trails.",
+      "text": "",
       "detailBoxes": [
         {
           "page": "en/trails/summary"
-        },
-        {
-          "page": "en/packages/summary"
         }
       ]
     },

@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Cazare",
     "headline": "O cafea într-o dimineață la Roșia Montană?",
-    "description": "<b>Camere, campare, rezervări!</b><br>Ne găsești în Centrul Istoric Roșia Montană. Am renovat camerele, am introdus băi, bucătărie și am amenajat grădina. Vezi aici ...",
+    "description": "<b>Camere, campare, rezervări!</b><br>Casa noastră e o clădire de patrimoniu din Centrul Istoric Roșia Montană. Am renovat camerele, am introdus băi, bucătărie și ...",
     "fullWidthImg": "img/accommodation/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/presentation/smallBoxImg.jpg"
   },
@@ -65,22 +65,42 @@
       "specificArticles": [
         {
           "title": "Căsuța",
-          "textContent": "Fosta căsuță de vară a gospodăriei este ca o mică garsonieră. Dispune de o cameră cu 2 paturi, baie și bucătărie. O să te simți ca acasă. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i>",
+          "textContent": "Fosta căsuță de vară a gospodăriei este ca un mic apartament, deoarece dispune de o cameră cu 2 paturi si loc de luat masa, o baie și o bucătărie. Pereții au fotografii cu mineritul aurului din trecut și locuri care trebuie vizitate. În biblioteca de lângă pat se găsesc hărți, cărți și ghiduri în română și engleză despre Roșia Montană. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i>",
           "images": [
             {
-              "text": "<b>Camera din căsuță</b> - la cerere se pot uni paturile pentru a deveni unul dublu",
+              "text": "<b>Căsuța</b> - paturile se pot uni",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/1.jpg"
             },
             {
-              "text": "<b>Căsuța</b> - exterior",
+              "text": "<b>Căsuța</b> - interior",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/2.jpg"
             },
             {
-              "text": "<b>Căsuța - baie</b>",
+              "text": "<b>Căsuța</b> - imagini cu mineritul aurului în trecut",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/3.jpg"
+            },
+            {
+              "text": "<b>Căsuța</b> - bucătăria (chiuvetă cu apă caldă și rece, plită, frigider, cuptor cu microunde, tacâmuri și veselă)",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/4.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/4.jpg"
+            },
+            {
+              "text": "<b>Căsuța</b> - bucătăria",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/5.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/5.jpg"
+            },
+            {
+              "text": "<b>Căsuța - baie</b>",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/6.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/6.jpg"
+            },
+            {
+              "text": "<b>Căsuța</b> - exterior",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/7.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/7.jpg"
             }
           ]
         }

@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Accommodation",
     "headline": "Morning coffee in Roșia Montană?",
-    "description": "Our house is situated in the Historic Center of Rosia Montana and it has private <b>rooms</b> with bathrooms, kitchen and <b>camping</b> area. Here you can see the inside or make a <b>booking</b>.",
+    "description": "<b>Rooms, camping, bookings!</b><br>Our house is a heritage building from the Historic Center of Roșia Montană. The rooms are renovated with bathrooms, kitchen and...",
     "fullWidthImg": "img/accommodation/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/presentation/smallBoxImg.jpg"
   },
@@ -66,22 +66,42 @@
       "specificArticles": [
         {
           "title": "The little house",
-          "textContent": "The old summer house of the household has one room with two beds, a bathroom and a kitchen. You will feel like home. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i>",
+          "textContent": "The old summer house is like a small apartment because it has one room with two beds, a bathroom and a kitchen. Pereții au fotografii cu mineritul aurului din trecut și locuri care trebuie vizitate. În biblioteca de lângă pat se găsesc hărți, cărți și ghiduri în română și engleză despre Roșia Montană. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i>",
           "images": [
             {
-              "text": "<b>The little house</b> -  inside. If you want, the beds can be joined",
+              "text": "<b>The little house</b> - inside. The beds can be joined",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/1.jpg"
             },
             {
-              "text": "<b>The little house</b> - from the outside.",
+              "text": "<b>The little house</b> - inside",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/2.jpg"
             },
             {
-              "text": "<b>The little house - bathroom</b>",
+              "text": "<b>The little house</b> - imagini cu mineritul aurului în trecut",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/3.jpg"
+            },
+            {
+              "text": "<b>The little house</b> - kitchen (chiuvetă cu apă caldă și rece, plită, frigider, cuptor cu microunde, tacâmuri și veselă)",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/4.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/4.jpg"
+            },
+            {
+              "text": "<b>The little house</b> - kitchen",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/5.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/5.jpg"
+            },
+            {
+              "text": "<b>The little house - bathroom</b>",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/6.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/6.jpg"
+            },
+            {
+              "text": "<b>The little house</b> - from the outside",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/7.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/7.jpg"
             }
           ]
         }

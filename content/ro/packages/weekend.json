@@ -1,14 +1,14 @@
 {
   "presentation": {
     "title": "Weekend break",
-    "headline": "Weekend break @ Roșia Montană",
+    "headline": "Weekend break in Roșia Montană",
     "description": "Include rezervarea unei camere de <b>2 persoane pe 2 nopți</b> și un <b>traseu ghidat</b> de 6 ore spre principalele obiective culturale și naturale din Roșia Montană.",
     "fullWidthImg": "img/packages/weekend/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/packages/weekend/presentation/smallBoxImg.jpg"
   },
   "url": {
     "link": "ro/packages/weekend",
-    "textOnMouseOver": "Vezi mai mult...",
+    "textOnMouseOver": "Vezi mai mult..     .",
     "openInNewTab": false
   },
   "metaData": {
