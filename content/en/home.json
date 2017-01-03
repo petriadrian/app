@@ -48,7 +48,35 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-comment-o'></i> Our story",
+      "text": "Why visit Rosia Montana?",
+      "addLinkInPageHeadline": false,
+      "sectionId": "whyVisitRosia"
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b>1. 'Unique cultural landscape' - Roșia Montană protected area</b> <br>The mining industry started here since antiquity (galerii, șteampuri, lacuri artificiale) și centrul istoric cu clădiri de patrimoniu construite de civilizațiile venite de-a lungul timpului pentru a extrage aur (școli cu predare în diverse limbi, biserici de diferite culte sau locuințele aurarilor) pot fi vizitate prin traseele:"
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/trails/historicCenter"
+        },
+        {
+          "page": "en/trails/romanGalleries"
+        },
+        {
+          "page": "en/trails/letySulei"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "",
       "addLinkInPageHeadline": false,
       "sectionId": "ourStory"
     },
@@ -56,73 +84,83 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "",
-          "textContent": "We believe that Rosia Montana has high touristic potential, that's why we restored our inherited house for tourist accommodation. It's a heritage building from the Historic Center and it had an important role in the community life, being used as a bank, medical center and even as a cinema. Then it was bought by our grandparents, which worked in mining industry, and used for living.",
-          "seeAlso": [
-            {
-              "text": "Here you can see the inside and our accommodation offer...",
-              "textOnMouseOver": "Click here...",
-              "link": "en/accommodation",
-              "openInNewTab": false
-            }
-          ]
-        },
-        {
-          "textContent": "Rosia Montana has an unique and valuable cultural heritage. Discover the mining industry for gold and silver which began from ancient times, by visiting the roman galleries, the stamp mills and artificial lakes. See their evolution to open pit exploitations, waste ponds and machines. Discover the Historic Center with the heritage houses built in different styles, schools for distinct languages, churches for different cults, built by the nations who come here over time to extract gold. The surroundings are also amazing, many pathways are binding the village to mountain peaks, lakes and other natural objectives.",
-          "seeAlso": [
-            {
-              "text": "To discover all this, we prepared hiking or cycling trails to the main attractions, that can be found here...",
-              "textOnMouseOver": "Click here...",
-              "link": "en/trails/summary",
-              "openInNewTab": false
-            }
-          ]
+          "textContent": "<b>2. Descoperă atracțiile naturale din zonă</b> <br>Împrejurimile sunt de asemenea superbe, drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și alte obiective din Munții Apuseni. Pentru a parcurge traseele de mai jos vă recomandăm să veniți cu <b>bicileta</b> sau să închiriați una de aici. "
         }
       ]
     },
     {
-      "type": "socialButtons"
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/trails/vartop"
+        },
+        {
+          "page": "en/trails/detunata"
+        },
+        {
+          "page": "en/trails/scarisoara"
+        }
+      ]
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-bicycle'></i> What to do here?",
+      "text": "",
       "addLinkInPageHeadline": false,
-      "sectionId": "activities"
+      "sectionId": "ourStory"
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b>3. Vezi ce impact ar avea o nouă exploatare minieră și cum arată cele existente</b> <br> Vizitează unele dintre cele mai mari exploatări de suprafață din Europa: cariera Roșia Poieni - traseul 'Geamăna' și cariera Cetate - traseul 'Cârnic'. 'Drumul Carierei de Cupru' cuprinde zona ce ar urma să fie acoperită de un lac de cianuri dacă ar începe o nouă exploatare de aur."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/trails/geamana"
+        },
+        {
+          "page": "en/trails/carnic"
+        },
+        {
+          "page": "en/trails/corna"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-home'></i> Cazare, trasee ghidate, biciclete",
+      "addLinkInPageHeadline": false,
+      "sectionId": "casaPetri"
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Ne dorim să ai o experiență unică și autentică în Roșia Montană, de aceea oferim cazare în centrul istoric și te punem în contact cu localnici ce oferă trasee ghidate, închirieri de biciclete sau mâncare tradițională."
+        }
+      ]
     },
     {
       "type": "linkToOtherPages",
       "text": "",
       "detailBoxes": [
         {
-          "page": "en/trails/summary"
-        }
-      ]
-    },
-    {
-      "type": "linkToOtherPages",
-      "banner": {
-        "page": "en/trails/topAttractions"
-      }
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-home'></i> Life at Casa Petri",
-      "sectionId": "accommodation",
-      "addLinkInPageHeadline": false
-    },
-    {
-      "type": "linkToOtherPages",
-      "detailBoxes": [
-        {
           "page": "en/accommodation"
         },
         {
-          "page": "en/relaxing"
+          "page": "en/packages/summary"
         },
         {
           "page": "en/review"
         }
       ]
+    },
+    {
+      "type": "socialButtons"
     },
     {
       "type": "title",

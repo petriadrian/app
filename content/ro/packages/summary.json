@@ -1,8 +1,8 @@
 {
   "presentation": {
-    "title": "Excursii la Roșia Montană",
+    "title": "Pachete și vouchere",
     "headline": "Pachete și vouchere",
-    "description": "<b>Pachete și vouchere!</b><br>Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat pachete ce includ cazarea și diverse activități ...",
+    "description": "<b>cu excursii la Roșia Montană</b><br>Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat pachete ce includ cazarea și diverse activități ...",
     "fullWidthImg": "img/packages/summary/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/packages/summary/presentation/smallBoxImg.jpg"
   },
@@ -51,7 +51,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Verificare voucher",
+      "text": "<i class='fa fa-check-square-o'></i> Verifică voucher",
       "sectionId": "surroundings",
       "addLinkInPageHeadline": true
     },
@@ -60,7 +60,40 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Ai un voucher achiziționat sau primit cadou? <br>Introdu mai jos adresa ta de email și seria voucherului și o să îți confirmăm pe email dacă voucherul a fost plătit și e valid sau nu."
+          "textContent": "Ai un voucher achiziționat sau primit cadou? <br>Introdu mai jos adresa ta de e-mail și seria voucherului și o să îți confirmăm pe email dacă voucherul e valid sau nu."
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "sendEmailTitle": "voucherTest",
+      "beforeSubmitText": "",
+      "submitButtonText": "Trimite",
+      "successMessage": "Vă mulțumim! O să revenim cu un e-mail de confirmare cât mai repede posibil.",
+      "errorMessage": "EROARE! Contactați-ne prin e-mail sau telefon (vedeți partea de jos a paginii)",
+      "fields": [
+        {
+          "type": "text",
+          "name": "serial",
+          "iconFortAwesomeClass": "fa fa-barcode fa-fw",
+          "placeholder": "serie voucher",
+          "required": true
+        },
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "placeholder": "e-mail",
+          "required": true
+        },
+        {
+          "type": "textarea",
+          "name": "others",
+          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "placeholder": "Alte întrebări? Scrie-ne aici...",
+          "rows": 2,
+          "maxChars": 500,
+          "required": false
         }
       ]
     },

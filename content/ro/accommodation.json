@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Cazare",
     "headline": "O cafea într-o dimineață la Roșia Montană?",
-    "description": "<b>Camere, campare, rezervări!</b><br>Casa noastră e o clădire de patrimoniu din Centrul Istoric Roșia Montană. Am renovat camerele, am introdus băi, bucătărie și ...",
+    "description": "<b>Camere, campare, rezervări!</b><br>Oferim cazare în casa părintească, recent renovată, din centrul istoric Roșia Montană. Vezi imagini și rezervări...",
     "fullWidthImg": "img/accommodation/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/presentation/smallBoxImg.jpg"
   },
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Casa Petri este o clădire de patrimoniu din Centrul Istoric Roșia Montană unde s-a păstrat stilul tradițional ca podelele de lemn, geamurile sau încălzirea prin teracote pe lemne, dar unde am integrat și facilități moderne ca băile sau bucătăria. Dispune de diverse zone de relaxare, curte cu iarbă verde, priveliște spre muntele Cârnic, hamace, <i class='fa fa-wifi'></i> <b>free wifi</b>, board games și locuri de parcare."
+          "textContent": "Ne aflăm în centrul istoric din Roșia Montană la numărul 331. Clădirea a fost centru medical, sediu de bancă, cinematograf, iar apoi bunicii noștri, foști mineri și deținători de galerii, au cumpărat-o și au folosit-o ca locuință. Fiind o casă de patrimoniu, am păstrat zugrăveala, podelele, geamurile, încălzirea prin teracote pe lemne dar am integrat băi și bucătăria. Camerele au intrări separate conectate printr-o curte cu hamace, iarbă verde și priveliște spre masivul Cârnic."
         }
       ]
     },
@@ -38,21 +38,21 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "Camera cu cărți",
-          "textContent": "Camera de la parter are pereți de piatră de un metru grosime și un dulap plin cu cărți. Dispune de baie proprie, două paturi etajate și o canapea extensibilă. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i>",
+          "title": "Apartamentul cu cărți",
+          "textContent": "Este situat la parter, are pereți de piatră de un metru grosime, un dulap cu cărți, două paturi etajate și o canapea extensibilă. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persoane | <i class='fa fa-wifi'></i> wifi gratis | <i class='fa fa-shower'></i> baie privată",
           "images": [
             {
-              "text": "<b>Camera cu cărți</b> - aici găsiți 'Dulapul cu cărți' - un fost bufet de bucătărie transformat în bibliotecă unde găsiți cărți vechi și diverse jocuri.",
+              "text": "Apartamentul cu cărți - Fostul bufet de bucătărie a devenit o bibliotecă cu vechile cărți ale bunicilor, ghiduri despre Roșia Montană și board games",
               "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/1.jpg"
             },
             {
-              "text": "<b>Camera cu cărți</b> - interior. În vitrină sunt poze vechi din Roșia, flori de mină și obiecte folosite în trecut prin gospodărie.",
+              "text": "Apartamentul cu cărți - În vitrină sunt poze vechi din Roșia, flori de mină și obiecte folosite în trecut prin gospodărie.",
               "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/2.jpg"
             },
             {
-              "text": "<b>Camera cu cărți - baie</b>",
+              "text": "Apartamentul cu cărți - baie cu boiler electric",
               "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/3.jpg"
             }
@@ -64,41 +64,36 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "Căsuța",
-          "textContent": "Fosta căsuță de vară a gospodăriei este ca un mic apartament, deoarece dispune de o cameră cu 2 paturi si loc de luat masa, o baie și o bucătărie. Pereții au fotografii cu mineritul aurului din trecut și locuri care trebuie vizitate. În biblioteca de lângă pat se găsesc hărți, cărți și ghiduri în română și engleză despre Roșia Montană. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i>",
+          "title": "Apartamentul alb",
+          "textContent": "Fosta casă de vară a gospodăriei dispune de o cameră cu 2 paturi, baie și bucătărie. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i> persoane | <i class='fa fa-wifi'></i> wifi gratis | <i class='fa fa-shower'></i> baie privată | <i class='fa fa-cutlery'></i> bucătărie",
           "images": [
             {
-              "text": "<b>Căsuța</b> - paturile se pot uni",
+              "text": "Apartamentul alb - paturile din cameră se pot uni",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/1.jpg"
             },
             {
-              "text": "<b>Căsuța</b> - interior",
+              "text": "Apartamentul alb are o biblioteca cu cărți vechi, hărți și ghiduri despre Roșia Montană",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/2.jpg"
             },
             {
-              "text": "<b>Căsuța</b> - imagini cu mineritul aurului în trecut",
+              "text": "Apartamentul alb - din cameră se intră direct în baie sau bucătărie. Încălzirea se face cu o teracotă pe lemne.",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/3.jpg"
             },
             {
-              "text": "<b>Căsuța</b> - bucătăria (chiuvetă cu apă caldă și rece, plită, frigider, cuptor cu microunde, tacâmuri și veselă)",
+              "text": "Apartamentul alb - bucătăria (chiuvetă cu apă caldă și rece, plită, frigider, cuptor cu microunde, tacâmuri și veselă)",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/4.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/4.jpg"
             },
             {
-              "text": "<b>Căsuța</b> - bucătăria",
-              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/5.jpg",
-              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/5.jpg"
-            },
-            {
-              "text": "<b>Căsuța - baie</b>",
+              "text": "Apartamentul alb - baie cu boiler electric",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/6.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/6.jpg"
             },
             {
-              "text": "<b>Căsuța</b> - exterior",
+              "text": "Apartamentul alb - exterior",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/7.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/7.jpg"
             }
@@ -110,21 +105,21 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "Camera din târnaț",
-          "textContent": "Camera se află la etajul casei iar pentru a ajunge la ea vei urca prin târnaț (un hol cu multe ferestre mici, specific caselor din zonă). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i>",
+          "title": "Apartamentul din târnaț",
+          "textContent": "Se află situat la etaj, iar accesul se face prin târnaț (un hol cu scări și ferestre mici, specific caselor din zonă). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persoane | <i class='fa fa-wifi'></i> wifi gratis | <i class='fa fa-shower'></i> baie privată",
           "images": [
             {
-              "text": "<b>Camera din târnaț</b> - la cerere paturile se pot despărți. Zugrăveala datează de prin anul 1950 și este foarte bine păstrată. Cam 2 săptămâni a durat atunci realizarea ei.",
+              "text": "Apartamentul din târnaț - patul dublu se poate separa. Zugrăveala din anul 1960 este foarte bine păstrată (cam 2 săptămâni a durat atunci realizarea ei)",
               "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/1.jpg"
             },
             {
-              "text": "<b>Camera din târnaț - zona de relaxare din târnaț</b> - aici găsiți ocochetă măsuță de cafea și multe locuri cu cărți vechi.",
+              "text": "Apartamentul din târnaț - zona de relaxare cu o măsuță de cafea și multe cărți vechi.",
               "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/2.jpg"
             },
             {
-              "text": "<b>Camera din târnaț - baie</b>",
+              "text": "Apartamentul din târnaț - baie cu boiler electric",
               "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/3.jpg"
             }
@@ -146,12 +141,12 @@
           "textContent": "Pentru că și nouă ne place să mergem la munte cu cortul am pregătit în curtea casei un mic spațiu de campare, pentru maxim 4 corturi, cu acces la baie, bucătărie, loc de luat masa, foișor, <i class='fa fa-wifi'></i> <b>free wifi</b> și acces la energie electrică.",
           "images": [
             {
-              "text": "<b>Zona de campare</b>",
+              "text": "Zona de campare din curte",
               "thumbnailUrl": "img/accommodation/article/camping/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/camping/fullSize/1.jpg"
             },
             {
-              "text": "<b>Zona de campare</b>",
+              "text": "Zona de campare din curte",
               "thumbnailUrl": "img/accommodation/article/camping/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/camping/fullSize/2.jpg"
             }
@@ -169,12 +164,12 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Vă punem la dispoziție o bucătărie cu veselă, frigider, cuptor cu microunde și aragaz unde puteți găti. Dacă doriți se poate comanda mâncare de la un restaurant local sau puteți lua masă la o fermă din apropiere (~10min de mers pe jos) dar trebuie să ne anunțați din timp pentru a face rezervări. În apropirea casei (~5min) veți găsi de asemenea și magazine alimetare care sunt destul de bine dotate.",
+          "textContent": "Avem o bucătărie cu veselă, frigider, cuptor și plită sau un grătar în grădină unde puteți găti. Puteți lua masa și la un vecin care gătește destul de bine (specificați în momentul rezervării și vă trimitem mai multe detalii). În apropirea casei (~5min) sunt și magazine alimentare - ",
           "seeAlso": [
             {
-              "text": "Vedeți aici unde sunt situate și cum ajungi la ele...",
+              "text": "vezi aici unde sunt situate și cum ajungi la ele",
               "textOnMouseOver": "Click aici...",
-              "link": "https://www.google.ro/maps/dir/Emiliana+Shop,+DC146,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Historical+center,+nr.+331A,+Casa+Petri,+Ro%C8%99ia+Montan%C4%83+517615/Bereczky+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Mixt+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/@46.3066051,23.129791,18z/data=!4m26!4m25!1m5!1m1!1s0x474ecce0f07e87bf:0xc1e5f1730ebc127c!2m2!1d23.1317125!2d46.3060228!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754!1m5!1m1!1s0x474ecce0563eefe1:0x44635688d438a223!2m2!1d23.1308247!2d46.30597!1m5!1m1!1s0x474ecce04e3e997b:0x14730c483b204593!2m2!1d23.1300147!2d46.3061442!3e2?hl=ro",
+              "link": "https://www.google.ro/maps/dir/Emiliana+Shop,+DC146,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Bereczky+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Mixt+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Historical+center,+nr.+331A,+Casa+Petri,+Ro%C8%99ia+Montan%C4%83+517615/@46.3064009,23.1286362,17z/data=!3m1!4b1!4m26!4m25!1m5!1m1!1s0x474ecce0f07e87bf:0xc1e5f1730ebc127c!2m2!1d23.1317125!2d46.3060228!1m5!1m1!1s0x474ecce0563eefe1:0x44635688d438a223!2m2!1d23.1308247!2d46.30597!1m5!1m1!1s0x474ecce04e3e997b:0x14730c483b204593!2m2!1d23.1300147!2d46.3061442!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.1299373!2d46.3065974!3e2?hl=ro",
               "openInNewTab": true
             }
           ]
@@ -191,7 +186,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Pentru a ne asigura că totul e pregătit, vă rugăm să faceți o rezervare cât mai din timp. De aici puteți rezerva și vedea prețurile pentru camere, campare sau biciclete. Dacă doriți trasee ghidate o să vă răspundem pe mail cu o ofertă de preț (depinde de traseele alese și marimea grupului). Pentru o rezervare de minim 190 lei, oferim <b>gratuit traseul centrului istoric ghidat</b>. Pentru grupuri mai mari sau perioade mai lungi oferim reduceri."
+          "textContent": "Ne dorim să fie totul pregătit la sosire, de aceea te rugăm să faci o rezervare cât mai din timp. Pentru o rezervare de minim 250 lei, oferim <b>gratuit traseul centrului istoric ghidat</b>. Pentru grupuri mai mari sau perioade mai lungi oferim reduceri."
         }
       ]
     },
@@ -279,57 +274,20 @@
           ]
         },
         {
-          "type": "selectBoxAllowDuplicates",
-          "name": "guidedTrail",
-          "required": false,
-          "iconFortAwesomeClass": "fa fa-users fa-fw",
-          "placeholder": "Rezervă trasee ghidate",
-          "allowToDuplicateSettings": {
-            "addButtonText": "+ adaugă traseu",
-            "removeButtonText": "- șterge traseu",
-            "minOccurs": 1,
-            "maxOccurs": 10
-          },
-          "inputs": [
+          "type": "checkBoxes",
+          "title": "Doresc să primesc pe e-mail informații despre:",
+          "checkBoxes": [
             {
-              "selectOptions": [
-                {
-                  "text": "Traseu ghidat - Evoluția minieră"
-                },
-                {
-                  "text": "Traseu ghidat - Protestele miniere"
-                },
-                {
-                  "text": "Traseu ghidat - Centrul istoric"
-                },
-                {
-                  "text": "Traseu ghidat - Cârnic"
-                },
-                {
-                  "text": "Traseu ghidat - Geamăna"
-                },
-                {
-                  "text": "Traseu ghidat - Detunata"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "selectBox",
-          "name": "bikes",
-          "required": false,
-          "iconFortAwesomeClass": "fa fa-bicycle fa-fw",
-          "placeholder": "Rezervă biciclete",
-          "selectOptions": [
-            {
-              "text": "1 bicicletă - 49lei/zi"
+              "name": "guidedToursInfo",
+              "text": "<i class='fa fa-fw fa-blind'></i> | <b>trasee ghidate</b> (ce te interesează să vizitezi cu ghid? scrie-ne în căsuța 'Alte detalii')"
             },
             {
-              "text": "2 biciclete - 95lei/zi"
+              "name": "rentBikesInfo",
+              "text": "<i class='fa fa-fw fa-bicycle'></i> | <b>închiriat bicilete</b> (câte bucăți și câte zile? scrie-ne în căsuța 'Alte detalii')"
             },
             {
-              "text": "3 biciclete - 129lei/zi"
+              "name": "foodInfo",
+              "text": "<i class='fa fa-fw fa-cutlery'></i> | <b>locuri de luat masa</b> (vegetarian sau alte preferințe? scrie-ne în căsuța 'Alte detalii')"
             }
           ]
         },
@@ -337,7 +295,7 @@
           "type": "textarea",
           "name": "others",
           "iconFortAwesomeClass": "fa fa-commenting fa-fw",
-          "placeholder": "Te mai putem ajuta cu ceva? Scrie-ne aici...",
+          "placeholder": "Alte detalii? Scrie-ne aici...",
           "rows": 2,
           "maxChars": 500,
           "required": false

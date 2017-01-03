@@ -10,9 +10,10 @@
 <form role="form" ng-class="{'areaToBeHided': section.hideAreaUnderButton}" name="form"
       ng-submit="form.$valid && sendEmailFromForm()" class="col-md-10 col-lg-9">
     <div data-ng-repeat="field in section.fields" class="input-group">
-        <span ng-if="!!field.iconFortAwesomeClass" class="input-group-addon"><i
-                ng-class="field.iconFortAwesomeClass"></i></span>
-        <input ng-if="field.type == 'textRow'"
+        <span ng-if="!!field.iconFortAwesomeClass" class="input-group-addon">
+            <i ng-class="field.iconFortAwesomeClass"></i>
+        </span>
+        <input ng-if="field.type == 'text'"
                type="text" class="form-control"
                name="{{field.name}}"
                ng-model="formObj[field.name]"
@@ -96,6 +97,7 @@
     </div>
 
     <p ng-if="section.beforeSubmitText" ng-bind-html="section.beforeSubmitText | trustHtml"></p>
+    <br>
 
     <button type="submit" class="btn btn-primary">
         {{section.submitButtonText}}

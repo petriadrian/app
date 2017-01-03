@@ -1,20 +1,20 @@
 {
   "presentation": {
-    "title": "Hiking",
-    "headline": "Attractions and hiking or biking trails",
-    "description": "<b>Trails on areas</b> (from historic center and roman galleries up to the mountains). <br><b>Thematic trails</b> (mining evolution, the protests, rural life). <br><b>Guided tours</b> can be also booked.",
-    "fullWidthImg": "img/trails/summary/presentation/fullWidthImg.jpg",
-    "smallBoxImg": "img/trails/summary/presentation/smallBoxImg.jpg"
+    "title": "Excursii la Roșia Montană",
+    "headline": "Pachete și vouchere",
+    "description": "<b>Pachete și vouchere!</b><br>Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat pachete ce includ cazarea și diverse activități ...",
+    "fullWidthImg": "img/packages/summary/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/packages/summary/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "en/trails/summary",
-    "textOnMouseOver": "See more...",
+    "link": "ro/packages/summary",
+    "textOnMouseOver": "Vezi mai mult...",
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Attractions and hiking or biking trails in Rosia Montana",
-    "description": "Trails on areas (from historic center and roman galleries up to the top of the mountains). Thematic trails (mining evolution, the protests, rural life). You can also book guided tours, rooms, bikes, camping in Rosia Montana, Alba, Apuseni Mountains, Transylvania, Romania.",
-    "displayOnShareImg": "img/trails/summary/presentation/displayOnShareImg.jpg"
+    "title": "Descoperă Roșia Montană. Pachete  și vouchere",
+    "description": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat pachete ce includ cazarea și participarea la diverse activități sau trasee ghidate. Prin rezervarea unui pachet vei primi un voucher care poate fi folosit în anumite perioade sau oferit cadou.",
+    "displayOnShareImg": "img/packages/summary/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": true
@@ -31,138 +31,27 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with fantastic landscapes due to the mountains, valleys and the lakes around us, but also with a rich heritage because of the buildings, galleries and mining areas built by the various civilizations who came here to extract gold. Discover all this through the hiking or biking trails bellow. Each trail has images, description and <b>online maps</b> with <b>GPS</b> data, so they can be access from any device during your journey. <br> The icons from each trail means: <i class='fa fa-lg fa-blind'></i> - <b>hiking</b> trail | <i class='fa fa-lg fa-bicycle'></i> - <b>biking</b> trail | <i class='fa fa-lg fa-car'></i> - the destination can be also reach by <b>car</b>"
+          "textContent": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat câteva pachete care includ cazarea și participarea la diverse activități sau trasee ghidate. Prin rezervarea unui pachet o să primești un voucher cu care te așteptăm la Roșia Montană în perioada specificată. Voucherele pot fi de asemenea oferite ca și cadou altor persoane."
         }
       ]
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Local trails",
+      "text": "<i class='fa fa-gift'></i> Vouchere",
       "sectionId": "trailsOnAreas",
       "addLinkInPageHeadline": true
     },
     {
-      "type": "articles",
-      "specificArticles": [
-        {
-          "title": "",
-          "textContent": "These trails contains the attractions from Roșia Montană."
-        }
-      ]
-    },
-    {
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "en/trails/historicCenter"
-        },
-        {
-          "page": "en/trails/romanGalleries"
-        },
-        {
-          "page": "en/trails/carnic"
-        },
-        {
-          "page": "en/trails/letySulei"
-        },
-        {
-          "page": "en/trails/tarina"
-        },
-        {
-          "page": "en/trails/fourLakes"
-        },
-        {
-          "page": "en/trails/vartop"
+          "page": "ro/packages/weekend"
         }
       ]
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Surroundings",
-      "sectionId": "surroundings",
-      "addLinkInPageHeadline": true
-    },
-    {
-      "type": "articles",
-      "specificArticles": [
-        {
-          "title": "",
-          "textContent": "These trails contains the attractions around the Roșia Montană."
-        }
-      ]
-    },
-    {
-      "type": "linkToOtherPages",
-      "detailBoxes": [
-        {
-          "page": "en/trails/detunata"
-        },
-        {
-          "page": "en/trails/geamana"
-        },
-        {
-          "page": "en/trails/copperMineRoad"
-        },
-        {
-          "page": "en/trails/vulcan"
-        },
-        {
-          "page": "en/trails/daffodilMeadow"
-        },
-        {
-          "page": "en/trails/scarisoara"
-        },
-        {
-          "page": "en/trails/zlatnaPool"
-        }
-      ]
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Guided trails",
-      "sectionId": "thematicTrails",
-      "addLinkInPageHeadline": true
-    },
-    {
-      "type": "articles",
-      "specificArticles": [
-        {
-          "textContent": "We organize the following guided thematic trails, to discover more about the stories, the past and the present of Rosia Montana:"
-        },
-        {
-          "textContent": "<b>The mining evolution trail</b> - will start with the old mining story of Rosia Montana by visiting the Antic galleries made by Agathyrsi with fire and water, then we will continue with the rectangular galleries made by romans with the chisel and hammers and will see the installations made for processing the golden ore like the stamps mills and the man made lakes. We finish by visiting the mining plants, wasting ponds and open pits made recently by the the communist, which shaved the mountains and covered the Geamana village with mining wastes."
-        },
-        {
-          "textContent": "<b>The mining protests trail</b> - we go along the areas where protests were held for or against the gold mining project proposed by the Canadian company in 2007, that wanted to transform the village in a big open pit. We will discuss about what happened there and what would have been the consequences of implementing such a project in the area. In the end we will watch at Casa Petri some movies with the streets protests from 2014, organized in the country and abroad, against this project.",
-          "seeAlso": [
-            {
-              "text": " <br><br> The bookings for this guided trails can be made from here...",
-              "textOnMouseOver": "Click here...",
-              "link": "en/accommodation#reservations",
-              "openInNewTab": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "socialButtons"
-    },
-    {
-      "type": "title",
-      "text": "",
-      "sectionId": "justToDisplayALine",
-      "addLinkInPageHeadline": false
-    },
-    {
-      "type": "linkToOtherPages",
-      "banner": {
-        "page": "en/trails/topAttractions"
-      }
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-coffee'></i> See also",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
     },
@@ -170,13 +59,10 @@
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "en/packages/summary"
+          "page": "ro/accommodation"
         },
         {
-          "page": "en/accommodation"
-        },
-        {
-          "page": "en/relaxing"
+          "page": "ro/relaxing"
         }
       ]
     }

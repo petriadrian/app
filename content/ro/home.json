@@ -48,7 +48,35 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-comment-o'></i> Povestea noastră",
+      "text": "De ce să vizitez Roșia?",
+      "addLinkInPageHeadline": false,
+      "sectionId": "whyVisitRosia"
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b>1. 'Peisaj cultural unic' - zona protejată Roșia Montană</b> <br>Lucrări miniere realizate încă din Antichitate (galerii, șteampuri, lacuri artificiale) și centrul istoric cu clădiri de patrimoniu construite de civilizațiile venite de-a lungul timpului pentru a extrage aur (școli cu predare în diverse limbi, biserici de diferite culte sau locuințele aurarilor) pot fi vizitate prin traseele:"
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/trails/historicCenter"
+        },
+        {
+          "page": "ro/trails/romanGalleries"
+        },
+        {
+          "page": "ro/trails/letySulei"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "",
       "addLinkInPageHeadline": false,
       "sectionId": "ourStory"
     },
@@ -56,75 +84,83 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Deoarece ne dorim ca Roșia Montană să se dezvolte pe plan turistic, am renovat căsuța moștenită de la bunici și am deschis-o ca spațiu de cazare. Este o clădire de patrimoniu din Centrul Istoric ce a avut un rol important în viața comunității ca sediu de bancă, centru medical sau chiar cinematograf. Bunicii noștri, care lucrau în minerit, au cumpărat-o apoi și au folosit-o ca locuință.",
-          "seeAlso": [
-            {
-              "text": "Vedeți aici interiorul și posibilitățile de cazare de care dispunem...",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation",
-              "openInNewTab": false
-            }
-          ]
-        },
-        {
-          "textContent": "Roșia Montană este unică, cu o moștenire culturală valoroasă pe care merită să o vizitați. Descoperiți industria minieră de aur și argint care a început în Antichitate prin a vizita galeriile romane, șteampurile sau lacurile artificiale. Vedeți cum a evoluat prin carierele de suprafață, iazuri de decantare și utilaje. Descoperiți Centrul Istoric cu case de patrimoniu în diferite stiluri, școli cu predare în diverse limbi, biserici de diferite culte ridicate de diverse nații venite aici de-a lungul timpului pentru a extrage aur. Împrejurimile sunt de asemenea superbe, drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și alte obiective din Munții Apuseni.",
-          "seeAlso": [
-            {
-              "text": "Vedeți aici traseele de drumeție sau bicicletă pe care le-am pregătit pentru a descoperi toate aceste atracții...",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/trails/summary",
-              "openInNewTab": false
-            }
-          ]
+          "textContent": "<b>2. Descoperă atracțiile naturale din zonă</b> <br>Împrejurimile sunt de asemenea superbe, drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și alte obiective din Munții Apuseni. Pentru a parcurge traseele de mai jos vă recomandăm să veniți cu <b>bicileta</b> sau să închiriați una de aici. "
         }
       ]
     },
     {
-      "type": "socialButtons"
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/trails/vartop"
+        },
+        {
+          "page": "ro/trails/detunata"
+        },
+        {
+          "page": "ro/trails/scarisoara"
+        }
+      ]
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-bicycle'></i> Ce fac acolo?",
+      "text": "",
       "addLinkInPageHeadline": false,
-      "sectionId": "activities"
+      "sectionId": "ourStory"
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b>3. Vezi ce impact ar avea o nouă exploatare minieră și cum arată cele existente</b> <br> Vizitează unele dintre cele mai mari exploatări de suprafață din Europa: cariera Roșia Poieni - traseul 'Geamăna' și cariera Cetate - traseul 'Cârnic'. 'Drumul Carierei de Cupru' cuprinde zona ce ar urma să fie acoperită de un lac de cianuri dacă ar începe o nouă exploatare de aur."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/trails/geamana"
+        },
+        {
+          "page": "ro/trails/carnic"
+        },
+        {
+          "page": "ro/trails/corna"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-home'></i> Cazare, trasee ghidate, biciclete",
+      "addLinkInPageHeadline": false,
+      "sectionId": "casaPetri"
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Ne dorim să ai o experiență unică și autentică în Roșia Montană, de aceea oferim cazare în centrul istoric și te punem în contact cu localnici ce oferă trasee ghidate, închirieri de biciclete sau mâncare tradițională."
+        }
+      ]
     },
     {
       "type": "linkToOtherPages",
       "text": "",
       "detailBoxes": [
         {
-          "page": "ro/trails/summary"
-        },
-        {
-          "page": "ro/packages/summary"
-        }
-      ]
-    },
-    {
-      "type": "linkToOtherPages",
-      "banner": {
-        "page": "ro/trails/topAttractions"
-      }
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-home'></i> Cum e la noi?",
-      "sectionId": "accommodation",
-      "addLinkInPageHeadline": false
-    },
-    {
-      "type": "linkToOtherPages",
-      "detailBoxes": [
-        {
           "page": "ro/accommodation"
         },
         {
-          "page": "ro/relaxing"
+          "page": "ro/packages/summary"
         },
         {
           "page": "ro/review"
         }
       ]
+    },
+    {
+      "type": "socialButtons"
     },
     {
       "type": "title",
@@ -145,9 +181,6 @@
       "detailBoxes": [
         {
           "page": "ro/events/hayDays"
-        },
-        {
-          "page": "ro/events/weekend"
         },
         {
           "page": "ro/events/marathon"

@@ -14,6 +14,9 @@
     $body = '';
     foreach ($_POST as $key => $value) {
         $body .= htmlspecialchars($key) . " = " . htmlspecialchars($value) . "<br>";
+        if (htmlspecialchars($key) == 'title') {
+            $headers['Subject'] = 'casaPetri ' . htmlspecialchars($value);
+        }
     }
 
     // write reservations on a local file as backup
