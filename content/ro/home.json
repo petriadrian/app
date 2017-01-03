@@ -48,7 +48,7 @@
     },
     {
       "type": "title",
-      "text": "De ce să vizitez Roșia?",
+      "text": "<i class='fa fa-comment-o'></i> De ce să vizitez Roșia?",
       "addLinkInPageHeadline": false,
       "sectionId": "whyVisitRosia"
     },
@@ -56,7 +56,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>1. 'Peisaj cultural unic' - zona protejată Roșia Montană</b> <br>Lucrări miniere realizate încă din Antichitate (galerii, șteampuri, lacuri artificiale) și centrul istoric cu clădiri de patrimoniu construite de civilizațiile venite de-a lungul timpului pentru a extrage aur (școli cu predare în diverse limbi, biserici de diferite culte sau locuințele aurarilor) pot fi vizitate prin traseele:"
+          "textContent": "<b>1. 'Peisaj cultural unic' - vizitează zona protejată Roșia Montană</b> <br>Lucrări miniere realizate încă din Antichitate (galerii, șteampuri, lacuri artificiale) și centrul istoric cu clădiri de patrimoniu construite de civilizațiile venite de-a lungul timpului pentru a extrage aur (școli cu predare în diverse limbi, biserici de diferite culte sau locuințele aurarilor) pot fi vizitate prin traseele:"
         }
       ]
     },
@@ -112,7 +112,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>3. Vezi ce impact ar avea o nouă exploatare minieră și cum arată cele existente</b> <br> Vizitează unele dintre cele mai mari exploatări de suprafață din Europa: cariera Roșia Poieni - traseul 'Geamăna' și cariera Cetate - traseul 'Cârnic'. 'Drumul Carierei de Cupru' cuprinde zona ce ar urma să fie acoperită de un lac de cianuri dacă ar începe o nouă exploatare de aur."
+          "textContent": "<b>3. Vezi ce impact ar avea o nouă exploatare minieră și cum arată cele existente</b> <br> Vizitează unele dintre cele mai mari exploatări de suprafață din Europa: cariera Roșia Poieni - traseul 'Geamăna' și cariera Cetate - traseul 'Cârnic'. Traseul 'Corna' cuprinde zona ce ar urma să fie acoperită de un lac de cianuri dacă ar începe o nouă exploatare de aur."
         }
       ]
     },
@@ -164,7 +164,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-calendar'></i> Activități",
+      "text": "<i class='fa fa-calendar'></i>Alte activități",
       "sectionId": "events",
       "addLinkInPageHeadline": false
     },
@@ -172,7 +172,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Ai nevoie de un motiv să vi la Roșia? Vezi activitățile care se anunță în perioada următoare. Intră pe evenimentul ales pentru a vedea datele exacte ale acestuia și cum poți participa la el."
+          "textContent": "Aici găsești activități și evenimente ce au loc în Roșia Montana sau în zonă."
         }
       ]
     },

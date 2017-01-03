@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Ne aflăm în centrul istoric din Roșia Montană la numărul 331. Clădirea a fost centru medical, sediu de bancă, cinematograf, iar apoi bunicii noștri, foști mineri și deținători de galerii, au cumpărat-o și au folosit-o ca locuință. Fiind o casă de patrimoniu, am păstrat zugrăveala, podelele, geamurile, încălzirea prin teracote pe lemne dar am integrat băi și bucătăria. Camerele au intrări separate conectate printr-o curte cu hamace, iarbă verde și priveliște spre masivul Cârnic."
+          "textContent": "Ne aflăm în centrul istoric din Roșia Montană la numărul 331. Clădirea a fost centru medical, sediu de bancă, cinematograf, iar apoi bunicii noștri, foști mineri și deținători de galerii, au cumpărat-o și au folosit-o ca locuință. Fiind o casă de patrimoniu, am păstrat zugrăveala, podelele, geamurile, încălzirea prin teracote pe lemne dar am integrat băile și bucătăria. Camerele au intrări separate conectate printr-o curte cu hamace, iarbă verde și priveliște spre masivul Cârnic."
         }
       ]
     },
@@ -68,17 +68,17 @@
           "textContent": "Fosta casă de vară a gospodăriei dispune de o cameră cu 2 paturi, baie și bucătărie. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i> persoane | <i class='fa fa-wifi'></i> wifi gratis | <i class='fa fa-shower'></i> baie privată | <i class='fa fa-cutlery'></i> bucătărie",
           "images": [
             {
-              "text": "Apartamentul alb - paturile din cameră se pot uni",
+              "text": "Apartamentul alb - Paturile din cameră se pot uni",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/1.jpg"
             },
             {
-              "text": "Apartamentul alb are o biblioteca cu cărți vechi, hărți și ghiduri despre Roșia Montană",
+              "text": "Apartamentul alb - În bibliotecă sunt cărți vechi, hărți și ghiduri despre Roșia Montană",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/2.jpg"
             },
             {
-              "text": "Apartamentul alb - din cameră se intră direct în baie sau bucătărie. Încălzirea se face cu o teracotă pe lemne.",
+              "text": "Apartamentul alb - Din cameră se intră direct în baie sau bucătărie, iar încălzirea se face cu o teracotă pe lemne.",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/3.jpg"
             },
@@ -138,7 +138,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Pentru că și nouă ne place să mergem la munte cu cortul am pregătit în curtea casei un mic spațiu de campare, pentru maxim 4 corturi, cu acces la baie, bucătărie, loc de luat masa, foișor, <i class='fa fa-wifi'></i> <b>free wifi</b> și acces la energie electrică.",
+          "textContent": "Pentru că și nouă ne place să mergem la munte cu cortul am pregătit în curtea casei un mic spațiu de campare, pentru maxim 4 corturi, cu acces la baie, bucătărie, loc de luat masa, foișor, wifi gratis și acces la energie electrică.",
           "images": [
             {
               "text": "Zona de campare din curte",
@@ -164,7 +164,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Avem o bucătărie cu veselă, frigider, cuptor și plită sau un grătar în grădină unde puteți găti. Puteți lua masa și la un vecin care gătește destul de bine (specificați în momentul rezervării și vă trimitem mai multe detalii). În apropirea casei (~5min) sunt și magazine alimentare - ",
+          "textContent": "Avem o bucătărie cu veselă, frigider, cuptor și plită sau un grătar în grădină unde puteți găti. Dacă doriți puteți lua masa și la un vecin care gătește destul de bine (specificați în momentul rezervării și vă trimitem mai multe detalii). În apropirea casei (~5min) avem 3 magazine alimentare - ",
           "seeAlso": [
             {
               "text": "vezi aici unde sunt situate și cum ajungi la ele",
@@ -279,7 +279,7 @@
           "checkBoxes": [
             {
               "name": "guidedToursInfo",
-              "text": "<i class='fa fa-fw fa-blind'></i> | <b>trasee ghidate</b> (ce te interesează să vizitezi cu ghid? scrie-ne în căsuța 'Alte detalii')"
+              "text": "<i class='fa fa-fw fa-blind'></i> | <b>trasee ghidate</b> (cam ce ai dori să vizitezi cu ghid? scrie-ne în căsuța 'Alte detalii')"
             },
             {
               "name": "rentBikesInfo",

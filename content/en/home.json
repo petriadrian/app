@@ -48,7 +48,7 @@
     },
     {
       "type": "title",
-      "text": "Why visit Rosia Montana?",
+      "text": "<i class='fa fa-comment-o'></i> Why visit Rosia Montana?",
       "addLinkInPageHeadline": false,
       "sectionId": "whyVisitRosia"
     },
@@ -56,7 +56,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>1. 'Unique cultural landscape' - Roșia Montană protected area</b> <br>The mining industry started here since antiquity (galerii, șteampuri, lacuri artificiale) și centrul istoric cu clădiri de patrimoniu construite de civilizațiile venite de-a lungul timpului pentru a extrage aur (școli cu predare în diverse limbi, biserici de diferite culte sau locuințele aurarilor) pot fi vizitate prin traseele:"
+          "textContent": "<b>1. 'Unique cultural landscape' - visit Rosia Montana protected area</b> <br>The remains of the gold mining that started here since antiquity (galleries, stamp mills, artificial lakes) and the historic center with the heritage buildings made by the civilizations who came here to extract the gold (schools in different languages, multicultural churches or the goldsmith houses) can be visited through the following trails:"
         }
       ]
     },
@@ -84,7 +84,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>2. Descoperă atracțiile naturale din zonă</b> <br>Împrejurimile sunt de asemenea superbe, drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și alte obiective din Munții Apuseni. Pentru a parcurge traseele de mai jos vă recomandăm să veniți cu <b>bicileta</b> sau să închiriați una de aici. "
+          "textContent": "<b>2. Discover the natural attractions from the area</b> <br>The surroundings are also amazing, unpaved roads and footpaths connect us to the villages, mountain peaks, lakes and other objectives of the Apuseni Mountains (Carpathians). See the bellow trails (they can be also made by <b>bike</b> - you can rent one from Rosia)."
         }
       ]
     },
@@ -112,7 +112,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>3. Vezi ce impact ar avea o nouă exploatare minieră și cum arată cele existente</b> <br> Vizitează unele dintre cele mai mari exploatări de suprafață din Europa: cariera Roșia Poieni - traseul 'Geamăna' și cariera Cetate - traseul 'Cârnic'. 'Drumul Carierei de Cupru' cuprinde zona ce ar urma să fie acoperită de un lac de cianuri dacă ar începe o nouă exploatare de aur."
+          "textContent": "<b>3. See what would be the impact of a new mining open pit and how it looks the existing ones</b> <br> Visit one of the biggest mining open pits from Europe: the Roșia Poieni open pit - 'Geamăna' trail and the Cetate open pit - 'Cârnic' trail. 'Corna' trail contains the area that should by covered by a cyanide wasting lake if a new gold mining would start."
         }
       ]
     },
@@ -132,7 +132,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-home'></i> Cazare, trasee ghidate, biciclete",
+      "text": "<i class='fa fa-home'></i> Accommodation, guided trails, bikes",
       "addLinkInPageHeadline": false,
       "sectionId": "casaPetri"
     },
@@ -140,7 +140,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Ne dorim să ai o experiență unică și autentică în Roșia Montană, de aceea oferim cazare în centrul istoric și te punem în contact cu localnici ce oferă trasee ghidate, închirieri de biciclete sau mâncare tradițională."
+          "textContent": "We want to offer you an unique and authentic experience here in Rosia Montana, that's why we offer accommodation in the historic center and we put you in touch with the locals who make guided trails, traditional food or who rents bikes."
         }
       ]
     },
@@ -164,9 +164,17 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-calendar'></i> Events",
+      "text": "<i class='fa fa-calendar'></i> Other events",
       "sectionId": "events",
       "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Here are other activities and events from Roșia Montana and surroundings."
+        }
+      ]
     },
     {
       "type": "linkToOtherPages",
