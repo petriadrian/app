@@ -19,7 +19,7 @@
         }
     }
 
-    // write reservations on a local file as backup
+    // write the email content on a local file as backup
     $logFile = fopen("../log/send_mail.log", "a");
     fwrite($logFile, "\n\nNew input on ".date(DATE_RFC822)."\n");
     fwrite($logFile, $body);

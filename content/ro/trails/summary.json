@@ -127,20 +127,20 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Organizăm următoarele trasee tematice ghidate, prin care descoperiți poveștile, trecutul și prezentul Roșiei Montane:"
+          "textContent": "Și traseele de mai sus pot fi facute cu un ghid, dar recomandarea noastră sunt următoarele trasee ghidate:"
         },
         {
-          "textContent": "<b>Traseul evoluției miniere</b> - începem cu povestea veche a mineritului moștenit din tată în fiu, prin a vizita galeriile Antice realizate de agatârși cu apă și foc, iar apoi galeriile trapeizoidale realizate de daci și romani cu dalta și ciocanul, după care continuăm cu instalațiile pentru procesarea aurului ca șteampurile sau lacurile de acumulare. Terminăm prin a vizita uzinele, iazurile de decantare și carierele de suprafață realizate recent, în perioada comunistă, prin care s-au ras munți și dealuri, iar satul Geamăna a fost acoperit cu deșeuri miniere."
+          "textContent": "<b>Traseul evoluției miniere</b> - se începe cu povestea veche a mineritului 'moștenit din tată-n fiu', prin a vizita galeriile Antice realizate de agatârși cu apă și foc, apoi galeriile trapeizoidale realizate de daci și romani cu dalta și ciocanul, după care se continuă cu instalațiile pentru procesarea aurului ca șteampurile sau lacurile de acumulare. La final se vizitează uzinele, iazurile de decantare și carierele de suprafață realizate recent, în perioada comunistă, prin care s-au ras munți și dealuri, iar satul Geamăna a fost acoperit cu deșeuri miniere."
         },
         {
-          "textContent": "<b>Traseul protestelor miniere</b> - trecem prin zonele unde au avut loc proteste pentru sau împotriva proiectului de minerit propus de firma canadiană în 2007 și care dorea să transforme întreg satul într-o imensă carieră de aur. Vă povestim ce s-a întâmplat și care ar fi fost efectele implementării acestui proiect în zonă. La final vom urmări la Casa Petri câteva filmulețe cu protestele masive de stradă din 2014, organizate în țară și în străinătate, împotriva acestui proiect."
+          "textContent": "<b>Traseul protestelor miniere</b> - cuprinde zonele unde au avut loc proteste pentru sau împotriva proiectului de minerit propus de o firmă canadiană în 2007. Află ce s-a întâmplat, vezi cum arată zona ce urma să fie transformată într-o carieră de aur și satul ce trebuia să fie acoperit de unul dintre cele mai mare lacuri cu cianuri din Europa. La final vom urmări la Casa Petri câteva filmulețe cu protestele masive de stradă din 2014, organizate în țară și în străinătate, împotriva acestui proiect."
         },
         {
           "seeAlso": [
             {
-              "text": "Rezervările pentru aceste trasee ghidate se fac aici...",
+              "text": "<b>Dorești un traseu ghidat?</b> Specifică acest lucru la rezervarea unei camere. Click aici pentru rezervări...",
               "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#reservations",
+              "link": "ro/accommodation#bookings",
               "openInNewTab": false
             }
           ]

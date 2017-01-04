@@ -179,7 +179,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-calendar-check-o'></i> Rezervări",
-      "sectionId": "reservations",
+      "sectionId": "bookings",
       "addLinkInPageHeadline": true
     },
     {

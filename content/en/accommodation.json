@@ -180,7 +180,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-calendar-check-o'></i> Bookings",
-      "sectionId": "reservations",
+      "sectionId": "bookings",
       "addLinkInPageHeadline": true
     },
     {
