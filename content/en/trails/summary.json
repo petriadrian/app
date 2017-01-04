@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with fantastic landscapes due to the mountains, valleys and the lakes around us, but also with a rich heritage because of the buildings, galleries and mining areas built by the various civilizations who came here to extract gold. See the hiking or biking trails bellow to discover our attractions. Each trail has images, description and <b>online maps</b> with <b>GPS</b> data, so they can be access from any device during your journey. <br> The icons from each trail means: <i class='fa fa-lg fa-blind'></i> - <b>hiking</b> trail | <i class='fa fa-lg fa-bicycle'></i> - <b>biking</b> trail | <i class='fa fa-lg fa-car'></i> - the destination can be also reach by <b>car</b>"
+          "textContent": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with fantastic landscapes due to the mountains, valleys and the lakes around us, but also with a rich heritage because of the buildings, galleries and mining areas built by the various civilizations who came here to extract gold. To discover our attractions see the hiking or biking trails bellow. Each trail has images, description and <b>online maps</b> with <b>GPS</b> data, so they can be access from any device during your journey. <br> The icons from each trail means: <i class='fa fa-lg fa-blind'></i> - <b>hiking</b> trail | <i class='fa fa-lg fa-bicycle'></i> - <b>biking</b> trail | <i class='fa fa-lg fa-car'></i> - the destination can be also reach by <b>car</b>"
         }
       ]
     },
@@ -46,7 +46,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "These trails contains the attractions from Roșia Montană."
+          "textContent": "These trails contains the main attractions from Roșia Montană."
         }
       ]
     },
@@ -127,18 +127,19 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "The above trails can be also made with a guide, but for guided trails our recommendation are the following thematic trails:"
+          "textContent": "The above trails can be also made with a guide. We also recommend the following thematic, guided trails:"
         },
         {
-          "textContent": "<b>The mining evolution trail</b> - starts with the old mining story of Rosia Montana by visiting the Antic galleries made by Agathyrsi with fire and water, then the rectangular galleries made by romans with the chisel and hammers and the installations for processing the golden ore (stamps mills and artificial lakes). At the end will be visited the mining plants, the wasting ponds and the open pits made recently by the the communist, which shaved the mountains and covered the Geamana village with mining wastes."
+          "textContent": "<b>The mining evolution trail</b> - starts with the old mining story of Rosia Montana by visiting the Antic galleries made with fire and water, then the rectangular galleries made by romans with the chisel and hammers and the installations for processing the golden ore (stamps mills and artificial lakes). At the end will be visited the mining plants, the wasting ponds and the open pits made recently by the the communist, which shaved the mountains and covered the Geamana village with a wasting lake."
         },
         {
           "textContent": "<b>The mining protests trail</b> - contains the areas where protests were held for or against the gold mining project proposed by the Canadian company in 2007. Find out what happened abd see how it looks the village which should have been transformed in an open pit mine with one of the biggest cyanide wasting lake from Europe. At the end we will watch at Casa Petri some movies with the streets protests from 2014, organized in the country and abroad, against this project."
         },
         {
+          "textContent": "<b>Are you interested in guided tours?</b> Inform us while booking a room.",
           "seeAlso": [
             {
-              "text": "<b>Do you want a guided tour?</b> Please specify that while booking a room. Click here for bookings...",
+              "text": "Click here for bookings...",
               "textOnMouseOver": "Click here...",
               "link": "en/accommodation#bookings",
               "openInNewTab": false
@@ -178,7 +179,7 @@
           "page": "en/accommodation"
         },
         {
-          "page": "en/relaxing"
+          "page": "en/events/steamTrain"
         }
       ]
     }

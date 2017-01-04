@@ -9,7 +9,7 @@
     }
   },
   "topText": {
-    "text": " Discover the heritage and the nature of <b>Roșia Montană</b>",
+    "text": " Discover the natural and cultural heritage of <b>Roșia Montană</b>",
     "url": {
       "link": "en/home",
       "textOnMouseOver": "see more...",
@@ -18,41 +18,25 @@
   },
   "regularButtons": [
     {
-      "text": "<i class='fa fa-lg fa-map-signs'></i> hike",
+      "text": "<i class='fa fa-lg fa-map-signs'></i> Trails and attractions",
       "url": {
         "link": "en/trails/summary",
-        "textOnMouseOver": "trails",
+        "textOnMouseOver": "hiking or cycling trails",
         "openInNewTab": false
       }
     },
     {
-      "text": "<i class='fa fa-lg fa-bicycle'></i> bike",
-      "url": {
-        "link": "en/trails/summary",
-        "textOnMouseOver": "trails",
-        "openInNewTab": false
-      }
-    },
-    {
-      "text": "<i class='fa fa-lg fa-book'></i> read",
-      "url": {
-        "link": "en/relaxing",
-        "textOnMouseOver": "see our library",
-        "openInNewTab": false
-      }
-    },
-    {
-      "text": "<i class='fa fa-lg fa-bed'></i> sleep",
+      "text": "<i class='fa fa-lg fa-bed'></i> Accommodation",
       "url": {
         "link": "en/accommodation",
-        "textOnMouseOver": "see the inside and the accommodation options",
+        "textOnMouseOver": "see the inside and bookings",
         "openInNewTab": false
       }
     }
   ],
   "importantButtons": [
     {
-      "text": "packages",
+      "text": "Vouchers",
       "url": {
         "link": "",
         "textOnMouseOver": "vouchers (accommodation + activities)",

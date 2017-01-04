@@ -40,7 +40,7 @@
       "specificArticles": [
         {
           "title": "Books apartment",
-          "textContent": "It is located at the ground floor, has one meter wide walls made of rocks and a closet filled with books. It has two bunk beds and an expandable couch. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons | <i class='fa fa-wifi'></i> free wifi | <i class='fa fa-shower'></i> private bathroom",
+          "textContent": "It is located at the ground floor, has one meter wide walls made of rocks and a closet filled with books. It has two bunk beds and an expandable couch. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fa fa-book'></i> library",
           "images": [
             {
               "text": "Books apartment - We transformed a cupboard into a library with old books, guides about Rosia Montana and board games.",
@@ -66,7 +66,7 @@
       "specificArticles": [
         {
           "title": "The white apartment",
-          "textContent": "The old summer house has one room with two beds, a bathroom and a kitchen. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i> persons | <i class='fa fa-wifi'></i> free wifi | <i class='fa fa-shower'></i> private bathroom | <i class='fa fa-cutlery'></i> kitchen",
+          "textContent": "The old summer house has one room with two beds, a bathroom and a kitchen. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fa fa-cutlery'></i> kitchen - <i class='fa fa-book'></i> library",
           "images": [
             {
               "text": "The white apartment - the beds can be joined",
@@ -107,22 +107,79 @@
       "specificArticles": [
         {
           "title": "The Upstairs apartment",
-          "textContent": "It is located at the first floor and the access is made through a hallway with stairs and many small windows called 'târnaț' (specific to our area). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons | <i class='fa fa-wifi'></i> free wifi | <i class='fa fa-shower'></i> private bathroom",
+          "textContent": "It is located at the first floor and the access is made through a hallway with stairs and many small windows called 'târnaț' (specific to our area). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fa fa-book'></i> library",
           "images": [
             {
               "text": "The Upstairs apartment - the double bed can be separated. The painting was made in 1960 and is very well preserved",
-              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/1.jpg",
-              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/1.jpg"
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/room.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/room.jpg"
             },
             {
-              "text": "The Upstairs apartment - the relaxing area with a chic coffee table and many places with old books.",
-              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/2.jpg",
-              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/2.jpg"
+              "text": "The Upstairs apartment - a relaxing area with a chic coffee table and many places with old books.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/coffeeTable.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/coffeeTable.jpg"
+            },
+            {
+              "text": "The Upstairs apartment - we transformed an old door into a library.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/doorBook.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/doorBook.jpg"
+            },
+            {
+              "text": "The Upstairs apartment - places with old books, vinyls and newspapers and magazines about Rosia Montana.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/booksPlaces.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/booksPlaces.jpg"
             },
             {
               "text": "The Upstairs apartment - bathroom heated with electric boiler.",
-              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/3.jpg",
-              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/3.jpg"
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/bathroom.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/bathroom.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-home'></i> Outside",
+      "sectionId": "outside",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Photos from <b>our yard</b> or around the house.",
+          "images": [
+            {
+              "text": "Our yard - We have some hammocks to rest after a long hike, read, enjoy the Cârnic view or surf on the internet (there is wifi too).",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/hammock.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/hammock.jpg"
+            },
+            {
+              "text": "Our yard - The pavilion is the perfect place for chatting, drinking 'țuica' or to eat before going out for a hike.",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/garden.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/garden.jpg"
+            },
+            {
+              "text": "Our yard - We have a film projector, so we can watch images and movies about Roșia Montana.",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+            },
+            {
+              "text": "Casa Petri - view from the street.",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/house.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/house.jpg"
+            },
+            {
+              "text": "Beside the house is a playground for children.",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/childrenPark.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/childrenPark.jpg"
+            },
+            {
+              "text": "Visit us also on winter! Beside the house we have a perfect spot for sleighing.",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/sleighing.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/sleighing.jpg"
             }
           ]
         }
@@ -305,12 +362,6 @@
     },
     {
       "type": "socialButtons"
-    },
-    {
-      "type": "linkToOtherPages",
-      "banner": {
-        "page": "en/relaxing"
-      }
     },
     {
       "type": "title",

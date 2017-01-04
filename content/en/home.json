@@ -48,7 +48,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-comment-o'></i> Why visit Rosia Montana?",
+      "text": "Things to do in Rosia Montana",
       "addLinkInPageHeadline": false,
       "sectionId": "whyVisitRosia"
     },
@@ -56,7 +56,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>1. 'Unique cultural landscape' - visit the protected area of Rosia Montana</b> <br>The remains of the gold mining that started here since antiquity (galleries, stamp mills, artificial lakes) and the historic center with the heritage buildings made by the civilizations who came here to extract the gold (schools in different languages, multicultural churches or the goldsmith houses) can be visited by these <b>trails</b>:"
+          "textContent": "<b>1. Discover an 'unique cultural landscape' - visit Rosia Montana protected area</b> <br>The remains of the gold mining that started since antiquity (galleries, stamp mills, artificial lakes) and the historic center with the heritage buildings made by the civilizations who came here to extract gold (schools in different languages, multicultural churches or the goldsmith houses) can be visited through the following trails:"
         }
       ]
     },
@@ -84,7 +84,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>2. Discover the natural attractions from the area</b> <br>The surroundings are also amazing, unpaved roads and footpaths connect us to the villages, mountain peaks, lakes and other objectives of the Apuseni Mountains (Carpathians). See the bellow trails (they can be also made by <b>bike</b> - you can rent one from Rosia)."
+          "textContent": "<b>2. Visit our natural attractions <i class='fa fa-fw fa-bicycle'></i> great cycling breaks</b> <br>The surroundings are also amazing, unpaved roads and footpaths bind us to the villages, mountain peaks, lakes and other objectives of the Apuseni Mountains (Carpathians - Transylvania). See the bellow trails that are excellent for <b>bikes</b> (can be rent from Rosia)."
         }
       ]
     },
@@ -112,7 +112,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>3. See what would be the impact of a new mining open pit and how it looks the existing ones</b> <br> Visit one of the biggest mining open pits from Europe: the Roșia Poieni open pit - 'Geamăna' trail and the Cetate open pit - 'Cârnic' trail. 'Corna' trail contains the area that should by covered by a cyanide wasting lake if a new gold mining would start."
+          "textContent": "<b>3. See the impact of opening a new open pit mine and visit the existing ones</b><br>Huge street protests were made in 2013 against opening a new gold mine by a canadian company. Visit the village which should have been covered by a cyanide lake - 'Corna' trail and ones of the biggest open pit mines from Europe made during communism: Roșia Poieni - 'Geamăna' trail and Cetate - 'Cârnic' trail."
         }
       ]
     },
@@ -120,13 +120,29 @@
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
+          "page": "en/trails/corna"
+        },
+        {
           "page": "en/trails/geamana"
         },
         {
           "page": "en/trails/carnic"
-        },
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
         {
-          "page": "en/trails/corna"
+          "textContent": "<b>Discover more attractions from our area.</b>",
+          "seeAlso": [
+            {
+              "text": "See here all the hiking or biking trails...",
+              "textOnMouseOver": "Click here...",
+              "link": "en/trails/summary",
+              "openInNewTab": false
+            }
+          ]
         }
       ]
     },
@@ -140,7 +156,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "We want to offer you an unique and authentic experience here in Rosia Montana, that's why we offer accommodation in the historic center and we put you in touch with the locals who make guided trails, traditional food or who rents bikes."
+          "textContent": "We want to offer you an unique and authentic experience here in Rosia Montana, that's why we offer accommodation in the historic center and we put you in touch with the locals who offers guided trails, traditional food or who rent bikes."
         }
       ]
     },
@@ -164,7 +180,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-calendar'></i> Other events",
+      "text": "<i class='fa fa-calendar'></i> Events",
       "sectionId": "events",
       "addLinkInPageHeadline": false
     },

@@ -46,7 +46,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Aceste trasee conțin atracțiile din Roșia Montană."
+          "textContent": "Aceste trasee conțin principalele atracții din Roșia Montană."
         }
       ]
     },
@@ -136,9 +136,10 @@
           "textContent": "<b>Traseul protestelor miniere</b> - cuprinde zonele unde au avut loc proteste pentru sau împotriva proiectului de minerit propus de o firmă canadiană în 2007. Află ce s-a întâmplat, vezi cum arată zona ce urma să fie transformată într-o carieră de aur și satul ce trebuia să fie acoperit de unul dintre cele mai mare lacuri cu cianuri din Europa. La final vom urmări la Casa Petri câteva filmulețe cu protestele masive de stradă din 2014, organizate în țară și în străinătate, împotriva acestui proiect."
         },
         {
+          "textContent": "<b>Dorești un traseu ghidat?</b> Specifică acest lucru la rezervarea unei camere.",
           "seeAlso": [
             {
-              "text": "<b>Dorești un traseu ghidat?</b> Specifică acest lucru la rezervarea unei camere. Click aici pentru rezervări...",
+              "text": "Click aici pentru rezervări...",
               "textOnMouseOver": "Click aici...",
               "link": "ro/accommodation#bookings",
               "openInNewTab": false
@@ -178,7 +179,7 @@
           "page": "ro/accommodation"
         },
         {
-          "page": "ro/relaxing"
+          "page": "ro/events/steamTrain"
         }
       ]
     }

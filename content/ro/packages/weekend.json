@@ -1,7 +1,7 @@
 {
   "presentation": {
-    "title": "Weekend voucher",
-    "headline": "Weekend voucher - Roșia Montană",
+    "title": "Weekend break",
+    "headline": "Weekend break - Roșia Montană",
     "description": "Include rezervarea unei camere de <b>2 persoane pe 2 nopți</b> și un <b>traseu ghidat</b> de 6 ore spre principalele obiective culturale și naturale din Roșia Montană.",
     "fullWidthImg": "img/packages/weekend/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/packages/weekend/presentation/smallBoxImg.jpg"
@@ -12,7 +12,7 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Weekend Voucher - Roșia Montană",
+    "title": "Weekend break - Roșia Montană",
     "description": "Include rezervarea unei camere de 2 persoane pentru 2 nopți și un traseu ghidat de 6 ore în Roșia Montană într-o perioadă din anul 2017. Voucherul va fi primit pe e-mail în format pdf și poate fi printat pentru a fi oferit cadou. Detalii și rezervări aici...",
     "displayOnShareImg": "img/packages/weekend/presentation/displayOnShareImg.jpg"
   },
@@ -192,7 +192,7 @@
           "page": "ro/accommodation"
         },
         {
-          "page": "ro/relaxing"
+          "page": "ro/events/steamTrain"
         }
       ]
     }

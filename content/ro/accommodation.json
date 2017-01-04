@@ -39,7 +39,7 @@
       "specificArticles": [
         {
           "title": "Apartamentul cu cărți",
-          "textContent": "Este situat la parter, are pereți de piatră de un metru grosime, un dulap cu cărți, două paturi etajate și o canapea extensibilă. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persoane | <i class='fa fa-wifi'></i> wifi gratis | <i class='fa fa-shower'></i> baie privată",
+          "textContent": "Este situat la parter, are pereți de piatră de un metru grosime, un dulap cu cărți, două paturi etajate și o canapea extensibilă. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persoane - <i class='fa fa-wifi'></i> wifi gratis - <i class='fa fa-shower'></i> baie privată - <i class='fa fa-book'></i> bibliotecă",
           "images": [
             {
               "text": "Apartamentul cu cărți - Fostul bufet de bucătărie a devenit o bibliotecă cu vechile cărți ale bunicilor, ghiduri despre Roșia Montană și board games",
@@ -65,7 +65,7 @@
       "specificArticles": [
         {
           "title": "Apartamentul alb",
-          "textContent": "Fosta casă de vară a gospodăriei dispune de o cameră cu 2 paturi, baie și bucătărie. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i> persoane | <i class='fa fa-wifi'></i> wifi gratis | <i class='fa fa-shower'></i> baie privată | <i class='fa fa-cutlery'></i> bucătărie",
+          "textContent": "Fosta casă de vară a gospodăriei dispune de o cameră cu 2 paturi, baie și bucătărie. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i> persoane - <i class='fa fa-wifi'></i> wifi gratis - <i class='fa fa-shower'></i> baie privată - <i class='fa fa-cutlery'></i> bucătărie - <i class='fa fa-book'></i> bibliotecă",
           "images": [
             {
               "text": "Apartamentul alb - Paturile din cameră se pot uni",
@@ -106,22 +106,79 @@
       "specificArticles": [
         {
           "title": "Apartamentul din târnaț",
-          "textContent": "Se află situat la etaj, iar accesul se face prin târnaț (un hol cu scări și ferestre mici, specific caselor din zonă). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persoane | <i class='fa fa-wifi'></i> wifi gratis | <i class='fa fa-shower'></i> baie privată",
+          "textContent": "Se află situat la etaj, iar accesul se face prin târnaț (un hol cu scări și ferestre mici, specific caselor din zonă). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persoane - <i class='fa fa-wifi'></i> wifi gratis - <i class='fa fa-shower'></i> baie privată - <i class='fa fa-book'></i> bibliotecă",
           "images": [
             {
               "text": "Apartamentul din târnaț - patul dublu se poate separa. Zugrăveala din anul 1960 este foarte bine păstrată (cam 2 săptămâni a durat atunci realizarea ei)",
-              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/1.jpg",
-              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/1.jpg"
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/room.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/room.jpg"
             },
             {
-              "text": "Apartamentul din târnaț - zona de relaxare cu o măsuță de cafea și multe cărți vechi.",
-              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/2.jpg",
-              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/2.jpg"
+              "text": "Apartamentul din târnaț - zona de relaxare cu o măsuță de cafea și cărți vechi.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/coffeeTable.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/coffeeTable.jpg"
+            },
+            {
+              "text": "Apartamentul din târnaț - am transformat o veche ușă într-o bibliotecă.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/doorBook.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/doorBook.jpg"
+            },
+            {
+              "text": "Apartamentul din târnaț - cărți vechi, viniluri și ziare sau reviste despre Rosia Montana.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/booksPlaces.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/booksPlaces.jpg"
             },
             {
               "text": "Apartamentul din târnaț - baie cu boiler electric",
-              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/3.jpg",
-              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/3.jpg"
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/bathroom.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/bathroom.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-home'></i> Exterior",
+      "sectionId": "outside",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Imagini din <b>curtea casei</b> sau din apropierea acesteia.",
+          "images": [
+            {
+              "text": "Curtea casei - De copaci agățăm hamace numai bune de lenevit, citit sau admirat masivul Cârnic. Da, este semnal wifi și aici.",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/hammock.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/hammock.jpg"
+            },
+            {
+              "text": "Curtea casei - Foișorul din grădină e locul ideal de stat la povești, de închinat pahare cu țuică sau de luat masa înainte de a pleca pe traseu.",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/garden.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/garden.jpg"
+            },
+            {
+              "text": "Curtea casei - Seara putem proiecta în grădină filme și imagini despre Roșia Montana.",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+            },
+            {
+              "text": "Casa Petri - vedere din stradă.",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/house.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/house.jpg"
+            },
+            {
+              "text": "Chiar lângă casă se află un parc de joacă pentru copii.",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/childrenPark.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/childrenPark.jpg"
+            },
+            {
+              "text": "Veniți și iarna! Lângă casă avem un derdeluș pentru săniuș.",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/sleighing.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/sleighing.jpg"
             }
           ]
         }
@@ -164,7 +221,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Avem o bucătărie cu veselă, frigider, cuptor și plită sau un grătar în grădină unde puteți găti. Dacă doriți puteți lua masa și la un vecin care gătește destul de bine (specificați în momentul rezervării și vă trimitem mai multe detalii). În apropirea casei (~5min) avem 3 magazine alimentare - ",
+          "textContent": "Avem o bucătărie cu veselă, frigider, cuptor sau un grătar în grădină unde puteți găti. Dacă doriți puteți lua masa și la un vecin care gătește destul de bine (specificați în momentul rezervării și vă trimitem mai multe detalii). În apropirea casei (~5min) avem 3 magazine alimentare - ",
           "seeAlso": [
             {
               "text": "vezi aici unde sunt situate și cum ajungi la ele",
@@ -304,12 +361,6 @@
     },
     {
       "type": "socialButtons"
-    },
-    {
-      "type": "linkToOtherPages",
-      "banner": {
-        "page": "ro/relaxing"
-      }
     },
     {
       "type": "title",

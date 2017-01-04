@@ -18,41 +18,25 @@
   },
   "regularButtons": [
     {
-      "text": "<i class='fa fa-lg fa-map-signs'></i> drumeții",
+      "text": "<i class='fa fa-lg fa-map-signs'></i> Trasee și atracții",
       "url": {
         "link": "ro/trails/summary",
-        "textOnMouseOver": "trasee drumeție",
+        "textOnMouseOver": "atracții și trasee de drumeție sau ciclism",
         "openInNewTab": false
       }
     },
     {
-      "text": "<i class='fa fa-lg fa-bicycle'></i> ciclism",
-      "url": {
-        "link": "ro/trails/summary",
-        "textOnMouseOver": "trasee ciclism",
-        "openInNewTab": false
-      }
-    },
-    {
-      "text": "<i class='fa fa-lg fa-book'></i> cărți",
-      "url": {
-        "link": "ro/relaxing",
-        "textOnMouseOver": "vezi biblioteca noastră",
-        "openInNewTab": false
-      }
-    },
-    {
-      "text": "<i class='fa fa-lg fa-bed'></i>  cazare",
+      "text": "<i class='fa fa-lg fa-bed'></i> Cazare și rezervări",
       "url": {
         "link": "ro/accommodation",
-        "textOnMouseOver": "interiorul și variantele de cazare...",
+        "textOnMouseOver": "vezi interiorul și rezervări ...",
         "openInNewTab": false
       }
     }
   ],
   "importantButtons": [
     {
-      "text": "pachete",
+      "text": "Vouchere",
       "url": {
         "link": "ro/packages/summary",
         "textOnMouseOver": "vouchere (cazare+activități)",
