@@ -39,7 +39,7 @@
       "specificArticles": [
         {
           "title": "Apartamentul cu cărți",
-          "textContent": "Este situat la parter, are pereți de piatră de un metru grosime, un dulap cu cărți, două paturi etajate și o canapea extensibilă. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persoane - <i class='fa fa-wifi'></i> wifi gratis - <i class='fa fa-shower'></i> baie privată - <i class='fa fa-book'></i> bibliotecă",
+          "textContent": "Are pereți de piatră de un metru grosime, un dulap cu cărți, două paturi etajate și o canapea extensibilă. Este situat la parter și are intrare privată. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persoane - <i class='fa fa-wifi'></i> wifi gratis - <i class='fa fa-shower'></i> baie privată - <i class='fa fa-cutlery'></i> bucătărioară propie - <i class='fa fa-book'></i> bibliotecă",
           "images": [
             {
               "text": "Apartamentul cu cărți - Fostul bufet de bucătărie a devenit o bibliotecă cu vechile cărți ale bunicilor, ghiduri despre Roșia Montană și board games",
@@ -64,36 +64,36 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "Apartamentul alb",
-          "textContent": "Fosta casă de vară a gospodăriei dispune de o cameră cu 2 paturi, baie și bucătărie. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i> persoane - <i class='fa fa-wifi'></i> wifi gratis - <i class='fa fa-shower'></i> baie privată - <i class='fa fa-cutlery'></i> bucătărie - <i class='fa fa-book'></i> bibliotecă",
+          "title": "Apartamentul din căsuță",
+          "textContent": "Casa din grădină dispune de o cameră cu 2 paturi, baie, bucătărie și intrare privată. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i> persoane - <i class='fa fa-wifi'></i> wifi gratis - <i class='fa fa-shower'></i> baie privată - <i class='fa fa-cutlery'></i> bucătărie propie - <i class='fa fa-book'></i> bibliotecă",
           "images": [
             {
-              "text": "Apartamentul alb - Paturile din cameră se pot uni",
+              "text": "Apartamentul din căsuță - Paturile din cameră se pot uni",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/1.jpg"
             },
             {
-              "text": "Apartamentul alb - În bibliotecă sunt cărți vechi, hărți și ghiduri despre Roșia Montană",
+              "text": "Apartamentul din căsuță - În bibliotecă sunt cărți vechi, hărți și ghiduri despre Roșia Montană",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/2.jpg"
             },
             {
-              "text": "Apartamentul alb - Din cameră se intră direct în baie sau bucătărie, iar încălzirea se face cu o teracotă pe lemne.",
+              "text": "Apartamentul din căsuță - Din cameră se intră direct în baie sau bucătărie, iar încălzirea se face cu o teracotă pe lemne.",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/3.jpg"
             },
             {
-              "text": "Apartamentul alb - bucătăria (chiuvetă cu apă caldă și rece, plită, frigider, cuptor cu microunde, tacâmuri și veselă)",
-              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/4.jpg",
-              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/4.jpg"
+              "text": "Apartamentul din căsuță - bucătăria (chiuvetă cu apă caldă și rece, plită, frigider, cuptor cu microunde, tacâmuri și veselă)",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/kitchen.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/kitchen.jpg"
             },
             {
-              "text": "Apartamentul alb - baie cu boiler electric",
+              "text": "Apartamentul din căsuță - baie cu boiler electric",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/6.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/6.jpg"
             },
             {
-              "text": "Apartamentul alb - exterior",
+              "text": "Apartamentul din căsuță - exterior - intrare privată",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/7.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/7.jpg"
             }
@@ -106,7 +106,7 @@
       "specificArticles": [
         {
           "title": "Apartamentul din târnaț",
-          "textContent": "Se află situat la etaj, iar accesul se face prin târnaț (un hol cu scări și ferestre mici, specific caselor din zonă). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persoane - <i class='fa fa-wifi'></i> wifi gratis - <i class='fa fa-shower'></i> baie privată - <i class='fa fa-book'></i> bibliotecă",
+          "textContent": "Se află situat la etaj, are intrare privată, iar accesul se face prin târnaț (un hol cu scări și ferestre mici, specific caselor din zonă). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persoane - <i class='fa fa-wifi'></i> wifi gratis - <i class='fa fa-shower'></i> baie privată  - <i class='fa fa-cutlery'></i> bucătărioară propie - <i class='fa fa-book'></i> bibliotecă",
           "images": [
             {
               "text": "Apartamentul din târnaț - patul dublu se poate separa. Zugrăveala din anul 1960 este foarte bine păstrată (cam 2 săptămâni a durat atunci realizarea ei)",
@@ -221,10 +221,10 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Avem o bucătărie cu veselă, frigider, cuptor sau un grătar în grădină unde puteți găti. Dacă doriți puteți lua masa și la un vecin care gătește destul de bine (specificați în momentul rezervării și vă trimitem mai multe detalii). În apropirea casei (~5min) avem 3 magazine alimentare - ",
+          "textContent": "Fiecare apartament are o mică bucătărie iar în grădină avem un grătar unde puteți găti. Recomandarea noastră este să luați masa la localnicii care oferă mese calde și tradiționale la ei în ogradă - bifați în momentul rezervării 'locuri de luat masa' și vă trimitem mai multe detalii. În apropiere (~5min) sunt și 3 magazine alimentare - ",
           "seeAlso": [
             {
-              "text": "vezi aici unde sunt situate și cum ajungi la ele",
+              "text": "vezi aici unde sunt situate și cum se ajunge la ele...",
               "textOnMouseOver": "Click aici...",
               "link": "https://www.google.ro/maps/dir/Emiliana+Shop,+DC146,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Bereczky+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Mixt+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Historical+center,+nr.+331A,+Casa+Petri,+Ro%C8%99ia+Montan%C4%83+517615/@46.3064009,23.1286362,17z/data=!3m1!4b1!4m26!4m25!1m5!1m1!1s0x474ecce0f07e87bf:0xc1e5f1730ebc127c!2m2!1d23.1317125!2d46.3060228!1m5!1m1!1s0x474ecce0563eefe1:0x44635688d438a223!2m2!1d23.1308247!2d46.30597!1m5!1m1!1s0x474ecce04e3e997b:0x14730c483b204593!2m2!1d23.1300147!2d46.3061442!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.1299373!2d46.3065974!3e2?hl=ro",
               "openInNewTab": true

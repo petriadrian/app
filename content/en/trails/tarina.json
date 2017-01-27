@@ -139,6 +139,16 @@
               "fullSizeUrl": "img/trails/attractions/lakes/tariniLake/fullSize/4.jpg"
             },
             {
+              "text": "To the Rotundu Peak - the entrace in the pine forest.",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/4.jpg"
+            },
+            {
+              "text": "On the trail",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/6.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/6.jpg"
+            },
+            {
               "text": "Tăul Mare view from Rotundu Peak.",
               "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/7.jpg",
               "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/7.jpg"
@@ -162,6 +172,11 @@
               "text": "Tăul Mare.",
               "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/9.jpg",
               "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/9.jpg"
+            },
+            {
+              "text": "Tăul Mare.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/taul-mare-turisti.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/taul-mare-turisti.jpg"
             },
             {
               "text": "Văidoaia Galleries.",

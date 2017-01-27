@@ -9,7 +9,7 @@
     }
   },
   "topText": {
-    "text": " Descoperă natura și patrimoniul din <b>Roșia Montană</b>",
+    "text": "descoperă <b>Roșia Montană</b>",
     "url": {
       "link": "ro/home",
       "textOnMouseOver": "vezi mai mult...",
@@ -36,7 +36,7 @@
   ],
   "importantButtons": [
     {
-      "text": "Vouchere",
+      "text": "Pachete și vouchere",
       "url": {
         "link": "ro/packages/summary",
         "textOnMouseOver": "vouchere (cazare+activități)",

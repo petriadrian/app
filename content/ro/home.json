@@ -26,6 +26,9 @@
         "timeInterval": "7000",
         "slides": [
           {
+            "page": "ro/trails/letySulei"
+          },
+          {
             "page": "ro/trails/romanGalleries"
           },
           {
@@ -39,9 +42,6 @@
           },
           {
             "page": "ro/trails/carnic"
-          },
-          {
-            "page": "ro/trails/letySulei"
           }
         ]
       }
@@ -84,7 +84,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>2. Descoperă atracțiile naturale din zonă <i class='fa fa-fw fa-bicycle'></i> trasee de bicicletă</b><br>Avem împrejurimi superbe. Drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și alte obiective din Munții Apuseni. Vă recomandăm să parcurgeți traseele de mai jos cu <b>bicileta</b> (puteți închiria una din Roșia). "
+          "textContent": "<b>2. Descoperă atracțiile naturale din zonă - accesibile și cu bicicleta</b><br>Avem împrejurimi superbe! Drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și alte obiective din Munții Apuseni. Vă recomandăm să parcurgeți traseele de mai jos cu <b>bicileta</b> (puteți închiria una din Roșia)."
         }
       ]
     },
@@ -98,7 +98,7 @@
           "page": "ro/trails/detunata"
         },
         {
-          "page": "ro/trails/scarisoara"
+          "page": "ro/trails/fourLakes"
         }
       ]
     },
@@ -112,7 +112,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>3. Vezi ce impact ar avea o nouă exploatare minieră și cum arată cele existente</b> <br> În anul 2013 au avut loc mari proteste de stradă împotriva începerii unei noi exploatări de aur de către o firmă canadiană. Vizitează satul ce urma să fie acoperit de un lac de cianură - traseul 'Corna' și unele dintre cele mai mari exploatări comuniste din Europa: Roșia Poieni - traseul 'Geamăna' și Cetate - traseul 'Cârnic'."
+          "textContent": "<b>3. Vezi ce impact ar avea o nouă exploatare minieră și cum arată cele existente</b> <br> În anul 2013 au avut loc proteste masive de stradă împotriva începeri unei noi exploatări de aur de către o firmă canadiană. Vizitează satul ce urma să fie acoperit de un lac de cianură - traseul 'Corna' și unele dintre cele mai mari exploatări de suprafață din Europa: Roșia Poieni - traseul 'Geamăna' și Cetate - traseul 'Cârnic'."
         }
       ]
     },

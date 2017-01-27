@@ -40,7 +40,7 @@
       "specificArticles": [
         {
           "title": "Books apartment",
-          "textContent": "It is located at the ground floor, has one meter wide walls made of rocks and a closet filled with books. It has two bunk beds and an expandable couch. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fa fa-book'></i> library",
+          "textContent": "Has one meter wide walls made of rocks, a closet filled with books, two bunk beds and an expandable couch. Is at the ground floor and has private entrance. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom  - <i class='fa fa-cutlery'></i> private kitchenette - <i class='fa fa-book'></i> library",
           "images": [
             {
               "text": "Books apartment - We transformed a cupboard into a library with old books, guides about Rosia Montana and board games.",
@@ -65,36 +65,36 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "The white apartment",
-          "textContent": "The old summer house has one room with two beds, a bathroom and a kitchen. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fa fa-cutlery'></i> kitchen - <i class='fa fa-book'></i> library",
+          "title": "Little house apartment",
+          "textContent": "The garden house has one room with two beds, bathroom, kitchen and private entrance. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fa fa-cutlery'></i> private kitchen - <i class='fa fa-book'></i> library",
           "images": [
             {
-              "text": "The white apartment - the beds can be joined",
+              "text": "Little house apartment - the beds can be joined",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/1.jpg"
             },
             {
-              "text": "The white apartment - the library contains maps, books and guides about Roșia Montană",
+              "text": "Little house apartment - the library contains maps, books and guides about Roșia Montană",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/2.jpg"
             },
             {
-              "text": "The white apartment - the entrance in the private bathroom and kitchen are directly from the room. The heating is done by a terracotta stove on woods.",
+              "text": "Little house apartment - the entrance in the private bathroom and kitchen are directly from the room. The heating is done by a terracotta stove on woods.",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/3.jpg"
             },
             {
-              "text": "The white apartment - kitchen (fridge, microwave, hob, sink with hot and cold water, dishes and cutlery)",
-              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/4.jpg",
-              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/4.jpg"
+              "text": "Little house apartment - kitchen (fridge, microwave, hob, sink with hot and cold water, dishes and cutlery)",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/kitchen.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/kitchen.jpg"
             },
             {
-              "text": "The white apartment - bathroom with electric boiler.",
+              "text": "Little house apartment - bathroom with electric boiler.",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/6.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/6.jpg"
             },
             {
-              "text": "The white apartment - from the outside",
+              "text": "Little house apartment - the outside - private entrance.",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/7.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/7.jpg"
             }
@@ -107,7 +107,7 @@
       "specificArticles": [
         {
           "title": "The Upstairs apartment",
-          "textContent": "It is located at the first floor and the access is made through a hallway with stairs and many small windows called 'târnaț' (specific to our area). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fa fa-book'></i> library",
+          "textContent": "It is located at the first floor, has private entrance and the access is made through a hallway with stairs and many small windows called 'târnaț' (specific to our area). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fa fa-cutlery'></i> private kitchenette - <i class='fa fa-book'></i> library",
           "images": [
             {
               "text": "The Upstairs apartment - the double bed can be separated. The painting was made in 1960 and is very well preserved",
@@ -222,7 +222,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "We have a kitchen with dishes, fridge, hob and microwave or a barbecue in the garden where you can cook. You can also eat at the locals who cook (inform us when you book a room and we will send you more details). There are also 3 grocery stores around the house (~5min away) - ",
+          "textContent": "Each apartment has a small kitchen and we also have a barbecue in the garden where you can cook. Our reccomandation is to eat at the locals who offers homemade meals - specify in the bellow bookings form and we will send you more details. Beside the house are 3 grocery stores (~5min away) - ",
           "seeAlso": [
             {
               "text": "see here how to reach them from Casa Petri...",

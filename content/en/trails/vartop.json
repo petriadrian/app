@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Vârtop",
     "headline": "Raspberries meadow - Vârtop trail",
-    "descriptionTitle": "<i class='fa fa-bicycle'></i> <b>~23km</b>",
+    "descriptionTitle": "<i class='fa fa-bicycle'></i> <b>~20km</b>",
     "description": "Quiet and relaxing. The pasture lands, the sunset villages (Piatra Albă - Vârtop) and the raspberries meadow.",
     "fullWidthImg": "img/trails/vartop/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/trails/vartop/presentation/smallBoxImg.jpg"
@@ -31,7 +31,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Start from Casa Petri and head to the Limestone Sculptures from the Orlea area and then to pasture lands where the locals leave their cattle to graze. From here you will have to go down in the valley at the Carpiniș Regional Center. Then you will have to climb back along the Vârtop and Gârda-Bărbulești villages. On this section of the trail you will find at the end of summer areas with raspberries, wild strawberries and blackberries. Next destination is the Rotundu Peak, a place that offers an amazing view to Rosia Montana village. Return back home along the Țarinii lake. The trail is on unpaved roads and is perfect for hiking or mountain bikes.",
+          "textContent": "Start from Casa Petri and head to the Limestone Sculptures from the Orlea area and then to pasture lands where the locals leave their cattle to graze. From here you will have to go down in the valley at the Carpiniș Regional Center. Then you will have to climb back along the Vârtop and Gârda-Bărbulești villages. On this section of the trail you will find at the end of summer areas with raspberries, wild strawberries and blackberries. Continue the trail to 'Izvorul Rotundu' (drinking fountain) and return back home along the Țarinii lake. The trail is on unpaved roads and is perfect for hiking or mountain bikes.",
           "seeAlso": [
             {
               "text": "<br><i class='fa fa-info-circle'></i> see the shorter version of the trail (~11km)",
@@ -53,11 +53,11 @@
             }
           ],
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw|place_id:ChIJkx2wHkPNTkcRPM_ZjLSGEjw|place_id:ChIJOQJaR53STkcRMpzQXDCDQAo|place_id:ChIJ022Lg5DSTkcRlX7VPdssTgo|place_id:ChIJ2c3bt1vNTkcRrzPgF8eV5eE|place_id:ChIJKfsTMzbNTkcRWl9UWoK6r6k|place_id:ChIJZ-TCfijNTkcRQiATb5BDZMI|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw|place_id:ChIJkx2wHkPNTkcRPM_ZjLSGEjw|place_id:ChIJOQJaR53STkcRMpzQXDCDQAo|place_id:ChIJ022Lg5DSTkcRlX7VPdssTgo|place_id:ChIJ2c3bt1vNTkcRrzPgF8eV5eE|place_id:ChIJKfsTMzbNTkcRWl9UWoK6r6k|place_id:ChIJZ-TCfijNTkcRQiATb5BDZMI|place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo",
             "list": [
               {
                 "textOnMouseOver": "length",
-                "text": "<i class='fa fa-arrows-h'></i> ~23km"
+                "text": "<i class='fa fa-arrows-h'></i> ~20km"
               },
               {
                 "textOnMouseOver": "walking duration",
@@ -165,7 +165,7 @@
         },
         {
           "title": "Raspberry meadow",
-          "textContent": "On your road from Rotundu Peak to Gârda will pass by the raspberry meadows. If is the end of summer we suggest to make a stop here.",
+          "textContent": "On your road from to Gârda will pass by the raspberry meadows. If is the end of summer we suggest to make a stop here.",
           "images": [
             {
               "text": "Raspberry meadow",
@@ -187,9 +187,6 @@
         {
           "category": "attractions",
           "ids": [
-            {
-              "id": "rotunduPeak"
-            },
             {
               "id": "tariniLake"
             }
@@ -280,17 +277,12 @@
               "fullSizeUrl": "img/trails/attractions/vartop/fullSize/18.jpg"
             },
             {
-              "text": "To the Rotundu Peak.",
+              "text": "To 'Izvorul Rotundu' - drinking fountain.",
               "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/9.jpg",
               "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/9.jpg"
             },
             {
-              "text": "To the Rotundu Peak - the entrace in the pine forest.",
-              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/4.jpg",
-              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/4.jpg"
-            },
-            {
-              "text": "The Rotundu Peak",
+              "text": "On the trail.",
               "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/6.jpg",
               "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/6.jpg"
             },

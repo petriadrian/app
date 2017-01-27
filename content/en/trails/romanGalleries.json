@@ -115,7 +115,12 @@
               "fullSizeUrl": "img/trails/attractions/orlea/fullSize/2.jpg"
             },
             {
-              "text": "Mining Museum. Find out how was gold processed and see the old mining installations.",
+              "text": "Mining Museum - stamp mills.",
+              "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/steampuri.jpg",
+              "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/steampuri.jpg"
+            },
+            {
+              "text": "Mining Museum - Find out how was gold processed and see the old mining installations.",
               "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/3.jpg",
               "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/3.jpg"
             }

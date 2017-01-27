@@ -9,7 +9,7 @@
     }
   },
   "topText": {
-    "text": " Discover the natural and cultural heritage of <b>Roșia Montană</b>",
+    "text": "discover <b>Rosia Montana</b>",
     "url": {
       "link": "en/home",
       "textOnMouseOver": "see more...",
@@ -26,7 +26,7 @@
       }
     },
     {
-      "text": "<i class='fa fa-lg fa-bed'></i> Accommodation",
+      "text": "<i class='fa fa-lg fa-bed'></i> Rooms and bookings",
       "url": {
         "link": "en/accommodation",
         "textOnMouseOver": "see the inside and bookings",
@@ -36,9 +36,9 @@
   ],
   "importantButtons": [
     {
-      "text": "Vouchers",
+      "text": "Packages and vouchers",
       "url": {
-        "link": "",
+        "link": "ro/packages/summary",
         "textOnMouseOver": "vouchers (accommodation + activities)",
         "openInNewTab": false
       }

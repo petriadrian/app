@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Vârtop",
     "headline": "Poiana cu zmeură - Traseul Vârtop",
-    "descriptionTitle": "<i class='fa fa-bicycle'></i> <b>~23km</b>",
+    "descriptionTitle": "<i class='fa fa-bicycle'></i> <b>~20km</b>",
     "description": "Zona cu pășuni, satele liniștite dinspre apus (Piatra Albă - Vârtop) și poiana cu zmeură.",
     "fullWidthImg": "img/trails/vartop/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/trails/vartop/presentation/smallBoxImg.jpg"
@@ -31,7 +31,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "De la Casa Petri se pleacă spre zona Orlea unde se pot vizita Sculpturile de Calcar. Continuăm spre locul unde localnicii își lasă vitele la păscut (islaz) iar apoi se coboră prin zona Piatra Albă la Centrul regional din Carpeniș. Traseul se continuă prin satul Vârtop și Gârda-Bărbulești, porțiune unde se găsesc izvoare și zone cu zmeură, fragi și mure (sunt coapte la sfârșitul verii). Din Gârda se urcă pe Vârful Rotundu, loc ce oferă o priveliște superbă asupra Roșiei Montane iar întoarcerea spre Casa Petri se face pe la Tăul Țarinii. Traseul este pe un drum de țară, neasfaltat și este indicat pentru drumeții sau biciclete de munte.",
+          "textContent": "De la Casa Petri se pleacă spre zona Orlea unde se pot vizita Sculpturile de Calcar. Continuăm spre locul unde localnicii își lasă vitele la păscut (islaz) iar apoi se coboră prin zona Piatra Albă la Centrul regional din Carpeniș. Traseul se continuă prin satul Vârtop și Gârda-Bărbulești, porțiune unde se găsesc izvoare și zone cu zmeură, fragi și mure (sunt coapte la sfârșitul verii). Din Gârda se mai urcă puțin până la Izvorul Rotundu iar apoi se coboară spre Casa Petri pe la Tăul Țarinii. Traseul este pe un drum de țară, neasfaltat și este indicat pentru drumeții sau biciclete de munte.",
           "seeAlso": [
             {
               "text": "<br><i class='fa fa-info-circle'></i> vezi varianta mai scurtă a traseului (~11km)",
@@ -53,11 +53,11 @@
             }
           ],
           "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw|place_id:ChIJkx2wHkPNTkcRPM_ZjLSGEjw|place_id:ChIJOQJaR53STkcRMpzQXDCDQAo|place_id:ChIJ022Lg5DSTkcRlX7VPdssTgo|place_id:ChIJ2c3bt1vNTkcRrzPgF8eV5eE|place_id:ChIJKfsTMzbNTkcRWl9UWoK6r6k|place_id:ChIJZ-TCfijNTkcRQiATb5BDZMI|place_id:ChIJo1FIktfMTkcRYN5a2eC7XNQ|place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo",
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJKz0U9xjNTkcRIBvC-6XOKDw|place_id:ChIJkx2wHkPNTkcRPM_ZjLSGEjw|place_id:ChIJOQJaR53STkcRMpzQXDCDQAo|place_id:ChIJ022Lg5DSTkcRlX7VPdssTgo|place_id:ChIJ2c3bt1vNTkcRrzPgF8eV5eE|place_id:ChIJKfsTMzbNTkcRWl9UWoK6r6k|place_id:ChIJZ-TCfijNTkcRQiATb5BDZMI|place_id:ChIJAfqDeSTNTkcRdz9TZmm9fCo",
             "list": [
               {
                 "textOnMouseOver": "lungime",
-                "text": "<i class='fa fa-arrows-h'></i> ~23km"
+                "text": "<i class='fa fa-arrows-h'></i> ~20km"
               },
               {
                 "textOnMouseOver": "durata pe jos",
@@ -165,7 +165,7 @@
         },
         {
           "title": "Poiana cu Zmeură",
-          "textContent": "Drumul de la Vârful Rotundu la Gârda va trece prin poienile cu zmeură. Acestea sunt coapte la sfârșitul lunii August.",
+          "textContent": "Drumul spre Gârda va trece prin poienile cu zmeură. Acestea sunt coapte la sfârșitul lunii August.",
           "images": [
             {
               "text": "Poiana cu Zmeură.",
@@ -187,9 +187,6 @@
         {
           "category": "attractions",
           "ids": [
-            {
-              "id": "rotunduPeak"
-            },
             {
               "id": "tariniLake"
             }
@@ -280,17 +277,12 @@
               "fullSizeUrl": "img/trails/attractions/vartop/fullSize/18.jpg"
             },
             {
-              "text": "Spre vârful Rotundu.",
+              "text": "Spre Izvorul Rotundu.",
               "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/9.jpg",
               "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/9.jpg"
             },
             {
-              "text": "Spre vârful Rotundu - intrarea în pădurea de brazi.",
-              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/4.jpg",
-              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/4.jpg"
-            },
-            {
-              "text": "Vârful Rotundu",
+              "text": "Pe traseu.",
               "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/6.jpg",
               "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/6.jpg"
             },

@@ -26,6 +26,9 @@
         "timeInterval": "7000",
         "slides": [
           {
+            "page": "en/trails/letySulei"
+          },
+          {
             "page": "en/trails/romanGalleries"
           },
           {
@@ -39,9 +42,6 @@
           },
           {
             "page": "en/trails/carnic"
-          },
-          {
-            "page": "en/trails/letySulei"
           }
         ]
       }
@@ -84,7 +84,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>2. Visit our natural attractions <i class='fa fa-fw fa-bicycle'></i> great cycling breaks</b> <br>The surroundings are also amazing, unpaved roads and footpaths bind us to the villages, mountain peaks, lakes and other objectives of the Apuseni Mountains (Carpathians - Transylvania). See the bellow trails that are excellent for <b>bikes</b> (can be rent from Rosia)."
+          "textContent": "<b>2. Visit our natural attractions - great cycling breaks</b> <br>The surroundings are also amazing, unpaved roads and footpaths bind us to the villages, mountain peaks, lakes and other objectives of the Apuseni Mountains (Carpathians - Transylvania). See the bellow trails that are excellent for <b>bikes</b> (you can rent one from Rosia)."
         }
       ]
     },
@@ -98,7 +98,7 @@
           "page": "en/trails/detunata"
         },
         {
-          "page": "en/trails/scarisoara"
+          "page": "en/trails/fourLakes"
         }
       ]
     },
@@ -156,7 +156,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "We want to offer you an unique and authentic experience here in Rosia Montana, that's why we offer accommodation in the historic center and we put you in touch with the locals who offers guided trails, traditional food or who rent bikes."
+          "textContent": "We want to offer an unique and authentic experience on your holiday in Rosia Montana, that's why we offer accommodation in the historic center and we put you in touch with the locals who makes guided trails, traditional food or who rent bikes."
         }
       ]
     },
