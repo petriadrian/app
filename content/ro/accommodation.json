@@ -1,8 +1,8 @@
 {
   "presentation": {
-    "title": "Cazare",
-    "headline": "O cafea într-o dimineață la Roșia Montană?",
-    "description": "<b>Camere, campare, rezervări!</b><br>Oferim cazare în casa părintească, recent renovată, din centrul istoric Roșia Montană. Vezi imagini și rezervări...",
+    "title": "Rezervări",
+    "headline": "Bunicii cu mineritul, noi cu turismul",
+    "description": "Trasee ghidate, biciclete și cazare în centrul istoric Roșia Montană<br>",
     "fullWidthImg": "img/accommodation/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/presentation/smallBoxImg.jpg"
   },
@@ -12,7 +12,7 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Cazare la Casa Petri Roșia Montană",
+    "title": "Cazare Rosia Montana",
     "description": "Cazare într-o fostă locuință de mineri din Centrul Istoric. Camerele au fost renovate, au băi și acces la bucătărie. Vezi și trasee de drumeție sau bicicletă în zonă pentru a descoperi galeriile romane, industria minieră, centrul vechi, munții, lacurile și multe altele. Rosia Montana, Alba, Munții Apuseni, Transilvania, Romania.",
     "displayOnShareImg": "img/accommodation/presentation/displayOnShareImg.jpg"
   },
@@ -22,7 +22,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "<i class='fa fa-bed'></i> Camere",
+      "text": "<i class='fa fa-bed'></i> Cazare",
       "sectionId": "rooms",
       "addLinkInPageHeadline": true
     },
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Ne aflăm în centrul istoric din Roșia Montană la numărul 331. Clădirea a fost centru medical, sediu de bancă, cinematograf, iar apoi bunicii noștri, foști mineri și deținători de galerii, au cumpărat-o și au folosit-o ca locuință. Fiind o casă de patrimoniu, am păstrat zugrăveala, podelele, geamurile, încălzirea prin teracote pe lemne dar am integrat băile și bucătăria. Camerele au intrări separate conectate printr-o curte cu hamace, iarbă verde și priveliște spre masivul Cârnic."
+          "textContent": "Ne aflăm în centrul istoric din Roșia Montană. Clădirea a fost centru medical, sediu de bancă, cinematograf, iar apoi bunicii noștri, foști mineri și deținători de galerii, au cumpărat-o și au folosit-o ca locuință. Fiind o casă de patrimoniu, am păstrat zugrăveala, podelele, geamurile, încălzirea prin teracote pe lemne dar am integrat băi și bucătărie iar acum oferim cazare și servicii turistice. Camerele au intrări separate conectate printr-o curte cu hamace, iarbă verde și priveliște spre masivul Cârnic - cazare Rosia Montana - cazare Apuseni"
         }
       ]
     },
@@ -47,9 +47,19 @@
               "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/1.jpg"
             },
             {
-              "text": "Apartamentul cu cărți - În vitrină sunt poze vechi din Roșia, flori de mină și obiecte folosite în trecut prin gospodărie.",
+              "text": "Apartamentul cu cărți - 4 paturi etajate.",
               "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/2.jpg"
+            },
+            {
+              "text": "Apartamentul cu cărți - În vitrină sunt poze vechi din Roșia, flori de mină și obiecte folosite în trecut prin gospodărie.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/details.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/details.jpg"
+            },
+            {
+              "text": "Apartamentul cu cărți -  bucătărioara (frigider, cuptor cu microunde, cafea, ceai, fierbător, tacâmuri și veselă).",
+              "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/kitchen.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/kitchen.jpg"
             },
             {
               "text": "Apartamentul cu cărți - baie cu boiler electric",
@@ -106,7 +116,7 @@
       "specificArticles": [
         {
           "title": "Apartamentul din târnaț",
-          "textContent": "Se află situat la etaj, are intrare privată, iar accesul se face prin târnaț (un hol cu scări și ferestre mici, specific caselor din zonă). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persoane - <i class='fa fa-wifi'></i> wifi gratis - <i class='fa fa-shower'></i> baie privată  - <i class='fa fa-cutlery'></i> bucătărioară propie - <i class='fa fa-book'></i> bibliotecă",
+          "textContent": "Este situat la etaj, are intrare privată, iar accesul se face prin târnaț (un hol cu scări și ferestre mici, specific caselor din zonă). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persoane - <i class='fa fa-wifi'></i> wifi gratis - <i class='fa fa-shower'></i> baie privată  - <i class='fa fa-cutlery'></i> bucătărioară propie - <i class='fa fa-book'></i> bibliotecă",
           "images": [
             {
               "text": "Apartamentul din târnaț - patul dublu se poate separa. Zugrăveala din anul 1960 este foarte bine păstrată (cam 2 săptămâni a durat atunci realizarea ei)",
@@ -129,11 +139,19 @@
               "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/booksPlaces.jpg"
             },
             {
+              "text": "Apartamentul din târnaț -  bucătărioara (frigider, cuptor cu microunde, cafea, ceai, fierbător, tacâmuri și veselă).",
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/bucataria.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/bucataria.jpg"
+            },
+            {
               "text": "Apartamentul din târnaț - baie cu boiler electric",
               "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/bathroom.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/bathroom.jpg"
             }
           ]
+        },
+        {
+          "textContent": "<br> Pentru prețuri și rezervări cazare vedeți formularul de mai jos sau click pe 'Rezervări'."
         }
       ]
     },
@@ -188,14 +206,14 @@
       "type": "title",
       "text": "<i class='fa fa-chevron-up'></i> Campare",
       "sectionId": "camping",
-      "addLinkInPageHeadline": true
+      "addLinkInPageHeadline": false
     },
     {
       "type": "articles",
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Pentru că și nouă ne place să mergem la munte cu cortul am pregătit în curtea casei un mic spațiu de campare, pentru maxim 4 corturi, cu acces la baie, bucătărie, loc de luat masa, foișor, wifi gratis și acces la energie electrică.",
+          "textContent": "Și nouă ne place să mergem cu cortul la munte, de accea am pregătit în curtea casei un mic spațiu de campare pentru maxim 4 corturi cu acces la baie, bucătărie, loc de luat masa, foișor, wifi gratis și acces la energie electrică - campare Rosia Montana - campare Apuseni.",
           "images": [
             {
               "text": "Zona de campare din curte",
@@ -208,6 +226,9 @@
               "fullSizeUrl": "img/accommodation/article/camping/fullSize/2.jpg"
             }
           ]
+        },
+        {
+          "textContent": "<br> Pentru prețuri și rezervări campare vedeți formularul de mai jos sau click pe 'Rezervări'."
         }
       ]
     },
@@ -221,13 +242,93 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Fiecare apartament are o mică bucătărie iar în grădină avem un grătar unde puteți găti. Recomandarea noastră este să luați masa la localnicii care oferă mese calde și tradiționale la ei în ogradă - bifați în momentul rezervării 'locuri de luat masa' și vă trimitem mai multe detalii. În apropiere (~5min) sunt și 3 magazine alimentare - ",
+          "textContent": "<b>Munții noștri aur poartă, noi facem țuică!</b> <br><br>Fiecare apartament are o mică bucătărie iar în grădină avem un grătar unde puteți găti. Recomandarea noastră este să luați masa la localnicii care oferă mese calde sau să luați produse de la ei (lapte, brânză, dulceată, țuică...). Rezervările se fac din formularul de mai jos sau o să găsiți în cameră o listă cu aceștia și îi puteți suna când sosiți. În apropierea casei (~5min) sunt și 3 magazine alimentare - ",
           "seeAlso": [
             {
-              "text": "vezi aici unde sunt situate și cum se ajunge la ele...",
+              "text": "vezi aici cum ajungi la ele",
               "textOnMouseOver": "Click aici...",
               "link": "https://www.google.ro/maps/dir/Emiliana+Shop,+DC146,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Bereczky+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Mixt+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Historical+center,+nr.+331A,+Casa+Petri,+Ro%C8%99ia+Montan%C4%83+517615/@46.3064009,23.1286362,17z/data=!3m1!4b1!4m26!4m25!1m5!1m1!1s0x474ecce0f07e87bf:0xc1e5f1730ebc127c!2m2!1d23.1317125!2d46.3060228!1m5!1m1!1s0x474ecce0563eefe1:0x44635688d438a223!2m2!1d23.1308247!2d46.30597!1m5!1m1!1s0x474ecce04e3e997b:0x14730c483b204593!2m2!1d23.1300147!2d46.3061442!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.1299373!2d46.3065974!3e2?hl=ro",
               "openInNewTab": true
+            }
+          ],
+          "images": [
+            {
+              "text": "La un pahar de țuică, înainte de masă, cu un grup din Germania.",
+              "thumbnailUrl": "img/accommodation/article/food/thumbnail/restaurant.jpg",
+              "fullSizeUrl": "img/accommodation/article/food/fullSize/restaurant.jpg"
+            },
+            {
+              "text": "Recomandarea noastră este să luați masa la localnicii care oferă mese calde.",
+              "thumbnailUrl": "img/accommodation/article/food/thumbnail/mancare.jpg",
+              "fullSizeUrl": "img/accommodation/article/food/fullSize/mancare.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-bicycle'></i> Biciclete",
+      "sectionId": "bikes",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b>Munții noștri aur poartă, noi ne dăm cu bicicleta!</b> <br><br>Oferim <b>biciclete de inchiriat</b> pentru a descoperi Rosia Montana și zona Apuseni (biciclete de munte, asfalt sau trekking plus echipament de protecție și cameră de rezervă). Dacă veniți cu bicicleta personală vă oferim (în caz că o să aveți nevoie) scule și <b>asistență reparații biciclete</b>. Pentru a afla mai multe detalii despre locurile pe care o să le vizitați pe bicicletă sau asistență tehnică pe traseu, organizăm <b>trasee ghidate pe bicicletă</b>. Rezervările se fac din formularul de mai jos.",
+          "images": [
+            {
+              "text": "Traseu ghidat pe bicicletă",
+              "thumbnailUrl": "img/accommodation/article/bikes/thumbnail/bicicleta.jpg",
+              "fullSizeUrl": "img/accommodation/article/bikes/fullSize/bicicleta.jpg"
+            },
+            {
+              "text": "Traseu ghidat pe bicicletă - din loc în loc ne oprim pentru a vă povesti despre locurile prin care trecem sau pentru asistență reparații bicicletă (dacă e cazul).",
+              "thumbnailUrl": "img/accommodation/article/bikes/thumbnail/ghid-bicicleta.jpg",
+              "fullSizeUrl": "img/accommodation/article/bikes/fullSize/ghid-bicicleta.jpg"
+            }
+          ]
+        },
+        {
+          "textContent": "<br> Zona noastră oferă locuri ideale pentru ciclism. Informații, imagini și hărți online cu date gps pentru ciclism găsești pe pagina ",
+          "seeAlso": [
+            {
+              "text": "trasee și atracții",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/trails/summary",
+              "openInNewTab": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-blind'></i> Ghizi",
+      "sectionId": "guides",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b>Munții noștri aur poartă, noi vă aratăm unde e!</b> <br><br>Roșia Montană are un trecut de aur. Rolul și modul de funcționare al galeriilor, tăurilor și a altor obiective folosite în extracția aurului, trecutul clădirilor de patrimoniu din centrul istoric sau impactul megaproiectului de minerit propus in 2007 și protestele de atunci sunt doar câteva dintre motivele pentru care vă recomandăm să vizitați Roșia Montana împreună cu un ghid. Localitatea nu este amenajată în scop turistic și este destul de dificil să descoperiți toate acestea singuri. Ținem legătura cu ghizi locali ce organizează trasee ghidate - rezervările se fac din formularul de mai jos.",
+          "images": [
+            {
+              "text": "Traseu ghidat centrul istoric Roșia Montană cu un grup din Arad.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+            },
+            {
+              "text": "Traseu ghidat obiective naturale și zone protejate Roșia Montană cu un grup din Germania.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+            },
+            {
+              "text": "Traseu ghidat exploatări miniere cu un grup din India.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-cariera.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-cariera.jpg"
             }
           ]
         }
@@ -243,7 +344,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Ne dorim să fie totul pregătit la sosire, de aceea te rugăm să faci o rezervare cât mai din timp. Pentru o rezervare de minim 250 lei, oferim <b>gratuit traseul centrului istoric ghidat</b>. Pentru grupuri mai mari sau perioade mai lungi oferim reduceri."
+          "textContent": "Dorim să fie totul pregătit la sosire, de aceea te rugăm să faci o rezervare cât mai din timp. Pentru o rezervare de minim 250 lei, oferim <b>gratuit traseul centrului istoric ghidat</b>. Pentru grupuri mai mari sau perioade mai lungi oferim reduceri."
         }
       ]
     },
@@ -263,6 +364,13 @@
           "required": true
         },
         {
+          "type": "phone",
+          "name": "phone",
+          "iconFortAwesomeClass": "fa fa-phone fa-fw",
+          "placeholder": "Telefon",
+          "required": true
+        },
+        {
           "type": "daterange",
           "name": "period",
           "iconFortAwesomeClass": "fa fa-calendar fa-fw",
@@ -272,12 +380,12 @@
         {
           "type": "selectBoxAllowDuplicates",
           "name": "room",
-          "required": false,
+          "required": true,
           "iconFortAwesomeClass": "fa fa-bed fa-fw",
-          "placeholder": "Rezervă camere - vezi tip și preț",
+          "placeholder": "Rezervă cazare - vezi tip și preț",
           "allowToDuplicateSettings": {
-            "addButtonText": "+ adaugă cameră",
-            "removeButtonText": "- șterge cameră",
+            "addButtonText": "+ adaugă",
+            "removeButtonText": "- șterge",
             "minOccurs": 1,
             "maxOccurs": 4
           },
@@ -285,66 +393,45 @@
             {
               "selectOptions": [
                 {
-                  "text": "o cameră de o persoană - 69lei/noapte"
+                  "text": "apartament de o pers - 69lei/noapte"
                 },
                 {
-                  "text": "o cameră de 2 persoane - 99lei/noapte"
+                  "text": "apartament de 2 pers - 95lei/noapte"
                 },
                 {
-                  "text": "o cameră de 3 persoane - 149lei/noapte"
+                  "text": "apartament de 3 pers - 149lei/noapte"
                 },
                 {
-                  "text": "o cameră de 4 persoane - 179lei/noapte"
+                  "text": "apartament de 4 per - 179lei/noapte"
+                },
+                {
+                  "text": "loc cort de 2 pers - 39lei/noapte"
+                },
+                {
+                  "text": "loc cort de 3 pers - 55lei/noapte"
+                },
+                {
+                  "text": "loc cort de 4 pers - 75lei/noapte"
                 }
               ]
             }
           ]
         },
         {
-          "type": "selectBox",
-          "name": "camping",
-          "required": false,
-          "iconFortAwesomeClass": "fa fa-chevron-up fa-fw",
-          "placeholder": "Rezervă campare - vezi tip și preț",
-          "selectOptions": [
-            {
-              "text": "campare 2 persoane - 39lei/noapte"
-            },
-            {
-              "text": "campare 3 persoane - 55lei/noapte"
-            },
-            {
-              "text": "campare 4 persoane - 75lei/noapte"
-            },
-            {
-              "text": "campare 5 persoane - 85lei/noapte"
-            },
-            {
-              "text": "campare 6 persoane - 99lei/noapte"
-            },
-            {
-              "text": "campare 7 persoane - 115lei/noapte"
-            },
-            {
-              "text": "campare 8 persoane - 130lei/noapte"
-            }
-          ]
-        },
-        {
           "type": "checkBoxes",
-          "title": "Doresc să primesc pe e-mail informații despre:",
+          "title": "Doresc:",
           "checkBoxes": [
             {
-              "name": "guidedToursInfo",
-              "text": "<i class='fa fa-fw fa-blind'></i> | <b>trasee ghidate</b> (cam ce ai dori să vizitezi cu ghid? scrie-ne în căsuța 'Alte detalii')"
+              "name": "guidedTours",
+              "text": "<i class='fa fa-fw fa-blind'></i> | <b>trasee ghidate</b> (pe jos sau pe bicicletă? ce ai dori să vizitezi? - scrie-ne în căsuța 'Alte detalii')"
             },
             {
-              "name": "rentBikesInfo",
-              "text": "<i class='fa fa-fw fa-bicycle'></i> | <b>închiriat bicilete</b> (câte bucăți și câte zile? scrie-ne în căsuța 'Alte detalii')"
+              "name": "rentBikes",
+              "text": "<i class='fa fa-fw fa-bicycle'></i> | <b>să închiriez biciclete</b> (câte, ce tip și pe câte zile? scrie-ne în căsuța 'Alte detalii')"
             },
             {
-              "name": "foodInfo",
-              "text": "<i class='fa fa-fw fa-cutlery'></i> | <b>locuri de luat masa</b> (vegetarian sau alte preferințe? scrie-ne în căsuța 'Alte detalii')"
+              "name": "reserveFood",
+              "text": "<i class='fa fa-fw fa-cutlery'></i> | <b>să iau masa în sat</b> (vegetarian sau alte preferințe? scrie-ne în căsuța 'Alte detalii')"
             }
           ]
         },
@@ -356,6 +443,32 @@
           "rows": 2,
           "maxChars": 500,
           "required": false
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-gift'></i> Pachete și vouchere",
+      "sectionId": "packages",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat câteva pachete care includ cazarea și participarea la diverse activități sau trasee ghidate. După rezervarea unui pachet vei primi un voucher cu care te așteptăm la Roșia Montană. Voucherele pot fi de asemenea oferite ca și cadou altor persoane."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/packages/weekend"
+        },
+        {
+          "page": "ro/events/hayDays"
         }
       ]
     },
@@ -378,7 +491,7 @@
           "page": "ro/trails/summary"
         },
         {
-          "page": "ro/packages/summary"
+          "page": "ro/events/steamTrain"
         }
       ]
     }

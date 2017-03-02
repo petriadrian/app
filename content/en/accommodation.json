@@ -1,8 +1,8 @@
 {
   "presentation": {
-    "title": "Accommodation",
-    "headline": "Morning coffee at Roșia Montană?",
-    "description": "<b>Rooms, camping, bookings!</b><br>Our house is a heritage building, recently restored, in the historic center of Roșia Montană. See images and more...",
+    "title": "Bookings",
+    "headline": "Our grandparents were miners, we do tourism",
+    "description": "Guided trails, bikes and accommodation in the historic center of Rosia Montana",
     "fullWidthImg": "img/accommodation/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/presentation/smallBoxImg.jpg"
   },
@@ -12,7 +12,7 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Accommodation at Casa Petri Rosia Montana",
+    "title": "Accommodation Rosia Montana",
     "description": "Stay in a heritage house from the Historic Center of Roșia Montana, recently renovated with bathrooms and kitchen access. See also the hiking and bike trails to discover our area: roman galleries, gold mining industry, heritage buildings, mountains, lakes and many more. Rosia Montana, Alba, Apuseni Mountains, Transylvania - Romania.",
     "displayOnShareImg": "img/accommodation/presentation/displayOnShareImg.jpg"
   },
@@ -22,7 +22,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "<i class='fa fa-bed'></i> Rooms",
+      "text": "<i class='fa fa-bed'></i> Accommodation",
       "sectionId": "rooms",
       "addLinkInPageHeadline": true
     },
@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "We are located in the historic center of Rosia Montana 331. The building was a bank, medical center, cinema and then it was bought by our grandparents who work in mining industry, and used for living. It's a heritage building, so we preserved the painting, the wooden floor, the windows, the heating with terracotta stoves, but we also added new bathrooms and kitchen. Te rooms have separate entries connected by a yard with hammocks, green grass and a nice view to the Cânic massif."
+          "textContent": "We are located in the historic center of Rosia Montana 331. The building was a bank, medical center, cinema and then it was bought by our grandparents who work in mining industry, and used for living. It's a heritage building, so we preserved the painting, the wooden floor, the windows, the heating with terracotta stoves, but also new bathrooms and kitchen and after we open it for tourists. Te rooms have separate entries and a common yard with hammocks, green grass and a nice view to the Cânic massif - Rosia Montana accommodation - Transylvania accommodation."
         }
       ]
     },
@@ -48,9 +48,19 @@
               "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/1.jpg"
             },
             {
-              "text": "Books apartment -  In the showcase are old photos from Roșia, crystal clusters rocks and old objects used in the household.",
+              "text": "Books apartment -  2 bunk beds and a sofa.",
               "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/2.jpg"
+            },
+            {
+              "text": "Books apartment -  In the showcase are old photos from Roșia, crystal clusters rocks and old objects used in the household.",
+              "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/details.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/details.jpg"
+            },
+            {
+              "text": "Books apartment -  kitchenette (fridge, microwave, coffee, tea, kettle, dishes and cutlery).",
+              "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/kitchen.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/kitchen.jpg"
             },
             {
               "text": "Books apartment - bathroom heated with electric boiler",
@@ -130,12 +140,21 @@
               "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/booksPlaces.jpg"
             },
             {
+              "text": "The Upstairs apartment - kitchenette (fridge, microwave, coffee, tea, kettle, dishes and cutlery).",
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/bucataria.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/bucataria.jpg"
+            },
+            {
               "text": "The Upstairs apartment - bathroom heated with electric boiler.",
               "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/bathroom.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/bathroom.jpg"
             }
           ]
+        },
+        {
+          "textContent": "<br> For prices and bookings see the bellow form or press on 'Bookings'."
         }
+
       ]
     },
     {
@@ -189,14 +208,14 @@
       "type": "title",
       "text": "<i class='fa fa-chevron-up'></i> Camping",
       "sectionId": "camping",
-      "addLinkInPageHeadline": true
+      "addLinkInPageHeadline": false
     },
     {
       "type": "articles",
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Because we also love camping, we prepared a small camping place in our yard, for maximum 4 tents, with bathroom, kitchen, dinning area, gazebo, hammocks, free wifi and electricity.",
+          "textContent": "Because we also love camping, we prepared a small camping place in our yard, for maximum 4 tents, with bathroom, kitchen, dinning area, gazebo, hammocks, free wifi and electricity - caping rosia montana - camping Transylvania",
           "images": [
             {
               "text": "Camping area fro the yard",
@@ -209,6 +228,9 @@
               "fullSizeUrl": "img/accommodation/article/camping/fullSize/2.jpg"
             }
           ]
+        },
+        {
+          "textContent": "<br> For prices and bookings see the bellow form or press on 'Bookings'."
         }
       ]
     },
@@ -222,13 +244,93 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Each apartment has a small kitchen and we also have a barbecue in the garden where you can cook. Our reccomandation is to eat at the locals who offers homemade meals - specify in the bellow bookings form and we will send you more details. Beside the house are 3 grocery stores (~5min away) - ",
+          "textContent": "Each apartment has a small kitchen and we also have a barbecue in the garden where you can cook. Our recommendation is to eat at the locals who offers homemade meals or to buy local products (milk, cheese, honey, tuica...) The bookings can be made from the bellow form or you will find a list with the locals who offer food in the room and you can contact them by phone. Beside the house are 3 grocery stores (~5min away) - ",
           "seeAlso": [
             {
-              "text": "see here how to reach them from Casa Petri...",
-              "textOnMouseOver": "Click here",
+              "text": "see here how to reach them",
+              "textOnMouseOver": "Click here...",
               "link": "https://www.google.ro/maps/dir/Emiliana+Shop,+DC146,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Bereczky+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Mixt+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Historical+center,+nr.+331A,+Casa+Petri,+Ro%C8%99ia+Montan%C4%83+517615/@46.3064009,23.1286362,17z/data=!3m1!4b1!4m26!4m25!1m5!1m1!1s0x474ecce0f07e87bf:0xc1e5f1730ebc127c!2m2!1d23.1317125!2d46.3060228!1m5!1m1!1s0x474ecce0563eefe1:0x44635688d438a223!2m2!1d23.1308247!2d46.30597!1m5!1m1!1s0x474ecce04e3e997b:0x14730c483b204593!2m2!1d23.1300147!2d46.3061442!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.1299373!2d46.3065974!3e2?hl=en",
               "openInNewTab": true
+            }
+          ],
+          "images": [
+            {
+              "text": "A glass of tuica, before dinner, with a group from Germany.",
+              "thumbnailUrl": "img/accommodation/article/food/thumbnail/restaurant.jpg",
+              "fullSizeUrl": "img/accommodation/article/food/fullSize/restaurant.jpg"
+            },
+            {
+              "text": "Our recommendation is to eat at the locals who offers homemade meals.",
+              "thumbnailUrl": "img/accommodation/article/food/thumbnail/mancare.jpg",
+              "fullSizeUrl": "img/accommodation/article/food/fullSize/mancare.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-bicycle'></i> Bikes",
+      "sectionId": "bikes",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "We offer <b>bikes for rent</b> to discover Rosia Montana and the Apuseni mountains area (mountain bikes, asphalt or trekking plus safety gear and spare tube). If you come with your own bike we can offer (if needed) tools and <b>bike repair assistance</b>. To find out more about the places you visit or bike repairs on the trail, we can offer <b>guided bike trails</b>. The bookings can be make from the bellow form.",
+          "images": [
+            {
+              "text": "Guided bike trails",
+              "thumbnailUrl": "img/accommodation/article/bikes/thumbnail/bicicleta.jpg",
+              "fullSizeUrl": "img/accommodation/article/bikes/fullSize/bicicleta.jpg"
+            },
+            {
+              "text": "Guided bike trails - on the road we can stop and talk about the places we are passing by or for bike repairs assistance (if needed).",
+              "thumbnailUrl": "img/accommodation/article/bikes/thumbnail/ghid-bicicleta.jpg",
+              "fullSizeUrl": "img/accommodation/article/bikes/fullSize/ghid-bicicleta.jpg"
+            }
+          ]
+        },
+        {
+          "textContent": "<br> Our area has perfect places for biking here in Transylvania. More info, images, guides or online maps with gps data can be found on the ",
+          "seeAlso": [
+            {
+              "text": "trails and attractions page",
+              "textOnMouseOver": "Click here...",
+              "link": "ro/trails/summary",
+              "openInNewTab": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-blind'></i> Guides",
+      "sectionId": "guides",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Rosia Montana has a golden past. The role and the way it works the mining through galleries, pounds and other machines used to extract the gold, the past of the heritage buildings from the historic center or what would have been the impact of the mega mining project proposed here in 2007 by the canadian company and the massive streets protests against it, are just some of the main reasons we recommend to visit Roșia Montana with a guide. The locality is not arranged for tourism so it will be pretty difficult to see and find all this by your own. We can offer guided tours - the bookings are made from the bellow form.",
+          "images": [
+            {
+              "text": "The historic center guided tour with a group from Romania.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+            },
+            {
+              "text": "Guided tour to the natural sites and protected areas of Rosia Montana with a group from Germany.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+            },
+            {
+              "text": "Guided tour to the mining open pits with a group from India.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-cariera.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-cariera.jpg"
             }
           ]
         }
@@ -264,6 +366,13 @@
           "required": true
         },
         {
+          "type": "phone",
+          "name": "phone",
+          "iconFortAwesomeClass": "fa fa-phone fa-fw",
+          "placeholder": "Phone",
+          "required": true
+        },
+        {
           "type": "daterange",
           "name": "period",
           "iconFortAwesomeClass": "fa fa-calendar fa-fw",
@@ -273,12 +382,12 @@
         {
           "type": "selectBoxAllowDuplicates",
           "name": "room",
-          "required": false,
+          "required": true,
           "iconFortAwesomeClass": "fa fa-bed fa-fw",
-          "placeholder": "Book rooms - see type and price",
+          "placeholder": "Book accommodation - see type and price",
           "allowToDuplicateSettings": {
-            "addButtonText": "+ add room",
-            "removeButtonText": "- remove room",
+            "addButtonText": "+ add",
+            "removeButtonText": "- remove",
             "minOccurs": 1,
             "maxOccurs": 4
           },
@@ -286,66 +395,45 @@
             {
               "selectOptions": [
                 {
-                  "text": "a 1 person room - 16€/night"
+                  "text": "1 person apartment - 16€/night"
                 },
                 {
-                  "text": "a 2 persons room - 22€/night"
+                  "text": "2 persons apartment - 22€/night"
                 },
                 {
-                  "text": "a 3 persons room - 35€/night"
+                  "text": "3 persons apartment - 35€/night"
                 },
                 {
-                  "text": "a 4 persons room - 40€/night"
+                  "text": "4 persons apartment - 40€/night"
+                },
+                {
+                  "text": "2 persons camping - 10€/night"
+                },
+                {
+                  "text": "3 persons camping - 15€/night"
+                },
+                {
+                  "text": "4 persons camping - 19€/night"
                 }
               ]
             }
           ]
         },
         {
-          "type": "selectBox",
-          "name": "camping",
-          "required": false,
-          "iconFortAwesomeClass": "fa fa-chevron-up fa-fw",
-          "placeholder": "Book camping - see type and price",
-          "selectOptions": [
-            {
-              "text": "2 persons camping - 10€/night"
-            },
-            {
-              "text": "3 persons camping - 15€/night"
-            },
-            {
-              "text": "4 persons camping - 18€/night"
-            },
-            {
-              "text": "5 persons camping - 20€/night"
-            },
-            {
-              "text": "6 persons camping - 24€/night"
-            },
-            {
-              "text": "7 persons camping - 28€/night"
-            },
-            {
-              "text": "8 persons camping - 30€/night"
-            }
-          ]
-        },
-        {
           "type": "checkBoxes",
-          "title": "Send me on e-mail more info about:",
+          "title": "I also want:",
           "checkBoxes": [
             {
               "name": "guidedTours",
-              "text": "<i class='fa fa-fw fa-blind'></i> | <b>guided trails</b> (what do you want to visit with a guide? fill the 'Other details' box)"
+              "text": "<i class='fa fa-fw fa-blind'></i> | <b>guided trails</b> (by foot or by bike? what you want to visit? fill the 'Other details' box)"
             },
             {
               "name": "rentBikes",
-              "text": "<i class='fa fa-fw fa-bicycle'></i> | <b>rent bikes</b> (how many bikes on how many days? fill the 'Other details' box)"
+              "text": "<i class='fa fa-fw fa-bicycle'></i> | <b>to rent bikes</b> (how many, what type, how many days? fill the 'Other details' box)"
             },
             {
-              "name": "foodInfo",
-              "text": "<i class='fa fa-fw fa-cutlery'></i> | <b>places to eat</b> (vegetarian or other preferences? fill the 'Other details' box)"
+              "name": "reserveFood",
+              "text": "<i class='fa fa-fw fa-cutlery'></i> | <b>to eat at locals</b> (vegetarian or other preferences? fill the 'Other details' box)"
             }
           ]
         },
@@ -357,6 +445,32 @@
           "rows": 2,
           "maxChars": 500,
           "required": false
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-gift'></i> Packages and vouchers",
+      "sectionId": "packages",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "",
+          "textContent": "We know our area and what can you do and visit here, that's why we prepared some packages that contains accommodation plus different activities or guided trails. By booking a package you will receive a voucher that you will have to show when you will arrive. The vouchers can be also offered as gifts to other persons."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/packages/weekend"
+        },
+        {
+          "page": "ro/events/hayDays"
         }
       ]
     },
@@ -379,7 +493,7 @@
           "page": "en/trails/summary"
         },
         {
-          "page": "en/packages/summary"
+          "page": "en/events/steamTrain"
         }
       ]
     }

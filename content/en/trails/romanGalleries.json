@@ -120,6 +120,11 @@
               "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/steampuri.jpg"
             },
             {
+              "text": "Mining Museum - rail system used in the galleries for excavating the golden ore.",
+              "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/vagoneti.jpg",
+              "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/vagoneti.jpg"
+            },
+            {
               "text": "Mining Museum - Find out how was gold processed and see the old mining installations.",
               "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/3.jpg",
               "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/3.jpg"
@@ -159,7 +164,7 @@
           "page": "en/trails/summary"
         },
         {
-          "page": "en/packages/summary"
+          "page": "en/shortcut/packages"
         }
       ]
     }

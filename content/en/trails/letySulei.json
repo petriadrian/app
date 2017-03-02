@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Lety and Sulei",
     "headline": "The trail to the Lety and Sulei peaks",
-    "descriptionTitle": "<i class='fa fa-blind'></i> <b>~10km</b>",
+    "descriptionTitle": "<i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~10km</b>",
     "description": "Climb along the Vaidoaia Gallery and 'Tăul Mare' Lake to the Lety and Sulei peaks and return by the Corna and Brazi lakes.",
     "fullWidthImg": "img/trails/letySulei/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/trails/letySulei/presentation/smallBoxImg.jpg"
@@ -193,7 +193,7 @@
           "page": "en/trails/summary"
         },
         {
-          "page": "en/packages/summary"
+          "page": "en/shortcut/packages"
         }
       ]
     }

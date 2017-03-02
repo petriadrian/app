@@ -1,0 +1,12 @@
+{
+  "presentation": {
+    "title": "Bikes",
+    "description": "<b>Rents, repairs, trails</b><br>We have mountain bikes, trekking or asphalt, and a small bike garage for repairs or we can make guided bike trails",
+    "smallBoxImg": "img/accommodation/shortcut/bikes.jpg"
+  },
+  "url": {
+    "link": "en/accommodation#bikes",
+    "textOnMouseOver": "See more...",
+    "openInNewTab": false
+  }
+}

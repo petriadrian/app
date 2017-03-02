@@ -38,7 +38,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-map-signs'></i> Trasee locale",
-      "sectionId": "trailsOnAreas",
+      "sectionId": "localTrails",
       "addLinkInPageHeadline": true
     },
     {
@@ -120,14 +120,14 @@
     {
       "type": "title",
       "text": "<i class='fa fa-map-signs'></i> Trasee ghidate",
-      "sectionId": "thematicTrails",
+      "sectionId": "guidedTrails",
       "addLinkInPageHeadline": true
     },
     {
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Și traseele de mai sus pot fi facute cu un ghid, dar recomandarea noastră sunt următoarele trasee ghidate:"
+          "textContent": "Și traseele de mai sus pot fi facute cu un ghid pe jos sau pe bicicletă, dar recomandarea noastră sunt următoarele trasee ghidate:"
         },
         {
           "textContent": "<b>Traseul evoluției miniere</b> - se începe cu povestea veche a mineritului 'moștenit din tată-n fiu', prin a vizita galeriile Antice realizate de agatârși cu apă și foc, apoi galeriile trapeizoidale realizate de daci și romani cu dalta și ciocanul, după care se continuă cu instalațiile pentru procesarea aurului ca șteampurile sau lacurile de acumulare. La final se vizitează uzinele, iazurile de decantare și carierele de suprafață realizate recent, în perioada comunistă, prin care s-au ras munți și dealuri, iar satul Geamăna a fost acoperit cu deșeuri miniere."
@@ -137,6 +137,44 @@
         },
         {
           "textContent": "<b>Dorești un traseu ghidat?</b> Specifică acest lucru la rezervarea unei camere.",
+          "seeAlso": [
+            {
+              "text": "Click aici pentru rezervări...",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#bookings",
+              "openInNewTab": false
+            }
+          ],
+          "images": [
+            {
+              "text": "Traseu ghidat centrul istoric Roșia Montană cu un grup din Arad.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+            },
+            {
+              "text": "Traseu ghidat obiective naturale și zone protejate Roșia Montană cu un grup din Germania.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+            },
+            {
+              "text": "Traseu ghidat exploatări miniere cu un grup din India.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-cariera.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-cariera.jpg"
+            },
+            {
+              "text": "Traseu ghidat pe bicicletă",
+              "thumbnailUrl": "img/accommodation/article/bikes/thumbnail/bicicleta.jpg",
+              "fullSizeUrl": "img/accommodation/article/bikes/fullSize/bicicleta.jpg"
+            },
+            {
+              "text": "Traseu ghidat pe bicicletă - din loc în loc ne oprim pentru a vă povesti despre locurile prin care trecem sau pentru asistență reparații bicicletă (dacă e cazul).",
+              "thumbnailUrl": "img/accommodation/article/bikes/thumbnail/ghid-bicicleta.jpg",
+              "fullSizeUrl": "img/accommodation/article/bikes/fullSize/ghid-bicicleta.jpg"
+            }
+          ]
+        },
+        {
+          "textContent": "<br> <b>Dorești un traseu ghidat?</b> Specifică acest lucru la rezervarea unei camere.",
           "seeAlso": [
             {
               "text": "Click aici pentru rezervări...",
@@ -173,10 +211,10 @@
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/packages/summary"
+          "page": "ro/accommodation"
         },
         {
-          "page": "ro/accommodation"
+          "page": "ro/packages/weekend"
         },
         {
           "page": "ro/events/steamTrain"

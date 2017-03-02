@@ -3,18 +3,18 @@
     "title": "Pachete și vouchere",
     "headline": "Pachete și vouchere",
     "description": "<b>cu excursii la Roșia Montană</b><br>Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat pachete ce includ cazarea și diverse activități ...",
-    "fullWidthImg": "img/packages/summary/presentation/fullWidthImg.jpg",
-    "smallBoxImg": "img/packages/summary/presentation/smallBoxImg.jpg"
+    "fullWidthImg": "img/shortcut/packages/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/shortcut/packages/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "ro/packages/summary",
+    "link": "ro/shortcut/packages",
     "textOnMouseOver": "Vezi mai mult...",
     "openInNewTab": false
   },
   "metaData": {
     "title": "Descoperă Roșia Montană. Pachete  și vouchere",
     "description": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat pachete ce includ cazarea și participarea la diverse activități sau trasee ghidate. Prin rezervarea unui pachet vei primi un voucher care poate fi folosit în anumite perioade sau oferit cadou.",
-    "displayOnShareImg": "img/packages/summary/presentation/displayOnShareImg.jpg"
+    "displayOnShareImg": "img/shortcut/packages/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": true
@@ -38,7 +38,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-gift'></i> Pachete",
-      "sectionId": "trailsOnAreas",
+      "sectionId": "packages",
       "addLinkInPageHeadline": true
     },
     {

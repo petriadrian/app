@@ -3,7 +3,7 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/home</loc>
+        <loc>http://www.casapetrirosiamontana.ro</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
@@ -28,12 +28,6 @@
     </url>
     <url>
         <loc>http://www.casapetrirosiamontana.ro/ro/activities/trails</loc>
-        <lastmod>2016-01-10T19:05:25+00:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.00</priority>
-    </url>
-    <url>
-        <loc>http://www.casapetrirosiamontana.ro/ro/packages/summary</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
@@ -125,7 +119,7 @@
 
 
     <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/home</loc>
+        <loc>http://www.casapetrirosiamontana.ro/en</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
@@ -150,12 +144,6 @@
     </url>
     <url>
         <loc>http://www.casapetrirosiamontana.ro/en/trails/summary</loc>
-        <lastmod>2016-01-10T19:05:25+00:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.00</priority>
-    </url>
-    <url>
-        <loc>http://www.casapetrirosiamontana.ro/en/packages/summary</loc>
         <lastmod>2016-01-10T19:05:25+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>

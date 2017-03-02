@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Lety și Șulei",
     "headline": "Traseul spre masivele Lety și Șulei",
-    "descriptionTitle": "<i class='fa fa-blind'></i> <b>~10km</b>",
+    "descriptionTitle": "<i class='fa fa-blind'></i> <i class='fa fa-bicycle'></i> <b>~10km</b>",
     "description": "Urcăm spre Galeria Văidoaia și Tăul Mare până pe masivele Lety și Șulei, apoi coborâm pe la tăurile Corna și Brazi.",
     "fullWidthImg": "img/trails/letySulei/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/trails/letySulei/presentation/smallBoxImg.jpg"
@@ -193,7 +193,7 @@
           "page": "ro/trails/summary"
         },
         {
-          "page": "ro/packages/summary"
+          "page": "ro/shortcut/packages"
         }
       ]
     }

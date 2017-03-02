@@ -4,6 +4,8 @@
 var RO_LOCALE = 'ro';
 var EN_LOCALE = 'en';
 
+// console.log("");
+
 /**
  * Main AngularJS Web Application
  */
@@ -48,23 +50,40 @@ app.config(['$urlRouterProvider', '$stateProvider', '$locationProvider', functio
     $urlRouterProvider.otherwise('/');
     $locationProvider.html5Mode(true);
     $stateProvider
-        .state('initHome', {
+        .state('initHomeRo', {
             url: '/',
             templateUrl: 'partials/defaultTemplate.html',
-            controller: function ($window, localizationService) {
-                //detect language And Redirect
-                $window.location.href = localizationService.language + '/home';
-            }
+            controller: "InitialPageCtrl"
+        })
+        .state('initHomeEn', {
+            url: '/en',
+            templateUrl: 'partials/defaultTemplate.html',
+            controller: "InitialPageCtrl"
         })
         .state('default', {
             url: '*path',
-            templateUrl: 'partials/defaultTemplate.html', controller: "DefaultPageCtrl"
+            templateUrl: 'partials/defaultTemplate.html',
+            controller: "DefaultPageCtrl"
         })
 }]);
 
 /**
  * Controllers
  */
+app.controller('InitialPageCtrl', function ($scope, $rootScope, $location, $http, $timeout, $anchorScroll, localizationService) {
+    var pageContentPath = 'content/' + localizationService.language + '/home.json';
+    $http.get(pageContentPath).success(function (pageContentResult) {
+        console.log("dsds");
+        $rootScope.pageContent = pageContentResult;
+    });
+    // if the needed location has an anchor then scroll to it only after the page is loaded
+    if ($location.hash()) {
+        $timeout(function () {
+            $anchorScroll($location.hash());
+        }, 1200);
+    }
+});
+
 app.controller('DefaultPageCtrl', function ($scope, $rootScope, $location, $http, $timeout, $anchorScroll) {
     var pageContentPath = 'content' + $location.$$path + '.json';
     $http.get(pageContentPath).success(function (pageContentResult) {
@@ -145,21 +164,28 @@ function toggleSection(button) {
 app.factory('localizationService', function ($window, $location) {
     var factory = {};
     factory.language = "";
-    if ($location.$$path.indexOf("/" + RO_LOCALE + "/") > -1) {
+    if (($location.$$path.indexOf("/" + RO_LOCALE + "/") > -1) || (!$location.$$path.substring(2))) {
         factory.language = RO_LOCALE;
-    } else if ($location.$$path.indexOf("/" + EN_LOCALE + "/") > -1) {
-        factory.language = EN_LOCALE;
     } else {
-        factory.language = navigator.language || navigator.userLanguage;
-        if (factory.language.indexOf(RO_LOCALE) > -1) {
-            factory.language = RO_LOCALE;
-        } else {
-            factory.language = EN_LOCALE;
-        }
+        factory.language = EN_LOCALE;
     }
+    // else {
+    //     factory.language = navigator.language || navigator.userLanguage;
+    //     if (factory.language.indexOf(RO_LOCALE) > -1) {
+    //         factory.language = RO_LOCALE;
+    //     } else {
+    //         factory.language = EN_LOCALE;
+    //     }
+    // }
     factory.changeLanguage = function (newLang) {
         var actulPathWithoutLang = $location.$$path.substring(3);
-        $window.location.href = '/' + newLang + actulPathWithoutLang;
+        if (!actulPathWithoutLang && newLang == RO_LOCALE) {
+            $window.location.href = "/";
+        } else if (!actulPathWithoutLang && newLang != RO_LOCALE) {
+            $window.location.href = "/" + newLang;
+        } else {
+            $window.location.href = '/' + newLang + actulPathWithoutLang;
+        }
     };
     return factory;
 });

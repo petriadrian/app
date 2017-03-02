@@ -173,8 +173,8 @@
             },
             {
               "text": "On the road to Geamăna.",
-              "thumbnailUrl": "img/trails/attractions/lakes/geamana/thumbnail/5.jpg",
-              "fullSizeUrl": "img/trails/attractions/lakes/geamana/fullSize/5.jpg"
+              "thumbnailUrl": "img/trails/attractions/lakes/geamana/thumbnail/bicicleta.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/geamana/fullSize/bicicleta.jpg"
             },
             {
               "text": "Geamăna",
@@ -231,7 +231,7 @@
           "page": "en/trails/summary"
         },
         {
-          "page": "en/packages/summary"
+          "page": "en/shortcut/packages"
         }
       ]
     }

@@ -218,7 +218,7 @@
           "page": "ro/trails/summary"
         },
         {
-          "page": "ro/packages/summary"
+          "page": "ro/shortcut/packages"
         }
       ]
     }

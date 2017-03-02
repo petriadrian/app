@@ -161,7 +161,7 @@ body {
 }
 
 .titleLayout {
-    border-bottom: 1px solid #B9B9B9;
+    border-bottom: 1px solid #49a900;
     margin-bottom: 10px;
     margin-top: 40px;
     font-size: 2.3em;
@@ -225,7 +225,7 @@ body {
     width: 1000px;
     position: absolute;
     top: 0.73em;
-    border-top: 1px solid gray;
+    border-top: 1px solid #49a900;
 }
 
 .articleTitle h3 span:before {

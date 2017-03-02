@@ -1,6 +1,6 @@
 {
   "presentation": {
-    "title": "Impresii",
+    "title": "Reviews",
     "headline": "Crestem împreună cu cei ce ne trec pragul",
     "description": "<b>Ce spun oaspeții noștri?</b><br>Vezi aici experiențele și impresiile lor despre noi și traseele de drumeție sau ciclism făcute...",
     "fullWidthImg": "img/reviews/presentation/fullWidthImg.jpg",
@@ -22,7 +22,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "<i class='fa fa-commenting'></i> Impresii",
+      "text": "<i class='fa fa-commenting'></i> Reviews",
       "sectionId": "reviews",
       "addLinkInPageHeadline": true
     },
@@ -94,9 +94,39 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-pencil-square-o'></i> Adaugă o impresie",
+      "text": "<i class='fa fa-pencil-square-o'></i> Adaugă un review",
       "sectionId": "addReview",
       "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Dacă ești pe facebook sau tripadvisor, deoarece aceste platforme sunt mult mai vizibile, te rugăm să adaugi review-ul tău acolo, iar noi îl vom prelua și la noi pe site:",
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-facebook-official'></i> - pune review direct pe facebook",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.facebook.com/pg/casapetrirosiamontana/reviews/?ref=page_internal",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-tripadvisor'></i> - pune review direct pe tripadvisor",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.tripadvisor.com/Hotel_Review-g9998203-d9871602-Reviews-Casa_Petri_Rosia_Montana-Rosia_Montana_Alba_County_Central_Romania_Transylvania.html#REVIEWS",
+              "openInNewTab": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Dacă nu ai cont de facebook sau tripadvisor adaugă review-ul tău direct pe site-ul nostru:"
+        }
+      ]
     },
     {
       "type": "form",
@@ -115,7 +145,7 @@
           "required": true
         },
         {
-          "type": "textRow",
+          "type": "text",
           "name": "name",
           "iconFortAwesomeClass": "fa fa-user fa-fw",
           "placeholder": "Nume",
@@ -123,7 +153,7 @@
           "required": true
         },
         {
-          "type": "textRow",
+          "type": "text",
           "name": "locality",
           "iconFortAwesomeClass": "fa fa-map-marker fa-fw",
           "placeholder": "Localitate",
@@ -151,7 +181,7 @@
           "page": "ro/trails/summary"
         },
         {
-          "page": "ro/packages/summary"
+          "page": "ro/shortcut/packages"
         }
       ]
     }

@@ -1,13 +1,13 @@
 {
   "presentation": {
     "title": "Pagina Principală",
-    "headline": "Încă te mai întrebi: 'De ce să vizitez Roșia Montană?'",
+    "headline": "Vizitati Roșia Montană",
     "description": "pe acest site găsești cazare și trasee spre atracțiile turistice din zonă",
     "fullWidthImg": "img/homePage/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/homePage/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "ro/home",
+    "link": "/",
     "textOnMouseOver": "homepage",
     "openInNewTab": false
   },
@@ -25,6 +25,9 @@
       "carousel": {
         "timeInterval": "7000",
         "slides": [
+          {
+            "page": "ro/accommodation"
+          },
           {
             "page": "ro/trails/letySulei"
           },
@@ -48,15 +51,15 @@
     },
     {
       "type": "title",
-      "text": "Ce fac la Roșia Montană?",
+      "text": "Descoperă un peisaj cultural unic",
       "addLinkInPageHeadline": false,
-      "sectionId": "whyVisitRosia"
+      "sectionId": "heritage"
     },
     {
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>1. Descoperă un 'peisaj cultural unic' - zona protejată Roșia Montană</b> <br>Lucrări miniere realizate încă din Antichitate (galerii, șteampuri, lacuri artificiale) și centrul istoric cu clădiri de patrimoniu construite de civilizațiile venite de-a lungul timpului pentru a extrage aur (școli cu predare în diverse limbi, biserici de diferite culte sau locuințele aurarilor) pot fi vizitate prin traseele:"
+          "textContent": "Lucrări miniere realizate încă din Antichitate (galerii, șteampuri, lacuri artificiale) și centrul istoric cu clădiri de patrimoniu construite de civilizațiile venite de-a lungul timpului pentru a extrage aur (școli cu predare în diverse limbi, biserici de diferite culte sau locuințele aurarilor) pot fi vizitate prin traseele:"
         }
       ]
     },
@@ -70,21 +73,21 @@
           "page": "ro/trails/romanGalleries"
         },
         {
-          "page": "ro/trails/letySulei"
+          "page": "ro/trails/carnic"
         }
       ]
     },
     {
       "type": "title",
-      "text": "",
+      "text": "Bucură-te de natura din Apuseni",
       "addLinkInPageHeadline": false,
-      "sectionId": "ourStory"
+      "sectionId": "nature"
     },
     {
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>2. Descoperă atracțiile naturale din zonă - accesibile și cu bicicleta</b><br>Avem împrejurimi superbe! Drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și alte obiective din Munții Apuseni. Vă recomandăm să parcurgeți traseele de mai jos cu <b>bicileta</b> (puteți închiria una din Roșia)."
+          "textContent": "Împrejurimile sunt de asemenea superbe. Drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și alte obiective din Munții Apuseni. Traseele de mai jos sunt ideale pentru <b>drumeții sau ciclism montan</b> (puteți închiria biciclete din Roșia)."
         }
       ]
     },
@@ -104,15 +107,15 @@
     },
     {
       "type": "title",
-      "text": "",
+      "text": "Vezi impactul exploatărilor miniere",
       "addLinkInPageHeadline": false,
-      "sectionId": "ourStory"
+      "sectionId": "mining"
     },
     {
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>3. Vezi ce impact ar avea o nouă exploatare minieră și cum arată cele existente</b> <br> În anul 2013 au avut loc proteste masive de stradă împotriva începeri unei noi exploatări de aur de către o firmă canadiană. Vizitează satul ce urma să fie acoperit de un lac de cianură - traseul 'Corna' și unele dintre cele mai mari exploatări de suprafață din Europa: Roșia Poieni - traseul 'Geamăna' și Cetate - traseul 'Cârnic'."
+          "textContent": "Caiera de cupru 'Roșia Poieni' și iazul ei de decantare pot fi văzute prin traseul 'Geamăna'. Vizitați cariera de aur 'Cetate' prin traseul 'Cârnic'. Zona unde urma să înceapă o nouă carieră de aur, împotriva căruia au avut loc proteste masive de stradă, poate fi văzută prin traseul 'Corna' și 'Cârnic'."
         }
       ]
     },
@@ -120,13 +123,13 @@
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/trails/corna"
-        },
-        {
           "page": "ro/trails/geamana"
         },
         {
           "page": "ro/trails/carnic"
+        },
+        {
+          "page": "ro/trails/corna"
         }
       ]
     },
@@ -134,10 +137,10 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>Descoperă și alte atracții din zona noastră.</b>",
+          "textContent": "<b>Descoperă și alte atracții și trasee de dumeție sau ciclism din zona noastră pe pagina </b>",
           "seeAlso": [
             {
-              "text": "Vezi aici mai multe trasee de drumeție sau ciclism...",
+              "text": "trasee și atracții",
               "textOnMouseOver": "Click aici...",
               "link": "ro/trails/summary",
               "openInNewTab": false
@@ -148,15 +151,15 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-home'></i> Cazare, trasee ghidate, biciclete",
+      "text": "Ce oferim la Roșia Montană?",
       "addLinkInPageHeadline": false,
-      "sectionId": "casaPetri"
+      "sectionId": "ourOffer"
     },
     {
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Ne dorim să ai o experiență unică și autentică în Roșia Montană, de aceea oferim cazare în centrul istoric și te punem în contact cu localnici ce oferă trasee ghidate, închirieri de biciclete sau mâncare tradițională."
+          "textContent": "Ne dorim să ai o experiență unică și autentică în Roșia Montană. Oferim cazare în centrul istoric și te punem în contact cu localnici ce oferă trasee ghidate, închirieri de biciclete sau mâncare tradițională."
         }
       ]
     },
@@ -165,10 +168,22 @@
       "text": "",
       "detailBoxes": [
         {
-          "page": "ro/accommodation"
+          "page": "ro/shortcut/rooms"
         },
         {
-          "page": "ro/packages/summary"
+          "page": "ro/shortcut/bikes"
+        },
+        {
+          "page": "ro/shortcut/guides"
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "text": "",
+      "detailBoxes": [
+        {
+          "page": "ro/shortcut/packages"
         },
         {
           "page": "ro/review"

@@ -4,14 +4,14 @@
     "imgUrlBigColor": "img/common/logo.png",
     "imgUrlSmallWhite": "img/common/logo_white.png",
     "url": {
-      "link": "en/home",
+      "link": "/en",
       "textOnMouseOver": "return to homepage..."
     }
   },
   "topText": {
     "text": "discover <b>Rosia Montana</b>",
     "url": {
-      "link": "en/home",
+      "link": "/en",
       "textOnMouseOver": "see more...",
       "openInNewTab": false
     }
@@ -38,7 +38,7 @@
     {
       "text": "Packages and vouchers",
       "url": {
-        "link": "ro/packages/summary",
+        "link": "en/accommodation#packages",
         "textOnMouseOver": "vouchers (accommodation + activities)",
         "openInNewTab": false
       }

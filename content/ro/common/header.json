@@ -4,14 +4,14 @@
     "imgUrlBigColor": "img/common/logo.png",
     "imgUrlSmallWhite": "img/common/logo_white.png",
     "url": {
-      "link": "ro/home",
+      "link": "/",
       "textOnMouseOver": "întoarcete la pagina principală..."
     }
   },
   "topText": {
     "text": "descoperă <b>Roșia Montană</b>",
     "url": {
-      "link": "ro/home",
+      "link": "/",
       "textOnMouseOver": "vezi mai mult...",
       "openInNewTab": false
     }
@@ -38,7 +38,7 @@
     {
       "text": "Pachete și vouchere",
       "url": {
-        "link": "ro/packages/summary",
+        "link": "ro/accommodation#packages",
         "textOnMouseOver": "vouchere (cazare+activități)",
         "openInNewTab": false
       }

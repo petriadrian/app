@@ -38,7 +38,7 @@
     {
       "type": "title",
       "text": "<i class='fa fa-map-signs'></i> Local trails",
-      "sectionId": "trailsOnAreas",
+      "sectionId": "localTrails",
       "addLinkInPageHeadline": true
     },
     {
@@ -120,14 +120,14 @@
     {
       "type": "title",
       "text": "<i class='fa fa-map-signs'></i> Guided trails",
-      "sectionId": "thematicTrails",
+      "sectionId": "guidedTrails",
       "addLinkInPageHeadline": true
     },
     {
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "The above trails can be also made with a guide, but we also recommend the following thematic, guided trails:"
+          "textContent": "The above trails can be also made with a guide by foot or by bike, but our recommendation for guided trails are:"
         },
         {
           "textContent": "<b>The mining evolution trail</b> - starts with the old mining story of Rosia Montana by visiting the Antic galleries made with fire and water, then the rectangular galleries made by romans with the chisel and hammers and the installations for processing the golden ore (stamps mills and artificial lakes). At the end will be visited the mining plants, the wasting ponds and the open pits made recently by the the communist, which shaved the mountains and covered the Geamana village with a wasting lake."
@@ -137,6 +137,44 @@
         },
         {
           "textContent": "<b>Are you interested in guided tours?</b> Inform us while booking a room.",
+          "seeAlso": [
+            {
+              "text": "Click here for bookings...",
+              "textOnMouseOver": "Click here...",
+              "link": "en/accommodation#bookings",
+              "openInNewTab": false
+            }
+          ],
+          "images": [
+            {
+              "text": "Historic center, walking tour with a group from Romania.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+            },
+            {
+              "text": "Natural areas guided tour with a group from Germany.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+            },
+            {
+              "text": "Mining pits guided tour with a group from India.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-cariera.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-cariera.jpg"
+            },
+            {
+              "text": "Guided bike tour with a group from Romania",
+              "thumbnailUrl": "img/accommodation/article/bikes/thumbnail/bicicleta.jpg",
+              "fullSizeUrl": "img/accommodation/article/bikes/fullSize/bicicleta.jpg"
+            },
+            {
+              "text": "Guided trail on bikes - on our road we will stop to rest and to talk about the places we visit or to offer support for bike repairs (if needed).",
+              "thumbnailUrl": "img/accommodation/article/bikes/thumbnail/ghid-bicicleta.jpg",
+              "fullSizeUrl": "img/accommodation/article/bikes/fullSize/ghid-bicicleta.jpg"
+            }
+          ]
+        },
+        {
+          "textContent": "<br> <b>Are you interested in guided tours?</b> Inform us while booking a room.",
           "seeAlso": [
             {
               "text": "Click here for bookings...",
@@ -173,7 +211,7 @@
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "en/packages/summary"
+          "page": "en/shortcut/packages"
         },
         {
           "page": "en/accommodation"
