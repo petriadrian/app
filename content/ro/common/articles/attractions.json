@@ -5,7 +5,7 @@
     "textContent": "În adâncul masivului Orlea o să descoperiți o parte din galeriile antice realizate în perioada ocupației romane în Dacia pentru a extrage aurul. În subsolul localității există peste 120km de astfel de galerii, însă lungimea exactă nu este cunoscută pentru că rețeaua construită timp de aproape 2000 de ani nu a fost cercetată integral. Oriunde vă aflați în Roșia sunteți deasupra unor galerii, ele find dispuse chiar și pe mai multe etaje. Galeriile dechise pentru public se află la Muzeul Mineritului 'ROSIAMIN' iar accesul se face prin tururi ghidate care durează cam 2 ore. <b>Sunt deschise de Luni până Vineri între orele 8-14. Pentru a le vizita înafara acestui orar sau în weekend vă rog să ne informați (de obicei dacă facem o rezervare din timp vor veni și le vor deschide).",
     "images": [
       {
-        "text": "<b>Galeriile Romane</b> - Pentru a le vizita se coboara 157 de trepte in subteran.",
+        "text": "Galeriile romane construite în 106 – 272 d. Hr. pentru a extrage aur (un motiv pentru care împăratul roman Traian a cucerit zona noastră 'Dacia').",
         "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/1.jpg",
         "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/1.jpg"
       },
@@ -43,7 +43,7 @@
   },
   {
     "id": "orthodoxChurch",
-    "title": "Biserica Adormirea Măicii Domnului",
+    "title": "O biserică cu legendă",
     "textContent": "Acestă biserică ortodoxă are în spate una dintre cele mai interesante povești cu aurari, vâlve și grămezi de aur din Roșia Montană. Este una din cele 7 biserici construite de aurarul italian 'Gritta' ca urmare a promisiunii făcute vâlvei ('şapte biserici oi ridica în Apuseni, să aibă românii unde să se închine la Dumnezeu, şi-apăi încă pe-atâtea şcoli, să scape bieţii noştri copii de căratul pietroaielor în spate, să aibă un viitor!') iar în schimb Vâlva i-a arătat locul din galerie unde trebuie să sape pentru a găsi aur.",
     "seeAlso": [
       {
@@ -72,7 +72,7 @@
     "textContent": "Cel mai romantic loc din Roșia Montană este 'Băncuța Panoramică' iar drumul până aici vă va purta prin fostul cartier nemțesc 'Berg'.",
     "images": [
       {
-        "text": "<b>Școala Germană și Casa Francisc</b> - clădiri de patrimoniu ale cartierului 'Berg'",
+        "text": "Școala Germană și Casa Francisc - clădiri de patrimoniu ale cartierului german 'Berg'",
         "thumbnailUrl": "img/trails/attractions/panoramicBench/thumbnail/1.jpg",
         "fullSizeUrl": "img/trails/attractions/panoramicBench/fullSize/1.jpg"
       },
@@ -229,7 +229,7 @@
   {
     "id": "carnicSfinx",
     "title": "Sfinxul Carnic",
-    "textContent": "Drumul vă va purta printr-o pădure de brazi prin care puteți găsi ciuperci, zmeura, mure sau frăguțe. Odată ajunși pe culmea masivului, la Sfinx, vă aflati pe unul dintre cele mai inalte puncte din Roșia Montană. În față aveți Centrul Istoric, iar în spate Cariera Cetate care poartă acest nume pentru că aici era într-adevăr o cetate sculptată în munți de către daci si romani. Pe vremea comunismului s-a decis ca este mai utilă o exploatare de suprafață decât conservarea acesteia.",
+    "textContent": "Drumul vă va purta printr-o pădure de brazi prin care puteți găsi ciuperci, zmeura, mure sau frăguțe. Odată ajunși pe culmea masivului, la Sfinx, vă aflati pe unul dintre cele mai inalte culmi din Roșia Montană. În față aveți Centrul Istoric, iar în spate Cariera Cetate care poartă acest nume pentru că aici era într-adevăr o cetate sculptată în munți de către daci si romani. Pe vremea comunismului s-a decis ca este mai utilă o exploatare de suprafață decât conservarea acesteia.",
     "seeAlso": [
       {
         "text": "Mai multe detalii aici...",
@@ -257,12 +257,12 @@
     "textContent": "De la Sfinx ne întoarcem pe culmea muntelui până la capătul potecii, la Piatra Corbului - rezervație naturală protejată. Galeriile pe care o să le vedeți în zona Piatra Corbului sunt unele din cele mai vechi din Roșia Montană (~5500 ani) și au fost făcute folosind doar foc și apă de către agatârși (se făcea un foc imens sub rocă iar apoi era turnată apă și roca crăpa prin zona filoanelor de aur).",
     "images": [
       {
-        "text": "<b>Piatra Corbului</b> -  numele vine de la forma ei de cap de corb",
+        "text": "Piatra Corbului - are forma de cap de corb iar în galeriile din interior sunt cuiburi de corbi. Aici sunt unele dintre cele mai vechi galerii (~2000 de ani), realizate cu apă și foc de agatârși.",
         "thumbnailUrl": "img/trails/attractions/carnic/ravenStone/thumbnail/1.jpg",
         "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/1.jpg"
       },
       {
-        "text": "<b>Vedere spre Valea Cornei</b> - pe suprafața întregii acestei depresiuni ar fi urmat să fie cel mai mare lac de cianură din Europa, dacă s-ar fi deschis aici o exploatare de aur.",
+        "text": "Vedere spre Valea Cornei - pe suprafața întregii acestei văi ar urma să fie cel mai mare lac de cianură din Europa, dacă ar începe o nouă carieră de aur.",
         "thumbnailUrl": "img/trails/attractions/carnic/ravenStone/thumbnail/2.jpg",
         "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/2.jpg"
       }
@@ -282,14 +282,14 @@
     ],
     "images": [
       {
-        "text": "<b>Sculpturile de calcar</b> - Așezarea lor în ograda unei ferme nu e aleasă la întâmplare deoarece zona Orlea este bogată în resurse subterane. Odată ce sculpturile au devenit monumente de patrimoniu, zona este protejată iar deschiderea unei exploatări miniere aici... este teoretic imposibil.",
+        "text": "Sculpturile de calcar - Așezarea lor în ograda unei ferme nu e aleasă la întâmplare deoarece zona Orlea este bogată în resurse subterane. Odată ce sculpturile au devenit monumente de patrimoniu, zona este protejată iar deschiderea unei exploatări miniere aici... este teoretic imposibil.",
         "thumbnailUrl": "img/trails/attractions/sculpture/thumbnail/1.jpg",
         "fullSizeUrl": "img/trails/attractions/sculpture/fullSize/1.jpg"
       },
       {
-        "text": "<b>Sculptura 'DOOR'</b> - Ehab ELLABAN | Egipt | Academia de Arte Zamalek, Cairo | Sculptura din calcar de Vistea",
-        "thumbnailUrl": "img/trails/attractions/sculpture/thumbnail/2.jpg",
-        "fullSizeUrl": "img/trails/attractions/sculpture/fullSize/2.jpg"
+        "text": "Sculpturi realizate de un centru din Paris, cu artiști internaționali pe o pajiște, la o fermă de vaci din Roșia Montană.",
+        "thumbnailUrl": "img/trails/attractions/sculpture/thumbnail/simpozion.jpg",
+        "fullSizeUrl": "img/trails/attractions/sculpture/fullSize/simpozion.jpg"
       }
     ]
   },
@@ -478,7 +478,7 @@
         "fullSizeUrl": "img/trails/attractions/lakes/geamana/fullSize/1.jpg"
       },
       {
-        "text": "Foste gospoddării din Geamăna",
+        "text": "Foste gospodării din Geamăna",
         "thumbnailUrl": "img/trails/attractions/lakes/geamana/thumbnail/2.jpg",
         "fullSizeUrl": "img/trails/attractions/lakes/geamana/fullSize/2.jpg"
       }
@@ -498,12 +498,12 @@
     ],
     "images": [
       {
-        "text": "Vechea mănăstire Lupșa - 1421",
+        "text": "Mănăstire Lupșa Veche - 1421",
         "thumbnailUrl": "img/trails/attractions/churches/lupsa/thumbnail/1.jpg",
         "fullSizeUrl": "img/trails/attractions/churches/lupsa/fullSize/1.jpg"
       },
       {
-        "text": "Noua mănăstire Lupșa și restaurantul Casa Apuseană.",
+        "text": "Mănăstire Lupșa Nouă și restaurantul Casa Apuseană.",
         "thumbnailUrl": "img/trails/attractions/churches/lupsa/thumbnail/2.jpg",
         "fullSizeUrl": "img/trails/attractions/churches/lupsa/fullSize/2.jpg"
       }

@@ -179,6 +179,12 @@
       ]
     },
     {
+      "type": "title",
+      "text": "Vezi și...",
+      "addLinkInPageHeadline": false,
+      "sectionId": "seeAlso"
+    },
+    {
       "type": "linkToOtherPages",
       "text": "",
       "detailBoxes": [
@@ -187,6 +193,9 @@
         },
         {
           "page": "ro/review"
+        },
+        {
+          "page": "ro/shortcut/directions"
         }
       ]
     },

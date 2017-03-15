@@ -5,7 +5,7 @@
     "textContent": "Underneath the Orlea mountain you will discover a part of the antic galleries built by romans to extract the gold. Under all over the village there are over 120km of such roman galleries, but their precise length is not known because the gallery network hasn't been fully researched until now. Wherever you are in Rosia Montana you are above of some such galleries, they are being disposed even on multiple floors. The galleries opened to public are at the Mining Museum 'ROSIAMIN' and there are guided tours to visit them, that last ~2hours. <b>They are opened from Monday to Friday from 8:00 to 14:00. If you want to visit them outside these working hours or in weekend please inform us (usually if we call and make an early reservation they will come and open).",
     "images": [
       {
-        "text": "<b>The roman galleries</b> - To reach them you have to go 157 stairs underground.",
+        "text": "<b>The roman galleries</b> - built in 106 – 272 AD to extract gold (one reason for which the roman emperor Traian has conquered our area 'Dacia').",
         "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/1.jpg",
         "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/1.jpg"
       },
@@ -43,7 +43,7 @@
   },
   {
     "id": "orthodoxChurch",
-    "title": "Biserica Adormirea Măicii Domnului",
+    "title": "A church with a myth",
     "textContent": "This orthodox church has one of the most interesting stories, with Vâlva(mines spirit), goldsmiths and bunches of gold from Rosia Montana. It is one of the 7 churches built by the italian goldsmith 'Gritta', because of the pact he made with Vâlva. ('I will build seven churches in Apuseni where the locals could pray and 7 schools where our children could learn! ') and Vâlva show him the place from the gallery where he can dig to find gold.",
     "seeAlso": [
       {
@@ -254,15 +254,16 @@
   {
     "id": "ravenStone",
     "title": "Piatra Corbului",
-    "textContent": "From the Sphinx return on the mountaintop (the way you came on), till the end of the trail, at Piatra Corbului (Raven Stone) -  a natural protected reservation. The Galleries which can be seen around here are one of the oldest from Rosia Montana (~5500 years) and they were made by using only the water and fire by the agathyrsi peoples (they made a huge fire under the rocks and then water was poured, so the rocks split on the gold vein).",
+    "textContent": "From the Sphinx return on the mountaintop (the way you came on), till the end of the trail, at 'Piatra Corbului' (Raven Stone) -  a natural protected reservation. The Galleries which can be seen around here are one of the oldest from Rosia Montana (~5500 years) and they were made by using only the water and fire by the agathyrsi peoples (they made a huge fire under the rocks and then water was poured, so the rocks split on the gold vein).",
     "images": [
       {
         "text": "<b>The Raven stone</b> - the name comes from its raven’s head shape",
+        "text": "Piatra Corbului - has the shape of a raven head and in the galleries from inside are raven nests. Here are one of the oldest galleries (~2000 years old), made with fire and water by Agathyrsi.",
         "thumbnailUrl": "img/trails/attractions/carnic/ravenStone/thumbnail/1.jpg",
         "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/1.jpg"
       },
       {
-        "text": "<b>The landscape from the Raven stone - 'Corna' valley</b> - the entire surface of this depression would be transformed in the largest cyanide lake in Europe, if a new gold exploitation would be open here(as the one proposed in 2014)",
+        "text": "<b>The landscape from the Raven stone - 'Corna' valley view</b> - all this area would be transformed in the largest cyanide lake from Europe, if a new gold exploitation would be open here(as the one proposed in 2002)",
         "thumbnailUrl": "img/trails/attractions/carnic/ravenStone/thumbnail/2.jpg",
         "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/2.jpg"
       }
@@ -287,9 +288,9 @@
         "fullSizeUrl": "img/trails/attractions/sculpture/fullSize/1.jpg"
       },
       {
-        "text": "<b>'DOOR' Sculpture</b> - Ehab ELLABAN | Egipt | Zamalek Arts Academy, Cairo | Sculpture of Vistea limestone",
-        "thumbnailUrl": "img/trails/attractions/sculpture/thumbnail/2.jpg",
-        "fullSizeUrl": "img/trails/attractions/sculpture/fullSize/2.jpg"
+        "text": "Statuary made by an organization from Paris, with international artists on a meadow, from a cow farm in Roșia Montană.",
+        "thumbnailUrl": "img/trails/attractions/sculpture/thumbnail/simpozion.jpg",
+        "fullSizeUrl": "img/trails/attractions/sculpture/fullSize/simpozion.jpg"
       }
     ]
   },

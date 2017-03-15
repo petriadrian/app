@@ -109,9 +109,14 @@
     ],
     "images": [
       {
-        "text": "<b>Alexandra - București(RO)</b> -  cu echipa maratonului pe Vârful Rotundu - Țarina",
+        "text": "Alexandra - București(RO)-  cu echipa maratonului pe Vârful Rotundu - Țarina",
         "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/7.jpg",
         "fullSizeUrl": "img/reviews/article/reviewer/fullSize/7.jpg"
+      },
+      {
+        "text": "Alexandra - București(RO)",
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/alexandra-postelnicu.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/alexandra-postelnicu.jpg"
       }
     ]
   },
@@ -234,6 +239,18 @@
         "text": "<b>Verena's group - Hamburg(DE)</b> - ",
         "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/16.jpg",
         "fullSizeUrl": "img/reviews/article/reviewer/fullSize/16.jpg"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Simona - Stockholm(SWE)",
+    "textContent": "<span style='font-family: Merienda, cursive'>We warmly recommend the place, it is trully worth a visit. Rosia Montana is a place that has tremendously much to offer, and Casa Petri is athe perfect place for staying. The atmoshpere of the house os very authentic, and has many small details which give such a friendly feeling. Adi the host, went above and beyond for us. He explained the history of the place, showed us movies, accompanied us on a scenic route to the mines and gave us a tour of the historic center. He loves the place and you can feel that. He made our short stay memorable and we will certainly come back for a long holiday. Highly recommended!</span>",
+    "images": [
+      {
+        "text": "Simona and Tudor at Casa Petri.",
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/simona-sweden.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/simona-sweden.jpg"
       }
     ]
   }

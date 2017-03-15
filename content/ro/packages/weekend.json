@@ -64,18 +64,18 @@
             },
             {
               "text": "Proiecții de imagini și filme în curtea Casei Petri despre trecutul și protestele din Roșia Montană.",
-              "thumbnailUrl": "img/packages/common/article/thumbnail/4.jpg",
-              "fullSizeUrl": "img/packages/common/article/fullSize/4.jpg"
+              "thumbnailUrl": "img/packages/common/article/thumbnail/movie.jpg",
+              "fullSizeUrl": "img/packages/common/article/fullSize/movie.jpg"
             },
             {
               "text": "Curtea casei are un foișor cu loc pentru făcut grătar și hamace unde vă puteți relaxa sau citi carți din biblioteca noastră.",
-              "thumbnailUrl": "img/packages/common/article/thumbnail/3.jpg",
-              "fullSizeUrl": "img/packages/common/article/fullSize/3.jpg"
+              "thumbnailUrl": "img/packages/common/article/thumbnail/gradina.jpg",
+              "fullSizeUrl": "img/packages/common/article/fullSize/gradina.jpg"
             },
             {
               "text": "Cazarea se face în camere de 2 persoane cu bai private și acces la bucătărie.",
-              "thumbnailUrl": "img/packages/common/article/thumbnail/1.jpg",
-              "fullSizeUrl": "img/packages/common/article/fullSize/1.jpg"
+              "thumbnailUrl": "img/packages/common/article/thumbnail/accommodation.jpg",
+              "fullSizeUrl": "img/packages/common/article/fullSize/accommodation.jpg"
             }
           ]
         }

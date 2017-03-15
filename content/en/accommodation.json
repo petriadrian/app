@@ -154,7 +154,6 @@
         {
           "textContent": "<br> For prices and bookings see the bellow form or press on 'Bookings'."
         }
-
       ]
     },
     {
@@ -315,7 +314,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Rosia Montana has a golden past. The role and the way it works the mining through galleries, pounds and other machines used to extract the gold, the past of the heritage buildings from the historic center or what would have been the impact of the mega mining project proposed here in 2007 by the canadian company and the massive streets protests against it, are just some of the main reasons we recommend to visit Roșia Montana with a guide. The locality is not arranged for tourism so it will be pretty difficult to see and find all this by your own. We can offer guided tours - the bookings are made from the bellow form.",
+          "textContent": "Rosia Montana has a golden past. How it worked the mining through galleries, pounds and other machines used to extract the gold, the past of the heritage buildings from the historic center or what would have been the impact of the mega mining project proposed here in 2007 by the canadian company and the massive streets protests against it, are just some of the main reasons we recommend to visit Roșia Montana with a guide. The locality is not arranged for tourism so it will be pretty difficult to see and find all this by your own. <br>If you want a guided  We can offer guided tours - the bookings are made from the bellow form.",
           "images": [
             {
               "text": "The historic center guided tour with a group from Romania.",
@@ -470,12 +469,31 @@
           "page": "ro/packages/weekend"
         },
         {
-          "page": "ro/events/hayDays"
+          "page": "en/events/hayDays"
         }
       ]
     },
     {
       "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-location-arrow'></i> How to reach us?",
+      "sectionId": "directions",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "We are in the historic center of Roșia Montană - Carpathian Mountains - Transylvania, 130km away from Cluj Napoca and 80km from Alba Iulia. You can reach us by: <br><i class='fa fa-car'></i> <b>car</b> - set on your google maps gps 'Casa Petri Rosia Montana' and it will bring you to our house.<br><i class='fa fa-bus'></i> <b>bus</b> - the closest bus stations are in Câmpeni (15 km) or Abrud (10 km), but ask the driver to drop you off in Gura Roșiei (6 km) and hitchhike to the historic center.<br><i class='fa fa-train'></i> <b>train</b> - the closest train station is in Alba Iulia. Beside is the bus station so you can take a bus from there.<br><i class='fa fa-plane'></i> <b>airplane</b> - the closest airport is in Cluj Napoca. From here you have to take a bus. <br> Once in the historic center of Rosia Montana you will see on the left a 3 floor block of flats (the only block from the market). So take it on the left beside this building and in front you will see our house (one floor white house). The  entrance is through the yard on the left of the house. Please call us before arriving (~30min)."
+        },
+        {
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc"
+          }
+        }
+      ]
     },
     {
       "type": "title",

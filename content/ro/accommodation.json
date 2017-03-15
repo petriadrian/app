@@ -473,6 +473,25 @@
       ]
     },
     {
+      "type": "title",
+      "text": "<i class='fa fa-location-arrow'></i> Cum ajung?",
+      "sectionId": "directions",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Ne aflăm în Roșia Montană - Munții Apuseni - Transilvania, la 130km de Cluj-Napoca și 80km de Alba Iulia. Puteți ajunge la noi cu: <br><i class='fa fa-car'></i> <b>mașina</b> - setați pe gps-ul de la google maps 'Casa Petri Rosia Montana' și vă aduce până la casa noastră.<br><i class='fa fa-bus'></i> <b>autobuz</b> - cele mai apropiate autogări sunt în Câmpeni (15 km) sau Abrud (10 km), dar coborâți în satul Gura Roșiei (6 km) și faceți autostopul până în centrul vechi.<br><i class='fa fa-train'></i> <b>tren</b> - cea mai apropiată gară este în Alba Iulia. Chiar lângă gară este autogara de unde puteți lua un autobuz.<br><i class='fa fa-plane'></i> <b>avion</b> - cel mai apropiat aeroport este în Cluj Napoca. De aici va trebui să luați un autobuz până la noi. <br> Odată ajunși în centrul vechi din Rosia Montana o să vedeți în stânga un bloc de 3 etaje (singurul bloc din piață). Mergeți pe strada din fața lui și imediat în față este casa noastră, o casă albă cu etaj - numărul 331. Intrarea se face prin curte, pe poarta din partea stangă a casei. Vă rugăm să faceți o rezervare înainte de sosire."
+        },
+        {
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc"
+          }
+        }
+      ]
+    },
+    {
       "type": "socialButtons"
     },
     {

@@ -51,7 +51,7 @@
     },
     {
       "type": "title",
-      "text": "Discover an unique cultural landscape",
+      "text": "Discover our unique cultural heritage",
       "addLinkInPageHeadline": false,
       "sectionId": "heritage"
     },
@@ -79,7 +79,7 @@
     },
     {
       "type": "title",
-      "text": "Enjoy the natural beauty of Transylvania",
+      "text": "Enjoy the natural beauty of our area",
       "addLinkInPageHeadline": false,
       "sectionId": "nature"
     },
@@ -179,6 +179,12 @@
       ]
     },
     {
+      "type": "title",
+      "text": "See also...",
+      "addLinkInPageHeadline": false,
+      "sectionId": "seeAlso"
+    },
+    {
       "type": "linkToOtherPages",
       "text": "",
       "detailBoxes": [
@@ -187,6 +193,9 @@
         },
         {
           "page": "en/review"
+        },
+        {
+          "page": "en/shortcut/directions"
         }
       ]
     },
