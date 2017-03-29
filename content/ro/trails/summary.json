@@ -1,7 +1,7 @@
 {
   "presentation": {
-    "title": "Atracții și trasee",
-    "headline": "Atracții și trasee de drumeție sau ciclism",
+    "title": "Vizitați Roșia Montană",
+    "headline": "Descoperă Roșia Montană",
     "description": "<b>Drumeție sau ciclism?</b><br>Descoperă zona prin traseele propuse aici. Conțin hărți online de la casa noastră spre principalele obiective turistice...",
     "fullWidthImg": "img/trails/summary/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/trails/summary/presentation/smallBoxImg.jpg"
@@ -12,7 +12,7 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Atracții și trasee de drumeție sau ciclism din Roșia Montană",
+    "title": "Descoperă Roșia Montană. Trasee, atracții, activități",
     "description": "Trasee pe zone (de la galeriile romane și centrul istoric până pe vârful mmasivelor din zonă) și trasee tematice (evoluția minieră, protestele din Roșia Montană sau viața rurală). Puteți rezerva trasee ghidate, cazare, biciclete sau campare în Rosia Montana, Alba, Munții Apuseni, Transilvania, Romania.",
     "displayOnShareImg": "img/trails/summary/presentation/displayOnShareImg.jpg"
   },
@@ -22,30 +22,23 @@
   "sections": [
     {
       "type": "title",
-      "text": "",
-      "sectionId": "details",
-      "addLinkInPageHeadline": false
-    },
-    {
-      "type": "articles",
-      "specificArticles": [
-        {
-          "title": "",
-          "textContent": "Ne aflăm în Roșia Montană, zonă cu peisaje impresionante datorită munților, văilor și lacurilor ce o înconjoară, dar și cu o bogata încărcătură istorică datorată clădirilor de patrimoniu, galeriilor și zonelor miniere construite de civilizații de diverse culte venite aici încă din antichitate pentru a extrage aur. Descoperiți toate acestea prin traseele de drumeție sau ciclism de mai jos. Fiecare traseu conține imagini, descriere și <b>hărți online</b> cu date <b>GPS</b> astfel că pot fi accesate de pe orice smartphone în timpul drumeției. <br> Pictogramele de la fiecare traseu semnifică: <i class='fa fa-lg fa-blind'></i> - traseu de <b>drumeție</b> | <i class='fa fa-lg fa-bicycle'></i> - traseu de <b>bicicletă</b> | <i class='fa fa-lg fa-car'></i> - se poate ajunge la destinație și cu <b>mașina</b>"
-        }
-      ]
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Trasee locale",
-      "sectionId": "localTrails",
+      "text": "<i class='fa fa-map-signs'></i> Trasee și atracții",
+      "sectionId": "trails",
       "addLinkInPageHeadline": true
     },
     {
       "type": "articles",
       "specificArticles": [
         {
-          "title": "",
+          "textContent": "Ne aflăm în Roșia Montană, zonă cu peisaje impresionante datorită munților, văilor și lacurilor ce o înconjoară, dar și cu o bogata încărcătură istorică și culturală datorată clădirilor de patrimoniu și a <b>unuia dintre cele mai extinse și importante complexe de mine aurifere subterane din lume</b>, construite de diverse civilizații venite aici încă din antichitate pentru a extrage aur. Descoperiți toate acestea prin trasele de drumeție sau ciclism de mai jos. Fiecare traseu conține imagini, descriere și <b>hărți online</b> (pot fi accesate de pe orice smartphone în timpul drumeției). Distanța indicată reprezintă lungimea totală a traseului (dus-întors) de la Casa Petri. <br> Pictogramele de la fiecare traseu semnifică: <i class='fa fa-lg fa-blind'></i> - traseu de <b>drumeție</b> | <i class='fa fa-lg fa-bicycle'></i> - traseu de <b>bicicletă</b> | <i class='fa fa-lg fa-car'></i> - se poate ajunge la destinație și cu <b>mașina</b>"
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Trasee locale",
           "textContent": "Aceste trasee conțin principalele atracții din Roșia Montană."
         }
       ]
@@ -77,16 +70,10 @@
       ]
     },
     {
-      "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Împrejurimi",
-      "sectionId": "surroundings",
-      "addLinkInPageHeadline": true
-    },
-    {
       "type": "articles",
       "specificArticles": [
         {
-          "title": "",
+          "title": "Împrejurimi",
           "textContent": "Aceste trasee conțin atracțiile din apropierea Roșiei Montane."
         }
       ]
@@ -125,62 +112,31 @@
     },
     {
       "type": "articles",
-      "specificArticles": [
+      "commonArticles": [
         {
-          "textContent": "Și traseele de mai sus pot fi facute cu un ghid pe jos sau pe bicicletă, dar recomandarea noastră sunt următoarele trasee ghidate:"
-        },
-        {
-          "textContent": "<b>Traseul evoluției miniere</b> - se începe cu povestea veche a mineritului 'moștenit din tată-n fiu', prin a vizita galeriile Antice realizate de agatârși cu apă și foc, apoi galeriile trapeizoidale realizate de daci și romani cu dalta și ciocanul, după care se continuă cu instalațiile pentru procesarea aurului ca șteampurile sau lacurile de acumulare. La final se vizitează uzinele, iazurile de decantare și carierele de suprafață realizate recent, în perioada comunistă, prin care s-au ras munți și dealuri, iar satul Geamăna a fost acoperit cu deșeuri miniere."
-        },
-        {
-          "textContent": "<b>Traseul protestelor miniere</b> - cuprinde zonele unde au avut loc proteste pentru sau împotriva proiectului de minerit propus de o firmă canadiană în 2007. Află ce s-a întâmplat, vezi cum arată zona ce urma să fie transformată într-o carieră de aur și satul ce trebuia să fie acoperit de unul dintre cele mai mare lacuri cu cianuri din Europa. La final vom urmări la Casa Petri câteva filmulețe cu protestele masive de stradă din 2014, organizate în țară și în străinătate, împotriva acestui proiect."
-        },
-        {
-          "textContent": "<b>Dorești un traseu ghidat?</b> Specifică acest lucru la rezervarea unei camere.",
-          "seeAlso": [
+          "category": "ourServices",
+          "ids": [
             {
-              "text": "Click aici pentru rezervări...",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#bookings",
-              "openInNewTab": false
-            }
-          ],
-          "images": [
-            {
-              "text": "Traseu ghidat centrul istoric Roșia Montană cu un grup din Arad.",
-              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
-              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
-            },
-            {
-              "text": "Traseu ghidat obiective naturale și zone protejate Roșia Montană cu un grup din Germania.",
-              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
-            },
-            {
-              "text": "Traseu ghidat exploatări miniere cu un grup din India.",
-              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-cariera.jpg",
-              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-cariera.jpg"
-            },
-            {
-              "text": "Traseu ghidat pe bicicletă",
-              "thumbnailUrl": "img/accommodation/article/bikes/thumbnail/bicicleta.jpg",
-              "fullSizeUrl": "img/accommodation/article/bikes/fullSize/bicicleta.jpg"
-            },
-            {
-              "text": "Traseu ghidat pe bicicletă - din loc în loc ne oprim pentru a vă povesti despre locurile prin care trecem sau pentru asistență reparații bicicletă (dacă e cazul).",
-              "thumbnailUrl": "img/accommodation/article/bikes/thumbnail/ghid-bicicleta.jpg",
-              "fullSizeUrl": "img/accommodation/article/bikes/fullSize/ghid-bicicleta.jpg"
+              "id": "guide"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-book'></i> Alte activități",
+      "sectionId": "otherActivities",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
         {
-          "textContent": "<br> <b>Dorești un traseu ghidat?</b> Specifică acest lucru la rezervarea unei camere.",
-          "seeAlso": [
+          "category": "ourServices",
+          "ids": [
             {
-              "text": "Click aici pentru rezervări...",
-              "textOnMouseOver": "Click aici...",
-              "link": "ro/accommodation#bookings",
-              "openInNewTab": false
+              "id": "other"
             }
           ]
         }

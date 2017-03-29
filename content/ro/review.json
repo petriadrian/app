@@ -97,6 +97,34 @@
     },
     {
       "type": "title",
+      "text": "<i class='fa fa-comments'></i> Alte review-uri?",
+      "sectionId": "moreReviews",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Pe pagina noastră de facebook sau tripadvisor o să găsiți mai multe review-uri:",
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-facebook-official'></i> - vedeți aici review-urile de pe facebook",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.facebook.com/pg/casapetrirosiamontana/reviews/?ref=page_internal",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-tripadvisor'></i> - vedeți aici review-urile de pe tripadvisor",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.tripadvisor.com/Hotel_Review-g9998203-d9871602-Reviews-Casa_Petri_Rosia_Montana-Rosia_Montana_Alba_County_Central_Romania_Transylvania.html#REVIEWS",
+              "openInNewTab": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
       "text": "<i class='fa fa-pencil-square-o'></i> Adaugă un review",
       "sectionId": "addReview",
       "addLinkInPageHeadline": true
@@ -105,7 +133,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Dacă ești pe facebook sau tripadvisor, deoarece aceste platforme sunt mult mai vizibile, te rugăm să adaugi review-ul tău acolo, iar noi îl vom prelua și la noi pe site:",
+          "textContent": "Dacă aveți cont de facebook sau tripadvisor, deoarece aceste platforme sunt mult mai vizibile, vă rugăm să puneți review-ul vostru acolo:",
           "seeAlso": [
             {
               "text": "<br><i class='fa fa-facebook-official'></i> - pune review direct pe facebook",
@@ -127,7 +155,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Dacă nu ai cont de facebook sau tripadvisor adaugă review-ul tău direct pe site-ul nostru:"
+          "textContent": "Dacă nu aveți cont de facebook sau tripadvisor adaugați review-ul pe site-ul nostru prin formularul de mai jos:"
         }
       ]
     },

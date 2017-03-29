@@ -151,6 +151,18 @@
     },
     {
       "type": "title",
+      "text": " ",
+      "addLinkInPageHeadline": false,
+      "sectionId": "topAttractions"
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/trails/topAttractions"
+      }
+    },
+    {
+      "type": "title",
       "text": "Our offer in Rosia Montana",
       "addLinkInPageHeadline": false,
       "sectionId": "ourOffer"

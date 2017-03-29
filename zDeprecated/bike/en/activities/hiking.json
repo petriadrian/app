@@ -35,19 +35,7 @@
         }
       ]
     },
-    {
-      "type": "articles",
-      "commonArticles": [
-        {
-          "category": "guidesAndBikes",
-          "ids": [
-            {
-              "id": "details"
-            }
-          ]
-        }
-      ]
-    },
+
     {
       "type": "title",
       "text": "<i class='fa fa-map-signs'></i> Trails on areas",

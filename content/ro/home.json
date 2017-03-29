@@ -151,6 +151,18 @@
     },
     {
       "type": "title",
+      "text": " ",
+      "addLinkInPageHeadline": false,
+      "sectionId": "topAttractions"
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "ro/trails/topAttractions"
+      }
+    },
+    {
+      "type": "title",
       "text": "Ce oferim la Roșia Montană?",
       "addLinkInPageHeadline": false,
       "sectionId": "ourOffer"

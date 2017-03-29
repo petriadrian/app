@@ -18,25 +18,25 @@
   },
   "regularButtons": [
     {
-      "text": "<i class='fa fa-lg fa-map-signs'></i> Trasee și atracții",
+      "text": "<i class='fa fa-lg fa-map-signs'></i> Ce fac acolo?",
       "url": {
         "link": "ro/trails/summary",
-        "textOnMouseOver": "atracții și trasee de drumeție sau ciclism",
+        "textOnMouseOver": "atracții, trasee gps de drumeție sau ciclism, trasee ghidate, tenis, hamace, cărți",
         "openInNewTab": false
       }
     },
     {
-      "text": "<i class='fa fa-lg fa-bed'></i> Cazare și rezervări",
+      "text": "<i class='fa fa-lg fa-bed'></i> Ce oferim?",
       "url": {
         "link": "ro/accommodation",
-        "textOnMouseOver": "vezi interiorul și rezervări ...",
+        "textOnMouseOver": "cazare, campare, trasee ghidate, închirieri biciclete, info mâncare - rezervări",
         "openInNewTab": false
       }
     }
   ],
   "importantButtons": [
     {
-      "text": "Pachete și vouchere",
+      "text": "<i class='fa fa-lg fa-gift'></i> Pachete",
       "url": {
         "link": "ro/accommodation#packages",
         "textOnMouseOver": "vouchere (cazare+activități)",

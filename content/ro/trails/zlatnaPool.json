@@ -65,19 +65,6 @@
       ]
     },
     {
-      "type": "articles",
-      "commonArticles": [
-        {
-          "category": "guidesAndBikes",
-          "ids": [
-            {
-              "id": "details"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "type": "title",
       "text": "<i class='fa fa-star'></i> Atracții",
       "sectionId": "attractions",
@@ -123,6 +110,19 @@
               "text": "<b>Bazinul de înot Zlatna</b> - din câte știm credem că e deschis și noaptea dar aveți grijă pe traseul de întoarcere",
               "thumbnailUrl": "img/trails/attractions/zlatnaPool/thumbnail/2.jpg",
               "fullSizeUrl": "img/trails/attractions/zlatnaPool/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "guideBikeOnTrail"
             }
           ]
         }

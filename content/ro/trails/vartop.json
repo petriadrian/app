@@ -81,19 +81,6 @@
       ]
     },
     {
-      "type": "articles",
-      "commonArticles": [
-        {
-          "category": "guidesAndBikes",
-          "ids": [
-            {
-              "id": "details"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "type": "title",
       "text": "<i class='fa fa-star'></i> Atracții",
       "sectionId": "attractions",
@@ -189,6 +176,19 @@
           "ids": [
             {
               "id": "tariniLake"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "guideBikeOnTrail"
             }
           ]
         }

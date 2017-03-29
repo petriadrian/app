@@ -53,19 +53,6 @@
       ]
     },
     {
-      "type": "articles",
-      "commonArticles": [
-        {
-          "category": "guidesAndBikes",
-          "ids": [
-            {
-              "id": "details"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "type": "title",
       "text": "<i class='fa fa-star'></i> Attractions",
       "sectionId": "attractions",
@@ -106,6 +93,19 @@
             },
             {
               "id": "limestoneSculptures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "guideBikeOnTrail"
             }
           ]
         }

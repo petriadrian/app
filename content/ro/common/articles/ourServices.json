@@ -1,0 +1,155 @@
+[
+  {
+    "id": "food",
+    "textContent": "Variantele propuse pentru luatul mesei sunt:<br><b>Masa la localnici în sat</b> - avem vecini care oferă mese calde, tradiționale, la ei ogradă sau produse proprii (lapte, brânză, dulceată, sirop). Se află la 5 - 10min de mers pe jos de noi, iar donațiile recomandate sunt 25 - 30lei/pers/prânz sau 15 - 20lei/pers/mic dejun/cină. O să găsiți în cameră o listă cu aceștia și îi puteți suna când sosiți sau puteți specifica la efecturea unei rezervări, iar noi îi vom anunța pentru a fi pregătiți. <br><b>Bucătăriile din camere</b> - sunt ideale pentru micul dejun sau cină (puteți prepara sau păstra mâncarea), iar în grădină avem și un <b>grătar</b>. În apropierea casei (~5min de mers pe jos) sunt 3 <b>magazine alimentare</b> (",
+    "seeAlso": [
+      {
+        "text": "vezi aici cum ajungi la ele)",
+        "textOnMouseOver": "Click aici...",
+        "link": "https://www.google.ro/maps/dir/Emiliana+Shop,+DC146,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Bereczky+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Mixt+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Historical+center,+nr.+331A,+Casa+Petri,+Ro%C8%99ia+Montan%C4%83+517615/@46.3064009,23.1286362,17z/data=!3m1!4b1!4m26!4m25!1m5!1m1!1s0x474ecce0f07e87bf:0xc1e5f1730ebc127c!2m2!1d23.1317125!2d46.3060228!1m5!1m1!1s0x474ecce0563eefe1:0x44635688d438a223!2m2!1d23.1308247!2d46.30597!1m5!1m1!1s0x474ecce04e3e997b:0x14730c483b204593!2m2!1d23.1300147!2d46.3061442!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.1299373!2d46.3065974!3e2?hl=ro",
+        "openInNewTab": true
+      }
+    ],
+    "images": [
+      {
+        "text": "La un pahar de țuică, înainte de masa la localnici, cu un grup din Germania.",
+        "thumbnailUrl": "img/accommodation/article/food/thumbnail/restaurant.jpg",
+        "fullSizeUrl": "img/accommodation/article/food/fullSize/restaurant.jpg"
+      },
+      {
+        "text": "Recomandarea noastră este să luați masa la localnicii care oferă mese calde.",
+        "thumbnailUrl": "img/accommodation/article/food/thumbnail/mancare.jpg",
+        "fullSizeUrl": "img/accommodation/article/food/fullSize/mancare.jpg"
+      },
+      {
+        "text": "Fiecare cameră are o mică bucătărie cu frigider, cuptor cu microunde, fierbător, veselă, tacâmuri, ceai și cafea.",
+        "thumbnailUrl": "img/accommodation/article/rooms/common/thumbnail/kitchen.jpg",
+        "fullSizeUrl": "img/accommodation/article/rooms/common/fullSize/kitchen.jpg"
+      }
+    ]
+  },
+  {
+    "id": "guide",
+    "textContent": "<b>Munții noștri aur poartă, noi vă aratăm unde e!</b> <br><br>Roșia Montană are un trecut de aur. Rolul și modul de funcționare al galeriilor, tăurilor, carierelor deschise și a altor obiective folosite în extracția aurului, trecutul clădirilor de patrimoniu din centrul istoric sau impactul megaproiectului de minerit propus de firma canadiană și protestele de atunci sunt doar câteva dintre motivele pentru care vă recomandăm să vizitați Roșia Montana împreună cu un ghid. Localitatea nu este amenajată în scop turistic și este destul de dificil să descoperiți toate acestea singuri. Ținem legătura cu ghizi locali ce organizează trasee ghidate pe jos sau pe bicicletă (cu asistență tehnică pe traseu). Dacă sunteți interesați de:",
+    "seeAlso": [
+      {
+        "text": "<br><i class='fa fa-arrow-right'></i> <b>trasee ghidate personalizate</b> - specificați la rezervarea unei camere și vă vom contacta telefonic - vezi aici",
+        "textOnMouseOver": "Click aici...",
+        "link": "ro/accommodation#bookings",
+        "openInNewTab": false
+      },
+      {
+        "text": "<br><i class='fa fa-arrow-right'></i> <b>trasee ghidate predefinite</b> - vezi aici pachete cu trasee ghidate propuse",
+        "textOnMouseOver": "Click aici...",
+        "link": "ro/accommodation#packages",
+        "openInNewTab": false
+      }
+    ],
+    "images": [
+      {
+        "text": "Traseu ghidat centrul istoric Roșia Montană cu un grup din Arad.",
+        "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+        "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+      },
+      {
+        "text": "Traseu ghidat spre obiective naturale și zone protejate Roșia Montană cu un grup din Germania.",
+        "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+        "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+      },
+      {
+        "text": "Traseu ghidat exploatări miniere cu un grup din India.",
+        "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-cariera.jpg",
+        "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-cariera.jpg"
+      },
+      {
+        "text": "Traseu ghidat pe bicicletă, spre obiectivele naturale loacle, cu un grup din Romania.",
+        "thumbnailUrl": "img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_geamana.jpg",
+        "fullSizeUrl": "img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_geamana.jpg"
+      },
+      {
+        "text": "Traseu ghidat pe bicicletă - din loc în loc ne oprim pentru a vă povesti despre locurile prin care trecem sau pentru asistență reparații bicicletă (dacă e cazul).",
+        "thumbnailUrl": "img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_reparatii.jpg",
+        "fullSizeUrl": "img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_reparatii.jpg"
+      }
+    ]
+  },
+  {
+    "id": "bike",
+    "textContent": "<b>Munții noștri aur poartă, noi ne dăm cu bicicleta!</b> <br><br>Descoperă Roșia Montană și zona Apuseni pe bicicletă. Oferim <b>biciclete de inchiriat</b> (de munte, asfalt sau trekking) cu cască și cameră de rezervă la 59lei/zi sau 35lei/2ore. Dacă veniți cu bicicleta personală vă oferim (în caz de nevoie) scule și <b>asistență reparații biciclete</b>. Pentru a afla mai multe detalii despre locurile pe care o să le vizitați pe bicicletă sau asistență tehnică pe traseu, organizăm <b>trasee ghidate pe bicicletă</b>. Vă rugăm să specificați când faceți o rezervare dacă doriți să închiriați biciclete sau trasee ghidate pe bicicletă.",
+    "images": [
+      {
+        "text": "Dispunem de un mic centru de închiriat biciclete. În caz că veniți cu bicicleta personală aici găsiți scule sau asistență reparații biciclete.",
+        "thumbnailUrl": "img/accommodation/article/bikes/thumbnail/bike_rent.jpg",
+        "fullSizeUrl": "img/accommodation/article/bikes/fullSize/bike_rent.jpg"
+      },
+      {
+        "text": "Traseu ghidat pe bicicletă - din loc în loc ne oprim pentru a vă povesti despre locurile prin care trecem sau pentru asistență reparații bicicletă (dacă e cazul).",
+        "thumbnailUrl": "img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_reparatii.jpg",
+        "fullSizeUrl": "img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_reparatii.jpg"
+      }
+    ]
+  },
+  {
+    "id": "other",
+    "textContent": "<b>Biblioteca</b> - citiți cărți din colecția noastră (nu ratați ziarele și cărțile despre Roșia) <br><b>Hamace</b> cu priveliște și acces <b>wifi</b> - în curtea casei <br><b>Parc de joacă</b> pentru copii - se află chiar lângă casă <br><b>Proiecții filme</b> și imagini despre Roșia în curtea casei sau în camere (avem proiector și se poate monta la cerere) <br><b>Board games</b> - în bibliotecă găsiți diferite jocuri de societate (Activity, Risk, Catan) <br><b>Derdeluș</b> - avem 2 sănii pe care le puteți folosi iarna pe derdelușul de lângă casă <br><b>Badminton, tenis, fotbal</b> - avem palete, rachete și mingi, iar la ~15min este un teren sintetic cu intrare liberă ",
+    "seeAlso": [
+      {
+        "text": "(vezi aici cum ajungi acolo)",
+        "textOnMouseOver": "Click aici...",
+        "link": "https://www.google.com/maps/dir/Casa+Petri,+Ro%C8%99ia+Montan%C4%83,+Rom%C3%A2nia/Teren+sintetic+comunal,+Ro%C8%99ia+Montan%C4%83,+Rom%C3%A2nia/@46.3047644,23.1142552,15.09z/data=!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.1298497!2d46.3065963!1m5!1m1!1s0x474ecd1afc56c531:0xbbee07fe0cb90650!2m2!1d23.1133053!2d46.3037883!3e0?hl=ro-RO",
+        "openInNewTab": true
+      }
+    ],
+    "images": [
+      {
+        "text": "Puteți citi cărți din <b>biblioteca</b> noastră (multe dintre acestea sunt moștenite de la bunici).",
+        "thumbnailUrl": "img/accommodation/article/rooms/common/thumbnail/books.jpg",
+        "fullSizeUrl": "img/accommodation/article/rooms/common/fullSize/books.jpg"
+      },
+      {
+        "text": "Curtea casei are un <b>foișor</b> și <b>hamace</b> unde vă puteți relaxa, citi sau sta pe net (wifi).",
+        "thumbnailUrl": "img/packages/common/article/thumbnail/gradina.jpg",
+        "fullSizeUrl": "img/packages/common/article/fullSize/gradina.jpg"
+      },
+      {
+        "text": "Avem <b>palete și mingi de tenis sau de badminton</b>, iar la ~15min de mers pe jos se află un teren sintetic comunal pentru tenis sau fotbal.",
+        "thumbnailUrl": "img/accommodation/article/other/thumbnail/tennis.jpg",
+        "fullSizeUrl": "img/accommodation/article/other/fullSize/tennis.jpg"
+      },
+      {
+        "text": "<b>Proiecții filme</b> - uneori se poate monta un proiector în grădină pentru filme și imagini cu Roșia Montană.",
+        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
+        "fullSizeUrl": "img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+      },
+      {
+        "text": "Chiar lângă casă se află un <b>parc de joacă</b> pentru copii.",
+        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/childrenPark.jpg",
+        "fullSizeUrl": "img/accommodation/article/outside/fullSize/childrenPark.jpg"
+      },
+      {
+        "text": "Veniți și iarna! Lângă casă avem un <b>derdeluș</b> pentru săniuș. Dispunem de 2 sănii.",
+        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/sleighing.jpg",
+        "fullSizeUrl": "img/accommodation/article/outside/fullSize/sleighing.jpg"
+      }
+    ]
+  },
+  {
+    "id": "guideBikeOnTrail",
+    "title": "<b>Ghidaj sau bicicletă pe traseu?</b>",
+    "textContent": "Pentru a descoperii povestea locurilor prin care treceți și pentru a ajunge rapid și ușor la destinații vă recomandăm să faceți acest traseu împreună cu un ghid, pe jos sau cu bicicleta. Pe lângă servicii de ghidaj turistic, oferim și biciclete de închiriat sau asistență mecanică pentru biciclete pe traseu. Mai multe detalii despre:",
+    "seeAlso": [
+      {
+        "text": "<br><i class='fa fa-blind'></i> <b>trasee ghidate</b> - vezi aici...",
+        "textOnMouseOver": "Click aici...",
+        "link": "ro/accommodation#guide",
+        "openInNewTab": true
+      },
+      {
+        "text": "<br><i class='fa fa-bicycle'></i> <b>închiriat biciclete</b> - vezi aici...",
+        "textOnMouseOver": "Click aici...",
+        "link": "ro/accommodation#bike",
+        "openInNewTab": true
+      }
+    ]
+  }
+]

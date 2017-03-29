@@ -65,19 +65,6 @@
       ]
     },
     {
-      "type": "articles",
-      "commonArticles": [
-        {
-          "category": "guidesAndBikes",
-          "ids": [
-            {
-              "id": "details"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "type": "title",
       "text": "<i class='fa fa-star'></i> Poiana",
       "sectionId": "map",
@@ -107,6 +94,19 @@
               "text": "<b>Poiana cu Narcise</b> - Zona este înconjurată de culmi montane și păduri de conifere. De ai timp poți să te mai aventurezi prin împrejurări",
               "thumbnailUrl": "img/trails/daffodilMeadow/article/thumbnail/2.jpg",
               "fullSizeUrl": "img/trails/daffodilMeadow/article/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "guideBikeOnTrail"
             }
           ]
         }

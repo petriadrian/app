@@ -65,19 +65,6 @@
       ]
     },
     {
-      "type": "articles",
-      "commonArticles": [
-        {
-          "category": "guidesAndBikes",
-          "ids": [
-            {
-              "id": "details"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "type": "title",
       "text": "<i class='fa fa-star'></i> The Meadow",
       "sectionId": "details",
@@ -107,6 +94,19 @@
               "text": "<b>Daffodil Meadow</b> - The area is surrounded by mountains and pine forests. If you have time visit the area and discover those places.",
               "thumbnailUrl": "img/trails/daffodilMeadow/article/thumbnail/2.jpg",
               "fullSizeUrl": "img/trails/daffodilMeadow/article/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "guideBikeOnTrail"
             }
           ]
         }

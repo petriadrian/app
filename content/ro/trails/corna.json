@@ -53,19 +53,6 @@
       ]
     },
     {
-      "type": "articles",
-      "commonArticles": [
-        {
-          "category": "guidesAndBikes",
-          "ids": [
-            {
-              "id": "details"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "type": "title",
       "text": "<i class='fa fa-star'></i> Atracții",
       "sectionId": "attractions",
@@ -140,6 +127,19 @@
               "text": "<b>Drumul pe la Tăul Țapului</b> - ",
               "thumbnailUrl": "img/trails/attractions/selisteRoad/thumbnail/2.jpg",
               "fullSizeUrl": "img/trails/attractions/selisteRoad/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "guideBikeOnTrail"
             }
           ]
         }

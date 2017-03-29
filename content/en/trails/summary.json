@@ -1,7 +1,7 @@
 {
   "presentation": {
-    "title": "Attractions and trails",
-    "headline": "Attractions and hiking or biking trails",
+    "title": "Visit Rosia Montana",
+    "headline": "Discover Rosia Montana",
     "description": "<b>Biking or walking?</b><br>Discover our area through the trails presented here. They have online maps from our house to the main touristic attractions...",
     "fullWidthImg": "img/trails/summary/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/trails/summary/presentation/smallBoxImg.jpg"
@@ -12,7 +12,7 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Attractions and hiking or biking trails in Rosia Montana",
+    "title": "Discover Rosia Montana. Trails, attractions, activities",
     "description": "Trails on areas (from historic center and roman galleries up to the top of the mountains). Thematic trails (mining evolution, the protests, rural life). You can also book guided tours, rooms, bikes, camping in Rosia Montana, Alba, Apuseni Mountains, Transylvania, Romania.",
     "displayOnShareImg": "img/trails/summary/presentation/displayOnShareImg.jpg"
   },
@@ -22,30 +22,23 @@
   "sections": [
     {
       "type": "title",
-      "text": "",
-      "sectionId": "details",
-      "addLinkInPageHeadline": false
-    },
-    {
-      "type": "articles",
-      "specificArticles": [
-        {
-          "title": "",
-          "textContent": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with fantastic landscapes due to the mountains, valleys and the lakes around us, but also with a rich heritage because of the buildings, galleries and mining areas built by the various civilizations who came here to extract gold. To discover our attractions see the hiking or biking trails bellow. Each trail has images, description and <b>online maps</b> with <b>GPS</b> data, so they can be access from any device during your journey. <br> The icons from each trail means: <i class='fa fa-lg fa-blind'></i> - <b>hiking</b> trail | <i class='fa fa-lg fa-bicycle'></i> - <b>biking</b> trail | <i class='fa fa-lg fa-car'></i> - the destination can be also reach by <b>car</b>"
-        }
-      ]
-    },
-    {
-      "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Local trails",
-      "sectionId": "localTrails",
+      "text": "<i class='fa fa-map-signs'></i> Trails and attractions",
+      "sectionId": "trails",
       "addLinkInPageHeadline": true
     },
     {
       "type": "articles",
       "specificArticles": [
         {
-          "title": "",
+          "textContent": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with fantastic landscapes due to the mountains, valleys and the lakes around us, but also with a rich culture and history because of the heritage buildings and because it has <b>one of the largest and important underground gold mining complex from the world</b>, built by various civilizations who came here to extract gold. Discover our area through the following hiking or biking trails. Each trail has images, description and <b>online maps</b> with GPS data (can be access from any device during the trail). The shown distance represents the whole length of the trail from and to Casa Petri. <br> The icons from each trail means: <i class='fa fa-lg fa-blind'></i> - <b>hiking</b> trail | <i class='fa fa-lg fa-bicycle'></i> - <b>biking</b> trail | <i class='fa fa-lg fa-car'></i> - the destination can be also reach by <b>car</b>"
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Local trails",
           "textContent": "These trails contains the main attractions from Roșia Montană."
         }
       ]
@@ -77,16 +70,10 @@
       ]
     },
     {
-      "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Surroundings",
-      "sectionId": "surroundings",
-      "addLinkInPageHeadline": true
-    },
-    {
       "type": "articles",
       "specificArticles": [
         {
-          "title": "",
+          "title": "Surroundings",
           "textContent": "These trails contains the attractions around the Roșia Montană."
         }
       ]
@@ -125,62 +112,31 @@
     },
     {
       "type": "articles",
-      "specificArticles": [
+      "commonArticles": [
         {
-          "textContent": "The above trails can be also made with a guide by foot or by bike, but our recommendation for guided trails are:"
-        },
-        {
-          "textContent": "<b>The mining evolution trail</b> - starts with the old mining story of Rosia Montana by visiting the Antic galleries made with fire and water, then the rectangular galleries made by romans with the chisel and hammers and the installations for processing the golden ore (stamps mills and artificial lakes). At the end will be visited the mining plants, the wasting ponds and the open pits made recently by the the communist, which shaved the mountains and covered the Geamana village with a wasting lake."
-        },
-        {
-          "textContent": "<b>The mining protests trail</b> - contains the areas where protests were held for or against the gold mining project proposed by the Canadian company in 2007. Find out what happened abd see how it looks the village which should have been transformed in an open pit mine with one of the biggest cyanide wasting lake from Europe. At the end we will watch at Casa Petri some movies with the streets protests from 2014, organized in the country and abroad, against this project."
-        },
-        {
-          "textContent": "<b>Are you interested in guided tours?</b> Inform us while booking a room.",
-          "seeAlso": [
+          "category": "ourServices",
+          "ids": [
             {
-              "text": "Click here for bookings...",
-              "textOnMouseOver": "Click here...",
-              "link": "en/accommodation#bookings",
-              "openInNewTab": false
-            }
-          ],
-          "images": [
-            {
-              "text": "Historic center, walking tour with a group from Romania.",
-              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
-              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
-            },
-            {
-              "text": "Natural areas guided tour with a group from Germany.",
-              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
-            },
-            {
-              "text": "Mining pits guided tour with a group from India.",
-              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-cariera.jpg",
-              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-cariera.jpg"
-            },
-            {
-              "text": "Guided bike tour with a group from Romania",
-              "thumbnailUrl": "img/accommodation/article/bikes/thumbnail/bicicleta.jpg",
-              "fullSizeUrl": "img/accommodation/article/bikes/fullSize/bicicleta.jpg"
-            },
-            {
-              "text": "Guided trail on bikes - on our road we will stop to rest and to talk about the places we visit or to offer support for bike repairs (if needed).",
-              "thumbnailUrl": "img/accommodation/article/bikes/thumbnail/ghid-bicicleta.jpg",
-              "fullSizeUrl": "img/accommodation/article/bikes/fullSize/ghid-bicicleta.jpg"
+              "id": "guide"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-book'></i> Other activities",
+      "sectionId": "otherActivities",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
         {
-          "textContent": "<br> <b>Are you interested in guided tours?</b> Inform us while booking a room.",
-          "seeAlso": [
+          "category": "ourServices",
+          "ids": [
             {
-              "text": "Click here for bookings...",
-              "textOnMouseOver": "Click here...",
-              "link": "en/accommodation#bookings",
-              "openInNewTab": false
+              "id": "other"
             }
           ]
         }

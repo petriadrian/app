@@ -1,0 +1,153 @@
+[
+  {
+    "id": "food",
+    "textContent": "The options for taking the meal are: <br><b>Homemade meals at locals</b> - some of our neighbours offers traditional meals or local products (milk, cheese, honey, syrup). They are located at ~5 - 10 min walking from us and the recommended donations are ~7€/person/lunch or ~5€/pers/breakfast/dinner. You will find a list with these locals in the room and (on arrival) you can call them, but it will be better to inform us when you make a booking and we will tell them to be prepared. <br><b>Each room has a kitchen</b> - perfect for breakfast or dinner because here you can prepare or keep your food and you can also use the <b>barbecue</b> from the garden. Near the house, ~5min walking from us, are 3 <b>grocery stores</b> (",
+    "seeAlso": [
+      {
+        "text": "see here how to reach them)",
+        "textOnMouseOver": "Click here...",
+        "link": "https://www.google.ro/maps/dir/Emiliana+Shop,+DC146,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Bereczky+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Mixt+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Historical+center,+nr.+331A,+Casa+Petri,+Ro%C8%99ia+Montan%C4%83+517615/@46.3064009,23.1286362,17z/data=!3m1!4b1!4m26!4m25!1m5!1m1!1s0x474ecce0f07e87bf:0xc1e5f1730ebc127c!2m2!1d23.1317125!2d46.3060228!1m5!1m1!1s0x474ecce0563eefe1:0x44635688d438a223!2m2!1d23.1308247!2d46.30597!1m5!1m1!1s0x474ecce04e3e997b:0x14730c483b204593!2m2!1d23.1300147!2d46.3061442!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.1299373!2d46.3065974!3e2?hl=ro",
+        "openInNewTab": true
+      }
+    ],
+    "images": [
+      {
+        "text": "A glass of 'țuica', before dinner at locals, with a group from Germany.",
+        "thumbnailUrl": "img/accommodation/article/food/thumbnail/restaurant.jpg",
+        "fullSizeUrl": "img/accommodation/article/food/fullSize/restaurant.jpg"
+      },
+      {
+        "text": "Our recommendation is to eat at the locals who offers homemade meals.",
+        "thumbnailUrl": "img/accommodation/article/food/thumbnail/mancare.jpg",
+        "fullSizeUrl": "img/accommodation/article/food/fullSize/mancare.jpg"
+      },
+      {
+        "text": "Each room has a small kitchen with fridge, microwave owen, kettle, dishes, cutlery, tea and coffee.",
+        "thumbnailUrl": "img/accommodation/article/rooms/common/thumbnail/kitchen.jpg",
+        "fullSizeUrl": "img/accommodation/article/rooms/common/fullSize/kitchen.jpg"
+      }
+    ]
+  },
+  {
+    "id": "guide",
+    "textContent": "Rosia Montana has a golden past. How the gold mining worked through galleries, watter mills, pounds and open pits, the past of the heritage buildings from the historic center or the impact of the mega mining project proposed here by the canadian company and the massive streets protests against it are just a few reasons why we recommend to visit Roșia Montana with a guide. The locality is not really designed for tourism so it will be pretty difficult to see and find all this by your own. We stay in touch with local guides who offers guided tours by foot or by bike (also technical assistance on the road). So, if you are interested in:",
+    "seeAlso": [
+      {
+        "text": "<br><i class='fa fa-arrow-right'></i> <b>custom guided trails</b> - specify while booking a room and we will contact you by email or phone - see here",
+        "textOnMouseOver": "Click here...",
+        "link": "en/accommodation#bookings"
+      },
+      {
+        "text": "<br><i class='fa fa-arrow-right'></i> <b>predefined guided trails</b> - see here the packages with guided trails that we prepared",
+        "textOnMouseOver": "Click aici...",
+        "link": "en/accommodation#packages"
+      }
+    ],
+    "images": [
+      {
+        "text": "The historic center guided tour with a group from Romania.",
+        "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+        "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+      },
+      {
+        "text": "Guided tour to the natural sites and protected areas of Rosia Montana with a group from Germany.",
+        "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+        "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+      },
+      {
+        "text": "Guided tour to the mining open pits with a group from India.",
+        "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-cariera.jpg",
+        "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-cariera.jpg"
+      },
+      {
+        "text": "Guided bike trails to the main natural objectives from our area.",
+        "thumbnailUrl": "img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_geamana.jpg",
+        "fullSizeUrl": "img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_geamana.jpg"
+      },
+      {
+        "text": "Guided bike trails - on the road we can stop and talk about the places we are passing by or for bike repairs assistance (if needed).",
+        "thumbnailUrl": "img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_reparatii.jpg",
+        "fullSizeUrl": "img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_reparatii.jpg"
+      }
+    ]
+  },
+  {
+    "id": "bike",
+    "textContent": "To discover Rosia Montana and our area (Apuseni mountains) you can <b>rent bikes</b>. We offer mountain bikes, asphalt or trekking with helmet and spare tube for 15€/day or 8€/2h. If you come with your own bike we can offer (if needed) tools and <b>bike repair assistance</b>. To find out more about the places you visit by bike or mechanical assistance on the trail, we can offer <b>guided bike trails</b>. Please specify when you make a booking if you want to rent bikes or guided bike trails.",
+    "images": [
+      {
+        "text": "We have a small bike rental center. If you come with your personal bike we can offer (if needed) tools or mechanical assistance.",
+        "thumbnailUrl": "img/accommodation/article/bikes/thumbnail/bike_rent.jpg",
+        "fullSizeUrl": "img/accommodation/article/bikes/fullSize/bike_rent.jpg"
+      },
+      {
+        "text": "Guided bike trails - on the road we can stop and talk about the places we are passing by or for bike repairs assistance (if needed).",
+        "thumbnailUrl": "img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_reparatii.jpg",
+        "fullSizeUrl": "img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_reparatii.jpg"
+      }
+    ]
+  },
+  {
+    "id": "other",
+    "textContent": "<b>Library</b> - we have many books that you can read but most of them are in romanian (don't miss the newspapers and the books about Roșia) <br><b>Hammocks</b> with a view and <b>wifi</b> access - relax in our yard <br><b>Playground</b> for children - beside our house <br><b>Movie projections</b> about Rosia Montana past. The projector can be mounted in the garden or in the rooms. <br><b>Board games</b> - In the library can be found many board games (Activity, Risk, Catan) <br><b>Sleighing</b> - we have 2 sleighs that you can use during the winter on the sleigh slope beside the house <br><b>Badminton, tennis, football</b> - we have paddles, balls and at ~15min walking is a synthetic field with free entrance ",
+    "seeAlso": [
+      {
+        "text": "(see here how to reach it)",
+        "textOnMouseOver": "Click aici...",
+        "link": "https://www.google.com/maps/dir/Casa+Petri,+Ro%C8%99ia+Montan%C4%83,+Rom%C3%A2nia/Teren+sintetic+comunal,+Ro%C8%99ia+Montan%C4%83,+Rom%C3%A2nia/@46.3047644,23.1142552,15.09z/data=!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.1298497!2d46.3065963!1m5!1m1!1s0x474ecd1afc56c531:0xbbee07fe0cb90650!2m2!1d23.1133053!2d46.3037883!3e0?hl=ro-RO",
+        "openInNewTab": true
+      }
+    ],
+    "images": [
+      {
+        "text": "You can read books from our <b>library</b> (most of them were inherited from our grandparents).",
+        "thumbnailUrl": "img/accommodation/article/rooms/common/thumbnail/books.jpg",
+        "fullSizeUrl": "img/accommodation/article/rooms/common/fullSize/books.jpg"
+      },
+      {
+        "text": "In the yard we have a <b>gazebo</b> and <b>hammocks</b> where you can relax, read or surf the internet (free wifi).",
+        "thumbnailUrl": "img/packages/common/article/thumbnail/gradina.jpg",
+        "fullSizeUrl": "img/packages/common/article/fullSize/gradina.jpg"
+      },
+      {
+        "text": "We have <b> paddles and balls for tennis, badminton or football</b> and at ~15min walking is a synthetic field.",
+        "thumbnailUrl": "img/accommodation/article/other/thumbnail/tennis.jpg",
+        "fullSizeUrl": "img/accommodation/article/other/fullSize/tennis.jpg"
+      },
+      {
+        "text": "<b>Movie projections</b> - we can mount a projector in the garden.",
+        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
+        "fullSizeUrl": "img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+      },
+      {
+        "text": "Beside the house is a <b>playground</b> for children.",
+        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/childrenPark.jpg",
+        "fullSizeUrl": "img/accommodation/article/outside/fullSize/childrenPark.jpg"
+      },
+      {
+        "text": "Come also durring winter! We have 2 sleights and beside the house is a nice <b>sleight slope</b>.",
+        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/sleighing.jpg",
+        "fullSizeUrl": "img/accommodation/article/outside/fullSize/sleighing.jpg"
+      }
+    ]
+  },
+  {
+    "id": "guideBikeOnTrail",
+    "title": "<b>Guide or bike for this trail?</b>",
+    "textContent": "To discover and understand the story of the places you will pass by and also to reach them faster and easier, we recommend to make this trail with a guide, by foot or by bike. Beside the touristic guidance services we can also offer bikes for rent and technical assistance for bikes on the trail (if needed). More details about:",
+    "seeAlso": [
+      {
+        "text": "<br><i class='fa fa-blind'></i> <b>guided trails</b> - see here...",
+        "textOnMouseOver": "Click here...",
+        "link": "en/accommodation#guide",
+        "openInNewTab": true
+      },
+      {
+        "text": "<br><i class='fa fa-bicycle'></i> <b>rent bikes</b> - see here...",
+        "textOnMouseOver": "Click here...",
+        "link": "en/accommodation#bike",
+        "openInNewTab": true
+      }
+    ]
+  }
+]

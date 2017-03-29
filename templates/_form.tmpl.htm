@@ -24,7 +24,7 @@
                ng-model="formObj[field.name]"
                type="number" class="form-control"
                name="{{field.name}}"
-               min="1" max="{{field.maxLimit}}"
+               min="{{field.minLimit}}" max="{{field.maxLimit}}"
                placeholder="{{field.placeholder}}"
                ng-required="field.required"/>
         <textarea ng-if="field.type == 'textarea'" class="form-control"

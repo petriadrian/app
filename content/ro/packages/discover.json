@@ -2,7 +2,7 @@
   "presentation": {
     "title": "Discover Rosia",
     "headline": "Discover Rosia Montana tour",
-    "description": "Include rezervarea unei camere de <b>2 persoane pe 2 nopți</b> și un <b>traseu ghidat</b> de 6 ore spre principalele obiective culturale și naturale din Roșia Montană.",
+    "description": "Pachetul include cazare, activități și trasee ghidate pe jos sau cu bicicleta, timp de 4 zile in Roșia Montană - Munții Apuseni, Transilvania.",
     "fullWidthImg": "img/packages/weekend/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/packages/weekend/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Discover Rosia Montana tour",
-    "description": "Include rezervarea unei camere de 2 persoane pentru 2 nopți și un traseu ghidat de 6 ore în Roșia Montană într-o perioadă din anul 2017. Voucherul va fi primit pe e-mail în format pdf și poate fi printat pentru a fi oferit cadou. Detalii și rezervări aici...",
+    "description": "Pachetul include cazare, activități și trasee ghidate pe jos sau cu bicicleta, timp de 4 zile in Roșia Montană - Munții Apuseni, Transilvania. Detalii și rezervări aici...",
     "displayOnShareImg": "img/packages/weekend/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Roșia Montană, cea mai veche localitate din Romania, peisaj cultural minier unic, un loc în inima munților transilvaniei, ideal pentru drumeții montane sau ciclism. Pachetul include cazarea și trasee ghidate pe jos sau cu bicicleta prin care descoperiți zona noastră, Roșia Montană (Munții Apuseni, Transilvania)."
+          "textContent": "Roșia Montană, cea mai veche localitate din România, peisaj cultural minier unic, un loc în inima munților Transilvaniei, ideal pentru drumeții montane sau ciclism. Pachetul include cazare, activități și <b>trasee ghidate pe jos sau cu bicicleta</b> pentru a descoperi zona noastră, Roșia Montană - Munții Apuseni, Transilvania."
         }
       ]
     },
@@ -44,19 +44,19 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b><i class='fa fa-clock-o'></i> 14:00 - 19:00 - check in</b>, cazarea, prezentarea împrejurimilor (magazine locale), cina și prezentarea unor <b>tehnici de mers pe munte</b>."
+          "textContent": "<b><i class='fa fa-clock-o'></i> 14:00 - 19:00 - check in</b>, cazarea, prezentarea împrejurimilor (magazine locale) și instructajul de mers pe munte."
         },
         {
           "title": "Film în grădină",
-          "textContent": "<b><i class='fa fa-clock-o'></i> 19:00 - 21:00 - ziua 1</b><br> Proiecții în grădină cu imagini, filme și povești despre căutătorii de aur ce au trăit aici, arhitectura și evoluția satului, modul de extracție al aurului din trecut până în prezent, megaproiectul propus pentru extragrea aurului rămas și protestele masive de stradă. Încheiem cu viața și activitățile de azi.",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 19:00 - 21:00 - ziua 1</b><br> Proiecții în grădină cu imagini, filme și povești despre căutătorii de aur ce au trăit aici, arhitectura și <b>evoluția satului, modul de extracție al aurului din trecut până în prezent</b>, megaproiectul propus pentru extragrea aurului rămas și protestele masive de stradă. Încheiem cu viața și activitățile de azi.",
           "images": [
             {
-              "text": "Proiecțiile în grădină cu imagini și secvențe despre trecutul și prezentul Roșiei Montane.",
+              "text": "Proiecții în grădină, imagini, filme cu Roșia Montană.",
               "thumbnailUrl": "img/packages/common/article/thumbnail/movie.jpg",
               "fullSizeUrl": "img/packages/common/article/fullSize/movie.jpg"
             },
             {
-              "text": "Proiecțiile în grădină cu imagini și secvențe despre trecutul și prezentul Roșiei Montane.",
+              "text": "Proiecții în grădină - trecutul satului.",
               "thumbnailUrl": "img/packages/common/article/thumbnail/movie2.jpg",
               "fullSizeUrl": "img/packages/common/article/fullSize/movie2.jpg"
             }
@@ -74,14 +74,14 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Când spui Roșia Montană te gândești la aur. Da, de mai bine de 2000 de ani s-a extras aur și încă mai există, motiv pentru care începem cu <b>povestea aurului.</b> <br><b><i class='fa fa-clock-o'></i> 08:30 - 09:30 - micul dejun</b>, unde ne pregătim și o mică gustare pentru traseu, iar apoi pornim la drum."
+          "textContent": "Când spui Roșia Montană te gândești la aur. Da, de mai bine de 2000 de ani s-a extras aur și încă mai există, motiv pentru care începem cu <b>povestea aurului.</b>"
         },
         {
           "title": "Traseu ghidat în Galeriile Romane",
-          "textContent": "<b><i class='fa fa-clock-o'></i> 09:30 - 12:00 - ziua 2</b> <br>La <b>Muzeul Mineritului</b>, împreună cu un ghid de aici, vom coborâ în subteranul masivului Orlea pentru a ajunge la galeriile romane. Tot aici vom vedea obiecte și instalații folosite în extracția aurului. La ieșirea din muzeu ne vom odihni puțin pe o pajiștea verde de lângă o biserică ce are o strânsă legătură cu o legendă locală despre <b>duhul galeriilor</b> 'Vâlva'... dar vă spunem mai multe acolo.",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 09:30 - 12:00 - ziua 2</b> <br>Un ghid de la <b>Muzeul Mineritului</b> ne va coborî în subteranul masivului Orlea și ne va prezenta Galeriile Romane, obiectele și instalațiile folosite în extracția aurului (bilet intrare: 10lei). La ieșire o să povestim despre legendele aurarilor și legătura dintre biserica de lângă muzeu și <b>duhul galeriilor - 'Vâlva'</b>.",
           "images": [
             {
-              "text": "Galeriile romane construite în 106 – 272 d. Hr. pentru a extrage aur (un motiv pentru care împăratul roman Traian a cucerit zona noastră 'Dacia').",
+              "text": "Galeriile Romane construite în 106 – 272 d. Hr. pentru extracția aurului (un motiv pentru care împăratul roman Traian a cucerit zona noastră 'Dacia').",
               "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/1.jpg",
               "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/1.jpg"
             },
@@ -99,35 +99,35 @@
         },
         {
           "title": "Drumeție pe muntele de aur",
-          "textContent": "<b><i class='fa fa-clock-o'></i> 12:00 - 16:30 - ziua 2</b><br> <b>Masivul Cârnic</b> - zonă cu peste 100km de galerii, corande și cariere de suprafață, un loc de unde s-au extras mii de tone de aur și încă mai există. Vom vizita toate acestea, iar pe vârful masivului ne vom opri la <b>ariile protejate</b> Piatra Corbului și Sfinxul, două puncte de belvedere, de unde se văd zonele ce ar urma să fie impactate dacă ar începe o exploatarea de aur cu cianuri (ca cea propusă de firma canadiană în 2002). <b>Tăurile (lacuri artificiale)</b> sunt alte elemente extrem de importante în producția aurului, pe care le vom întâlni la coborâre.",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 12:00 - 16:30 - ziua 2</b> <br>Deși s-au extras mii de tone de aur din <b>Masivul Cârnic</b>, încă mai deține un zăcământ aurifer bogat. Zona are peste 100km de <b>galerii, corande și cariere de suprafață</b> din care vom vizita o parte, iar apoi urcăm la <b>ariile protejate</b> Piatra Corbului și Sfinxul, două puncte de belvedere, unde povestim despre cum și ce zone ar fi afectate dacă ar începe aici o nouă exploatarea de aur ca cea propusă de RMGC. La coborâre vizităm alte obiective extrem de importante în producția aurului - <b>tăurile</b>.",
           "images": [
             {
-              "text": "Drumeție prin pădurea de brazi spre vârful masivului Cârnic.",
+              "text": "Drumeție spre Cârnic.",
               "thumbnailUrl": "img/trails/attractions/carnic/ravenStone/thumbnail/drumetie.jpg",
               "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/drumetie.jpg"
             },
             {
-              "text": "Vizită la Galeriile romane Cârnic",
+              "text": "Vizită la Galeriile Romane Cârnic",
               "thumbnailUrl": "img/trails/attractions/carnic/galleries/thumbnail/1.jpg",
               "fullSizeUrl": "img/trails/attractions/carnic/galleries/fullSize/1.jpg"
             },
             {
-              "text": "Piatra Corbului - are forma de cap de corb iar în galeriile din interior sunt cuiburi de corbi. Aici sunt unele dintre cele mai vechi galerii (~2000 de ani), realizate cu apă și foc de agatârși.",
+              "text": "Piatra Corbului - în interior sunt cele mai vechi galerii din zonă, realizate printr-o tehnică specială.",
               "thumbnailUrl": "img/trails/attractions/carnic/ravenStone/thumbnail/1.jpg",
               "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/1.jpg"
             },
             {
-              "text": "Vedere spre Valea Cornei - pe suprafața întregii acestei văi ar urma să fie cel mai mare lac de cianură din Europa, dacă ar începe o nouă carieră de aur.",
+              "text": "Vedere spre Valea Cornei - aici ar urma să fie un lac de decantare cu cianuri, dacă ar începe o nouă carieră de aur.",
               "thumbnailUrl": "img/trails/attractions/carnic/ravenStone/thumbnail/2.jpg",
               "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/2.jpg"
             },
             {
-              "text": "Tur ghidat - galeria Văidoaia - corandă cu urme de filoane de aur și săpături arheologice.",
+              "text": "Corande - aici o să vedem urmele filoanelor de aur.",
               "thumbnailUrl": "img/packages/weekend/article/thumbnail/3.jpg",
               "fullSizeUrl": "img/packages/weekend/article/fullSize/3.jpg"
             },
             {
-              "text": "Vizităm două lacurile artificiale - tăuri, unde aflăm care era rolul lor în producerea aurului.",
+              "text": "Vizităm tăurile și aflăm rolul lor în găsirea aurului.",
               "thumbnailUrl": "img/trails/attractions/lakes/braziLake/thumbnail/1.jpg",
               "fullSizeUrl": "img/trails/attractions/lakes/braziLake/fullSize/1.jpg"
             }
@@ -135,7 +135,7 @@
         },
         {
           "title": "Masa de prânz",
-          "textContent": "<b><i class='fa fa-clock-o'></i> 16:30 - 17:30 - ziua 2</b><br>Prânzul în ograda la localnici, cu mâncare tradițională, specifică zonei. Vedeți informații la secțiunea ",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 16:30 - 17:30 - ziua 2</b> <br>Vă propunem să luăm prânzul în ogradă la localnici, cu mâncare tradițională, făcută de ei. Mai multe informații la secțiunea ",
           "seeAlso": [
             {
               "text": "mâncare",
@@ -147,17 +147,28 @@
         },
         {
           "title": "Mining Board Game",
-          "textContent": "<b><i class='fa fa-clock-o'></i> 18:00 - 20:00 - ziua 2</b> <br>După atâta drumeție ne relaxăm în grădină la un <b>board game</b> interactiv ce are ca temă mineritul aurului prin galeri. Ce alt loc mai bun pentru acest joc, decât în Roșia Montană, zonă cu peste 100km de galerii miniere subterane, ca cele pe care le-am vizitat recent. Jucătorii devin mineri, geologi, căutători sau hoți de aur ce construiesc galerii miniere, iar la final câștigătorii vor primi aur. Puteți încerca și alte <b>activități alternative</b> (vedeți la secțiunea Info).",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 18:00 - 20:00 - ziua 2</b> <br>După atâta drumeție ne relaxăm în grădină la un <b>board game</b> interactiv ce are ca temă mineritul aurului prin galerii. Ne aflăm într-o zonă cu peste 100km de galerii (ca cele vizitate recent), deci e locul ideal pentru acest joc. Devenim mineri, geologi, căutători sau hoți de aur și construim galerii, iar la final împărțim 'aurul' găsit.",
           "images": [
             {
-              "text": "Board game - jucătorii vor construi galerii spre aur, sau le vor dărâma (în funcție de rolul fiecăruia). Echipa care va ajunge prima la aur va câștiga.",
+              "text": "Board game - jucătorii vor construi galerii spre aur sau le vor dărâma (în funcție de rolul fiecăruia).",
               "thumbnailUrl": "img/packages/common/article/thumbnail/board-game.jpg",
               "fullSizeUrl": "img/packages/common/article/fullSize/board-game.jpg"
             },
             {
-              "text": "Puteti incerca si alte activitati alternative. La Casa Petri o sa gasiti hamace, biciclete, wifi sau bibliotecă.",
-              "thumbnailUrl": "img/packages/common/article/thumbnail/other-activities.jpg",
-              "fullSizeUrl": "img/packages/common/article/fullSize/other-activities.jpg"
+              "text": "În foișorul din grădină la un board game.",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/garden.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/garden.jpg"
+            }
+          ]
+        },
+        {
+          "textContent": "Puteți încerca și alte <b>alte activități</b> - vedeți secțiunea ",
+          "seeAlso": [
+            {
+              "text": "activități alternative",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/packages/discover#otherActivities",
+              "openInNewTab": false
             }
           ]
         }
@@ -173,11 +184,11 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Această zi este despre viața satului, <b>natura</b> și obiective naturale din zonă. <br><b><i class='fa fa-clock-o'></i> 08:30 - 09:30 - micul dejun</b>, unde ne pregătim și o mică gustare pentru traseu, iar apoi pornim la drum."
+          "textContent": "Această zi este despre viața satului, <b>natura</b> și obiectivele naturale din zonă."
         },
         {
           "title": "Centrul istoric - traseu ghidat",
-          "textContent": "<b><i class='fa fa-clock-o'></i> 09:30 - 12:00 - ziua 3</b><br> Roșia Montană este cea mai veche localitate atestată din Romania (131 d.Hr.), locuită de diverse nații venite aici de-a lungul timpului pentru a căuta aur. Aceștia și-au lăsat amprenta asupra localității, deoarece în centrul istoric sunt <b>clădiri de patrimoniu</b> unde au fost <b>școli cu predare în diverse limbi, cinci biserici de culte diferite, casele aurarilor, săli de bal sau cazinouri</b>. Majoritatea acestora sunt părăsite acum, dar cu siguranță că stilul lor vă vor duce cu gândul la altă perioadă.",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 09:30 - 12:00 - ziua 3</b><br> Roșia Montană este cea mai veche localitate atestată din Romania (131 d.Hr.), locuită de diverse nații venite aici de-a lungul timpului pentru a căuta aur. Aceștia și-au lăsat amprenta asupra localității, deoarece în centrul istoric sunt <b>clădiri de patrimoniu</b> unde au fost <b>școli cu predare în diverse limbi, cinci biserici de culte diferite, casele aurarilor, săli de bal sau cazinouri</b>. Arhitectura și stilul lor ne va purta în altă perioadă.",
           "images": [
             {
               "text": "Tur ghidat - centrul istoric Roșia Montană.",
@@ -228,50 +239,50 @@
         },
         {
           "title": "Detunata - traseu ghidat",
-          "textContent": "<b><i class='fa fa-clock-o'></i> 12:00 - 16:30 - ziua 3</b><br> O să terminăm traseul Centrului Istoric undeva deasupra satului, la <b>Tăul Mare</b>, iar apoi continuăm spre <b>masivul Lety și Șulei</b> unde vă promitem o priveliște deosebită asupra văii roșiei. Pornim apoi spre satele apusene, Muntari și Poiana printr-un peisaj tipic din <b>Țara Moților</b>, presărat ici și colo cu căpițe și pașuni pe unde o să întâlniți turme de oi sau vaci. Continuăm drumul până ce dăm de o culme montană formată din <b>coloane înalte de bazalt</b>, urcăm pe o potecă îngustă până pe vârful acesteia, ne bucurăm de priveliște iar apoi pornim spre casă.",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 12:00 - 16:30 - ziua 3</b><br> O să terminăm traseul Centrului Istoric deasupra satului, la <b>Tăul Mare</b>, iar apoi continuăm cu <b>masivul Lety și Șulei</b> unde vă promitem o priveliște deosebită. Pornim apoi spre sate apusene cu un peisaj tipic <b>Țării Moților</b>, presărat cu căpițe, pașuni și turme de animale până ajungem la masivul <b>Detunata</b> (o culme formată din <b>coloane înalte de bazalt</b> ca un piaptăn), iar pe o potecă laterală, îngustă vom urca până pe vârful acestuia.",
           "images": [
             {
-              "text": "Tăul Mare -  Căsuță de pe tău era folosită pentru a elibera apa spre morile șteampurilor care măcinau minereul scos din Cârnic. Așa se obținea aurul.",
+              "text": "Tăul Mare - căsuță de pe tău era un element cheie în prelucrarea minereului de aur.",
               "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/1.jpg",
               "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/1.jpg"
             },
             {
-              "text": "<b>Tăul Mare</b> - dacă urcați puțin pe versant o să vedeți că tăul are forma unei inimi de aceea îi se mai spune și Tăul inimă.",
+              "text": "Tăul Mare - de pe versantul de sus are forma unei inimi de aceea i se mai spune și Tăul inimă.",
               "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/2.jpg",
               "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/2.jpg"
             },
             {
-              "text": "Pe traseu spre Lety și Sulei.",
+              "text": "Pe traseu.",
               "thumbnailUrl": "img/packages/weekend/article/thumbnail/2.jpg",
               "fullSizeUrl": "img/packages/weekend/article/fullSize/2.jpg"
             },
             {
-              "text": "<b>Masivul Sulei</b> - creasta masivului Sulei este îngustă dându-ți impresia că mergi pe o frânghie pe care trebuie să îți menții echilibrul.",
+              "text": "Masivul Șulei",
               "thumbnailUrl": "img/trails/attractions/letySulei/thumbnail/1.jpg",
               "fullSizeUrl": "img/trails/attractions/letySulei/fullSize/1.jpg"
             },
             {
-              "text": "<b>Vedere de pe masivul Șulei</b> - De aici se vede Masivul Cârnic, Tăul Anghel și valea Roșiei Montane.",
+              "text": "Vederea de pe masivul Șulei",
               "thumbnailUrl": "img/trails/attractions/letySulei/thumbnail/2.jpg",
               "fullSizeUrl": "img/trails/attractions/letySulei/fullSize/2.jpg"
             },
             {
-              "text": "Drumul prin satele Muntari și Poiana",
+              "text": "Drumul prin satele de pe traseu",
               "thumbnailUrl": "img/trails/attractions/muntariPoiana/thumbnail/1.jpg",
               "fullSizeUrl": "img/trails/attractions/muntariPoiana/fullSize/1.jpg"
             },
             {
-              "text": "Drumul prin satele Muntari și Poiana",
+              "text": "Drumul prin satele de pe traseu",
               "thumbnailUrl": "img/trails/attractions/muntariPoiana/thumbnail/2.jpg",
               "fullSizeUrl": "img/trails/attractions/muntariPoiana/fullSize/2.jpg"
             },
             {
-              "text": "<b>Detunata</b> - La baza acestui masiv printre blocurile de bazalt, în inima pădurii de molid, se formează uneori un mic ghețar.",
+              "text": "Masivul Detunata - printre blocurile de bazalt, în pădurea de brazi, se formează uneori un mic ghețar.",
               "thumbnailUrl": "img/trails/attractions/detunata/thumbnail/1.jpg",
               "fullSizeUrl": "img/trails/attractions/detunata/fullSize/1.jpg"
             },
             {
-              "text": "<b>Priveliștea de pe Detunata</b> - Urcatul pe Detunata poate părea puțin dificil dar merită efortul pentru priveliștea de sus.",
+              "text": "<b>Priveliștea de pe Detunata</b> - urcatul până sus poate părea puțin dificil dar merită efortul.",
               "thumbnailUrl": "img/trails/attractions/detunata/thumbnail/2.jpg",
               "fullSizeUrl": "img/trails/attractions/detunata/fullSize/2.jpg"
             }
@@ -279,7 +290,7 @@
         },
         {
           "title": "Masa de prânz",
-          "textContent": "<b><i class='fa fa-clock-o'></i> 16:30 - 17:30 - ziua 3</b><br>Prânzul în ograda la localnici, cu mâncare tradițională, specifică zonei. Vedeți informații la secțiunea ",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 16:30 - 17:30 - ziua 3</b> <br>Vă propunem să luăm prânzul în ogradă la localnici, cu mâncare tradițională, făcută de ei. Mai multe informații la secțiunea ",
           "seeAlso": [
             {
               "text": "mâncare",
@@ -291,17 +302,28 @@
         },
         {
           "title": "Concert de liniște",
-          "textContent": "<b><i class='fa fa-clock-o'></i> 18:00 - 20:00 - ziua 3</b> <br>După atâta drumeție luăm o bine meritată pauză în poiana din apropiere. Pe drum ne oprim puțin la sculpturile de calcar de la ferma de vaci și aflăm cine și de ce le-a sculptat aici, iar apoi ne instalam hamacele și ascultăm sunetul pădurii de mesteacăni de pe Țarina (locația festivalului de protejare și celebrare a naturii 'FânFest').",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 18:00 - 20:00 - ziua 3</b> <br>După atâta drumeție luăm o bine meritată pauză în poiana din apropiere. Pe drum ne oprim puțin la sculpturile de calcar de la ferma de vaci și aflăm cine și de ce le-a sculptat aici, iar apoi ne instalăm hamacele și ascultăm sunetul pădurii de mesteacăni de pe Țarină (locația festivalului de protejare și celebrare a naturii 'FânFest').",
           "images": [
             {
-              "text": "Sculpturi realizate de o asociație din Paris, cu artiști internaționali, pe o pajiște, la o fermă de vaci din Roșia Montană.",
+              "text": "Sculpturile de calcar.",
               "thumbnailUrl": "img/trails/attractions/sculpture/thumbnail/simpozion.jpg",
               "fullSizeUrl": "img/trails/attractions/sculpture/fullSize/simpozion.jpg"
             },
             {
-              "text": "Relaxare în hamac până la apus - pădurea de mesteacăni - în locația unde s-au ținut festivale de celebrare a naturii și a mediului - FânFest",
+              "text": "Concert de liniște - sunetul naturii, în hamac, la pădurea cu mesteacăni",
               "thumbnailUrl": "img/packages/common/article/thumbnail/tarina-hamac.jpg",
               "fullSizeUrl": "img/packages/common/article/fullSize/tarina-hamac.jpg"
+            }
+          ]
+        },
+        {
+          "textContent": "Puteți încerca și alte <b>alte activități</b> - vedeți secțiunea ",
+          "seeAlso": [
+            {
+              "text": "activități alternative",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/packages/discover#otherActivities",
+              "openInNewTab": false
             }
           ]
         }
@@ -317,17 +339,14 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Vă propunem <b>2 variante de trasee</b>, unul pune acentul pe minerit, iar altul pe natură, pe care recomandăm să le facem cu <b>bicicleta</b>. Găsiți mai jos descrierea ambelor trasee, iar la efectuarea rezervării ne spuneți pe care l-ați ales. Variantele sunt: <br>- <b>Traseul Gemăna - v1</b> - cuprinde exploatarea minieră de cupru, satul scufundat și mănăstirea Lupșa. <br>- <b>Traseul Vârtop - v2</b> - cuprinde zone rurale, păduri de brazi, fructe de pădure, văi și pășuni cu animale."
-        },
-        {
-          "textContent": "<b><i class='fa fa-clock-o'></i> 08:30 - 09:30 - micul dejun</b>, unde ne pregătim și o mică gustare pentru traseu, iar apoi pornim la drum pe varianta aleasă."
+          "textContent": "Vă propunem <b>2 variante de trasee</b>, unul pune acentul pe minerit, iar altul pe natură. Vă recomandăm să le facem cu <b>bicicleta</b> (se găsesc de închiriat în Roșia, iar pe traseu vom oferi ghidaj și asistență tehnică). Găsiți mai jos descrierea ambelor trasee, iar la efectuarea rezervării ne spuneți pe care l-ați ales. Variantele sunt: <br>- <b>Traseul Gemăna - v1</b> - cuprinde exploatarea minieră de cupru, satul scufundat și mănăstirea Lupșa. <br>- <b>Traseul Vârtop - v2</b> - cuprinde zone rurale, păduri de brazi, fructe de pădure, văi și pășuni cu animale."
         },
         {
           "title": "Traseul Gemăna - v1",
-          "textContent": "<b><i class='fa fa-clock-o'></i> 09:30 - 19:00 - ziua 4 (cu prânzul la ora 14:00 la restaurant)</b> <br>Cum arată una dintre cele mai mare exploatări de suprafață din Europa și care sunt efectele ei? Să pornim la drum... O luăm spre Tăul Mare până la <b>cariera de cupru 'Roșia Poieni'</b> - mândria perioadei comuniste ce producea peste 5000 de tone de cupru anual. Acum e o zonă aridă, un munte ras de utilaje imense din care mai funcționează o parte. Pornim apoi spre locul unde a fost satul Geamăna, peste care s-a făcut <b>iazul de decantare</b> al carierei de Cupru, iar acum se mai văd doar turla bisericii, și o parte din gospodări. De aici o luăm la vale pe lângă barajul lacului spre pensiunea Casa Apusenă unde vom lua <b>prânzul</b>, iar apoi vizităm Mănăstirea Lupșa, <b>cea mai veche așezare monahală</b> de pe Valea Ariesului (anul 1421), întemeiată de călugării din Țara Moților.",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 09:30 - 19:00 - ziua 4 (cu prânzul la ora 14:00 la restaurant)</b> <br>Vizităm una din cele mai mari exploatări de suprafață din Europa, mândria perioade comuniste, <b>Cariera de cupru 'Roșia Poieni'</b> și iazul acesteia de decantare, făcut peste satul <b>Geamăna</b>. O să vedem ce a mai rămas din acest sat, iar apoi o să coborâm pe lângă barajul lacului la o pensiune unde luăm <b>prânzul</b>. Aici vom vizita Mănăstirea Lupșa, <b>cea mai veche așezare monahală</b> de pe Valea Ariesului (anul 1421), întemeiată de călugării din Țara Moților.",
           "images": [
             {
-              "text": "<b>Cariera de Cupru</b> - 24 de trepte de exploatare, fiecare de 15m înălțime. Accesul se face pe la un punct de verificare cu barieră, unde vi se verifică buletinul iar în unele zile intrarea poate fi restricționată.",
+              "text": "<b>Cariera de Cupru</b> - 24 de trepte de exploatare, fiecare de 15m înălțime. La punctul de acces se vor verifică buletinele iar în unele zile intrarea poate fi restricționată.",
               "thumbnailUrl": "img/trails/attractions/copperPit/thumbnail/1.jpg",
               "fullSizeUrl": "img/trails/attractions/copperPit/fullSize/1.jpg"
             },
@@ -347,12 +366,12 @@
               "fullSizeUrl": "img/trails/attractions/lakes/geamana/fullSize/4.jpg"
             },
             {
-              "text": "Turla bisericii din fostul sat Geamăna. Dacă proiectul de minerit de la Roșia Montană ar fi început am fi avut si aici un astfel de lac însă de dimensiuni mai mari și cu conținut de cianură.",
+              "text": "Turla bisericii din fostul sat Geamăna.",
               "thumbnailUrl": "img/trails/attractions/lakes/geamana/thumbnail/1.jpg",
               "fullSizeUrl": "img/trails/attractions/lakes/geamana/fullSize/1.jpg"
             },
             {
-              "text": "Foste gospodării din Geamăna. Aici nu se află cianuri și aerul nu e contaminat dar apa este poluată.",
+              "text": "Foste gospodării din Geamăna. Lacul nu conține cianuri, iar aerul nu e contaminat dar apa este poluată.",
               "thumbnailUrl": "img/trails/attractions/lakes/geamana/thumbnail/2.jpg",
               "fullSizeUrl": "img/trails/attractions/lakes/geamana/fullSize/2.jpg"
             },
@@ -362,12 +381,12 @@
               "fullSizeUrl": "img/trails/attractions/churches/lupsa/fullSize/1.jpg"
             },
             {
-              "text": "Mănăstire Lupșa Nouă și restaurantul Casa Apuseană unde vom lua masa.",
+              "text": "Mănăstire Lupșa Nouă și restaurantul unde vom lua prânzul",
               "thumbnailUrl": "img/trails/attractions/churches/lupsa/thumbnail/2.jpg",
               "fullSizeUrl": "img/trails/attractions/churches/lupsa/fullSize/2.jpg"
             },
             {
-              "text": "Trseul este destul de lung - recomandat să se facă cu bicicleta sau cu mașina.",
+              "text": "Traseu recomandat pentru bicicletă sau mașină.",
               "thumbnailUrl": "img/trails/attractions/lakes/geamana/thumbnail/bicicleta.jpg",
               "fullSizeUrl": "img/trails/attractions/lakes/geamana/fullSize/bicicleta.jpg"
             }
@@ -383,7 +402,7 @@
               "openInNewTab": true
             },
             {
-              "text": "<br><i class='fa fa-video-camera'></i> - un scurt metraj realizat aici, ce a pornit protestele pentru Roșia Montană...",
+              "text": "<br><i class='fa fa-video-camera'></i> - un scurt metraj realizat aici, ce a declanșat protestele pentru Roșia Montană...",
               "textOnMouseOver": "Click aici...",
               "link": "https://www.youtube.com/watch?v=zMvnZnlMzbg",
               "openInNewTab": true
@@ -392,7 +411,7 @@
         },
         {
           "title": "Traseul Vârtop - v2",
-          "textContent": "<b><i class='fa fa-clock-o'></i> 10:00 - 16:00 - ziua 4 (cu prânzul la ora 16:00 la localnici)</b> <br>Trecem printr-o zonă cu <b>păduri de mesteacăni</b>, iar apoi ne vom opri la locul unde localnicii își lasă vitele și caii la păscut (<b>islaz</b>). Coborâm pe valea Roșiei până în satul Carpeniș printr-o <b>pădure de brazi</b>. La urcare trecem prin satul Vârtop și Gârda, porțiune unde se găsesc <b>izvoare, zone cu zmeură, fragi sau mure</b> (în funcție de perioadă). Vom ajunge pe vârful Rotundu, la <b>stația meteo</b>, unde facem un popas pentru a admira belvederea de 360 de grade spre masivele din zonă, iar apoi coborâm spre casă pe la <b>Tăul Țarinii</b>.",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 10:00 - 16:00 - ziua 4 (cu prânzul la ora 16:00 la localnici)</b> <br>Trecem printr-o zonă cu <b>păduri de mesteacăn</b>, iar apoi ne oprim la pășunea satului - <b>islazul</b>, ascultăm sunetul tălangelor și apoi coborâm pe valea Roșiei spre satul Carpeniș printr-o <b>pădure de brazi</b>. La urcare trecem prin zone cu mici sate, <b>izvoare și poieni cu zmeură, fragi sau mure</b> (în funcție de perioadă). Vom ajunge pe vârful Rotundu la <b>stația meteo</b>, facem un popas pentru a admira belvederea de 360 de grade spre masivele din zonă, iar apoi coborâm spre casă pe la <b>Tăul Țarinii</b>.",
           "images": [
             {
               "text": "Zona Orlea.",
@@ -440,12 +459,12 @@
               "fullSizeUrl": "img/trails/attractions/vartop/fullSize/14.jpg"
             },
             {
-              "text": "<b>Tăul Țarinii</b> - Un mic lac de munte superb pe timp de toamnă. Podul care duce la Căsuța de pe lac este locul ideal de făcut poze.",
+              "text": "Tăul Țarinii",
               "thumbnailUrl": "img/trails/attractions/lakes/tariniLake/thumbnail/1.jpg",
               "fullSizeUrl": "img/trails/attractions/lakes/tariniLake/fullSize/1.jpg"
             },
             {
-              "text": "<b>Vârful Rotundu - vedere spre Apuseni</b> - În zare se pot vedea vârfurile Vulcan, Găina și Bihor (cel mai înalt vârf din Munții Apuseni(1849m)).",
+              "text": "Vârful Rotundu - vedere spre Apuseni",
               "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/1.jpg",
               "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/1.jpg"
             },
@@ -458,7 +477,7 @@
         },
         {
           "title": "Activități la fermă",
-          "textContent": "<b><i class='fa fa-clock-o'></i> 18:00 - 21:00 - ziua 4</b> <br>Fermele de pe la noi sunt tradiționale, vacile pasc pe câmp iar seara oamenii merg să le adune la adăpat și apoi la grajd, mulsul vaciilor se face manual iar fânul se strânge cu furca, grebla și căruța. În funcție de perioada în care veniți puteți participa sau urmări aceste activități locale sau puteți încerca alte <b>activități alternative</b> (vedeți la secțiunea Info).",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 18:00 - 21:00 - ziua 4</b> <br>Fermele de pe la noi sunt tradiționale: vacile pasc pe câmp iar seara oamenii merg să le adune la adăpat și apoi la grajd, mulsul vacilor se face manual iar fânul se strânge cu furca, grebla și căruța. În funcție de perioada în care veniți puteți participa sau urmări aceste activități locale.",
           "images": [
             {
               "text": "Adăpatul vacilor.",
@@ -469,11 +488,17 @@
               "text": "Mulsul vacilor.",
               "thumbnailUrl": "img/events/hayDays/article/thumbnail/8.jpg",
               "fullSizeUrl": "img/events/hayDays/article/fullSize/8.jpg"
-            },
+            }
+          ]
+        },
+        {
+          "textContent": "Puteți încerca și alte <b>alte activități</b> - vedeți secțiunea ",
+          "seeAlso": [
             {
-              "text": "Puteti incerca si alte activitati alternative. La Casa Petri o sa gasiti hamace, biciclete, wifi sau bibliotecă.",
-              "thumbnailUrl": "img/packages/common/article/thumbnail/other-activities.jpg",
-              "fullSizeUrl": "img/packages/common/article/fullSize/other-activities.jpg"
+              "text": "activități alternative",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/packages/discover#otherActivities",
+              "openInNewTab": false
             }
           ]
         }
@@ -489,10 +514,10 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Aici se încheie excursia la Roșia Montană :( <br><b>Micul dejun</b> va fi la <b>08:30 - 09:30</b>, iar <b>check-out</b> până la ora <b>12:00</b>, dar înainte de plecare trebuie să facem o <b>fotografie</b> împreună și să ne spuneți <b>părerea</b> voastră și ce putem îmunătăți la acest pachet.",
+          "textContent": "Aici se încheie excursia la Roșia Montană :( <br><b>Check-out</b> se poate face până la ora <b>12:00</b>, dar nu înainte de a face o <b>fotografie</b> împreună și de a ne spune <b>părerea</b> voastră și ce putem îmunătăți la acest pachet. Citiți opiniile celor care ne-au trecut pragul pe pagina de ",
           "seeAlso": [
             {
-              "text": "Review-urile oaspeților noștri le găsiți aici...",
+              "text": "reviews",
               "textOnMouseOver": "Click aici...",
               "link": "ro/review",
               "openInNewTab": false
@@ -520,6 +545,20 @@
     },
     {
       "type": "title",
+      "text": "<i class='fa fa-info-circle'></i> Info",
+      "sectionId": "info",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai jos sunt informații despre acest pachet. Dacă aveți alte întrebări scrieți-i-le în formularul de rezervare sau sunați la numărul de telefon din josul paginii."
+        }
+      ]
+    },
+    {
+      "type": "title",
       "text": "<i class='fa fa-bed'></i> Cazare",
       "sectionId": "accommodation",
       "addLinkInPageHeadline": false
@@ -528,10 +567,10 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Ne aflăm în centrul istoric din Roșia Montană într-o casă de patrimoniu recent renovată. Oferim camere de 2, 3 sau 4 persoane, fiecare cu intrare, bucătărioară și băie privată, conectate printr-o curte comună cu foișor, hamace, iarbă verde și priveliște spre masivul Cârnic. Putem caza maxim 11 persoane, iar în cazul în care sunteți mai mulți vă găsim cazare în apropiere.",
+          "textContent": "Ne aflăm în centrul istoric din Roșia Montană într-o casă de patrimoniu recent renovată. Oferim camere de 2, 3 sau 4 persoane, fiecare cu intrare, bucătărioară și băie privată, conectate printr-o curte comună cu foișor, hamace, iarbă verde și priveliște spre masivul Cârnic. Putem caza maxim 10 persoane, iar în cazul în care sunteți mai mulți vă găsim cazare în apropiere. Mai multe imagini și informații despre camere găsiți pe pagina de ",
           "seeAlso": [
             {
-              "text": "Mai multe imagini cu camerele găsiți pe pagina de cazare.",
+              "text": "cazare",
               "textOnMouseOver": "Click aici...",
               "link": "ro/accommodation#rooms",
               "openInNewTab": false
@@ -540,13 +579,18 @@
           "images": [
             {
               "text": "Camera cu cărți",
-              "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/1.jpg",
-              "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/1.jpg"
+              "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/booksRoom.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/booksRoom.jpg"
             },
             {
-              "text": "Recomandarea noastră este să luați masa la localnicii care oferă mese calde.",
-              "thumbnailUrl": "img/accommodation/article/food/thumbnail/mancare.jpg",
-              "fullSizeUrl": "img/accommodation/article/food/fullSize/mancare.jpg"
+              "text": "Camera din căsuță",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/littleHouseRoom.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/littleHouseRoom.jpg"
+            },
+            {
+              "text": "Camera din târnaț",
+              "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/upstairsRoom.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/upstairsRoom.jpg"
             }
           ]
         }
@@ -560,19 +604,12 @@
     },
     {
       "type": "articles",
-      "specificArticles": [
+      "commonArticles": [
         {
-          "textContent": "În apropiere sunt 3 magazine, iar camerele au câte o mică bucătărie unde puteți găti sau păstra mâncarea (ideal pentru mic dejun sau cină). Vă recomandăm să <b>luați masa la localnicii</b> din apropiere (~5-10 min de noi), care oferă mese calde și tradiționale la ei în ogradă sau să luați produse de la ei (lapte, brânză, dulceată). <br>Donațiile recomandate pentru mese sunt <b>~30lei/pers/prânz și ~20lei/pers/mic dejun sau cină</b>. <br>La efectuarea unei rezervări vă rugăm să ne spuneți ce mese doriți să luați la localnici pentru a face rezervări.",
-          "images": [
+          "category": "ourServices",
+          "ids": [
             {
-              "text": "La un pahar de țuică, înainte de masă, cu un grup din Germania.",
-              "thumbnailUrl": "img/packages/common/article/thumbnail/booksRoom.jpg",
-              "fullSizeUrl": "img/packages/common/article/fullSize/booksRoom.jpg"
-            },
-            {
-              "text": "Recomandarea noastră este să luați masa la localnicii care oferă mese calde.",
-              "thumbnailUrl": "img/accommodation/article/food/thumbnail/mancare.jpg",
-              "fullSizeUrl": "img/accommodation/article/food/fullSize/mancare.jpg"
+              "id": "food"
             }
           ]
         }
@@ -582,25 +619,76 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>Echipament necesar:</b> îmbrăcăminte pentru vreme ploioasă și ghete de munte.<br><b>Mâncarea</b> va fi în curte diferite gospodării, posibil la distanță de maxim 10 minute de cazare<br><b>Cazarea</b> se face în camere de 2 persoane cu bai private și acces la bucătărie.",
-          "images": [
+          "textContent": "Vă rugăm să luați <b>micul dejun până la ora 09:30</b> (când pornim pe traseu) și să puneți la voi și o mică gustare pentru drum."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-puzzle-piece'></i> Activități alternative",
+      "sectionId": "otherActivities",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
             {
-              "text": "Cazarea se face în camere de 2 persoane cu bai private și acces la bucătărie.",
-              "thumbnailUrl": "img/packages/common/article/thumbnail/accommodation.jpg",
-              "fullSizeUrl": "img/packages/common/article/fullSize/accommodation.jpg"
+              "id": "other"
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-bicycle'></i> Biciclete",
+      "sectionId": "bike",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "bike"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Alte informații",
+      "sectionId": "otherInfo",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b>Echipament</b> - veniți cu pelerină de ploaie, bocanci de munte și protecție pentru soare."
         },
         {
-          "title": "Activități alternative",
-          "textContent": "În cazul în care nu doriți să participați la o activitate de mai sus puteți să: <br>- leneviți în <b>hamac</b> în curtea casei Petri unde este <b>wifi</b> sau puteți citi cărți din <b>biblioteca</b> de aici<br> - în garajul casei o să găsiți <b>biciclete</b> pe care le puteți lua oricând la o tură prin sat",
-          "images": [
-            {
-              "text": "Curtea casei are un foișor și hamace unde vă puteți relaxa, să stați pe net sau să citiți o carte din biblioteca noastră.",
-              "thumbnailUrl": "img/packages/common/article/thumbnail/gradina.jpg",
-              "fullSizeUrl": "img/packages/common/article/fullSize/gradina.jpg"
-            }
-          ]
+          "textContent": "<b>Copii</b> - Recomadarea noastră este să veniți cu copii doar dacă au peste 12 ani și sunteți siguri că rezistă la traseele descrise mai sus. Pentru ziua 4 vom alege varianta 'Traseul Vârtop - v2', iar restul trseelor le mai putem ajusta ca să fie potrivite și pentru ei."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-bell-o'></i> Prețuri",
+      "sectionId": "food",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Pachetul costă: <br>- <b>355lei/pers</b> pentru grupuri de <b>peste 9 persoane</b> <br>- <b>395lei/pers</b> pentru grupuri de <b>5 - 8 persoane</b> <br>- <b>495lei/pers</b> pentru grupuri de <b>2 - 4 persoane</b> <br>Pachetul <b>include</b> 4 nopți de cazare, participarea la traseele ghidate și folosirea hamacelor, board games-urilor, cărților sau a paletelor de tenis. <br>Pachetul <b>nu include</b> (se plătesc la fața locului): mesele la localnici, biletul de intrare la Galeriile Romane (10lei) sau închiriatul de biciclete."
         }
       ]
     },
@@ -614,15 +702,14 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Prețul voucherului este de <b>240lei</b>, iar <b>plata se face prin transfer bancar.</b> După plasarea comenzii veți primi pe e-mail datele pentru transferul bancar și voucherul în format pdf. Acesta are o serie unică ce devine validă după efectuarea plății (moment în care vă trimitem pe e-mail factura și confirmarea). Odată achiziționat ne puteți suna (sau ne pot suna cei care l-au primit cadou) pentru a face o rezervare cu cel puțin 3 zile înainte de sosire. Rezervarea se face în orice perioadă în care avem camere libere din <b>anul 2017</b>, cu excepția perioadelor cu evenimente (maraton sau festivalul Fân Fest) sau a celor cu sărbători importante (Revelion, Crăciun, Paști, 1 Mai sau 1 Decembrie). La sosire va trebui să ne arătați voucherul printat sau în format electronic pe telefon. Un voucher poate fi folosit doar o singură dată.",
-          "textContent": ""
+          "textContent": "Completați numărul de persoane care o să veniți, iar noi o să vă contactăm pe email sau la telefon pentru a vă spune ce tip de camere vă putem oferi."
         }
       ]
     },
     {
       "type": "form",
       "sendEmailTitle": "weekendVoucher",
-      "beforeSubmitText": "Prin efectuarea unei comenzi vă asumați că ați citit și sunteți de acord cu cele prezentate pe această pagină.",
+      "beforeSubmitText": "Rezervarea va fi validă doar la primirea unui email sau telefon de confirmare. Prin efectuarea unei comenzi vă asumați că ați citit și sunteți de acord cu cele prezentate pe această pagină.",
       "submitButtonText": "Comandă",
       "successMessage": "Vă mulțumim! O să revenim cu un e-mail de confirmare cât mai repede posibil.",
       "errorMessage": "EROARE! Contactați-ne prin e-mail sau telefon (vedeți partea de jos a paginii)",
@@ -640,6 +727,49 @@
           "iconFortAwesomeClass": "fa fa-phone fa-fw",
           "placeholder": "telefon",
           "required": true
+        },
+        {
+          "type": "daterange",
+          "name": "period",
+          "iconFortAwesomeClass": "fa fa-calendar fa-fw",
+          "placeholder": "Perioada",
+          "required": true
+        },
+        {
+          "type": "number",
+          "name": "numberOfPersons",
+          "iconFortAwesomeClass": "fa fa-male fa-fw",
+          "placeholder": "Număr de persoane",
+          "minLimit": 4,
+          "required": true
+        },
+        {
+          "type": "textarea",
+          "name": "foodAtLocals",
+          "iconFortAwesomeClass": "fa fa-cutlery fa-fw",
+          "placeholder": "Ce mese doriți să luați la localnici? Sunteți vegetarieni?",
+          "rows": 2,
+          "maxChars": 500,
+          "required": true
+        },
+        {
+          "type": "selectBoxAllowDuplicates",
+          "name": "day4option",
+          "required": true,
+          "iconFortAwesomeClass": "fa fa-location-arrow fa-fw",
+          "placeholder": "Ce traseu alegeți pentru ziua 4?",
+          "inputs": [
+            {
+              "selectOptions": [
+                {
+                  "text": "Traseul Geamăna - v1"
+                },
+                {
+                  "text": "Traseul Vârtop - v2"
+                }
+              ]
+            }
+          ]
         },
         {
           "type": "textarea",
@@ -665,10 +795,10 @@
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/trails/summary"
+          "page": "ro/shortcut/directions"
         },
         {
-          "page": "ro/accommodation"
+          "page": "ro/packages/weekend"
         },
         {
           "page": "ro/events/steamTrain"

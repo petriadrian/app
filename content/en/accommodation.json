@@ -31,7 +31,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "We are located in the historic center of Rosia Montana 331. The building was a bank, medical center, cinema and then it was bought by our grandparents who work in mining industry, and used for living. It's a heritage building, so we preserved the painting, the wooden floor, the windows, the heating with terracotta stoves, but also new bathrooms and kitchen and after we open it for tourists. Te rooms have separate entries and a common yard with hammocks, green grass and a nice view to the Cânic massif - Rosia Montana accommodation - Transylvania accommodation."
+          "textContent": "We are located in the historic center of Rosia Montana 331, in a heritage house, that was a bank, medical center, cinema and then it was bought by our grandparents who work in mining industry, and used for living. We preserved the painting, the wooden floor, the windows, the heating with terracotta stoves, but we added new bathrooms and kitchen and now we offer accommodation and touristic services . Te rooms have separate entries from a common yard with hammocks, gazebo, green grass and a nice view to the Cânic massif. See below:"
         }
       ]
     },
@@ -39,31 +39,31 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "Books apartment",
-          "textContent": "Has one meter wide walls made of rocks, a closet filled with books, two bunk beds and an expandable couch. Is at the ground floor and has private entrance. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom  - <i class='fa fa-cutlery'></i> private kitchenette - <i class='fa fa-book'></i> library",
+          "title": "Books room",
+          "textContent": "Has one meter wide walls made of rocks, a closet filled with books and two bunk beds. Is at the ground floor and has <b>separate entrance</b> from the yard. <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom  - <i class='fa fa-cutlery'></i> private kitchenette - <i class='fa fa-book'></i> library",
           "images": [
             {
-              "text": "Books apartment - We transformed a cupboard into a library with old books, guides about Rosia Montana and board games.",
+              "text": "Books room - We transformed a cupboard into a library with old books, guides about Rosia Montana and board games.",
               "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/1.jpg"
             },
             {
-              "text": "Books apartment -  2 bunk beds and a sofa.",
-              "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/2.jpg",
-              "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/2.jpg"
+              "text": "Books room - beds",
+              "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/beds.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/beds.jpg"
             },
             {
-              "text": "Books apartment -  In the showcase are old photos from Roșia, crystal clusters rocks and old objects used in the household.",
+              "text": "Books room - In the showcase are old photos and crystal clusters rocks.",
               "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/details.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/details.jpg"
             },
             {
-              "text": "Books apartment -  kitchenette (fridge, microwave, coffee, tea, kettle, dishes and cutlery).",
-              "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/kitchen.jpg",
-              "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/kitchen.jpg"
+              "text": "Start the day with a book and a coffee or a tea from kitchenette (equipped with: fridge, microwave, coffee, tea, kettle, dishes and cutlery).",
+              "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/kitchen-library.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/DSC_6779.jpg"
             },
             {
-              "text": "Books apartment - bathroom heated with electric boiler",
+              "text": "Books room - bathroom heated with electric boiler",
               "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/3.jpg"
             }
@@ -75,36 +75,36 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "Little house apartment",
-          "textContent": "The garden house has one room with two beds, bathroom, kitchen and private entrance. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fa fa-cutlery'></i> private kitchen - <i class='fa fa-book'></i> library",
+          "title": "Little house room",
+          "textContent": "The garden house has one room with two beds, bathroom, kitchen and has <b>separate entrance</b> from the yard. <br><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fa fa-cutlery'></i> private kitchen - <i class='fa fa-book'></i> library",
           "images": [
             {
-              "text": "Little house apartment - the beds can be joined",
+              "text": "Little house room - the beds can be joined",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/1.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/1.jpg"
             },
             {
-              "text": "Little house apartment - the library contains maps, books and guides about Roșia Montană",
+              "text": "Little house room - the library contains maps, books and guides about Roșia Montană",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/2.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/2.jpg"
             },
             {
-              "text": "Little house apartment - the entrance in the private bathroom and kitchen are directly from the room. The heating is done by a terracotta stove on woods.",
+              "text": "Little house room - the entrance in the private bathroom and kitchen are directly from the room. The heating is done by a terracotta stove on woods.",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/3.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/3.jpg"
             },
             {
-              "text": "Little house apartment - kitchen (fridge, microwave, hob, sink with hot and cold water, dishes and cutlery)",
+              "text": "Little house room - kitchen (fridge, microwave, hob, sink with hot and cold water, dishes and cutlery)",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/kitchen.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/kitchen.jpg"
             },
             {
-              "text": "Little house apartment - bathroom with electric boiler.",
+              "text": "Little house room - bathroom with electric boiler.",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/6.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/6.jpg"
             },
             {
-              "text": "Little house apartment - the outside - private entrance.",
+              "text": "Little house room - the outside - has <b>separate entrance</b> from the yard.",
               "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/7.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/7.jpg"
             }
@@ -116,36 +116,36 @@
       "type": "articles",
       "specificArticles": [
         {
-          "title": "The Upstairs apartment",
-          "textContent": "It is located at the first floor, has private entrance and the access is made through a hallway with stairs and many small windows called 'târnaț' (specific to our area). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fa fa-cutlery'></i> private kitchenette - <i class='fa fa-book'></i> library",
+          "title": "The Upstairs room",
+          "textContent": "It is located at the first floor, has <b>separate entrance</b> from the yard through a hallway with stairs and many small windows called 'târnaț' (specific to our area). <br><i class='fa fa-male'></i><i class='fa fa-male'></i> <i class='fa fa-arrows-h''></i> <i class='fa fa-male'></i><i class='fa fa-male'></i><i class='fa fa-male'></i> persons - <i class='fa fa-wifi'></i> free wifi - <i class='fa fa-shower'></i> private bathroom - <i class='fa fa-cutlery'></i> private kitchenette - <i class='fa fa-book'></i> library",
           "images": [
             {
-              "text": "The Upstairs apartment - the double bed can be separated. The painting was made in 1960 and is very well preserved",
+              "text": "The Upstairs room - the double bed can be separated. The painting was made in 1960 and is very well preserved",
               "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/room.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/room.jpg"
             },
             {
-              "text": "The Upstairs apartment - a relaxing area with a chic coffee table and many places with old books.",
+              "text": "The Upstairs room - a relaxing area with a chic coffee table and many places with old books.",
               "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/coffeeTable.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/coffeeTable.jpg"
             },
             {
-              "text": "The Upstairs apartment - we transformed an old door into a library.",
+              "text": "The Upstairs room - we transformed an old door into a library.",
               "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/doorBook.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/doorBook.jpg"
             },
             {
-              "text": "The Upstairs apartment - places with old books, vinyls and newspapers and magazines about Rosia Montana.",
+              "text": "The Upstairs room - places with old books, vinyls and newspapers and magazines about Rosia Montana.",
               "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/booksPlaces.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/booksPlaces.jpg"
             },
             {
-              "text": "The Upstairs apartment - kitchenette (fridge, microwave, coffee, tea, kettle, dishes and cutlery).",
+              "text": "The Upstairs room - kitchenette (fridge, microwave, coffee, tea, kettle, dishes and cutlery).",
               "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/bucataria.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/bucataria.jpg"
             },
             {
-              "text": "The Upstairs apartment - bathroom heated with electric boiler.",
+              "text": "The Upstairs room - bathroom heated with electric boiler.",
               "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/bathroom.jpg",
               "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/bathroom.jpg"
             }
@@ -175,29 +175,14 @@
               "fullSizeUrl": "img/accommodation/article/outside/fullSize/hammock.jpg"
             },
             {
-              "text": "Our yard - The pavilion is the perfect place for chatting, drinking 'țuica' or to eat before going out for a hike.",
+              "text": "Our yard - The pavilion is the perfect place for chatting, to play board games, to drink 'țuica' or to eat before going out for a hike.",
               "thumbnailUrl": "img/accommodation/article/outside/thumbnail/garden.jpg",
               "fullSizeUrl": "img/accommodation/article/outside/fullSize/garden.jpg"
-            },
-            {
-              "text": "Our yard - We have a film projector, so we can watch images and movies about Roșia Montana.",
-              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
-              "fullSizeUrl": "img/accommodation/article/outside/fullSize/gardenMovie.jpg"
             },
             {
               "text": "Casa Petri - view from the street.",
               "thumbnailUrl": "img/accommodation/article/outside/thumbnail/house.jpg",
               "fullSizeUrl": "img/accommodation/article/outside/fullSize/house.jpg"
-            },
-            {
-              "text": "Beside the house is a playground for children.",
-              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/childrenPark.jpg",
-              "fullSizeUrl": "img/accommodation/article/outside/fullSize/childrenPark.jpg"
-            },
-            {
-              "text": "Visit us also on winter! Beside the house we have a perfect spot for sleighing.",
-              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/sleighing.jpg",
-              "fullSizeUrl": "img/accommodation/article/outside/fullSize/sleighing.jpg"
             }
           ]
         }
@@ -214,7 +199,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Because we also love camping, we prepared a small camping place in our yard, for maximum 4 tents, with bathroom, kitchen, dinning area, gazebo, hammocks, free wifi and electricity - caping rosia montana - camping Transylvania",
+          "textContent": "Because we also love camping, we prepared a small camping place in our yard, for maximum 4 tents, with bathroom, kitchen, dinning area, gazebo, hammocks, free wifi and electricity - camping rosia montana - camping Transylvania",
           "images": [
             {
               "text": "Camping area fro the yard",
@@ -241,27 +226,12 @@
     },
     {
       "type": "articles",
-      "specificArticles": [
+      "commonArticles": [
         {
-          "textContent": "Each apartment has a small kitchen and we also have a barbecue in the garden where you can cook. Our recommendation is to eat at the locals who offers homemade meals or to buy local products (milk, cheese, honey, tuica...) The bookings can be made from the bellow form or you will find a list with the locals who offer food in the room and you can contact them by phone. Beside the house are 3 grocery stores (~5min away) - ",
-          "seeAlso": [
+          "category": "ourServices",
+          "ids": [
             {
-              "text": "see here how to reach them",
-              "textOnMouseOver": "Click here...",
-              "link": "https://www.google.ro/maps/dir/Emiliana+Shop,+DC146,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Bereczky+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Mixt+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Historical+center,+nr.+331A,+Casa+Petri,+Ro%C8%99ia+Montan%C4%83+517615/@46.3064009,23.1286362,17z/data=!3m1!4b1!4m26!4m25!1m5!1m1!1s0x474ecce0f07e87bf:0xc1e5f1730ebc127c!2m2!1d23.1317125!2d46.3060228!1m5!1m1!1s0x474ecce0563eefe1:0x44635688d438a223!2m2!1d23.1308247!2d46.30597!1m5!1m1!1s0x474ecce04e3e997b:0x14730c483b204593!2m2!1d23.1300147!2d46.3061442!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.1299373!2d46.3065974!3e2?hl=en",
-              "openInNewTab": true
-            }
-          ],
-          "images": [
-            {
-              "text": "A glass of tuica, before dinner, with a group from Germany.",
-              "thumbnailUrl": "img/accommodation/article/food/thumbnail/restaurant.jpg",
-              "fullSizeUrl": "img/accommodation/article/food/fullSize/restaurant.jpg"
-            },
-            {
-              "text": "Our recommendation is to eat at the locals who offers homemade meals.",
-              "thumbnailUrl": "img/accommodation/article/food/thumbnail/mancare.jpg",
-              "fullSizeUrl": "img/accommodation/article/food/fullSize/mancare.jpg"
+              "id": "food"
             }
           ]
         }
@@ -275,29 +245,27 @@
     },
     {
       "type": "articles",
-      "specificArticles": [
+      "commonArticles": [
         {
-          "textContent": "We offer <b>bikes for rent</b> to discover Rosia Montana and the Apuseni mountains area (mountain bikes, asphalt or trekking plus safety gear and spare tube). If you come with your own bike we can offer (if needed) tools and <b>bike repair assistance</b>. To find out more about the places you visit or bike repairs on the trail, we can offer <b>guided bike trails</b>. The bookings can be make from the bellow form.",
-          "images": [
+          "category": "ourServices",
+          "ids": [
             {
-              "text": "Guided bike trails",
-              "thumbnailUrl": "img/accommodation/article/bikes/thumbnail/bicicleta.jpg",
-              "fullSizeUrl": "img/accommodation/article/bikes/fullSize/bicicleta.jpg"
-            },
-            {
-              "text": "Guided bike trails - on the road we can stop and talk about the places we are passing by or for bike repairs assistance (if needed).",
-              "thumbnailUrl": "img/accommodation/article/bikes/thumbnail/ghid-bicicleta.jpg",
-              "fullSizeUrl": "img/accommodation/article/bikes/fullSize/ghid-bicicleta.jpg"
+              "id": "bike"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
         {
           "textContent": "<br> Our area has perfect places for biking here in Transylvania. More info, images, guides or online maps with gps data can be found on the ",
           "seeAlso": [
             {
               "text": "trails and attractions page",
               "textOnMouseOver": "Click here...",
-              "link": "ro/trails/summary",
+              "link": "en/trails/summary",
               "openInNewTab": false
             }
           ]
@@ -312,24 +280,31 @@
     },
     {
       "type": "articles",
-      "specificArticles": [
+      "commonArticles": [
         {
-          "textContent": "Rosia Montana has a golden past. How it worked the mining through galleries, pounds and other machines used to extract the gold, the past of the heritage buildings from the historic center or what would have been the impact of the mega mining project proposed here in 2007 by the canadian company and the massive streets protests against it, are just some of the main reasons we recommend to visit Roșia Montana with a guide. The locality is not arranged for tourism so it will be pretty difficult to see and find all this by your own. <br>If you want a guided  We can offer guided tours - the bookings are made from the bellow form.",
-          "images": [
+          "category": "ourServices",
+          "ids": [
             {
-              "text": "The historic center guided tour with a group from Romania.",
-              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
-              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
-            },
+              "id": "guide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-book'></i> Other facilities",
+      "sectionId": "other",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
             {
-              "text": "Guided tour to the natural sites and protected areas of Rosia Montana with a group from Germany.",
-              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
-              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
-            },
-            {
-              "text": "Guided tour to the mining open pits with a group from India.",
-              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-cariera.jpg",
-              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-cariera.jpg"
+              "id": "other"
             }
           ]
         }
@@ -394,16 +369,16 @@
             {
               "selectOptions": [
                 {
-                  "text": "1 person apartment - 16€/night"
+                  "text": "1 person room - 16€/night"
                 },
                 {
-                  "text": "2 persons apartment - 22€/night"
+                  "text": "2 persons room - 22€/night"
                 },
                 {
-                  "text": "3 persons apartment - 35€/night"
+                  "text": "3 persons room - 35€/night"
                 },
                 {
-                  "text": "4 persons apartment - 40€/night"
+                  "text": "4 persons room - 40€/night"
                 },
                 {
                   "text": "2 persons camping - 10€/night"
@@ -424,7 +399,7 @@
           "checkBoxes": [
             {
               "name": "guidedTours",
-              "text": "<i class='fa fa-fw fa-blind'></i> | <b>guided trails</b> (by foot or by bike? what you want to visit? fill the 'Other details' box)"
+              "text": "<i class='fa fa-fw fa-blind'></i> | <b>custom guided trails</b> (by foot or by bike? what you want to visit? fill the 'Other details' box)"
             },
             {
               "name": "rentBikes",
@@ -432,7 +407,7 @@
             },
             {
               "name": "reserveFood",
-              "text": "<i class='fa fa-fw fa-cutlery'></i> | <b>to eat at locals</b> (vegetarian or other preferences? fill the 'Other details' box)"
+              "text": "<i class='fa fa-fw fa-cutlery'></i> | <b>meals at locals</b> (which meals? are you vegetarian? fill the 'Other details' box)"
             }
           ]
         },
@@ -474,9 +449,6 @@
       ]
     },
     {
-      "type": "socialButtons"
-    },
-    {
       "type": "title",
       "text": "<i class='fa fa-location-arrow'></i> How to reach us?",
       "sectionId": "directions",
@@ -492,6 +464,17 @@
           "iframe": {
             "src": "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc"
           }
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Key words: accommodation Rosia Montana - rooms Rosia Montana - hotel Rosia Montana - accommodation Apuseni - rooms Apuseni - hotel Apuseni - accommodation Valea Ariesului - rooms Valea Ariesului - hotel Valea Ariesului - accommodation Transylvania - rooms Transylvania - hotel Transylvania"
         }
       ]
     },

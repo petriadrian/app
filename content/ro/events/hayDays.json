@@ -164,6 +164,7 @@
           "name": "numberOfPersons",
           "iconFortAwesomeClass": "fa fa-male fa-fw",
           "placeholder": "Număr de persoane",
+          "minLimit": 1,
           "required": true
         },
         {

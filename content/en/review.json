@@ -103,6 +103,34 @@
     },
     {
       "type": "title",
+      "text": "<i class='fa fa-comments'></i> More reviews?",
+      "sectionId": "moreReviews",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "On our facebook or tripadvisor page can be found more reviews:",
+          "seeAlso": [
+            {
+              "text": "<br><i class='fa fa-facebook-official'></i> - see here our facebook reviews",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.facebook.com/pg/casapetrirosiamontana/reviews/?ref=page_internal",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br><i class='fa fa-tripadvisor'></i> - see here our tripadvisor reviews",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.tripadvisor.com/Hotel_Review-g9998203-d9871602-Reviews-Casa_Petri_Rosia_Montana-Rosia_Montana_Alba_County_Central_Romania_Transylvania.html#REVIEWS",
+              "openInNewTab": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
       "text": "<i class='fa fa-pencil-square-o'></i> Add a review",
       "sectionId": "addReview",
       "addLinkInPageHeadline": true
@@ -111,7 +139,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "If are on facebook or tripadvisor, because these platforms are more visible than our website, please add your review there and we will import it on our website:",
+          "textContent": "If you have an facebook or tripadvisor account, because these platforms are more visible, please add your review there:",
           "seeAlso": [
             {
               "text": "<br><i class='fa fa-facebook-official'></i> - add your review directly on facebook",
@@ -133,7 +161,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "If you doesn't have a facebook or tripadvisor account add your review directly on our website:"
+          "textContent": "If you don't have a facebook or tripadvisor account add your review directly on our website:"
         }
       ]
     },

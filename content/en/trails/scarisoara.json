@@ -57,19 +57,6 @@
       ]
     },
     {
-      "type": "articles",
-      "commonArticles": [
-        {
-          "category": "guidesAndBikes",
-          "ids": [
-            {
-              "id": "details"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "type": "title",
       "text": "<i class='fa fa-star'></i> Attractions",
       "sectionId": "attractions",
@@ -128,6 +115,19 @@
               "text": "<b>The Scărișoara Glacier</b> - blocul de gheață în formă de rechin",
               "thumbnailUrl": "img/trails/attractions/scarisoara/thumbnail/2.jpg",
               "fullSizeUrl": "img/trails/attractions/scarisoara/fullSize/2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "guideBikeOnTrail"
             }
           ]
         }

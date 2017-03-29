@@ -18,25 +18,25 @@
   },
   "regularButtons": [
     {
-      "text": "<i class='fa fa-lg fa-map-signs'></i> Trails and attractions",
+      "text": "<i class='fa fa-lg fa-map-signs'></i> See & do",
       "url": {
         "link": "en/trails/summary",
-        "textOnMouseOver": "hiking or cycling trails",
+        "textOnMouseOver": "hiking or cycling gps trails, guided trails, hammocks, tennis, running",
         "openInNewTab": false
       }
     },
     {
-      "text": "<i class='fa fa-lg fa-bed'></i> Rooms and bookings",
+      "text": "<i class='fa fa-lg fa-bed'></i> Plan your trip",
       "url": {
         "link": "en/accommodation",
-        "textOnMouseOver": "see the inside and bookings",
+        "textOnMouseOver": "accommodation, camping, guided tours, bikes rent, food info - bookings",
         "openInNewTab": false
       }
     }
   ],
   "importantButtons": [
     {
-      "text": "Packages and vouchers",
+      "text": "<i class='fa fa-lg fa-gift'></i> Packages",
       "url": {
         "link": "en/accommodation#packages",
         "textOnMouseOver": "vouchers (accommodation + activities)",
