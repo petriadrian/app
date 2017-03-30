@@ -202,13 +202,13 @@ body {
     padding: 30px 0px;
 }
 
-.articleTitle h3 {
+.articleTitle h2 {
     font-size: 1.4em;
     overflow: hidden;
     margin: 0px;
 }
 
-.articleTitle h3 span {
+.articleTitle h2 span {
     display: inline-block;
     vertical-align: baseline;
     zoom: 1;
@@ -218,8 +218,8 @@ body {
     padding: 0 20px;
 }
 
-.articleTitle h3 span:before,
-.articleTitle h3 span:after {
+.articleTitle h2 span:before,
+.articleTitle h2 span:after {
     content: '';
     display: block;
     width: 1000px;
@@ -228,11 +228,11 @@ body {
     border-top: 1px solid #49a900;
 }
 
-.articleTitle h3 span:before {
+.articleTitle h2 span:before {
     right: 100%;
 }
 
-.articleTitle h3 span:after {
+.articleTitle h2 span:after {
     left: 100%;
 }
 

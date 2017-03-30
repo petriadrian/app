@@ -3,18 +3,18 @@
     "title": "Visit Rosia Montana",
     "headline": "Discover Rosia Montana",
     "description": "<b>Biking or walking?</b><br>Discover our area through the trails presented here. They have online maps from our house to the main touristic attractions...",
-    "fullWidthImg": "img/trails/summary/presentation/fullWidthImg.jpg",
-    "smallBoxImg": "img/trails/summary/presentation/smallBoxImg.jpg"
+    "fullWidthImg": "img/activities/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "en/trails/summary",
+    "link": "en/activities",
     "textOnMouseOver": "See more...",
     "openInNewTab": false
   },
   "metaData": {
     "title": "Discover Rosia Montana. Trails, attractions, activities",
     "description": "Trails on areas (from historic center and roman galleries up to the top of the mountains). Thematic trails (mining evolution, the protests, rural life). You can also book guided tours, rooms, bikes, camping in Rosia Montana, Alba, Apuseni Mountains, Transylvania, Romania.",
-    "displayOnShareImg": "img/trails/summary/presentation/displayOnShareImg.jpg"
+    "displayOnShareImg": "img/activities/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": true

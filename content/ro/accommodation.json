@@ -264,7 +264,7 @@
             {
               "text": "trasee și atracții",
               "textOnMouseOver": "Click aici...",
-              "link": "ro/trails/summary",
+              "link": "ro/activities",
               "openInNewTab": false
             }
           ]
@@ -490,7 +490,7 @@
           "page": "ro/review"
         },
         {
-          "page": "ro/trails/summary"
+          "page": "ro/activities"
         },
         {
           "page": "ro/events/steamTrain"

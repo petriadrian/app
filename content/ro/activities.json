@@ -3,18 +3,18 @@
     "title": "Vizitați Roșia Montană",
     "headline": "Descoperă Roșia Montană",
     "description": "<b>Drumeție sau ciclism?</b><br>Descoperă zona prin traseele propuse aici. Conțin hărți online de la casa noastră spre principalele obiective turistice...",
-    "fullWidthImg": "img/trails/summary/presentation/fullWidthImg.jpg",
-    "smallBoxImg": "img/trails/summary/presentation/smallBoxImg.jpg"
+    "fullWidthImg": "img/activities/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "ro/trails/summary",
-    "textOnMouseOver": "Vezi traseele...",
+    "link": "ro/activities",
+    "textOnMouseOver": "Vezi mai mult...",
     "openInNewTab": false
   },
   "metaData": {
     "title": "Descoperă Roșia Montană. Trasee, atracții, activități",
     "description": "Trasee pe zone (de la galeriile romane și centrul istoric până pe vârful mmasivelor din zonă) și trasee tematice (evoluția minieră, protestele din Roșia Montană sau viața rurală). Puteți rezerva trasee ghidate, cazare, biciclete sau campare în Rosia Montana, Alba, Munții Apuseni, Transilvania, Romania.",
-    "displayOnShareImg": "img/trails/summary/presentation/displayOnShareImg.jpg"
+    "displayOnShareImg": "img/activities/presentation/displayOnShareImg.jpg"
   },
   "config": {
     "showPageHeadline": true

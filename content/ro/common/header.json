@@ -20,7 +20,7 @@
     {
       "text": "<i class='fa fa-lg fa-map-signs'></i> Ce fac acolo?",
       "url": {
-        "link": "ro/trails/summary",
+        "link": "ro/activities",
         "textOnMouseOver": "atracții, trasee gps de drumeție sau ciclism, trasee ghidate, tenis, hamace, cărți",
         "openInNewTab": false
       }

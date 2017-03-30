@@ -265,7 +265,7 @@
             {
               "text": "trails and attractions page",
               "textOnMouseOver": "Click here...",
-              "link": "en/trails/summary",
+              "link": "en/activities",
               "openInNewTab": false
             }
           ]
@@ -491,7 +491,7 @@
           "page": "en/review"
         },
         {
-          "page": "en/trails/summary"
+          "page": "en/activities"
         },
         {
           "page": "en/events/steamTrain"

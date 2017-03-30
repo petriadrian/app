@@ -20,7 +20,7 @@
     {
       "text": "<i class='fa fa-lg fa-map-signs'></i> See & do",
       "url": {
-        "link": "en/trails/summary",
+        "link": "en/activities",
         "textOnMouseOver": "hiking or cycling gps trails, guided trails, hammocks, tennis, running",
         "openInNewTab": false
       }
