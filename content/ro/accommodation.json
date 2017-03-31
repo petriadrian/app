@@ -1,7 +1,35 @@
 {
   "presentation": {
+    "seo": {
+      "title": "Ghizi, mâncare, biciclete, cazare Rosia Montana",
+      "h1": "cazare Rosia Montana pensiune Rosia Montana pensiuni Rosia Montana cazare Apuseni pensiune Apuseni pensiuni Apuseni cazare Valea Ariesului pensiune Valea Ariesului pensiuni Valea Ariesului biciclete Rosia Montana biciclete Apuseni ghid Rosia Montana ghid Apuseni"
+    },
+    "metadataSocialShare": {
+      "title": "Cazare, mâncare, biciclete, ghizi Rosia Montana",
+      "description": "De la galerii romane subterane până pe vârful mmasivelor din zonă. De la Rosia Montana până la sate și cătune din inima Apusenilor. Toate acestea prezentate prin trasee online de drumeție sau ciclism pe care le puteți face aici, plus informații despre trasee ghidate sau alte activități.",
+      "imgUrl": "img/activities/presentation/displayOnShareImg.jpg"
+    },
+    "onPageIntro": {
+      "title": "Bunicii cu mineritul, noi cu turismul",
+      "imgUrl": "img/activities/presentation/fullWidthImg.jpg"
+    },
+    "carousel": {
+      "title": "Bunicii cu mineritul, noi cu turismul",
+      "description": "Îți propunem câteva activități și trasee de drumeție sau ciclism prin care descoperi moștenirea culturală și obiectivele naturale din zonă. Vezi detalii aici..."
+    },
+    "tile": {
+      "title": "",
+      "abstract": "...înafara să cați după aur...",
+      "description": "Îți propunem câteva activități și trasee de drumeție sau ciclism prin care descoperi moștenirea culturală și obiectivele naturale din zonă...",
+      "imgUrl": {
+        "smallWidth": "img/activities/presentation/smallBoxImg.jpg",
+        "fullWidth": "img/activities/presentation/fullWidthImg.jpg"
+      }
+    }
+  },
+  "presentation": {
     "title": "Rezervări",
-    "headline": "Bunicii cu mineritul, noi cu turismul",
+    "headline": "",
     "description": "Trasee ghidate, biciclete și cazare în centrul istoric Roșia Montană",
     "fullWidthImg": "img/accommodation/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/presentation/smallBoxImg.jpg"
@@ -468,14 +496,6 @@
     },
     {
       "type": "socialButtons"
-    },
-    {
-      "type": "articles",
-      "specificArticles": [
-        {
-          "textContent": "Cuvinte cheie: cazare Rosia Montana - pensiune Rosia Montana - pensiuni Rosia Montana - cazare Apuseni - pensiune Apuseni - pensiuni Apuseni - cazare Valea Ariesului - pensiune Valea Ariesului - pensiuni Valea Ariesului"
-        }
-      ]
     },
     {
       "type": "title",

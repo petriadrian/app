@@ -1,5 +1,29 @@
 {
   "presentation": {
+    "seo": {
+      "title": "Trasee, drumeție, ciclism, biciclete, activități - vizitați Rosia Montana",
+      "h1": "Trasee, drumeție, ciclism, biciclete, activități - vizitați Rosia Montana"
+    },
+    "metadataSocialShare": {
+      "title": "Descoperă Roșia Montană. Trasee, atracții, activități",
+      "description": "De la galerii romane subterane până pe vârful mmasivelor din zonă. De la Rosia Montana până la sate și cătune din inima Apusenilor. Toate acestea prezentate prin trasee online de drumeție sau ciclism pe care le puteți face aici, plus informații despre trasee ghidate sau alte activități.",
+      "imgUrl": "img/activities/presentation/displayOnShareImg.jpg"
+    },
+    "onPageIntro": {
+      "title": "Descoperă Roșia Montană",
+      "imgUrl": "img/activities/presentation/fullWidthImg.jpg"
+    },
+    "tile": {
+      "title": "Ce mai poți face la Roșia?",
+      "abstract": "...înafara căutatului după aur...",
+      "description": "Îți propunem câteva activități și trasee de drumeție sau ciclism prin care descoperi moștenirea culturală și obiectivele naturale din zonă. Vezi detalii aici...",
+      "imgUrl": {
+        "smallWidth": "img/activities/presentation/smallBoxImg.jpg",
+        "fullWidth": "img/activities/presentation/fullWidthImg.jpg"
+      }
+    }
+  },
+  "presentation": {
     "title": "Vizitați Roșia Montană",
     "headline": "Descoperă Roșia Montană",
     "description": "<b>Drumeție sau ciclism?</b><br>Descoperă zona prin traseele propuse aici. Conțin hărți online de la casa noastră spre principalele obiective turistice...",
