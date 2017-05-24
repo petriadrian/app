@@ -187,19 +187,7 @@
         },
         {
           "page": "en/shortcut/guides"
-        }
-      ]
-    },
-    {
-      "type": "title",
-      "text": "See also...",
-      "addLinkInPageHeadline": false,
-      "sectionId": "seeAlso"
-    },
-    {
-      "type": "linkToOtherPages",
-      "text": "",
-      "detailBoxes": [
+        },
         {
           "page": "en/shortcut/packages"
         },
@@ -232,25 +220,22 @@
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
+          "page": "en/packages/discover"
+        },
+        {
+          "page": "en/packages/weekend"
+        },
+        {
           "page": "en/events/hayDays"
         },
         {
           "page": "en/events/marathon"
         },
         {
-          "page": "en/events/monumentsRestorations"
-        },
-        {
           "page": "en/events/steamTrain"
         },
         {
           "page": "en/trails/daffodilMeadow"
-        },
-        {
-          "page": "en/events/firstMai"
-        },
-        {
-          "page": "en/events/souvenirShop"
         }
       ]
     }

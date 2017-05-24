@@ -2,7 +2,8 @@
   "presentation": {
     "title": "Mocănița",
     "headline": "Cu Mocănița prin Țara Moților - Apuseni",
-    "description": "<b>| Iun-Sept |</b> La 8km de noi, pe o cale ferată îngustă, circulă Mocănița cu Aburi. Muncitorii veneau cu ea la stația minieră Gura Roșia. Acum e folosită pentru turiști.",
+    "descriptionTitle": "Iun-Sept | <i class='fa fa-car'></i> <b>~10min</b>",
+    "description": " Mocănița cu aburi circulă pe o cale ferată îngustă. Era folisită de mineri, iar acum circulă în scop turistic",
     "fullWidthImg": "img/events/steamTrain/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/events/steamTrain/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +14,7 @@
   },
   "metaData": {
     "title": "Cu mocănița prin Munții Apuseni",
-    "description": "La 8km de Roșia Montană, pe o cale ferată îngustă, circulă Mocănița cu Aburi. Muncitorii veneau cu ea la stația minieră Gura Roșia, iar acum e folosită pentru turiști. Vezi mai multe atracții din Roșia Montană. Rezervă camere, biciclete, cazare, campare.",
+    "description": "În apropierea noastră, pe o cale ferată îngustă, circulă Mocănița cu Aburi. Muncitorii veneau cu ea la stația minieră Gura Roșia, iar acum circulă în scop turistic. Vezi mai multe atracții din Roșia Montană. Rezervă camere, biciclete, cazare, campare.",
     "displayOnShareImg": "img/events/steamTrain/presentation/displayOnShareImg.jpg"
   },
   "config": {

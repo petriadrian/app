@@ -2,8 +2,8 @@
   "presentation": {
     "title": "Daffodil Meadow",
     "headline": "The trail to the Daffodils Meadow",
-    "descriptionTitle": "<i class='fa fa-bicycle'></i> <i class='fa fa-car'></i> <b>~39km</b>",
-    "description": "<b>| May |</b> A white blanket of daffodils and their lovely smell offer you an unforgettable experience.",
+    "descriptionTitle": "<i class='fa fa-bicycle'></i> <i class='fa fa-car'></i> ~39km",
+    "description": "In <b>May</b>, a white blanket of daffodils and their lovely smell offer you an unforgettable experience. See more pictures...",
     "fullWidthImg": "img/trails/daffodilMeadow/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/trails/daffodilMeadow/presentation/smallBoxImg.jpg"
   },
@@ -124,7 +124,7 @@
     {
       "type": "linkToOtherPages",
       "banner": {
-        "page": "en/trails/detunata"
+        "page": "en/trails/scarisoara"
       }
     },
     {

@@ -1,0 +1,16 @@
+{
+  "type": "articles",
+  "specificArticles": [
+    {
+      "textContent": "Locurile pentru acest tur au fost ocupate. Vom posta în curând informații despre următoarele tururi pe care le vom organiza în zona Roșia Montană - Apuseni. ",
+      "seeAlso": [
+        {
+          "text": "Urmăriți pagina noastră de facebook...",
+          "textOnMouseOver": "Click aici...",
+          "link": "https://www.facebook.com/casapetrirosiamontana",
+          "openInNewTab": true
+        }
+      ]
+    }
+  ]
+},

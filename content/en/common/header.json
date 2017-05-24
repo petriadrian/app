@@ -39,7 +39,7 @@
       "text": "<i class='fa fa-lg fa-gift'></i> Packages",
       "url": {
         "link": "en/accommodation#packages",
-        "textOnMouseOver": "vouchers (accommodation + activities)",
+        "textOnMouseOver": "packages (accommodation + activities)",
         "openInNewTab": false
       }
     }

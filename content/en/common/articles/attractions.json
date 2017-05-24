@@ -5,12 +5,12 @@
     "textContent": "Underneath the Orlea mountain you will discover a part of the antic galleries built by romans to extract the gold. Under all over the village there are over 120km of such roman galleries, but their precise length is not known because the gallery network hasn't been fully researched until now. Wherever you are in Rosia Montana you are above of some such galleries, they are being disposed even on multiple floors. The galleries opened to public are at the Mining Museum 'ROSIAMIN' and there are guided tours to visit them, that last ~2hours. <b>They are opened from Monday to Friday from 8:00 to 14:00. If you want to visit them outside these working hours or in weekend please inform us (usually if we call and make an early reservation they will come and open).",
     "images": [
       {
-        "text": "<b>The roman galleries</b> - built in 106 – 272 AD to extract gold (one reason for which the roman emperor Traian has conquered our area 'Dacia').",
+        "text": "The roman galleries (106 – 272 AD) built to extract gold.",
         "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/1.jpg",
         "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/1.jpg"
       },
       {
-        "text": "<b>Stamp mills</b> - the machines used to process the gold.",
+        "text": "Stamp mills - the machines used to process the gold - Mining Museum.",
         "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/2.jpg",
         "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/2.jpg"
       }
@@ -86,7 +86,7 @@
   {
     "id": "romanCatholicChurch",
     "title": "'Sfântul Ladislău' Church",
-    "textContent": "The Roman-Catholic Church 'Sfântul Ladislău', was built on higher ground, that makes the clock tower visible from all over the Historic Center and the bells to be heard from any home. Here you can see the Saint Mary icon (XVIII century) which was donated by Maria Theresa of Austria. The church is surrounded by an old cemetery with funerary monuments (XIX century) that belonged to peoples of different faiths and nations, reflecting the area's multicultural past.",
+    "textContent": "The Roman-Catholic Church 'Sfântul Ladislău', was built on higher ground, that makes the clock tower visible from all over the Historic Center and the bells to be heard from any home. You can see here the Saint Mary icon (XVIII century) which was donated by Maria Theresa of Austria. The church is surrounded by an old cemetery with funerary monuments (XIX century) that belonged to peoples of different faiths and nations that came here to extract gold, reflecting the area's multicultural past.",
     "images": [
       {
         "text": "<b>The Roman-Catholic Church</b> - The Mass is held on Sunday at 10:00 in romanian and hungarian language. At the end of the mass the pipe organ is played.",
@@ -229,7 +229,7 @@
   {
     "id": "carnicSfinx",
     "title": "Sfinxul Cârnic",
-    "textContent": "The road will take you through a fir forest where you can find mushrooms, raspberries, blackberries and wild strawberries. When you will reach the Sphinx, you're at one of the highest points in Roșia Montană. Ahead you can see the Historic Center and behind the Cetate open pit. It's called 'Cetate’ (Fortress) because here was indeed a fortress carved into the mountains by Romans, but during communism period it was decided that it should be destroyed and open an mining area here.",
+    "textContent": "The Sphinx is one of the highest points in Roșia Montană. Ahead you can see the Historic Center and behind the Cetate open pit. It's called 'Cetate’ (Fortress) because here was indeed a fortress carved into the mountains by Romans, but during communism period it was decided that it should be destroyed and open an mining area here.",
     "seeAlso": [
       {
         "text": "More details and pictures with the old fortress here (RO)...",
@@ -240,12 +240,12 @@
     ],
     "images": [
       {
-        "text": "<b>Sfinxul Cârnic</b> - The cross on the Sphinx was put by the miners to be protected when they searched for gold in the Carnic galleries.",
+        "text": "The cross on the Sphinx was put by the miners to be protected when they searched for gold in the Carnic galleries.",
         "thumbnailUrl": "img/trails/attractions/carnic/sphinx/thumbnail/1.jpg",
         "fullSizeUrl": "img/trails/attractions/carnic/sphinx/fullSize/1.jpg"
       },
       {
-        "text": "<b>Overlooking - 'Cetate' open pit</b> - That what remains after an open pit mining. Take a 360 degrees spin around and imagine that if a new gold exploitation would be open here(as the one proposed in 2014), the whole area would look like that. ",
+        "text": "From the Sphinx you can see the 'Cetate' open pit - that what remains after an open pit mining. Take a 360 degrees spin around and imagine that if a new gold exploitation would be open here(as the one proposed in 2014), the whole area would look like that. ",
         "thumbnailUrl": "img/trails/attractions/carnic/sphinx/thumbnail/2.jpg",
         "fullSizeUrl": "img/trails/attractions/carnic/sphinx/fullSize/2.jpg"
       }
@@ -254,11 +254,10 @@
   {
     "id": "ravenStone",
     "title": "Piatra Corbului",
-    "textContent": "From the Sphinx return on the mountaintop (the way you came on), till the end of the trail, at 'Piatra Corbului' (Raven Stone) -  a natural protected reservation. The Galleries which can be seen around here are one of the oldest from Rosia Montana (~5500 years) and they were made by using only the water and fire by the agathyrsi peoples (they made a huge fire under the rocks and then water was poured, so the rocks split on the gold vein).",
+    "textContent": "The Raven Ston or 'Piatra Corbului' is a natural protected reservation. The Galleries which can be seen around here are one of the oldest from Rosia Montana, made by using only water and fire by the agathyrsi peoples.",
     "images": [
       {
-        "text": "<b>The Raven stone</b> - the name comes from its raven’s head shape",
-        "text": "Piatra Corbului - has the shape of a raven head and in the galleries from inside are raven nests. Here are one of the oldest galleries (~2000 years old), made with fire and water by Agathyrsi.",
+        "text": "Piatra Corbului - the name comes from its shape of a raven head.",
         "thumbnailUrl": "img/trails/attractions/carnic/ravenStone/thumbnail/1.jpg",
         "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/1.jpg"
       },

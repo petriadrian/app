@@ -54,7 +54,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Ne aflăm în Roșia Montană, zonă cu peisaje impresionante datorită munților, văilor și lacurilor ce o înconjoară, dar și cu o bogata încărcătură istorică și culturală datorată clădirilor de patrimoniu și a <b>unuia dintre cele mai extinse și importante complexe de mine aurifere subterane din lume</b>, construite de diverse civilizații venite aici încă din antichitate pentru a extrage aur. Descoperiți toate acestea prin trasele de drumeție sau ciclism de mai jos. Fiecare traseu conține imagini, descriere și <b>hărți online</b> (pot fi accesate de pe orice smartphone în timpul drumeției). Distanța indicată reprezintă lungimea totală a traseului (dus-întors) de la Casa Petri. <br> Pictogramele de la fiecare traseu semnifică: <i class='fa fa-lg fa-blind'></i> - traseu de <b>drumeție</b> | <i class='fa fa-lg fa-bicycle'></i> - traseu de <b>bicicletă</b> | <i class='fa fa-lg fa-car'></i> - se poate ajunge la destinație și cu <b>mașina</b>"
+          "textContent": "Ne aflăm în Roșia Montană, zonă cu peisaje deosebite datorită munților, văilor și lacurilor ce o înconjoară, dar și cu o bogata încărcătură istorică și culturală datorată clădirilor de patrimoniu și a <b>unuia dintre cele mai extinse complexe de mine aurifere subterane din lume</b>, construite de diverse civilizații venite aici încă din antichitate pentru a extrage aur. Pentru a o descoperi vă propunem câteva trasee spre atracții locale sau din împrejurimi (conțin imagini, descriere și hărți online cu pornire de la casa noastră). Legendă: <i class='fa fa-lg fa-blind'></i> - traseu de <b>drumeție</b> | <i class='fa fa-lg fa-bicycle'></i> - traseu de <b>bicicletă</b> | <i class='fa fa-lg fa-car'></i> - se poate ajunge la destinație și cu <b>mașina</b>"
         }
       ]
     },
@@ -63,7 +63,7 @@
       "specificArticles": [
         {
           "title": "Trasee locale",
-          "textContent": "Aceste trasee conțin principalele atracții din Roșia Montană."
+          "textContent": "Aceste trasee conțin principalele atracții din zona noastră, Roșia Montană. Le recomandăm pentru <b>drumeție</b> sau <b>ciclism</b>."
         }
       ]
     },
@@ -80,16 +80,16 @@
           "page": "ro/trails/carnic"
         },
         {
-          "page": "ro/trails/letySulei"
-        },
-        {
-          "page": "ro/trails/tarina"
-        },
-        {
           "page": "ro/trails/fourLakes"
         },
         {
           "page": "ro/trails/vartop"
+        },
+        {
+          "page": "ro/trails/detunata"
+        },
+        {
+          "page": "ro/trails/corna"
         }
       ]
     },
@@ -98,7 +98,7 @@
       "specificArticles": [
         {
           "title": "Împrejurimi",
-          "textContent": "Aceste trasee conțin atracțiile din apropierea Roșiei Montane."
+          "textContent": "Aceste trasee conțin atracțiile din apropierea Roșiei Montane. Le recomandăm pentru <b>ciclism</b> sau puteți ajunge la destinații și cu <b>mașina</b>."
         }
       ]
     },
@@ -106,13 +106,7 @@
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/trails/detunata"
-        },
-        {
           "page": "ro/trails/geamana"
-        },
-        {
-          "page": "ro/trails/corna"
         },
         {
           "page": "ro/trails/vulcan"
@@ -122,6 +116,9 @@
         },
         {
           "page": "ro/trails/scarisoara"
+        },
+        {
+          "page": "ro/events/steamTrain"
         },
         {
           "page": "ro/trails/zlatnaPool"
@@ -195,9 +192,6 @@
         },
         {
           "page": "ro/packages/weekend"
-        },
-        {
-          "page": "ro/events/steamTrain"
         }
       ]
     }

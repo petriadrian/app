@@ -23,32 +23,15 @@
   "sections": [
     {
       "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Trail map",
+      "text": " ",
       "sectionId": "details",
-      "addLinkInPageHeadline": true
+      "addLinkInPageHeadline": false
     },
     {
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "An easy trail through the Historic Center of the oldest documented settlement from Romania - Rosia Montana(131 AD) that has many heritage buildings. Some of them were abandoned or bought by the canadian mining company, but they had various roles in the community life(the goldsmith houses, workshops, old schools and churches), that will make you fell like traveling back in time. Start the trail from Casa Petri, which is also a heritage building and take it slow on the village streets to reach each objective. The trail is on paved roads and we recommend to make it by foot.",
-          "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJGUVwDuHMTkcRESfpNiecGZQ|place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJe_e0kuDMTkcR-fKFm93NuXI|place_id:ChIJOfC97ODMTkcRecLGM1rVOA0|place_id:ChIJH-Ab5-DMTkcRbU8_Bz1R63o|place_id:ChIJvc6yG-TMTkcRwUw0D4ybV38|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJYfZ-m-DMTkcRiccAioKsyvo|place_id:ChIJr6tpbuDMTkcR27lOgSAucgs|place_id:ChIJOd6ybODMTkcRp27SJIXkarw|place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw",
-            "list": [
-              {
-                "textOnMouseOver": "length",
-                "text": "<i class='fa fa-arrows-h'></i> ~5km"
-              },
-              {
-                "textOnMouseOver": "walking duration",
-                "text": "<i class='fa fa-blind'></i> ~3h"
-              },
-              {
-                "textOnMouseOver": "difficulty",
-                "text": "<i class='fa fa-line-chart'></i> easy"
-              }
-            ]
-          }
+          "textContent": "An easy trail in the Historic Center of the oldest documented settlement from Romania - Rosia Montana (131 AD), along heritage buildings that had different roles in the community life (the goldsmith houses, workshops, old schools and churches), some are abandoned or were bought by the canadian mining company. The trail starts at Casa Petri (which is also a heritage building) and continues along the village streets on a paved road that can be easily made by foot."
         }
       ]
     },
@@ -81,19 +64,6 @@
             },
             {
               "id": "berg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "articles",
-      "commonArticles": [
-        {
-          "category": "ourServices",
-          "ids": [
-            {
-              "id": "guideBikeOnTrail"
             }
           ]
         }
@@ -175,6 +145,51 @@
               "text": "Platoul Cârnic",
               "thumbnailUrl": "img/trails/attractions/carnic/carnicPlateau/thumbnail/3.jpg",
               "fullSizeUrl": "img/trails/attractions/carnic/carnicPlateau/fullSize/3.jpg"
+            },
+            {
+              "text": "The historic center",
+              "thumbnailUrl": "img/trails/attractions/churches/romanCatholicChurch/thumbnail/turnul.jpg",
+              "fullSizeUrl": "img/trails/attractions/churches/romanCatholicChurch/fullSize/turnul.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Map",
+      "sectionId": "map",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJGUVwDuHMTkcRESfpNiecGZQ|place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJe_e0kuDMTkcR-fKFm93NuXI|place_id:ChIJOfC97ODMTkcRecLGM1rVOA0|place_id:ChIJH-Ab5-DMTkcRbU8_Bz1R63o|place_id:ChIJvc6yG-TMTkcRwUw0D4ybV38|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJYfZ-m-DMTkcRiccAioKsyvo|place_id:ChIJr6tpbuDMTkcR27lOgSAucgs|place_id:ChIJOd6ybODMTkcRp27SJIXkarw|place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw",
+            "list": [
+              {
+                "textOnMouseOver": "length",
+                "text": "<i class='fa fa-arrows-h'></i> ~5km"
+              },
+              {
+                "textOnMouseOver": "walking duration",
+                "text": "<i class='fa fa-blind'></i> ~3h"
+              },
+              {
+                "textOnMouseOver": "difficulty",
+                "text": "<i class='fa fa-line-chart'></i> easy"
+              }
+            ]
+          }
+        }
+      ],
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "guideBikeOnTrail"
             }
           ]
         }
@@ -192,7 +207,7 @@
     {
       "type": "linkToOtherPages",
       "banner": {
-        "page": "en/trails/carnic"
+        "page": "en/trails/romanGalleries"
       }
     },
     {

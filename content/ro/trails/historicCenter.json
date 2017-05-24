@@ -23,32 +23,15 @@
   "sections": [
     {
       "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Traseu",
+      "text": "",
       "sectionId": "details",
-      "addLinkInPageHeadline": true
+      "addLinkInPageHeadline": false
     },
     {
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Un traseu ușor prin Centrul Istoric al celei mai vechi localități atestate documentar din Romania (anul 131), printre clădiri vechi, de patrimoniu ce aveau funcționalități diverse (casele aurarilor, ateliere de tesut sau diverse institutii). Multe dintre ele sunt părăsite acum, dar farmecul lor sigur vă va duce cu gândul la vremurile prospere ale localității. Plecăm de la Casa Petri, care este și ea o casă de patrimoniu și pornim încet pe ulițele satului pentru a vedea fiecare obiectiv. Traseul se face pe drumuri pavate și recomandăm să îl faceți pe jos.",
-          "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJGUVwDuHMTkcRESfpNiecGZQ|place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJe_e0kuDMTkcR-fKFm93NuXI|place_id:ChIJOfC97ODMTkcRecLGM1rVOA0|place_id:ChIJH-Ab5-DMTkcRbU8_Bz1R63o|place_id:ChIJvc6yG-TMTkcRwUw0D4ybV38|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJYfZ-m-DMTkcRiccAioKsyvo|place_id:ChIJr6tpbuDMTkcR27lOgSAucgs|place_id:ChIJOd6ybODMTkcRp27SJIXkarw|place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw",
-            "list": [
-              {
-                "textOnMouseOver": "lungime",
-                "text": "<i class='fa fa-arrows-h'></i> ~5km"
-              },
-              {
-                "textOnMouseOver": "durata pe jos",
-                "text": "<i class='fa fa-blind'></i> ~3h"
-              },
-              {
-                "textOnMouseOver": "dificultate",
-                "text": "<i class='fa fa-line-chart'></i> usor"
-              }
-            ]
-          }
+          "textContent": "Un traseu ușor prin Centrul Istoric al celei mai vechi localități atestate documentar din Romania (anul 131), printre clădiri vechi, de patrimoniu ce aveau funcționalități diverse (casele aurarilor, ateliere de tesut sau diverse institutii). Multe dintre ele sunt părăsite acum, dar farmecul lor sigur vă va duce cu gândul la vremurile prospere ale localității. Plecăm de la Casa Petri, care este și ea o casă de patrimoniu și pornim încet pe ulițele satului pentru a vedea fiecare obiectiv. Traseul se face pe drumuri pavate și recomandăm să îl faceți pe jos."
         }
       ]
     },
@@ -81,19 +64,6 @@
             },
             {
               "id": "berg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "articles",
-      "commonArticles": [
-        {
-          "category": "ourServices",
-          "ids": [
-            {
-              "id": "guideBikeOnTrail"
             }
           ]
         }
@@ -175,6 +145,54 @@
               "text": "Platoul Cârnic",
               "thumbnailUrl": "img/trails/attractions/carnic/carnicPlateau/thumbnail/3.jpg",
               "fullSizeUrl": "img/trails/attractions/carnic/carnicPlateau/fullSize/3.jpg"
+            },
+            {
+              "text": "Centrul istoric",
+              "thumbnailUrl": "img/trails/attractions/churches/romanCatholicChurch/thumbnail/turnul.jpg",
+              "fullSizeUrl": "img/trails/attractions/churches/romanCatholicChurch/fullSize/turnul.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Hartă",
+      "sectionId": "map",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJGUVwDuHMTkcRESfpNiecGZQ|place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJe_e0kuDMTkcR-fKFm93NuXI|place_id:ChIJOfC97ODMTkcRecLGM1rVOA0|place_id:ChIJH-Ab5-DMTkcRbU8_Bz1R63o|place_id:ChIJvc6yG-TMTkcRwUw0D4ybV38|place_id:ChIJx7yc5t3MTkcRNltvBWKr5_c|place_id:ChIJYfZ-m-DMTkcRiccAioKsyvo|place_id:ChIJr6tpbuDMTkcR27lOgSAucgs|place_id:ChIJOd6ybODMTkcRp27SJIXkarw|place_id:ChIJD0h1AuDMTkcROs6AHvyqOpw",
+            "list": [
+              {
+                "textOnMouseOver": "lungime",
+                "text": "<i class='fa fa-arrows-h'></i> ~5km"
+              },
+              {
+                "textOnMouseOver": "durata pe jos",
+                "text": "<i class='fa fa-blind'></i> ~3h"
+              },
+              {
+                "textOnMouseOver": "dificultate",
+                "text": "<i class='fa fa-line-chart'></i> usor"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "guideBikeOnTrail"
             }
           ]
         }
@@ -192,7 +210,7 @@
     {
       "type": "linkToOtherPages",
       "banner": {
-        "page": "ro/trails/carnic"
+        "page": "ro/trails/romanGalleries"
       }
     },
     {

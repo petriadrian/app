@@ -1,0 +1,16 @@
+{
+  "title": "Activități la fermă",
+  "textContent": "<b><i class='fa fa-clock-o'></i> 18:00 - 21:00 - ziua 4</b> <br>Fermele de pe la noi sunt tradiționale: vacile pasc pe câmp iar seara oamenii merg să le adune la adăpat și apoi la grajd, mulsul vacilor se face manual iar fânul se strânge cu furca, grebla și căruța. În funcție de perioada în care veniți puteți participa sau urmări aceste activități locale.",
+  "images": [
+    {
+      "text": "Adăpatul vacilor.",
+      "thumbnailUrl": "img/packages/common/article/thumbnail/vaci.jpg",
+      "fullSizeUrl": "img/packages/common/article/fullSize/vaci.jpg"
+    },
+    {
+      "text": "Mulsul vacilor.",
+      "thumbnailUrl": "img/events/hayDays/article/thumbnail/8.jpg",
+      "fullSizeUrl": "img/events/hayDays/article/fullSize/8.jpg"
+    }
+  ]
+}

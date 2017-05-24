@@ -2,7 +2,8 @@
   "presentation": {
     "title": "Hay making",
     "headline": "Traditional hay making with farmers from Transylvania",
-    "description": "<b>| Jul-Sept |</b> Connect to nature and help to preserve the valuable mountain hay meadows, wildlife and traditions at the hay making with the local farmers.",
+    "descriptionTitle": "Jul - Sept",
+    "description": "Help to preserve the hay meadows and connect to nature and the life of local farmers. Participate to traditional hay making",
     "fullWidthImg": "img/events/hayDays/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/events/hayDays/presentation/smallBoxImg.jpg"
   },
@@ -74,13 +75,13 @@
             },
             {
               "text": "In one of the days we will go in a guided tour of the village to tell you more about the history and the local habits.",
-              "thumbnailUrl": "img/events/common/article/thumbnail/2.jpg",
-              "fullSizeUrl": "img/events/common/article/fullSize/2.jpg"
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
             },
             {
               "text": "The accommodation will be in private rooms with bathroom and kitchen access.",
-              "thumbnailUrl": "img/events/common/article/thumbnail/1.jpg",
-              "fullSizeUrl": "img/events/common/article/fullSize/1.jpg"
+              "thumbnailUrl": "img/accommodation/article/rooms/common/thumbnail/rooms-library-kitchen-bath.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/common/fullSize/rooms-library-kitchen-bath.jpg"
             }
           ]
         }

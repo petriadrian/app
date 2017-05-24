@@ -39,7 +39,7 @@
       "text": "<i class='fa fa-lg fa-gift'></i> Pachete",
       "url": {
         "link": "ro/accommodation#packages",
-        "textOnMouseOver": "vouchere (cazare+activități)",
+        "textOnMouseOver": "pachete (cazare+activități)",
         "openInNewTab": false
       }
     }

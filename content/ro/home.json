@@ -187,19 +187,7 @@
         },
         {
           "page": "ro/shortcut/guides"
-        }
-      ]
-    },
-    {
-      "type": "title",
-      "text": "Vezi și...",
-      "addLinkInPageHeadline": false,
-      "sectionId": "seeAlso"
-    },
-    {
-      "type": "linkToOtherPages",
-      "text": "",
-      "detailBoxes": [
+        },
         {
           "page": "ro/shortcut/packages"
         },
@@ -232,25 +220,22 @@
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
+          "page": "ro/packages/discover"
+        },
+        {
+          "page": "ro/packages/weekend"
+        },
+        {
           "page": "ro/events/hayDays"
         },
         {
           "page": "ro/events/marathon"
         },
         {
-          "page": "ro/events/monumentsRestorations"
-        },
-        {
           "page": "ro/events/steamTrain"
         },
         {
           "page": "ro/trails/daffodilMeadow"
-        },
-        {
-          "page": "ro/events/firstMai"
-        },
-        {
-          "page": "ro/events/souvenirShop"
         }
       ]
     }

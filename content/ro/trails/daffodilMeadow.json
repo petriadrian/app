@@ -2,8 +2,8 @@
   "presentation": {
     "title": "Poiana cu narcise",
     "headline": "Traseul spre Poiana cu Narcise",
-    "descriptionTitle": "<i class='fa fa-bicycle'></i> <i class='fa fa-car'></i> <b>~39km</b>",
-    "description": "<b>| Mai |</b> O pătura albă de narcise și un miros plăcut pun stapanire pe Poiana Negrileasa.",
+    "descriptionTitle": "<i class='fa fa-bicycle'></i> <i class='fa fa-car'></i> ~39km",
+    "description": "În <b>Mai</b>, o pătura albă de narcise și un miros plăcut pun stapanire pe Poiana Negrileasa. Vezi aici imagini, cum ajungi și alte detalii...",
     "fullWidthImg": "img/trails/daffodilMeadow/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/trails/daffodilMeadow/presentation/smallBoxImg.jpg"
   },
@@ -124,7 +124,7 @@
     {
       "type": "linkToOtherPages",
       "banner": {
-        "page": "ro/trails/detunata"
+        "page": "ro/trails/scarisoara"
       }
     },
     {

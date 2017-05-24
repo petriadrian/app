@@ -320,14 +320,14 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "We want to have everything set for your arrival so please make an <b>early</b> reservation. For larger groups or longer periods we can offer discounts."
+          "textContent": "We want to have everything set for your arrival so please make an <b>early</b> reservation. The <b>price</b> of the rooms can be found at 'Choose room or camping' section."
         }
       ]
     },
     {
       "type": "form",
       "sendEmailTitle": "reservation",
-      "beforeSubmitText": "The booking will be valid only when a <b>confirmation email</b> will be received!",
+      "beforeSubmitText": "The booking will be valid only when a <b>confirmation email</b> will be received! <br><b>Check-in</b>: 16:00 - 20:00 | <b>Check-out</b> by 11:00",
       "submitButtonText": "Send the booking",
       "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
       "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
@@ -358,7 +358,7 @@
           "name": "room",
           "required": true,
           "iconFortAwesomeClass": "fa fa-bed fa-fw",
-          "placeholder": "Book accommodation - see type and price",
+          "placeholder": "Choose room or camping",
           "allowToDuplicateSettings": {
             "addButtonText": "+ add",
             "removeButtonText": "- remove",
@@ -369,16 +369,16 @@
             {
               "selectOptions": [
                 {
-                  "text": "1 person room - 16€/night"
+                  "text": "1 person room - 19€/night"
                 },
                 {
-                  "text": "2 persons room - 22€/night"
+                  "text": "2 persons room - 24€/night"
                 },
                 {
-                  "text": "3 persons room - 35€/night"
+                  "text": "3 persons room - 33€/night"
                 },
                 {
-                  "text": "4 persons room - 40€/night"
+                  "text": "4 persons room - 38€/night"
                 },
                 {
                   "text": "2 persons camping - 10€/night"
@@ -424,7 +424,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-gift'></i> Packages and vouchers",
+      "text": "<i class='fa fa-gift'></i> Packages",
       "sectionId": "packages",
       "addLinkInPageHeadline": false
     },
@@ -433,7 +433,7 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "We know our area and what can you do and visit here, that's why we prepared some packages that contains accommodation plus different activities or guided trails. By booking a package you will receive a voucher that you will have to show when you will arrive. The vouchers can be also offered as gifts to other persons."
+          "textContent": "We know our area and what can you do and visit here, that's why we prepared some packages that contains accommodation plus different activities or guided trails."
         }
       ]
     },
@@ -441,7 +441,10 @@
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/packages/weekend"
+          "page": "en/packages/discover"
+        },
+        {
+          "page": "en/packages/weekend"
         },
         {
           "page": "en/events/hayDays"

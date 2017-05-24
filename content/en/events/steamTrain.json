@@ -2,7 +2,8 @@
   "presentation": {
     "title": "Steam train",
     "headline": "Discover our area by Steam Train",
-    "description": "<b>| June-Sept |</b> Near Rosia Montana, on a narrow railway, runs the Steam Train. It was used by workers to come at the mining plant 'Gura Rosia' and now for tourism.",
+    "descriptionTitle": "Jun-Sept | <i class='fa fa-car'></i> <b>~10min</b>",
+    "description": "The Steam Train runs on a narrow railway. It was used by miners, and now it's open for tourists.",
     "fullWidthImg": "img/events/steamTrain/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/events/steamTrain/presentation/smallBoxImg.jpg"
   },
@@ -13,7 +14,7 @@
   },
   "metaData": {
     "title": "The Steam Train from Apuseni Mountains",
-    "description": "Near Rosia Montana (8km away), on a narrow railway, runs the Steam Train (from Abrud to Câmpeni). It was used by workers to come at the mining plant 'Gura Rosia' and now for tourism. See more attractions in Rosia Montana. Book rooms, bikes, guided tours, camping.",
+    "description": "The Steam Train runs on a narrow railway near us. It was used by workers to come at the mining plant 'Gura Rosia' and now for tourism. See more attractions in Rosia Montana. Book rooms, bikes, guided tours, camping.",
     "displayOnShareImg": "img/events/steamTrain/presentation/displayOnShareImg.jpg"
   },
   "config": {

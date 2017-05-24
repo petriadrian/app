@@ -14,7 +14,7 @@
 
             <div class="caption" title="{{otherPageContent.url.textOnMouseOver}}">
                 <h3 ng-bind-html="otherPageContent.presentation.title | trustHtml"></h3>
-                <p ng-if="otherPageContent.presentation.descriptionTitle"
+                <p ng-if="otherPageContent.presentation.descriptionTitle" class="bold"
                    ng-bind-html="otherPageContent.presentation.descriptionTitle | trustHtml"></p>
                 <p ng-bind-html="otherPageContent.presentation.description | trustHtml"></p>
             </div>

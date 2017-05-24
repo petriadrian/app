@@ -1,9 +1,9 @@
 {
   "presentation": {
-    "title": "Cârnic",
-    "headline": "The golden mountain - Cârnic trail",
-    "descriptionTitle": "<i class='fa fa-blind'></i> <b>~8km</b>",
-    "description": "Climb by the Brazi and Anghel lakes to the top of the Cârnic Mountain at Piatra Corbului and Sfinx, then return by the Cetate Open Pit.",
+    "title": "Nature Monuments",
+    "headline": "Nature Monuments Trail",
+    "descriptionTitle": "<i class='fa fa-blind'></i> <b>~3h</b>",
+    "description": "Hiking to the Cârnic massif (the golden mountain of Rosia Montana), the Sphinx, Piatra Corbului and Cârnic galleries.",
     "fullWidthImg": "img/trails/carnic/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/trails/carnic/presentation/smallBoxImg.jpg"
   },
@@ -13,8 +13,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "The golden mountain - Cârnic trail",
-    "description": "Climb by the Brazi and Anghel lakes to the top of the Cârnic Mountain at Piatra Corbului and Sfinx, then return by the Cetate Open Pit. See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
+    "title": "Nature Monuments Trail",
+    "description": "Hiking to the Cârnic massif (the golden mountain of Rosia Montana), the Sphinx, Piatra Corbului and Cârnic galleries. See here the trail and discover more hiking or bike trails from Rosia Montana. Book accommodation, bikes, guided tours, camping.",
     "displayOnShareImg": "img/trails/carnic/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -22,47 +22,10 @@
   },
   "sections": [
     {
-      "type": "title",
-      "text": "<i class='fa fa-map-signs'></i> Trail map",
-      "sectionId": "details",
-      "addLinkInPageHeadline": true
-    },
-    {
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "From Casa Petri yard you will notice the view to the 'Cârnic' mountain. It’s a mountain of gold, from all points of views, as it hides many tons of gold, but also the unique Roman galleries (some Antiques). On the top of the mountain you will notice a horse-shaped rock, with a cross on top of it. This is the Sphinx or 'Căluțul', our main objective for this trail. Head towards 'Brazi' Lake and 'Platoul Cârnic' (Cârnic Plateau) and then climb through the pine forest to the top of the mountain at the Raven Stone and Sphinx. Return back to the historic center by the Piatra Despicată and Cetate open pit. The Raven Stone and Sphinx can be visited only by foot. The trail is on unpaved roads and is perfect for hiking or mountain bikes.",
-          "seeAlso": [
-            {
-              "text": "<br><i class='fa fa-download'></i> download <b>GPS data</b>",
-              "textOnMouseOver": "Click here...",
-              "link": "http://www.gpsies.com/map.do?fileId=esbtvmiyuytvzprs",
-              "openInNewTab": true
-            },
-            {
-              "text": "<br><i class='fa fa-line-chart'></i> open <b>altitude profile</b>",
-              "textOnMouseOver": "Click here...",
-              "link": "http://www.gpsies.com/map.do?fileId=esbtvmiyuytvzprs",
-              "openInNewTab": true
-            }
-          ],
-          "iframe": {
-            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJgU4d8ODMTkcRepTwBuVajUU|place_id:ChIJhQHoGebMTkcRLANMbf7_4TA|place_id:ChIJnXWJjujMTkcRql7gwjCkj6Q|place_id:ChIJvc6yG-TMTkcRwUw0D4ybV38|place_id:ChIJ3xPsYeXMTkcR-i2Sq02cmlM|place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk|place_id:ChIJLeeOVuXMTkcRu5naWkNpv9k|place_id:ChIJAavGOvvMTkcRq189TY8w7Us|place_id:ChIJQ-Yfu_zMTkcRytPpBV-ZsFM|place_id:ChIJIZFsev3MTkcRgPGXF8Plk4Y",
-            "list": [
-              {
-                "textOnMouseOver": "length",
-                "text": "<i class='fa fa-arrows-h'></i> ~8km"
-              },
-              {
-                "textOnMouseOver": "walking duration",
-                "text": "<i class='fa fa-blind'></i> ~3h"
-              },
-              {
-                "textOnMouseOver": "duration by bike",
-                "text": "<i class='fa fa-bicycle'></i> ~2h"
-              }
-            ]
-          }
+          "textContent": "<br><b>Hiking trail of about 3 hours and 10km long.</b><br> From Casa Petri yard you will notice the view to the 'Cârnic' massif - a mountain that has been massively exploited even since antiquity to extract gold. From the historic center go to the 'Cetate' open pit and then to the Cârnic galleries. Along a pine forest hike to the protected area 'Piatra Corbului' and Sphinx. The next destination is Lety and Șulei massif and on your way to the historic center will pass by Tăul Mare (lake) and Văidoaia Gallery."
         }
       ]
     },
@@ -79,32 +42,19 @@
           "category": "attractions",
           "ids": [
             {
-              "id": "sicilianStreet"
-            },
-            {
-              "id": "braziLake"
-            },
-            {
-              "id": "carnicPlateau"
+              "id": "ravenStone"
             },
             {
               "id": "carnicSfinx"
             },
             {
-              "id": "ravenStone"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "articles",
-      "commonArticles": [
-        {
-          "category": "ourServices",
-          "ids": [
+              "id": "letySulei"
+            },
             {
-              "id": "guideBikeOnTrail"
+              "id": "bigLake"
+            },
+            {
+              "id": "vaidoaiaGalleries"
             }
           ]
         }
@@ -163,14 +113,46 @@
               "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/winter.jpg"
             },
             {
-              "text": "Platoul Cârnic",
-              "thumbnailUrl": "img/trails/attractions/carnic/carnicPlateau/thumbnail/5.jpg",
-              "fullSizeUrl": "img/trails/attractions/carnic/carnicPlateau/fullSize/5.jpg"
+              "text": "Lety and Șulei.",
+              "thumbnailUrl": "img/trails/attractions/letySulei/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/letySulei/fullSize/4.jpg"
             },
             {
-              "text": "The best spot to see the sunset - Platoul Cârnic.",
-              "thumbnailUrl": "img/trails/attractions/carnic/carnicPlateau/thumbnail/4.jpg",
-              "fullSizeUrl": "img/trails/attractions/carnic/carnicPlateau/fullSize/4.jpg"
+              "text": "To Văidoaia Galleries. On the left are the walls of the house where 'Nunta de piatră' movie was filmed).",
+              "thumbnailUrl": "img/trails/attractions/vaidoaiaGalleries/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/vaidoaiaGalleries/fullSize/4.jpg"
+            },
+            {
+              "text": "Văidoaia Galleries.",
+              "thumbnailUrl": "img/trails/attractions/vaidoaiaGalleries/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/vaidoaiaGalleries/fullSize/3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Map and markers",
+      "sectionId": "details",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "The trail is not marked yet. It can be seen on the map bellow which it can be accessed from any phone during the trip. We will also give you indications on arriving.",
+          "iframe": {
+            "src": "https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&destination=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyBXjVYPa0dfbDd8B_uKaa8XK2RoMiK1BJc&mode=walking&waypoints=place_id:ChIJQ-Yfu_zMTkcRytPpBV-ZsFM|place_id:ChIJIZFsev3MTkcRgPGXF8Plk4Y|place_id:ChIJAavGOvvMTkcRq189TY8w7Us|place_id:ChIJLeeOVuXMTkcRu5naWkNpv9k|place_id:ChIJ3xPsYeXMTkcR-i2Sq02cmlM|place_id:ChIJgzOt7eTMTkcRz9URrQ9V4yk|place_id:ChIJx0kJ88LMTkcRlbYRRD21As0|place_id:ChIJTQYp_OnMTkcRddyHh_E1Xgs|place_id:ChIJN_7HbtvMTkcRR4t4DYjDseQ|place_id:ChIJeb9NLN7MTkcRNg6SoGpHwIw"
+          }
+        }
+      ],
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "guideBikeOnTrail"
             }
           ]
         }
@@ -188,7 +170,7 @@
     {
       "type": "linkToOtherPages",
       "banner": {
-        "page": "en/trails/romanGalleries"
+        "page": "en/trails/fourLakes"
       }
     },
     {

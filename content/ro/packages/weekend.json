@@ -1,8 +1,9 @@
 {
   "presentation": {
-    "title": "Weekend break",
-    "headline": "Weekend break @ Rosia Montana",
-    "description": "Include rezervarea unei camere de <b>2 persoane pe 2 nopți</b> și un <b>traseu ghidat</b> de 6 ore spre principalele obiective culturale și naturale din Roșia Montană.",
+    "title": "Rosia weekend tour",
+    "headline": "Weekend la Rosia Montana",
+    "descriptionTitle": "Mar - Dec",
+    "description": "Pachetul include 2 nopți de cazare și un traseu ghidat de ~6h spre principalele obiective culturale și naturale din Roșia",
     "fullWidthImg": "img/packages/weekend/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/packages/weekend/presentation/smallBoxImg.jpg"
   },
@@ -12,8 +13,8 @@
     "openInNewTab": false
   },
   "metaData": {
-    "title": "Weekend break - Roșia Montană",
-    "description": "Include rezervarea unei camere de 2 persoane pentru 2 nopți și un traseu ghidat de 6 ore în Roșia Montană într-o perioadă din anul 2017. Voucherul va fi primit pe e-mail în format pdf și poate fi printat pentru a fi oferit cadou. Detalii și rezervări aici...",
+    "title": "Weekend la Roșia Montană",
+    "description": "Pachetul include 2 nopți de cazare și un traseu ghidat de ~6h spre principalele obiective culturale și naturale din Roșia Montană. Detalii și rezervări aici...",
     "displayOnShareImg": "img/packages/weekend/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -22,62 +23,15 @@
   "sections": [
     {
       "type": "title",
-      "text": "<i class='fa fa-info-circle'></i> Detalii",
-      "sectionId": "details",
-      "addLinkInPageHeadline": true
+      "text": " ",
+      "sectionId": "intro",
+      "addLinkInPageHeadline": false
     },
     {
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Voucherul include rezervarea unei camere de <b>2 persoane pentru 2 nopți</b> la Casa Petri (situată în centrul istoric din Roșia Montană) <b>și un traseu ghidat de 6 ore</b> spre principalele obiective naturale și culturale (centrul istoric, clădiri de patrimoniu, lucrări miniere realizate pentru extragerea aurului (galerii, tăuri, cariere) și câteva atracții naturale (vârfuri și puncte panoramice). <b>Seara vom organiza o proiecție de imagini și filme</b> despre Roșia Montană, iar ziua următoare puteți vizita Muzeul Mineritului. Ca idee, vedeți imaginile de mai jos la care au participat și alte grupuri:",
-          "images": [
-            {
-              "text": "Tur ghidat - centrul istoric Roșia Montană.",
-              "thumbnailUrl": "img/packages/weekend/article/thumbnail/1.jpg",
-              "fullSizeUrl": "img/packages/weekend/article/fullSize/1.jpg"
-            },
-            {
-              "text": "Tur ghidat - galeria Văidoaia.",
-              "thumbnailUrl": "img/packages/weekend/article/thumbnail/3.jpg",
-              "fullSizeUrl": "img/packages/weekend/article/fullSize/3.jpg"
-            },
-            {
-              "text": "Vizităm câteva tăuri artificiale (lacuri) și aflăm care era rolul lor.",
-              "thumbnailUrl": "img/trails/attractions/lakes/braziLake/thumbnail/2.jpg",
-              "fullSizeUrl": "img/trails/attractions/lakes/braziLake/fullSize/2.jpg"
-            },
-            {
-              "text": "Popas la punctele de belvedere.",
-              "thumbnailUrl": "img/trails/attractions/carnic/carnicPlateau/thumbnail/3.jpg",
-              "fullSizeUrl": "img/trails/attractions/carnic/carnicPlateau/fullSize/3.jpg"
-            },
-            {
-              "text": "Pe traseu spre Tăul Mare.",
-              "thumbnailUrl": "img/packages/weekend/article/thumbnail/2.jpg",
-              "fullSizeUrl": "img/packages/weekend/article/fullSize/2.jpg"
-            },
-            {
-              "text": "Opțional se poate vizita Muzeul Mineritului unde au loc tururi ghidate a galeriilor romane din adâncul masivului Orlea.",
-              "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/1.jpg",
-              "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/1.jpg"
-            },
-            {
-              "text": "Proiecții de imagini și filme în curtea Casei Petri despre trecutul și protestele din Roșia Montană.",
-              "thumbnailUrl": "img/packages/common/article/thumbnail/movie.jpg",
-              "fullSizeUrl": "img/packages/common/article/fullSize/movie.jpg"
-            },
-            {
-              "text": "Curtea casei are un foișor cu loc pentru făcut grătar și hamace unde vă puteți relaxa sau citi carți din biblioteca noastră.",
-              "thumbnailUrl": "img/packages/common/article/thumbnail/gradina.jpg",
-              "fullSizeUrl": "img/packages/common/article/fullSize/gradina.jpg"
-            },
-            {
-              "text": "Cazarea se face în camere de 2 persoane cu bai private și acces la bucătărie.",
-              "thumbnailUrl": "img/packages/common/article/thumbnail/accommodation.jpg",
-              "fullSizeUrl": "img/packages/common/article/fullSize/accommodation.jpg"
-            }
-          ]
+          "textContent": "Roșia Montană este cea mai veche localitate din România, deține un peisaj cultural minier unic, iar locația ei în munții Transilvaniei o face un loc ideal pentru drumeții montane sau ciclism. Pachetul <b>include 2 nopți de cazare și un traseu ghidat de ~6h spre principalele obiective culturale și naturale</b>."
         }
       ]
     },
@@ -91,31 +45,189 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Un posibil weekend în Roșia Montană, folosind acest voucher ar putea arăta așa:"
+          "title": "Ziua 1",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 16:00 - 20:00 - check in</b> și cazarea."
+        },
+        {
+          "title": "Ziua 2",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 09:00 - 15:00 - Traseu ghidat al principalelor obiective culturale și naturale</b>. Vom incepe cu centrul istoric, unde vizităm diverse clădiri de patrimoniu (școli cu predare în diverse limbi, biserici de culte diferite sau casele aurarilor) construite de diverse nații venite aici de-a lungul timpului pentru a căuta aur. Continuăm cu masivul Cârnic unde vizităm câteva obiective naturale și miniere (lacuri, zone protejate, exploatari și galerii de aur).",
+          "images": [
+            {
+              "text": "Tur ghidat - centrul istoric Roșia Montană.",
+              "thumbnailUrl": "img/packages/weekend/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/packages/weekend/article/fullSize/1.jpg"
+            },
+            {
+              "text": "Bisericile din centrul istoric.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/4.jpg"
+            },
+            {
+              "text": "Tur ghidat - galeria Văidoaia.",
+              "thumbnailUrl": "img/trails/attractions/vaidoaiaGalleries/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/vaidoaiaGalleries/fullSize/3.jpg"
+            },
+            {
+              "text": "Lângă centrul istoric sunt câteva tăuri. Vom afla acolo rolul lor în producția aurului.",
+              "thumbnailUrl": "img/trails/attractions/lakes/braziLake/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/braziLake/fullSize/2.jpg"
+            },
+            {
+              "text": "Popas la punctele de belvedere.",
+              "thumbnailUrl": "img/trails/attractions/panoramicBench/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/panoramicBench/fullSize/2.jpg"
+            },
+            {
+              "text": "Pe traseu.",
+              "thumbnailUrl": "img/packages/weekend/article/thumbnail/2.jpg",
+              "fullSizeUrl": "img/packages/weekend/article/fullSize/2.jpg"
+            },
+            {
+              "text": "Vizită la Galeriile Romane Cârnic",
+              "thumbnailUrl": "img/trails/attractions/carnic/galleries/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/galleries/fullSize/1.jpg"
+            },
+            {
+              "text": "Piatra Corbului - în interior sunt cele mai vechi galerii din zonă, realizate printr-o tehnică specială.",
+              "thumbnailUrl": "img/trails/attractions/carnic/ravenStone/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/1.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Ziua 3",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 09:00 - 11:00</b> - dacă mai doriți și aveți energie, în această dimineață puteți vizita  Muzeul Mineritului din Roșia Montană aflat la ~10min de noi. Aici se organizează tururi ghidate ale galeriilor romane de 2 ore, cost intrare: 10lei.",
+          "images": [
+            {
+              "text": "Galeriile Romane construite în 106 – 272 d. Hr. pentru extracția aurului, de la Muzeul Mineritului.",
+              "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/1.jpg"
+            },
+            {
+              "text": "Obiecte și instalații folosite în extracția și prelucrarea aurului de la Muzeul Mineritului.",
+              "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/steampuri.jpg",
+              "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/steampuri.jpg"
+            }
+          ]
+        },
+        {
+          "title": ".",
+          "textContent": "Aici se încheie excursia la Roșia Montană :( <br><b>Check-out</b> se poate face până la ora <b>12:00</b>, dar nu înainte de a face o <b>fotografie</b> împreună și de a ne spune <b>părerea</b> voastră și ce putem îmunătăți la acest pachet. Citiți opiniile celor care ne-au trecut pragul pe pagina de ",
+          "seeAlso": [
+            {
+              "text": "reviews",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/review",
+              "openInNewTab": false
+            }
+          ],
+          "images": [
+            {
+              "text": "Împreună cu un grup din România.",
+              "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/alexandra-postelnicu.jpg",
+              "fullSizeUrl": "img/reviews/article/reviewer/fullSize/alexandra-postelnicu.jpg"
+            },
+            {
+              "text": "Împreună cu un grup din Suedia.",
+              "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/simona-sweden.jpg",
+              "fullSizeUrl": "img/reviews/article/reviewer/fullSize/simona-sweden.jpg"
+            },
+            {
+              "text": "Împreună cu un grup din India și Taiwan.",
+              "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/11.jpg",
+              "fullSizeUrl": "img/reviews/article/reviewer/fullSize/11.jpg"
+            }
+          ]
         }
       ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-info-circle'></i> Info",
+      "sectionId": "info",
+      "addLinkInPageHeadline": true
     },
     {
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>Vineri</b> <br>Sosirea, ne cunoaștem"
+          "textContent": "Mai jos sunt informații despre pachet și alte detalii care pot fi de folos. Pentru orice alte întrebări contactați-ne prin email sau telefon (le găsiți la finalul acestei pagini)."
         }
       ]
     },
     {
+      "type": "title",
+      "text": "<i class='fa fa-bed'></i> Cazare",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
       "type": "articles",
-      "specificArticles": [
+      "commonArticles": [
         {
-          "textContent": "<b>Sâmbătă</b> <br><b>Dimineața</b> - tur ghidat al principalelor obiective culturale și naturale <br><b>Seara</b> - proiecții de imagini și filme despre trecutul Roșiei Montane"
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "accommodation"
+            }
+          ]
         }
       ]
     },
     {
+      "type": "title",
+      "text": "<i class='fa fa-cutlery'></i> Mâncare",
+      "sectionId": "food",
+      "addLinkInPageHeadline": false
+    },
+    {
       "type": "articles",
-      "specificArticles": [
+      "commonArticles": [
         {
-          "textContent": "<b>Duminică</b> <br>Vizita la Muzeul Mineritului, unde se organizează tururi ghidate a galeriilor romane (cost intrare: 10lei)"
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "food"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-puzzle-piece'></i> Activități alternative",
+      "sectionId": "otherActivities",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "other"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-bicycle'></i> Biciclete",
+      "sectionId": "bike",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "bike"
+            }
+          ]
         }
       ]
     },
@@ -129,15 +241,15 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Prețul voucherului este de <b>240lei</b>, iar <b>plata se face prin transfer bancar.</b> După plasarea comenzii veți primi pe e-mail datele pentru transferul bancar și voucherul în format pdf. Acesta are o serie unică ce devine validă după efectuarea plății (moment în care vă trimitem pe e-mail factura și confirmarea). Odată achiziționat ne puteți suna (sau ne pot suna cei care l-au primit cadou) pentru a face o rezervare cu cel puțin 3 zile înainte de sosire. Rezervarea se face în orice perioadă în care avem camere libere din <b>anul 2017</b>, cu excepția perioadelor cu evenimente (maraton sau festivalul Fân Fest) sau a celor cu sărbători importante (Revelion, Crăciun, Paști, 1 Mai sau 1 Decembrie). La sosire va trebui să ne arătați voucherul printat sau în format electronic pe telefon. Un voucher poate fi folosit doar o singură dată."
+          "textContent": "<br><b>Preț</b> pachet: <b>169lei/pers</b>, minim 2 persoane și <b>include</b> 2 nopți de cazare, un traseu ghidat de ~6h și folosirea hamacelor, bibliotecii și board games. Acesta <b>nu include</b> (se plătesc la fața locului): mesele la localnici, taxele de acces la obiective, închiriatul de biciclete sau cheltuieli personale. Completați câte persoane sunteți și perioada, iar apoi o să vă contactăm pe email sau telefon pentru a vă confirma și informa ce tip de camere vă putem oferi."
         }
       ]
     },
     {
       "type": "form",
-      "sendEmailTitle": "weekendVoucher",
-      "beforeSubmitText": "Prin efectuarea unei comenzi vă asumați că ați citit și sunteți de acord cu cele prezentate pe această pagină.",
-      "submitButtonText": "Comandă voucher",
+      "sendEmailTitle": "weekendTour",
+      "beforeSubmitText": "<i class='fa fa-info-circle'></i> Rezervarea va fi validă doar la primirea unui email sau telefon de <b>confirmare</b>!",
+      "submitButtonText": "Trimite rezervarea",
       "successMessage": "Vă mulțumim! O să revenim cu un e-mail de confirmare cât mai repede posibil.",
       "errorMessage": "EROARE! Contactați-ne prin e-mail sau telefon (vedeți partea de jos a paginii)",
       "fields": [
@@ -153,6 +265,30 @@
           "name": "phone",
           "iconFortAwesomeClass": "fa fa-phone fa-fw",
           "placeholder": "telefon",
+          "required": true
+        },
+        {
+          "type": "daterange",
+          "name": "period",
+          "iconFortAwesomeClass": "fa fa-calendar fa-fw",
+          "placeholder": "Perioada",
+          "required": true
+        },
+        {
+          "type": "number",
+          "name": "numberOfPersons",
+          "iconFortAwesomeClass": "fa fa-male fa-fw",
+          "placeholder": "Număr de persoane",
+          "minLimit": 2,
+          "required": true
+        },
+        {
+          "type": "textarea",
+          "name": "foodAtLocals",
+          "iconFortAwesomeClass": "fa fa-cutlery fa-fw",
+          "placeholder": "Doriți să luați masa la localnici? Sunteți vegetarieni?",
+          "rows": 2,
+          "maxChars": 500,
           "required": true
         },
         {
@@ -179,10 +315,10 @@
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "ro/activities"
+          "page": "ro/shortcut/directions"
         },
         {
-          "page": "ro/accommodation"
+          "page": "ro/packages/discover"
         },
         {
           "page": "ro/events/steamTrain"

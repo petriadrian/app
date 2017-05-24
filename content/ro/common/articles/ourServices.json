@@ -1,7 +1,7 @@
 [
   {
     "id": "food",
-    "textContent": "Variantele propuse pentru luatul mesei sunt:<br><b>Masa la localnici în sat</b> - avem vecini care oferă mese calde, tradiționale, la ei ogradă sau produse proprii (lapte, brânză, dulceată, sirop). Se află la 5 - 10min de mers pe jos de noi, iar donațiile recomandate sunt 25 - 30lei/pers/prânz sau 15 - 20lei/pers/mic dejun/cină. O să găsiți în cameră o listă cu aceștia și îi puteți suna când sosiți sau puteți specifica la efecturea unei rezervări, iar noi îi vom anunța pentru a fi pregătiți. <br><b>Bucătăriile din camere</b> - sunt ideale pentru micul dejun sau cină (puteți prepara sau păstra mâncarea), iar în grădină avem și un <b>grătar</b>. În apropierea casei (~5min de mers pe jos) sunt 3 <b>magazine alimentare</b> (",
+    "textContent": "Variantele propuse pentru luatul mesei sunt:<br><b>Masa la localnici în sat</b> - avem vecini care oferă mese calde, tradiționale, la ei ogradă sau produse proprii (lapte, brânză, dulceată, sirop). Se află la ~2min de mers pe jos de noi, iar donațiile recomandate sunt ~10lei/pers/mic dejun, ~25lei/pers/prânz, ~15lei/pers/cină. O să găsiți în cameră o listă cu aceștia și îi puteți suna când sosiți sau puteți specifica la efecturea unei rezervări, iar noi îi vom anunța pentru a fi pregătiți. <br><b>Bucătăriile din camere</b> - sunt ideale pentru micul dejun sau cină (puteți prepara sau păstra mâncarea), iar în grădină avem și un <b>grătar</b>. În apropierea casei (~5min de mers pe jos) sunt 3 <b>magazine alimentare</b> (",
     "seeAlso": [
       {
         "text": "vezi aici cum ajungi la ele)",
@@ -39,7 +39,7 @@
         "openInNewTab": false
       },
       {
-        "text": "<br><i class='fa fa-arrow-right'></i> <b>trasee ghidate predefinite</b> - vezi aici pachete cu trasee ghidate propuse",
+        "text": "<br><i class='fa fa-arrow-right'></i> <b>trasee ghidate standard</b> - vezi aici pachete cu trasee ghidate propuse",
         "textOnMouseOver": "Click aici...",
         "link": "ro/accommodation#packages",
         "openInNewTab": false
@@ -75,7 +75,7 @@
   },
   {
     "id": "bike",
-    "textContent": "<b>Munții noștri aur poartă, noi ne dăm cu bicicleta!</b> <br><br>Descoperă Roșia Montană și zona Apuseni pe bicicletă. Oferim <b>biciclete de inchiriat</b> (de munte, asfalt sau trekking) cu cască și cameră de rezervă la 59lei/zi sau 35lei/2ore. Dacă veniți cu bicicleta personală vă oferim (în caz de nevoie) scule și <b>asistență reparații biciclete</b>. Pentru a afla mai multe detalii despre locurile pe care o să le vizitați pe bicicletă sau asistență tehnică pe traseu, organizăm <b>trasee ghidate pe bicicletă</b>. Vă rugăm să specificați când faceți o rezervare dacă doriți să închiriați biciclete sau trasee ghidate pe bicicletă.",
+    "textContent": "Avem un mic centru cu echipament și <b>biciclete de inchiriat</b> (de munte, asfalt sau trekking) la <b>59lei / bicicletă / zi</b>. Vă putem oferi și scule sau <b>asistență reparații</b> biciclete. Pentru a afla mai multe detalii despre locurile pe care o să le vizitați pe bicicletă sau asistență tehnică pe traseu, organizăm <b>trasee ghidate pe bicicletă</b>. La efectuarea unei rezervări specificați dacă doriți să închiriați biciclete sau trasee ghidate pe bicicletă.",
     "images": [
       {
         "text": "Dispunem de un mic centru de închiriat biciclete. În caz că veniți cu bicicleta personală aici găsiți scule sau asistență reparații biciclete.",
@@ -91,45 +91,52 @@
   },
   {
     "id": "other",
-    "textContent": "<b>Biblioteca</b> - citiți cărți din colecția noastră (nu ratați ziarele și cărțile despre Roșia) <br><b>Hamace</b> cu priveliște și acces <b>wifi</b> - în curtea casei <br><b>Parc de joacă</b> pentru copii - se află chiar lângă casă <br><b>Proiecții filme</b> și imagini despre Roșia în curtea casei sau în camere (avem proiector și se poate monta la cerere) <br><b>Board games</b> - în bibliotecă găsiți diferite jocuri de societate (Activity, Risk, Catan) <br><b>Derdeluș</b> - avem 2 sănii pe care le puteți folosi iarna pe derdelușul de lângă casă <br><b>Badminton, tenis, fotbal</b> - avem palete, rachete și mingi, iar la ~15min este un teren sintetic cu intrare liberă ",
-    "seeAlso": [
-      {
-        "text": "(vezi aici cum ajungi acolo)",
-        "textOnMouseOver": "Click aici...",
-        "link": "https://www.google.com/maps/dir/Casa+Petri,+Ro%C8%99ia+Montan%C4%83,+Rom%C3%A2nia/Teren+sintetic+comunal,+Ro%C8%99ia+Montan%C4%83,+Rom%C3%A2nia/@46.3047644,23.1142552,15.09z/data=!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.1298497!2d46.3065963!1m5!1m1!1s0x474ecd1afc56c531:0xbbee07fe0cb90650!2m2!1d23.1133053!2d46.3037883!3e0?hl=ro-RO",
-        "openInNewTab": true
-      }
-    ],
+    "textContent": "<b>Biblioteca</b> casei conține cărți și reviste pe care le puteți citi <br><b>Hamace</b> cu priveliște și acces <b>wifi</b> - în curtea casei <br><b>Parc de joacă</b> pentru copii - se află chiar lângă casă <br><b>Proiecții filme</b> și imagini despre Roșia în curtea casei sau în camere (avem proiector și se poate monta la cerere) <br><b>Board games</b> - în bibliotecă găsiți diferite jocuri de societate (Activity, Risk, Catan) <br><b>Derdeluș</b> - avem 2 sănii pe care le puteți folosi iarna pe derdelușul de lângă casă <br><b>Badminton, tenis, fotbal</b> - avem palete, rachete și mingi, iar la ~15min de mers pe jos este un teren sintetic.",
     "images": [
       {
-        "text": "Puteți citi cărți din <b>biblioteca</b> noastră (multe dintre acestea sunt moștenite de la bunici).",
+        "text": "Biblioteca cu cărți, reviste și ziare (multe dintre ele moștenite de la bunici).",
         "thumbnailUrl": "img/accommodation/article/rooms/common/thumbnail/books.jpg",
         "fullSizeUrl": "img/accommodation/article/rooms/common/fullSize/books.jpg"
       },
       {
-        "text": "Curtea casei are un <b>foișor</b> și <b>hamace</b> unde vă puteți relaxa, citi sau sta pe net (wifi).",
-        "thumbnailUrl": "img/packages/common/article/thumbnail/gradina.jpg",
-        "fullSizeUrl": "img/packages/common/article/fullSize/gradina.jpg"
+        "text": "Avem o curte cu iarbă verde, foișor, hamace, wifi și loc pentru proiecții filme.",
+        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/garden-hammock-gazebo-movie.jpg",
+        "fullSizeUrl": "img/accommodation/article/outside/fullSize/garden-hammock-gazebo-movie.jpg"
       },
       {
-        "text": "Avem <b>palete și mingi de tenis sau de badminton</b>, iar la ~15min de mers pe jos se află un teren sintetic comunal pentru tenis sau fotbal.",
-        "thumbnailUrl": "img/accommodation/article/other/thumbnail/tennis.jpg",
-        "fullSizeUrl": "img/accommodation/article/other/fullSize/tennis.jpg"
+        "text": "Avem echipament de badminton, tenis, fotbal sau săniuș. Lângă casă este un teren de joacă pentru copii și un derdeluș, iar la ~15min este un teren sintetic.",
+        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/childrenPark-tennis-sleight.jpg",
+        "fullSizeUrl": "img/accommodation/article/outside/fullSize/childrenPark-tennis-sleight.jpg"
+      }
+    ]
+  },
+  {
+    "id": "accommodation",
+    "type": "articles",
+    "textContent": "Cazarea se face la Casa Petri, centrul istoric Roșia Montană, nr 331. Am moștenit casa de la bunici, am restaurat-o, iar acum oferim camere de 2, 3 sau 4 persoane cu intrare, bucătărioară și băie privată. În curte avem foișor, grătar, hamace, iarbă verde și priveliște spre masivul Cârnic. Mai multe detalii și imagini pe pagina de ",
+    "seeAlso": [
+      {
+        "text": "cazare",
+        "textOnMouseOver": "Click aici...",
+        "link": "ro/accommodation#rooms",
+        "openInNewTab": false
+      }
+    ],
+    "images": [
+      {
+        "text": "Camera cu cărți",
+        "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/booksRoom.jpg",
+        "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/booksRoom.jpg"
       },
       {
-        "text": "<b>Proiecții filme</b> - uneori se poate monta un proiector în grădină pentru filme și imagini cu Roșia Montană.",
-        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
-        "fullSizeUrl": "img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+        "text": "Camera din căsuță",
+        "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/littleHouseRoom.jpg",
+        "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/littleHouseRoom.jpg"
       },
       {
-        "text": "Chiar lângă casă se află un <b>parc de joacă</b> pentru copii.",
-        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/childrenPark.jpg",
-        "fullSizeUrl": "img/accommodation/article/outside/fullSize/childrenPark.jpg"
-      },
-      {
-        "text": "Veniți și iarna! Lângă casă avem un <b>derdeluș</b> pentru săniuș. Dispunem de 2 sănii.",
-        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/sleighing.jpg",
-        "fullSizeUrl": "img/accommodation/article/outside/fullSize/sleighing.jpg"
+        "text": "Camera din târnaț",
+        "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/upstairsRoom.jpg",
+        "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/upstairsRoom.jpg"
       }
     ]
   },

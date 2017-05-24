@@ -1,7 +1,7 @@
 [
   {
     "id": "food",
-    "textContent": "The options for taking the meal are: <br><b>Homemade meals at locals</b> - some of our neighbours offers traditional meals or local products (milk, cheese, honey, syrup). They are located at ~5 - 10 min walking from us and the recommended donations are ~7€/person/lunch or ~5€/pers/breakfast/dinner. You will find a list with these locals in the room and (on arrival) you can call them, but it will be better to inform us when you make a booking and we will tell them to be prepared. <br><b>Each room has a kitchen</b> - perfect for breakfast or dinner because here you can prepare or keep your food and you can also use the <b>barbecue</b> from the garden. Near the house, ~5min walking from us, are 3 <b>grocery stores</b> (",
+    "textContent": "The options for taking the meal are: <br><b>Homemade meals at locals</b> - some of our neighbours offers traditional meals or local products (milk, cheese, honey, syrup). They are located at ~2min walking from us and the recommended donations are ~3€/pers/breakfast, ~6€/person/lunch or ~4€/pers/dinner. You will find a list with these locals in the room and (on arrival) you can call them, but it will be better to inform us when you make a booking and we will tell them to be prepared. <br><b>Each room has a kitchen</b> - perfect for breakfast or dinner because here you can prepare or keep your food and you can also use the <b>barbecue</b> from the garden. Near the house, ~5min walking from us, are 3 <b>grocery stores</b> (",
     "seeAlso": [
       {
         "text": "see here how to reach them)",
@@ -38,7 +38,7 @@
         "link": "en/accommodation#bookings"
       },
       {
-        "text": "<br><i class='fa fa-arrow-right'></i> <b>predefined guided trails</b> - see here the packages with guided trails that we prepared",
+        "text": "<br><i class='fa fa-arrow-right'></i> <b>standard guided trails</b> - see here the packages with guided trails that we prepared",
         "textOnMouseOver": "Click aici...",
         "link": "en/accommodation#packages"
       }
@@ -73,7 +73,7 @@
   },
   {
     "id": "bike",
-    "textContent": "To discover Rosia Montana and our area (Apuseni mountains) you can <b>rent bikes</b>. We offer mountain bikes, asphalt or trekking with helmet and spare tube for 15€/day or 8€/2h. If you come with your own bike we can offer (if needed) tools and <b>bike repair assistance</b>. To find out more about the places you visit by bike or mechanical assistance on the trail, we can offer <b>guided bike trails</b>. Please specify when you make a booking if you want to rent bikes or guided bike trails.",
+    "textContent": "We have a small bike center with equipment and <b>bikes for rent</b> (mountain bikes, asphalt or trekking) at <b>15€ / bike / day</b>. We can also offer tools and <b>mechanical assistance</b> for your bike. To find out more about the places you visit by bike or mechanical assistance on the trail, we can offer <b>guided bike trails</b>. Please specify when you make a booking if you want to rent bikes or guided bike trails.",
     "images": [
       {
         "text": "We have a small bike rental center. If you come with your personal bike we can offer (if needed) tools or mechanical assistance.",
@@ -89,15 +89,7 @@
   },
   {
     "id": "other",
-    "textContent": "<b>Library</b> - we have many books that you can read but most of them are in romanian (don't miss the newspapers and the books about Roșia) <br><b>Hammocks</b> with a view and <b>wifi</b> access - relax in our yard <br><b>Playground</b> for children - beside our house <br><b>Movie projections</b> about Rosia Montana past. The projector can be mounted in the garden or in the rooms. <br><b>Board games</b> - In the library can be found many board games (Activity, Risk, Catan) <br><b>Sleighing</b> - we have 2 sleighs that you can use during the winter on the sleigh slope beside the house <br><b>Badminton, tennis, football</b> - we have paddles, balls and at ~15min walking is a synthetic field with free entrance ",
-    "seeAlso": [
-      {
-        "text": "(see here how to reach it)",
-        "textOnMouseOver": "Click aici...",
-        "link": "https://www.google.com/maps/dir/Casa+Petri,+Ro%C8%99ia+Montan%C4%83,+Rom%C3%A2nia/Teren+sintetic+comunal,+Ro%C8%99ia+Montan%C4%83,+Rom%C3%A2nia/@46.3047644,23.1142552,15.09z/data=!4m14!4m13!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.1298497!2d46.3065963!1m5!1m1!1s0x474ecd1afc56c531:0xbbee07fe0cb90650!2m2!1d23.1133053!2d46.3037883!3e0?hl=ro-RO",
-        "openInNewTab": true
-      }
-    ],
+    "textContent": "<b>Library</b> - we have many books that you can read but most of them are in romanian (don't miss the newspapers and the books about Roșia) <br><b>Hammocks</b> with a view and <b>wifi</b> access - relax in our yard <br><b>Playground</b> for children - beside our house <br><b>Movie projections</b> about Rosia Montana past. The projector can be mounted in the garden or in the rooms. <br><b>Board games</b> - In the library can be found many board games (Activity, Risk, Catan) <br><b>Sleighing</b> - we have 2 sleighs that you can use during the winter on the sleigh slope beside the house <br><b>Badminton, tennis, football</b> - we have paddles, balls and at ~15min walking is a synthetic field.",
     "images": [
       {
         "text": "You can read books from our <b>library</b> (most of them were inherited from our grandparents).",
@@ -105,29 +97,44 @@
         "fullSizeUrl": "img/accommodation/article/rooms/common/fullSize/books.jpg"
       },
       {
-        "text": "In the yard we have a <b>gazebo</b> and <b>hammocks</b> where you can relax, read or surf the internet (free wifi).",
-        "thumbnailUrl": "img/packages/common/article/thumbnail/gradina.jpg",
-        "fullSizeUrl": "img/packages/common/article/fullSize/gradina.jpg"
+        "text": "We have a yard with gazebo, hammocks, wifi and sometimes we make movie projections for our guests.",
+        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/garden-hammock-gazebo-movie.jpg",
+        "fullSizeUrl": "img/accommodation/article/outside/fullSize/garden-hammock-gazebo-movie.jpg"
       },
       {
-        "text": "We have <b> paddles and balls for tennis, badminton or football</b> and at ~15min walking is a synthetic field.",
-        "thumbnailUrl": "img/accommodation/article/other/thumbnail/tennis.jpg",
-        "fullSizeUrl": "img/accommodation/article/other/fullSize/tennis.jpg"
+        "text": "We have equipment for badminton, tennis, football or sleighing. Beside the house is a playground, a slight slope and at ~15min is a synthetic field.",
+        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/childrenPark-tennis-sleight.jpg",
+        "fullSizeUrl": "img/accommodation/article/outside/fullSize/childrenPark-tennis-sleight.jpg"
+      }
+    ]
+  },
+  {
+    "id": "accommodation",
+    "type": "articles",
+    "textContent": "We are located in the historic center of Rosia Montana in a heritage house, recently restored. We offer rooms for 2, 3 or 4 persons, each has private entrance, kitchen and private bathroom, and a small yard with gazebo, hammocks, green grass and a nice view to Cârnic massif. More info and images on the ",
+    "seeAlso": [
+      {
+        "text": "accommodation page",
+        "textOnMouseOver": "Click here...",
+        "link": "en/accommodation#rooms",
+        "openInNewTab": false
+      }
+    ],
+    "images": [
+      {
+        "text": "Books room",
+        "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/booksRoom.jpg",
+        "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/booksRoom.jpg"
       },
       {
-        "text": "<b>Movie projections</b> - we can mount a projector in the garden.",
-        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
-        "fullSizeUrl": "img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+        "text": "Little house room",
+        "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/littleHouseRoom.jpg",
+        "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/littleHouseRoom.jpg"
       },
       {
-        "text": "Beside the house is a <b>playground</b> for children.",
-        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/childrenPark.jpg",
-        "fullSizeUrl": "img/accommodation/article/outside/fullSize/childrenPark.jpg"
-      },
-      {
-        "text": "Come also durring winter! We have 2 sleights and beside the house is a nice <b>sleight slope</b>.",
-        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/sleighing.jpg",
-        "fullSizeUrl": "img/accommodation/article/outside/fullSize/sleighing.jpg"
+        "text": "Upstairs room",
+        "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/upstairsRoom.jpg",
+        "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/upstairsRoom.jpg"
       }
     ]
   },

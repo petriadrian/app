@@ -30,7 +30,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with fantastic landscapes due to the mountains, valleys and the lakes around us, but also with a rich culture and history because of the heritage buildings and because it has <b>one of the largest and important underground gold mining complex from the world</b>, built by various civilizations who came here to extract gold. Discover our area through the following hiking or biking trails. Each trail has images, description and <b>online maps</b> with GPS data (can be access from any device during the trail). The shown distance represents the whole length of the trail from and to Casa Petri. <br> The icons from each trail means: <i class='fa fa-lg fa-blind'></i> - <b>hiking</b> trail | <i class='fa fa-lg fa-bicycle'></i> - <b>biking</b> trail | <i class='fa fa-lg fa-car'></i> - the destination can be also reach by <b>car</b>"
+          "textContent": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with great landscapes due to the mountains, valleys and the lakes around us, but also with a rich culture and history because of the heritage buildings and to the <b>one of the largest underground gold mining system in the world</b> built by various civilizations who come here to extract gold. To discover our area we propose the following trails to local attractions and surroundings (with images, description and online maps that starts from our house). Legend: <i class='fa fa-lg fa-blind'></i> - <b>hiking</b> trail | <i class='fa fa-lg fa-bicycle'></i> - <b>biking</b> trail | <i class='fa fa-lg fa-car'></i> - the destination can be also reach by <b>car</b>"
         }
       ]
     },
@@ -39,7 +39,7 @@
       "specificArticles": [
         {
           "title": "Local trails",
-          "textContent": "These trails contains the main attractions from Roșia Montană."
+          "textContent": "These trails contains the main attractions from Roșia Montană. They are recommended for <b>hiking</b> or <b>cycling</b>."
         }
       ]
     },
@@ -56,16 +56,16 @@
           "page": "en/trails/carnic"
         },
         {
-          "page": "en/trails/letySulei"
-        },
-        {
-          "page": "en/trails/tarina"
-        },
-        {
           "page": "en/trails/fourLakes"
         },
         {
           "page": "en/trails/vartop"
+        },
+        {
+          "page": "en/trails/detunata"
+        },
+        {
+          "page": "en/trails/corna"
         }
       ]
     },
@@ -74,7 +74,7 @@
       "specificArticles": [
         {
           "title": "Surroundings",
-          "textContent": "These trails contains the attractions around the Roșia Montană."
+          "textContent": "These trails contains the attractions around the Roșia Montană. They are recommended for <b>cycling</b> or you can reach them by <b>car</b>."
         }
       ]
     },
@@ -82,13 +82,7 @@
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "en/trails/detunata"
-        },
-        {
           "page": "en/trails/geamana"
-        },
-        {
-          "page": "en/trails/corna"
         },
         {
           "page": "en/trails/vulcan"
@@ -98,6 +92,9 @@
         },
         {
           "page": "en/trails/scarisoara"
+        },
+        {
+          "page": "en/events/steamTrain"
         },
         {
           "page": "en/trails/zlatnaPool"
@@ -171,9 +168,6 @@
         },
         {
           "page": "en/accommodation"
-        },
-        {
-          "page": "en/events/steamTrain"
         }
       ]
     }

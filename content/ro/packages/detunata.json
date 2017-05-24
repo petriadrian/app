@@ -1,0 +1,452 @@
+{
+  "presentation": {
+    "title": "Drumeție la Detunata",
+    "headline": "Traseu ghidat Detunata - Roșia Montană",
+    "descriptionTitle": "16-18 Iunie",
+    "description": "Sâmbăta pornim într-o drumeție spre coloanele de bazalt de la masivul Detunata Apuseni, iar duminică într-un tur ghidat în Roșia Montană",
+    "fullWidthImg": "img/trails/detunata/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/trails/detunata/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/packages/detunata",
+    "textOnMouseOver": "Vezi mai mult...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Tur ghidat Detunata - Roșia Montană | 16-18 Iunie",
+    "description": "Sâmbăta pornim împreună cu un ghid spre coloanele de bazalt de la masivul Detunata Apuseni, iar seara urmărim proiecția 'Povestea Roșiei Montane' ce este și o introducere în traseul ghidat de duminică din Roșia Montană (centrul istoric și masivul Cârnic). Include cazare, transport, mancare. Traseele se pot face si cu bicicleta.",
+    "displayOnShareImg": "img/trails/detunata/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": " ",
+      "sectionId": "intro",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b>Pachet turistic</b>: Sâmbăta pornim împreună cu un ghid spre coloanele de bazalt de la masivul Detunata Apuseni, iar seara urmărim proiecția 'Povestea Roșiei Montane' ce este și o introducere în traseul ghidat de duminică din Roșia Montană (centrul istoric și masivul Cârnic). Include cazare, transport, mancare."
+        },
+        {
+          "textContent": "<b>data 16-18 Iunie 2017 | încheiere înscrieri: 9 Iunie"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar'></i> Program",
+      "sectionId": "schedule",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<br><b><i class='fa fa-clock-o'></i> 16:00 - 21:00 - vineri - check in</b> la locul de cazare - Casa Petri, nr. 331, centru istoric Rosia Montană, jud. Alba."
+        },
+        {
+          "title": "Traseu ghidat Detunata",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 09:00 - 17:00 - sâmbătă</b> <br>Pornim împreună cu un ghid de la Casa Petri Roșia Montană spre Tăul Mare, câteva mici sate de munte specifice Țării Moților (Poiana și Muntari) până ajungem la rezervația naturală protejată Detunata Apuseni, un masiv format din coloane înalte de bazalt ce are la bază o mare de blocuri de piatră desprinse din acest masiv și care s-au rostogolit până la pădurea de brazi, iar o parte sunt acoperite cu mușchi vegetal ce formează un peisaj cu totul aparte. În această zonă a trait Fefeleaga, personajul principal din opera lui Ion Agârbiceanu.",
+          "images": [
+            {
+              "text": "<b>Tăul Mare</b> - aici aflăm rolul acestor tăuri în producția aurului extras în trecut la Roșia Montană.",
+              "thumbnailUrl": "img/trails/attractions/lakes/bigLake/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/bigLake/fullSize/1.jpg"
+            },
+            {
+              "text": "Drumul prin satele Muntari și Poiana",
+              "thumbnailUrl": "img/trails/attractions/muntariPoiana/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/muntariPoiana/fullSize/2.jpg"
+            },
+            {
+              "text": "<b>Detunata</b> - La baza acestui masiv printre blocurile de bazalt, în inima pădurii de molid, se formează uneori un mic ghețar. Vă lasăm pe voi să îl descoperiți.",
+              "thumbnailUrl": "img/trails/attractions/detunata/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/detunata/fullSize/1.jpg"
+            },
+            {
+              "text": "<b>Priveliștea de pe Detunata</b> - Merită să urcați până sus dacă tot ați ajuns până aici. La picioare vi se va întinde tot ținutul Țării Moților.",
+              "thumbnailUrl": "img/trails/attractions/detunata/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/detunata/fullSize/2.jpg"
+            },
+            {
+              "text": "Punct de belvedere de pe traseu spre valea Roșiei Montane.",
+              "thumbnailUrl": "img/trails/attractions/letySulei/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/letySulei/fullSize/2.jpg"
+            },
+            {
+              "text": "Pe traseu.",
+              "thumbnailUrl": "img/trails/daffodilMeadow/article/thumbnail/traseuPeisaj.jpg",
+              "fullSizeUrl": "img/trails/daffodilMeadow/article/fullSize/traseuPeisaj.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Proiecție în grădină",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 20:00 - 22:00 - sâmbătă</b> <br>Proiecție 'Povestea Roșiei Montane' - imagini, filme și povești despre trecutul și evoluția satului, modul de extracție al aurului din trecut până în prezent și viața de azi. Proiecția este și o introducere pentru traseul ghidat ce va avea loc în ziua următoare.",
+          "images": [
+            {
+              "text": "Proiecții în grădină",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+            },
+            {
+              "text": "Imagini din proiecție",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Traseu ghidat Roșia Montană",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 09:30 - 14:00 - duminică</b> <br>O să vizităm împreună cu un ghid diverse clădiri de patrimoniu din centrul istoric (școli cu predare în diverse limbi, biserici de diferite culte sau fostele case ale aurarilor) construite de diverse nații venite aici de-a lungul timpului pentru a căuta aur. Vom povesti despre toate acestea, iar apoi dacă mai aveți timp și energie vom urca pe masivul Cârnic de unde vă promitem o priveliște deosebită asupra satului.",
+          "images": [
+            {
+              "text": "Tur ghidat - centrul istoric Roșia Montană.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+            },
+            {
+              "text": "Centrul istoric.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/4.jpg"
+            },
+            {
+              "text": "Fostele case ale aurarilor - cladiri de patrimoniu din centrul istoric.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/3.jpg"
+            },
+            {
+              "text": "Ornamente ale clădirilor de patrimoniu din centrul istoric Roșia Montană.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/ornamente.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/ornamente.jpg"
+            },
+            {
+              "text": "Lângă centrul istoric sunt câteva tăuri. Vom afla acolo de ce au fost construite în apropierea satului și rolul lor în producția aurului.",
+              "thumbnailUrl": "img/trails/attractions/lakes/braziLake/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/braziLake/fullSize/2.jpg"
+            },
+            {
+              "text": "Popas la punctele de belvedere.",
+              "thumbnailUrl": "img/trails/attractions/panoramicBench/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/panoramicBench/fullSize/2.jpg"
+            },
+            {
+              "text": "Pe traseu - punct de belvedere Cârnic.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+            },
+            {
+              "text": "Piatra Corbului Cârnic - în interior sunt cele mai vechi galerii din zonă, realizate printr-o tehnică specială.",
+              "thumbnailUrl": "img/trails/attractions/carnic/ravenStone/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/1.jpg"
+            }
+          ]
+        },
+        {
+          "title": ".",
+          "textContent": "Excursia se va încheia duminică (21 Iunie), după traseul ghidat. Înainte de a pleca trebuie să facem o <b>fotografie</b> de grup și să ne spuneți <b>părerea</b> voastră despre ce putem îmunătăți la acest pachet. Citiți opiniile celor care ne-au trecut pragul pe pagina de ",
+          "seeAlso": [
+            {
+              "text": "reviews",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/review",
+              "openInNewTab": false
+            }
+          ],
+          "images": [
+            {
+              "text": "Împreună cu un grup din România.",
+              "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/alexandra-postelnicu.jpg",
+              "fullSizeUrl": "img/reviews/article/reviewer/fullSize/alexandra-postelnicu.jpg"
+            },
+            {
+              "text": "Împreună cu un grup din Suedia.",
+              "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/simona-sweden.jpg",
+              "fullSizeUrl": "img/reviews/article/reviewer/fullSize/simona-sweden.jpg"
+            },
+            {
+              "text": "Împreună cu un grup din India și Taiwan.",
+              "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/11.jpg",
+              "fullSizeUrl": "img/reviews/article/reviewer/fullSize/11.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-info-circle'></i> Info",
+      "sectionId": "info",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai jos sunt informații despre pachet și alte detalii care pot fi de folos. Pentru orice alte întrebări contactați-ne prin email sau telefon (le găsiți la finalul acestei pagini)."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-bed'></i> Cazare",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "accommodation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-cutlery'></i> Mâncare",
+      "sectionId": "food",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "food"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<i class='fa fa-info-circle'></i> Sâmbătă la amiaz se poate lua masa la sărbătoarea câmpenească de la poiana cu narcise. O să vină localnici cu mâncăruri tradiționale."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-puzzle-piece'></i> Activități alternative",
+      "sectionId": "otherActivities",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "other"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-bicycle'></i> Biciclete",
+      "sectionId": "bike",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "bike"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Alte informații",
+      "sectionId": "otherInfo",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b><i class='fa fa-suitcase'></i> Echipament</b> recomandat - pelerină de ploaie, bocanci de munte și protecție pentru soare. <br><br><b><i class='fa fa-users'></i> Număr minim: 4 participanți</b> (în caz contrar turul poate fi anulat - îi vom anunța pe cei înscriși cu 3 zile înainte) | <b>Numărul maxim: 10 participanți</b>. <br><br><b><i class='fa fa-child'></i> Copii</b> - puteți veni și cu cei mici, recomandarea noastră este să aibe peste 12 ani și să fiți siguri că rezistă la traseele descrise mai sus. <br><br><b><i class='fa fa-car'></i> Transport</b> - putem lua 3 persoane și 2 biciclete din Cluj - plecăm vineri la 17:00 și ne întoarcem duminică (~35lei/pers) - specificați la efecturea rezervării dacă veniți cu noi. Dacă veniți cu mașina personală setați pe google maps gps 'Casa Petri Rosia Montana'. ",
+          "seeAlso": [
+            {
+              "text": "Vedeți aici alte variante de transport...",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#directions",
+              "openInNewTab": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar-check-o'></i> Prețuri și Rezervări",
+      "sectionId": "bookings",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Prețuri și detalii despre mâncare sau închiriat biciclete se găsesc la secțiunile de mai sus. Proiecția de filme este gratuită, iar pentru traseul ghidat de duminică fiecare lăsă ghidului la final cât consideră (donație recomandată ~15lei/pers/tur). Prețurile camerelor le găsiți în formularul de jos, în funcție de camera aleasă. "
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "sendEmailTitle": "negrileasaTour",
+      "beforeSubmitText": "<i class='fa fa-info-circle'></i> Rezervarea va fi validă doar la primirea unui email sau telefon de <b>confirmare</b>!",
+      "submitButtonText": "Trimite rezervarea",
+      "successMessage": "Vă mulțumim! O să revenim cu un e-mail de confirmare cât mai repede posibil.",
+      "errorMessage": "EROARE! Contactați-ne prin e-mail sau telefon (vedeți partea de jos a paginii)",
+      "fields": [
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "placeholder": "e-mail",
+          "required": true
+        },
+        {
+          "type": "phone",
+          "name": "phone",
+          "iconFortAwesomeClass": "fa fa-phone fa-fw",
+          "placeholder": "telefon",
+          "required": true
+        },
+        {
+          "type": "selectBoxAllowDuplicates",
+          "name": "room",
+          "required": true,
+          "iconFortAwesomeClass": "fa fa-bed fa-fw",
+          "placeholder": "Alege cameră",
+          "allowToDuplicateSettings": {
+            "addButtonText": "+ adaugă",
+            "removeButtonText": "- șterge",
+            "minOccurs": 1,
+            "maxOccurs": 10
+          },
+          "inputs": [
+            {
+              "selectOptions": [
+                {
+                  "text": "o cameră de o pers - 79lei/noapte"
+                },
+                {
+                  "text": "o cameră de 2 pers - 99lei/noapte"
+                },
+                {
+                  "text": "o cameră de 3 pers - 139lei/noapte"
+                },
+                {
+                  "text": "o cameră de 4 pers - 169lei/noapte"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "selectBoxAllowDuplicates",
+          "name": "carFromCluj",
+          "required": false,
+          "iconFortAwesomeClass": "fa fa-car fa-fw",
+          "placeholder": "Doriți transport din Cluj?",
+          "inputs": [
+            {
+              "selectOptions": [
+                {
+                  "text": "Doresc 1 loc în mașină."
+                },
+                {
+                  "text": "Doresc 2 locuri în mașină."
+                },
+                {
+                  "text": "Doresc 3 locuri în mașină."
+                },
+                {
+                  "text": "Nu doresc transport din Cluj."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "checkBoxes",
+          "title": "Doresc:",
+          "checkBoxes": [
+            {
+              "name": "rentBikes",
+              "text": "<i class='fa fa-fw fa-bicycle'></i> | <b>să închiriez biciclete</b> (câte biciclete? scrie-ne în căsuța 'Alte detalii')"
+            },
+            {
+              "name": "reserveFood",
+              "text": "<i class='fa fa-fw fa-cutlery'></i> | <b>să iau masa în sat</b> (ce mese? sunteți vegetarieni? scrie-ne în căsuța 'Alte detalii')"
+            }
+          ]
+        },
+        {
+          "type": "textarea",
+          "name": "others",
+          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "placeholder": "Alte detalii? Scrie-ne aici...",
+          "rows": 2,
+          "maxChars": 500,
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": ".",
+          "textContent": "O parte din imaginile de pe aceasta pagină au fost preluate cu acordul părților de pe site-urile <a href='https://www.visitalba.ro'>visitalba.ro</a>  și <a href='http://rucsacdemunte.blogspot.ro'>rucsacdemunte.blogspot.ro</a>. Vă mulțumim."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "seeAlso",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/packages/discover"
+        },
+        {
+          "page": "ro/events/hayDays"
+        },
+        {
+          "page": "ro/events/steamTrain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "type": "articles",
+  "specificArticles": [
+    {
+      "textContent": "Prețuri și detalii despre mâncare sau închiriat biciclete se găsesc la secțiunile de mai sus. Proiecția de filme este gratuită, iar pentru traseul ghidat de duminică fiecare lăsă ghidului la final cât consideră (donație recomandată ~15lei/pers/tur). Prețurile camerelor le găsiți în formularul de jos, în funcție de camera aleasă. "
+    }
+  ]
+},
+{
+  "type": "form",
+  "sendEmailTitle": "negrileasaTour",
+  "beforeSubmitText": "<i class='fa fa-info-circle'></i> Rezervarea va fi validă doar la primirea unui email sau telefon de <b>confirmare</b>!",
+  "submitButtonText": "Trimite rezervarea",
+  "successMessage": "Vă mulțumim! O să revenim cu un e-mail de confirmare cât mai repede posibil.",
+  "errorMessage": "EROARE! Contactați-ne prin e-mail sau telefon (vedeți partea de jos a paginii)",
+  "fields": [
+    {
+      "type": "email",
+      "name": "email",
+      "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+      "placeholder": "e-mail",
+      "required": true
+    },
+    {
+      "type": "phone",
+      "name": "phone",
+      "iconFortAwesomeClass": "fa fa-phone fa-fw",
+      "placeholder": "telefon",
+      "required": true
+    },
+    {
+      "type": "selectBoxAllowDuplicates",
+      "name": "room",
+      "required": true,
+      "iconFortAwesomeClass": "fa fa-bed fa-fw",
+      "placeholder": "Alege cameră",
+      "allowToDuplicateSettings": {
+        "addButtonText": "+ adaugă",
+        "removeButtonText": "- șterge",
+        "minOccurs": 1,
+        "maxOccurs": 10
+      },
+      "inputs": [
+        {
+          "selectOptions": [
+            {
+              "text": "o cameră de o pers - 79lei/noapte"
+            },
+            {
+              "text": "o cameră de 2 pers - 99lei/noapte"
+            },
+            {
+              "text": "o cameră de 3 pers - 135lei/noapte"
+            },
+            {
+              "text": "o cameră de 4 pers - 165lei/noapte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "selectBoxAllowDuplicates",
+      "name": "carFromCluj",
+      "required": false,
+      "iconFortAwesomeClass": "fa fa-car fa-fw",
+      "placeholder": "Doriți transport din Cluj?",
+      "inputs": [
+        {
+          "selectOptions": [
+            {
+              "text": "Doresc 1 loc în mașină."
+            },
+            {
+              "text": "Doresc 2 locuri în mașină."
+            },
+            {
+              "text": "Doresc 3 locuri în mașină."
+            },
+            {
+              "text": "Nu doresc transport din Cluj."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "checkBoxes",
+      "title": "Doresc:",
+      "checkBoxes": [
+        {
+          "name": "rentBikes",
+          "text": "<i class='fa fa-fw fa-bicycle'></i> | <b>să închiriez biciclete</b> (câte biciclete? scrie-ne în căsuța 'Alte detalii')"
+        },
+        {
+          "name": "reserveFood",
+          "text": "<i class='fa fa-fw fa-cutlery'></i> | <b>să iau masa în sat</b> (ce mese? sunteți vegetarieni? scrie-ne în căsuța 'Alte detalii')"
+        }
+      ]
+    },
+    {
+      "type": "textarea",
+      "name": "others",
+      "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+      "placeholder": "Alte detalii? Scrie-ne aici...",
+      "rows": 2,
+      "maxChars": 500,
+      "required": false
+    }
+  ]
+}

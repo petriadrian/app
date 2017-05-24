@@ -1,5 +1,5 @@
 {
-  "presentation": {
+  "presentationReDOOOOOOOOOOOOO": {
     "seo": {
       "title": "Ghizi, mâncare, biciclete, cazare Rosia Montana",
       "h1": "cazare Rosia Montana pensiune Rosia Montana pensiuni Rosia Montana cazare Apuseni pensiune Apuseni pensiuni Apuseni cazare Valea Ariesului pensiune Valea Ariesului pensiuni Valea Ariesului biciclete Rosia Montana biciclete Apuseni ghid Rosia Montana ghid Apuseni"
@@ -29,7 +29,7 @@
   },
   "presentation": {
     "title": "Rezervări",
-    "headline": "",
+    "headline": "Bunicii cu mineritul, noi cu turismul",
     "description": "Trasee ghidate, biciclete și cazare în centrul istoric Roșia Montană",
     "fullWidthImg": "img/accommodation/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/presentation/smallBoxImg.jpg"
@@ -347,14 +347,14 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Dorim să fie totul pregătit la sosire, de aceea te rugăm să faci o rezervare cât mai din timp. Pentru o rezervare de minim 290 lei, oferim <b>gratuit traseul centrului istoric ghidat</b>. Pentru grupuri mai mari sau perioade mai lungi oferim reduceri."
+          "textContent": "<br>Dorim să fie totul pregătit la sosire, de aceea te rugăm să <b>rezervi cât mai din timp</b>. Pentru o rezervare de minim 350 lei, oferim <b>gratuit traseul centrului istoric ghidat</b> (~4h). <b>Prețul</b> camerelor sau al campării îl găsiți la secțiunea 'Alege cameră sau campare'."
         }
       ]
     },
     {
       "type": "form",
       "sendEmailTitle": "reservation",
-      "beforeSubmitText": "Rezervarea va fi efectuată doar la primirea unui <b>email de confirmare!</b>",
+      "beforeSubmitText": "Rezervarea va fi validă doar la primirea unui telefon sau <b>email de confirmare!</b> <br><b>Check-in</b> 16:00 - 20:00 | <b>Check-out</b> până la 11:00",
       "submitButtonText": "Trimite rezervarea",
       "successMessage": "Vă mulțumim! O să revenim cu un email de confirmare cât mai repede.",
       "errorMessage": "EROARE! Contactați-ne prin email sau telefon (vedeți partea de jos a paginii)",
@@ -385,7 +385,7 @@
           "name": "room",
           "required": true,
           "iconFortAwesomeClass": "fa fa-bed fa-fw",
-          "placeholder": "Rezervă cazare - vezi tip și preț",
+          "placeholder": "Alege cameră sau campare",
           "allowToDuplicateSettings": {
             "addButtonText": "+ adaugă",
             "removeButtonText": "- șterge",
@@ -396,25 +396,25 @@
             {
               "selectOptions": [
                 {
-                  "text": "cameră de o pers - 69lei/noapte"
+                  "text": "o cameră de o pers - 79lei/noapte"
                 },
                 {
-                  "text": "cameră de 2 pers - 95lei/noapte"
+                  "text": "o cameră de 2 pers - 99lei/noapte"
                 },
                 {
-                  "text": "cameră de 3 pers - 135lei/noapte"
+                  "text": "o cameră de 3 pers - 139lei/noapte"
                 },
                 {
-                  "text": "cameră de 4 per - 159lei/noapte"
+                  "text": "o cameră de 4 pers - 169lei/noapte"
                 },
                 {
-                  "text": "loc cort de 2 pers - 39lei/noapte"
+                  "text": "un loc cort de 2 pers - 40lei/noapte"
                 },
                 {
-                  "text": "loc cort de 3 pers - 55lei/noapte"
+                  "text": "un loc cort de 3 pers - 55lei/noapte"
                 },
                 {
-                  "text": "loc cort de 4 pers - 75lei/noapte"
+                  "text": "un loc cort de 4 pers - 75lei/noapte"
                 }
               ]
             }
@@ -451,7 +451,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-gift'></i> Pachete și vouchere",
+      "text": "<i class='fa fa-gift'></i> Pachete",
       "sectionId": "packages",
       "addLinkInPageHeadline": false
     },
@@ -460,13 +460,22 @@
       "specificArticles": [
         {
           "title": "",
-          "textContent": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat câteva pachete care includ cazarea și participarea la diverse activități sau trasee ghidate. După rezervarea unui pachet vei primi un voucher cu care te așteptăm la Roșia Montană. Voucherele pot fi de asemenea oferite ca și cadou altor persoane."
+          "textContent": "Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat câteva pachete care includ cazarea și participarea la diverse activități sau trasee ghidate."
         }
       ]
     },
     {
       "type": "linkToOtherPages",
       "detailBoxes": [
+        {
+          "page": "ro/packages/narcise"
+        },
+        {
+          "page": "ro/packages/1mai"
+        },
+        {
+          "page": "ro/packages/discover"
+        },
         {
           "page": "ro/packages/weekend"
         },
