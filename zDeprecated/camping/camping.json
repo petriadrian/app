@@ -58,7 +58,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-calendar-check-o'></i> Rezervări",
+      "text": "<i class='far fa-calendar-check'></i> Rezervări",
       "sectionId": "reservations",
       "addLinkInPageHeadline": true
     },
@@ -80,14 +80,14 @@
         {
           "type": "email",
           "name": "email",
-          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "iconFortAwesomeCode": "<i class='far fa-envelope fa-fw'></i>",
           "placeholder": "Email",
           "required": true
         },
         {
           "type": "daterange",
           "name": "period",
-          "iconFortAwesomeClass": "fa fa-calendar fa-fw",
+          "iconFortAwesomeCode": "<i class='far fa-calendar fa-fw'></i>",
           "placeholder": "Alege perioada",
           "required": true
         },
@@ -95,7 +95,7 @@
           "type": "selectBoxAllowDuplicates",
           "name": "tentType",
           "required": true,
-          "iconFortAwesomeClass": "fa fa-bed fa-fw",
+          "iconFortAwesomeCode": "<i class='fas fa-bed fa-fw'></i>",
           "placeholder": "Selectați loc campare și preț",
           "allowToDuplicateSettings": {
             "addButtonText": "+ adaugă loc campare",
@@ -123,7 +123,7 @@
           "type": "selectBox",
           "name": "bikes",
           "required": false,
-          "iconFortAwesomeClass": "fa fa-bicycle fa-fw",
+          "iconFortAwesomeCode": "<i class='far fa-bicycle fa-fw'></i>",
           "placeholder": "Rezervă biciclete",
           "selectOptions": [
             {
@@ -154,7 +154,7 @@
         {
           "type": "textarea",
           "name": "others",
-          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
           "placeholder": "Scrie-ne aici ce trasee ghidate ai vrea să faci sau dacă dorești să iei masa la fermă, sau alte detalii...",
           "rows": 3,
           "maxChars": 350,

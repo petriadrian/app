@@ -235,7 +235,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-calendar-check-o'></i> Rezervări",
+      "text": "<i class='far fa-calendar-check'></i> Rezervări",
       "sectionId": "bookings",
       "addLinkInPageHeadline": true
     },
@@ -258,14 +258,14 @@
         {
           "type": "email",
           "name": "email",
-          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "iconFortAwesomeCode": "<i class='far fa-envelope fa-fw'></i>",
           "placeholder": "Email",
           "required": true
         },
         {
           "type": "daterange",
           "name": "period",
-          "iconFortAwesomeClass": "fa fa-calendar fa-fw",
+          "iconFortAwesomeCode": "<i class='far fa-calendar fa-fw'></i>",
           "placeholder": "Perioada",
           "required": true
         },
@@ -273,7 +273,7 @@
           "type": "selectBoxAllowDuplicates",
           "name": "room",
           "required": false,
-          "iconFortAwesomeClass": "fa fa-bed fa-fw",
+          "iconFortAwesomeCode": "<i class='fas fa-bed fa-fw'></i>",
           "placeholder": "Rezervă camere - vezi tip și preț",
           "allowToDuplicateSettings": {
             "addButtonText": "+ adaugă cameră",
@@ -304,7 +304,7 @@
           "type": "selectBox",
           "name": "camping",
           "required": false,
-          "iconFortAwesomeClass": "fa fa-chevron-up fa-fw",
+          "iconFortAwesomeCode": "<i class='fas fa-angle-up fa-fw'></i>",
           "placeholder": "Rezervă campare - vezi tip și preț",
           "selectOptions": [
             {
@@ -351,7 +351,7 @@
         {
           "type": "textarea",
           "name": "others",
-          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
           "placeholder": "Alte detalii? Scrie-ne aici...",
           "rows": 2,
           "maxChars": 500,

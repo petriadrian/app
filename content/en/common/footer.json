@@ -8,23 +8,23 @@
     "content": [
       {
         "text": "",
-        "iconFortAwesomeClass": "fa fa-home fa-2x fa-flip-horizontal"
+        "iconFortAwesomeCode": "<i class='far fa-home fa-2x fa-flip-horizontal"
       },
       {
         "text": "Casa Petri Roșia Montană",
-        "iconFortAwesomeClass": "fa fa-copyright"
+        "iconFortAwesomeCode": "<i class='far fa-copyright"
       },
       {
         "text": "(+4)0743188186",
-        "iconFortAwesomeClass": "fa fa-phone"
+        "iconFortAwesomeCode": "<i class='far fa-phone"
       },
       {
         "text": "petriadrian@gmail.com",
-        "iconFortAwesomeClass": "fa fa-envelope-o"
+        "iconFortAwesomeCode": "<i class='far fa-envelope-o"
       },
       {
         "text": "Rosia Montana 331, Alba, Romania",
-        "iconFortAwesomeClass": "fa fa-map-marker"
+        "iconFortAwesomeCode": "<i class='far fa-map-marker"
       }
     ]
   },
@@ -39,7 +39,7 @@
       {
         "type": "textarea",
         "name": "feedback",
-        "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+        "iconFortAwesomeCode": "<i class='fas fa-commentsfa-fw fa-fw'></i>",
         "placeholder": "We want to improve. Leave us a feedback! ...",
         "rows": 3,
         "maxChars": 350,
@@ -49,7 +49,7 @@
         "type": "email",
         "name": "email",
         "rows": 1,
-        "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+        "iconFortAwesomeCode": "<i class='far fa-envelopefa-fw fa-fw'></i>",
         "placeholder": "Email",
         "required": true
       }

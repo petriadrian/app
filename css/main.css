@@ -357,8 +357,12 @@ footer a:HOVER {
     background: -webkit-linear-gradient(top, rgba(255, 255, 255, 1) 6%, rgba(255, 255, 255, 0.93) 9%, rgba(255, 255, 255, 0) 46%, rgba(255, 255, 255, 0) 47%); /* Chrome10+,Safari5.1+ */
     background: -o-linear-gradient(top, rgba(255, 255, 255, 1) 6%, rgba(255, 255, 255, 0.93) 9%, rgba(255, 255, 255, 0) 46%, rgba(255, 255, 255, 0) 47%); /* Opera 11.10+ */
     background: -ms-linear-gradient(top, rgba(255, 255, 255, 1) 6%, rgba(255, 255, 255, 0.93) 9%, rgba(255, 255, 255, 0) 46%, rgba(255, 255, 255, 0) 47%); /* IE10+ */
-    background: linear-gradient(to bottom, rgba(255, 255, 255, 1) 6%, rgba(255, 255, 255, 0.93) 9%, rgba(255, 255, 255, 0) 46%, rgba(255, 255, 255, 0) 47%); /* W3C */
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 1) 8%, rgba(255, 255, 255, 0.93) 29%, rgba(255, 255, 255, 0) 56%, rgba(255, 255, 255, 0) 47%); /* W3C */
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#00ffffff', GradientType=0); /* IE6-9 */
+}
+
+.gradientFromWhiteToTransparent video {
+    width: 100%;
 }
 
 .pageIntro {
@@ -366,7 +370,7 @@ footer a:HOVER {
     line-height: normal;
     overflow: hidden;
     position: relative;
-    min-height: 360px;
+    min-height: 480px;
 }
 
 .pageIntro img {
@@ -542,7 +546,7 @@ header .btn-primary {
 
     .pageIntro {
         font-size: 2.2em;
-        min-height: 230px;
+        min-height: 330px;
     }
 
     .showPageIntroBar .btn-primary {
@@ -570,7 +574,7 @@ header .btn-primary {
 
     .pageIntro {
         font-size: 2.5em;
-        min-height: 250px;
+        min-height: 350px;
     }
 
     .showPageIntroBar .btn-primary {

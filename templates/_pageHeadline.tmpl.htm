@@ -1,6 +1,9 @@
 <div class="pageIntro">
     <div class="gradientFromWhiteToTransparent">
-        <img ng-src="{{pageContent.presentation.fullWidthImg}}"/>
+        <video ng-if="!!pageContent.presentation.videoSource" vi-screen autoplay loop muted>
+            <source src="{{pageContent.presentation.videoSource}}" type="video/mp4">
+        </video>
+        <img  ng-if="!pageContent.presentation.videoSource" ng-src="{{pageContent.presentation.fullWidthImg}}"/>
     </div>
     <div class="introContent">
         <h1 ng-bind-html="pageContent.presentation.headline | trustHtml"></h1>

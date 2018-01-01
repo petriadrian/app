@@ -22,7 +22,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "<i class='fa fa-commenting'></i> Impresii",
+      "text": "<i class='fa fa-comments'></i> Impresii",
       "sectionId": "reviews",
       "addLinkInPageHeadline": true
     },
@@ -108,7 +108,7 @@
         {
           "type": "textarea",
           "name": "feedback",
-          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
           "placeholder": "Cum te-ai simțit la Casa Petri? ...",
           "rows": 3,
           "maxChars": 350,
@@ -117,7 +117,7 @@
         {
           "type": "textRow",
           "name": "name",
-          "iconFortAwesomeClass": "fa fa-user fa-fw",
+          "iconFortAwesomeCode": "<i class='far fa-user fa-fw'></i>",
           "placeholder": "Nume",
           "maxChars": 30,
           "required": true
@@ -125,7 +125,7 @@
         {
           "type": "textRow",
           "name": "locality",
-          "iconFortAwesomeClass": "fa fa-map-marker fa-fw",
+          "iconFortAwesomeCode": "<i class='far fa-map-marker fa-fw'></i>",
           "placeholder": "Localitate",
           "maxChars": 30,
           "required": false

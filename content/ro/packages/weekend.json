@@ -121,7 +121,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-calendar-check-o'></i> Rezervări",
+      "text": "<i class='far fa-calendar-check'></i> Rezervări",
       "sectionId": "bookings",
       "addLinkInPageHeadline": true
     },
@@ -144,28 +144,28 @@
         {
           "type": "text",
           "name": "name",
-          "iconFortAwesomeClass": "fa fa-user fa-fw",
+          "iconFortAwesomeCode": "<i class='far fa-user fa-fw'></i>",
           "placeholder": "nume",
           "required": true
         },
         {
           "type": "email",
           "name": "email",
-          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "iconFortAwesomeCode": "<i class='far fa-envelope fa-fw'></i>",
           "placeholder": "e-mail",
           "required": true
         },
         {
           "type": "phone",
           "name": "phone",
-          "iconFortAwesomeClass": "fa fa-phone fa-fw",
+          "iconFortAwesomeCode": "<i class='far fa-phone fa-fw'></i>",
           "placeholder": "telefon",
           "required": true
         },
         {
           "type": "textarea",
           "name": "others",
-          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
           "placeholder": "Alte întrebări? Scrie-ne aici...",
           "rows": 2,
           "maxChars": 500,

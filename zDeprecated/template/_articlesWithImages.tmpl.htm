@@ -41,7 +41,7 @@
                 <iframe class="trailMap" frameborder="0" src="${iframeSrc}" allowfullscreen></iframe>
                 <div class="trailIndicators">
                     {{each(i, indicationBox) indicationsBoxes}}
-                        <p title="${indicationBox.indicationHoverText}"><i class="${indicationBox.indicationIconFontAwesomeClass} fa-fw"></i> ${indicationBox.indicationText}</p>
+                        <p title="${indicationBox.indicationHoverText}"><i class="${indicationBox.indicationIconFontAwesomeClass}'></i>"></i> ${indicationBox.indicationText}</p>
                     {{/each}}
                 </div>
             </section>
@@ -70,26 +70,26 @@
             <form method="post">
                 <input type="hidden" name="reservation" value="${title}">
                 <div class="input-group">
-                    <span class="input-group-addon"><i class="fa fa-user fa-fw"></i></span>
+                    <span class="input-group-addon"><i class="fa fa-user'></i>"></i></span>
                     <input id="nameReservation" type="text" class="form-control" name="${nameBox}" placeholder="${nameBox}" required="required">
                 </div>
                 <div class="input-group">
-                    <span class="input-group-addon"><i class="fa fa-envelope fa-fw"></i></span>
+                    <span class="input-group-addon"><i class="fa fa-envelope'></i>"></i></span>
                     <input type="email" id="emailReservation" class="form-control" name="Email" placeholder="Email" required="required">
                 </div>
                 <div class="input-group">
-                    <span class="input-group-addon"><i class="fa fa-phone fa-fw"></i></span>
+                    <span class="input-group-addon"><i class="fa fa-phone'></i>"></i></span>
                     <input type="tel" id="phoneReservation" class="form-control" name="${phoneBox}" placeholder="${phoneBox}" required="required">
                 </div>
                 <div class="input-group">
-                    <span class="input-group-addon"><i class="fa fa-calendar fa-fw"></i></span>
+                    <span class="input-group-addon"><i class="fa fa-calendar'></i>"></i></span>
                     <input type="text" name="dataRange"
                            class="form-control" required="required"/>
                 </div>
                 {{each(i, roomSeatsAndPrice) roomSeatsAndPriceBox}}
                     <div class="input_fields_wrap">
                         <div class="input-group">
-                            <span class="input-group-addon"><i class="fa fa-bed fa-fw"></i></span>
+                            <span class="input-group-addon"><i class="fa fa-bed'></i>"></i></span>
                             <select class="form-control" id="roomsTypeReservation" required="required" name="${roomSeatsAndPrice.title}">
                                 <option disabled selected style='display:none;'>${roomSeatsAndPrice.title}</option>
                                 {{each(j, roomSeatsOption) roomSeatsOptions}}
@@ -102,7 +102,7 @@
                 {{each(i, campingSeatsBox) campingSeatsBoxes}}
                     <div class="input_fields_wrap">
                         <div class="input-group">
-                            <span class="input-group-addon"><i class="${campingSeatsBox.boxFontAwesomeIconClass}  fa-fw"></i></span>
+                            <span class="input-group-addon"><i class="${campingSeatsBox.boxFontAwesomeIconClass} '></i>"></i></span>
                             <input type="number" class="form-control" required="required"
                                     name="${campingSeatsBox.boxTitle}" placeholder="${campingSeatsBox.boxTitle}" max="${campingSeatsBox.boxMaxLimit}" min="1"/>
                         </div>
@@ -116,7 +116,7 @@
                 {{/each}}
                 {{if othersBox}}
                     <div class="input-group">
-                        <span class="input-group-addon"><i class="fa fa-info  fa-fw"></i></span>
+                        <span class="input-group-addon"><i class="fa fa-info '></i>"></i></span>
                         <textarea form="roomReservation" id="othersReservation" class="form-control" name="${othersBox}" placeholder="${othersBox}"></textarea>
                     </div>
                 {{/if}}

@@ -22,7 +22,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "<i class='fa fa-commenting'></i> Reviews",
+      "text": "<i class='fa fa-comments'></i> Reviews",
       "sectionId": "reviews",
       "addLinkInPageHeadline": true
     },
@@ -114,7 +114,7 @@
         {
           "type": "textarea",
           "name": "feedback",
-          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
           "placeholder": "Share here your experience at Casa Petri...",
           "rows": 3,
           "maxChars": 350,
@@ -123,7 +123,7 @@
         {
           "type": "textRow",
           "name": "locality",
-          "iconFortAwesomeClass": "fa fa-map-marker fa-fw",
+          "iconFortAwesomeCode": "<i class='far fa-map-marker fa-fw'></i>",
           "placeholder": "City",
           "maxChars": 30,
           "required": false

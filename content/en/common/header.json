@@ -4,49 +4,58 @@
     "imgUrlBigColor": "img/common/logo.png",
     "imgUrlSmallWhite": "img/common/logo_white.png",
     "url": {
-      "link": "en/home",
+      "link": "/en",
       "textOnMouseOver": "return to homepage..."
     }
   },
   "topText": {
     "text": "discover <b>Rosia Montana</b>",
     "url": {
-      "link": "en/home",
+      "link": "/en",
       "textOnMouseOver": "see more...",
       "openInNewTab": false
     }
   },
-  "regularButtons": [
+  "leftButtons": [
     {
-      "text": "<i class='fa fa-lg fa-map-signs'></i> Trails and attractions",
+      "text": "<i class='fas fa-map-signs fa-lg'></i> See & do",
       "url": {
-        "link": "en/trails/summary",
-        "textOnMouseOver": "hiking or cycling trails",
+        "link": "en/activities",
+        "textOnMouseOver": "hiking or cycling gps trails, guided trails, hammocks, tennis, running",
         "openInNewTab": false
       }
     },
     {
-      "text": "<i class='fa fa-lg fa-bed'></i> Rooms and bookings",
+      "text": "<i class='fas fa-bed fa-lg'></i> Plan your trip",
       "url": {
         "link": "en/accommodation",
-        "textOnMouseOver": "see the inside and bookings",
+        "textOnMouseOver": "accommodation, camping, guided tours, bikes rent, food info - bookings",
         "openInNewTab": false
       }
     }
   ],
-  "importantButtons": [
+  "rightButtons": [
     {
-      "text": "Packages and vouchers",
+      "text": "<i class='fas fa-phone fa-lg' data-fa-transform='rotate-90'></i> 0743 188 186",
       "url": {
-        "link": "ro/packages/summary",
-        "textOnMouseOver": "vouchers (accommodation + activities)",
+        "link": "tel:(+4)0743188186",
+        "textOnMouseOver": "call us",
+        "openInNewTab": false
+      }
+    },
+    {
+      "text": "<i class='fa fa-lg fa-gift'></i> Packages",
+      "style": "background-color: #a25222",
+      "url": {
+        "link": "en/accommodation#packages",
+        "textOnMouseOver": "packages (accommodation + activities)",
         "openInNewTab": false
       }
     }
   ],
   "iconButtons": [
     {
-      "text": "<i class='fa fa-lg fa-facebook'></i>",
+      "text": "<i class='fab fa-facebook-f fa-lg'></i>",
       "url": {
         "link": "https://www.facebook.com/casapetrirosiamontana",
         "textOnMouseOver": "follow us on facebook",
@@ -54,7 +63,7 @@
       }
     },
     {
-      "text": "<i class='fa fa-lg fa-tripadvisor'></i>",
+      "text": "<i class='fab fa-tripadvisor fa-lg'></i>",
       "url": {
         "link": "https://www.tripadvisor.com/Hotel_Review-g9998203-d9871602-Reviews-Casa_Petri_Rosia_Montana-Rosia_Montana_Alba_County_Central_Romania_Transylvania.html#REVIEWS",
         "textOnMouseOver": "tripAdvisor reviews",
@@ -62,7 +71,7 @@
       }
     },
     {
-      "text": "<i class='fa fa-lg fa-map-marker'></i>",
+      "text": "<i class='fas fa-map-marker-alt fa-lg'></i>",
       "url": {
         "link": "https://www.google.ro/maps/dir//Casa+Petri,+DC146+334,+Ro%C8%99ia+Montan%C4%83+517615/@46.4076261,22.8131462,9z/data=!4m13!1m4!3m3!1s0x474ecce046c99d41:0xc76f83a95070630c!2sCasa+Petri!3b1!4m7!1m0!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754?hl=ro",
         "textOnMouseOver": "how to reach us?",

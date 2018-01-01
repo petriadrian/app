@@ -1,7 +1,7 @@
 {
   "presentation": {
-    "title": "Pachete și vouchere",
-    "headline": "Pachete și vouchere",
+    "title": "Pachete",
+    "headline": "Pachete",
     "description": "<b>cu excursii la Roșia Montană</b><br>Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat pachete ce includ cazarea și diverse activități ...",
     "fullWidthImg": "img/packages/summary/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/packages/summary/presentation/smallBoxImg.jpg"
@@ -75,21 +75,21 @@
         {
           "type": "text",
           "name": "serial",
-          "iconFortAwesomeClass": "fa fa-barcode fa-fw",
+          "iconFortAwesomeCode": "<i class='far fa-barcode fa-fw'></i>",
           "placeholder": "serie voucher",
           "required": true
         },
         {
           "type": "email",
           "name": "email",
-          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "iconFortAwesomeCode": "<i class='far fa-envelope fa-fw'></i>",
           "placeholder": "e-mail",
           "required": true
         },
         {
           "type": "textarea",
           "name": "others",
-          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
           "placeholder": "Alte întrebări? Scrie-ne aici...",
           "rows": 2,
           "maxChars": 500,
