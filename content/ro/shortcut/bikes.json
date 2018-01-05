@@ -1,0 +1,12 @@
+{
+  "presentation": {
+    "title": "Biciclete",
+    "description": "<b>Închirieri, reparații, trasee</b><br>Avem biciclete de închiriat și un mic garaj pentru reparații sau oferim trasee ghidate pe bicicletă",
+    "smallBoxImg": "img/accommodation/shortcut/bikes.jpg"
+  },
+  "url": {
+    "link": "ro/accommodation#bike",
+    "textOnMouseOver": "Vezi mai mult...",
+    "openInNewTab": false
+  }
+}

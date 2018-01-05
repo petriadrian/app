@@ -1,0 +1,12 @@
+{
+  "presentation": {
+    "title": "Accommodation",
+    "description": "<b>Rooms, camping - bookings</b> <br>We restored our grandparents house. Each room has bathroom, kitchen and in the yard is a patio and hammocks. See the inside...",
+    "smallBoxImg": "img/accommodation/shortcut/cazare.jpg"
+  },
+  "url": {
+    "link": "en/accommodation#rooms",
+    "textOnMouseOver": "See more...",
+    "openInNewTab": false
+  }
+}

@@ -5,9 +5,6 @@
        href="{{reviewPageContent.url.link}}"
        target="{{reviewPageContent.url.openInNewTab ? '_blank' : '_self'}}"
        title="{{reviewPageContent.url.textOnMouseOver}}">
-        <span class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <i class="fas fa-comments"></i>
-        </span>
 
         <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 reviewPreviewArea">
             <div class="carousel slide" data-ride="carousel" data-interval="9000">
@@ -15,30 +12,22 @@
                     <div ng-repeat="review in reviews track by $index"
                          ng-class='{active:$first}' class="item">
                         <div class="carousel-caption">
-                            <div class="reviewTitle"
-                                 ng-bind-html="review.title | trustHtml"></div>
+                            <span><i class="fas fa-comment-alt"></i> Review: </span>
+                            <span class="reviewTitle" ng-bind-html="review.title | trustHtml"></span>
                             <p ng-bind-html="review.textContent | trustHtml"></p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <span class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <i class="fas fa-ellipsis-h"></i>
-        </span>
     </a>
 
     <div class="row">
         <!--website contact data-->
         <section class="col-xs-10 col-sm-5 col-md-4 col-lg-2 contactCard defaultClickStyle">
-            <a href="{{footerContent.contactCard.url.link}}"
-               target="{{footerContent.contactCard.url.openInNewTab ? '_blank' : '_self'}}"
-               title="{{footerContent.contactCard.url.textOnMouseOver}}">
-                <p ng-repeat="contactData in footerContent.contactCard.content">
-                    <i ng-class="contactData.iconFortAwesomeCode"></i>
-                    <span ng-bind-html="contactData.text | trustHtml"></span>
-                </p>
-            </a>
+            <iframe frameborder="0" style="border:0;"
+                    ng-src="{{footerContent.googleMapLink | trustUrl}}"
+                    allowfullscreen></iframe>
         </section>
 
         <!--facebook-->

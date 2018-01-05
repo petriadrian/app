@@ -1,0 +1,363 @@
+{
+  "presentation": {
+    "title": "Weekend la narcise",
+    "headline": "Weekend la Poiana cu Narcise Apuseni",
+    "descriptionTitle": "pachet încheiat - vezi cum a fost",
+    "description": "Sâmbăta mergem la Sărbătoarea Narciselor din Poiana Negrileasa Apuseni, iar duminică un tur ghidat în Roșia Montană",
+    "fullWidthImg": "img/packages/narcise/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/packages/narcise/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/packages/narcise",
+    "textOnMouseOver": "Vezi mai mult...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Weekend la Poiana cu Narcise Apuseni (19-21 Mai)",
+    "description": "Pachet cu drumetii: vizita la Poiana cu Narcise unde are loc Sarbatoarea Narciselor, proiectie de film in gradina, traseu ghidat  in Rosia Montana, cazare, transport, mancare (traseele se pot face si cu bicicleta)",
+    "displayOnShareImg": "img/packages/narcise/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": " ",
+      "sectionId": "intro",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b>Pachet turistic</b>: Sâmbătă (20 Mai) - drumeție spre <b>Poiana cu Narcise</b> Apuseni la Sarbatoarea Narciselor, iar seara <b>proiecție de film</b> în grădină. Duminică - <b>traseu ghidat în Roșia Montană</b> (centrului istoric și masivul Cârnic). Pachetul contine cazare, trasee ghidate, informații despre mancare și eventual transport din Cluj."
+        },
+        {
+          "textContent": "<b>data 19 - 20 Mai | încheiere înscrieri: 18 Mai"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar'></i> Program",
+      "sectionId": "schedule",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<br><b><i class='fa fa-clock-o'></i> 16:00 - 21:00 - vineri (19 Mai) - check in</b> la locul de cazare - Casa Petri, nr. 331, centru istoric Rosia Montană, jud. Alba."
+        },
+        {
+          "title": "Vizită la Poiana cu Narcise",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 09:30 - 18:00 - sâmbătă (20 Mai)</b> <br>De la Casa Petri o să pornim spre Poiana cu Narcise unde va avea loc o mică petrecere câmpenească cu muzica, dansuri, mancare și meșteșuguri specifice zonei pentru a celebra apariția narciselor. Sunt două variante de a ajunge acolo (in functie de alegerea grupului): cu mașina pe un drum asfaltat (~45min) urmat de o drumeție de ~2h sau cu bicicleta pe un drum de țară (~4h) - se pot închiria biciclete de la noi. Odată ajunși acolo vă recomandăm să nu culegeți prea multe narcise deoarece se ofilesc destul de rapid. Adevăratul lor farmec este aici în mediul lor natural, la Poiana cu Narcise din Apuseni.",
+          "images": [
+            {
+              "text": "La poiana cu narcise Apuseni.",
+              "thumbnailUrl": "img/trails/daffodilMeadow/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/daffodilMeadow/article/fullSize/1.jpg"
+            },
+            {
+              "text": "La poiana cu narcise Apuseni.",
+              "thumbnailUrl": "img/trails/daffodilMeadow/article/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/daffodilMeadow/article/fullSize/2.jpg"
+            },
+            {
+              "text": "La poiana cu narcise Apuseni.",
+              "thumbnailUrl": "img/trails/daffodilMeadow/article/thumbnail/narcise.jpg",
+              "fullSizeUrl": "img/trails/daffodilMeadow/article/fullSize/narcise.jpg"
+            },
+            {
+              "text": "La poiana cu narcise Apuseni.",
+              "thumbnailUrl": "img/trails/daffodilMeadow/article/thumbnail/picior.jpg",
+              "fullSizeUrl": "img/trails/daffodilMeadow/article/fullSize/picior.jpg"
+            },
+            {
+              "text": "La poiana cu narcise Apuseni.",
+              "thumbnailUrl": "img/trails/daffodilMeadow/article/thumbnail/poiana.jpg",
+              "fullSizeUrl": "img/trails/daffodilMeadow/article/fullSize/poiana.jpg"
+            },
+            {
+              "text": "La poiana cu narcise Apuseni.",
+              "thumbnailUrl": "img/trails/daffodilMeadow/article/thumbnail/biciclete.jpg",
+              "fullSizeUrl": "img/trails/daffodilMeadow/article/fullSize/biciclete.jpg"
+            },
+            {
+              "text": "La poiana cu narcise Apuseni.",
+              "thumbnailUrl": "img/trails/daffodilMeadow/article/thumbnail/narcisele.jpg",
+              "fullSizeUrl": "img/trails/daffodilMeadow/article/fullSize/narcisele.jpg"
+            },
+            {
+              "text": "Spre poiana cu narcise.",
+              "thumbnailUrl": "img/trails/daffodilMeadow/article/thumbnail/traseuBicicleta.jpg",
+              "fullSizeUrl": "img/trails/daffodilMeadow/article/fullSize/traseuBicicleta.jpg"
+            },
+            {
+              "text": "Pe traseu.",
+              "thumbnailUrl": "img/trails/daffodilMeadow/article/thumbnail/traseuPeisaj.jpg",
+              "fullSizeUrl": "img/trails/daffodilMeadow/article/fullSize/traseuPeisaj.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Proiecție în grădină",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 20:00 - 22:00 - sâmbătă (20 Mai)</b> <br>Proiecție 'Povestea Roșiei Montane' - imagini, filme și povești despre trecutul și evoluția satului, modul de extracție al aurului din trecut până în prezent și viața de azi. Proiecția este și o introducere pentru traseul ghidat ce va avea loc în ziua următoare.",
+          "images": [
+            {
+              "text": "Proiecții în grădină",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+            },
+            {
+              "text": "Imagini din proiecție",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Traseu ghidat Roșia Montană",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 09:30 - 14:00 - duminică (21 Mai)</b> <br>O să vizităm împreună cu un ghid diverse clădiri de patrimoniu din centrul istoric (școli cu predare în diverse limbi, biserici de diferite culte sau fostele case ale aurarilor) construite de diverse nații venite aici de-a lungul timpului pentru a căuta aur. Vom povesti despre toate acestea, iar apoi dacă mai aveți timp și energie vom urca pe masivul Cârnic de unde vă promitem o priveliște deosebită asupra satului.",
+          "images": [
+            {
+              "text": "Tur ghidat - centrul istoric Roșia Montană.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+            },
+            {
+              "text": "Centrul istoric.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/4.jpg"
+            },
+            {
+              "text": "Fostele case ale aurarilor - cladiri de patrimoniu din centrul istoric.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/3.jpg"
+            },
+            {
+              "text": "Ornamente ale clădirilor de patrimoniu din centrul istoric Roșia Montană.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/ornamente.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/ornamente.jpg"
+            },
+            {
+              "text": "Lângă centrul istoric sunt câteva tăuri. Vom afla acolo de ce au fost construite în apropierea satului și rolul lor în producția aurului.",
+              "thumbnailUrl": "img/trails/attractions/lakes/braziLake/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/braziLake/fullSize/2.jpg"
+            },
+            {
+              "text": "Popas la punctele de belvedere.",
+              "thumbnailUrl": "img/trails/attractions/panoramicBench/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/panoramicBench/fullSize/2.jpg"
+            },
+            {
+              "text": "Pe traseu - punct de belvedere Cârnic.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+            },
+            {
+              "text": "Piatra Corbului Cârnic - în interior sunt cele mai vechi galerii din zonă, realizate printr-o tehnică specială.",
+              "thumbnailUrl": "img/trails/attractions/carnic/ravenStone/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/1.jpg"
+            }
+          ]
+        },
+        {
+          "title": ".",
+          "textContent": "Excursia se va încheia duminică (21 Mai), după traseul ghidat. Înainte de a pleca trebuie să facem o <b>fotografie</b> de grup și să ne spuneți <b>părerea</b> voastră despre ce putem îmunătăți la acest pachet. Citiți opiniile celor care ne-au trecut pragul pe pagina de ",
+          "seeAlso": [
+            {
+              "text": "reviews",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/review",
+              "openInNewTab": false
+            }
+          ],
+          "images": [
+            {
+              "text": "Împreună cu un grup din România.",
+              "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/alexandra-postelnicu.jpg",
+              "fullSizeUrl": "img/reviews/article/reviewer/fullSize/alexandra-postelnicu.jpg"
+            },
+            {
+              "text": "Împreună cu un grup din Suedia.",
+              "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/simona-sweden.jpg",
+              "fullSizeUrl": "img/reviews/article/reviewer/fullSize/simona-sweden.jpg"
+            },
+            {
+              "text": "Împreună cu un grup din India și Taiwan.",
+              "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/11.jpg",
+              "fullSizeUrl": "img/reviews/article/reviewer/fullSize/11.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-info-circle'></i> Info",
+      "sectionId": "info",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai jos sunt informații despre pachet și alte detalii care pot fi de folos. Pentru orice alte întrebări contactați-ne prin email sau telefon (le găsiți la finalul acestei pagini)."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-bed'></i> Cazare",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "accommodationShortInfo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-cutlery'></i> Mâncare",
+      "sectionId": "food",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "food"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<i class='fa fa-info-circle'></i> Sâmbătă la amiaz se poate lua masa la sărbătoarea câmpenească de la poiana cu narcise. O să vină localnici cu mâncăruri tradiționale."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-puzzle-piece'></i> Activități alternative",
+      "sectionId": "otherActivities",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "otherActivitiesSecondPart"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "bike"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Alte informații",
+      "sectionId": "otherInfo",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b><i class='fa fa-suitcase'></i> Echipament</b> recomandat - pelerină de ploaie, bocanci de munte și protecție pentru soare. <br><br><b><i class='fa fa-users'></i> Număr minim: 4 participanți</b> (în caz contrar turul poate fi anulat - îi vom anunța pe cei înscriși cu 3 zile înainte) | <b>Numărul maxim: 10 participanți</b>. <br><br><b><i class='fa fa-child'></i> Copii</b> - puteți veni și cu cei mici, recomandarea noastră este să aibe peste 12 ani și să fiți siguri că rezistă la traseele descrise mai sus. <br><br><b><i class='fa fa-car'></i> Transport</b> - putem lua 3 persoane și 2 biciclete din Cluj - plecăm vineri la 17:00 și ne întoarcem duminică (~35lei/pers) - specificați la efecturea rezervării dacă veniți cu noi. Dacă veniți cu mașina personală setați pe google maps gps 'Casa Petri Rosia Montana'. ",
+          "seeAlso": [
+            {
+              "text": "Vedeți aici alte variante de transport...",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/accommodation#directions",
+              "openInNewTab": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar-check-o'></i> Prețuri și Rezervări",
+      "sectionId": "bookings",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Acest tur s-a încheiat - vedeți pe următorul link cum s-a desfășurat: ",
+          "seeAlso": [
+            {
+              "text": "imagini și review-uri pachet",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.facebook.com/casapetrirosiamontana/posts/1667283313311361",
+              "openInNewTab": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": ".",
+          "textContent": "O parte din imaginile de pe aceasta pagină au fost preluate cu acordul părților de pe site-urile <a href='https://www.visitalba.ro'>visitalba.ro</a>  și <a href='http://rucsacdemunte.blogspot.ro'>rucsacdemunte.blogspot.ro</a>. Vă mulțumim."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "seeAlso",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/shortcut/trailsAndAttractions"
+        },
+        {
+          "page": "ro/shortcut/packages"
+        }
+      ]
+    }
+  ]
+}

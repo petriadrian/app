@@ -18,7 +18,7 @@
   },
   "leftButtons": [
     {
-      "text": "<i class='fas fa-map-signs fa-lg'></i> Ce fac acolo?",
+      "text": "Atracții",
       "url": {
         "link": "ro/activities",
         "textOnMouseOver": "atracții, trasee gps de drumeție sau ciclism, trasee ghidate, tenis, hamace, cărți",
@@ -26,10 +26,34 @@
       }
     },
     {
-      "text": "<i class='fas fa-bed fa-lg'></i> Ce oferim?",
+      "text": "Cazare",
       "url": {
         "link": "ro/accommodation",
         "textOnMouseOver": "cazare, campare, trasee ghidate, închirieri biciclete, info mâncare - rezervări",
+        "openInNewTab": false
+      }
+    },
+    {
+      "text": "Ghid",
+      "url": {
+        "link": "ro/accommodation#guidedTrails",
+        "textOnMouseOver": "trasee ghidate cu localnici",
+        "openInNewTab": false
+      }
+    },
+    {
+      "text": "Evenimente",
+      "url": {
+        "link": "ro/home#events",
+        "textOnMouseOver": "evenimente și pachete",
+        "openInNewTab": false
+      }
+    },
+    {
+      "text": "FotoBlog",
+      "url": {
+        "link": "ro/home#photoblog",
+        "textOnMouseOver": "articole foto Roșia",
         "openInNewTab": false
       }
     }
@@ -44,11 +68,11 @@
       }
     },
     {
-      "text": "<i class='fa fa-lg fa-gift'></i> Pachete",
+      "text": "Rezervări",
       "style": "background-color: #a25222",
       "url": {
-        "link": "ro/accommodation#packages",
-        "textOnMouseOver": "pachete (cazare+activități)",
+        "link": "ro/accommodation#bookings",
+        "textOnMouseOver": "cazare, mâncare, activități",
         "openInNewTab": false
       }
     }

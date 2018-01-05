@@ -1,0 +1,13 @@
+{
+  "presentation": {
+    "title": "How to reach us?",
+    "description": "<b>Mașină, autobuz, tren</b><br>Ne aflăm în centru istoric din Roșia Montană - Apuseni - Transilvania. Vezi cum ajungi și harta online...",
+    "description": "<b>Car, bus, train</b><br>We are in the historic center of Rosia Montana - Apuseni - Transylvania. See here how to reach us and online map...",
+    "smallBoxImg": "img/accommodation/shortcut/directions.jpg"
+  },
+  "url": {
+    "link": "en/accommodation#directions",
+    "textOnMouseOver": "See more...",
+    "openInNewTab": false
+  }
+}

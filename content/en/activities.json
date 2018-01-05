@@ -1,0 +1,175 @@
+{
+  "presentation": {
+    "title": "Visit Rosia Montana",
+    "headline": "Discover Rosia Montana",
+    "description": "<b>Biking or walking?</b><br>Discover our area through the trails presented here. They have online maps from our house to the main touristic attractions...",
+    "fullWidthImg": "img/activities/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/activities/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/activities",
+    "textOnMouseOver": "See more...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Discover Rosia Montana. Trails, attractions, activities",
+    "description": "Trails on areas (from historic center and roman galleries up to the top of the mountains). Thematic trails (mining evolution, the protests, rural life). You can also book guided tours, rooms, bikes, camping in Rosia Montana, Alba, Apuseni Mountains, Transylvania, Romania.",
+    "displayOnShareImg": "img/activities/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Trails and attractions",
+      "sectionId": "trailsAndAttractions",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "We are located in Roșia Montana, Carpathian Mountains, Transylvania, an area with great landscapes due to the mountains, valleys and the lakes around us, but also with a rich culture and history because of the heritage buildings and to the <b>one of the largest underground gold mining system in the world</b> built by various civilizations who come here to extract gold. To discover our area we propose the following trails to local attractions and surroundings (with images, description and online maps that starts from our house). Legend: <i class='fa fa-lg fa-blind'></i> - <b>hiking</b> trail | <i class='fa fa-lg fa-bicycle'></i> - <b>biking</b> trail | <i class='fa fa-lg fa-car'></i> - the destination can be also reach by <b>car</b>"
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Local trails",
+          "textContent": "These trails contains the main attractions from Roșia Montană. They are recommended for <b>hiking</b> or <b>cycling</b>."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/trails/historicCenter"
+        },
+        {
+          "page": "en/trails/romanGalleries"
+        },
+        {
+          "page": "en/trails/carnic"
+        },
+        {
+          "page": "en/trails/fourLakes"
+        },
+        {
+          "page": "en/trails/vartop"
+        },
+        {
+          "page": "en/trails/detunata"
+        },
+        {
+          "page": "en/trails/corna"
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Surroundings",
+          "textContent": "These trails contains the attractions around the Roșia Montană. They are recommended for <b>cycling</b> or they also can be reach by <b>car</b>."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/trails/geamana"
+        },
+        {
+          "page": "en/trails/vulcan"
+        },
+        {
+          "page": "en/trails/daffodilMeadow"
+        },
+        {
+          "page": "en/trails/scarisoara"
+        },
+        {
+          "page": "en/events/steamTrain"
+        },
+        {
+          "page": "en/trails/zlatnaPool"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-map-signs'></i> Guided trails",
+      "sectionId": "guidedTrails",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "guide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-book'></i> Other activities",
+      "sectionId": "otherActivities",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "otherActivitiesSecondPart"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "",
+      "sectionId": "justToDisplayALine",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/trails/topAttractions"
+      }
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/shortcut/packages"
+        },
+        {
+          "page": "en/accommodation"
+        }
+      ]
+    }
+  ]
+}

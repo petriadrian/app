@@ -1,0 +1,12 @@
+{
+  "presentation": {
+    "title": "Packages",
+    "description": "<b>with trips at Rosia Montana</b><br>We know what you can do in our area, that's why we prepared some packages with accommodation and different activities",
+    "smallBoxImg": "img/accommodation/shortcut/packages.jpg"
+  },
+  "url": {
+    "link": "en/accommodation#packages",
+    "textOnMouseOver": "See more...",
+    "openInNewTab": false
+  }
+}

@@ -8,7 +8,7 @@
   },
   "url": {
     "link": "en/review",
-    "textOnMouseOver": "See more images and reviews...",
+    "textOnMouseOver": "Click to see or add reviews...",
     "openInNewTab": false
   },
   "metaData": {
@@ -112,7 +112,7 @@
       "submitButtonText": "Send",
       "fields": [
         {
-          "type": "textarea",
+          "type": "text",
           "name": "feedback",
           "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
           "placeholder": "Share here your experience at Casa Petri...",
@@ -121,9 +121,9 @@
           "required": true
         },
         {
-          "type": "textRow",
+          "type": "text",
           "name": "locality",
-          "iconFortAwesomeCode": "<i class='far fa-map-marker fa-fw'></i>",
+          "iconFortAwesomeCode": "<i class='fas fa-map-marker fa-fw'></i>",
           "placeholder": "City",
           "maxChars": 30,
           "required": false

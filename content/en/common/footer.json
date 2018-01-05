@@ -1,45 +1,17 @@
 {
-  "contactCard": {
-    "url": {
-      "link": "https://www.google.ro/maps/dir//Casa+Petri,+DC146+334,+Ro%C8%99ia+Montan%C4%83+517615/@46.4076261,22.8131462,9z/data=!4m13!1m4!3m3!1s0x474ecce046c99d41:0xc76f83a95070630c!2sCasa+Petri!3b1!4m7!1m0!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754?hl=ro",
-      "textOnMouseOver": "How to get here?",
-      "openInNewTab": true
-    },
-    "content": [
-      {
-        "text": "",
-        "iconFortAwesomeCode": "<i class='far fa-home fa-2x fa-flip-horizontal"
-      },
-      {
-        "text": "Casa Petri Roșia Montană",
-        "iconFortAwesomeCode": "<i class='far fa-copyright"
-      },
-      {
-        "text": "(+4)0743188186",
-        "iconFortAwesomeCode": "<i class='far fa-phone"
-      },
-      {
-        "text": "petriadrian@gmail.com",
-        "iconFortAwesomeCode": "<i class='far fa-envelope-o"
-      },
-      {
-        "text": "Rosia Montana 331, Alba, Romania",
-        "iconFortAwesomeCode": "<i class='far fa-map-marker"
-      }
-    ]
-  },
+  "googleMapLink": "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJQZ3JRuDMTkcRDGNwUKmDb8c&key=AIzaSyAAfI8jQQrhfmikiG-nBj2_t5r-P98cem8",
   "weatherLink": "https://www.meteoblue.com/en/weather/widget/daily/ro%c8%99ia-montan%c4%83_romania_668639?days=7&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&pictoicon=1&maxtemperature=1&layout=dark",
   "facebookLink": "https://www.facebook.com/casapetrirosiamontana",
   "form": {
     "sendEmailTitle": "newSuggestion",
     "successMessage": "Thanks! We will respond as fast as possible.",
-    "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
+    "errorMessage": "ERROR! Please contact us by phone",
     "submitButtonText": "Send",
     "fields": [
       {
         "type": "textarea",
         "name": "feedback",
-        "iconFortAwesomeCode": "<i class='fas fa-commentsfa-fw fa-fw'></i>",
+        "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
         "placeholder": "We want to improve. Leave us a feedback! ...",
         "rows": 3,
         "maxChars": 350,
@@ -49,7 +21,7 @@
         "type": "email",
         "name": "email",
         "rows": 1,
-        "iconFortAwesomeCode": "<i class='far fa-envelopefa-fw fa-fw'></i>",
+        "iconFortAwesomeCode": "<i class='far fa-envelope fa-fw'></i>",
         "placeholder": "Email",
         "required": true
       }

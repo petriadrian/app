@@ -1,0 +1,12 @@
+{
+  "presentation": {
+    "title": "Cazare",
+    "description": "<b>Camere, campare - rezervări</b><br>Am renovat casa părintească. Camerele au băi și bucătărie propie iar în grădină avem foișor și hamace. Vezi interiorul...",
+    "smallBoxImg": "img/accommodation/shortcut/cazare.jpg"
+  },
+  "url": {
+    "link": "ro/accommodation#rooms",
+    "textOnMouseOver": "Vezi mai mult...",
+    "openInNewTab": false
+  }
+}

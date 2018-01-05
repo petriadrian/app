@@ -1,0 +1,409 @@
+{
+  "presentation": {
+    "title": "Mining evolution tour",
+    "headline": "Roșia Montană mining evolution tour",
+    "descriptionTitle": "28-31 july | package",
+    "description": "Guided tour: mining evolution (from mining galleries of 2000 years old to open pits and waste pounds",
+    "fullWidthImg": "img/packages/miningTour/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/packages/miningTour/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/packages/miningTour",
+    "textOnMouseOver": "See more...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "Roșia Montană mining evolution tour | 28-31 july",
+    "description": "Hiking guided tour - mining evolution (from mining galleries of 2000 years old to open pits and waste pounds (Roșia Poieni and Geamăna). The package also includes movie screenings, accommodation and food. More details here...",
+    "displayOnShareImg": "img/packages/miningTour/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": " ",
+      "sectionId": "intro",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b>touristic package on 28-31 july | last day to register: 23 july"
+        },
+        {
+          "textContent": "The cultural mining landscape of Roșia Montană contains the marks and the history of gold mining exploitations from roman times to the XXI century. Discover the mining evolution from Rosia Montana through movie screenings and guided tours in the area (from mining galleries of 2000 years old, to open pits and waste pounds (Roșia Poieni and Geamăna). The package also includes accommodation and food."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar'></i> Schedule",
+      "sectionId": "schedule",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<br><b><i class='fa fa-clock-o'></i> 16:00 - 21:00 - friday - check in</b> at the accommodation place - Casa Petri, historic center of Rosia Montană 331 - Romania."
+        },
+        {
+          "title": "Movie 'The story of gold'",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 21:00 - 22:30 - friday</b> <br>Movie screening in the garden - 'The story of Roșia Montană gold' - images, movies and stories about the gold mining methods that were used here (from the past to nowadays), the life of the goldsmiths and the impact of opening a new open pit to extract the remaining gold. The projection is a intro for the next day tours.",
+          "images": [
+            {
+              "text": "Movie screening in the garden",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+            },
+            {
+              "text": "Images form the movie screening.",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
+            }
+          ]
+        },
+        {
+          "title": "The gold galleries tour",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 10:00 - 18:00 - saturday</b> <br>A guide from the Mining Museum will present us one of the oldest gold exploitations in the area (the roman galleries) and after we will visit the fire and water galleries from the Cârnic massif and the 'corandă' galleries from Văidoaia. We will also see the gold processing installations, the houses and the local habits of the different nations who come here during the years to extract gold.",
+          "images": [
+            {
+              "text": "The Roman galleries (106 – 272 AD)",
+              "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/1.jpg"
+            },
+            {
+              "text": "The installations used to process the gold.",
+              "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/2.jpg"
+            },
+            {
+              "text": "The Raven Stone Cârnic - here some of the oldest galleries in the area build with a special technique",
+              "thumbnailUrl": "img/trails/attractions/carnic/ravenStone/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/1.jpg"
+            },
+            {
+              "text": "The Roman galleries from Cârnic",
+              "thumbnailUrl": "img/trails/attractions/carnic/galleries/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/galleries/fullSize/1.jpg"
+            },
+            {
+              "text": "In the historic center we will discover the churches, the houses and the habits of the goldsmiths.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/4.jpg"
+            },
+            {
+              "text": "We will visit some of the lakes from the area and will find their role in the gold mining. ",
+              "thumbnailUrl": "img/trails/attractions/lakes/braziLake/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/braziLake/fullSize/1.jpg"
+            },
+            {
+              "text": "On the trail - Cârnic.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+            },
+            {
+              "text": "The 'corandă' galleries visit.",
+              "thumbnailUrl": "img/trails/attractions/vaidoaiaGalleries/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/vaidoaiaGalleries/fullSize/3.jpg"
+            }
+          ]
+        },
+        {
+          "title": "The open pits tour",
+          "textContent": "We will continue with some recent mining exploitations: the open pit Cetate and one of the biggest open pits from Europe - Roșia Poieni. It was the pride of the communism regime, it has big machines and the mining wastes were throw over a village nearby, forming the Geamăna waste pound. To visit these objectives we will have to send a request with the list of the visitors and their id data with one week before (this is why the last day of registration is so early)."
+        },
+        {
+          "textContent": "<b><i class='fa fa-clock-o'></i> 09:30 - 17:00 - sunday</b> <br>Hiking to the Cetate open pit and then to Roșia Poieni open pit.",
+          "images": [
+            {
+              "text": "The Cetate open pit - mining marks made during communism period to extract the gold",
+              "thumbnailUrl": "img/trails/attractions/carnic/sphinx/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/sphinx/fullSize/2.jpg"
+            },
+            {
+              "text": "The Roșia Poieni open pit - 24 floors, each 15m high.",
+              "thumbnailUrl": "img/trails/attractions/copperPit/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/copperPit/fullSize/1.jpg"
+            },
+            {
+              "text": "Guided tour - Roșia Poieni - the acces is allowed only from observation points.",
+              "thumbnailUrl": "img/trails/attractions/copperPit/thumbnail/rosiaPoieniTourists.jpg",
+              "fullSizeUrl": "img/trails/attractions/copperPit/fullSize/rosiaPoieniTourists.jpg"
+            }
+          ]
+        },
+        {
+          "textContent": "<br><br><b><i class='fa fa-clock-o'></i> 09:00 - 16:00 - monday</b> <br>Geamăna tour - we will decide together if we will visit it by car or by foot. In our way we can stop to one of the oldest monastery from our region - Lupșa - 1421 AD.",
+          "images": [
+            {
+              "text": "Geamăna - the rood around it is ~20km long.",
+              "thumbnailUrl": "img/trails/attractions/lakes/geamana/thumbnail/6.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/geamana/fullSize/6.jpg"
+            },
+            {
+              "text": "Geamăna - only the tower of the church can be seen now from the old village.",
+              "thumbnailUrl": "img/trails/attractions/lakes/geamana/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/geamana/fullSize/1.jpg"
+            },
+            {
+              "text": "Lupșa Monastery - 1421 AD",
+              "thumbnailUrl": "img/trails/attractions/churches/lupsa/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/churches/lupsa/fullSize/1.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "readOurReviews"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-info-circle'></i> Info",
+      "sectionId": "info",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "packagesInfoText"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-bed'></i> Accommodation",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "accommodationShortInfo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-cutlery'></i> Food",
+      "sectionId": "food",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "food"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-puzzle-piece'></i> Alternative activities",
+      "sectionId": "otherActivities",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "otherActivitiesFirstPart"
+            },
+            {
+              "id": "otherActivitiesSecondPart"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Other information",
+      "sectionId": "otherInfo",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "otherInfoTours"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar-check-o'></i> Prices and Bookings",
+      "sectionId": "bookings",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "tourReservationInfo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "sendEmailTitle": "miningTour",
+      "beforeSubmitText": "The booking will be valid only when a <b>confirmation email</b> will be received!",
+      "submitButtonText": "Send the booking",
+      "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
+      "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
+      "fields": [
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "placeholder": "e-mail",
+          "required": true
+        },
+        {
+          "type": "phone",
+          "name": "phone",
+          "iconFortAwesomeClass": "fa fa-phone fa-fw",
+          "placeholder": "Phone",
+          "required": true
+        },
+        {
+          "type": "selectBoxAllowDuplicates",
+          "name": "room",
+          "required": true,
+          "iconFortAwesomeClass": "fa fa-bed fa-fw",
+          "placeholder": "Chose the room",
+          "allowToDuplicateSettings": {
+            "addButtonText": "+ add",
+            "removeButtonText": "- delete",
+            "minOccurs": 1,
+            "maxOccurs": 10
+          },
+          "inputs": [
+            {
+              "selectOptions": [
+                {
+                  "text": "1 person room - 24€/night"
+                },
+                {
+                  "text": "2 persons room - 28€/night"
+                },
+                {
+                  "text": "3 persons room - 35€/night"
+                },
+                {
+                  "text": "4 persons room - 40€/night"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "checkBoxes",
+          "title": "I want:",
+          "checkBoxes": [
+            {
+              "name": "reserveFood",
+              "text": "<i class='fa fa-fw fa-cutlery'></i> | <b>meals at locals ~12€/pers/day</b>"
+            },
+            {
+              "name": "clujTransport",
+              "text": "<i class='fa fa-fw fa-car'></i> | <b>transport from Cluj Romania ~10€/pers</b>"
+            }
+          ]
+        },
+        {
+          "type": "textarea",
+          "name": "others",
+          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "placeholder": "Other details? Write here...",
+          "rows": 2,
+          "maxChars": 500,
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": " ",
+      "sectionId": "notInterested",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "seeOurFacebookEvent"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> See also",
+      "sectionId": "seeAlso",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/shortcut/trailsAndAttractions"
+        },
+        {
+          "page": "en/shortcut/packages"
+        }
+      ]
+    }
+  ]
+}

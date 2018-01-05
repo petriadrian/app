@@ -1,0 +1,369 @@
+{
+  "presentation": {
+    "title": "Fermier în Apuseni",
+    "headline": "3 zile ca fermier în Apuseni",
+    "descriptionTitle": "3-6aug | pachet agroturistic",
+    "description": "Trăiește ca un fermier. Aduni fânul pentru iernat, mânci produse locale, iar seara participi la adăpatul și mulsul vacilor",
+    "fullWidthImg": "img/packages/hayMaking/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/packages/hayMaking/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/packages/hayMaking",
+    "textOnMouseOver": "Vezi mai mult...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "3 zile ca fermier în Apuseni. Pachet agroturistic.",
+    "description": "Conectează-te la viața fermierilor din Roșia Montană prin a participa la diverse activități împreună cu aceștia, ca adunatul fânului sau adăpatul și mulsul vacilor. Luăm masa la fermă și încheiem cu un tur ghidat al satului. Cazare, rezervări, prețuri și alte detalii aici...",
+    "displayOnShareImg": "img/packages/hayMaking/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": " ",
+      "sectionId": "intro",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b>pachet agroturistic | 3-6 august"
+        },
+        {
+          "textContent": "Îți propunem 3 zile altfel la Roșia Montană. Începem cu un tur al zonei pentru a te conecta la locul unde va urma să trăiești ca fermier. O să participi la adunatul fânului pentru iernat, adăpatul animalelor, mulsul vacilor și povești cu localnicii pe prispa casei. Vom lua masa la fermă, iar în ultima zi vom organiza un tur ghidat al satului."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar'></i> Program",
+      "sectionId": "schedule",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<br><b><i class='fa fa-clock-o'></i> 14:00 - 19:00 - joi <br> Check in</b>, la Casa Petri, nr. 331, centru istoric Rosia Montană, jud. Alba."
+        },
+        {
+          "title": "Turul fermei",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 19:00 - 21:00 - joi</b> <br>După ce sosește toată lumea o să pornim la o scurtă plimbare de seară pentru a intra în atmosfera locului, a fermei și a împrejurimilor.",
+          "images": [
+            {
+              "text": "Descoperim ferma de vaci Țarina și trecutul ei",
+              "thumbnailUrl": "img/trails/attractions/sculpture/thumbnail/simpozion.jpg",
+              "fullSizeUrl": "img/trails/attractions/sculpture/fullSize/simpozion.jpg"
+            },
+            {
+              "text": "Câmpurile și împrejurimile.",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/14.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/14.jpg"
+            },
+            {
+              "text": "Locuri apropiate - Tăul Țarina.",
+              "thumbnailUrl": "img/trails/attractions/lakes/tariniLake/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/tariniLake/fullSize/1.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Activități la fermă",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 11:00 - 19:00 - vineri și sâmbătă</b> <br>Mersul la polog sau adunatul fânului este principala activitate a fermierilor în această perioadă. Este un meșteșug străvechi, bine păstrat la noi în zonă, simplu de învățat și ajută la protejarea biodiversității fânețelor din Apuseni. O să participăm împreună cu localnicii la aceste activități dar vom face și pauze de masă sau de odihnă la locul cu hamace din apropiere. La finalul zilei participăm la adunatul animalelor de la păscut și la mulsul vacilor, iar seara o vom petrece pe prispa casei, la povești cu localnicii.",
+          "images": [
+            {
+              "text": "Fânul uscat se greblează și se adună în mici brazde.",
+              "thumbnailUrl": "img/packages/hayMaking/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/packages/hayMaking/article/fullSize/1.jpg"
+            },
+            {
+              "text": "Brazdele se adună și se transportă cu căruța la grajduri.",
+              "thumbnailUrl": "img/packages/hayMaking/article/thumbnail/2.jpg",
+              "fullSizeUrl": "img/packages/hayMaking/article/fullSize/2.jpg"
+            },
+            {
+              "text": "Fânul va fi folosit la iarnă ca hrană pentru animale.",
+              "thumbnailUrl": "img/packages/hayMaking/article/thumbnail/4.jpg",
+              "fullSizeUrl": "img/packages/hayMaking/article/fullSize/4.jpg"
+            },
+            {
+              "text": "Undeva la umbră, între copaci, vom amenaja un loc cu hamace pentru odihnă.",
+              "thumbnailUrl": "img/packages/hayMaking/article/thumbnail/5.jpg",
+              "fullSizeUrl": "img/packages/hayMaking/article/fullSize/5.jpg"
+            },
+            {
+              "text": "Seara o să adunăm vacile de la păscut și le vom duce la adăpat.",
+              "thumbnailUrl": "img/packages/hayMaking/article/thumbnail/7.jpg",
+              "fullSizeUrl": "img/packages/hayMaking/article/fullSize/7.jpg"
+            },
+            {
+              "text": "Puteți participa și la mulsul vacilor.",
+              "thumbnailUrl": "img/packages/hayMaking/article/thumbnail/8.jpg",
+              "fullSizeUrl": "img/packages/hayMaking/article/fullSize/8.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Traseu ghidat Roșia Montană",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 09:30 - 14:00 - duminică</b> <br>O să vizităm împreună cu un ghid diverse clădiri de patrimoniu din centrul istoric (școli cu predare în diverse limbi, biserici de diferite culte sau fostele case ale aurarilor) construite de diverse nații venite aici de-a lungul timpului pentru a căuta aur. Dacă o să mai aveți timp și energie vom vizita și câteva galerii și exploatări de aur ale masivului Cârnic, iar de pe vârful acestuia vă promitem o priveliște deosebită asupra satului.",
+          "images": [
+            {
+              "text": "Centrul istoric.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/4.jpg"
+            },
+            {
+              "text": "Fostele case ale aurarilor - cladiri de patrimoniu din centrul istoric.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/3.jpg"
+            },
+            {
+              "text": "Ornamente ale clădirilor de patrimoniu din centrul istoric Roșia Montană.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/ornamente.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/ornamente.jpg"
+            },
+            {
+              "text": "Lângă centrul istoric sunt câteva tăuri. Vom afla acolo de ce au fost construite în apropierea satului și rolul lor în producția aurului.",
+              "thumbnailUrl": "img/trails/attractions/lakes/braziLake/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/braziLake/fullSize/2.jpg"
+            },
+            {
+              "text": "Popas la punctele de belvedere.",
+              "thumbnailUrl": "img/trails/attractions/panoramicBench/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/panoramicBench/fullSize/2.jpg"
+            },
+            {
+              "text": "Pe traseu - punct de belvedere Cârnic.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "readOurReviews"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-info-circle'></i> Info",
+      "sectionId": "info",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "packagesInfoText"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-bed'></i> Cazare",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Cazarea se va face la pensiunea Țarina și la Casa Petri în camere private de 1, 2, 3 sau 4 persoane. Camerele au baie privată sau o baie la 2 camere. În formularul de rezervări puteți selecta ce tip de camere doriți, iar noi o să vă sunăm pentru a vă confirma.",
+          "images": [
+            {
+              "text": "Camera de la Pensiunea Țarina",
+              "thumbnailUrl": "img/accommodation/article/rooms/tarina/thumbnail/cameraCuBaie.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/tarina/fullSize/cameraCuBaie.jpg"
+            },
+            {
+              "text": "Camera de la casa Petri",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/littleHouseRoom.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/littleHouseRoom.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-cutlery'></i> Mâncare",
+      "sectionId": "food",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Toate mesele le vom lua la ferma Țarina, locul unde se vor desfășura activitățile. Gazda va găti mâncăruri cu produse locale, de obicei dimineața va fi o omletă cu lactate proaspete, la amiaz ciorbă și felul 2, iar la cină ceva ușor (lapte, ceai, pâine cu dulceață). Puteți folosi și voi bucătăria, iar în zonă se găsesc 2 magazine alimentare. Dacă sunteți vegetarian sau aveți alte preferințe scrieți-ne în căsuța 'Alte detalii' din formularul de rezervări",
+          "images": [
+            {
+              "text": "La un pahar de țuică, înainte de masă.",
+              "thumbnailUrl": "img/accommodation/article/food/thumbnail/restaurant.jpg",
+              "fullSizeUrl": "img/accommodation/article/food/fullSize/restaurant.jpg"
+            },
+            {
+              "text": "De obicei o să luăm masa afară pe terasă, în natură.",
+              "thumbnailUrl": "img/accommodation/article/food/thumbnail/mancare.jpg",
+              "fullSizeUrl": "img/accommodation/article/food/fullSize/mancare.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Alte informații",
+      "sectionId": "otherInfo",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "otherInfoTours"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar-check-o'></i> Prețuri și Rezervări",
+      "sectionId": "bookings",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Prețul pachetului agroturistic este de 290lei/persoană (include 3 nopți de cazare cu 3 mese pe zi și donația pentru ghidul local care va face traseul de duminică). Plata se va face la sosire."
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "sendEmailTitle": "hayMaking",
+      "beforeSubmitText": "<i class='fa fa-info-circle'></i> Rezervarea va fi validă doar la primirea unui email sau telefon de <b>confirmare</b>!",
+      "submitButtonText": "Trimite rezervarea",
+      "successMessage": "Vă mulțumim! O să revenim cu un e-mail de confirmare cât mai repede posibil.",
+      "errorMessage": "EROARE! Contactați-ne prin e-mail sau telefon (vedeți partea de jos a paginii)",
+      "fields": [
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "placeholder": "e-mail",
+          "required": true
+        },
+        {
+          "type": "phone",
+          "name": "phone",
+          "iconFortAwesomeClass": "fa fa-phone fa-fw",
+          "placeholder": "telefon",
+          "required": true
+        },
+        {
+          "type": "selectBoxAllowDuplicates",
+          "name": "room",
+          "required": true,
+          "iconFortAwesomeClass": "fa fa-bed fa-fw",
+          "placeholder": "Alege camera",
+          "allowToDuplicateSettings": {
+            "addButtonText": "+ adaugă",
+            "removeButtonText": "- șterge",
+            "minOccurs": 1,
+            "maxOccurs": 12
+          },
+          "inputs": [
+            {
+              "selectOptions": [
+                {
+                  "text": "o cameră de o pers"
+                },
+                {
+                  "text": "o cameră de 2 pers"
+                },
+                {
+                  "text": "o cameră de 3 pers"
+                },
+                {
+                  "text": "o cameră de 4 pers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "textarea",
+          "name": "others",
+          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "placeholder": "Alte detalii? Scrie-ne aici...",
+          "rows": 2,
+          "maxChars": 500,
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": " ",
+      "sectionId": "notInterested",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "seeOurFacebookEvent"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "seeAlso",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/shortcut/trailsAndAttractions"
+        },
+        {
+          "page": "ro/shortcut/packages"
+        }
+      ]
+    }
+  ]
+}

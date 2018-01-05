@@ -1,0 +1,12 @@
+{
+  "presentation": {
+    "title": "Pachete",
+    "description": "<b>cu excursii la Roșia Montană</b><br>Cunoaștem zona noastră, știm ce poți face și vizita aici, de aceea am creeat pachete ce includ cazarea și diverse activități ...",
+    "smallBoxImg": "img/accommodation/shortcut/packages.jpg"
+  },
+  "url": {
+    "link": "ro/accommodation#packages",
+    "textOnMouseOver": "Vezi mai mult...",
+    "openInNewTab": false
+  }
+}

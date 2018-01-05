@@ -1,0 +1,12 @@
+{
+  "presentation": {
+    "title": "Trasee ghidate",
+    "description": "<b>Pe jos sau cu bicicleta</b><br>Ținem legătura cu localnici ce organizează trasee ghidate. Vă recomandăm să vizitați Roșia împreună cu un ghid",
+    "smallBoxImg": "img/accommodation/shortcut/guides.jpg"
+  },
+  "url": {
+    "link": "ro/accommodation#guide",
+    "textOnMouseOver": "Vezi mai mult...",
+    "openInNewTab": false
+  }
+}

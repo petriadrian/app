@@ -1,7 +1,7 @@
 {
   "presentation": {
     "title": "Cazare",
-    "headline": "O cafea într-o dimineață la Roșia Montană?",
+    "headline": "Planifică o vizită la Roșia Montană",
     "description": "<b>Camere, campare, rezervări!</b><br>Oferim cazare în casa părintească, recent renovată, din centrul istoric Roșia Montană. Vezi imagini și rezervări...",
     "fullWidthImg": "img/accommodation/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/presentation/smallBoxImg.jpg"
@@ -213,21 +213,56 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-cutlery'></i> Mâncare",
+      "text": "<i class='fas fa-utensils'></i> Mâncare",
       "sectionId": "food",
       "addLinkInPageHeadline": true
     },
     {
       "type": "articles",
-      "specificArticles": [
+      "commonArticles": [
         {
-          "textContent": "Fiecare apartament are o mică bucătărie iar în grădină avem un grătar unde puteți găti. Recomandarea noastră este să luați masa la localnicii care oferă mese calde și tradiționale la ei în ogradă - bifați în momentul rezervării 'locuri de luat masa' și vă trimitem mai multe detalii. În apropiere (~5min) sunt și 3 magazine alimentare - ",
-          "seeAlso": [
+          "category": "ourServices",
+          "ids": [
             {
-              "text": "vezi aici unde sunt situate și cum se ajunge la ele...",
-              "textOnMouseOver": "Click aici...",
-              "link": "https://www.google.ro/maps/dir/Emiliana+Shop,+DC146,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Bereczky+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Mixt+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Historical+center,+nr.+331A,+Casa+Petri,+Ro%C8%99ia+Montan%C4%83+517615/@46.3064009,23.1286362,17z/data=!3m1!4b1!4m26!4m25!1m5!1m1!1s0x474ecce0f07e87bf:0xc1e5f1730ebc127c!2m2!1d23.1317125!2d46.3060228!1m5!1m1!1s0x474ecce0563eefe1:0x44635688d438a223!2m2!1d23.1308247!2d46.30597!1m5!1m1!1s0x474ecce04e3e997b:0x14730c483b204593!2m2!1d23.1300147!2d46.3061442!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.1299373!2d46.3065974!3e2?hl=ro",
-              "openInNewTab": true
+              "id": "food"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fas fa-map-signs'></i> Biciclete",
+      "sectionId": "bike",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "bike"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fas fa-map-signs'></i> Ghid",
+      "sectionId": "guidedTrails",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "guide"
             }
           ]
         }
@@ -243,7 +278,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Ne dorim să fie totul pregătit la sosire, de aceea te rugăm să faci o rezervare cât mai din timp. Pentru o rezervare de minim 250 lei, oferim <b>gratuit traseul centrului istoric ghidat</b>. Pentru grupuri mai mari sau perioade mai lungi oferim reduceri."
+          "textContent": "Ne dorim să fie totul pregătit la sosire, de aceea te rugăm să faci o rezervare cât mai din timp."
         }
       ]
     },
@@ -263,6 +298,13 @@
           "required": true
         },
         {
+          "type": "phone",
+          "name": "phone",
+          "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw' data-fa-transform='rotate-90'></i>",
+          "placeholder": "Telefon",
+          "required": true
+        },
+        {
           "type": "daterange",
           "name": "period",
           "iconFortAwesomeCode": "<i class='far fa-calendar fa-fw'></i>",
@@ -274,10 +316,10 @@
           "name": "room",
           "required": false,
           "iconFortAwesomeCode": "<i class='fas fa-bed fa-fw'></i>",
-          "placeholder": "Rezervă camere - vezi tip și preț",
+          "placeholder": "Cazare - vezi tip și preț",
           "allowToDuplicateSettings": {
-            "addButtonText": "+ adaugă cameră",
-            "removeButtonText": "- șterge cameră",
+            "addButtonText": "+ adaugă",
+            "removeButtonText": "- șterge",
             "minOccurs": 1,
             "maxOccurs": 4
           },
@@ -295,56 +337,35 @@
                 },
                 {
                   "text": "o cameră de 4 persoane - 179lei/noapte"
+                },
+                {
+                  "text": "campare 2 persoane - 39lei/noapte"
+                },
+                {
+                  "text": "campare 3 persoane - 55lei/noapte"
+                },
+                {
+                  "text": "campare 4 persoane - 75lei/noapte"
                 }
               ]
             }
           ]
         },
         {
-          "type": "selectBox",
-          "name": "camping",
-          "required": false,
-          "iconFortAwesomeCode": "<i class='fas fa-angle-up fa-fw'></i>",
-          "placeholder": "Rezervă campare - vezi tip și preț",
-          "selectOptions": [
-            {
-              "text": "campare 2 persoane - 39lei/noapte"
-            },
-            {
-              "text": "campare 3 persoane - 55lei/noapte"
-            },
-            {
-              "text": "campare 4 persoane - 75lei/noapte"
-            },
-            {
-              "text": "campare 5 persoane - 85lei/noapte"
-            },
-            {
-              "text": "campare 6 persoane - 99lei/noapte"
-            },
-            {
-              "text": "campare 7 persoane - 115lei/noapte"
-            },
-            {
-              "text": "campare 8 persoane - 130lei/noapte"
-            }
-          ]
-        },
-        {
           "type": "checkBoxes",
-          "title": "Doresc să primesc pe e-mail informații despre:",
+          "title": "Doresc:",
           "checkBoxes": [
             {
-              "name": "guidedToursInfo",
+              "name": "guidedTours",
               "text": "<i class='fa fa-fw fa-blind'></i> | <b>trasee ghidate</b> (cam ce ai dori să vizitezi cu ghid? scrie-ne în căsuța 'Alte detalii')"
             },
             {
-              "name": "rentBikesInfo",
+              "name": "rentBikes",
               "text": "<i class='fa fa-fw fa-bicycle'></i> | <b>închiriat bicilete</b> (câte bucăți și câte zile? scrie-ne în căsuța 'Alte detalii')"
             },
             {
-              "name": "foodInfo",
-              "text": "<i class='fa fa-fw fa-cutlery'></i> | <b>locuri de luat masa</b> (vegetarian sau alte preferințe? scrie-ne în căsuța 'Alte detalii')"
+              "name": "foodAtLocals",
+              "text": "<i class='fa fa-fw fa-cutlery'></i> | <b>masa la localnici</b> (vegetarian sau alte preferințe? scrie-ne în căsuța 'Alte detalii')"
             }
           ]
         },

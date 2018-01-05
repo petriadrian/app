@@ -48,7 +48,7 @@
     },
     {
       "type": "title",
-      "text": "Ce fac la Roșia Montană?",
+      "text": "Descoperă un 'peisaj cultural unic'",
       "addLinkInPageHeadline": false,
       "sectionId": "whyVisitRosia"
     },
@@ -56,7 +56,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>1. Descoperă un 'peisaj cultural unic' - zona protejată Roșia Montană</b> <br>Lucrări miniere realizate încă din Antichitate (galerii, șteampuri, lacuri artificiale) și centrul istoric cu clădiri de patrimoniu construite de civilizațiile venite de-a lungul timpului pentru a extrage aur (școli cu predare în diverse limbi, biserici de diferite culte sau locuințele aurarilor) pot fi vizitate prin traseele:"
+          "textContent": "Zona protejată Roșia Montană - lucrări miniere realizate încă din Antichitate (galerii, șteampuri, lacuri artificiale) și centrul istoric cu clădiri de patrimoniu construite de civilizațiile venite de-a lungul timpului pentru a extrage aur (școli cu predare în diverse limbi, biserici de diferite culte sau locuințele aurarilor) pot fi vizitate prin traseele:"
         }
       ]
     },
@@ -76,7 +76,7 @@
     },
     {
       "type": "title",
-      "text": "",
+      "text": "Bucură-te de natură și liniște",
       "addLinkInPageHeadline": false,
       "sectionId": "ourStory"
     },
@@ -84,7 +84,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>2. Descoperă atracțiile naturale din zonă - accesibile și cu bicicleta</b><br>Avem împrejurimi superbe! Drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și alte obiective din Munții Apuseni. Vă recomandăm să parcurgeți traseele de mai jos cu <b>bicileta</b> (puteți închiria una din Roșia)."
+          "textContent": "Avem împrejurimi superbe! Drumuri de țară și poteci ne leagă de sate, culmi montane, lacuri și alte obiective din Munții Apuseni. Vă recomandăm să parcurgeți traseele de mai jos cu <b>bicileta</b> (puteți închiria una din Roșia)."
         }
       ]
     },
@@ -104,7 +104,7 @@
     },
     {
       "type": "title",
-      "text": "",
+      "text": "Vezi impactul exploatărilor miniere",
       "addLinkInPageHeadline": false,
       "sectionId": "ourStory"
     },
@@ -112,7 +112,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>3. Vezi ce impact ar avea o nouă exploatare minieră și cum arată cele existente</b> <br> În anul 2013 au avut loc proteste masive de stradă împotriva începeri unei noi exploatări de aur de către o firmă canadiană. Vizitează satul ce urma să fie acoperit de un lac de cianură - traseul 'Corna' și unele dintre cele mai mari exploatări de suprafață din Europa: Roșia Poieni - traseul 'Geamăna' și Cetate - traseul 'Cârnic'."
+          "textContent": "Ce impact ar avea o nouă exploatare minieră și cum arată cele existente? În anul 2013 au avut loc proteste masive de stradă împotriva începeri unei noi exploatări de aur de către o firmă canadiană. Vizitează satul ce urma să fie acoperit de un lac de cianură - traseul 'Corna' și unele dintre cele mai mari exploatări de suprafață din Europa, existente: Roșia Poieni - traseul 'Geamăna' și Cetate - traseul 'Cârnic'."
         }
       ]
     },
@@ -148,7 +148,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-home'></i> Cazare, trasee ghidate, biciclete",
+      "text": "<i class='fa fa-home'></i> Ce oferim la Roșia Montană?",
       "addLinkInPageHeadline": false,
       "sectionId": "casaPetri"
     },
@@ -165,13 +165,22 @@
       "text": "",
       "detailBoxes": [
         {
-          "page": "ro/accommodation"
+          "page": "ro/shortcut/rooms"
         },
         {
-          "page": "ro/packages/summary"
+          "page": "ro/shortcut/bikes"
+        },
+        {
+          "page": "ro/shortcut/guides"
+        },
+        {
+          "page": "ro/shortcut/packages"
         },
         {
           "page": "ro/review"
+        },
+        {
+          "page": "ro/shortcut/directions"
         }
       ]
     },
@@ -203,18 +212,34 @@
         },
         {
           "page": "ro/events/monumentsRestorations"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='far fa-images'></i> FotoBlog",
+      "sectionId": "photoblog",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Articole cu imagini din zona noastră."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/photoblog/winterWalks"
         },
         {
           "page": "ro/events/steamTrain"
         },
         {
           "page": "ro/trails/daffodilMeadow"
-        },
-        {
-          "page": "ro/events/firstMai"
-        },
-        {
-          "page": "ro/events/souvenirShop"
         }
       ]
     }

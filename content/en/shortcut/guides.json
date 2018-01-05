@@ -1,0 +1,12 @@
+{
+  "presentation": {
+    "title": "Guided trails",
+    "description": "<b>Walking or biking</b> <br>We stay in touch with locals who offers guided trails. We recommend to visit Rosia Montana with a guide",
+    "smallBoxImg": "img/accommodation/shortcut/guides.jpg"
+  },
+  "url": {
+    "link": "en/accommodation#guide",
+    "textOnMouseOver": "See more...",
+    "openInNewTab": false
+  }
+}

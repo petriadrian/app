@@ -1,0 +1,384 @@
+{
+  "presentation": {
+    "title": "1 Mai weekend",
+    "headline": "1 Mai weekend la Roșia Montană",
+    "descriptionTitle": "pachet încheiat",
+    "description": "De 1 Mai vă așteptăm la Roșia cu trasee ghidate, proiecții de filme, plimbări cu mocănița și biciclete. Detalii aici...",
+    "fullWidthImg": "img/packages/1mai/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/packages/1mai/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "ro/packages/1mai",
+    "textOnMouseOver": "Vezi mai mult...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "1 Mai weekend la Roșia Montană",
+    "description": "De 1 Mai vă așteptăm la Roșia cu trasee ghidate (centrul istoric și galerii sau exploatări miniere de aur), proiecții filme și plimbări cu mocănița. Detalii și rezervări aici...",
+    "displayOnShareImg": "img/packages/1mai/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": " ",
+      "sectionId": "intro",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Roșia Montană este cea mai veche localitate din România, deține un peisaj cultural minier unic, iar locația ei în munții Transilvaniei o face un loc ideal pentru drumeții montane sau ciclism. De 1 Mai o să vă arătăm o mică parte din toate acestea așa cum știm mai bine, prin trasee ghidate de drumeție și proiecții filme."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar'></i> Program",
+      "sectionId": "schedule",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "title": "Vineri (28 Apr)",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 16:00 - 20:00 - check in</b>, cazare, prezentare program și alte informații <br><br><b><i class='fa fa-clock-o'></i> 20:00 - 22:00 - Proiecție în grădină - The story of Roșia Montană</b> - imagini, filme și povești despre trecutul și evoluția satului, modul de extracție al aurului din trecut până în prezent și viața de azi. Dacă va fi frig vom ține proiecția în interior.",
+          "images": [
+            {
+              "text": "Proiecții în grădină",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/gardenMovie.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/gardenMovie.jpg"
+            },
+            {
+              "text": "Imagini din proiecție",
+              "thumbnailUrl": "img/accommodation/article/outside/thumbnail/gardenMovieScreenShots.jpg",
+              "fullSizeUrl": "img/accommodation/article/outside/fullSize/gardenMovieScreenShots.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Sâmbătă (29 Apr)",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 09:30 ~ 15:00 - Traseu ghidat - Centrul istoric și Galeriile Romane</b> de la Muzeul mineritului. În centrul istoric se găsesc diverse clădiri de patrimoniu (școli cu predare în diverse limbi, biserici de diferite culte sau fostele case ale aurarilor) construite de diverse nații venite aici de-a lungul timpului pentru a căuta aur. Vom povesti despre toate acestea și vom încheia turul într-un loc cu o priveliște deosebită asupra satului.",
+          "images": [
+            {
+              "text": "Tur ghidat - centrul istoric Roșia Montană.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+            },
+            {
+              "text": "Centrul istoric.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/4.jpg"
+            },
+            {
+              "text": "Fostele case ale aurarilor - cladiri de patrimoniu din centrul istoric.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/3.jpg"
+            },
+            {
+              "text": "Muzeul Mineritului - Galeriile Romane construite în 106 – 272 d. Hr.",
+              "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/1.jpg"
+            },
+            {
+              "text": "Muzeul Mineritului - Obiecte și instalații folosite în extracția și prelucrarea aurului.",
+              "thumbnailUrl": "img/trails/attractions/romanGalleries/thumbnail/steampuri.jpg",
+              "fullSizeUrl": "img/trails/attractions/romanGalleries/fullSize/steampuri.jpg"
+            },
+            {
+              "text": "Lângă centrul istoric sunt câteva tăuri. Vom afla acolo rolul lor în producția aurului.",
+              "thumbnailUrl": "img/trails/attractions/lakes/braziLake/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/braziLake/fullSize/2.jpg"
+            },
+            {
+              "text": "Pe traseu - punct de belvedere.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+            },
+            {
+              "text": "Popas la punctele de belvedere.",
+              "thumbnailUrl": "img/trails/attractions/panoramicBench/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/panoramicBench/fullSize/2.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Duminică (30 Apr)",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 09:30 ~ 15:00 - Traseu ghidat - Cariere și exploatari miniere de aur</b> - vizităm carierele de suprafață și câteva galerii de aur ale masivului Cârnic. Mergem pe urmele filoanelor de aur și aflăm povestea, impactul și modul de realizare al acestora.",
+          "images": [
+            {
+              "text": "Traseu ghidat - Cariere de suprafață.",
+              "thumbnailUrl": "img/trails/attractions/copperPit/thumbnail/rosiaPoieniTourists.jpg",
+              "fullSizeUrl": "img/trails/attractions/copperPit/fullSize/rosiaPoieniTourists.jpg"
+            },
+            {
+              "text": "Galeriile Romane Cârnic",
+              "thumbnailUrl": "img/trails/attractions/carnic/galleries/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/galleries/fullSize/1.jpg"
+            },
+            {
+              "text": "Piatra Corbului Cârnic - în interior sunt cele mai vechi galerii din zonă, realizate printr-o tehnică specială.",
+              "thumbnailUrl": "img/trails/attractions/carnic/ravenStone/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/carnic/ravenStone/fullSize/1.jpg"
+            },
+            {
+              "text": "Galeria Văidoaia.",
+              "thumbnailUrl": "img/trails/attractions/vaidoaiaGalleries/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/vaidoaiaGalleries/fullSize/3.jpg"
+            },
+            {
+              "text": "Pe traseu.",
+              "thumbnailUrl": "img/packages/weekend/article/thumbnail/2.jpg",
+              "fullSizeUrl": "img/packages/weekend/article/fullSize/2.jpg"
+            },
+            {
+              "text": "<b>Cariera Roșia Poieni</b> - 24 de trepte de exploatare, fiecare de 15m înălțime.",
+              "thumbnailUrl": "img/trails/attractions/copperPit/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/copperPit/fullSize/1.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Luni (1 Mai)",
+          "textContent": "<b>Plimbare cu Mocănițele din Apuseni</b> <br>Mocănița Abrud - Câmpeni se află la ~10min de mers cu mașina de noi - pleacă la orele 10, 13 sau 16 - turul durează 3 ore - preț: 30lei adulți și 15lei copii. <br>O altă mocăniță este cea de la Crișcior - Brad aflată la ~45min de mers cu mașina de noi - pleacă la orele 13 sau 15 - turul durează 2 ore - preț: 20lei adulți și 10lei copii. Mocănițele circulă doar dacă se strâng minim 10 călători/tur.",
+          "images": [
+            {
+              "text": "Cu mocănița prin Apuseni.",
+              "thumbnailUrl": "img/events/steamTrain/article/thumbnail/mocanita.jpg",
+              "fullSizeUrl": "img/events/steamTrain/article/fullSize/mocanita.jpg"
+            },
+            {
+              "text": "Cu mocănița prin Apuseni.",
+              "thumbnailUrl": "img/events/steamTrain/article/thumbnail/2.jpg",
+              "fullSizeUrl": "img/events/steamTrain/article/fullSize/2.jpg"
+            }
+          ]
+        },
+        {
+          "title": ".",
+          "textContent": "<b>Traseu ciclism Vârtop</b> - o altă variantă pentru ziua de 1 Mai este să faceți un traseu pe bicicletă spre satul Vârtop (~3h) sau Detunata (~6h). O să vă dăm indicații despre traseul ales și îl puteți faceți singuri sau împreună cu un ghid, cu bicicleta personală sau cu una închiriată de la noi (detalii la secțiunea ",
+          "seeAlso": [
+            {
+              "text": "biciclete)",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/packages/1mai#bike",
+              "openInNewTab": false
+            }
+          ],
+          "images": [
+            {
+              "text": "Traseu pe bicicletă spre Vârtop",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/20.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/20.jpg"
+            },
+            {
+              "text": "Traseu pe bicicletă spre Vârtop",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/8.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/8.jpg"
+            },
+            {
+              "text": "Traseu pe bicicletă spre Vârtop",
+              "thumbnailUrl": "img/trails/attractions/rotunduPeak/thumbnail/9.jpg",
+              "fullSizeUrl": "img/trails/attractions/rotunduPeak/fullSize/9.jpg"
+            }
+          ]
+        },
+        {
+          "title": "La final",
+          "textContent": "Aici se încheie excursia la Roșia Montană :( <br><b>Check-out</b> se poate face până la ora <b>12:00</b>, dar nu înainte de a face o <b>fotografie</b> împreună și de a ne spune <b>părerea</b> voastră și ce putem îmunătăți la acest pachet. Citiți opiniile celor care ne-au trecut pragul pe pagina de ",
+          "seeAlso": [
+            {
+              "text": "reviews",
+              "textOnMouseOver": "Click aici...",
+              "link": "ro/review",
+              "openInNewTab": false
+            }
+          ],
+          "images": [
+            {
+              "text": "Împreună cu un grup din România.",
+              "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/alexandra-postelnicu.jpg",
+              "fullSizeUrl": "img/reviews/article/reviewer/fullSize/alexandra-postelnicu.jpg"
+            },
+            {
+              "text": "Împreună cu un grup din Suedia.",
+              "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/simona-sweden.jpg",
+              "fullSizeUrl": "img/reviews/article/reviewer/fullSize/simona-sweden.jpg"
+            },
+            {
+              "text": "Împreună cu un grup din India și Taiwan.",
+              "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/11.jpg",
+              "fullSizeUrl": "img/reviews/article/reviewer/fullSize/11.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-info-circle'></i> Info",
+      "sectionId": "info",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Mai jos sunt informații despre pachet și alte detalii care pot fi de folos. Pentru orice alte întrebări contactați-ne prin email sau telefon (le găsiți la finalul acestei pagini)."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-bed'></i> Cazare",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "accommodationShortInfo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<i class='fa fa-info-circle'></i> În cazul în care nu o să mai fie camere disponibile la noi o să vă recomandăm vecini din apropiere care oferă cazare. Chiar dacă nu o să stați la noi puteți participa la orice activitate descrisă pe această pagină."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-cutlery'></i> Mâncare",
+      "sectionId": "food",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "food"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<i class='fa fa-info-circle'></i> Vă rugăm să luați <b>micul dejun până la ora 09:30</b> (când pornim pe traseu) și să puneți la voi și o mică gustare pentru drum."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-puzzle-piece'></i> Activități alternative",
+      "sectionId": "otherActivities",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "otherActivitiesSecondPart"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-bicycle'></i> Biciclete",
+      "sectionId": "bike",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "bike"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Alte informații",
+      "sectionId": "otherInfo",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b>Echipament</b> recomandat - pelerină de ploaie, bocanci de munte și protecție pentru soare. <br><b>Copii</b> - puteți veni cu copii dacă au peste 12 ani și sunteți siguri că rezistă la traseele descrise mai sus."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar-check-o'></i> Prețuri și Rezervări",
+      "sectionId": "bookings",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Acest tur s-a încheiat - vedeți pe următorul link cum s-a desfășurat: ",
+          "seeAlso": [
+            {
+              "text": "imagini și review-uri pachet",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.facebook.com/casapetrirosiamontana/posts/1645586628814363",
+              "openInNewTab": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "seeAlso",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/shortcut/trailsAndAttractions"
+        },
+        {
+          "page": "ro/shortcut/packages"
+        }
+      ]
+    }
+  ]
+}

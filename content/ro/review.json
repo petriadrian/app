@@ -8,7 +8,7 @@
   },
   "url": {
     "link": "ro/review",
-    "textOnMouseOver": "Vezi mai multe imagini și review-uri de la cei care ne-au vizitat",
+    "textOnMouseOver": "Click pentru a vedea sau adăuga review-uri",
     "openInNewTab": false
   },
   "metaData": {
@@ -22,7 +22,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "<i class='fa fa-comments'></i> Impresii",
+      "text": "<i class='fa fa-comments'></i> Reviews",
       "sectionId": "reviews",
       "addLinkInPageHeadline": true
     },
@@ -94,7 +94,7 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-pencil-square-o'></i> Adaugă o impresie",
+      "text": "<i class='fa fa-pencil-square-o'></i> Adaugă un review",
       "sectionId": "addReview",
       "addLinkInPageHeadline": true
     },
@@ -115,7 +115,7 @@
           "required": true
         },
         {
-          "type": "textRow",
+          "type": "text",
           "name": "name",
           "iconFortAwesomeCode": "<i class='far fa-user fa-fw'></i>",
           "placeholder": "Nume",
@@ -123,9 +123,9 @@
           "required": true
         },
         {
-          "type": "textRow",
+          "type": "text",
           "name": "locality",
-          "iconFortAwesomeCode": "<i class='far fa-map-marker fa-fw'></i>",
+          "iconFortAwesomeCode": "<i class='fas fa-map-marker fa-fw'></i>",
           "placeholder": "Localitate",
           "maxChars": 30,
           "required": false

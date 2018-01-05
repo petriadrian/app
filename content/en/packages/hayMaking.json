@@ -1,0 +1,369 @@
+{
+  "presentation": {
+    "title": "Farmer in Transylvania",
+    "headline": "3 days as a farmer in Transylvania",
+    "descriptionTitle": "3-6aug | agritourism package",
+    "description": "Live as a farmer. Traditional hay making and cow milking, prepare & eat local food and others farm activities",
+    "fullWidthImg": "img/packages/hayMaking/presentation/fullWidthImg.jpg",
+    "smallBoxImg": "img/packages/hayMaking/presentation/smallBoxImg.jpg"
+  },
+  "url": {
+    "link": "en/packages/hayMaking",
+    "textOnMouseOver": "Vezi mai mult...",
+    "openInNewTab": false
+  },
+  "metaData": {
+    "title": "3 days as a farmer in Transylvania. Agritourism package.",
+    "description": "Live as a farmer from Roșia Montană, Transylvania. Participate at different activities together with the farmers, like hay making or cow milking. Will prepare and eat local meals and on the last day will do a guided tour. Accommodation, bookings, prices and other details here...",
+    "displayOnShareImg": "img/packages/hayMaking/presentation/displayOnShareImg.jpg"
+  },
+  "config": {
+    "showPageHeadline": true
+  },
+  "sections": [
+    {
+      "type": "title",
+      "text": " ",
+      "sectionId": "intro",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<b>agritourism package | 3-6 august"
+        },
+        {
+          "textContent": "We propose to change your way of living for 3 days. Become a farmer in Rosia Montana, Romania. Will start with a tour of the area to connect to the place where you will live as a farmer and then will participate to different activities as the traditional hay making or cow milking and will spend the evening with the locals. Will eat local products and on the last day will make a guided tour to discover the history of our village."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar'></i> Program",
+      "sectionId": "schedule",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "<br><b><i class='fa fa-clock-o'></i> 14:00 - 19:00 - thursday <br> Check in</b>, at Casa Petri 331, historic center Rosia Montană, Romania"
+        },
+        {
+          "title": "Farm tour",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 19:00 - 21:00 - thursday</b> <br>After your arrival will make a slow evening tour to show you the farm, the surroundings and to connect a little bit to this place.",
+          "images": [
+            {
+              "text": "We will discover the cow farm and it past.",
+              "thumbnailUrl": "img/trails/attractions/sculpture/thumbnail/simpozion.jpg",
+              "fullSizeUrl": "img/trails/attractions/sculpture/fullSize/simpozion.jpg"
+            },
+            {
+              "text": "The cattle fields.",
+              "thumbnailUrl": "img/trails/attractions/vartop/thumbnail/14.jpg",
+              "fullSizeUrl": "img/trails/attractions/vartop/fullSize/14.jpg"
+            },
+            {
+              "text": "Soundings - Țarina lake.",
+              "thumbnailUrl": "img/trails/attractions/lakes/tariniLake/thumbnail/1.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/tariniLake/fullSize/1.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Farm activities",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 11:00 - 19:00 - friday and saturday</b> <br>Traditional hay making is the main activity of the local farmers in this period. Is a kind of an ancient craft, very well kept in our area, easy to learn and it helps to preserve the biodiversity of the hay meadows from Transylvania. Will participate together with the locals to this activities but we will also make breaks for taking the meal or to relax at the hammock places which will be bring in the area. At the end of the day will gather the cattle from the grassland areas, feed and milk them, and after will spend the evening with the locals.",
+          "images": [
+            {
+              "text": "The hay will be gathered in small stacks.",
+              "thumbnailUrl": "img/packages/hayMaking/article/thumbnail/1.jpg",
+              "fullSizeUrl": "img/packages/hayMaking/article/fullSize/1.jpg"
+            },
+            {
+              "text": "The stacks will be transported to the cattle stables.",
+              "thumbnailUrl": "img/packages/hayMaking/article/thumbnail/2.jpg",
+              "fullSizeUrl": "img/packages/hayMaking/article/fullSize/2.jpg"
+            },
+            {
+              "text": "The hay will be used during the winter as food for cattle.",
+              "thumbnailUrl": "img/packages/hayMaking/article/thumbnail/4.jpg",
+              "fullSizeUrl": "img/packages/hayMaking/article/fullSize/4.jpg"
+            },
+            {
+              "text": "Under some tress will make a relax spot with hammocks.",
+              "thumbnailUrl": "img/packages/hayMaking/article/thumbnail/5.jpg",
+              "fullSizeUrl": "img/packages/hayMaking/article/fullSize/5.jpg"
+            },
+            {
+              "text": "In the evening will bring the cows from the grasslands to the stables to feed them.",
+              "thumbnailUrl": "img/packages/hayMaking/article/thumbnail/7.jpg",
+              "fullSizeUrl": "img/packages/hayMaking/article/fullSize/7.jpg"
+            },
+            {
+              "text": "You can also participate to the cow milking.",
+              "thumbnailUrl": "img/packages/hayMaking/article/thumbnail/8.jpg",
+              "fullSizeUrl": "img/packages/hayMaking/article/fullSize/8.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Guided tour in Roșia Montană",
+          "textContent": "<b><i class='fa fa-clock-o'></i> 09:30 - 14:00 - sunday</b> <br>Will visit with a local tour guide different heritage buildings from the historic center made by the civilizations who came here to extract gold (schools in different languages, multicultural churches or the goldsmith houses). If there will be time we will also visit some of the gold galleries and mining exploitations of the Cârnic massif and will discover some nice views from the top of this massif.",
+          "images": [
+            {
+              "text": "The historic center.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/4.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/4.jpg"
+            },
+            {
+              "text": "Goldsmith houses - heritage buildings.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/3.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/3.jpg"
+            },
+            {
+              "text": "Some ornaments of the heritage houses.",
+              "thumbnailUrl": "img/trails/attractions/sicilianStreet/thumbnail/ornamente.jpg",
+              "fullSizeUrl": "img/trails/attractions/sicilianStreet/fullSize/ornamente.jpg"
+            },
+            {
+              "text": "Will also visit some lakes.",
+              "thumbnailUrl": "img/trails/attractions/lakes/braziLake/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/lakes/braziLake/fullSize/2.jpg"
+            },
+            {
+              "text": "Views from the trail.",
+              "thumbnailUrl": "img/trails/attractions/panoramicBench/thumbnail/2.jpg",
+              "fullSizeUrl": "img/trails/attractions/panoramicBench/fullSize/2.jpg"
+            },
+            {
+              "text": "Views from the trail.",
+              "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+              "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "readOurReviews"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-info-circle'></i> Info",
+      "sectionId": "info",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "packagesInfoText"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-bed'></i> Accommodation",
+      "sectionId": "accommodation",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "The accommodation will be made at Casa Petri and Casa Tarina in 1, 2, 3 or 4 persons private rooms with private bathroom or one bathrom for 2 rooms and kitchen. Please fill the reservation form with the type of the room you want and we will call ar email you back to confirm.",
+          "images": [
+            {
+              "text": "The rooms from Casa Tarina",
+              "thumbnailUrl": "img/accommodation/article/rooms/tarina/thumbnail/cameraCuBaie.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/tarina/fullSize/cameraCuBaie.jpg"
+            },
+            {
+              "text": "The rooms from Casa Petri",
+              "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/littleHouseRoom.jpg",
+              "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/littleHouseRoom.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-cutlery'></i> Food",
+      "sectionId": "food",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "All the meals will be taken at the Țarina farm, the place where all the activities will happen. You can cook together with the host traditional meals with local products - usually in the morning will be some fresh egs, milk, cheese and vegetables, for the lunch some soup with second course, and for the dinner: milk, tea, bread with jam). You can also use the kitchen and there are 2 grocery stores in the area. If you are a vegeterian or other preferences write us in the 'Other details' from the booking form.",
+          "images": [
+            {
+              "text": "Meals with locals.",
+              "thumbnailUrl": "img/accommodation/article/food/thumbnail/restaurant.jpg",
+              "fullSizeUrl": "img/accommodation/article/food/fullSize/restaurant.jpg"
+            },
+            {
+              "text": "Usually we will take the meal outside in the gazebo.",
+              "thumbnailUrl": "img/accommodation/article/food/thumbnail/mancare.jpg",
+              "fullSizeUrl": "img/accommodation/article/food/fullSize/mancare.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Other details",
+      "sectionId": "otherInfo",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "otherInfoTours"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-calendar-check-o'></i> Prices and Bookings",
+      "sectionId": "bookings",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "The total price of this package is 70€/person (includes 3 nights of accommodation, 3 meals/day and the donation for the local guide who will do the village tour on sunday). The payment will be made on arrival."
+        }
+      ]
+    },
+    {
+      "type": "form",
+      "sendEmailTitle": "hayMaking",
+      "beforeSubmitText": "<i class='fa fa-info-circle'></i> The booking will be valid only when a <b>confirmation email</b> will be received! <br><b>Check-in</b>: 16:00 - 20:00 | <b>Check-out</b> by 11:00",
+      "submitButtonText": "Send the booking",
+      "successMessage": "Thank you! We will send you an confirmation email as soon as possible.",
+      "errorMessage": "ERROR! Please contact us by email or phone (see site footer)",
+      "fields": [
+        {
+          "type": "email",
+          "name": "email",
+          "iconFortAwesomeClass": "fa fa-envelope fa-fw",
+          "placeholder": "email",
+          "required": true
+        },
+        {
+          "type": "phone",
+          "name": "phone",
+          "iconFortAwesomeClass": "fa fa-phone fa-fw",
+          "placeholder": "phone",
+          "required": true
+        },
+        {
+          "type": "selectBoxAllowDuplicates",
+          "name": "room",
+          "required": true,
+          "iconFortAwesomeClass": "fa fa-bed fa-fw",
+          "placeholder": "Chose room type",
+          "allowToDuplicateSettings": {
+            "addButtonText": "+ add",
+            "removeButtonText": "- delete",
+            "minOccurs": 1,
+            "maxOccurs": 12
+          },
+          "inputs": [
+            {
+              "selectOptions": [
+                {
+                  "text": "a room for 1 person"
+                },
+                {
+                  "text": "a room for 2 person"
+                },
+                {
+                  "text": "a room for 3 person"
+                },
+                {
+                  "text": "a room for 4 person"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "textarea",
+          "name": "others",
+          "iconFortAwesomeClass": "fa fa-commenting fa-fw",
+          "placeholder": "Other details? ...",
+          "rows": 2,
+          "maxChars": 500,
+          "required": false
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": " ",
+      "sectionId": "notInterested",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "seeOurFacebookEvent"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "socialButtons"
+    },
+    {
+      "type": "title",
+      "text": "<i class='fa fa-coffee'></i> Vezi și",
+      "sectionId": "seeAlso",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "en/shortcut/trailsAndAttractions"
+        },
+        {
+          "page": "en/shortcut/packages"
+        }
+      ]
+    }
+  ]
+}

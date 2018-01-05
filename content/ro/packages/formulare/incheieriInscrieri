@@ -1,0 +1,34 @@
+[
+  {
+    "type": "articles",
+    "specificArticles": [
+      {
+        "textContent": "Acest tur s-a încheiat - vedeți pe următorul link cum s-a desfășurat: ",
+        "seeAlso": [
+          {
+            "text": "imagini și review-uri pachet",
+            "textOnMouseOver": "Click aici...",
+            "link": "https://www.facebook.com/casapetrirosiamontana/posts/1667283313311361",
+            "openInNewTab": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "articles",
+    "specificArticles": [
+      {
+        "textContent": "Locurile pentru acest tur au fost ocupate. Vom posta în curând informații despre următoarele tururi pe care le vom organiza în zona Roșia Montană - Apuseni. ",
+        "seeAlso": [
+          {
+            "text": "Urmăriți pagina noastră de facebook...",
+            "textOnMouseOver": "Click aici...",
+            "link": "https://www.facebook.com/casapetrirosiamontana",
+            "openInNewTab": true
+          }
+        ]
+      }
+    ]
+  }
+]

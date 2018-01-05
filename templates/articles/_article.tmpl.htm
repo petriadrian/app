@@ -6,7 +6,7 @@
 <article ng-class="{'areaToBeHided': article.hideAreaUnderButton}" class="defaultArticle anchorParent">
     <span id="{{article.id}}" class="anchor"></span>
     <header ng-if="!!article.title" class="articleTitle">
-        <h3><span ng-bind-html="article.title | trustHtml"></span></h3>
+        <h2><span ng-bind-html="article.title | trustHtml"></span></h2>
     </header>
     <section class="defaultArticleText">
         <span ng-if="!!article.textContent" ng-bind-html="article.textContent | trustHtml"></span>

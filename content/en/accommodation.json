@@ -1,7 +1,7 @@
 {
   "presentation": {
     "title": "Accommodation",
-    "headline": "Morning coffee at Roșia Montană?",
+    "headline": "Plan your visit to Roșia Montană",
     "description": "<b>Rooms, camping, bookings!</b><br>Our house is a heritage building, recently restored, in the historic center of Roșia Montană. See images and more...",
     "fullWidthImg": "img/accommodation/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/accommodation/presentation/smallBoxImg.jpg"
@@ -214,21 +214,56 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-cutlery'></i> Food",
+      "text": "<i class='fas fa-utensils'></i> Food",
       "sectionId": "food",
       "addLinkInPageHeadline": true
     },
     {
       "type": "articles",
-      "specificArticles": [
+      "commonArticles": [
         {
-          "textContent": "Each apartment has a small kitchen and we also have a barbecue in the garden where you can cook. Our reccomandation is to eat at the locals who offers homemade meals - specify in the bellow bookings form and we will send you more details. Beside the house are 3 grocery stores (~5min away) - ",
-          "seeAlso": [
+          "category": "ourServices",
+          "ids": [
             {
-              "text": "see here how to reach them from Casa Petri...",
-              "textOnMouseOver": "Click here",
-              "link": "https://www.google.ro/maps/dir/Emiliana+Shop,+DC146,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Bereczky+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Mixt+Shop,+Strada+Principal%C4%83,+Ro%C8%99ia+Montan%C4%83,+Jude%C8%9Bul+Alba/Historical+center,+nr.+331A,+Casa+Petri,+Ro%C8%99ia+Montan%C4%83+517615/@46.3064009,23.1286362,17z/data=!3m1!4b1!4m26!4m25!1m5!1m1!1s0x474ecce0f07e87bf:0xc1e5f1730ebc127c!2m2!1d23.1317125!2d46.3060228!1m5!1m1!1s0x474ecce0563eefe1:0x44635688d438a223!2m2!1d23.1308247!2d46.30597!1m5!1m1!1s0x474ecce04e3e997b:0x14730c483b204593!2m2!1d23.1300147!2d46.3061442!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.1299373!2d46.3065974!3e2?hl=en",
-              "openInNewTab": true
+              "id": "food"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fas fa-map-signs'></i> Bikes",
+      "sectionId": "bike",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "bike"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='fas fa-map-signs'></i> Guide",
+      "sectionId": "guidedTrails",
+      "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "commonArticles": [
+        {
+          "category": "ourServices",
+          "ids": [
+            {
+              "id": "guide"
             }
           ]
         }
@@ -244,7 +279,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "We want to have everything set for your arrival so please make an <b>early</b> reservation. For larger groups or longer periods we can offer discounts."
+          "textContent": "We want to have everything set for your arrival so please make an <b>early</b> reservation."
         }
       ]
     },
@@ -264,6 +299,13 @@
           "required": true
         },
         {
+          "type": "phone",
+          "name": "phone",
+          "iconFortAwesomeCode": "<i class='fas fa-phone fa-fw' data-fa-transform='rotate-90'></i>",
+          "placeholder": "Phone",
+          "required": true
+        },
+        {
           "type": "daterange",
           "name": "period",
           "iconFortAwesomeCode": "<i class='far fa-calendar fa-fw'></i>",
@@ -275,10 +317,10 @@
           "name": "room",
           "required": false,
           "iconFortAwesomeCode": "<i class='fas fa-bed fa-fw'></i>",
-          "placeholder": "Book rooms - see type and price",
+          "placeholder": "Accommodation - see type and price",
           "allowToDuplicateSettings": {
-            "addButtonText": "+ add room",
-            "removeButtonText": "- remove room",
+            "addButtonText": "+ add",
+            "removeButtonText": "- remove",
             "minOccurs": 1,
             "maxOccurs": 4
           },
@@ -286,54 +328,33 @@
             {
               "selectOptions": [
                 {
-                  "text": "a 1 person room - 16€/night"
+                  "text": "a 1 person room - 22€/night"
                 },
                 {
-                  "text": "a 2 persons room - 22€/night"
+                  "text": "a 2 persons room - 26€/night"
                 },
                 {
-                  "text": "a 3 persons room - 35€/night"
+                  "text": "a 3 persons room - 33€/night"
                 },
                 {
-                  "text": "a 4 persons room - 40€/night"
+                  "text": "a 4 persons room - 39€/night"
+                },
+                {
+                  "text": "camping 2 persons - 10€/night"
+                },
+                {
+                  "text": "camping 3 persons - 15€/night"
+                },
+                {
+                  "text": "camping 4 persons - 18€/night"
                 }
               ]
             }
           ]
         },
         {
-          "type": "selectBox",
-          "name": "camping",
-          "required": false,
-          "iconFortAwesomeCode": "<i class='fas fa-angle-up fa-fw'></i>",
-          "placeholder": "Book camping - see type and price",
-          "selectOptions": [
-            {
-              "text": "2 persons camping - 10€/night"
-            },
-            {
-              "text": "3 persons camping - 15€/night"
-            },
-            {
-              "text": "4 persons camping - 18€/night"
-            },
-            {
-              "text": "5 persons camping - 20€/night"
-            },
-            {
-              "text": "6 persons camping - 24€/night"
-            },
-            {
-              "text": "7 persons camping - 28€/night"
-            },
-            {
-              "text": "8 persons camping - 30€/night"
-            }
-          ]
-        },
-        {
           "type": "checkBoxes",
-          "title": "Send me on e-mail more info about:",
+          "title": "I want:",
           "checkBoxes": [
             {
               "name": "guidedTours",
@@ -344,15 +365,15 @@
               "text": "<i class='fa fa-fw fa-bicycle'></i> | <b>rent bikes</b> (how many bikes on how many days? fill the 'Other details' box)"
             },
             {
-              "name": "foodInfo",
-              "text": "<i class='fa fa-fw fa-cutlery'></i> | <b>places to eat</b> (vegetarian or other preferences? fill the 'Other details' box)"
+              "name": "foodAtLocals",
+              "text": "<i class='fa fa-fw fa-cutlery'></i> | <b>meals at locals</b> (vegetarian or other preferences? fill the 'Other details' box)"
             }
           ]
         },
         {
           "type": "textarea",
           "name": "others",
-          "iconFortAwesomeCode": "<i class='fas fa-commentsfa-fw fa-fw'></i>",
+          "iconFortAwesomeCode": "<i class='fas fa-comments fa-fw'></i>",
           "placeholder": "Other details? Write here...",
           "rows": 2,
           "maxChars": 500,

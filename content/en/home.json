@@ -1,13 +1,13 @@
 {
   "presentation": {
     "title": "HomePage",
-    "headline": "Roșia Montană - the oldest locality from Transylvania",
+    "headline": "Visit Rosia Montana",
     "description": "Here you'll find accommodation and trails along the touristic attractions",
     "fullWidthImg": "img/homePage/presentation/fullWidthImg.jpg",
     "smallBoxImg": "img/homePage/presentation/smallBoxImg.jpg"
   },
   "url": {
-    "link": "en/home",
+    "link": "/en",
     "textOnMouseOver": "homepage",
     "openInNewTab": false
   },
@@ -26,16 +26,13 @@
         "timeInterval": "7000",
         "slides": [
           {
-            "page": "en/trails/letySulei"
+            "page": "en/accommodation"
           },
           {
             "page": "en/trails/romanGalleries"
           },
           {
             "page": "en/trails/historicCenter"
-          },
-          {
-            "page": "en/trails/tarina"
           },
           {
             "page": "en/trails/geamana"
@@ -48,15 +45,15 @@
     },
     {
       "type": "title",
-      "text": "Things to do in Rosia Montana",
+      "text": "Discover our unique cultural heritage",
       "addLinkInPageHeadline": false,
-      "sectionId": "whyVisitRosia"
+      "sectionId": "heritage"
     },
     {
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>1. Discover an 'unique cultural landscape' - visit Rosia Montana protected area</b> <br>The remains of the gold mining that started since antiquity (galleries, stamp mills, artificial lakes) and the historic center with the heritage buildings made by the civilizations who came here to extract gold (schools in different languages, multicultural churches or the goldsmith houses) can be visited through the following trails:"
+          "textContent": "The remains of the gold mining that started since antiquity (galleries, stamp mills, artificial lakes) and the historic center with the heritage buildings made by the civilizations who came here to extract gold (schools in different languages, multicultural churches or the goldsmith houses) can be visited by the following trails:"
         }
       ]
     },
@@ -70,21 +67,21 @@
           "page": "en/trails/romanGalleries"
         },
         {
-          "page": "en/trails/letySulei"
+          "page": "en/trails/carnic"
         }
       ]
     },
     {
       "type": "title",
-      "text": "",
+      "text": "Enjoy the natural beauty of our area",
       "addLinkInPageHeadline": false,
-      "sectionId": "ourStory"
+      "sectionId": "nature"
     },
     {
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>2. Visit our natural attractions - great cycling breaks</b> <br>The surroundings are also amazing, unpaved roads and footpaths bind us to the villages, mountain peaks, lakes and other objectives of the Apuseni Mountains (Carpathians - Transylvania). See the bellow trails that are excellent for <b>bikes</b> (you can rent one from Rosia)."
+          "textContent": "The surroundings are also amazing. Unpaved roads and footpaths bind us to villages, mountain peaks, lakes and other objectives of the Apuseni Mountains (Carpathians - Transylvania). The bellow trails are great <b>hiking or cycling escapes</b> (you can rent bikes from Rosia)."
         }
       ]
     },
@@ -104,15 +101,15 @@
     },
     {
       "type": "title",
-      "text": "",
+      "text": "See the impact of open pit mining",
       "addLinkInPageHeadline": false,
-      "sectionId": "ourStory"
+      "sectionId": "mining"
     },
     {
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>3. See the impact of opening a new open pit mine and visit the existing ones</b><br>Huge street protests were made in 2013 against opening a new gold mine by a canadian company. Visit the village which should have been covered by a cyanide lake - 'Corna' trail and ones of the biggest open pit mines from Europe made during communism: Roșia Poieni - 'Geamăna' trail and Cetate - 'Cârnic' trail."
+          "textContent": "The cooper pit 'Roșia Poieni' and his waste lake can be seen along the 'Geamana' trail. Visit the gold mining open pit along the 'Nature Monuments' trail. The area were a new gold open pit should have been started (against which massive streets protests were made in 2013) - 'Corna' and 'Cârnic' trail."
         }
       ]
     },
@@ -120,13 +117,13 @@
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "en/trails/corna"
-        },
-        {
           "page": "en/trails/geamana"
         },
         {
           "page": "en/trails/carnic"
+        },
+        {
+          "page": "en/trails/corna"
         }
       ]
     },
@@ -134,12 +131,12 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "<b>Discover more attractions from our area.</b>",
+          "textContent": "<b>More trails and attractions from our area can be found </b>",
           "seeAlso": [
             {
-              "text": "See here all the hiking or biking trails...",
+              "text": "here",
               "textOnMouseOver": "Click here...",
-              "link": "en/trails/summary",
+              "link": "en/activities",
               "openInNewTab": false
             }
           ]
@@ -148,9 +145,21 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-home'></i> Accommodation, guided trails, bikes",
+      "text": " ",
       "addLinkInPageHeadline": false,
-      "sectionId": "casaPetri"
+      "sectionId": "topAttractions"
+    },
+    {
+      "type": "linkToOtherPages",
+      "banner": {
+        "page": "en/trails/topAttractions"
+      }
+    },
+    {
+      "type": "title",
+      "text": "What we offer at Rosia Montana?",
+      "addLinkInPageHeadline": false,
+      "sectionId": "ourOffer"
     },
     {
       "type": "articles",
@@ -165,13 +174,22 @@
       "text": "",
       "detailBoxes": [
         {
-          "page": "en/accommodation"
+          "page": "en/shortcut/rooms"
         },
         {
-          "page": "en/packages/summary"
+          "page": "en/shortcut/bikes"
+        },
+        {
+          "page": "en/shortcut/guides"
+        },
+        {
+          "page": "en/shortcut/packages"
         },
         {
           "page": "en/review"
+        },
+        {
+          "page": "en/shortcut/directions"
         }
       ]
     },
@@ -188,7 +206,7 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Here are other activities and events from Roșia Montana and surroundings."
+          "textContent": "Events from Roșia Montana and surroundings."
         }
       ]
     },
@@ -196,25 +214,35 @@
       "type": "linkToOtherPages",
       "detailBoxes": [
         {
-          "page": "en/events/hayDays"
-        },
-        {
           "page": "en/events/marathon"
-        },
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "<i class='far fa-images'></i> FotoBlog",
+      "sectionId": "photoblog",
+      "addLinkInPageHeadline": false
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
         {
-          "page": "en/events/monumentsRestorations"
+          "textContent": "Articles with images from our area."
+        }
+      ]
+    },
+    {
+      "type": "linkToOtherPages",
+      "detailBoxes": [
+        {
+          "page": "ro/photoblog/winterWalks"
         },
         {
           "page": "en/events/steamTrain"
         },
         {
           "page": "en/trails/daffodilMeadow"
-        },
-        {
-          "page": "en/events/firstMai"
-        },
-        {
-          "page": "en/events/souvenirShop"
         }
       ]
     }

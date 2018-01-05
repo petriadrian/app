@@ -1,0 +1,226 @@
+[
+  {
+    "id": "food",
+    "textContent": "The options for taking the meal are: <br><b>Homemade meals at locals</b> - some of our neighbours offers traditional meals at their place. The recommended donations are ~5€/pers/breakfast, ~7€/person/lunch. If you wish to eat at locals please inform us when you make a booking or you will find a list in the room and you can call them. <br><b>Each room has a kitchen</b> - perfect to prepare breakfast or dinner and you can also use the barbecue from garden. We have 2 <b>grocery stores</b> around (~2min).",
+    "images": [
+      {
+        "text": "A glass of 'țuica', before dinner at locals, with a group from Germany.",
+        "thumbnailUrl": "img/accommodation/article/food/thumbnail/restaurant.jpg",
+        "fullSizeUrl": "img/accommodation/article/food/fullSize/restaurant.jpg"
+      },
+      {
+        "text": "Our recommendation is to eat at the locals who offers homemade meals.",
+        "thumbnailUrl": "img/accommodation/article/food/thumbnail/mancare.jpg",
+        "fullSizeUrl": "img/accommodation/article/food/fullSize/mancare.jpg"
+      },
+      {
+        "text": "Each room has a small kitchen with fridge, microwave owen, kettle, dishes, cutlery, tea and coffee.",
+        "thumbnailUrl": "img/accommodation/article/rooms/common/thumbnail/kitchen.jpg",
+        "fullSizeUrl": "img/accommodation/article/rooms/common/fullSize/kitchen.jpg"
+      }
+    ]
+  },
+  {
+    "id": "guide",
+    "textContent": "Rosia Montana has a golden past. How the gold mining worked through galleries, watter mills, pounds and open pits, the past of the heritage buildings from the historic center or the impact of the mega mining project proposed here by the canadian company and the massive streets protests against it are just a few reasons why we recommend to visit Roșia Montana with a guide. The locality is not really designed for tourism so it will be pretty difficult to see and find all this by your own. We stay in touch with local guides who offers guided tours by foot or by bike (also technical assistance on the road). So, if you are interested in:",
+    "seeAlso": [
+      {
+        "text": "<br><i class='fa fa-arrow-right'></i> <b>custom guided trails</b> - specify while booking a room and we will contact you by email or phone - see here",
+        "textOnMouseOver": "Click here...",
+        "link": "en/accommodation#bookings"
+      },
+      {
+        "text": "<br><i class='fa fa-arrow-right'></i> <b>standard guided trails</b> - see here the packages with guided trails that we prepared",
+        "textOnMouseOver": "Click aici...",
+        "link": "en/accommodation#packages"
+      }
+    ],
+    "images": [
+      {
+        "text": "The historic center guided tour with a group from Romania.",
+        "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-rosia-montana.jpg",
+        "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-rosia-montana.jpg"
+      },
+      {
+        "text": "Guided tour to the natural sites and protected areas of Rosia Montana with a group from Germany.",
+        "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-apuseni.jpg",
+        "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-apuseni.jpg"
+      },
+      {
+        "text": "Guided tour to the mining open pits with a group from India.",
+        "thumbnailUrl": "img/accommodation/article/guides/thumbnail/ghid-cariera.jpg",
+        "fullSizeUrl": "img/accommodation/article/guides/fullSize/ghid-cariera.jpg"
+      },
+      {
+        "text": "Guided bike trails to the main natural objectives from our area.",
+        "thumbnailUrl": "img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_geamana.jpg",
+        "fullSizeUrl": "img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_geamana.jpg"
+      },
+      {
+        "text": "Guided bike trails - on the road we can stop and talk about the places we are passing by or for bike repairs assistance (if needed).",
+        "thumbnailUrl": "img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_reparatii.jpg",
+        "fullSizeUrl": "img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_reparatii.jpg"
+      }
+    ]
+  },
+  {
+    "id": "bike",
+    "textContent": "We have a bike center with equipment and <b>bikes for rent</b> at 12€/bike/day or we can also offer <b>mechanical assistance</b> for your bike or tools. To find out more about the places you visit by bike or mechanical assistance on the trail, we can offer <b>guided bike trails</b>. Please specify when you make a booking if you want to rent bikes or guided bike trails.",
+    "images": [
+      {
+        "text": "We have a small bike rental center. If you come with your personal bike we can help you fixing it (if needed).",
+        "thumbnailUrl": "img/accommodation/article/bikes/thumbnail/bike_rent.jpg",
+        "fullSizeUrl": "img/accommodation/article/bikes/fullSize/bike_rent.jpg"
+      },
+      {
+        "text": "Guided bike trails - on the road we can stop and talk about the places we are passing by or for bike repairs assistance (if needed).",
+        "thumbnailUrl": "img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_reparatii.jpg",
+        "fullSizeUrl": "img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_reparatii.jpg"
+      }
+    ]
+  },
+  {
+    "id": "packagesInfoText",
+    "textContent": "Below are more details about this package. For any other question please call us or send an email (you will find our contact data in footer)."
+  },
+  {
+    "id": "accommodationShortInfo",
+    "type": "articles",
+    "textContent": "Will stay at Casa Petri from the historic center of Rosia Montana 331, Romania, in a heritage house, recently restored with 2, 3 or 4 person rooms that have kitchenette, library, private bathroom and a yard with gazebo, hammocks and a nice view to Cârnic massif. More info and images on ",
+    "seeAlso": [
+      {
+        "text": "accommodation page",
+        "textOnMouseOver": "Click here...",
+        "link": "en/accommodation#rooms",
+        "openInNewTab": false
+      }
+    ],
+    "images": [
+      {
+        "text": "Books room - 4 persons",
+        "thumbnailUrl": "img/accommodation/article/rooms/room1/thumbnail/booksRoom.jpg",
+        "fullSizeUrl": "img/accommodation/article/rooms/room1/fullSize/booksRoom.jpg"
+      },
+      {
+        "text": "Little house room - 2 persons",
+        "thumbnailUrl": "img/accommodation/article/rooms/room2/thumbnail/littleHouseRoom.jpg",
+        "fullSizeUrl": "img/accommodation/article/rooms/room2/fullSize/littleHouseRoom.jpg"
+      },
+      {
+        "text": "Upstairs room - 3 persons",
+        "thumbnailUrl": "img/accommodation/article/rooms/room3/thumbnail/upstairsRoom.jpg",
+        "fullSizeUrl": "img/accommodation/article/rooms/room3/fullSize/upstairsRoom.jpg"
+      }
+    ]
+  },
+  {
+    "id": "otherActivitiesFirstPart",
+    "textContent": "It is not mandatory to participate to the activities described above - they can be completed or replaced with many other options. If you wish you can stay home and relax (see the activities list bellow) or <b>visit other objectives from our area</b> (see the ",
+    "seeAlso": [
+      {
+        "text": "trails and attractions page)",
+        "textOnMouseOver": "Click here...",
+        "link": "en/activities#trailsAndAttractions",
+        "openInNewTab": true
+      }
+    ]
+  },
+  {
+    "id": "otherActivitiesSecondPart",
+    "textContent": "<b>Library</b> - we have many books that you can read but most of them are in romanian (don't miss the newspapers and the books about Roșia) <br><b>Hammocks</b> with a view and <b>wifi</b> access - relax in our yard <br><b>Playground</b> for children - beside our house <br><b>Movie projections</b> about Rosia Montana past. The projector can be mounted in the garden or in the rooms. <br><b>Board games</b> - In the library can be found many board games (Activity, Risk, Catan) <br><b>Sleighing</b> - we have 2 sleighs that you can use during the winter on the sleigh slope beside the house <br><b>Badminton, tennis, football</b> - we have paddles, balls and at ~15min walking is a synthetic field.",
+    "images": [
+      {
+        "text": "You can read books from our <b>library</b> (most of them were inherited from our grandparents).",
+        "thumbnailUrl": "img/accommodation/article/rooms/common/thumbnail/books.jpg",
+        "fullSizeUrl": "img/accommodation/article/rooms/common/fullSize/books.jpg"
+      },
+      {
+        "text": "We have a yard with gazebo, hammocks, wifi and sometimes we make movie projections for our guests.",
+        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/garden-hammock-gazebo-movie.jpg",
+        "fullSizeUrl": "img/accommodation/article/outside/fullSize/garden-hammock-gazebo-movie.jpg"
+      },
+      {
+        "text": "We have equipment for badminton, tennis, football or sleighing. Beside the house is a playground, a slight slope and at ~15min is a synthetic field.",
+        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/childrenPark-tennis-sleight.jpg",
+        "fullSizeUrl": "img/accommodation/article/outside/fullSize/childrenPark-tennis-sleight.jpg"
+      }
+    ]
+  },
+  {
+    "id": "guideBikeOnTrail",
+    "title": "<b>Guide or bike for this trail?</b>",
+    "textContent": "To discover and understand the story of the places you will pass by and also to reach them faster and easier, we recommend to make this trail with a guide, by foot or by bike. Beside the touristic guidance services we can also offer bikes for rent and technical assistance for bikes on the trail (if needed). More details about:",
+    "seeAlso": [
+      {
+        "text": "<br><i class='fa fa-blind'></i> <b>guided trails</b> - see here...",
+        "textOnMouseOver": "Click here...",
+        "link": "en/accommodation#guide",
+        "openInNewTab": true
+      },
+      {
+        "text": "<br><i class='fa fa-bicycle'></i> <b>rent bikes</b> - see here...",
+        "textOnMouseOver": "Click here...",
+        "link": "en/accommodation#bike",
+        "openInNewTab": true
+      }
+    ]
+  },
+  {
+    "id": "readOurReviews",
+    "title": ".",
+    "textContent": "Here will end our trip - before leaving please tell us your suggestions about this tour. The opinions of those who visted us can be found on ",
+    "seeAlso": [
+      {
+        "text": "reviews page",
+        "textOnMouseOver": "Click here...",
+        "link": "en/review",
+        "openInNewTab": false
+      }
+    ],
+    "images": [
+      {
+        "text": "With a group from România.",
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/alexandra-postelnicu.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/alexandra-postelnicu.jpg"
+      },
+      {
+        "text": "With a group from Suedia.",
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/simona-sweden.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/simona-sweden.jpg"
+      },
+      {
+        "text": "With a group from India and Taiwan.",
+        "thumbnailUrl": "img/reviews/article/reviewer/thumbnail/11.jpg",
+        "fullSizeUrl": "img/reviews/article/reviewer/fullSize/11.jpg"
+      }
+    ]
+  },
+  {
+    "id": "otherInfoTours",
+    "textContent": "<b><i class='fa fa-suitcase'></i> Equipment</b> recommended - rain coat, mountain boots and sun protection. <br><br><b><i class='fa fa-users'></i> Minim: 4 participants needed</b> (or else the tour can be canceled - we will anounce the ones subscribed with 3 days before) | <b>Maximum: 15 participants</b>. <br><br><b><i class='fa fa-child'></i> Childs</b> - you can come with the little ones, our recommendation is to be at least 10 years old. <br><br><b><i class='fa fa-calendar'></i> Other period?!</b> - If you can't participate in the specified period please write us when could you come in the 'Other details' box form the reservation form bellow and we will contact you by email or phone to tel you if this will be possible then. <br><br><b><i class='fa fa-car'></i> Transport</b> - we can take 3 persons from Cluj Romania and split the cost for gas (~10€/pers) - write us in the 'Other details' box from the reservation form if you prefer this option. If you come by car set on google maps gps 'Casa Petri Rosia Montana'. ",
+    "seeAlso": [
+      {
+        "text": "See here other ways to reach us...",
+        "textOnMouseOver": "Click here...",
+        "link": "en/accommodation#directions",
+        "openInNewTab": true
+      }
+    ]
+  },
+  {
+    "id": "tourReservationInfo",
+    "textContent": "The recommended donations for: <br>- <b>guided tours</b> (made by a local guide) ~10€/pers/day. <br>- <b>meals at locals</b> - we propose to take the breakfast and launch ~12€/pers/day (if you want this option fill the box below. If you are vegetarian or other preferences write us in the 'Other details' box. If not you can use the kitchen). <br>The prices for <b>accommodation</b> can be found in the form, depending on the chosen room."
+  },
+  {
+    "id": "seeOurFacebookEvent",
+    "textContent": "<b>Not sure yet if you will be able to participate?</b> <br>Go on the related facebook event and click on 'Interested' to receive reminders.",
+    "seeAlso": [
+      {
+        "text": "The event can be found here",
+        "textOnMouseOver": "click here...",
+        "link": "https://www.facebook.com/pg/casapetrirosiamontana/events",
+        "openInNewTab": true
+      }
+    ]
+  }
+]

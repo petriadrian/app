@@ -18,7 +18,7 @@
   },
   "leftButtons": [
     {
-      "text": "<i class='fas fa-map-signs fa-lg'></i> See & do",
+      "text": "See & do",
       "url": {
         "link": "en/activities",
         "textOnMouseOver": "hiking or cycling gps trails, guided trails, hammocks, tennis, running",
@@ -26,10 +26,34 @@
       }
     },
     {
-      "text": "<i class='fas fa-bed fa-lg'></i> Plan your trip",
+      "text": "Sleep & eat",
       "url": {
         "link": "en/accommodation",
         "textOnMouseOver": "accommodation, camping, guided tours, bikes rent, food info - bookings",
+        "openInNewTab": false
+      }
+    },
+    {
+      "text": "Guide",
+      "url": {
+        "link": "en/accommodation#guidedTrails",
+        "textOnMouseOver": "guided tours with locals",
+        "openInNewTab": false
+      }
+    },
+    {
+      "text": "Events",
+      "url": {
+        "link": "en/home#events",
+        "textOnMouseOver": "events and packages",
+        "openInNewTab": false
+      }
+    },
+    {
+      "text": "PhotoBlog",
+      "url": {
+        "link": "en/home#photoblog",
+        "textOnMouseOver": "photo articles from Rosia",
         "openInNewTab": false
       }
     }
@@ -44,11 +68,11 @@
       }
     },
     {
-      "text": "<i class='fa fa-lg fa-gift'></i> Packages",
+      "text": "Bookings",
       "style": "background-color: #a25222",
       "url": {
-        "link": "en/accommodation#packages",
-        "textOnMouseOver": "packages (accommodation + activities)",
+        "link": "en/accommodation#bookings",
+        "textOnMouseOver": "accommodation + food + activities",
         "openInNewTab": false
       }
     }
@@ -73,7 +97,7 @@
     {
       "text": "<i class='fas fa-map-marker-alt fa-lg'></i>",
       "url": {
-        "link": "https://www.google.ro/maps/dir//Casa+Petri,+DC146+334,+Ro%C8%99ia+Montan%C4%83+517615/@46.4076261,22.8131462,9z/data=!4m13!1m4!3m3!1s0x474ecce046c99d41:0xc76f83a95070630c!2sCasa+Petri!3b1!4m7!1m0!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754?hl=ro",
+        "link": "https://www.google.en/maps/dir//Casa+Petri,+DC146+334,+Ro%C8%99ia+Montan%C4%83+517615/@46.4076261,22.8131462,9z/data=!4m13!1m4!3m3!1s0x474ecce046c99d41:0xc76f83a95070630c!2sCasa+Petri!3b1!4m7!1m0!1m5!1m1!1s0x474ecce046c99d41:0xc76f83a95070630c!2m2!1d23.13005!2d46.306754?hl=ro",
         "textOnMouseOver": "how to reach us?",
         "openInNewTab": true
       }

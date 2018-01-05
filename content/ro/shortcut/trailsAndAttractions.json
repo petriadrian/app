@@ -1,0 +1,13 @@
+{
+  "presentation": {
+    "title": "Trasee și atracții",
+    "descriptionTitle": "Ce mai poți vizita în zonă?",
+    "description": "Vezi aici atracțiile din zona noastră legate prin trasee de drumeție sau bicicletă cu hărți online ce au plecarea de la casa Petri",
+    "smallBoxImg": "img/trails/shortcut.jpg"
+  },
+  "url": {
+    "link": "ro/activities#trailsAndAttractions",
+    "textOnMouseOver": "Vezi mai mult...",
+    "openInNewTab": false
+  }
+}
