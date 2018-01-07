@@ -288,7 +288,6 @@ footer section,
 footer .row section {
     margin: 1% 0px;
     overflow: hidden;
-    float: none;
     display: inline-block;
     vertical-align: middle;
 }
@@ -302,17 +301,13 @@ footer .row section {
     color: white;
     border-radius: 3px;
     padding: 3px 12px;
-}
-
-.footerFeedback button,
-.footerFeedback button:HOVER,
-.footerFeedback button:FOCUS {
     border: 1px solid #cccccc;
 }
 
 .footerFeedback button:HOVER,
 .footerFeedback button:FOCUS {
     background-color: #157f15;
+    border: 1px solid #cccccc;
 }
 
 .topBottomMargins {

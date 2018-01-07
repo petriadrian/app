@@ -42,9 +42,9 @@
       }
     },
     {
-      "text": "Events",
+      "text": "Packages",
       "url": {
-        "link": "en/home#events",
+        "link": "en/home#packages",
         "textOnMouseOver": "events and packages",
         "openInNewTab": false
       }
@@ -73,6 +73,14 @@
       "url": {
         "link": "en/accommodation#bookings",
         "textOnMouseOver": "accommodation + food + activities",
+        "openInNewTab": false
+      }
+    },
+    {
+      "text": "Reviews",
+      "url": {
+        "link": "en/review",
+        "textOnMouseOver": "click to open reviews",
         "openInNewTab": false
       }
     }

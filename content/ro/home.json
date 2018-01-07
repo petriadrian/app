@@ -189,8 +189,8 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-calendar'></i> Evenimente",
-      "sectionId": "events",
+      "text": "<i class='fa fa-calendar'></i> Pachete",
+      "sectionId": "packages",
       "addLinkInPageHeadline": false
     },
     {

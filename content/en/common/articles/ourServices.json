@@ -1,7 +1,7 @@
 [
   {
     "id": "food",
-    "textContent": "The options for taking the meal are: <br><b>Homemade meals at locals</b> - some of our neighbours offers traditional meals at their place. The recommended donations are ~5€/pers/breakfast, ~7€/person/lunch. If you wish to eat at locals please inform us when you make a booking or you will find a list in the room and you can call them. <br><b>Each room has a kitchen</b> - perfect to prepare breakfast or dinner and you can also use the barbecue from garden. We have 2 <b>grocery stores</b> around (~2min).",
+    "textContent": "The options for taking the meal are: <br><b>Homemade meals at locals</b> - some of our neighbours offers traditional meals at their place - check this option you make a booking and will give more details. <br><b>Each room has a kitchen</b> - perfect to prepare breakfast or dinner and you can also use the barbecue from garden. We have 2 <b>grocery stores</b> around (~2min).",
     "images": [
       {
         "text": "A glass of 'țuica', before dinner at locals, with a group from Germany.",
@@ -65,7 +65,7 @@
   },
   {
     "id": "bike",
-    "textContent": "We have a bike center with equipment and <b>bikes for rent</b> at 12€/bike/day or we can also offer <b>mechanical assistance</b> for your bike or tools. To find out more about the places you visit by bike or mechanical assistance on the trail, we can offer <b>guided bike trails</b>. Please specify when you make a booking if you want to rent bikes or guided bike trails.",
+    "textContent": "We have a bike center with equipment and <b>bikes for rent</b> or we can also offer <b>mechanical assistance</b> for your bike or tools. To find out more about the places you visit by bike or mechanical assistance on the trail, we can offer <b>guided bike trails</b>. Please specify when you make a booking if you want to rent bikes or guided bike trails.",
     "images": [
       {
         "text": "We have a small bike rental center. If you come with your personal bike we can help you fixing it (if needed).",

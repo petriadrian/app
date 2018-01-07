@@ -198,8 +198,8 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-calendar'></i> Events",
-      "sectionId": "events",
+      "text": "<i class='fa fa-calendar'></i> Packages",
+      "sectionId": "packages",
       "addLinkInPageHeadline": false
     },
     {

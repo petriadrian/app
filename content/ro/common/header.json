@@ -42,9 +42,9 @@
       }
     },
     {
-      "text": "Evenimente",
+      "text": "Pachete",
       "url": {
-        "link": "ro/home#events",
+        "link": "ro/home#packages",
         "textOnMouseOver": "evenimente și pachete",
         "openInNewTab": false
       }
@@ -73,6 +73,14 @@
       "url": {
         "link": "ro/accommodation#bookings",
         "textOnMouseOver": "cazare, mâncare, activități",
+        "openInNewTab": false
+      }
+    },
+    {
+      "text": "Reviews",
+      "url": {
+        "link": "ro/review",
+        "textOnMouseOver": "click pentru a deschide pagina cu review-uri",
         "openInNewTab": false
       }
     }

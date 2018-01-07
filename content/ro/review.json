@@ -13,7 +13,7 @@
   },
   "metaData": {
     "title": "Review-uri Casa Petri Rosia Montana",
-    "description": "Oameni faini, de la care am avut multe de învățat, ne-au trecut pragul. Vezi aici experiențele și impresiile lor. Unii pot fi chiar contactați. Descoperă și tu Roșia Montană prin traseele de drumeție sau bicicletă de pe site. Rezervă camere, biciclete, trasee ghidate, campare.",
+    "description": "Oameni faini, de la care am avut multe de învățat, ne-au trecut pragul.",
     "displayOnShareImg": "img/reviews/presentation/displayOnShareImg.jpg"
   },
   "config": {
@@ -22,7 +22,7 @@
   "sections": [
     {
       "type": "title",
-      "text": "<i class='fa fa-comments'></i> Reviews",
+      "text": "<i class='far fa-comments'></i> Reviews",
       "sectionId": "reviews",
       "addLinkInPageHeadline": true
     },
@@ -30,7 +30,21 @@
       "type": "articles",
       "specificArticles": [
         {
-          "textContent": "Oameni faini, de la care am avut multe de învățat, ne-au trecut pragul. Impresiile sunt luate din caietul pentru review-uri al Casei Petri pe care îl găsiți prin camere. Vă așteptă să îl răsfoiți și să îl completați și voi."
+          "textContent": "Ne-au vizitat oameni faini de la care am avut multe de învățat, ținem foarte mult la recomadările primite și datorită lor reușim să ne îmbnunătățim zi de zi. Vezi mai jos cum s-au simțit, iar la final lasă-ne și tu o impresie. Pe lângă acestea:",
+          "seeAlso": [
+            {
+              "text": "<br>- vezi și review-urile de pe <i class='fab fa-facebook-square fa-lg'></i> <b>facebook</b>",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.facebook.com/pg/casapetrirosiamontana/reviews",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br>- vezi și review-urile de pe <i class='fab fa-tripadvisor fa-lg'></i> <b>tripadvisor</b>",
+              "textOnMouseOver": "Click aici...",
+              "link": "https://www.tripadvisor.com/Hotel_Review-g9998203-d9871602-Reviews-Casa_Petri_Rosia_Montana-Rosia_Montana_Alba_County_Central_Romania_Transylvania.html#REVIEWS",
+              "openInNewTab": true
+            }
+          ]
         }
       ]
     },
@@ -94,16 +108,46 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-pencil-square-o'></i> Adaugă un review",
+      "text": "<i class='far fa-edit'></i> Adaugă un review",
       "sectionId": "addReview",
       "addLinkInPageHeadline": true
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Te rugăm să adaugi review-ul pe facebook sau tripadvisor deoarece au un impact vizual mai mare (apoi îl vom importa și la noi pe site):",
+          "seeAlso": [
+            {
+              "text": "<br> + adaugă review pe <i class='fab fa-facebook-square'></i> <b>facebook</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.facebook.com/pg/casapetrirosiamontana/reviews",
+              "openInNewTab": true
+            },
+            {
+              "text": "<br> + adaugă review pe <i class='fab fa-tripadvisor'></i> <b>tripadvisor</b>",
+              "textOnMouseOver": "Click here...",
+              "link": "https://www.tripadvisor.com/Hotel_Review-g9998203-d9871602-Reviews-Casa_Petri_Rosia_Montana-Rosia_Montana_Alba_County_Central_Romania_Transylvania.html#REVIEWS",
+              "openInNewTab": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "specificArticles": [
+        {
+          "textContent": "Dacă nu, adaugă review direct pe site-ul nostru:"
+        }
+      ]
     },
     {
       "type": "form",
       "sendEmailTitle": "newReview",
       "successMessage": "Vă mulțumim! Părerea dumneavoastră îi va ajuta pe alți turiști în a alege Roșia ca destinație de vacanță.",
       "errorMessage": "EROARE! Contactați-ne prin email sau telefon (le găsiți în footer)",
-      "submitButtonText": "Trimite",
+      "submitButtonText": "Trimite review",
       "fields": [
         {
           "type": "textarea",

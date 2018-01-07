@@ -1,7 +1,7 @@
 [
   {
     "id": "food",
-    "textContent": "Variantele propuse pentru luatul mesei sunt: <br><b>Masa la localnici în sat</b> - avem vecini care oferă mese tradiționale, la ei în ogradă. Donațiile recomandate sunt ~15lei/pers/mic dejun, ~25lei/pers/prânz. Dacă doriți să luați masa la localnici specificați la efectuarea unei rezervări sau o să găsiți în cameră o listă cu aceștia și îi puteți suna. <br><b>Bucătăriile din camere</b> - sunt ideale pentru a prepara micul dejun sau cina, iar în grădină avem și un grătar. Lângă noi (~2min) sunt 2 <b>magazine alimentare</b>.",
+    "textContent": "Variantele propuse pentru luatul mesei sunt: <br><b>Masa la localnici în sat</b> - avem vecini care oferă mese tradiționale, la ei în ogradă. Bifați acestă opțiune la efectuarea unei rezervări și vom reveni cu mai multe detalii. <br><b>Bucătăriile din camere</b> - sunt ideale pentru a prepara micul dejun sau cina, iar în grădină avem și un grătar. Lângă noi (~2min) sunt 2 <b>magazine alimentare</b>.",
     "images": [
       {
         "text": "La un pahar de țuică, înainte de masa la localnici, cu un grup din Germania.",
@@ -67,7 +67,7 @@
   },
   {
     "id": "bike",
-    "textContent": "Avem un centru cu echipamente și <b>biciclete de închiriat</b> la 50lei/bicicletă/zi sau putem oferi <b>asistență reparații</b> biciclete. Pentru a afla mai multe detalii despre locurile pe care o să le vizitați pe bicicletă sau asistență tehnică pe traseu, organizăm <b>trasee ghidate pe bicicletă</b>. La efectuarea unei rezervări specificați dacă doriți să închiriați biciclete sau trasee ghidate pe bicicletă.",
+    "textContent": "Avem un centru cu echipamente și <b>biciclete de închiriat</b> sau vă putem oferi <b>asistență reparații</b> biciclete. Pentru a afla mai multe detalii despre locurile pe care o să le vizitați pe bicicletă sau asistență tehnică pe traseu, organizăm <b>trasee ghidate pe bicicletă</b>. La efectuarea unei rezervări specificați dacă doriți să închiriați biciclete sau trasee ghidate pe bicicletă.",
     "images": [
       {
         "text": "Dispunem de un mic centru de închiriat biciclete. În caz că veniți cu bicicleta personală vă putem ajuta cu reparații în caz că va fi nevoie.",
