@@ -189,34 +189,6 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-calendar'></i> Pachete",
-      "sectionId": "packages",
-      "addLinkInPageHeadline": false
-    },
-    {
-      "type": "articles",
-      "specificArticles": [
-        {
-          "textContent": "Aici găsești activități și evenimente ce au loc în Roșia Montana sau în zonă."
-        }
-      ]
-    },
-    {
-      "type": "linkToOtherPages",
-      "detailBoxes": [
-        {
-          "page": "ro/events/hayDays"
-        },
-        {
-          "page": "ro/events/marathon"
-        },
-        {
-          "page": "ro/events/monumentsRestorations"
-        }
-      ]
-    },
-    {
-      "type": "title",
       "text": "<i class='far fa-images'></i> FotoBlog",
       "sectionId": "photoblog",
       "addLinkInPageHeadline": false

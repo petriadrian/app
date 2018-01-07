@@ -198,28 +198,6 @@
     },
     {
       "type": "title",
-      "text": "<i class='fa fa-calendar'></i> Packages",
-      "sectionId": "packages",
-      "addLinkInPageHeadline": false
-    },
-    {
-      "type": "articles",
-      "specificArticles": [
-        {
-          "textContent": "Events from Roșia Montana and surroundings."
-        }
-      ]
-    },
-    {
-      "type": "linkToOtherPages",
-      "detailBoxes": [
-        {
-          "page": "en/events/marathon"
-        }
-      ]
-    },
-    {
-      "type": "title",
       "text": "<i class='far fa-images'></i> FotoBlog",
       "sectionId": "photoblog",
       "addLinkInPageHeadline": false

@@ -25,13 +25,13 @@
     "textContent": "<b>Munții noștri aur poartă, noi vă aratăm unde e!</b> <br><br>Roșia Montană are un trecut de aur. Rolul și modul de funcționare al galeriilor, tăurilor, carierelor deschise și a altor obiective folosite în extracția aurului, trecutul clădirilor de patrimoniu din centrul istoric sau impactul megaproiectului de minerit propus de firma canadiană și protestele de atunci sunt doar câteva dintre motivele pentru care vă recomandăm să vizitați Roșia Montana împreună cu un ghid. Localitatea nu este amenajată în scop turistic și este destul de dificil să descoperiți toate acestea singuri. Ținem legătura cu ghizi locali ce organizează trasee ghidate pe jos sau pe bicicletă (cu asistență tehnică pe traseu). Dacă sunteți interesați de:",
     "seeAlso": [
       {
-        "text": "<br><i class='fa fa-arrow-right'></i> <b>trasee ghidate personalizate</b> - specificați la rezervarea unei camere și vă vom contacta telefonic - vezi aici",
+        "text": "<br><b>- trasee ghidate personalizate</b> - specificați la rezervarea unei camere și vă vom contacta telefonic - vezi aici",
         "textOnMouseOver": "Click aici...",
         "link": "ro/accommodation#bookings",
         "openInNewTab": false
       },
       {
-        "text": "<br><i class='fa fa-arrow-right'></i> <b>trasee ghidate standard</b> - vezi aici pachete cu trasee ghidate propuse",
+        "text": "<br><b>- trasee ghidate standard</b> - vezi aici pachete cu trasee ghidate propuse",
         "textOnMouseOver": "Click aici...",
         "link": "ro/accommodation#packages",
         "openInNewTab": false
@@ -57,22 +57,6 @@
         "text": "Traseu ghidat pe bicicletă, spre obiectivele naturale, cu un grup din Romania.",
         "thumbnailUrl": "img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_geamana.jpg",
         "fullSizeUrl": "img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_geamana.jpg"
-      },
-      {
-        "text": "Traseu ghidat pe bicicletă - din loc în loc ne oprim pentru a vă povesti despre locurile prin care trecem sau pentru asistență reparații bicicletă (dacă e cazul).",
-        "thumbnailUrl": "img/accommodation/article/guides/thumbnail/traseu_ghidat_bicicleta_reparatii.jpg",
-        "fullSizeUrl": "img/accommodation/article/guides/fullSize/traseu_ghidat_bicicleta_reparatii.jpg"
-      }
-    ]
-  },
-  {
-    "id": "bike",
-    "textContent": "Avem un centru cu echipamente și <b>biciclete de închiriat</b> sau vă putem oferi <b>asistență reparații</b> biciclete. Pentru a afla mai multe detalii despre locurile pe care o să le vizitați pe bicicletă sau asistență tehnică pe traseu, organizăm <b>trasee ghidate pe bicicletă</b>. La efectuarea unei rezervări specificați dacă doriți să închiriați biciclete sau trasee ghidate pe bicicletă.",
-    "images": [
-      {
-        "text": "Dispunem de un mic centru de închiriat biciclete. În caz că veniți cu bicicleta personală vă putem ajuta cu reparații în caz că va fi nevoie.",
-        "thumbnailUrl": "img/accommodation/article/bikes/thumbnail/bike_rent.jpg",
-        "fullSizeUrl": "img/accommodation/article/bikes/fullSize/bike_rent.jpg"
       },
       {
         "text": "Traseu ghidat pe bicicletă - din loc în loc ne oprim pentru a vă povesti despre locurile prin care trecem sau pentru asistență reparații bicicletă (dacă e cazul).",
@@ -124,27 +108,6 @@
         "textOnMouseOver": "Click aici...",
         "link": "ro/activities#trailsAndAttractions",
         "openInNewTab": true
-      }
-    ]
-  },
-  {
-    "id": "otherActivitiesSecondPart",
-    "textContent": "<b>Biblioteca</b> casei conține cărți și reviste pe care le puteți citi <br><b>Hamace</b> cu priveliște și acces <b>wifi</b> - în curtea casei <br><b>Parc de joacă</b> pentru copii - se află chiar lângă casă <br><b>Proiecții filme</b> și imagini despre Roșia în curtea casei sau în camere (avem proiector și se poate monta la cerere) <br><b>Board games</b> - în bibliotecă găsiți diferite jocuri de societate (Activity, Risk, Catan) <br><b>Derdeluș</b> - avem 2 sănii pe care le puteți folosi iarna pe derdelușul de lângă casă <br><b>Badminton, tenis, fotbal</b> - avem palete, rachete și mingi, iar la ~15min de mers pe jos este un teren sintetic.",
-    "images": [
-      {
-        "text": "Biblioteca cu cărți, reviste și ziare (multe dintre ele moștenite de la bunici).",
-        "thumbnailUrl": "img/accommodation/article/rooms/common/thumbnail/books.jpg",
-        "fullSizeUrl": "img/accommodation/article/rooms/common/fullSize/books.jpg"
-      },
-      {
-        "text": "Avem o curte cu iarbă verde, foișor, hamace, wifi și loc pentru proiecții filme.",
-        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/garden-hammock-gazebo-movie.jpg",
-        "fullSizeUrl": "img/accommodation/article/outside/fullSize/garden-hammock-gazebo-movie.jpg"
-      },
-      {
-        "text": "Avem echipament de badminton, tenis, fotbal sau săniuș. Lângă casă este un teren de joacă pentru copii și un derdeluș, iar la ~15min este un teren sintetic.",
-        "thumbnailUrl": "img/accommodation/article/outside/thumbnail/childrenPark-tennis-sleight.jpg",
-        "fullSizeUrl": "img/accommodation/article/outside/fullSize/childrenPark-tennis-sleight.jpg"
       }
     ]
   },

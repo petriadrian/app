@@ -36,16 +36,10 @@
                title="{{item.textOnMouseOver}}"
                ng-bind-html="item.text | trustHtml"></p>
         </div>
-
-        <script type="text/javascript" src="/scripts/enableIframeEventsOnClick.js"></script>
-        <div id="enableIframeEventsOnClick">
-            <iframe style="pointer-events: none;"
-                    class="iframe"
-                    frameborder="0"
-                    ng-src="{{article.iframe.src | trustUrl}}"
-                    allowfullscreen></iframe>
-        </div>
-
+        <iframe class="iframe"
+                frameborder="0"
+                ng-src="{{article.iframe.src | trustUrl}}"
+                allowfullscreen></iframe>
     </section>
 </article>
 

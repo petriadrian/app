@@ -25,12 +25,12 @@
     "textContent": "Rosia Montana has a golden past. How the gold mining worked through galleries, watter mills, pounds and open pits, the past of the heritage buildings from the historic center or the impact of the mega mining project proposed here by the canadian company and the massive streets protests against it are just a few reasons why we recommend to visit Roșia Montana with a guide. The locality is not really designed for tourism so it will be pretty difficult to see and find all this by your own. We stay in touch with local guides who offers guided tours by foot or by bike (also technical assistance on the road). So, if you are interested in:",
     "seeAlso": [
       {
-        "text": "<br><i class='fa fa-arrow-right'></i> <b>custom guided trails</b> - specify while booking a room and we will contact you by email or phone - see here",
+        "text": "<br><b>- custom guided trails</b> - specify while booking a room and we will contact you by email or phone - see here",
         "textOnMouseOver": "Click here...",
         "link": "en/accommodation#bookings"
       },
       {
-        "text": "<br><i class='fa fa-arrow-right'></i> <b>standard guided trails</b> - see here the packages with guided trails that we prepared",
+        "text": "<br><b>- standard guided trails</b> - see here the packages with guided trails that we prepared",
         "textOnMouseOver": "Click aici...",
         "link": "en/accommodation#packages"
       }
@@ -65,7 +65,7 @@
   },
   {
     "id": "bike",
-    "textContent": "We have a bike center with equipment and <b>bikes for rent</b> or we can also offer <b>mechanical assistance</b> for your bike or tools. To find out more about the places you visit by bike or mechanical assistance on the trail, we can offer <b>guided bike trails</b>. Please specify when you make a booking if you want to rent bikes or guided bike trails.",
+    "textContent": "We also <b>rent bikes</b> or in case of needed we can help you <b>fixing your bike</b>. To find out more about the places you visit by bike or mechanical assistance on the trail, we can offer <b>guided bike trails</b>. Please specify when you make a booking if you want to rent bikes or guided bike trails.",
     "images": [
       {
         "text": "We have a small bike rental center. If you come with your personal bike we can help you fixing it (if needed).",
